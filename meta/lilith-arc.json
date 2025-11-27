@@ -136,10 +136,10 @@
     {
       "chapter": 16,
       "level": "Final transformation",
-      "capabilities": "Either achieves enlightenment herself or transcends need for competition",
+      "capabilities": "Transcendence of individual identity",
       "limitations": "N/A - resolution",
-      "objective_this_chapter": "Resolution. Possible endings: (1) Silas's enlightenment somehow creates space for hers—the 'one Buddha' rule is transcended or revealed as misunderstood; (2) Witnessing his release, she finally releases her own grasping and achieves enlightenment in the same moment; (3) She remains trapped by her attachment, a tragic figure who had everything except the ability to let go; (4) Something stranger—their consciousnesses merge, revealing they were aspects of the same being all along.",
-      "emotional_state": "Whatever she becomes"
+      "objective_this_chapter": "Resolution: As Silas approaches full enlightenment, Lilith finally releases her grasping—and in that release, discovers they were never separate. Their consciousnesses merge to become Maitreya, the future Buddha. The 'one Buddha per world-system' rule was true, but she misunderstood it: there was only ever one Buddha-to-be, appearing as two until ready to unite.",
+      "emotional_state": "Release. Recognition. Union."
     }
   ],
   
@@ -148,19 +148,49 @@
     "chapters_7_11": "Increasingly direct confrontation—physical manifestations, sustained presence, desperate measures as she realizes he cannot be easily derailed",
     "chapter_12": "All-or-nothing gambit in the present day; intimate relationship as final weapon",
     "chapters_13_15": "Post-failure recalibration; the race to Buddhahood rather than prevention of his progress",
-    "chapter_16": "Resolution of the central question: can two beings compete for enlightenment, or does the competition itself prevent it?"
+    "chapter_16": "Resolution: their souls merge to become Maitreya, the future Buddha. The competition was illusory—they were two aspects of the same being all along."
+  },
+  
+  "appearance_across_lives": {
+    "consistency": "Same face across all incarnations—a beautiful, dark-haired woman. Silas never consciously recognizes her, but readers will learn to spot her.",
+    "recognition_markers": [
+      "Physical: Dark hair, specific eye color or feature TBD",
+      "Behavioral: A characteristic gesture or manner of speech",
+      "Situational: Often appears at moments of crisis or decision"
+    ],
+    "reader_experience": "By Chapter 7 (first physical manifestation), readers should recognize her immediately even though the avatar does not."
+  },
+  
+  "intervention_paradox": {
+    "description": "Every intervention backfires. Her attempts to derail him become the friction that forges his progress.",
+    "examples": [
+      "Ch 3: Devaka's betrayal teaches Chandra that true generosity cannot depend on reciprocity",
+      "Ch 8: The suffering of persecution becomes the crucible for releasing ill-will",
+      "Ch 9: Her philosophical challenges sharpen his understanding rather than destroying it"
+    ],
+    "thematic_meaning": "Opposition is necessary for enlightenment. Lilith is not the enemy of his awakening—she is its unwitting catalyst."
+  },
+  
+  "resolution": {
+    "type": "Merger into Maitreya",
+    "description": "Their souls merge to become Maitreya, the future Buddha prophesied in Buddhist texts. The 'one Buddha per world-system' rule was never the obstacle she thought—they were always two halves of the same future Buddha.",
+    "cosmic_irony": "Her eons of opposition were necessary. Without her resistance, he could not have developed. Without his progress, she could not have grown. They needed each other.",
+    "maitreya_references": "Buddhist texts prophesy Maitreya as the next Buddha who will appear when the dharma has been forgotten. The novel implies this Buddha is born from the union of two bodhisattvas who thought they were rivals."
   },
   
   "key_questions_resolved": [
     "What is Lilith's true nature? A rival bodhisattva, very close to enlightenment, who sees Silas as an existential threat.",
     "Why does she oppose Silas's enlightenment specifically? The one-Buddha-per-world-system rule means his success nullifies her eons of work.",
-    "Does she have her own spiritual progression? Yes—she's further along than almost any being, which is why she can manipulate reality. But her attachment to achieving Buddhahood is itself the obstacle."
+    "Does she have her own spiritual progression? Yes—she's further along than almost any being, which is why she can manipulate reality. But her attachment to achieving Buddhahood is itself the obstacle.",
+    "What is the resolution? Their souls merge to become Maitreya, the future Buddha. The competition was illusory.",
+    "Same face across lives? Yes—readers will recognize her before Silas does.",
+    "Do her interventions work? Never. They always backfire, becoming the catalyst for his growth."
   ],
   
   "questions_still_open": [
-    "What is the resolution—mutual enlightenment, her defeat, her transformation, merger?",
-    "Does she appear as the same person across lives, or different people?",
+    "Specific physical description of her consistent appearance",
+    "How do they meet in the present day? How does lover relationship begin?",
     "Does Silas ever recognize her across incarnations before Chapter 12?",
-    "What is the exact nature of their relationship in the present day? Lovers? Patient/therapist? Something else?"
+    "The exact mechanism of the merger in Chapter 16"
   ]
 }

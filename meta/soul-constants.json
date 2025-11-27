@@ -184,6 +184,23 @@
       "What is the relationship between love and attachment?",
       "Can two beings compete for transcendence, or is competition itself an obstacle?",
       "What persists when the self is illusion?"
-    ]
+    ],
+    "resolution": "The competition was illusory. Silas and Lilith were always two aspects of the same future Buddha—Maitreya. Their apparent opposition was the necessary friction through which that Buddha-to-be developed."
+  },
+  
+  "maitreya_resolution": {
+    "description": "In Chapter 16, Silas and Lilith's consciousnesses merge to become Maitreya, the future Buddha prophesied in Buddhist texts.",
+    "meaning": "The 'one Buddha per world-system' rule was true but misunderstood. There was only ever one Buddha-to-be, appearing as two until ready to unite.",
+    "foreshadowing_needed": [
+      "References to Maitreya throughout the novel",
+      "Moments where their separation seems artificial",
+      "Times when harming him causes her inexplicable pain",
+      "Imagery of two becoming one"
+    ],
+    "buddhist_context": {
+      "maitreya": "The prophesied future Buddha who will appear when the dharma has been forgotten",
+      "one_buddha_rule": "Only one Sammasambuddha can exist in a world-system at a time",
+      "other_buddhas": "Amitabha and others exist in different world-systems, referenced to establish cosmology"
+    }
   }
 }

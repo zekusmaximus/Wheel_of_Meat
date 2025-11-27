@@ -66,13 +66,38 @@ Patterns of circumstance that repeat across lives:
 
 ## Lilith Echoes
 
-How does Lilith's presence echo or rhyme across chapters?
+She appears with the same face across all incarnations. Readers should recognize her before Silas does.
 
-| Chapter | Her Form/Disguise | Recognition Moment | Pattern |
-|---------|------------------|-------------------|---------|
-| 2 | [TBD] | [TBD] | [TBD] |
-| 3 | Devaka connection? | [TBD] | [TBD] |
-| ... | | | |
+### Physical Consistency
+- Dark hair
+- [TBD: specific eye color, distinguishing feature]
+- [TBD: characteristic gesture]
+
+### Per-Chapter Appearances and Backfires
+
+| Chapter | Her Form/Role | Her Objective | How It Backfires |
+|---------|--------------|---------------|------------------|
+| 2 | Observer only | First awareness of Silas | Her observation may inadvertently strengthen his merit |
+| 3 | Works through Devaka | Betrayal to harden him against trust | Teaches him generosity cannot depend on reciprocity |
+| 4 | Dream figure | Corrupt altruism into martyrdom complex | [TBD] |
+| 5 | Circumstance manipulator | Create impossible moral dilemmas | [TBD] |
+| 6 | Influence on others | Turn renunciation into spiritual pride | [TBD] |
+| 7 | Physical: object of desire | Bind him through sensual attachment | [TBD] |
+| 8 | Inquisitor or fellow victim | Cultivate hatred of persecutors | Suffering becomes crucible for releasing ill-will |
+| 9 | Philosophical companion | Feed doubt until he abandons the path | Her challenges sharpen his understanding |
+| 10 | War manipulator | Make his sacrifices meaningless | [TBD] |
+| 11 | Femme fatale / client | Break his perseverance through repeated failure | [TBD] |
+| 12 | Lilith Azami, lover | Prevent stream-entry through attachment | Her desperation helps him see attachment clearly |
+
+### The Intervention Paradox
+Every attempt to derail him becomes the friction that forges his progress. She is not the enemy of his awakening—she is its unwitting catalyst. This is the cosmic irony: she was never his opponent. She was his necessary other half.
+
+### Foreshadowing the Merger
+Plant subtle hints that they are connected at a deeper level:
+- Moments where she hesitates, as if recognizing something
+- Times when harming him causes her inexplicable pain  
+- Dreams or visions where they appear as one being
+- [TBD: other foreshadowing elements]
 
 ---
 
@@ -96,3 +121,36 @@ When drafting any scene, check this document for:
 2. Any recurring images that should appear
 3. Whether Lilith should echo a previous appearance
 4. How the death (if applicable) connects to the next lesson
+
+---
+
+## Buddhist Cosmology References
+
+### The One-Buddha Rule
+Buddhist texts state that only one fully enlightened Buddha (Sammasambuddha) can exist in a world-system at a time. This creates the apparent conflict between Silas and Lilith.
+
+Key references to weave in:
+- Shakyamuni Buddha (Siddhartha Gautama) as the Buddha of our current era
+- Amitabha Buddha exists in a different world-system (Sukhavati/Pure Land)
+- Dipankara Buddha was a previous Buddha who prophesied Shakyamuni's enlightenment
+
+### Maitreya: The Future Buddha
+Maitreya is prophesied to appear when the dharma has been completely forgotten, to turn the wheel of dharma again.
+
+Key references:
+- Currently resides in Tushita heaven awaiting rebirth
+- Name means "loving-kindness" (metta/maitri)
+- In some traditions, associated with the bodhisattva of compassion
+
+### The Resolution's Meaning
+The merger into Maitreya suggests:
+- The competition was illusory—there was only ever one future Buddha
+- Silas and Lilith represent complementary aspects (perhaps wisdom and compassion, or effort and resistance)
+- The "one Buddha" rule was true but misunderstood
+- Opposition was necessary for the Buddha-to-be to develop fully
+
+### Foreshadowing Elements
+- References to Maitreya in early chapters (statues, texts, passing mentions)
+- The name "Maitreya" or "loving-kindness" appearing in unexpected contexts
+- Moments where duality collapses (two becoming one)
+- The title "The Wheel of Meat" could reference both samsara and the eventual turning of Maitreya's dharma wheel
