@@ -253,13 +253,35 @@ Based on what the Chapter 1 prose avoids:
 
 ## Application to Historical Chapters
 
+The core patterns persist but transform based on the consciousness available in each period.
+
+### The Transformation Principle
+
+Each core pattern has an equivalent that works within period/genre constraints:
+
+| Core Pattern | Contemporary Expression | Prehistoric Expression |
+|--------------|------------------------|------------------------|
+| Undermining clause | Grammatical complexity | Paratactic contradiction |
+| Sensory anchoring | Observed environment | Felt body |
+| Loaded gestures | Small movements | Survival actions |
+| Environmental metaphor | Setting mirrors emotion | Self and world unified |
+| Parallel construction | Balanced clauses | Ritual repetition |
+
+The FUNCTION persists. The METHOD adapts.
+
 ### Prehistoric (Chapter 2 - Ka)
 
-- Vocabulary: Concrete nouns, sensory verbs, no abstractions
-- Sentence structure: Shorter, more paratactic (and...and...and)
-- Interiority: Rendered through body sensation, not thought
-- Dialogue: Minimal or none; communication through action
-- Maintain: Loaded gestures, environmental metaphor, undermining clauses
+**Demonstrated in draft.** Key techniques:
+- **Kenning-like compounds**: "small-quick-scratchers," "big-nose beast," "white-ground"
+- **Body-thought**: Abstract concepts rendered through physical sensation
+- **Observation-as-omen**: Environment read as prophetic text
+- **Ritual catalog**: Lists that accumulate into ceremony
+
+Vocabulary: Concrete nouns, sensory verbs, no abstractions
+Sentence structure: Shorter, paratactic (and...and...and)
+Interiority: Rendered through body sensation, not thought
+Dialogue: Minimal or none; communication through action
+Maintain: Loaded gestures, environmental metaphor, undermining through juxtaposition
 
 ### Ancient/Classical (Chapters 3-6)
 
