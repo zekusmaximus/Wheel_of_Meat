@@ -1,130 +1,171 @@
 # Style Rules: The Wheel of Meat
 
-## Universal Rules (Apply to All Chapters)
-
-### POV Convention
-- Close third person throughout
-- Stay inside the avatar's consciousness; no head-hopping
-- Lilith scenes: when she appears, we stay in the avatar's POV—her interiority is never shown until [TBD - resolution chapter?]
-
-### Prose Principles
-- [TBD - Jeffrey's baseline style preferences]
-- Avoid filter verbs where possible ("he saw," "she felt," "he noticed")
-- Sensory grounding in each scene's opening
-- [TBD - sentence rhythm preferences]
-- [TBD - dialogue attribution style]
-
-### Forbidden Elements
-- No anachronistic language in historical chapters (see period-rules.md per chapter)
-- No breaking POV
-- No Lilith interiority until designated chapter
-- [TBD - any words/phrases to avoid?]
-
-### Soul Continuity
-When drafting any avatar, subtly include:
-- [TBD - recognition marker 1]
-- [TBD - recognition marker 2]
-- [TBD - recognition marker 3]
-
-These should be woven in naturally, not flagged for the reader.
+Derived from Chapter 1. See `voice-analysis.md` for full breakdown with examples.
 
 ---
 
-## Genre-Specific Modulations
+## Universal Rules (Apply to All Chapters)
 
-Each chapter adjusts prose style to honor its genre while maintaining novel unity:
+### POV Convention
+- Third person throughout, close but not intimate
+- Follow both Silas-avatar and Lilith, but don't fully inhabit either
+- Lilith's interiority is partially veiled until Chapter 16
+- Interior states rendered through external observation when possible
 
-### Literary Fiction (Ch 1, 12)
-- Baseline contemporary literary style
-- Introspective but not navel-gazing
-- Grounded in physical reality of Manchester
+### Core Prose Patterns
 
-### Survival Horror/Action (Ch 2)
-- Shorter sentences during action
-- Visceral sensory detail
-- Limited vocabulary appropriate to prehistoric consciousness
-- Present-tense sensory immediacy even if past-tense narrative
+**1. The Undermining Clause**
+Nearly every observation is complicated by a second element:
+- "A gesture that seemed both innocent and calculated."
+- "An easy empathy almost contrived."
+- Surface acknowledged, then complicated or contradicted.
 
-### Political Thriller (Ch 3)
-- Tension through information asymmetry
-- Dialogue carrying subtext
-- Period-appropriate formality
+**2. Sensory Anchoring**
+Every scene opens with physical grounding before interiority:
+- Environment first, then character action/thought
+- Sensory details specific and metaphorically weighted
 
-### Historical Tragedy (Ch 4)
-- Elevated but not purple prose
-- Classical rhetorical patterns in dialogue
-- Weight and consequence in sentence structure
+**3. Loaded Gestures**
+Physical actions carry psychological/spiritual significance:
+- Small movements encoded with meaning
+- The prose may gloss what the gesture signifies, but subtly
 
-### Mystery/Philosophical Drama (Ch 5)
-- Procedural clarity
-- Stoic restraint in emotional expression
-- Logical progression of investigation
+**4. Environmental Metaphor**
+Setting elements mirror or comment on action:
+- Weather, light, space reflect emotional/spiritual states
+- Persistent but not heavy-handed
 
-### Spiritual Drama/Magical Realism (Ch 6)
-- Contemplative pacing
-- Desert imagery and ascetic atmosphere
-- Thin line between vision and reality
+**5. Parallel Construction**
+Mirrored phrases for balance and thematic opposition:
+- Used for philosophical content
+- Used to contrast states or characters
+- Creates incantatory rhythm in spiritual moments
 
-### Gothic Romance (Ch 7)
-- Sensory lushness, especially visual
-- Emotional intensity
-- Heian court aesthetics: indirect expression, poetry, layered meaning
+### Sentence-Level
 
-### Psychological Horror/Thriller (Ch 8)
-- Claustrophobic interiority
-- Paranoia and uncertainty
-- Physical threat rendered through psychological pressure
+- Favor compound sentences with pivot points (setup, then turn)
+- Deliberate fragments for emphasis, especially in pairs/triads
+- Speech acts accompanied by physical action or vocal quality
+- Dialogue tags often omitted when action makes speaker clear
 
-### Philosophical Adventure/Swashbuckling (Ch 9)
-- Witty dialogue
-- Action balanced with ideas
-- Renaissance energy and curiosity
+### Forbidden Patterns
 
-### War Epic (Ch 10)
-- Scale and consequence
-- Individual against historical forces
-- Violence with weight, not glorified
+1. **No filter verbs without purpose** — "he saw," "she felt" only when perception itself matters
+2. **No unearned interiority** — thoughts are brief, observed, not pages of monologue
+3. **No dialogue without action** — speech is embodied
+4. **No setting without meaning** — every environmental detail carries weight
+5. **No single-register dialogue** — characters shift speech based on context/power
+6. **No simple statements** — complicate with second clause or observation
 
-### Noir (Ch 11)
-- First-person-inflected third (voice feels first-person even if it's third)
-- Cynical surface, moral core
-- Clipped dialogue, atmospheric description
-- Rain, shadows, moral ambiguity
+### Soul Continuity
 
-### Cosmic Fantasy (Ch 13)
-- [TBD - non-physical realm style]
+When drafting any avatar, subtly include:
+- **Physical marker**: [TBD - consistent across lives]
+- **Behavioral marker**: A habitual gesture or approach to problems
+- **Situational marker**: Drawn to certain types of situations/people
 
-### Science Fiction (Ch 14, 15)
-- [TBD - future/space style]
+The compulsive helping flaw manifests differently in each life but is always present.
 
-### Transcendent (Ch 16)
-- [TBD - enlightenment resolution style]
+---
+
+## Dialogue Dynamics
+
+### Register as Power
+
+- When Lilith shifts to clinical language → she's retreating/deflecting
+- When Silas quotes philosophy → he's asserting/grounding
+- Professional jargon = armor
+- Intimate probing = manipulation or genuine connection (ambiguous)
+
+### Conversation Modes
+
+1. **Playful banter** — surface intimacy, fencing
+2. **Professional distance** — psychiatric/philosophical terminology
+3. **Intimate probing** — direct questions about spiritual state
+4. **Philosophical sparring** — ideas as weapons
+
+---
+
+## Genre Modulations
+
+The core patterns persist. Surface elements adjust:
+
+### Vocabulary by Period
+
+| Period | Register | Notes |
+|--------|----------|-------|
+| Prehistoric | Concrete nouns, sensory verbs, no abstractions | Communication through action |
+| Ancient/Classical | Period-appropriate, not archaic pastiche | May include aphorisms |
+| Medieval/Early Modern | Genre-colored formality | Gothic = lush; Adventure = energetic |
+| Modern | Genre-specific (Noir vs. War Epic) | Noir = clipped; War = expansive |
+| Cosmic | Abstract, synesthetic, neologism-possible | Syntax may break |
+
+### Sentence Structure by Genre
+
+| Genre | Pattern |
+|-------|---------|
+| Survival Horror (Ch 2) | Shorter, paratactic; interiority through body sensation |
+| Political Thriller (Ch 3) | Tension through information asymmetry; subtext-heavy dialogue |
+| Historical Tragedy (Ch 4) | Weight and consequence; classical rhetorical patterns |
+| Mystery/Drama (Ch 5) | Procedural clarity; Stoic restraint |
+| Spiritual Drama (Ch 6) | Contemplative pacing; thin line between vision/reality |
+| Gothic Romance (Ch 7) | Sensory lushness; emotional intensity; layered meaning |
+| Psychological Horror (Ch 8) | Claustrophobic interiority; paranoia; physical threat through psychology |
+| Philosophical Adventure (Ch 9) | Witty dialogue; action balanced with ideas |
+| War Epic (Ch 10) | Scale and consequence; violence with weight |
+| Noir (Ch 11) | First-person-inflected third; clipped dialogue; atmospheric |
+| Cosmic/Transcendent (Ch 13-16) | Perspectives may merge; "I" becomes unstable |
+
+### What Must Persist Regardless of Genre
+
+1. The undermining clause — duality in every observation
+2. Sensory anchoring — environment before interiority
+3. Loaded gestures — physical action carrying meaning
+4. Parallel construction — especially for thematic content
+5. Register shifts in dialogue — power dynamics through language
+6. Environmental metaphor — setting reflecting state
+
+---
+
+## Lilith's Consistent Appearance
+
+She appears with the same face across all incarnations:
+- Dark hair
+- [TBD: specific eye color, distinguishing feature]
+- [TBD: characteristic gesture]
+
+Readers should recognize her before the avatar does. Her appearances often coincide with moments of crisis or decision.
 
 ---
 
 ## Voice Samples
 
-[To be added: 3-5 passages that exemplify target prose, annotated]
+### Opening a scene:
+> "The sunset painted warning colors across Lilith's skin as she sat on the edge of the bed, her silhouette a dark promise against the dying light."
 
-### Sample 1: [Source]
-```
-[Passage]
-```
-**What works:** [Analysis]
+### Moment of insight:
+> "A wave of release washed over Silas. A weight he didn't know he had been carrying suddenly vanished, a profound peace almost lifting him from the ground."
 
-### Sample 2: [Source]
-```
-[Passage]
-```
-**What works:** [Analysis]
+### Character observation with complication:
+> "The apprehension in her eyes wasn't apparent. To Silas it was an expectant look, as if she was wondering if the meditation technique was working. His affirmation slipped as something else betrayed itself in her gaze."
+
+### Dialogue with embedded action:
+> "'I have a new practice for you, to complement your mantra.' The smile was back, her eyes bright in the way they were when they had first met. A single drop of rain from the sky hit her cheek, glistening as it rolled down."
 
 ---
 
 ## Revision Checklist
 
 Before marking any scene complete, verify:
+
+- [ ] Opens with sensory anchor
+- [ ] Contains at least one undermining clause
+- [ ] Physical gestures carry meaning
+- [ ] Dialogue shifts register based on power dynamics
+- [ ] Environment reflects emotional/spiritual state
+- [ ] No filter verbs without purpose
+- [ ] No unearned interiority
 - [ ] POV consistent throughout
-- [ ] No filter verbs (or used sparingly with purpose)
 - [ ] Recognition markers present (subtle)
 - [ ] Genre conventions honored
 - [ ] No anachronisms
