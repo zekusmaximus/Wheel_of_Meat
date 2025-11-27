@@ -1,0 +1,189 @@
+{
+  "soul_identity": {
+    "core_name": "Silas-soul",
+    "description": "A consciousness working toward enlightenment across multiple lifetimes",
+    "current_incarnation": "Silas Pahlavan"
+  },
+  
+  "persistent_traits": {
+    "core_flaw": {
+      "name": "Compulsive helping",
+      "description": "An attachment to being the one who fixes, saves, or guides others",
+      "manifestation_pattern": "In each life, this manifests as the avatar's particular form of trying to help—sometimes noble, sometimes misguided, always with an underlying attachment to the helper identity",
+      "per_incarnation_notes": {}
+    },
+    "recognition_markers": {
+      "description": "Subtle indicators that readers can recognize across incarnations",
+      "markers": [
+        {
+          "type": "physical",
+          "marker": "[TBD - e.g., a distinctive gesture, eye color, birthmark pattern]"
+        },
+        {
+          "type": "behavioral",
+          "marker": "[TBD - e.g., a habitual phrase pattern, way of approaching problems]"
+        },
+        {
+          "type": "situational",
+          "marker": "[TBD - e.g., always drawn to certain types of situations or people]"
+        }
+      ]
+    },
+    "soul_voice": {
+      "description": "Beneath the period-appropriate prose, certain thought patterns persist",
+      "patterns": [
+        "[TBD - how does this soul reason through problems?]",
+        "[TBD - what emotional responses are consistent?]",
+        "[TBD - what blind spots persist across lives?]"
+      ]
+    }
+  },
+  
+  "spiritual_progression": {
+    "ten_fetters": [
+      {
+        "fetter": "self_illusion",
+        "pali": "sakkāya-diṭṭhi",
+        "description": "Belief in a permanent, unchanging self",
+        "broken_at": "stream-entry (ch12)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "doubt",
+        "pali": "vicikicchā", 
+        "description": "Doubt about the path, the teaching, or one's own capacity",
+        "broken_at": "stream-entry (ch12)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "rites_rituals",
+        "pali": "sīlabbata-parāmāsa",
+        "description": "Attachment to rules and rituals as ends in themselves",
+        "broken_at": "stream-entry (ch12)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "sensual_desire",
+        "pali": "kāma-rāga",
+        "description": "Craving for sensory pleasures",
+        "weakened_at": "once-returner (ch13-14)",
+        "broken_at": "non-returner (ch15)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "ill_will",
+        "pali": "vyāpāda",
+        "description": "Aversion, hatred, anger",
+        "weakened_at": "once-returner (ch13-14)",
+        "broken_at": "non-returner (ch15)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "desire_fine_material",
+        "pali": "rūpa-rāga",
+        "description": "Attachment to fine-material existence (form realms)",
+        "broken_at": "arahantship (ch16)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "desire_immaterial",
+        "pali": "arūpa-rāga",
+        "description": "Attachment to immaterial existence (formless realms)",
+        "broken_at": "arahantship (ch16)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "conceit",
+        "pali": "māna",
+        "description": "The subtle sense of 'I am'",
+        "broken_at": "arahantship (ch16)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "restlessness",
+        "pali": "uddhacca",
+        "description": "Mental restlessness and agitation",
+        "broken_at": "arahantship (ch16)",
+        "status": "unbroken"
+      },
+      {
+        "fetter": "ignorance",
+        "pali": "avijjā",
+        "description": "Fundamental ignorance of the nature of reality",
+        "broken_at": "arahantship (ch16)",
+        "status": "unbroken"
+      }
+    ],
+    "ten_perfections": [
+      {
+        "perfection": "generosity",
+        "pali": "dāna",
+        "primary_chapter": 3,
+        "development_notes": "Chandra gives resources but not self—incomplete development"
+      },
+      {
+        "perfection": "virtue",
+        "pali": "sīla",
+        "primary_chapter": 5,
+        "development_notes": "Stoic investigator learns ethical principles"
+      },
+      {
+        "perfection": "renunciation",
+        "pali": "nekkhamma",
+        "primary_chapter": 6,
+        "development_notes": "Desert Father practices asceticism"
+      },
+      {
+        "perfection": "wisdom",
+        "pali": "paññā",
+        "primary_chapter": 4,
+        "development_notes": "Athenian philosopher struggles with individual vs. collective"
+      },
+      {
+        "perfection": "energy",
+        "pali": "viriya",
+        "primary_chapter": 11,
+        "development_notes": "Noir detective maintains perseverance"
+      },
+      {
+        "perfection": "patience",
+        "pali": "khanti",
+        "primary_chapter": 8,
+        "development_notes": "Accused learns to overcome anger during persecution"
+      },
+      {
+        "perfection": "truthfulness",
+        "pali": "sacca",
+        "primary_chapter": 9,
+        "development_notes": "Skeptic grapples with doubt and truth"
+      },
+      {
+        "perfection": "determination",
+        "pali": "adhiṭṭhāna",
+        "primary_chapter": 10,
+        "development_notes": "Rebel chooses others' welfare over survival"
+      },
+      {
+        "perfection": "loving_kindness",
+        "pali": "mettā",
+        "primary_chapter": 2,
+        "development_notes": "Ka learns cooperation and social bonds"
+      },
+      {
+        "perfection": "equanimity",
+        "pali": "upekkhā",
+        "primary_chapter": 7,
+        "development_notes": "Lover grapples with attachment to pleasure"
+      }
+    ]
+  },
+  
+  "thematic_question": {
+    "central": "Can enlightenment be achieved through helping others, or must the helper-identity itself be released?",
+    "secondary": [
+      "What is the relationship between love and attachment?",
+      "Can two beings compete for transcendence, or is competition itself an obstacle?",
+      "What persists when the self is illusion?"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "identity": {
+    "current_name": "Lilith Azami",
+    "nature": "[TBD - What is she? A rival soul? A cosmic force? An aspect of Silas himself?]",
+    "origin": "[TBD - When/how did she begin opposing Silas?]"
+  },
+  
+  "motivation": {
+    "surface": "[TBD - What does she say she wants?]",
+    "true": "[TBD - What does she actually want?]",
+    "relationship_to_silas": "[TBD - Love? Rivalry? Both? Something stranger?]"
+  },
+  
+  "power_progression": [
+    {
+      "chapter": 1,
+      "level": "Initial awakening",
+      "capabilities": "Can see Silas's current and recent past lives through meditation/intimate connection",
+      "limitations": "Cannot act on past, only observe",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 2,
+      "level": "First accidental influence",
+      "capabilities": "Observing from future, minimal intervention",
+      "limitations": "Influence is unconscious, uncontrolled",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 3,
+      "level": "Learning to focus",
+      "capabilities": "Can influence trusted colleague Devaka's betrayal, compromises investigation",
+      "limitations": "Works through intermediaries, not direct",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 4,
+      "level": "Dream influence",
+      "capabilities": "Can plant suggestions/guidance in dreams",
+      "limitations": "Suggestions only, not commands; dream logic applies",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 5,
+      "level": "Directed manipulation",
+      "capabilities": "Can subtly manipulate circumstances and minor characters",
+      "limitations": "Cannot affect Silas directly; changes must be plausible",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 6,
+      "level": "Growing control",
+      "capabilities": "Stronger ability to influence events and people",
+      "limitations": "Still cannot physically manifest",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 7,
+      "level": "Brief manifestations",
+      "capabilities": "Can appear momentarily in past lives",
+      "limitations": "Appearances brief, draining; cannot sustain presence",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 8,
+      "level": "Stronger manifestations",
+      "capabilities": "More sustained physical presence in past",
+      "limitations": "Still time-limited; appearance may be unstable",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 9,
+      "level": "Extended interactions",
+      "capabilities": "Can engage in extended interactions with past incarnations",
+      "limitations": "Silas does not recognize her across lives",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 10,
+      "level": "Nearly full manifestation",
+      "capabilities": "Extended physical presence, direct confrontations possible",
+      "limitations": "Still bound by past-timeline constraints",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 11,
+      "level": "Full intervention capability",
+      "capabilities": "Can fully interact, attempting to prevent stream-entry",
+      "limitations": "Silas's accumulated merit creates resistance",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 12,
+      "level": "Complete physical manifestation",
+      "capabilities": "Can appear completely in present timeline, all powers at peak in human realm",
+      "limitations": "Direct confrontation; Silas can now perceive her fully",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 13,
+      "level": "Celestial enhancement",
+      "capabilities": "Powers amplified in higher dimensional space",
+      "limitations": "Celestial realm has its own rules",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 14,
+      "level": "Cosmic scale",
+      "capabilities": "Can affect larger systems and timelines",
+      "limitations": "Silas's progress makes him harder to divert",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 15,
+      "level": "Near-universal",
+      "capabilities": "Approaching universal consciousness manipulation",
+      "limitations": "Non-returner status places Silas beyond certain influences",
+      "objective_this_chapter": null
+    },
+    {
+      "chapter": 16,
+      "level": "Final transformation",
+      "capabilities": "Either achieves enlightenment herself or transcends need for competition",
+      "limitations": "N/A - resolution",
+      "objective_this_chapter": null
+    }
+  ],
+  
+  "key_questions_to_resolve": [
+    "What is Lilith's true nature?",
+    "Why does she oppose Silas's enlightenment specifically?",
+    "Does she have her own spiritual progression?",
+    "What is the resolution—mutual enlightenment, her defeat, her transformation?",
+    "Is their conflict ultimately external or internal to one consciousness?"
+  ]
+}

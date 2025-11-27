@@ -1,0 +1,81 @@
+{
+  "chapter": 3,
+  "chapter_id": "ch03-mauryan-india",
+  "avatar": {
+    "name": "Chandra",
+    "name_meaning": "Moon (Sanskrit)",
+    "birth_year": "c. 290 BCE",
+    "death_year": "c. 245 BCE",
+    "age_at_chapter_events": "45-50",
+    "occupation": "District administrator",
+    "social_position": "Former merchant risen to bureaucratic authority",
+    "location": "[TBD - specific district]"
+  },
+  
+  "physical": {
+    "appearance": "[TBD]",
+    "recognition_marker_physical": "[TBD - the soul marker that persists]",
+    "distinguishing_features": "[TBD]",
+    "health_conditions": "[TBD]"
+  },
+  
+  "psychology": {
+    "core_flaw_manifestation": "Helps through systems; believes correct administration can save everyone; gives resources but not self",
+    "fatal_flaw": "Focuses on saving ledgers while people burn",
+    "core_attachment": "Merchant mindset—sees people as numbers, suffering as data",
+    "strengths": [
+      "Administrative competence",
+      "Genuine desire to help",
+      "Systematic thinking"
+    ],
+    "weaknesses": [
+      "Emotional distance",
+      "Values records over relationships",
+      "Cannot be present with suffering"
+    ],
+    "recognition_marker_behavioral": "[TBD - behavioral soul marker]"
+  },
+  
+  "relationships": {
+    "key_relationships": [
+      {
+        "name": "Devaka",
+        "role": "Trusted colleague",
+        "dynamic": "Professional trust that will be betrayed (Lilith's influence)",
+        "arc": "Betrayer"
+      }
+    ],
+    "family": "[TBD]",
+    "enemies": "[TBD]"
+  },
+  
+  "chapter_arc": {
+    "opening_state": {
+      "external": "[TBD - situation at chapter start]",
+      "internal": "[TBD - psychological/spiritual state]"
+    },
+    "inciting_incident": "[TBD]",
+    "central_conflict": "[TBD]",
+    "climax": "[TBD]",
+    "closing_state": {
+      "external": "[TBD - situation at chapter end/death]",
+      "internal": "[TBD - what has been learned/failed to learn]"
+    }
+  },
+  
+  "lesson_development": {
+    "perfection": "Generosity (dāna)",
+    "what_learned": "The form of generosity—giving resources, time, administrative effort",
+    "what_failed": "True generosity requires giving of the self, not just the surplus",
+    "death_seeds_next": "[TBD - how death sets up Chapter 4's altruism lesson]"
+  },
+  
+  "death": {
+    "circumstances": "[TBD]",
+    "final_moment": "[TBD - what is the last thing Chandra experiences?]",
+    "thematic_resonance": "Should connect to ledger/numbers vs. flesh/people",
+    "seeds_next_life": "[TBD]"
+  },
+  
+  "notes": "[Additional development notes]"
+}

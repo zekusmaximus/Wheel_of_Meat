@@ -1,0 +1,452 @@
+{
+  "novel": {
+    "title": "The Wheel of Meat",
+    "author": "Jeffrey [LAST NAME]",
+    "genre": "Literary Fiction / Speculative Fiction / Buddhist Fantasy",
+    "logline": "Across sixteen lifetimes spanning 300,000 years, a soul works toward enlightenment while a rival consciousness grows powerful enough to stop him.",
+    "word_target": 120000,
+    "status": "development"
+  },
+  "acts": [
+    {
+      "act": 1,
+      "title": "The Awakening",
+      "chapters": [1],
+      "description": "Introduction to Silas and Lilith in contemporary Manchester; establishment of core conflict"
+    },
+    {
+      "act": 2,
+      "title": "The Wheel Turns",
+      "chapters": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "description": "Past lives spanning prehistory to 1930s America; Silas develops perfections while Lilith's powers grow"
+    },
+    {
+      "act": 3,
+      "title": "The Breakthrough",
+      "chapters": [12],
+      "description": "Return to contemporary Manchester; Silas achieves stream-entry"
+    },
+    {
+      "act": 4,
+      "title": "The Ascension",
+      "chapters": [13, 14, 15, 16],
+      "description": "Post-stream-entry progression through higher realms to full enlightenment"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "id": "ch01-contemporary-manchester",
+      "title": "The Meeting",
+      "genre": "Literary Fiction with Supernatural Elements",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "Present day"
+      },
+      "avatar": {
+        "name": "Silas Pahlavan",
+        "occupation": "Philosophy professor",
+        "status": "Approaching stream-entry"
+      },
+      "lilith": {
+        "name": "Lilith Azami",
+        "occupation": "Psychiatrist",
+        "powers": "Initial awakening - can see Silas's current and recent past lives through meditation/intimate connection",
+        "objective": null
+      },
+      "lesson_theme": "Introduction to core attachment (compulsive helping) and central conflict",
+      "fetter_focus": null,
+      "word_target": 8000,
+      "scenes": [],
+      "status": "outlined"
+    },
+    {
+      "chapter": 2,
+      "id": "ch02-prehistoric-jebel-irhoud",
+      "title": "Blood",
+      "genre": "Survival Horror/Action",
+      "setting": {
+        "period": "Prehistoric",
+        "location": "Jebel Irhoud, Morocco",
+        "year": "300,000 BCE"
+      },
+      "avatar": {
+        "name": "Ka",
+        "occupation": "Hunter",
+        "status": "Early soul development"
+      },
+      "lilith": {
+        "powers": "First accidental influence through meditation - observing from future, minimal intervention",
+        "objective": null
+      },
+      "lesson_theme": "Cooperation and social bonds",
+      "core_development": "Learning to work as pack vs. lone hunter; surviving through community",
+      "death_seeds_next": "Death scene shows hoarding instinct → sets up generosity lesson",
+      "fetter_focus": null,
+      "word_target": 7000,
+      "scenes": [],
+      "status": "outlined"
+    },
+    {
+      "chapter": 3,
+      "id": "ch03-mauryan-india",
+      "title": "The Ledger",
+      "genre": "Political Thriller",
+      "setting": {
+        "period": "Ancient",
+        "location": "Mauryan Empire, India",
+        "year": "268-232 BCE"
+      },
+      "avatar": {
+        "name": "Chandra",
+        "occupation": "District administrator, former merchant",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "Learning to focus visions; influences trusted colleague Devaka's betrayal, causing investigation to be compromised",
+        "objective": null
+      },
+      "lesson_theme": "Generosity (incomplete - gives resources but not self)",
+      "core_attachment": "Merchant mindset - sees people as numbers, suffering as data",
+      "fatal_flaw": "Focuses on saving ledgers while people burn",
+      "fetter_focus": null,
+      "word_target": 8000,
+      "scenes": [],
+      "status": "outlined"
+    },
+    {
+      "chapter": 4,
+      "id": "ch04-athens-greece",
+      "title": "The Philosopher",
+      "genre": "Historical Tragedy",
+      "setting": {
+        "period": "Classical",
+        "location": "Athens, Greece",
+        "year": "461-429 BCE"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "Beginning dream influence - can plant suggestions/guidance in dreams",
+        "objective": null
+      },
+      "lesson_theme": "Altruism (true selflessness vs. systems)",
+      "core_development": "Struggles with individual vs. collective good",
+      "fetter_focus": null,
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 5,
+      "id": "ch05-rome-stoic",
+      "title": "The Investigator",
+      "genre": "Mystery/Philosophical Drama",
+      "setting": {
+        "period": "Classical",
+        "location": "Roman Empire",
+        "year": "1st-2nd centuries CE"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "More directed influence attempts - can subtly manipulate circumstances and minor characters",
+        "objective": null
+      },
+      "lesson_theme": "Virtue and morality",
+      "core_development": "Stoic investigator facing moral dilemmas, learning ethical principles",
+      "fetter_focus": null,
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 6,
+      "id": "ch06-egypt-desert-fathers",
+      "title": "The Hermit",
+      "genre": "Spiritual Drama/Magical Realism",
+      "setting": {
+        "period": "Late Antiquity",
+        "location": "Egyptian Desert",
+        "year": "3rd-4th centuries CE"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "Growing power/control - stronger ability to influence events and people in past",
+        "objective": null
+      },
+      "lesson_theme": "Renunciation",
+      "core_development": "Desert Father practicing asceticism, learning to let go of worldly attachments",
+      "fetter_focus": null,
+      "word_target": 7000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 7,
+      "id": "ch07-heian-japan",
+      "title": "The Lover",
+      "genre": "Gothic Romance",
+      "setting": {
+        "period": "Medieval",
+        "location": "Heian Period Japan",
+        "year": "794-1185 CE"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "First brief physical manifestations - can appear momentarily in past lives",
+        "objective": null
+      },
+      "lesson_theme": "Sensual desire (fetter)",
+      "core_development": "Court romance with dark undertones, grappling with attachment to pleasure",
+      "fetter_focus": "sensual_desire",
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 8,
+      "id": "ch08-inquisition-spain",
+      "title": "The Accused",
+      "genre": "Psychological Horror/Thriller",
+      "setting": {
+        "period": "Early Modern",
+        "location": "Spain",
+        "year": "1480-1492"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "Stronger manifestations - more sustained physical presence in past",
+        "objective": null
+      },
+      "lesson_theme": "Ill will (hatred, anger, aversion)",
+      "core_development": "Persecution, learning to overcome anger and hatred",
+      "fetter_focus": "ill_will",
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 9,
+      "id": "ch09-renaissance-france",
+      "title": "The Skeptic",
+      "genre": "Philosophical Adventure/Swashbuckling",
+      "setting": {
+        "period": "Renaissance",
+        "location": "France",
+        "year": "1580-1592"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "Direct influence growing - can engage in extended interactions with past incarnations",
+        "objective": null
+      },
+      "lesson_theme": "Doubt (skepticism about the path)",
+      "core_development": "Intellectual grappling with uncertainty, questioning spiritual truths",
+      "fetter_focus": "doubt",
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 10,
+      "id": "ch10-taiping-china",
+      "title": "The Rebel",
+      "genre": "War Epic",
+      "setting": {
+        "period": "Modern",
+        "location": "China",
+        "year": "1850-1864"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "[TBD]",
+        "status": "Developing soul"
+      },
+      "lilith": {
+        "powers": "Nearly full manifestation - extended physical presence, direct confrontations possible",
+        "objective": null
+      },
+      "lesson_theme": "Self-sacrifice",
+      "core_development": "War epic, choosing others' welfare over own survival",
+      "fetter_focus": null,
+      "word_target": 10000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 11,
+      "id": "ch11-noir-usa",
+      "title": "The Detective",
+      "genre": "Noir",
+      "setting": {
+        "period": "Modern",
+        "location": "USA",
+        "year": "1930s"
+      },
+      "avatar": {
+        "name": "[TBD]",
+        "occupation": "Private detective",
+        "status": "Near stream-entry"
+      },
+      "lilith": {
+        "powers": "Preparing for direct intervention - can fully interact, attempting to prevent stream-entry",
+        "objective": null
+      },
+      "lesson_theme": "Perseverance and determination",
+      "core_development": "Noir detective maintaining commitment despite overwhelming obstacles",
+      "fetter_focus": null,
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 12,
+      "id": "ch12-contemporary-breakthrough",
+      "title": "The Choice",
+      "genre": "Supernatural Thriller",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "Present day"
+      },
+      "avatar": {
+        "name": "Silas Pahlavan",
+        "occupation": "Philosophy professor",
+        "status": "Achieves stream-entry"
+      },
+      "lilith": {
+        "name": "Lilith Azami",
+        "powers": "Full physical manifestation - can appear completely in present timeline, all powers at peak in human realm",
+        "objective": null
+      },
+      "lesson_theme": "Stream-entry - breaks first three fetters (self-illusion, doubt, attachment to rites/rituals)",
+      "event": "First dramatic climax with Lilith",
+      "fetter_focus": ["self_illusion", "doubt", "rites_rituals"],
+      "word_target": 10000,
+      "scenes": [],
+      "status": "outlined"
+    },
+    {
+      "chapter": 13,
+      "id": "ch13-deva-realm",
+      "title": "The Celestial",
+      "genre": "Cosmic Fantasy",
+      "setting": {
+        "period": "Non-temporal",
+        "location": "Deva Realm (non-physical celestial realm)",
+        "year": "N/A"
+      },
+      "avatar": {
+        "name": "Silas (elevated consciousness)",
+        "status": "Post-stream-entry"
+      },
+      "lilith": {
+        "powers": "Enhanced by celestial realm - powers amplified in higher dimensional space",
+        "objective": null
+      },
+      "lesson_theme": "Exploring non-physical existence, weakening higher fetters",
+      "fetter_focus": null,
+      "word_target": 7000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 14,
+      "id": "ch14-future-earth",
+      "title": "The Prophet",
+      "genre": "Science Fiction",
+      "setting": {
+        "period": "Future",
+        "location": "Earth",
+        "year": "Speculative future"
+      },
+      "avatar": {
+        "name": "Silas (elevated consciousness)",
+        "status": "Once-returner progress"
+      },
+      "lilith": {
+        "powers": "Cosmic scale influence - can affect larger systems and timelines",
+        "objective": null
+      },
+      "lesson_theme": "Technological enlightenment, once-returner progress",
+      "conflict": "Race to enlightenment intensifies",
+      "fetter_focus": null,
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 15,
+      "id": "ch15-space-explorer",
+      "title": "The Explorer",
+      "genre": "Space Opera/Cosmic Horror",
+      "setting": {
+        "period": "Far Future",
+        "location": "Space/Other Planet",
+        "year": "Far future"
+      },
+      "avatar": {
+        "name": "Silas (elevated consciousness)",
+        "status": "Achieves Non-returner status (breaks first five fetters)"
+      },
+      "lilith": {
+        "powers": "Near-peak abilities - approaching universal consciousness manipulation",
+        "objective": null
+      },
+      "lesson_theme": "Final competition phase",
+      "fetter_focus": ["sensual_desire", "ill_will"],
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    },
+    {
+      "chapter": 16,
+      "id": "ch16-pure-abodes",
+      "title": "The Awakened",
+      "genre": "Cosmic Science Fiction/Transcendent",
+      "setting": {
+        "period": "Beyond time",
+        "location": "Pure Abodes (highest realm before full enlightenment)",
+        "year": "N/A"
+      },
+      "avatar": {
+        "name": "Silas/merged consciousness",
+        "status": "Full enlightenment - Arahantship"
+      },
+      "lilith": {
+        "powers": "Final transformation/resolution - either achieves enlightenment herself or transcends need for competition",
+        "objective": null
+      },
+      "lesson_theme": "Final enlightenment - breaks all ten fetters",
+      "event": "Ultimate fate of both characters, transcendence of duality",
+      "fetter_focus": ["desire_for_fine_material_existence", "desire_for_immaterial_existence", "conceit", "restlessness", "ignorance"],
+      "word_target": 8000,
+      "scenes": [],
+      "status": "needs_development"
+    }
+  ]
+}

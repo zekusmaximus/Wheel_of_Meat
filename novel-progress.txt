@@ -1,0 +1,71 @@
+# Novel Progress Log
+
+## Project Status: DEVELOPMENT PHASE
+
+Current focus: Building agent infrastructure and completing chapter development before drafting begins.
+
+---
+
+## Session Log
+
+### Session 1 - [DATE]
+**Work Done:**
+- Initialized repository structure
+- Created scene-manifest.json with all 16 chapters outlined
+- Created soul-constants.json with fetter/perfection tracking
+- Created lilith-arc.json with power progression
+- Created thematic-echoes.md template
+- Created reference templates and agent prompts
+
+**Decisions Made:**
+- Using incarnation-based folder structure (one folder per chapter/life)
+- Each chapter gets its own period-rules.md for genre/historical constraints
+- Agent will work one scene at a time within each chapter
+
+**Outstanding Issues:**
+- 8 avatars need naming and development (Chapters 4-11)
+- Lilith's true motivation needs resolution
+- Recognition markers for soul continuity need definition
+- Thematic echo map needs completion
+
+**Next Session Should:**
+1. Develop the unnamed avatars (names, occupations, specific circumstances)
+2. Resolve Lilith's nature and motivation
+3. Define recognition markers
+
+---
+
+## Chapter Development Status
+
+| Ch | Title | Avatar | Development | Scenes | Draft |
+|----|-------|--------|-------------|--------|-------|
+| 1 | The Meeting | Silas Pahlavan | outlined | 0 | - |
+| 2 | Blood | Ka | outlined | 0 | - |
+| 3 | The Ledger | Chandra | outlined | 0 | - |
+| 4 | The Philosopher | [TBD] | needs_development | 0 | - |
+| 5 | The Investigator | [TBD] | needs_development | 0 | - |
+| 6 | The Hermit | [TBD] | needs_development | 0 | - |
+| 7 | The Lover | [TBD] | needs_development | 0 | - |
+| 8 | The Accused | [TBD] | needs_development | 0 | - |
+| 9 | The Skeptic | [TBD] | needs_development | 0 | - |
+| 10 | The Rebel | [TBD] | needs_development | 0 | - |
+| 11 | The Detective | [TBD] | needs_development | 0 | - |
+| 12 | The Choice | Silas Pahlavan | outlined | 0 | - |
+| 13 | The Celestial | Silas (elevated) | needs_development | 0 | - |
+| 14 | The Prophet | Silas (elevated) | needs_development | 0 | - |
+| 15 | The Explorer | Silas (elevated) | needs_development | 0 | - |
+| 16 | The Awakened | Silas/merged | needs_development | 0 | - |
+
+---
+
+## Key Unresolved Questions
+
+1. **Lilith's Nature**: What is she? Options discussed: rival soul, cosmic force, aspect of Silas, something else?
+
+2. **Recognition Markers**: What subtle physical/behavioral/situational markers let readers recognize the same soul across lives?
+
+3. **Frame Structure**: How do Chapters 1 and 12 connect narratively? Does Ch 1 end with Lilith initiating the journey? Time gap to Ch 12?
+
+4. **Genre Execution**: How much should each chapter commit to genre conventions vs. maintain novel unity?
+
+5. **Lilith's Presence in Past**: Does she appear as the same person across lives, or different people? Does Silas recognize her?
