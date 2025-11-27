@@ -1,14 +1,16 @@
 {
   "identity": {
     "current_name": "Lilith Azami",
-    "nature": "[TBD - What is she? A rival soul? A cosmic force? An aspect of Silas himself?]",
-    "origin": "[TBD - When/how did she begin opposing Silas?]"
+    "nature": "A rival bodhisattva—a being who has been working toward full Buddhahood across countless lifetimes, now very close to achieving it",
+    "origin": "Ancient soul on the path to enlightenment; became aware of Silas as a threat when she sensed another consciousness approaching stream-entry in the same world-system",
+    "cosmic_constraint": "Only one fully enlightened Buddha can exist in any given world-system at a time; if Silas achieves Buddhahood first, Lilith's eons of work are nullified"
   },
   
   "motivation": {
-    "surface": "[TBD - What does she say she wants?]",
-    "true": "[TBD - What does she actually want?]",
-    "relationship_to_silas": "[TBD - Love? Rivalry? Both? Something stranger?]"
+    "surface": "In her current incarnation as psychiatrist Lilith Azami, she may rationalize her actions as 'helping' Silas or 'testing' him",
+    "true": "Desperate self-preservation of her path to enlightenment; she must derail Silas before he achieves what she has worked lifetimes to attain",
+    "relationship_to_silas": "Rival, not enemy—she doesn't hate him, but his success means her failure. This may include complex feelings: respect for a fellow traveler, resentment at the cosmic unfairness, perhaps even attraction to the very qualities that make him a threat",
+    "tragic_irony": "Her grasping at Buddhahood—the very desperation driving her interference—is itself the attachment that prevents her enlightenment. She cannot see that releasing her claim would free her."
   },
   
   "power_progression": [
@@ -24,113 +26,141 @@
       "level": "First accidental influence",
       "capabilities": "Observing from future, minimal intervention",
       "limitations": "Influence is unconscious, uncontrolled",
-      "objective_this_chapter": null
+      "objective_this_chapter": "None yet—this is when she first becomes aware of Silas's soul. She observes Ka and realizes this consciousness is accumulating merit at an alarming rate. The observation itself may inadvertently influence events.",
+      "emotional_state": "Curiosity turning to concern"
     },
     {
       "chapter": 3,
       "level": "Learning to focus",
       "capabilities": "Can influence trusted colleague Devaka's betrayal, compromises investigation",
       "limitations": "Works through intermediaries, not direct",
-      "objective_this_chapter": null
+      "objective_this_chapter": "First deliberate interference—sabotage Chandra's development of true generosity by corrupting his trusted relationships. If he cannot trust, he cannot give of himself. The betrayal is meant to harden him.",
+      "emotional_state": "Calculating, still confident she can redirect his path"
     },
     {
       "chapter": 4,
       "level": "Dream influence",
       "capabilities": "Can plant suggestions/guidance in dreams",
       "limitations": "Suggestions only, not commands; dream logic applies",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Corrupt his understanding of altruism by planting dreams that conflate selflessness with self-destruction. Make him believe true altruism requires martyrdom—a subtle poison that will distort his path.",
+      "emotional_state": "Methodical; treating this as a long-term project"
     },
     {
       "chapter": 5,
       "level": "Directed manipulation",
       "capabilities": "Can subtly manipulate circumstances and minor characters",
       "limitations": "Cannot affect Silas directly; changes must be plausible",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Test his commitment to virtue by engineering moral dilemmas with no clean answers. Present him with situations where every choice involves complicity in harm. A Stoic who loses faith in ethical clarity is easier to derail.",
+      "emotional_state": "Growing frustration—her earlier interventions haven't slowed his progress"
     },
     {
       "chapter": 6,
       "level": "Growing control",
       "capabilities": "Stronger ability to influence events and people",
       "limitations": "Still cannot physically manifest",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Twist his renunciation into spiritual pride. A hermit who believes his asceticism makes him superior has traded one attachment for another. She works to make him attached to being unattached.",
+      "emotional_state": "Anxious; his progress continues despite her efforts"
     },
     {
       "chapter": 7,
       "level": "Brief manifestations",
       "capabilities": "Can appear momentarily in past lives",
       "limitations": "Appearances brief, draining; cannot sustain presence",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Her first physical appearance—she manifests as an object of desire, attempting to bind him through sensual attachment. The Heian court's aesthetic obsession with beauty makes this the ideal battleground. If she can make him crave her across lifetimes, she wins.",
+      "emotional_state": "A new strategy; perhaps something personal is emerging"
     },
     {
       "chapter": 8,
       "level": "Stronger manifestations",
       "capabilities": "More sustained physical presence in past",
       "limitations": "Still time-limited; appearance may be unstable",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Cultivate his hatred. The Inquisition provides the perfect crucible—if she can make him hate his persecutors deeply enough, ill-will becomes a fetter he cannot break. She may appear as an inquisitor, or as a fellow victim who urges vengeance.",
+      "emotional_state": "Desperate measures; willing to cause him suffering"
     },
     {
       "chapter": 9,
       "level": "Extended interactions",
       "capabilities": "Can engage in extended interactions with past incarnations",
       "limitations": "Silas does not recognize her across lives",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Feed his doubt. The Renaissance skeptic is already questioning—she appears as a philosophical companion who encourages radical doubt that extends to the spiritual path itself. If he stops believing enlightenment is possible, he stops pursuing it.",
+      "emotional_state": "Intellectually engaged; this is a battle of ideas she thinks she can win"
     },
     {
       "chapter": 10,
       "level": "Nearly full manifestation",
       "capabilities": "Extended physical presence, direct confrontations possible",
       "limitations": "Still bound by past-timeline constraints",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Make his self-sacrifice meaningless. In the chaos of the Taiping Rebellion, she works to ensure that everyone he tries to save dies anyway. If self-sacrifice achieves nothing, he may abandon the path of helping others entirely.",
+      "emotional_state": "Ruthless; the stakes justify any action"
     },
     {
       "chapter": 11,
       "level": "Full intervention capability",
       "capabilities": "Can fully interact, attempting to prevent stream-entry",
       "limitations": "Silas's accumulated merit creates resistance",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Break his perseverance directly. The noir detective faces overwhelming obstacles—she ensures every case fails, every client betrays him, every victory turns to ash. This is her last chance before the present day. She throws everything she has at breaking his spirit.",
+      "emotional_state": "Panic beneath control; she can feel him approaching stream-entry"
     },
     {
       "chapter": 12,
       "level": "Complete physical manifestation",
       "capabilities": "Can appear completely in present timeline, all powers at peak in human realm",
       "limitations": "Direct confrontation; Silas can now perceive her fully",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Final desperate gambit. She manifests fully as Lilith Azami, the psychiatrist who has become intimate with Silas. She has one last chance to prevent his stream-entry—through love, through fear, through any means necessary. The irony: her desperation is visible to him now, and witnessing her attachment may be exactly what helps him release his own.",
+      "emotional_state": "All masks dropped; raw desperation, perhaps love, certainly attachment"
     },
     {
       "chapter": 13,
       "level": "Celestial enhancement",
       "capabilities": "Powers amplified in higher dimensional space",
       "limitations": "Celestial realm has its own rules",
-      "objective_this_chapter": null
+      "objective_this_chapter": "She has failed to prevent stream-entry but not Buddhahood. New strategy: if she cannot stop him, perhaps she can race him. The celestial realm amplifies both their capabilities—she pursues her own accelerated path while still attempting to slow his.",
+      "emotional_state": "Recalibrating; grief at her failure mixed with renewed determination"
     },
     {
       "chapter": 14,
       "level": "Cosmic scale",
       "capabilities": "Can affect larger systems and timelines",
       "limitations": "Silas's progress makes him harder to divert",
-      "objective_this_chapter": null
+      "objective_this_chapter": "The race intensifies. As Silas progresses toward once-returner status, Lilith works on a cosmic scale to create distractions, temptations, attachments—anything to slow him while she catches up. The future Earth setting allows technological temptations: what if enlightenment could be achieved through technology rather than renunciation?",
+      "emotional_state": "Manic focus; this is now a sprint"
     },
     {
       "chapter": 15,
       "level": "Near-universal",
       "capabilities": "Approaching universal consciousness manipulation",
       "limitations": "Non-returner status places Silas beyond certain influences",
-      "objective_this_chapter": null
+      "objective_this_chapter": "As Silas achieves non-returner status, he becomes nearly immune to her direct interference. Her cosmic horror: she can manipulate nearly everything, but not the one thing that matters. Desperation gives way to something else—perhaps the beginning of acceptance, or perhaps one final terrible gambit.",
+      "emotional_state": "The edge of transformation; her own attachments becoming unbearable"
     },
     {
       "chapter": 16,
       "level": "Final transformation",
       "capabilities": "Either achieves enlightenment herself or transcends need for competition",
       "limitations": "N/A - resolution",
-      "objective_this_chapter": null
+      "objective_this_chapter": "Resolution. Possible endings: (1) Silas's enlightenment somehow creates space for hers—the 'one Buddha' rule is transcended or revealed as misunderstood; (2) Witnessing his release, she finally releases her own grasping and achieves enlightenment in the same moment; (3) She remains trapped by her attachment, a tragic figure who had everything except the ability to let go; (4) Something stranger—their consciousnesses merge, revealing they were aspects of the same being all along.",
+      "emotional_state": "Whatever she becomes"
     }
   ],
   
-  "key_questions_to_resolve": [
-    "What is Lilith's true nature?",
-    "Why does she oppose Silas's enlightenment specifically?",
-    "Does she have her own spiritual progression?",
-    "What is the resolution—mutual enlightenment, her defeat, her transformation?",
-    "Is their conflict ultimately external or internal to one consciousness?"
+  "arc_summary": {
+    "chapters_2_6": "Indirect interference—working through circumstances, dreams, intermediaries to corrupt his development of the perfections",
+    "chapters_7_11": "Increasingly direct confrontation—physical manifestations, sustained presence, desperate measures as she realizes he cannot be easily derailed",
+    "chapter_12": "All-or-nothing gambit in the present day; intimate relationship as final weapon",
+    "chapters_13_15": "Post-failure recalibration; the race to Buddhahood rather than prevention of his progress",
+    "chapter_16": "Resolution of the central question: can two beings compete for enlightenment, or does the competition itself prevent it?"
+  },
+  
+  "key_questions_resolved": [
+    "What is Lilith's true nature? A rival bodhisattva, very close to enlightenment, who sees Silas as an existential threat.",
+    "Why does she oppose Silas's enlightenment specifically? The one-Buddha-per-world-system rule means his success nullifies her eons of work.",
+    "Does she have her own spiritual progression? Yes—she's further along than almost any being, which is why she can manipulate reality. But her attachment to achieving Buddhahood is itself the obstacle."
+  ],
+  
+  "questions_still_open": [
+    "What is the resolution—mutual enlightenment, her defeat, her transformation, merger?",
+    "Does she appear as the same person across lives, or different people?",
+    "Does Silas ever recognize her across incarnations before Chapter 12?",
+    "What is the exact nature of their relationship in the present day? Lovers? Patient/therapist? Something else?"
   ]
 }
