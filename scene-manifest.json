@@ -3,48 +3,54 @@
     "title": "The Wheel of Meat",
     "author": "Jeffrey [LAST NAME]",
     "genre": "Literary Fiction / Speculative Fiction / Buddhist Fantasy",
-    "logline": "Across sixteen lifetimes spanning 300,000 years, a soul works toward enlightenment while a rival consciousness grows powerful enough to stop him.",
-    "word_target": 120000,
-    "status": "development"
+    "logline": "Across sixteen lifetimes spanning 300,000 years, a soul works toward enlightenment while a rival bodhisattva grows powerful enough to stop him—until they discover they were always two halves of the same future Buddha.",
+    "word_target": 150000,
+    "status": "development",
+    "structure_note": "26 chapters in 4 acts. Act II alternates between Silas's historical past lives and Lilith's contemporary pursuit, creating parallel forward momentum in both timelines."
   },
+
   "acts": [
     {
       "act": 1,
-      "title": "The Awakening",
+      "title": "The Meeting",
       "chapters": [1],
-      "description": "Introduction to Silas and Lilith in contemporary Manchester; establishment of core conflict"
+      "description": "Introduction to Silas and Lilith in contemporary Manchester; first glimpse of past-life fracture; establishment of core conflict"
     },
     {
       "act": 2,
       "title": "The Wheel Turns",
-      "chapters": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
-      "description": "Past lives spanning prehistory to 1930s America; Silas develops perfections while Lilith's powers grow"
+      "chapters": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+      "description": "Ten historical past lives alternating with ten contemporary Lilith chapters. Silas develops perfections while Lilith's powers grow and her pursuit intensifies over a decade.",
+      "structure": "Historical → Lilith → Historical → Lilith (alternating)"
     },
     {
       "act": 3,
       "title": "The Breakthrough",
-      "chapters": [12],
-      "description": "Return to contemporary Manchester; Silas achieves stream-entry"
+      "chapters": [22],
+      "description": "Return to contemporary Manchester; Silas achieves stream-entry; Lilith's realization of her error and turn toward unity"
     },
     {
       "act": 4,
       "title": "The Ascension",
-      "chapters": [13, 14, 15, 16],
-      "description": "Post-stream-entry progression through higher realms to full enlightenment"
+      "chapters": [23, 24, 25, 26],
+      "description": "Post-stream-entry progression through higher realms; the race to Buddhahood; final merger into Maitreya"
     }
   ],
+
   "chapters": [
     {
       "chapter": 1,
       "id": "ch01-contemporary-manchester",
       "title": "The Meeting",
+      "type": "contemporary",
       "genre": "Literary Fiction with Supernatural Elements",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
         "year": "Present day"
       },
-      "avatar": {
+      "pov": "Dual (Silas + Lilith)",
+      "silas": {
         "name": "Silas Pahlavan",
         "occupation": "Philosophy professor",
         "status": "Approaching stream-entry"
@@ -52,401 +58,904 @@
       "lilith": {
         "name": "Lilith Azami",
         "occupation": "Psychiatrist",
-        "powers": "Initial awakening - can see Silas's current and recent past lives through meditation/intimate connection",
-        "objective": null
+        "age": 35,
+        "powers": "Full presence in present timeline; decade of tracking complete",
+        "relationship": "His lover, positioned for final intervention"
       },
-      "lesson_theme": "Introduction to core attachment (compulsive helping) and central conflict",
-      "fetter_focus": null,
+      "function": "Introduction; first glimpse of past-life fracture; establish core relationship and conflict",
       "word_target": 8000,
       "scenes": [],
-      "status": "outlined"
+      "status": "drafted"
     },
+
     {
       "chapter": 2,
-      "id": "ch02-prehistoric-jebel-irhoud",
+      "id": "ch02-prehistoric-ka",
       "title": "Blood",
+      "type": "historical",
       "genre": "Survival Horror/Action",
       "setting": {
         "period": "Prehistoric",
         "location": "Jebel Irhoud, Morocco",
         "year": "300,000 BCE"
       },
+      "pov": "Ka",
       "avatar": {
         "name": "Ka",
         "occupation": "Hunter",
         "status": "Early soul development"
       },
       "lilith": {
-        "powers": "First accidental influence through meditation - observing from future, minimal intervention",
+        "powers": "Observation only (from future); accidental influence possible",
+        "intervention": "None—this is when she first becomes aware of his pattern",
         "objective": null
       },
-      "lesson_theme": "Cooperation and social bonds",
-      "core_development": "Learning to work as pack vs. lone hunter; surviving through community",
-      "death_seeds_next": "Death scene shows hoarding instinct → sets up generosity lesson",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Loving-kindness (mettā)",
+        "theme": "Cooperation and social bonds",
+        "core_development": "Learning to work as pack vs. lone hunter; surviving through community"
+      },
+      "death_bridge": {
+        "description": "Dies hoarding meat in isolation; desperate hunger to understand giving carries forward",
+        "seeds_next": "Generosity lesson for Chandra"
+      },
       "word_target": 7000,
       "scenes": [],
-      "status": "outlined"
+      "status": "drafted"
     },
+
     {
       "chapter": 3,
-      "id": "ch03-mauryan-india",
+      "id": "ch03-lilith-cp01",
+      "title": "The Discovery",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "10 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 25,
+        "years_tracking": 0,
+        "occupation": "Graduate student in psychiatry",
+        "power_level": "Observation only",
+        "emotional_state": "Curiosity → Fascination → Validation"
+      },
+      "corresponds_to": {
+        "historical_chapter": 2,
+        "avatar": "Ka",
+        "lesson": "Loving-kindness / Cooperation"
+      },
+      "demonstration": {
+        "fetter": "Generosity (dāna)",
+        "scene": "Gives up chair to anxious first-year student; knee will hurt for hours"
+      },
+      "tracking_content": {
+        "discovers": "Ka's pattern—first time perceiving others, not just her own iterations",
+        "observes": "Ka's death (hoarding, cold, desperate hunger to understand giving)",
+        "tracks_forward_to": "Chandra"
+      },
+      "function": "Establish her expanded ability; validate consciousness continuity as universal law; begin decade-long pursuit",
+      "word_target": 3500,
+      "scenes": [],
+      "status": "drafted"
+    },
+
+    {
+      "chapter": 4,
+      "id": "ch04-mauryan-chandra",
       "title": "The Ledger",
+      "type": "historical",
       "genre": "Political Thriller",
       "setting": {
         "period": "Ancient",
         "location": "Mauryan Empire, India",
         "year": "268-232 BCE"
       },
+      "pov": "Chandra",
       "avatar": {
         "name": "Chandra",
         "occupation": "District administrator, former merchant",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Learning to focus visions; influences trusted colleague Devaka's betrayal, causing investigation to be compromised",
-        "objective": null
+        "powers": "Remote influence—can affect intermediaries",
+        "intervention": "Influences Devaka's betrayal to harden Chandra against trust",
+        "objective": "Sabotage development of true generosity by corrupting trusted relationships"
       },
-      "lesson_theme": "Generosity (incomplete - gives resources but not self)",
-      "core_attachment": "Merchant mindset - sees people as numbers, suffering as data",
-      "fatal_flaw": "Focuses on saving ledgers while people burn",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Generosity (dāna)",
+        "theme": "Giving resources vs. giving self",
+        "core_development": "Merchant mindset—sees people as numbers; incomplete generosity",
+        "fatal_flaw": "Focuses on saving ledgers while people burn"
+      },
+      "backfire": "Betrayal teaches him generosity cannot depend on reciprocity",
       "word_target": 8000,
       "scenes": [],
       "status": "outlined"
     },
+
     {
-      "chapter": 4,
-      "id": "ch04-athens-greece",
+      "chapter": 5,
+      "id": "ch05-lilith-cp02",
+      "title": "The Ledger's Shadow",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "9 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 26,
+        "years_tracking": 1,
+        "occupation": "Graduate student / beginning clinical work",
+        "power_level": "Remote influence",
+        "emotional_state": "Methodical confidence"
+      },
+      "corresponds_to": {
+        "historical_chapter": 4,
+        "avatar": "Chandra",
+        "lesson": "Generosity (dāna)"
+      },
+      "demonstration": {
+        "fetter": "Non-attachment to outcomes",
+        "scene": "TBD—shows releasing attachment to patient improvement"
+      },
+      "tracking_content": {
+        "observes": "Chandra's incomplete generosity",
+        "intervention": "First deliberate interference—Devaka's betrayal",
+        "tracks_forward_to": "Athens avatar"
+      },
+      "backfire_awareness": "None—satisfaction at successful manipulation",
+      "function": "First intervention; realizes she can DO things, not just observe",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 6,
+      "id": "ch06-athens-philosopher",
       "title": "The Philosopher",
+      "type": "historical",
       "genre": "Historical Tragedy",
       "setting": {
         "period": "Classical",
         "location": "Athens, Greece",
         "year": "461-429 BCE"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
         "occupation": "[TBD]",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Beginning dream influence - can plant suggestions/guidance in dreams",
-        "objective": null
+        "powers": "Dream influence—can plant suggestions in sleep",
+        "intervention": "Plants dreams conflating selflessness with self-destruction",
+        "objective": "Corrupt his understanding of altruism; make him believe true selflessness requires martyrdom"
       },
-      "lesson_theme": "Altruism (true selflessness vs. systems)",
-      "core_development": "Struggles with individual vs. collective good",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Wisdom (paññā)",
+        "theme": "Individual vs. collective good; true altruism",
+        "core_development": "Struggles with personal sacrifice vs. systemic change"
+      },
+      "backfire": "TBD",
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 5,
-      "id": "ch05-rome-stoic",
+      "chapter": 7,
+      "id": "ch07-lilith-cp03",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "8 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 27,
+        "years_tracking": 2,
+        "occupation": "Advanced graduate student",
+        "power_level": "Dream influence",
+        "emotional_state": "Still confident; first whispers of concern"
+      },
+      "corresponds_to": {
+        "historical_chapter": 6,
+        "avatar": "Athens philosopher",
+        "lesson": "Wisdom (paññā)"
+      },
+      "demonstration": {
+        "fetter": "TBD—related to wisdom/discernment",
+        "scene": "TBD"
+      },
+      "tracking_content": {
+        "observes": "Athenian avatar's life",
+        "intervention": "Dream manipulation—plants suggestions in sleep",
+        "tracks_forward_to": "Roman avatar"
+      },
+      "backfire_awareness": "First hints—senses pattern progresses faster than expected",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 8,
+      "id": "ch08-rome-investigator",
       "title": "The Investigator",
+      "type": "historical",
       "genre": "Mystery/Philosophical Drama",
       "setting": {
         "period": "Classical",
         "location": "Roman Empire",
         "year": "1st-2nd centuries CE"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
         "occupation": "[TBD]",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "More directed influence attempts - can subtly manipulate circumstances and minor characters",
-        "objective": null
+        "powers": "Circumstance manipulation—subtle environmental changes",
+        "intervention": "Engineers moral dilemmas with no clean answers",
+        "objective": "Test his commitment to virtue by presenting situations where every choice involves complicity in harm"
       },
-      "lesson_theme": "Virtue and morality",
-      "core_development": "Stoic investigator facing moral dilemmas, learning ethical principles",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Virtue (sīla)",
+        "theme": "Ethical action in morally complex situations",
+        "core_development": "Stoic investigator facing impossible choices"
+      },
+      "backfire": "TBD",
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 6,
-      "id": "ch06-egypt-desert-fathers",
+      "chapter": 9,
+      "id": "ch09-lilith-cp04",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "7 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 28,
+        "years_tracking": 3,
+        "occupation": "Completing doctorate / early clinical practice",
+        "power_level": "Circumstance manipulation",
+        "emotional_state": "Practice deepening; concern emerging"
+      },
+      "corresponds_to": {
+        "historical_chapter": 8,
+        "avatar": "Roman investigator",
+        "lesson": "Virtue (sīla)"
+      },
+      "demonstration": {
+        "fetter": "TBD—related to ethical clarity",
+        "scene": "TBD"
+      },
+      "tracking_content": {
+        "observes": "Roman avatar's life",
+        "intervention": "Circumstance manipulation—engineers dilemmas",
+        "tracks_forward_to": "Egyptian avatar"
+      },
+      "backfire_awareness": "Growing concern—something isn't working",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 10,
+      "id": "ch10-egypt-hermit",
       "title": "The Hermit",
+      "type": "historical",
       "genre": "Spiritual Drama/Magical Realism",
       "setting": {
         "period": "Late Antiquity",
         "location": "Egyptian Desert",
         "year": "3rd-4th centuries CE"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
-        "occupation": "[TBD]",
+        "occupation": "Desert Father / ascetic",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Growing power/control - stronger ability to influence events and people in past",
-        "objective": null
+        "powers": "Growing control—stronger influence on events and people",
+        "intervention": "Twists his renunciation into spiritual pride",
+        "objective": "Make him attached to being unattached; corrupt asceticism into ego"
       },
-      "lesson_theme": "Renunciation",
-      "core_development": "Desert Father practicing asceticism, learning to let go of worldly attachments",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Renunciation (nekkhamma)",
+        "theme": "Letting go vs. spiritual pride",
+        "core_development": "Desert Father learning true vs. false renunciation"
+      },
+      "backfire": "TBD",
       "word_target": 7000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 7,
-      "id": "ch07-heian-japan",
+      "chapter": 11,
+      "id": "ch11-lilith-cp05",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "6 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 29,
+        "years_tracking": 4,
+        "occupation": "Early career psychiatrist",
+        "power_level": "Growing control",
+        "emotional_state": "Methodical but anxious beneath surface"
+      },
+      "corresponds_to": {
+        "historical_chapter": 10,
+        "avatar": "Egyptian hermit",
+        "lesson": "Renunciation (nekkhamma)"
+      },
+      "demonstration": {
+        "fetter": "Non-attachment to being right",
+        "scene": "Patient obsessed with being right; she advises 'The need to be right is itself attachment'",
+        "irony": "Returns immediately to planning how to stop Silas"
+      },
+      "tracking_content": {
+        "observes": "Desert Father's life",
+        "intervention": "Twists renunciation into spiritual pride",
+        "tracks_forward_to": "Heian avatar"
+      },
+      "backfire_awareness": "Visible irony building; frustration that interventions aren't slowing progress",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 12,
+      "id": "ch12-heian-lover",
       "title": "The Lover",
+      "type": "historical",
       "genre": "Gothic Romance",
       "setting": {
         "period": "Medieval",
         "location": "Heian Period Japan",
         "year": "794-1185 CE"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
-        "occupation": "[TBD]",
+        "occupation": "Court noble / poet",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "First brief physical manifestations - can appear momentarily in past lives",
-        "objective": null
+        "powers": "Brief manifestation—first physical appearance; draining, time-limited",
+        "intervention": "Appears as object of desire to bind him through sensual attachment",
+        "objective": "The Heian court's aesthetic obsession with beauty makes this the ideal battleground; if she can make him crave her across lifetimes, she wins"
       },
-      "lesson_theme": "Sensual desire (fetter)",
-      "core_development": "Court romance with dark undertones, grappling with attachment to pleasure",
-      "fetter_focus": "sensual_desire",
+      "lesson": {
+        "perfection": "Equanimity (upekkhā)",
+        "theme": "Beauty, desire, and detachment",
+        "fetter_focus": "Sensual desire (kāma-rāga)",
+        "core_development": "Court romance with dark undertones; grappling with attachment to pleasure"
+      },
+      "backfire": "TBD",
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 8,
-      "id": "ch08-inquisition-spain",
+      "chapter": 13,
+      "id": "ch13-lilith-cp06",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "5 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 30,
+        "years_tracking": 5,
+        "occupation": "Psychiatrist, established practice",
+        "power_level": "Brief manifestation",
+        "emotional_state": "New strategy emerging; something personal developing"
+      },
+      "corresponds_to": {
+        "historical_chapter": 12,
+        "avatar": "Heian courtier",
+        "lesson": "Equanimity / Sensual desire"
+      },
+      "demonstration": {
+        "fetter": "TBD—related to desire/equanimity",
+        "scene": "TBD"
+      },
+      "tracking_content": {
+        "observes": "Heian avatar's life",
+        "intervention": "First physical manifestation—appears as object of desire",
+        "tracks_forward_to": "Inquisition avatar"
+      },
+      "physical_cost": "Manifestation drains her for days; colleagues notice she's distracted",
+      "backfire_awareness": "First direct failure witnessed",
+      "key_moment": "First time she's appeared to him physically; readers see same dark-haired face",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 14,
+      "id": "ch14-inquisition-accused",
       "title": "The Accused",
+      "type": "historical",
       "genre": "Psychological Horror/Thriller",
       "setting": {
         "period": "Early Modern",
         "location": "Spain",
         "year": "1480-1492"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
         "occupation": "[TBD]",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Stronger manifestations - more sustained physical presence in past",
-        "objective": null
+        "powers": "Sustained presence—extended manifestations possible",
+        "intervention": "Appears as inquisitor or fellow victim urging vengeance; cultivates hatred",
+        "objective": "If she can make him hate his persecutors deeply enough, ill-will becomes a fetter he cannot break"
       },
-      "lesson_theme": "Ill will (hatred, anger, aversion)",
-      "core_development": "Persecution, learning to overcome anger and hatred",
-      "fetter_focus": "ill_will",
+      "lesson": {
+        "perfection": "Patience (khanti)",
+        "theme": "Persecution and the release of hatred",
+        "fetter_focus": "Ill-will (vyāpāda)",
+        "core_development": "Learning to overcome anger and hatred under extreme pressure"
+      },
+      "backfire": "Suffering becomes crucible for releasing ill-will",
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 9,
-      "id": "ch09-renaissance-france",
+      "chapter": 15,
+      "id": "ch15-lilith-cp07",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "4 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 31,
+        "years_tracking": 6,
+        "occupation": "Psychiatrist",
+        "power_level": "Sustained presence",
+        "emotional_state": "Desperate measures; willing to cause suffering"
+      },
+      "corresponds_to": {
+        "historical_chapter": 14,
+        "avatar": "Inquisition accused",
+        "lesson": "Patience / Ill-will"
+      },
+      "demonstration": {
+        "fetter": "TBD—related to patience/hatred",
+        "scene": "TBD"
+      },
+      "tracking_content": {
+        "observes": "Inquisition avatar's persecution",
+        "intervention": "Sustained manifestation—cultivates hatred",
+        "tracks_forward_to": "Renaissance avatar"
+      },
+      "research_discovery": "Finds texts on 'one per system' rule; understands cosmic stakes for first time",
+      "backfire_awareness": "Pattern becoming clear; fear crystallizing",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 16,
+      "id": "ch16-renaissance-skeptic",
       "title": "The Skeptic",
+      "type": "historical",
       "genre": "Philosophical Adventure/Swashbuckling",
       "setting": {
         "period": "Renaissance",
         "location": "France",
         "year": "1580-1592"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
         "occupation": "[TBD]",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Direct influence growing - can engage in extended interactions with past incarnations",
-        "objective": null
+        "powers": "Extended interaction—can engage in sustained conversations",
+        "intervention": "Appears as philosophical companion encouraging radical doubt",
+        "objective": "Feed doubt until he stops believing the path is possible; if he abandons the journey, she wins"
       },
-      "lesson_theme": "Doubt (skepticism about the path)",
-      "core_development": "Intellectual grappling with uncertainty, questioning spiritual truths",
-      "fetter_focus": "doubt",
+      "lesson": {
+        "perfection": "Truthfulness (sacca)",
+        "theme": "Doubt, certainty, and the path forward",
+        "fetter_focus": "Doubt (vicikicchā)",
+        "core_development": "Intellectual grappling with uncertainty; questioning spiritual truths"
+      },
+      "backfire": "Her challenges sharpen his understanding rather than destroying it",
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 10,
-      "id": "ch10-taiping-china",
+      "chapter": 17,
+      "id": "ch17-lilith-cp08",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "3 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 32,
+        "years_tracking": 7,
+        "occupation": "Psychiatrist (considering leave)",
+        "power_level": "Extended interaction",
+        "emotional_state": "Intellectually engaged but interventions keep failing"
+      },
+      "corresponds_to": {
+        "historical_chapter": 16,
+        "avatar": "Renaissance skeptic",
+        "lesson": "Truthfulness / Doubt"
+      },
+      "demonstration": {
+        "fetter": "TBD—related to certainty/doubt",
+        "scene": "TBD"
+      },
+      "tracking_content": {
+        "observes": "Renaissance avatar's intellectual journey",
+        "intervention": "Extended interaction—philosophical companion encouraging doubt",
+        "tracks_forward_to": "Taiping avatar"
+      },
+      "backfire_awareness": "Interventions consistently failing; patients notice preoccupation",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 18,
+      "id": "ch18-taiping-rebel",
       "title": "The Rebel",
+      "type": "historical",
       "genre": "War Epic",
       "setting": {
         "period": "Modern",
         "location": "China",
         "year": "1850-1864"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
         "occupation": "[TBD]",
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Nearly full manifestation - extended physical presence, direct confrontations possible",
-        "objective": null
+        "powers": "Near-full manifestation—extended physical presence, direct confrontations",
+        "intervention": "Ensures everyone he tries to save dies anyway",
+        "objective": "Make self-sacrifice meaningless; if sacrifice achieves nothing, he may abandon helping others entirely"
       },
-      "lesson_theme": "Self-sacrifice",
-      "core_development": "War epic, choosing others' welfare over own survival",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Determination (adhiṭṭhāna)",
+        "theme": "Self-sacrifice and its meaning",
+        "core_development": "Choosing others' welfare over survival in war's chaos"
+      },
+      "backfire": "TBD",
       "word_target": 10000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 11,
-      "id": "ch11-noir-usa",
+      "chapter": 19,
+      "id": "ch19-lilith-cp09",
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "2 years before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 33,
+        "years_tracking": 8,
+        "occupation": "Psychiatrist (on partial leave)",
+        "power_level": "Near-full manifestation",
+        "emotional_state": "Ruthless; ordinary life suffering"
+      },
+      "corresponds_to": {
+        "historical_chapter": 18,
+        "avatar": "Taiping rebel",
+        "lesson": "Determination / Self-sacrifice"
+      },
+      "demonstration": {
+        "fetter": "TBD—related to determination/sacrifice",
+        "scene": "TBD"
+      },
+      "tracking_content": {
+        "observes": "Taiping avatar's sacrifices",
+        "intervention": "Near-full manifestation—makes his sacrifices meaningless",
+        "tracks_forward_to": "1930s Detective"
+      },
+      "backfire_awareness": "Ruthless denial; can sense him approaching stream-entry",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 20,
+      "id": "ch20-noir-detective",
       "title": "The Detective",
+      "type": "historical",
       "genre": "Noir",
       "setting": {
         "period": "Modern",
         "location": "USA",
         "year": "1930s"
       },
+      "pov": "TBD",
       "avatar": {
         "name": "[TBD]",
         "occupation": "Private detective",
         "status": "Near stream-entry"
       },
       "lilith": {
-        "powers": "Preparing for direct intervention - can fully interact, attempting to prevent stream-entry",
-        "objective": null
+        "powers": "Full manifestation in past—can fully interact",
+        "intervention": "Appears as femme fatale and client; ensures every case fails, every victory turns to ash",
+        "objective": "Break his perseverance directly; this is her last chance before present day"
       },
-      "lesson_theme": "Perseverance and determination",
-      "core_development": "Noir detective maintaining commitment despite overwhelming obstacles",
-      "fetter_focus": null,
+      "lesson": {
+        "perfection": "Energy/Perseverance (viriya)",
+        "theme": "Maintaining commitment despite overwhelming obstacles",
+        "core_development": "Noir detective facing repeated defeat yet continuing"
+      },
+      "backfire": "TBD",
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 12,
-      "id": "ch12-contemporary-breakthrough",
+      "chapter": 21,
+      "id": "ch21-lilith-cp10",
+      "title": "The Decision",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "1 year before Chapter 1"
+      },
+      "pov": "Lilith",
+      "lilith": {
+        "age": 34,
+        "years_tracking": 9,
+        "occupation": "Psychiatrist (on full leave)",
+        "power_level": "Full manifestation in past; preparing for present incarnation",
+        "emotional_state": "All masks dropped; calculated commitment"
+      },
+      "corresponds_to": {
+        "historical_chapter": 20,
+        "avatar": "1930s Detective",
+        "lesson": "Perseverance (viriya)"
+      },
+      "tracking_content": {
+        "observes": "Detective's persistence despite overwhelming obstacles",
+        "intervention": "Full manifestation—femme fatale, every case fails",
+        "outcome": "Complete failure; every intervention across nine years has backfired"
+      },
+      "the_decision": {
+        "realization": "He's approaching stream-entry; window closing",
+        "assessment": "Strong enough to incarnate in same timeline—barely",
+        "finding_silas": "Tracks to present; finds him in Manchester; philosophy professor",
+        "the_plan": "Incarnate fully, become his lover, prevent breakthrough from inside",
+        "the_meeting": "Engineers encounter at his lecture on Nagarjuna"
+      },
+      "foreshadowing": "Attraction she won't name; pull that exceeds tactical necessity",
+      "function": "Sets up Chapter 1; explains how they met; completes her decade-long arc toward full commitment",
+      "word_target": 3500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 22,
+      "id": "ch22-contemporary-breakthrough",
       "title": "The Choice",
+      "type": "contemporary",
       "genre": "Supernatural Thriller",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
         "year": "Present day"
       },
-      "avatar": {
+      "pov": "Dual (Silas + Lilith)",
+      "silas": {
         "name": "Silas Pahlavan",
         "occupation": "Philosophy professor",
-        "status": "Achieves stream-entry"
+        "event": "Achieves stream-entry—breaks first three fetters"
       },
       "lilith": {
         "name": "Lilith Azami",
-        "powers": "Full physical manifestation - can appear completely in present timeline, all powers at peak in human realm",
-        "objective": null
+        "event": "Final intervention fails; realization of her error; turn toward unity",
+        "powers": "Full presence—all powers at peak in human realm"
       },
-      "lesson_theme": "Stream-entry - breaks first three fetters (self-illusion, doubt, attachment to rites/rituals)",
-      "event": "First dramatic climax with Lilith",
+      "function": "First dramatic climax; Silas breaks through despite Lilith's decade of effort; her desperation becomes visible to him, helping him see attachment clearly",
       "fetter_focus": ["self_illusion", "doubt", "rites_rituals"],
       "word_target": 10000,
       "scenes": [],
       "status": "outlined"
     },
+
     {
-      "chapter": 13,
-      "id": "ch13-deva-realm",
+      "chapter": 23,
+      "id": "ch23-deva-celestial",
       "title": "The Celestial",
+      "type": "cosmic",
       "genre": "Cosmic Fantasy",
       "setting": {
         "period": "Non-temporal",
         "location": "Deva Realm (non-physical celestial realm)",
         "year": "N/A"
       },
-      "avatar": {
-        "name": "Silas (elevated consciousness)",
-        "status": "Post-stream-entry"
+      "pov": "Silas (elevated consciousness)",
+      "silas": {
+        "status": "Post-stream-entry; exploring non-physical existence"
       },
       "lilith": {
-        "powers": "Enhanced by celestial realm - powers amplified in higher dimensional space",
-        "objective": null
+        "powers": "Enhanced by celestial realm",
+        "strategy": "Failed to prevent stream-entry but not Buddhahood; pursues own accelerated path while still attempting to slow his"
       },
-      "lesson_theme": "Exploring non-physical existence, weakening higher fetters",
-      "fetter_focus": null,
+      "lesson": {
+        "theme": "Navigating existence without physical form",
+        "development": "Beginning to weaken higher fetters"
+      },
       "word_target": 7000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 14,
-      "id": "ch14-future-earth",
+      "chapter": 24,
+      "id": "ch24-future-prophet",
       "title": "The Prophet",
+      "type": "cosmic",
       "genre": "Science Fiction",
       "setting": {
         "period": "Future",
         "location": "Earth",
         "year": "Speculative future"
       },
-      "avatar": {
-        "name": "Silas (elevated consciousness)",
+      "pov": "Silas (elevated consciousness)",
+      "silas": {
         "status": "Once-returner progress"
       },
       "lilith": {
-        "powers": "Cosmic scale influence - can affect larger systems and timelines",
-        "objective": null
+        "powers": "Cosmic scale—can affect larger systems and timelines",
+        "strategy": "Race intensifies; technological temptations—what if completion could be achieved through technology?"
       },
-      "lesson_theme": "Technological enlightenment, once-returner progress",
-      "conflict": "Race to enlightenment intensifies",
-      "fetter_focus": null,
+      "lesson": {
+        "theme": "Technology and transcendence",
+        "development": "Further weakening of sensual desire and ill-will"
+      },
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 15,
-      "id": "ch15-space-explorer",
+      "chapter": 25,
+      "id": "ch25-space-explorer",
       "title": "The Explorer",
+      "type": "cosmic",
       "genre": "Space Opera/Cosmic Horror",
       "setting": {
         "period": "Far Future",
         "location": "Space/Other Planet",
         "year": "Far future"
       },
-      "avatar": {
-        "name": "Silas (elevated consciousness)",
-        "status": "Achieves Non-returner status (breaks first five fetters)"
+      "pov": "Silas (elevated consciousness)",
+      "silas": {
+        "status": "Achieves Non-returner status—breaks first five fetters",
+        "event": "Becomes nearly immune to Lilith's direct interference"
       },
       "lilith": {
-        "powers": "Near-peak abilities - approaching universal consciousness manipulation",
-        "objective": null
+        "powers": "Near-peak—approaching universal consciousness manipulation",
+        "crisis": "Can manipulate nearly everything except the one thing that matters; desperation giving way to something else"
       },
-      "lesson_theme": "Final competition phase",
       "fetter_focus": ["sensual_desire", "ill_will"],
+      "lesson": {
+        "theme": "Final competition phase; her attachments becoming unbearable"
+      },
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     },
+
     {
-      "chapter": 16,
-      "id": "ch16-pure-abodes",
+      "chapter": 26,
+      "id": "ch26-pure-abodes-awakened",
       "title": "The Awakened",
+      "type": "cosmic",
       "genre": "Cosmic Science Fiction/Transcendent",
       "setting": {
         "period": "Beyond time",
-        "location": "Pure Abodes (highest realm before full enlightenment)",
+        "location": "Pure Abodes (highest realm before full completion)",
         "year": "N/A"
       },
-      "avatar": {
-        "name": "Silas/merged consciousness",
-        "status": "Full enlightenment - Arahantship"
+      "pov": "Merging consciousness",
+      "resolution": {
+        "event": "Lilith releases her grasping; discovers they were never separate",
+        "mechanism": "Their consciousnesses merge to become Maitreya, the future Buddha",
+        "meaning": "The 'one Buddha per world-system' rule was true but misunderstood—there was only ever one Buddha-to-be, appearing as two until ready to unite"
       },
-      "lilith": {
-        "powers": "Final transformation/resolution - either achieves enlightenment herself or transcends need for competition",
-        "objective": null
-      },
-      "lesson_theme": "Final enlightenment - breaks all ten fetters",
-      "event": "Ultimate fate of both characters, transcendence of duality",
       "fetter_focus": ["desire_for_fine_material_existence", "desire_for_immaterial_existence", "conceit", "restlessness", "ignorance"],
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     }
-  ]
+  ],
+
+  "chapter_type_legend": {
+    "contemporary": "Present-day Manchester; Silas and/or Lilith POV; literary voice",
+    "historical": "Past life; avatar POV; genre-specific voice adaptation",
+    "lilith_contemporary": "Present-day Manchester; Lilith POV; tracks corresponding historical chapter",
+    "cosmic": "Post-stream-entry realms; transcendent voice; syntax may fragment"
+  },
+
+  "word_count_summary": {
+    "act_1": 8000,
+    "act_2_historical": 80000,
+    "act_2_lilith": 27000,
+    "act_3": 10000,
+    "act_4": 31000,
+    "total": 156000,
+    "note": "Target ~150,000; will refine during drafting"
+  }
 }
