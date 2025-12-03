@@ -4,12 +4,47 @@
 
 Current focus: Building agent infrastructure and completing chapter development before drafting begins.
 
----
+-----
+
+## Structural Change Log
+
+### Major Revision: 16 → 26 Chapter Structure
+
+**Date:** [Current session]
+
+**Change:** Elevated Lilith interludes to full chapters, creating alternating structure in Act II.
+
+**New Structure:**
+
+- Act I (Ch 1): Contemporary Manchester—introduction
+- Act II (Ch 2-21): 10 historical + 10 Lilith chapters, alternating
+- Act III (Ch 22): Contemporary Manchester—stream-entry
+- Act IV (Ch 23-26): Cosmic chapters—full enlightenment
+
+**Rationale:** Gives Lilith equal narrative weight; creates parallel forward momentum in both timelines; makes the alternating rhythm explicit in the formal structure.
+
+**Documents Updated:**
+
+- scene-manifest.json — Complete restructure
+- CLAUDE.md — Updated structure, chapter table, references
+- lilith-arc.json — Remapped chapter numbers
+- soul-constants.json — Updated chapter references
+- thematic-echoes.md — Expanded tables for Lilith chapters
+- novel-progress.txt — This update
+
+**New Documents Created:**
+
+- lilith-chapter-manifest.json — Dedicated tracking for 10 Lilith chapters
+- contemporary-period-rules.md — Voice/setting for Manchester chapters
+
+-----
 
 ## Session Log
 
-### Session 1 - [DATE]
+### Session 1 - [Initial Date]
+
 **Work Done:**
+
 - Initialized repository structure
 - Created scene-manifest.json with all 16 chapters outlined
 - Created soul-constants.json with fetter/perfection tracking
@@ -18,54 +53,155 @@ Current focus: Building agent infrastructure and completing chapter development 
 - Created reference templates and agent prompts
 
 **Decisions Made:**
+
 - Using incarnation-based folder structure (one folder per chapter/life)
 - Each chapter gets its own period-rules.md for genre/historical constraints
 - Agent will work one scene at a time within each chapter
 
+### Session 2 - [Current Date]
+
+**Work Done:**
+
+- Drafted Lilith Interlude 1: The Discovery (~4,000 words)
+- Restructured novel from 16 to 26 chapters
+- Created lilith-chapter-manifest.json
+- Created contemporary-period-rules.md
+- Revised all core documentation for new structure
+
+**Decisions Made:**
+
+- Lilith interludes elevated to full chapters
+- Act II now alternates: Historical → Lilith → Historical → Lilith
+- Word target increased from ~120k to ~150k
+- Lilith chapters require demonstration scene (she shows mastery of relevant fetter)
+
 **Outstanding Issues:**
-- 8 avatars need naming and development (Chapters 4-11)
-- Lilith's true motivation needs resolution
-- Recognition markers for soul continuity need definition
-- Thematic echo map needs completion
+
+- 8 historical avatars need naming and development (Chapters 6, 8, 10, 12, 14, 16, 18, 20)
+- 8 Lilith chapters need full development (Chapters 5, 7, 9, 11, 13, 15, 17, 19)
+- Recognition markers for soul continuity still need definition
+- Backfire mechanisms for most historical chapters still TBD
+- Patient parallel scenes for Lilith chapters need development
 
 **Next Session Should:**
-1. Develop the unnamed avatars (names, occupations, specific circumstances)
-2. Resolve Lilith's nature and motivation
-3. Define recognition markers
 
----
+1. Develop the unnamed avatars (names, occupations, specific circumstances)
+1. Define recognition markers
+1. Develop patient parallel scenes for Lilith chapters
+1. Begin period-rules.md files for historical chapters
+
+-----
 
 ## Chapter Development Status
 
-| Ch | Title | Avatar | Development | Scenes | Draft |
-|----|-------|--------|-------------|--------|-------|
-| 1 | The Meeting | Silas Pahlavan | outlined | 0 | - |
-| 2 | Blood | Ka | outlined | 0 | - |
-| 3 | The Ledger | Chandra | outlined | 0 | - |
-| 4 | The Philosopher | [TBD] | needs_development | 0 | - |
-| 5 | The Investigator | [TBD] | needs_development | 0 | - |
-| 6 | The Hermit | [TBD] | needs_development | 0 | - |
-| 7 | The Lover | [TBD] | needs_development | 0 | - |
-| 8 | The Accused | [TBD] | needs_development | 0 | - |
-| 9 | The Skeptic | [TBD] | needs_development | 0 | - |
-| 10 | The Rebel | [TBD] | needs_development | 0 | - |
-| 11 | The Detective | [TBD] | needs_development | 0 | - |
-| 12 | The Choice | Silas Pahlavan | outlined | 0 | - |
-| 13 | The Celestial | Silas (elevated) | needs_development | 0 | - |
-| 14 | The Prophet | Silas (elevated) | needs_development | 0 | - |
-| 15 | The Explorer | Silas (elevated) | needs_development | 0 | - |
-| 16 | The Awakened | Silas/merged | needs_development | 0 | - |
+### Act I
 
----
+|Ch|Title      |Type        |Focus         |Status |
+|--|-----------|------------|--------------|-------|
+|1 |The Meeting|Contemporary|Silas + Lilith|DRAFTED|
+
+### Act II: Historical Chapters
+
+|Ch|Title           |Avatar |Period     |Status   |
+|--|----------------|-------|-----------|---------|
+|2 |Blood           |Ka     |300,000 BCE|DRAFTED  |
+|4 |The Ledger      |Chandra|268 BCE    |outlined |
+|6 |The Philosopher |[TBD]  |450 BCE    |needs_dev|
+|8 |The Investigator|[TBD]  |100 CE     |needs_dev|
+|10|The Hermit      |[TBD]  |350 CE     |needs_dev|
+|12|The Lover       |[TBD]  |1000 CE    |needs_dev|
+|14|The Accused     |[TBD]  |1485       |needs_dev|
+|16|The Skeptic     |[TBD]  |1585       |needs_dev|
+|18|The Rebel       |[TBD]  |1855       |needs_dev|
+|20|The Detective   |[TBD]  |1930s      |needs_dev|
+
+### Act II: Lilith Chapters
+
+|Ch|Title              |Her Age|Power Level              |Status   |
+|--|-------------------|-------|-------------------------|---------|
+|3 |The Discovery      |25     |Observation              |DRAFTED  |
+|5 |The Ledger’s Shadow|26     |Remote influence         |needs_dev|
+|7 |TBD                |27     |Dream influence          |needs_dev|
+|9 |TBD                |28     |Circumstance manipulation|needs_dev|
+|11|TBD                |29     |Growing control          |needs_dev|
+|13|TBD                |30     |Brief manifestation      |needs_dev|
+|15|TBD                |31     |Sustained presence       |needs_dev|
+|17|TBD                |32     |Extended interaction     |needs_dev|
+|19|TBD                |33     |Near-full manifestation  |needs_dev|
+|21|The Decision       |34     |Full manifestation       |needs_dev|
+
+### Act III
+
+|Ch|Title     |Type        |Focus       |Status  |
+|--|----------|------------|------------|--------|
+|22|The Choice|Contemporary|Stream-entry|outlined|
+
+### Act IV: Cosmic Chapters
+
+|Ch|Title        |Setting     |Status   |
+|--|-------------|------------|---------|
+|23|The Celestial|Deva Realm  |needs_dev|
+|24|The Prophet  |Future Earth|needs_dev|
+|25|The Explorer |Deep Space  |needs_dev|
+|26|The Awakened |Pure Abodes |needs_dev|
+
+-----
 
 ## Key Unresolved Questions
 
-1. **Lilith's Nature**: What is she? Options discussed: rival soul, cosmic force, aspect of Silas, something else?
+1. **Recognition Markers**: What subtle physical/behavioral/situational markers let readers recognize the same soul across lives?
+1. **Avatar Development**: Names, occupations, and specific circumstances for Chapters 6, 8, 10, 12, 14, 16, 18, 20
+1. **Backfire Mechanisms**: How exactly does each Lilith intervention catalyze growth? (Partially developed for some chapters)
+1. **Patient Parallels**: Specific patient/colleague situations for Lilith chapters that mirror her pursuit of Silas
+1. **Lilith’s Physical Description**: Specific eye color, distinguishing feature, characteristic gesture for cross-life recognition
+1. **Maitreya Foreshadowing**: Specific moments to plant in each chapter (0-2 per chapter)
+1. **The Merger Mechanism**: Exactly how do Silas and Lilith merge in Chapter 26?
 
-2. **Recognition Markers**: What subtle physical/behavioral/situational markers let readers recognize the same soul across lives?
+-----
 
-3. **Frame Structure**: How do Chapters 1 and 12 connect narratively? Does Ch 1 end with Lilith initiating the journey? Time gap to Ch 12?
+## Word Count Tracking
 
-4. **Genre Execution**: How much should each chapter commit to genre conventions vs. maintain novel unity?
+|Section          |Target      |Drafted    |Remaining   |
+|-----------------|------------|-----------|------------|
+|Act I (Ch 1)     |8,000       |~8,000     |0           |
+|Act II Historical|80,000      |~7,000     |73,000      |
+|Act II Lilith    |27,000      |~4,000     |23,000      |
+|Act III (Ch 22)  |10,000      |0          |10,000      |
+|Act IV (Ch 23-26)|31,000      |0          |31,000      |
+|**Total**        |**~156,000**|**~19,000**|**~137,000**|
 
-5. **Lilith's Presence in Past**: Does she appear as the same person across lives, or different people? Does Silas recognize her?
+-----
+
+## File Inventory
+
+### Core Documents (Revised for 26-chapter structure)
+
+- [x] CLAUDE.md
+- [x] scene-manifest.json
+- [x] lilith-arc.json
+- [x] soul-constants.json
+- [x] thematic-echoes.md
+- [x] novel-progress.txt (this file)
+
+### New Documents
+
+- [x] lilith-chapter-manifest.json
+- [x] contemporary-period-rules.md
+
+### Reference Documents (Minor updates needed)
+
+- [ ] style-rules.md — Update chapter number references
+- [ ] voice-analysis.md — Add Lilith POV patterns section
+- [ ] agent-protocol.md — Add Lilith chapter checklist
+
+### Drafted Content
+
+- [x] Chapter 1 draft
+- [x] Chapter 2 draft (Ka)
+- [x] Chapter 3 draft (Lilith - The Discovery)
+
+### Still Needed
+
+- [ ] Period-rules.md for each historical chapter
+- [ ] Avatar-profile.json for unnamed avatars
+- [ ] Scene breakdowns for all chapters
