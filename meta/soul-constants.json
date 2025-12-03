@@ -21,7 +21,7 @@
         },
         {
           "type": "behavioral",
-          "marker": "[TBD - e.g., a habitual phrase pattern, way of approaching problems]"
+          "marker": "Patience and observation (Ka watches. Learns. → Silas's academic temperament)"
         },
         {
           "type": "situational",
@@ -45,72 +45,72 @@
         "fetter": "self_illusion",
         "pali": "sakkāya-diṭṭhi",
         "description": "Belief in a permanent, unchanging self",
-        "broken_at": "stream-entry (ch12)",
+        "broken_at": "stream-entry (ch 22)",
         "status": "unbroken"
       },
       {
         "fetter": "doubt",
         "pali": "vicikicchā", 
         "description": "Doubt about the path, the teaching, or one's own capacity",
-        "broken_at": "stream-entry (ch12)",
+        "broken_at": "stream-entry (ch 22)",
         "status": "unbroken"
       },
       {
         "fetter": "rites_rituals",
         "pali": "sīlabbata-parāmāsa",
         "description": "Attachment to rules and rituals as ends in themselves",
-        "broken_at": "stream-entry (ch12)",
+        "broken_at": "stream-entry (ch 22)",
         "status": "unbroken"
       },
       {
         "fetter": "sensual_desire",
         "pali": "kāma-rāga",
         "description": "Craving for sensory pleasures",
-        "weakened_at": "once-returner (ch13-14)",
-        "broken_at": "non-returner (ch15)",
+        "weakened_at": "once-returner (ch 23-24)",
+        "broken_at": "non-returner (ch 25)",
         "status": "unbroken"
       },
       {
         "fetter": "ill_will",
         "pali": "vyāpāda",
         "description": "Aversion, hatred, anger",
-        "weakened_at": "once-returner (ch13-14)",
-        "broken_at": "non-returner (ch15)",
+        "weakened_at": "once-returner (ch 23-24)",
+        "broken_at": "non-returner (ch 25)",
         "status": "unbroken"
       },
       {
         "fetter": "desire_fine_material",
         "pali": "rūpa-rāga",
         "description": "Attachment to fine-material existence (form realms)",
-        "broken_at": "arahantship (ch16)",
+        "broken_at": "arahantship (ch 26)",
         "status": "unbroken"
       },
       {
         "fetter": "desire_immaterial",
         "pali": "arūpa-rāga",
         "description": "Attachment to immaterial existence (formless realms)",
-        "broken_at": "arahantship (ch16)",
+        "broken_at": "arahantship (ch 26)",
         "status": "unbroken"
       },
       {
         "fetter": "conceit",
         "pali": "māna",
         "description": "The subtle sense of 'I am'",
-        "broken_at": "arahantship (ch16)",
+        "broken_at": "arahantship (ch 26)",
         "status": "unbroken"
       },
       {
         "fetter": "restlessness",
         "pali": "uddhacca",
         "description": "Mental restlessness and agitation",
-        "broken_at": "arahantship (ch16)",
+        "broken_at": "arahantship (ch 26)",
         "status": "unbroken"
       },
       {
         "fetter": "ignorance",
         "pali": "avijjā",
         "description": "Fundamental ignorance of the nature of reality",
-        "broken_at": "arahantship (ch16)",
+        "broken_at": "arahantship (ch 26)",
         "status": "unbroken"
       }
     ],
@@ -118,63 +118,99 @@
       {
         "perfection": "generosity",
         "pali": "dāna",
-        "primary_chapter": 3,
+        "primary_historical_chapter": 4,
+        "lilith_chapter": 5,
+        "avatar": "Chandra",
         "development_notes": "Chandra gives resources but not self—incomplete development"
       },
       {
         "perfection": "virtue",
         "pali": "sīla",
-        "primary_chapter": 5,
-        "development_notes": "Stoic investigator learns ethical principles"
+        "primary_historical_chapter": 8,
+        "lilith_chapter": 9,
+        "avatar": "Roman investigator",
+        "development_notes": "Stoic investigator learns ethical principles through impossible dilemmas"
       },
       {
         "perfection": "renunciation",
         "pali": "nekkhamma",
-        "primary_chapter": 6,
-        "development_notes": "Desert Father practices asceticism"
+        "primary_historical_chapter": 10,
+        "lilith_chapter": 11,
+        "avatar": "Egyptian hermit",
+        "development_notes": "Desert Father practices asceticism; risks spiritual pride"
       },
       {
         "perfection": "wisdom",
         "pali": "paññā",
-        "primary_chapter": 4,
-        "development_notes": "Athenian philosopher struggles with individual vs. collective"
+        "primary_historical_chapter": 6,
+        "lilith_chapter": 7,
+        "avatar": "Athenian philosopher",
+        "development_notes": "Struggles with individual vs. collective good"
       },
       {
         "perfection": "energy",
         "pali": "viriya",
-        "primary_chapter": 11,
-        "development_notes": "Noir detective maintains perseverance"
+        "primary_historical_chapter": 20,
+        "lilith_chapter": 21,
+        "avatar": "1930s Detective",
+        "development_notes": "Noir detective maintains perseverance despite repeated failure"
       },
       {
         "perfection": "patience",
         "pali": "khanti",
-        "primary_chapter": 8,
-        "development_notes": "Accused learns to overcome anger during persecution"
+        "primary_historical_chapter": 14,
+        "lilith_chapter": 15,
+        "avatar": "Inquisition accused",
+        "development_notes": "Learns to overcome anger during persecution"
       },
       {
         "perfection": "truthfulness",
         "pali": "sacca",
-        "primary_chapter": 9,
-        "development_notes": "Skeptic grapples with doubt and truth"
+        "primary_historical_chapter": 16,
+        "lilith_chapter": 17,
+        "avatar": "Renaissance skeptic",
+        "development_notes": "Grapples with doubt and truth; intellectual honesty"
       },
       {
         "perfection": "determination",
         "pali": "adhiṭṭhāna",
-        "primary_chapter": 10,
-        "development_notes": "Rebel chooses others' welfare over survival"
+        "primary_historical_chapter": 18,
+        "lilith_chapter": 19,
+        "avatar": "Taiping rebel",
+        "development_notes": "Chooses others' welfare over survival"
       },
       {
         "perfection": "loving_kindness",
         "pali": "mettā",
-        "primary_chapter": 2,
-        "development_notes": "Ka learns cooperation and social bonds"
+        "primary_historical_chapter": 2,
+        "lilith_chapter": 3,
+        "avatar": "Ka",
+        "development_notes": "Learns cooperation and social bonds; dies before completing lesson"
       },
       {
         "perfection": "equanimity",
         "pali": "upekkhā",
-        "primary_chapter": 7,
-        "development_notes": "Lover grapples with attachment to pleasure"
+        "primary_historical_chapter": 12,
+        "lilith_chapter": 13,
+        "avatar": "Heian courtier",
+        "development_notes": "Grapples with attachment to pleasure and beauty"
       }
+    ]
+  },
+  
+  "chapter_mapping": {
+    "note": "Act II alternates historical chapters with Lilith contemporary chapters",
+    "structure": [
+      {"historical": 2, "lilith": 3, "avatar": "Ka", "period": "300,000 BCE"},
+      {"historical": 4, "lilith": 5, "avatar": "Chandra", "period": "268 BCE"},
+      {"historical": 6, "lilith": 7, "avatar": "TBD", "period": "450 BCE"},
+      {"historical": 8, "lilith": 9, "avatar": "TBD", "period": "100 CE"},
+      {"historical": 10, "lilith": 11, "avatar": "TBD", "period": "350 CE"},
+      {"historical": 12, "lilith": 13, "avatar": "TBD", "period": "1000 CE"},
+      {"historical": 14, "lilith": 15, "avatar": "TBD", "period": "1485"},
+      {"historical": 16, "lilith": 17, "avatar": "TBD", "period": "1585"},
+      {"historical": 18, "lilith": 19, "avatar": "TBD", "period": "1855"},
+      {"historical": 20, "lilith": 21, "avatar": "TBD", "period": "1930s"}
     ]
   },
   
@@ -189,12 +225,13 @@
   },
   
   "maitreya_resolution": {
-    "description": "In Chapter 16, Silas and Lilith's consciousnesses merge to become Maitreya, the future Buddha prophesied in Buddhist texts.",
+    "description": "In Chapter 26, Silas and Lilith's consciousnesses merge to become Maitreya, the future Buddha prophesied in Buddhist texts.",
     "meaning": "The 'one Buddha per world-system' rule was true but misunderstood. There was only ever one Buddha-to-be, appearing as two until ready to unite.",
     "foreshadowing_needed": [
       "References to Maitreya throughout the novel",
       "Moments where their separation seems artificial",
       "Times when harming him causes her inexplicable pain",
+      "Her attraction to him that exceeds tactical calculation",
       "Imagery of two becoming one"
     ],
     "buddhist_context": {
