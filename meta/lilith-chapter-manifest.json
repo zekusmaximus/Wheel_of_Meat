@@ -1,0 +1,554 @@
+{
+  "manifest_info": {
+    "description": "Dedicated tracking for Lilith's 10 contemporary chapters in Act II",
+    "structure": "These chapters alternate with historical past-life chapters, showing Lilith's decade-long pursuit of Silas's pattern from age 25 to 35",
+    "voice": "Contemporary Manchester, clinical/academic vocabulary, same voice as Chapters 1 and 22",
+    "word_target_per_chapter": "2500-3500 (shorter than historical chapters)"
+  },
+
+  "arc_overview": {
+    "timeline": "10 years of tracking (Year 0 to Year 9)",
+    "age_progression": "25 to 34-35",
+    "power_progression": "Observation → Remote influence → Dream manipulation → Circumstance shaping → Manifestation → Full incarnation",
+    "emotional_arc": "Curiosity → Fascination → Concern → Frustration → Desperation → Calculated commitment",
+    "spiritual_status": "Non-Returner (has broken 5 of 10 fetters; her final obstacle is attachment to being 'the one who achieves Buddhahood')",
+    "central_irony": "She demonstrates mastery of the fetter Silas struggles with in each corresponding historical chapter, while remaining blind to her own final attachment"
+  },
+
+  "chapters": [
+    {
+      "chapter_number": 3,
+      "id": "cp-01",
+      "title": "The Discovery",
+      "corresponds_to": {
+        "historical_chapter": 2,
+        "avatar": "Ka",
+        "period": "300,000 BCE",
+        "lesson": "Cooperation / Loving-kindness (mettā)"
+      },
+      "lilith_state": {
+        "age": 25,
+        "years_tracking": 0,
+        "occupation": "Graduate student in psychiatry",
+        "power_level": "Observation only",
+        "power_description": "Can perceive others' patterns for the first time; accidental influence possible"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "Generosity (dāna)",
+        "scene_type": "Gives up chair to anxious first-year student",
+        "location": "Graduate seminar room",
+        "key_detail": "Her knee will hurt for hours; she does it without expectation of acknowledgment",
+        "contrast_with_silas": "Ka dies hoarding meat; Lilith gives freely without thought"
+      },
+      "tracking_content": {
+        "target_discovered": "Ka's pattern",
+        "method": "Expanded perception—first time tracking others, not just her own iterations",
+        "what_she_observes": "Ka's death (hoarding, cold, desperate hunger to understand giving)",
+        "tracks_forward_to": "Chandra (Mauryan Empire administrator)"
+      },
+      "patient_parallel": {
+        "present": false,
+        "note": "First chapter establishes her ability; patient parallel technique begins in CP-02"
+      },
+      "backfire_awareness": {
+        "level": "None",
+        "her_understanding": "Pure curiosity about a fellow traveler; no sense of threat or competition yet"
+      },
+      "emotional_state": "Curiosity → Fascination → Validation → Decision to track",
+      "closing_hook": "Decides to follow the pattern forward through time to find its present location",
+      "word_target": 3500,
+      "status": "drafted"
+    },
+    {
+      "chapter_number": 5,
+      "id": "cp-02",
+      "title": "The Ledger's Shadow",
+      "corresponds_to": {
+        "historical_chapter": 4,
+        "avatar": "Chandra",
+        "period": "268-232 BCE",
+        "lesson": "Generosity (dāna)"
+      },
+      "lilith_state": {
+        "age": 26,
+        "years_tracking": 1,
+        "occupation": "Graduate student / beginning clinical work",
+        "power_level": "Remote influence",
+        "power_description": "Can affect intermediaries; works through others rather than directly"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "Non-attachment to outcomes",
+        "scene_type": "Patient session or supervision moment",
+        "location": "Clinical setting",
+        "key_detail": "TBD - show her releasing attachment to whether patient improves",
+        "contrast_with_silas": "Chandra calculates suffering in numbers; Lilith treats each patient as individual"
+      },
+      "tracking_content": {
+        "target_discovered": "Chandra's full life and death",
+        "method": "Deliberate tracking session",
+        "what_she_observes": "Chandra's incomplete generosity (gives resources but not self)",
+        "intervention": "Influences Devaka's betrayal to harden Chandra against trust",
+        "tracks_forward_to": "Next avatar (Athens)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD - patient describing rivalry or competition",
+        "lilith_advice": "TBD - wisdom about releasing need to win",
+        "irony": "She gives perfect advice she cannot apply to herself"
+      },
+      "backfire_awareness": {
+        "level": "None yet",
+        "her_understanding": "Satisfaction at successful first intervention; doesn't see it backfiring"
+      },
+      "emotional_state": "Methodical confidence; treating this as long-term project",
+      "closing_hook": "Realizes she can DO things, not just observe; power is growing",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 7,
+      "id": "cp-03",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 6,
+        "avatar": "TBD (Athenian)",
+        "period": "461-429 BCE",
+        "lesson": "Altruism / Wisdom (paññā)"
+      },
+      "lilith_state": {
+        "age": 27,
+        "years_tracking": 2,
+        "occupation": "Advanced graduate student",
+        "power_level": "Dream influence",
+        "power_description": "Can plant suggestions in sleep; dream logic applies"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to wisdom/altruism",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Athenian avatar's life",
+        "method": "Dream influence attempt",
+        "what_she_observes": "TBD",
+        "intervention": "Plants dreams conflating selflessness with self-destruction",
+        "tracks_forward_to": "Next avatar (Rome)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD",
+        "lilith_advice": "TBD",
+        "irony": "TBD"
+      },
+      "backfire_awareness": {
+        "level": "First hints",
+        "her_understanding": "Beginning to sense his pattern progresses faster than expected"
+      },
+      "emotional_state": "Still confident but first whispers of concern",
+      "closing_hook": "TBD",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 9,
+      "id": "cp-04",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 8,
+        "avatar": "TBD (Roman Stoic)",
+        "period": "1st-2nd century CE",
+        "lesson": "Virtue (sīla)"
+      },
+      "lilith_state": {
+        "age": 28,
+        "years_tracking": 3,
+        "occupation": "Completing doctorate / early clinical practice",
+        "power_level": "Circumstance manipulation",
+        "power_description": "Subtle environmental changes; must remain plausible"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to virtue/ethics",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Roman avatar's life",
+        "method": "Circumstance manipulation",
+        "what_she_observes": "TBD",
+        "intervention": "Engineers moral dilemmas with no clean answers",
+        "tracks_forward_to": "Next avatar (Egypt)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD",
+        "lilith_advice": "TBD",
+        "irony": "TBD"
+      },
+      "backfire_awareness": {
+        "level": "Growing concern",
+        "her_understanding": "First clear sense that something isn't working"
+      },
+      "emotional_state": "Her own practice deepening; concern emerging",
+      "closing_hook": "TBD",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 11,
+      "id": "cp-05",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 10,
+        "avatar": "TBD (Desert Father)",
+        "period": "3rd-4th century CE",
+        "lesson": "Renunciation (nekkhamma)"
+      },
+      "lilith_state": {
+        "age": 29,
+        "years_tracking": 4,
+        "occupation": "Early career psychiatrist",
+        "power_level": "Growing control",
+        "power_description": "Stronger influence on events and people"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to renunciation/letting go",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Desert Father avatar's life",
+        "method": "Stronger influence",
+        "what_she_observes": "TBD",
+        "intervention": "Twists his renunciation into spiritual pride",
+        "tracks_forward_to": "Next avatar (Heian Japan)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "Patient obsessed with being right about something",
+        "lilith_advice": "The need to be right is itself attachment",
+        "irony": "Returns immediately to planning how to stop Silas—needing to be right"
+      },
+      "backfire_awareness": {
+        "level": "Visible irony building",
+        "her_understanding": "Frustration that interventions aren't slowing his progress"
+      },
+      "emotional_state": "Methodical but anxiety beneath surface",
+      "closing_hook": "TBD",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 13,
+      "id": "cp-06",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 12,
+        "avatar": "TBD (Heian courtier)",
+        "period": "794-1185 CE",
+        "lesson": "Equanimity regarding sensual desire (upekkhā)"
+      },
+      "lilith_state": {
+        "age": 30,
+        "years_tracking": 5,
+        "occupation": "Psychiatrist, established practice",
+        "power_level": "Brief manifestation",
+        "power_description": "First physical appearances in past; draining, time-limited"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to equanimity/sensual desire",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Heian avatar's life",
+        "method": "First physical manifestation",
+        "what_she_observes": "TBD",
+        "intervention": "Appears as object of desire to bind him through sensual attachment",
+        "tracks_forward_to": "Next avatar (Inquisition Spain)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD",
+        "lilith_advice": "TBD",
+        "irony": "TBD"
+      },
+      "backfire_awareness": {
+        "level": "First direct failure witnessed",
+        "her_understanding": "Exhausted from manifestation; colleagues notice she's distracted"
+      },
+      "physical_cost": "Manifestation drains her for days; headaches, exhaustion",
+      "emotional_state": "New strategy emerging; something personal developing",
+      "closing_hook": "First time she's appeared to him physically; readers see same face",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 15,
+      "id": "cp-07",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 14,
+        "avatar": "TBD (Inquisition accused)",
+        "period": "1480-1492",
+        "lesson": "Patience / overcoming ill-will (khanti)"
+      },
+      "lilith_state": {
+        "age": 31,
+        "years_tracking": 6,
+        "occupation": "Psychiatrist",
+        "power_level": "Sustained presence",
+        "power_description": "Extended manifestations possible; still time-limited"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to patience/ill-will",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Inquisition avatar's life",
+        "method": "Sustained manifestation",
+        "what_she_observes": "TBD",
+        "intervention": "Appears as inquisitor or fellow victim urging vengeance; cultivates hatred",
+        "tracks_forward_to": "Next avatar (Renaissance France)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD",
+        "lilith_advice": "TBD",
+        "irony": "TBD"
+      },
+      "backfire_awareness": {
+        "level": "Pattern becoming clear",
+        "her_understanding": "Discovers 'one per system' rule in research; understands cosmic stakes"
+      },
+      "research_discovery": "Finds texts on one Buddha per world-system; fear crystallizes",
+      "emotional_state": "Desperate measures; willing to cause him suffering",
+      "closing_hook": "TBD",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 17,
+      "id": "cp-08",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 16,
+        "avatar": "TBD (Renaissance skeptic)",
+        "period": "1580-1592",
+        "lesson": "Truthfulness / overcoming doubt (sacca)"
+      },
+      "lilith_state": {
+        "age": 32,
+        "years_tracking": 7,
+        "occupation": "Psychiatrist (considering leave)",
+        "power_level": "Direct interaction",
+        "power_description": "Can engage in extended conversations in past"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to truthfulness/doubt",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Renaissance avatar's life",
+        "method": "Extended interaction",
+        "what_she_observes": "TBD",
+        "intervention": "Appears as philosophical companion encouraging radical doubt",
+        "tracks_forward_to": "Next avatar (Taiping China)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD",
+        "lilith_advice": "TBD",
+        "irony": "TBD"
+      },
+      "backfire_awareness": {
+        "level": "Interventions consistently failing",
+        "her_understanding": "Intellectually engaged but interventions keep backfiring"
+      },
+      "emotional_state": "Battle of ideas she thinks she can win; patients notice preoccupation",
+      "closing_hook": "TBD",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 19,
+      "id": "cp-09",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 18,
+        "avatar": "TBD (Taiping rebel)",
+        "period": "1850-1864",
+        "lesson": "Determination / self-sacrifice (adhiṭṭhāna)"
+      },
+      "lilith_state": {
+        "age": 33,
+        "years_tracking": 8,
+        "occupation": "Psychiatrist (on partial leave)",
+        "power_level": "Near-full manifestation",
+        "power_description": "Extended physical presence; direct confrontations possible"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to determination/self-sacrifice",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "Taiping avatar's life",
+        "method": "Near-full manifestation",
+        "what_she_observes": "TBD",
+        "intervention": "Works to make his sacrifices meaningless; everyone he saves dies anyway",
+        "tracks_forward_to": "Next avatar (1930s Detective)"
+      },
+      "patient_parallel": {
+        "present": true,
+        "patient_situation": "TBD",
+        "lilith_advice": "TBD",
+        "irony": "TBD"
+      },
+      "backfire_awareness": {
+        "level": "Ruthless denial",
+        "her_understanding": "Stakes justify any action; can sense him approaching stream-entry"
+      },
+      "emotional_state": "Ruthless; ordinary life suffering; considering full leave",
+      "closing_hook": "TBD",
+      "word_target": 2500,
+      "status": "needs_development"
+    },
+    {
+      "chapter_number": 21,
+      "id": "cp-10",
+      "title": "The Decision",
+      "corresponds_to": {
+        "historical_chapter": 20,
+        "avatar": "TBD (1930s Detective)",
+        "period": "1930s USA",
+        "lesson": "Energy / Perseverance (viriya)"
+      },
+      "lilith_state": {
+        "age": 34,
+        "years_tracking": 9,
+        "occupation": "Psychiatrist (on leave)",
+        "power_level": "Full manifestation in past",
+        "power_description": "Complete presence in past timelines; preparing for present incarnation"
+      },
+      "demonstration": {
+        "fetter_demonstrated": "TBD - related to perseverance",
+        "scene_type": "TBD",
+        "location": "TBD",
+        "key_detail": "TBD",
+        "contrast_with_silas": "TBD"
+      },
+      "tracking_content": {
+        "target_discovered": "1930s Detective's life (most recent past life)",
+        "method": "Full manifestation",
+        "what_she_observes": "He persists despite overwhelming obstacles",
+        "intervention": "Appears as femme fatale/client; breaks every case, every victory turns to ash",
+        "tracks_forward_to": "Present day—finds Silas Pahlavan in Manchester"
+      },
+      "patient_parallel": {
+        "present": false,
+        "note": "She's on leave; this chapter focuses on the decision to incarnate"
+      },
+      "backfire_awareness": {
+        "level": "Complete failure acknowledged",
+        "her_understanding": "Nine years, nine lives tracked, every intervention backfired"
+      },
+      "the_decision": {
+        "realization": "He's approaching stream-entry; window closing",
+        "research": "One-per-system rule means his success nullifies her eons of work",
+        "power_assessment": "Strong enough to incarnate in same timeline—barely",
+        "finding_silas": "Tracks to present; finds him in Manchester; philosophy professor",
+        "the_plan": "Incarnate fully, become his lover, prevent breakthrough from inside",
+        "rationalization": "Not manipulation if she genuinely cares",
+        "the_meeting": "Engineers encounter at his lecture on Nagarjuna"
+      },
+      "emotional_state": "All masks dropped; calculated commitment with undercurrent of something unexamined",
+      "closing_hook": "First meeting; his open smile; she knows she can get close enough—but strange flutter she dismisses",
+      "foreshadowing": "The attraction she won't name; the pull toward him that exceeds tactical necessity",
+      "word_target": 3500,
+      "status": "needs_development"
+    }
+  ],
+
+  "recurring_elements": {
+    "demonstration_technique": {
+      "description": "Each chapter includes a scene where Lilith demonstrates mastery of the fetter Silas struggles with in the corresponding historical chapter",
+      "structure": [
+        "Patient or colleague describes situation paralleling her pursuit of Silas",
+        "Lilith offers genuinely wise counsel",
+        "Physical tell undercuts her equanimity (shaking hands, tension, etc.)",
+        "She returns to tracking/intervention without applying her own advice"
+      ],
+      "purpose": "Creates devastating irony—she sees truth perfectly, articulates it beautifully, cannot apply it to herself"
+    },
+    "physical_cost": {
+      "description": "Tracking and intervention have bodily consequences that escalate",
+      "progression": [
+        "CP-01: Headaches from sustained focus",
+        "CP-02 through CP-05: Increasing exhaustion, nausea",
+        "CP-06 through CP-09: Manifestation drains her for days; colleagues notice decline",
+        "CP-10: Full incarnation feels like dying and being born simultaneously"
+      ]
+    },
+    "professional_decline": {
+      "description": "Her clinical career suffers as obsession grows",
+      "progression": [
+        "CP-01 through CP-03: Thriving, building reputation",
+        "CP-04 through CP-06: Colleagues notice preoccupation",
+        "CP-07 through CP-08: Considering leave; patients affected",
+        "CP-09: Partial leave",
+        "CP-10: Full leave; decade-long pursuit has consumed her life"
+      ]
+    },
+    "notebook_documentation": {
+      "description": "She maintains meticulous records throughout",
+      "progression": [
+        "CP-01: 15 years of self-tracking; opens new section 'Others'",
+        "CP-02 through CP-09: Documentation grows more elaborate, obsessive",
+        "CP-10: Flat covered with notes, research, maps"
+      ]
+    },
+    "maitreya_foreshadowing": {
+      "description": "Subtle hints planted throughout that they are connected at deeper level",
+      "types": [
+        "Moments of hesitation before interventions (she doesn't understand why)",
+        "Inexplicable pain when she causes him suffering",
+        "Dreams where she sees through his eyes or they appear merged",
+        "The attraction she keeps dismissing as tactical calculation",
+        "References to 'loving-kindness' (mettā/maitri—Maitreya's name meaning)"
+      ],
+      "frequency": "1-2 subtle moments per chapter maximum; never explained"
+    }
+  },
+
+  "voice_notes": {
+    "register": "Contemporary literary; clinical vocabulary when appropriate",
+    "key_patterns": [
+      "Undermining clause in every significant observation",
+      "Sensory anchoring (Manchester setting, her body, clinical spaces)",
+      "Loaded gestures (hand hovering over notebook, tension in shoulders)",
+      "Environmental metaphor (rain, institutional lighting, her increasingly cluttered flat)"
+    ],
+    "forbidden": [
+      "Buddhist terminology (meditation → practice, enlightenment → completion, etc.)",
+      "Abstract emotion words (render through physical sensation)",
+      "Filter verbs without purpose"
+    ],
+    "contrast_with_historical": "These are the quietest chapters—calm professional exterior, stillness of practice, disturbing obsession beneath"
+  }
+}
