@@ -1,0 +1,41 @@
+{
+  "chapter_id": "ch06-athens-greece",
+  "avatar": {
+    "name": "Philon",
+    "occupation": "Public physician serving the poorer districts of Athens during the early plague years",
+    "status": "Respected but overextended civic healer, working under immense strain as the plague escalates"
+  },
+  "physical": {
+    "appearance": "Lean, sun-worn Athenian man in his late 30s, prematurely aged by long hours, sleepless nights, and exposure to suffering; carries himself with quiet gravity.",
+    "recognition_marker": null
+  },
+  "psychology": {
+    "core_flaw_manifestation": "Philon cannot refuse any call for help, even when doing so endangers others; he believes a single act of compassion may redeem an entire city, making him push past exhaustion and safety.",
+    "fatal_flaw": "Martyrdom impulse: Philon accepts personal destruction as the natural price of aiding others, mistaking self-sacrifice for moral purity.",
+    "strengths": [
+      "Extraordinary compassion",
+      "Calm under pressure",
+      "Technical medical skill",
+      "Deep sense of civic duty"
+    ],
+    "weaknesses": [
+      "Inability to set boundaries",
+      "Blindness to systemic solutions",
+      "Self-neglect framed as virtue",
+      "Overidentification with the suffering of others"
+    ]
+  },
+  "chapter_arc": {
+    "opening_state": "Philon begins as an exhausted but devoted civic physician, clinging to the belief that tireless individual care can blunt the unfolding catastrophe.",
+    "inciting_incident": "The first unmistakable plague case arrives in his clinic, followed by a flood of infected citizens, forcing Philon into impossible triage decisions.",
+    "climax": "Philon knowingly exposes himself to infection while tending to an isolated young patient no one else will touch—choosing personal risk over the duty to remain alive for the many he could still help.",
+    "closing_state": "As illness overtakes him, Philon realizes that his death prevents him from helping others in any meaningful way. He sees the tragedy of confusing martyrdom for compassion, yet this insight comes too late to save him."
+  },
+  "lesson_development": {
+    "perfection_or_fetter": "Lesson: Altruism — developing the understanding that compassion must be paired with wisdom and boundaries.",
+    "what_learned": "Philon glimpses that true altruism requires prioritizing the collective good rather than burning oneself out for symbolic individual sacrifices.",
+    "what_failed": "He still cannot relinquish the identity of 'the one who must help,' clinging to the ego-structure that fuels his downfall.",
+    "death_seeds_next": "This incomplete insight sets the stage for the next life’s philosophical struggle in Rome: the Stoic investigator’s fixation on virtue, duty, and moral correctness emerges as an attempt to intellectualize the limits of personal responsibility."
+  },
+  "notes": "This chapter functions as a Greek-tragic pivot in the cycle: Philon’s noble but misguided self-sacrifice advances Silas’s karmic trajectory but does not free him. The plague setting amplifies the consequences of individual vs. collective compassion. Lilith’s separated interlude should subtly highlight the limits of Philon’s approach without interfering with the narrative physics of the chapter itself."
+}
