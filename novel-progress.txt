@@ -105,7 +105,7 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Ch|Title           |Avatar |Period     |Status   |
 |--|----------------|-------|-----------|---------|
 |2 |Blood           |Ka     |300,000 BCE|DRAFTED  |
-|4 |The Ledger      |Chandra|268 BCE    |outlined |
+|4 |The Ledger      |Chandra|268 BCE    |DRAFTED  |
 |6 |The Philosopher |[TBD]  |450 BCE    |needs_dev|
 |8 |The Investigator|[TBD]  |100 CE     |needs_dev|
 |10|The Hermit      |[TBD]  |350 CE     |needs_dev|
@@ -120,7 +120,7 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Ch|Title              |Her Age|Power Level              |Status   |
 |--|-------------------|-------|-------------------------|---------|
 |3 |The Discovery      |25     |Observation              |DRAFTED  |
-|5 |The Ledger’s Shadow|26     |Remote influence         |needs_dev|
+|5 |The Ledger’s Shadow|26     |Remote influence         |DRAFTED  |
 |7 |TBD                |27     |Dream influence          |needs_dev|
 |9 |TBD                |28     |Circumstance manipulation|needs_dev|
 |11|TBD                |29     |Growing control          |needs_dev|
