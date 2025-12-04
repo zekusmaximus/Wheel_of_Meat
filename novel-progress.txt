@@ -402,6 +402,57 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 11 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene IX: Exodus—Death & Seeding (~739 words)
+- Philon's death scene: lingering passage from life, final moments of consciousness
+- Death arrives as "loosening"—shift from holding to letting go
+- Karmic seed crystallizes: hunger to understand virtue correctly carries forward
+- Urge toward rebirth established as sharper than grief or regret
+- Citizens find body, carry to mass pyre without ceremony
+- Final image: Athens burning, wheel turning, hunger remaining
+- Chapter 6 complete—all nine scenes drafted
+- Updated scene-manifest.json: Scene IX added, chapter status changed to "draft"
+
+**Decisions Made:**
+
+- Death structured in three movements: lingering decline, the moment of death with karmic seed, external perspective of body's disposal
+- Karmic hunger emphasized as "sharper than grief"—the incomplete lesson drives rebirth
+- Final insight: "There must be a way to understand virtue correctly" becomes seed for Stoic investigator (Ch 8)
+- Citizens who find him are unnamed survivors—maintain tragic universality
+- No post-death consciousness or bardo state—death and urge toward rebirth are final images per protocol
+- Word count slightly over target (739 vs 600) but all required beats needed space
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 08's closing: "Philon closed his eyes"
+- The incomplete insight from Scene 08 crystallizes into forward-moving hunger
+- Recognition that "fear wearing virtue's face" drives the karmic seed
+- Meat/body theme: "meat and bone, the flesh that holds and limits, the wheel turning again"
+- Environmental metaphor: smoke, pyres, burning maintained through final image
+- Greek tragic restraint maintained: no melodrama, no excessive sentiment
+- Pyre with eleven others—Philon dies as one among many, not exceptional in death
+
+**Chapter 6 Summary:**
+
+- Total word count: ~9,379 words (target was ~9,700)
+- All nine tragic architecture sections complete
+- Philon's arc: devoted physician → martyrdom → incomplete insight → death → karmic seed
+- Lilith's interventions successfully rendered (xenophobic rumors, dream to Alexios)
+- Recognition markers maintained throughout
+- Meat/body thread present in every scene
+- Karmic bridge to Chapter 8 (Roman Stoic investigator) established
+
+**Next Steps:**
+
+- Chapter 6 complete and ready for revision pass (separate session)
+- Chapter 7 (Lilith CP03) needs development
+- Chapter 8 (Roman investigator) needs avatar development and scene breakdown
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -416,7 +467,7 @@ Current focus: Building agent infrastructure and completing chapter development 
 |--|----------------|-------|-----------|---------|
 |2 |Blood           |Ka     |300,000 BCE|DRAFTED  |
 |4 |The Ledger      |Chandra|268 BCE    |DRAFTED  |
-|6 |The Philosopher |Philon |430 BCE    |DRAFTING |
+|6 |The Philosopher |Philon |430 BCE    |DRAFTED  |
 |8 |The Investigator|[TBD]  |100 CE     |needs_dev|
 |10|The Hermit      |[TBD]  |350 CE     |needs_dev|
 |12|The Lover       |[TBD]  |1000 CE    |needs_dev|
@@ -474,11 +525,11 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Section          |Target      |Drafted    |Remaining   |
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
-|Act II Historical|80,000      |~11,400    |68,600      |
+|Act II Historical|80,000      |~21,300    |58,700      |
 |Act II Lilith    |27,000      |~4,000     |23,000      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~23,400**|**~132,600**|
+|**Total**        |**~156,000**|**~33,300**|**~122,700**|
 
 -----
 
