@@ -112,13 +112,24 @@ Lilith's family makes demands on her attention—a visit, a call, an obligation 
 - Creates external pressure that isn't professional
 - Saves patient crisis for later chapters (too close to Stewart in Ch 1)
 
-**Possible Family Scenarios:**
-- A parent needing something (not crisis-level, just attention)
-- A sibling's life event requiring her presence
-- A family gathering she cannot avoid
-- An aging relative whose care is being discussed
+### The Specific Scenario: Mother's Remarriage + Sister's Engagement
 
-**Key Dynamic:** Lilith handles this *deftly*. She doesn't resent or avoid family—she manages the relationship with the same skill she brings to clinical work. This is her strength: she can be present, give appropriate attention, then return to her project without guilt or over-involvement.
+**DECIDED:** Lilith's mother is remarrying. Her sister is also engaged—and resents the mother "stealing her spotlight."
+
+**The Dynamics:**
+- **Mother:** Excited about remarriage, perhaps oblivious to (or dismissive of) the sister's feelings
+- **Sister:** Engaged, should be having her moment, feels upstaged by mother's announcement
+- **Lilith:** Caught between them, expected to manage both relationships
+
+**Why This Works:**
+- Genuinely messy emotional terrain—not a simple family obligation
+- Shows Lilith's equanimity under complex interpersonal pressure
+- Neither mother nor sister is wrong exactly, but both want Lilith on their side
+- Lilith can't fix this, can only navigate it—and she does so with skill
+
+**Key Dynamic:** Lilith handles this with genuine equanimity—not cold detachment, but the ability to be present to both women's feelings without being consumed by either. She validates the sister's frustration without attacking the mother. She congratulates the mother without dismissing the sister. She doesn't take sides, doesn't get pulled into the drama, doesn't need to fix everyone.
+
+**Emotional Register:** Complex. Warm but boundaried. Lilith genuinely cares about both, but her care doesn't require her to lose herself. This is the balance her caregiver patient cannot achieve.
 
 **The Contrast:** Her parallel patient (caregiver guilt) cannot do what Lilith does naturally.
 
@@ -132,15 +143,18 @@ Lilith's family makes demands on her attention—a visit, a call, an obligation 
 
 ### Parallel Patient: Caregiver Guilt
 
-**DECIDED:** A patient drowning in caregiver guilt—someone caring for a dying or declining parent/spouse who is destroying their own life, relationships, health, and cannot stop because "that would be selfish."
+**DECIDED:** A male patient drowning in caregiver guilt—caring for his aging mother, destroying his own life in the process.
 
 **Patient Profile:**
-- Mid-40s to 50s (old enough to have aging parent)
+- **Gender:** Male (different cultural weight than "good daughter"—men who become primary caregivers often struggle with identity in particular ways)
+- **Mother's Name:** Marsha (quiet echo of Marcia Faenia, the name Lilith will take in Rome—thread of mother figures, care, attachment)
+- Mid-40s to 50s
 - Professional life suffering from caregiver demands
-- Marriage/relationships strained
-- Identity fused with being "the good daughter/son"
+- Marriage/relationships strained or collapsed
+- Identity fused with being "the good son"
 - Cannot accept help or set boundaries
 - Believes any self-preservation is abandonment
+- Perhaps only child, or the sibling who "stepped up" when others didn't
 
 **Lilith's Clinical Advice:**
 - "Your worth doesn't depend on what you sacrifice."
