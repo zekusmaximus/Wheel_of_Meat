@@ -205,6 +205,45 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 6 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene IV: First Stasimon—The City's Lament (~510 words)
+- Choral interlude showing Athens's collapse without Philon POV
+- Funeral pyres burning day and night; citizens abandoning proper burial rites
+- Civic institutions dissolving (courts closed, Assembly abandoned, philosophers fled)
+- Parthenon as environmental metaphor for divine indifference
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Used omniscient/choral POV as befits Greek tragic stasimon structure
+- Structured lament around progressive breakdown: rites first, then bodies as obstacles, then fire as only recourse
+- Parthenon's beauty contrasted with city's horror creates undermining tension
+- Brief Philon reference at end ("somewhere in the city, a physician worked on") maintains narrative thread
+- Meat/body theme rendered through "greasy smoke," burning flesh smell, bodies as landscape features
+
+**Continuity Notes:**
+
+- Scene picks up pyre imagery from Scene 03's closing lines
+- Coin for Charon, washing of body, lamentations—all historically accurate burial customs
+- No anachronisms: agora, Acropolis, Athena, Assembly, Parthenon all appropriate
+- Divine indifference theme echoes Ka chapter's cosmos indifferent to individual striving
+- Choral mode prepares reader for return to Philon's individual struggle in Scene V
+
+**Next Scene:**
+
+- Scene V: Second Episode—The Impossible Choice (~1,800 words)
+- Magistrates order Philon to relocate to safety; he refuses
+- Slave woman arrives—abandoned by wealthy owners, fever-wracked
+- Alexios confronts Philon (morning after Lilith's dream)
+- Alexios's departure argument—painful, not villainous
+- Alexios leaves; Philon alone with choice
+- Decision to isolate with patient
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -277,11 +316,11 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Section          |Target      |Drafted    |Remaining   |
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
-|Act II Historical|80,000      |~10,900    |69,100      |
+|Act II Historical|80,000      |~11,400    |68,600      |
 |Act II Lilith    |27,000      |~4,000     |23,000      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~22,900**|**~133,100**|
+|**Total**        |**~156,000**|**~23,400**|**~132,600**|
 
 -----
 
