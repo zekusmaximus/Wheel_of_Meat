@@ -1,4 +1,4 @@
-Period Rules: ch06-athens-greece
+Period Rules: ch06-athens-philosopher
 
 Historical Setting
 	•	Period:
