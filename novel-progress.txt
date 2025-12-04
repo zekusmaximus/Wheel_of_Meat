@@ -167,6 +167,44 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 5 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene III: First Episode—The Flood (~1,550 words)
+- Long Walls crowded with refugees fleeing Spartan raids
+- Lilith's first intervention lands: xenophobic rumors about Persian ships amplifying chaos
+- Magistrate Kallias demands triage by citizen status; Philon refuses
+- Alexios shows first fractures: compulsive hand-washing, story of dead boy, flinches from Philon's touch
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Kallias (Council of Five Hundred member) introduced as voice of civic authority vs. Philon's universal ethic
+- Alexios's crack shown through behavior (compulsive washing, flinching) rather than explicit breakdown
+- Lilith's intervention rendered naturalistically—rumors that "spread faster than the illness they pretended to explain"
+- Dead boy scene plants Alexios's eventual departure argument: triage as rational, not cowardly
+- "Physician's oath does not distinguish between the blood of a citizen and the blood of a slave" as Philon's defining moral stance
+
+**Continuity Notes:**
+
+- Scene picks up "a fortnight" after Scene 02's first plague case
+- Alexios's wariness from Scene 02 has evolved into visible psychological strain
+- Philon's observational patience maintained ("Philon watched him, as he watched everyone")
+- Environmental metaphor: funeral pyres as "orange smears," smoke settling "like a shroud"
+- Meat/body thread: pustules, fluids, hands that "carry death"
+
+**Next Scene:**
+
+- Scene IV: First Stasimon—The City's Lament (~500 words)
+- Funeral pyres visible day and night
+- Citizens abandon rites, hurl corpses onto fires
+- Civic order dissolving
+- Atmospheric—Philon not present; city as chorus
+- Meat/body: Burning flesh of funeral pyres
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -239,11 +277,11 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Section          |Target      |Drafted    |Remaining   |
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
-|Act II Historical|80,000      |~9,350     |70,650      |
+|Act II Historical|80,000      |~10,900    |69,100      |
 |Act II Lilith    |27,000      |~4,000     |23,000      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~21,350**|**~134,650**|
+|**Total**        |**~156,000**|**~22,900**|**~133,100**|
 
 -----
 
