@@ -234,13 +234,52 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 **Next Scene:**
 
-- Scene V: Second Episode—The Impossible Choice (~1,800 words)
-- Magistrates order Philon to relocate to safety; he refuses
-- Slave woman arrives—abandoned by wealthy owners, fever-wracked
-- Alexios confronts Philon (morning after Lilith's dream)
-- Alexios's departure argument—painful, not villainous
-- Alexios leaves; Philon alone with choice
-- Decision to isolate with patient
+- Scene VI: Second Stasimon—The Cost of the Choice (~500 words)
+- Pericles glimpsed in passing (image of man who cannot save what he loves)
+- Smell of unburied dead permeating city
+- Philon's first flicker of doubt—suppressed immediately
+- Atmospheric deepening of tragedy
+
+-----
+
+### Session 7 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene V: Second Episode—The Impossible Choice (~1,680 words)
+- Magistrate Kallias orders Philon to relocate to Eleusis to serve the wealthy; Philon refuses
+- Alexios confronts Philon with the rational argument: "If we both die, who treats the hundred?"
+- Slave woman from Scythia arrives—abandoned by owners, dying at the gate
+- Alexios's departure: painful, not villainous—he voices the lesson Philon cannot hear
+- Philon carries the woman toward his clinic, choosing one life over the many
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Lilith's dream-influence on Alexios rendered naturalistically: "Something had changed in the night. Something Philon could not name."
+- Alexios's departure framed as rational love, not cowardice—he makes the Stoic argument Philon's next incarnation will embrace
+- The slave woman remains unnamed throughout (Philon never learns her name—this is thematically important)
+- Her single word "Why?" crystallizes the unanswerable nature of his choice
+- Binding memory echoes: "He could not become that man" (the physician who closed his door)
+- Kallias introduced as voice of civic pragmatism: "You serve the polis, physician—not your own conscience"
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 04's closing line: "somewhere in the city, a physician worked on"
+- Alexios's psychological fractures from Scene 03 have reached breaking point
+- The shaking hands established in Scene 03 persist: "his hands trembling at his sides"
+- Philon's observational patience maintained: "studied his assistant's face" before speaking
+- Touch as loaded gesture: "close enough to touch, not touching" before the confrontation
+- Environmental metaphor: smoke, pyres, the gate as threshold between living and dying
+- The woman's Scythian origin established; her broken Greek confirms foreign status
+
+**Next Scene:**
+
+- Scene VI: Second Stasimon—The Cost of the Choice (~500 words)
+- Pericles glimpsed in passing (image of man who cannot save what he loves)
+- Smell of unburied dead permeating city
+- Philon's first flicker of doubt—suppressed immediately
+- Atmospheric deepening of tragedy
 
 -----
 
