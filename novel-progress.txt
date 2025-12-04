@@ -275,11 +275,51 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 **Next Scene:**
 
-- Scene VI: Second Stasimon—The Cost of the Choice (~500 words)
-- Pericles glimpsed in passing (image of man who cannot save what he loves)
-- Smell of unburied dead permeating city
-- Philon's first flicker of doubt—suppressed immediately
-- Atmospheric deepening of tragedy
+- Scene VII: Third Episode—Martyrdom (~1,500 words)
+- Philon isolates himself with slave woman
+- Last-ditch care: cooling cloths, water, whispered reassurances
+- She speaks—crystallizes tragedy (gratitude? question about why?)
+- She dies in his arms
+- Philon's first cough
+- Point of no return marked clearly
+
+-----
+
+### Session 8 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene VI: Second Stasimon—The Cost of the Choice (~520 words)
+- Atmospheric interlude showing Athens's continued collapse
+- Pericles glimpsed in litter passing through Agora—parallel to Philon as man who cannot save what he loves
+- Philon's first flicker of doubt surfaces and is suppressed
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Pericles rendered as ghostly presence rather than speaking character—maintains "background only" requirement
+- Stasimon structured in two parts: omniscient city view, then return to Philon's POV for doubt sequence
+- Doubt framed as "arithmetic"—echoing Alexios's rational argument from Scene 05
+- Doubt suppressed but not defeated: "a wound sutured shut without healing"
+- Smell of unburied dead rendered as a presence, not just a sensory detail
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 05's closing: Philon carrying the woman toward his clinic
+- The woman's "Water" request echoes her earlier "Why?"—showing diminished capacity
+- Philon's care (cloth, water) continues the tactile physician thread
+- Pericles's hollow frame mirrors the city's hollowing—environmental metaphor maintained
+- Smoke and pyres imagery continues from previous scenes
+
+**Next Scene:**
+
+- Scene VII: Third Episode—Martyrdom (~1,500 words)
+- Philon isolates himself with slave woman
+- Last-ditch care: cooling cloths, water, whispered reassurances
+- She speaks—crystallizes tragedy (gratitude? question about why?)
+- She dies in his arms
+- Philon's first cough
+- Point of no return marked clearly
 
 -----
 
