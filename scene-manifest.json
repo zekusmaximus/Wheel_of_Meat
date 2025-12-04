@@ -429,7 +429,16 @@
     "Pericles' leadership during plague (background only—no interaction)",
     "Language: formal but accessible classical Greek translated feel"
   ],
-  "status": "fully_developed—ready_for_scene_expansion"
+  "scenes": [
+    {
+      "section": "I",
+      "title": "Prologos—The City Before Collapse",
+      "file": "scene-01-prologos.md",
+      "word_count": 1450,
+      "status": "draft"
+    }
+  ],
+  "status": "drafting"
 },
 
 
