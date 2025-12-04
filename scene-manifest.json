@@ -218,37 +218,220 @@
     },
 
     {
-      "chapter": 6,
-      "id": "ch06-athens-philosopher",
-      "title": "The Philosopher",
-      "type": "historical",
-      "genre": "Historical Tragedy",
-      "setting": {
-        "period": "Classical",
-        "location": "Athens, Greece",
-        "year": "461-429 BCE"
-      },
-      "pov": "TBD",
-      "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
-      },
-      "lilith": {
-        "powers": "Dream influence—can plant suggestions in sleep",
-        "intervention": "Plants dreams conflating selflessness with self-destruction",
-        "objective": "Corrupt his understanding of altruism; make him believe true selflessness requires martyrdom"
-      },
-      "lesson": {
-        "perfection": "Wisdom (paññā)",
-        "theme": "Individual vs. collective good; true altruism",
-        "core_development": "Struggles with personal sacrifice vs. systemic change"
-      },
-      "backfire": "TBD",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+  "chapter": 6,
+  "id": "ch06-athens-philosopher",
+  "title": "The Philosopher",
+  "type": "historical",
+  "genre": "Historical Tragedy",
+  "setting": {
+    "period": "Classical Athens",
+    "location": "Athens, Greece (Agora, Long Walls, Piraeus)",
+    "year": "430 BCE (Year 2 of Peloponnesian War)",
+    "historical_context": "Plague of Athens during Pericles' leadership"
+  },
+  "pov": "Philon of Kephissia",
+  "avatar": {
+    "name": "Philon of Kephissia",
+    "age": "Early 40s",
+    "occupation": "Physician (iatros)",
+    "status": "Developing soul",
+    "recognition_markers": [
+      "Observational patience—watches before acting",
+      "Physical hesitation before touch (echo of Ka's deliberation)",
+      "Tendency to see individuals rather than categories"
+    ],
+    "fatal_flaw": "Conflates selflessness with self-destruction; cannot distinguish between compassionate service and martyrdom",
+    "binding_memory": "As young man, witnessed physician refuse plague victim during earlier outbreak; victim died begging; vowed never to be the man who abandons"
+  },
+  "lilith": {
+    "age": 27,
+    "identity": "Unknown presence in Athens",
+    "powers": "Dream influence—can plant suggestions and emotional residue during sleep",
+    "intervention_1": {
+      "timing": "First Episode",
+      "method": "Accelerates rumor that plague came from Persian ships",
+      "effect": "Creates xenophobic panic; refugees flood to Philon; strains resources"
     },
+    "intervention_2": {
+      "timing": "Night before Second Episode",
+      "method": "Sends dream to Alexios: vision of Philon's corpse, certainty that following means death, whisper that survival is service",
+      "target": "Alexios (Philon's assistant)",
+      "effect": "Alexios refuses to help treat slave woman; Philon faces final choice alone"
+    },
+    "objective": "Isolate Philon and accelerate his martyrdom by removing witnesses and support"
+  },
+  "key_characters": {
+    "alexios": {
+      "role": "Assistant and pupil",
+      "age": "Young man (early 20s)",
+      "function": "Voices the lesson Philon cannot hear: survival enables service to many",
+      "arc": "Believes in Philon's ethic until plague tests it; breaks when asked to accompany to slave woman; departure is rational, not cowardly",
+      "departure_argument": "If we both die treating one slave, who treats the hundred waiting outside? You taught me that a physician's life belongs to his patients. All of them. Not just the one in front of us."
+    },
+    "the_patient": {
+      "identity": "Adult female slave from Scythia",
+      "name": "TBD (foreign name or Greek slave-name)",
+      "status": "Abandoned by wealthy owners when symptomatic",
+      "speech": "Broken, halting Greek",
+      "function": "Lowest social status—makes Philon's choice maximally stark; echoes binding memory through her resignation",
+      "death": "Dies in Philon's arms in Third Episode despite his care"
+    }
+  },
+  "lesson": {
+    "perfection": "Wisdom (paññā)",
+    "theme": "Individual vs. collective good; distinguishing true altruism from self-destruction",
+    "core_development": "Cannot see that martyrdom for one person abandons the many who need him; wisdom requires understanding context and consequences, not just immediate compassion",
+    "insight_achieved": "Incomplete—arises in delirium: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
+    "karmic_seed": "There must be a way to understand virtue correctly → becomes Stoic investigator's obsession with moral framework"
+  },
+  "backfire": {
+    "lilith_intention": "Isolate and accelerate martyrdom",
+    "actual_result": "By ensuring Philon faces choice entirely alone (no one to share burden/blame), his death becomes concentrated seed of insight rather than diluted tragedy; karmic weight pure and undiffused"
+  },
+  "structure": {
+    "form": "Greek tragic architecture (9 sections)",
+    "sections": [
+      {
+        "number": "I",
+        "title": "Prologos—The City Before Collapse",
+        "word_target": 1400,
+        "beats": [
+          "Dawn in Agora; civic pride; Parthenon gleaming",
+          "Philon treating minor cases, already exhausted",
+          "Binding memory surfaces (flashback/internal reference to vow)",
+          "Alexios introduced—eager, competent, admiring",
+          "Subtle tension: rumors of fever from Piraeus",
+          "Recognition marker: Philon watches before acting",
+          "Meat/body: Agora meat market imagery"
+        ]
+      },
+      {
+        "number": "II",
+        "title": "Parodos—The First Breach",
+        "word_target": 900,
+        "beats": [
+          "Man collapses in Agora with unmistakable plague symptoms",
+          "Panic; ring of fear opens around victim",
+          "Philon steps forward alone—Alexios hesitates, then follows",
+          "Line: 'One life is worth the effort'",
+          "Binding moment: Philon becomes physician who will not refuse"
+        ]
+      },
+      {
+        "number": "III",
+        "title": "First Episode—The Flood",
+        "word_target": 1500,
+        "beats": [
+          "Long Walls fill with refugees; clinic overwhelmed",
+          "Lilith's first intervention: xenophobic panic amplified",
+          "Magistrates demand triage by status; Philon refuses",
+          "Alexios begins to crack under pressure",
+          "Meat/body: Philon touches diseased flesh others won't",
+          "Scene escalation toward breaking point"
+        ]
+      },
+      {
+        "number": "IV",
+        "title": "First Stasimon—The City's Lament",
+        "word_target": 500,
+        "beats": [
+          "Funeral pyres visible day and night",
+          "Citizens abandon rites, hurl corpses onto fires",
+          "Civic order dissolving",
+          "Atmospheric—Philon not present; city as chorus",
+          "Meat/body: Burning flesh of funeral pyres"
+        ]
+      },
+      {
+        "number": "V",
+        "title": "Second Episode—The Impossible Choice",
+        "word_target": 1800,
+        "beats": [
+          "Magistrates order Philon to relocate to safety",
+          "Philon refuses: 'What meaning has a healer who abandons the dying?'",
+          "Slave woman arrives—abandoned by wealthy owners, fever-wracked",
+          "Alexios confronts Philon (morning after Lilith's dream)",
+          "Alexios's departure argument—painful, not villainous",
+          "Alexios leaves; Philon alone with choice",
+          "Decision to isolate with patient"
+        ]
+      },
+      {
+        "number": "VI",
+        "title": "Second Stasimon—The Cost of the Choice",
+        "word_target": 500,
+        "beats": [
+          "Pericles glimpsed in passing (image of man who cannot save what he loves)",
+          "Smell of unburied dead permeating city",
+          "Philon's first flicker of doubt—suppressed immediately",
+          "Atmospheric deepening of tragedy"
+        ]
+      },
+      {
+        "number": "VII",
+        "title": "Third Episode—Martyrdom",
+        "word_target": 1500,
+        "beats": [
+          "Philon isolates himself with slave woman",
+          "Last-ditch care: cooling cloths, water, whispered reassurances",
+          "She speaks—crystallizes tragedy (gratitude? question about why?)",
+          "She dies in his arms",
+          "Philon's first cough",
+          "Point of no return marked clearly"
+        ]
+      },
+      {
+        "number": "VIII",
+        "title": "Kommos—The Broken Realization",
+        "word_target": 1000,
+        "beats": [
+          "Fever delirium intercut with city's collapse outside",
+          "Visceral insight: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
+          "Incomplete understanding—arising from pain, not clarity",
+          "Too late to change anything",
+          "Recognition that martyrdom ≠ virtue"
+        ]
+      },
+      {
+        "number": "IX",
+        "title": "Exodus—Death & Seeding",
+        "word_target": 600,
+        "beats": [
+          "Philon dies quietly, surrounded by abandoned tools",
+          "Citizens carry body without ceremony",
+          "Karmic pivot crystallizes: 'There must be a way to understand virtue correctly'",
+          "Seeds Stoic investigator's obsession with moral framework",
+          "Final image of Athens continuing to burn"
+        ]
+      }
+    ],
+    "total_word_target": 9700
+  },
+  "thematic_elements": {
+    "meat_body_thread": [
+      "Agora meat market in Prologos",
+      "Philon's hands on diseased bodies throughout",
+      "Burning flesh of funeral pyres in Stasimon sections",
+      "Physical deterioration in delirium",
+      "Abandoned corpses as civic collapse marker"
+    ],
+    "undermining_pattern": "Preserved through Greek restraint—assertions complicated by immediate counter-evidence or doubt",
+    "sensory_anchoring": "Physical Athens (architecture, smells, textures) before interiority; emphasis on tactile reality of plague",
+    "loaded_gestures": "Touch as moral statement; refusal to touch as condemnation",
+    "environmental_metaphor": "City's physical decay mirrors moral/spiritual collapse"
+  },
+  "historical_accuracy_requirements": [
+    "Plague symptoms consistent with Thucydides' description",
+    "Social hierarchy and slave status accurately portrayed",
+    "Long Walls geography and refugee dynamics",
+    "Athenian medical practice and limits",
+    "Funeral rites and their breakdown",
+    "Pericles' leadership during plague (background only—no interaction)",
+    "Language: formal but accessible classical Greek translated feel"
+  ],
+  "status": "fully_developed—ready_for_scene_expansion"
+},
+
 
     {
       "chapter": 7,
