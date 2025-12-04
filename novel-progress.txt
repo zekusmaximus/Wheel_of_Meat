@@ -323,6 +323,45 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 9 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene VII: Third Episode—Martyrdom (~1,520 words)
+- Philon keeps vigil through the night with the Scythian woman
+- She wakes and asks the crystallizing question: "Why waste on one slave?"
+- He answers with presence and touch—the only response he knows
+- She dies three hours before dawn; he performs last rites alone
+- Philon coughs—point of no return established
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- The woman's question "Why waste on one slave?" crystallizes the tragedy—she has internalized her owners' valuation of her
+- Philon's answer ("You are not a waste") is an act of defiance against the utilitarian calculus
+- She dies without telling him her name; he never asks—thematically important that her identity is complete without external markers
+- The cough arrives after her death, not during—his infection is consequence of his choice, not coincidental
+- Dawn light returns the scene to the living, transitioning toward final scenes
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 06's closing: Philon in small room, woman on last clean pallet
+- The "arithmetic" doubt from Scene 06 is referenced obliquely ("the numbers did not heal")
+- Binding memory echoes: "the hand that had refused to close a door"
+- Tactile physician thread continues: cloth, water, holding her hand, closing her eyes
+- Environmental metaphor: lamp guttering out as she dies, dawn light returning
+- Meat/body theme: pustules spreading, skin mottling, the physical reality of plague death
+
+**Next Scene:**
+
+- Scene VIII: Kommos—The Broken Realization (~1,000 words)
+- Fever delirium intercut with city's collapse
+- Visceral insight: "If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?"
+- Incomplete understanding—arising from pain, not clarity
+- Too late to change anything
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
