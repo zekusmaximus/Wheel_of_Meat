@@ -544,36 +544,252 @@
       "type": "historical",
       "genre": "Mystery/Philosophical Drama",
       "setting": {
-        "period": "Classical",
-        "location": "Roman Empire",
-        "year": "1st-2nd centuries CE"
+        "period": "Classical Rome",
+        "location": "Rome and coastal province",
+        "year": "1st-2nd centuries CE",
+        "historical_context": "Roman legal system, patronage culture, philosophical schools"
       },
-      "pov": "TBD",
+      "pov": "Verinus",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
+        "name": "Verinus (Lucius Severian Verinus)",
+        "age": "Mid-40s",
+        "occupation": "Legal investigator attached to the praetor urbanus",
+        "status": "Developing soul",
+        "recognition_markers": [
+          "Observational patience—watches before acting",
+          "Physical ritual: compulsively cleans bronze stylus when testimony contradicts itself",
+          "Sees individuals rather than categories, even as he judges them harshly"
+        ],
+        "fatal_flaw": "Ill will expressed as resentment toward ambiguity, imperfection, and human inconsistency. Believes virtue requires errorless conclusions.",
+        "binding_pattern": "Inherited martyrdom impulse transforms into rigid demand for moral and factual purity"
       },
       "lilith": {
-        "powers": "Circumstance manipulation—subtle environmental changes",
-        "intervention": "Engineers moral dilemmas with no clean answers",
-        "objective": "Test his commitment to virtue by presenting situations where every choice involves complicity in harm"
+        "age": 28,
+        "identity": "Marcia Faenia—quiet young woman, dark-haired, observational stillness",
+        "powers": "Circumstance manipulation—can subtly manipulate circumstances and minor characters",
+        "cameo": {
+          "scene": 4,
+          "method": "Silent observation at Stoic debate; establishes physical characteristics",
+          "effect": "Non-interference; seeds her Chapter 9 awareness of growing powers"
+        },
+        "intervention_1": {
+          "scene": 2,
+          "timing": "Case assignment",
+          "method": "Clerk miscopies crucial line from testimonial scroll (Lilith-induced distraction)",
+          "effect": "Creates two competing versions of same statement; seeds cognitive fracture"
+        },
+        "intervention_2": {
+          "scene": 5,
+          "timing": "Witness testimony phase",
+          "method": "Triggers noisy argument elsewhere that stalls traffic",
+          "effect": "Witness arrives late, shifting timeline and making alibi impossible; forces Verinus to choose what to believe"
+        },
+        "intervention_3": {
+          "scene": 7,
+          "timing": "Judgment scene",
+          "method": "Amplifies senator's temper from displeasure into rage",
+          "target": "Senator (Varro's patron)",
+          "effect": "Verinus sentenced to relegatio (exile); intended to break him through meaninglessness"
+        },
+        "objective": "Two mini interferences funnel into major one. If destabilized by ambiguity, Verinus should compromise—sacrifice servant to preserve position. Man who can't trust evidence should trust power."
+      },
+      "key_characters": {
+        "marcus_cassianus_priscus": {
+          "role": "Friend and warm human foil",
+          "function": "Represents emotional truth and human connection Verinus refuses to embrace",
+          "arc": "Tries to follow Verinus into exile but blocked by political appointment to Brundisium",
+          "key_trait": "Laughs at contradictions; sees emotional truth where Verinus sees logical disorder",
+          "final_action": "Sends letter to Verinus in exile with news of servant's rebuilt life"
+        },
+        "gaius_quintilius_varro": {
+          "role": "The deceased—respected philosophus",
+          "death": "Philosophical suicide (paradoxical 'lesson')",
+          "function": "Creates naturally paradoxical mystery that resists rational reconstruction"
+        },
+        "the_servant": {
+          "status": "Household slave, legally vulnerable",
+          "function": "Legally guilty but morally innocent—terrified man who omitted detail",
+          "arc": "After Verinus's exile, attempts to intercede to help Marcus; later rebuilds modest life (vegetable stall, wife with child)"
+        },
+        "the_senator": {
+          "role": "Varro's patron, political antagonist",
+          "function": "Expects verdict protecting his dignity by condemning servant",
+          "action": "Rage (Lilith-amplified) leads to Verinus's exile; blocks Marcus with political appointment"
+        }
       },
       "lesson": {
         "perfection": "Virtue (sīla)",
-        "theme": "Ethical action in morally complex situations",
-        "core_development": "Stoic investigator facing impossible choices"
+        "fetter": "Ill will (vyāpāda) → Compassion amid uncertainty",
+        "theme": "Ethical action in morally ambiguous situations; virtue independent of certainty",
+        "core_development": "Cannot distinguish between certainty and virtue; resentment toward ambiguity disguised as Stoic detachment",
+        "insight_achieved": "Virtue is action taken within uncertainty, not purity achieved through perfect knowledge. Compassion is not opposite of reason but its completion.",
+        "karmic_seed": "Accepting uncertainty and choosing compassion softens heart, making him vulnerable to next fetter: sensual desire and emotional attachment → seeds Heian Japan life"
       },
-      "backfire": "TBD",
-      "word_target": 8000,
+      "backfire": {
+        "lilith_intention": "Exile meant to break Verinus—strand him in meaninglessness, man whose life's work was coherence now marooned in chaos",
+        "actual_result": "Accumulated contradictions haven't made him cynical—they've made him humble. Realizes he cannot know with certainty but can still choose with compassion. Protects servant despite uncertainty. Exile removes him from Rome's certainty-obsessed culture, creating space for transformation. Senator meant to destroy him; instead freed him.",
+        "mechanism": "By ensuring Verinus faces choice entirely alone and then exiling him to silence, Lilith inadvertently gives him permission to not know—the one thing Rome never could"
+      },
+      "structure": {
+        "form": "Procedural mystery architecture (9 scenes)",
+        "scenes": [
+          {
+            "number": 1,
+            "title": "The Baths and the First Contempt",
+            "word_target": 800,
+            "beats": [
+              "Public baths at dawn; two citizens loudly disagree over event",
+              "Verinus performs stylus-cleaning ritual",
+              "Marcus joins him, laughs at contradiction; Verinus winces",
+              "Marcia Faenia (Lilith cameo): quiet observation, no interaction",
+              "Establishes Verinus's disdain for ambiguity and emotional aloofness"
+            ]
+          },
+          {
+            "number": 2,
+            "title": "The Case Is Assigned",
+            "word_target": 900,
+            "beats": [
+              "Praetor's office; Gaius Quintilius Varro died under suspicious circumstances",
+              "Three witnesses' accounts contradict sharply",
+              "Marcus warns: 'Varro had patrons. Tread softly.'",
+              "Lilith Interference #1: Clerk miscopies crucial testimonial line",
+              "Launches central mystery; seeds confusion"
+            ]
+          },
+          {
+            "number": 3,
+            "title": "First Testimonies: The Human Noise Floor",
+            "word_target": 1400,
+            "beats": [
+              "Varro's modest but cluttered study",
+              "Three testimonies: Servant (terrified), Student (eloquent/self-interested), Neighbor (resentful)",
+              "Every account contradicts; none malicious",
+              "Verinus attempts rational reconstruction; fails",
+              "Marcus tries emotional interpretation; Verinus dismisses"
+            ]
+          },
+          {
+            "number": 4,
+            "title": "Stoic Debate & Lilith Cameo",
+            "word_target": 1000,
+            "beats": [
+              "Portico where philosophers debate ethics to public audience",
+              "Two philosophers present opposite conclusions from same ethical premise",
+              "Verinus's worldview trembles",
+              "Marcia Faenia stands at edge of crowd, arms folded, watching Verinus's face",
+              "Does not speak; disappears into crowd",
+              "Plants philosophical paradox"
+            ]
+          },
+          {
+            "number": 5,
+            "title": "Collapse of Coherence",
+            "word_target": 1000,
+            "beats": [
+              "Streets of Rome to Praetor's office",
+              "Lilith Interference #2: Noisy argument stalls traffic, witness arrives late",
+              "Timeline shift makes alibi impossible",
+              "Verinus forces coherence by discarding emotional details",
+              "Marcus objects; they quarrel for first time",
+              "Accelerates Verinus's descent into absolutism"
+            ]
+          },
+          {
+            "number": 6,
+            "title": "The Vulnerable Witness",
+            "word_target": 1100,
+            "beats": [
+              "Quiet interior courtyard",
+              "Frightened younger witness (kitchen attendant/youth) gives shifting account",
+              "Emotionally earnest but factually inconsistent",
+              "Verinus near-shouts but restrains himself",
+              "Marcus calms youth; Verinus watches",
+              "Realizes emotional truth is its own kind of accuracy"
+            ]
+          },
+          {
+            "number": 7,
+            "title": "The Compassionate Judgment",
+            "word_target": 1500,
+            "beats": [
+              "Praetor's tribunal or adjudication room",
+              "Verinus reconstructs case: servant legally guilty but morally innocent",
+              "Senator expects verdict condemning servant",
+              "Verinus refuses; highlights senator's selfishness",
+              "Reveals Varro's philosophical suicide as paradoxical lesson",
+              "Lilith Interference #3: Amplifies senator's rage",
+              "Verinus sentenced to relegatio (exile)",
+              "Marcus tries to follow; blocked by appointment to Brundisium",
+              "Servant later attempts to intercede; intimidated by senator's household"
+            ]
+          },
+          {
+            "number": 8,
+            "title": "Exile: The Quiet Unraveling",
+            "word_target": 900,
+            "beats": [
+              "Coastal olive grove or fishing village",
+              "Days pass in quiet labor; small household (freedman, cook)",
+              "Verinus reopens notes, places contradictory testimonies side-by-side",
+              "First time he doesn't clean the stylus",
+              "Allows contradictions to remain",
+              "Letter from Marcus arrives: tried to join, senator blocked; servant rebuilt life (vegetable stall, wife with child)",
+              "Transformation deepens"
+            ]
+          },
+          {
+            "number": 9,
+            "title": "Death: Bittersweet Anonymity",
+            "word_target": 600,
+            "beats": [
+              "Grove at dusk; age or mild illness",
+              "Freedman finds him at dawn; stylus in hand",
+              "Contradictory testimonies unresolved, uncorrected, accepted",
+              "Servants stand together, unsure; neither knew who he'd been or who he'd become",
+              "Final sensation: world is imperfect and therefore lovable",
+              "Final thought: 'Virtue lives where certainty fails.'",
+              "Bittersweet anonymity—surrounded but unknown",
+              "Seeds attachment/desire issues for Heian life"
+            ]
+          }
+        ],
+        "total_word_target": 9200
+      },
+      "thematic_elements": {
+        "stylus_ritual": "Physical manifestation of conceptual need for order; cleaning = restoring order; Scene 8: first time he doesn't clean it; Scene 9: dies with it in hand, contradictions unresolved",
+        "meat_body_thread": [
+          "Public baths—bodies in water, physical vulnerability",
+          "Varro's study—mortal remains vs. immortal ideas",
+          "Courtyard—youth's trembling body revealing emotional truth",
+          "Exile—aging flesh, mild illness, physical decline"
+        ],
+        "undermining_pattern": "Roman legal assertions complicated by immediate human contradiction",
+        "loaded_gestures": "Stylus cleaning, Marcus's laugh, Verinus's restraint, letter reading, unread testimonies"
+      },
+      "historical_accuracy_requirements": [
+        "Roman legal procedures and investigative methods (1st-2nd century CE)",
+        "Social hierarchy: senators, citizens, slaves",
+        "Relegatio vs. other forms of exile",
+        "Roman philosophical schools (Stoicism, though Varro's school kept ambiguous)",
+        "Patronage culture and senatorial power",
+        "Daily life: baths, dress, scrolls, writing implements",
+        "Geography: coastal provinces suitable for exile",
+        "Language: Formal but accessible Latin-translated feel"
+      ],
+      "death_bridge": {
+        "description": "Dies surrounded by servants who don't know him; bittersweet anonymity rather than isolation",
+        "seeds_next": "Emotional vacancy becomes karmic invitation to Heian court life where sensual desire and attachment will test him",
+        "distinction": "Not isolation (Ka, Philon) but anonymity—surrounded yet unknown"
+      },
       "scenes": [],
-      "status": "needs_development"
+      "status": "outlined"
     },
 
     {
       "chapter": 9,
       "id": "ch09-lilith-cp04",
-      "title": "TBD",
+      "title": "The Circumstance",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
@@ -587,23 +803,33 @@
         "years_tracking": 3,
         "occupation": "Completing doctorate / early clinical practice",
         "power_level": "Circumstance manipulation",
-        "emotional_state": "Practice deepening; concern emerging"
+        "emotional_state": "Practice deepening; concern emerging; frustration at unintended success"
       },
       "corresponds_to": {
         "historical_chapter": 8,
-        "avatar": "Roman investigator",
-        "lesson": "Virtue (sīla)"
+        "avatar": "Verinus (Roman investigator)",
+        "lesson": "Virtue (sīla) / Ill will → Compassion"
       },
       "demonstration": {
-        "fetter": "TBD—related to ethical clarity",
-        "scene": "TBD"
+        "fetter": "Ethical action in ambiguous situations",
+        "scene": "Patient or colleague presents ethically complex situation with no clear answer; Lilith realizes she can act with compassion despite uncertainty",
+        "irony": "Demonstrates the very lesson Verinus learned—virtue lives where certainty fails—yet immediately returns to planning how to stop Silas"
       },
       "tracking_content": {
-        "observes": "Roman avatar's life",
-        "intervention": "Circumstance manipulation—engineers dilemmas",
-        "tracks_forward_to": "Egyptian avatar"
+        "observes": "Verinus's life in Rome and exile",
+        "past_life_awareness": "Notes she was physically present as Marcia Faenia—'I stood close enough to touch him. My powers were growing—I could be there now, not merely observe.'",
+        "intervention_review": [
+          "Scribal error: intended to fracture evidence, make reconstruction harder",
+          "Traffic delay: intended to introduce impossible alibi, force choice under pressure",
+          "Senator's rage: THE TRAP—meant to make Verinus compromise, sacrifice servant to survive"
+        ],
+        "intended_outcome": "If destabilized by ambiguity, he should become complicit in injustice. Man who can't trust evidence should trust power. Virtue corrodes; ill-will calcifies as resentment.",
+        "actual_outcome": "He doesn't compromise. Contradictions made him humble, not cynical. Chose compassion despite uncertainty. Protected servant.",
+        "the_backfire": "I amplified his rage past discretion, past political calculation. The exile was meant to break Verinus—to strand him in meaninglessness, a man whose life's work had been coherence now marooned in chaos. Instead, I gave him silence. I gave him time. I gave him the one thing Rome never could: permission to not know.",
+        "tracks_forward_to": "Egyptian avatar (Desert Father)"
       },
-      "backfire_awareness": "Growing concern—something isn't working",
+      "backfire_awareness": "Growing concern—something isn't working. Her interventions consistently backfire. The contradictions she cultivated became crucible of his moral awakening. Admits: 'I meant to break his trust in virtue. Instead, I showed him how deeply the world needs it.' She is unsettled by this failure—and perhaps by flicker of her own compassion she refuses to name.",
+      "emotional_arc": "Frustration building beneath methodical surface. First clear articulation that her strategy is failing. Perhaps earliest hint of her own transformation—the compassion she demonstrates in her life mirrors what Verinus learned, but she cannot yet see the connection.",
       "word_target": 2500,
       "scenes": [],
       "status": "needs_development"
