@@ -33,8 +33,9 @@ Each chapter operates in a distinct genre mode while maintaining thematic and na
   
   /incarnations
     /ch01-contemporary-manchester
-    /ch02-prehistoric-jebel-irhoud
-    /ch03-mauryan-india
+    /ch02-prehistoric-ka
+    /ch03-lilith-cp01
+    /ch04-mauryan-chandra
     ... (one folder per chapter)
       period-rules.md          # Historical/genre constraints
       avatar-profile.json      # Character details
