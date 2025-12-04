@@ -501,40 +501,196 @@
     {
       "chapter": 7,
       "id": "ch07-lilith-cp03",
-      "title": "TBD",
+      "title": "The Dream-Walker",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
-        "year": "8 years before Chapter 1"
+        "year": "8 years before Chapter 1",
+        "timespan": "Several weeks to a few months"
       },
       "pov": "Lilith",
       "lilith": {
-        "age": 27,
-        "years_tracking": 2,
-        "occupation": "Advanced graduate student",
+        "age": "27-28",
+        "years_tracking": "2-3",
+        "occupation": "Advanced graduate student / early clinical work",
         "power_level": "Dream influence",
-        "emotional_state": "Still confident; first whispers of concern"
+        "capabilities": [
+          "Can plant suggestions and guidance in dreams",
+          "Works through liminal space between waking and sleeping",
+          "Can shape dream imagery and emotional atmosphere",
+          "Influence is indirect but more personal than remote manipulation"
+        ],
+        "limitations": [
+          "Suggestions only, not commands",
+          "Dream logic applies—messages distort, become symbolic",
+          "Cannot force choices",
+          "Cannot enter waking consciousness directly"
+        ],
+        "emotional_state": "Methodical confidence; first whisper of curiosity (not concern) about kinship with Silas",
+        "physical_cost": "Understated—fatigue mentioned but no dramatic deterioration"
       },
       "corresponds_to": {
         "historical_chapter": 6,
-        "avatar": "Athens philosopher",
+        "avatar": "Philon (Athens philosopher)",
+        "avatar_fetter": "Compulsive helping / inability to distinguish compassion from martyrdom",
         "lesson": "Wisdom (paññā)"
       },
+      "family_dynamics": {
+        "scenario": "Mother remarrying to Jeff; sister Nadia also engaged and resents mother 'stealing spotlight'",
+        "mother": "Excited about remarriage, perhaps oblivious to Nadia's feelings",
+        "sister_nadia": "Engaged, feels upstaged, frames Jeff as complicit (he isn't)",
+        "jeff": "Actually a good guy—warm, nervous, loves her mother; not the villain Nadia painted",
+        "lilith_response": "Navigates with genuine equanimity—warm but boundaried, validates feelings without taking sides, sees truth without imposing it",
+        "thematic_function": "Shows her competence in personal life (unlike her patients); demonstrates the balance her caregiver patient cannot achieve"
+      },
       "demonstration": {
-        "fetter": "TBD—related to wisdom/discernment",
-        "scene": "TBD"
+        "fetter": "Sustainable compassion vs. martyrdom (wisdom/discernment)",
+        "patient": {
+          "name": "David",
+          "profile": "Male, late 40s-50s, caring for aging mother Marsha",
+          "condition": "Caregiver guilt—destroying his life, marriage ended, career stalled, identity fused with being 'the good son'",
+          "mothers_name": "Marsha (quiet echo of Marcia Faenia, Lilith's Roman form)"
+        },
+        "clinical_advice": [
+          "Your worth doesn't depend on what you sacrifice",
+          "Sustainable care requires preserving yourself",
+          "Martyrdom isn't love—it's another form of control",
+          "Whether the love requires this particular shape—whether there's a version of being a good son that doesn't require you to disappear"
+        ],
+        "doubled_irony": {
+          "layer_1": "Lilith gives perfect advice she cannot apply to her obsessive tracking project",
+          "layer_2": "But she DOES apply this wisdom to her own family—navigates mother/sister conflict with genuine balance",
+          "deeper_irony": "Her blindspot isn't family or work—it's the tracking itself. She can see David's compulsion clearly, manage her own family deftly, but cannot see that her pursuit of Silas is the same attachment."
+        }
       },
       "tracking_content": {
-        "observes": "Athenian avatar's life",
-        "intervention": "Dream manipulation—plants suggestions in sleep",
-        "tracks_forward_to": "Roman avatar"
+        "reviews": "Philon's death in Athens plague—confirms her interventions (Alexios dream, xenophobic panic)",
+        "intervention_results": {
+          "intervention_1": "Xenophobic rumor acceleration—created chaos, strained Philon's resources",
+          "intervention_2": "Dream to Alexios—caused assistant to abandon Philon, leaving him to face final choice alone"
+        },
+        "expected_outcome": "Bitterness and corruption—man dying alone, abandoned, sacrifice meaningless",
+        "actual_outcome": "Isolation crystallized rather than corrupted; concentrated karma; question ('Was the one for them—or for me?') became pure seed of insight",
+        "the_recognition": {
+          "moment": "Watching Philon die, Lilith recognizes something of herself—same driven quality, same inability to do otherwise",
+          "emotional_register": "Curious, not alarmed—a near-enlightened being doesn't rattle at unexpected data",
+          "the_whisper": "Could Ka, Chandra, Philon be on the same journey she is? Not rivals but fellow travelers?",
+          "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
+        },
+        "tracks_forward_to": {
+          "method": "Scans her own past lives as temporal landmarks (Alexandria physician, Spanish sutler, Guangzhou washerwoman)",
+          "search": "Looking for where threads might coincide—where their patterns might have crossed",
+          "finds": "A city of law and order, marble and bureaucracy, someone obsessed with certainty—an investigator",
+          "subtle_hint": "Sense of proximity; one of her iterations might have been near this one",
+          "foreshadowing": "Her powers are growing; soon she might do more than observe"
+        }
       },
-      "backfire_awareness": "First hints—senses pattern progresses faster than expected",
-      "word_target": 2500,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
+        "actual_result": "Concentrated karma—by removing Alexios, ensured Philon's choice was entirely his own; no dilution of karmic weight; death became pure seed of insight rather than diluted tragedy",
+        "mechanism": "Shared sacrifice diffuses weight; solitary sacrifice concentrates it",
+        "thematic_irony": "She weaponized isolation, but isolation is where insight crystallizes"
+      },
+      "backfire_awareness": "First whisper of curiosity rather than concern—notices the kinship, files it, doesn't yet see the pattern of backfires",
+      "thematic_elements": {
+        "near_enlightenment_lived": "Shows what spiritual development looks like in ordinary life—not dramatic, not performed, just competent, present, balanced",
+        "meat_body_thread": "Body and sleep; dream-work—dreams as liminal space, sense-bleed from tracking (plague smell, ash)",
+        "blindspot": "Can navigate family with equanimity, give perfect clinical advice, but cannot see her tracking is the same attachment",
+        "kinship_whisper": "First seed of eventual merger—they might be fellow travelers, not rivals"
+      },
+      "word_target": 5000,
+      "structure": {
+        "form": "5 sections with montage time passage",
+        "total_word_target": "4,800-5,600"
+      },
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Ordinary Extraordinary",
+          "file": "scene-01-morning.md",
+          "word_target": "900-1,000",
+          "beats": [
+            "Dawn practice—meditation, stillness, discipline as lived experience",
+            "Phone call from Nadia—mother's remarriage stepping on sister's engagement",
+            "Lilith listens fully, validates without taking sides, offers presence not alliance",
+            "Nadia frustrated Lilith won't join her narrative; call ends with love intact",
+            "Beat of Lilith alone—notes residue, lets it pass; this is equanimity"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "II",
+          "title": "The Good Son",
+          "file": "scene-02-david.md",
+          "word_target": "1,200-1,400",
+          "beats": [
+            "David in therapy room—exhausted, world shrunk to work/Marsha/sleep",
+            "Gradual reveal: marriage ended, promotion refused, friends gone",
+            "Core wound: cannot separate worth from sacrifice",
+            "Lilith's work: questions that open ('Who taught you love looks like this?')",
+            "The pivot: 'Is there a version of being a good son that doesn't require you to disappear?'",
+            "Crack in armor; session ends without resolution but question landed",
+            "Lilith alone—doubled irony (never stated); glances at mother's wedding text, responds easily"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "III",
+          "title": "Between",
+          "file": "scene-03-between.md",
+          "word_target": "700-800",
+          "beats": [
+            "Weeks pass—montage quality",
+            "Clinical work continuing; she's good at her job",
+            "Meeting Jeff—actually a good guy, warm, nervous; Lilith genuinely welcoming",
+            "Contrast: Nadia's narrative vs. reality Lilith observes (doesn't correct, just sees)",
+            "Sister follow-up—Lilith holds same line, maybe moment of humor",
+            "Glance at notebooks, tracking materials—reader knows what's waiting",
+            "Evening falls; she moves toward tracking corner"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "IV",
+          "title": "The Death of Philon",
+          "file": "scene-04-tracking.md",
+          "word_target": "1,300-1,500",
+          "function": "CLIMAX",
+          "beats": [
+            "Night, flat dim, practice position—going back to confirm her work",
+            "Reaches Philon's thread; finds him at the end",
+            "The death scene: plague, abandoned clinic, slave woman dead in his arms",
+            "His final attention: not despair but inquiry",
+            "The incomplete insight: 'If I had lived... Was the one for them—or for me?'",
+            "What she expected: bitterness. What she finds: concentrated, crystallized question",
+            "THE RECOGNITION: watching him, she sees herself—same driven quality",
+            "The whisper: could they be on the same journey? Curious, not alarmed",
+            "Files it; returns to analysis; whisper doesn't fully fade"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "V",
+          "title": "The Road to Rome",
+          "file": "scene-05-rome.md",
+          "word_target": "700-900",
+          "beats": [
+            "Scanning her own lives as temporal landmarks—Alexandria, Spain, Guangzhou",
+            "Each a waypoint—and a question: were you there too?",
+            "Curiosity from Philon's death lingers; shapes rhyming",
+            "Finds next incarnation: city of law, obsessed with certainty, an investigator",
+            "Doesn't name it Rome yet—senses shape, not specifics",
+            "Subtle hint: sense of proximity to one of her own iterations",
+            "Growing powers—soon she might do more than observe",
+            "Returns to stillness; curiosity remains, not urgent, not troubling",
+            "Final image: two threads running parallel, closer than she knows"
+          ],
+          "status": "outlined"
+        }
+      ],
+      "status": "outlined"
     },
 
     {
