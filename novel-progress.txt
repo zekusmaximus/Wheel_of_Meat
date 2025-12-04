@@ -362,6 +362,46 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 10 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene VIII: Kommos—The Broken Realization (~1,010 words)
+- Philon works through first day despite fever, collapses by evening
+- Fever delirium intercuts with city's collapse: pyres, empty Agora, refugees on Long Walls
+- The broken insight arrives: "Was the one for her—or for me?"
+- He recognizes martyrdom was not virtue but "fear wearing virtue's face"
+- Understanding incomplete—arising from pain, not clarity; too late to change anything
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Insight rendered as question rather than statement: "But was the one for her—or for me?"
+- Final recognition crystallizes: "The one was for me. I could not bear to be the man who refused. So I became the man who died instead."
+- Dream imagery includes the Scythian woman returning, speaking with others' words—reinforces the theme of interconnection
+- The "arithmetic of mercy" phrase captures the utilitarian calculation he refused to make
+- Scene ends not with death but with eyes closing—saves death itself for Exodus scene
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 07's closing: Philon walking to the outer room where the living waited
+- The cough from Scene 07 becomes the fever that dominates this scene
+- Alexios's argument echoes through the delirium: "If we both die, who treats the hundred?"
+- The woman from Scythia returns as dream-figure, crystallizing his doubt
+- "Meat and bone" language continues meat/body theme
+- Recognition markers: the observational quality persists even as he watches himself failing
+
+**Next Scene:**
+
+- Scene IX: Exodus—Death & Seeding (~600 words)
+- Philon dies quietly, surrounded by abandoned tools
+- Citizens carry body without ceremony
+- Karmic pivot crystallizes: "There must be a way to understand virtue correctly"
+- Seeds Stoic investigator's obsession with moral framework
+- Final image of Athens continuing to burn
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
