@@ -2,18 +2,10 @@ Outline Based on Author Decisions
 
 ### 1. The Binding Memory (Pre-Plague Vow)
 
-Philon needs a specific moment that set his pattern. Here are some options:
+Philon needs a specific moment that set his pattern.
 
-**Option A: A Death He Couldn't Prevent**
-Before the chapter opens, Philon lost someone—a younger brother, a student, a patient—to an illness he couldn't treat. He swore "never again will I turn away." This vow, noble in origin, becomes the chain that binds him.
-
-**Option B: A Teacher's Words Misunderstood**
-His medical mentor told him: "A physician who refuses to treat is no physician at all." Philon took this as absolute law rather than guiding principle. The mentor meant "don't refuse out of laziness or greed"; Philon heard "never refuse, ever, for any reason."
-
-**Option C: Witnessed Abandonment**
+**Witnessed Abandonment**
 As a young man, Philon watched another physician refuse to treat a plague victim during an earlier, smaller outbreak. The victim died begging for help. Philon swore he would never be that man—but in refusing to become the one who abandons, he becomes the one who self-destructs.
-
-**Which resonates? Or a combination?**
 
 ---
 
@@ -25,13 +17,13 @@ This is a strong choice. It intensifies the *philia* vs. *polis* tension:
 - **Philon's stance**: His refusal to prioritize by status becomes most stark when the person he chooses has the *lowest* status.
 - **Narrative efficiency**: Avoids repeating the child-death pattern from Ka's chapter.
 
-**Questions to develop her:**
-- Does she have a name? (Slaves in Athens often had Greek names given by owners, or foreign names from their origin.)
-- Where is she from? (Thrace, Scythia, Anatolia? This could give her a distinct physical description.)
-- Does she speak? What might she say to Philon that crystallizes his choice?
-- Is there something about her that *echoes* his binding memory? (Perhaps she reminds him of the person he lost—not literally, but in some quality: courage, resignation, youth?)
+**To develop her:**
+- Give her a name. (Slaves in Athens often had Greek names given by owners, or foreign names from their origin.)
+- She is from Scythia, this gives her a distinct physical description.
+- She speaks broken and haltingly. What she says to Philon crystallizes his choice.
+- There is something about her that *echoes* his binding memory - She reminds him of the person he lost—not literally, but in her quality: resignation.
 
-**Suggestion**: She could be a household slave from a wealthy family who abandoned her when she showed symptoms. This adds another layer of cruelty Philon is responding to—not just plague, but the callousness of her owners.
+She is a household slave from a wealthy family who abandoned her when she showed symptoms. This adds another layer of cruelty Philon is responding to—not just plague, but the callousness of her owners.
 
 ---
 
@@ -169,14 +161,6 @@ This gives you room for the tragic architecture without rushing.
 
 ---
 
-## Remaining Questions
+**Alexios's departure**: Should happen in the Third Episode (when Philon asks him to help treat her)
 
-1. **The binding memory**: Which option (or combination) works best for what set Philon's pattern?
-
-2. **The slave woman's details**: Name, origin, what she says to Philon?
-
-3. **Alexios's departure**: Should it happen in the Second Episode (before the slave woman arrives) or the Third Episode (when Philon asks him to help treat her)? The latter is more dramatically immediate; the former gives Philon more time alone.
-
-4. **The meat/body theme**: Any specific images you want threaded through? The agora meat market in Prologos? The burning flesh of funeral pyres? Philon's hands on diseased bodies?
-
-5. **Recognition markers**: What physical gesture or feature should Philon share with Ka and Silas? The "watching" behavior is behavioral—is there something physical too?
+**The meat/body theme**: Images threaded through - The agora meat market in Prologos - The burning flesh of funeral pyres - Philon's hands on diseased bodies.
