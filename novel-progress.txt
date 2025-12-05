@@ -634,6 +634,44 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 4: Stoic Debate & Lilith Cameo (~1,009 words)
+- Portico of Octavia: two philosophers debate whether certainty is possible
+- Older philosopher: reason can illuminate any darkness; the sage sees reality undistorted
+- Younger philosopher: reality itself is fractured; honest observers may reach incompatible conclusions
+- Verinus's worldview trembles—"certainty trembling like a structure built on sand"
+- Marcia Faenia (Lilith) cameo: stands across colonnade, arms folded mirroring Verinus, watches him not the debate, vanishes
+
+**Decisions Made:**
+
+- Younger philosopher's argument explicitly connects to Varro case: "Three witnesses perceived accurately... the accounts cannot be reconciled because the reality they perceived was already fractured"
+- Stylus ritual fails—Verinus grips it instead of cleaning, palm aches from bronze pressing
+- "Confusion is not the opposite of truth—it is the medium through which truth must be sought" captures the chapter's philosophical theme
+- Lilith's second appearance connects explicitly to first: "The woman from the *frigidarium*. The one Marcus had called pretty."
+- She watches his doubt as if reading text—"patient enough to wait for him to turn the page"
+
+**Continuity Notes:**
+
+- Verinus sought philosophy for clarity after Varro case offered none
+- Epictetus and Chrysippus referenced (period-appropriate Stoic sources)
+- "A phantom" — Verinus's dismissal of the woman foreshadows her significance
+- Foundation cracking sets up Scene 5's descent into absolutism
+- Four scenes drafted: 764 + 932 + 1,381 + 1,009 = 4,086 words (of ~9,200 target)
+
+**Next Scene:**
+
+- Scene 5: Collapse of Coherence (~1,000 words)
+- Streets of Rome to Praetor's office
+- Lilith Interference #2: noisy argument stalls traffic, witness arrives late
+- Timeline shift makes alibi impossible
+- Verinus forces coherence by discarding emotional details
+- Marcus objects; they quarrel for first time
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
