@@ -950,6 +950,13 @@
           "file": "scene-01-baths.md",
           "word_count": 764,
           "status": "draft"
+        },
+        {
+          "number": 2,
+          "title": "The Case Is Assigned",
+          "file": "scene-02-case-assigned.md",
+          "word_count": 932,
+          "status": "draft"
         }
       ],
       "status": "in_progress"

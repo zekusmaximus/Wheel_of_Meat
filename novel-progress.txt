@@ -553,6 +553,45 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 2: The Case Is Assigned (~932 words)
+- Introduced case: Gaius Quintilius Varro (philosophus) found dead
+- Three contradictory testimonies summarized: servant (terse, trembling), student (eloquent, self-interested), neighbor (resentful, mentions mysterious woman)
+- Marcus warns about Senator Publius Cornelius Scipio as Varro's patron
+- Lilith Interference #1 implemented: clerk's distraction causes "temperate/intemperate" copy error
+- Gnaeus the freedman secretary introduced as bureaucratic foil
+
+**Decisions Made:**
+
+- Copy error is subtle and naturalistic—clerk's cough as background distraction, easily overlooked
+- Verinus catches the error immediately, demonstrating his precision
+- "Errors reveal as much as accuracies" establishes his investigative philosophy
+- Student's account hints at philosophical school rivalries (potential red herring)
+- Neighbor's account introduces mysterious woman (will not be explained—adds to ambiguity)
+- Senator named specifically: Publius Cornelius Scipio (historical-sounding, establishes stakes)
+
+**Continuity Notes:**
+
+- Scene opens at praetor's office as Scene 1 promised
+- Stylus ritual continues but "comfort did not come"—case resists his usual methods
+- Marcus's warning deepens their relationship dynamic
+- "The dead are patient... the living lie" captures Verinus's worldview
+- Final image of clerk's cough ties back to copy error—Lilith's interference rendered as coincidence
+
+**Next Scene:**
+
+- Scene 3: First Testimonies—The Human Noise Floor (~1,400 words)
+- Varro's cluttered study
+- Three direct testimonies: Servant (terrified), Student (eloquent), Neighbor (resentful)
+- Every account contradicts; none malicious
+- Verinus attempts rational reconstruction; fails
+- Marcus tries emotional interpretation; Verinus dismisses
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
