@@ -943,8 +943,16 @@
         "seeds_next": "Emotional vacancy becomes karmic invitation to Heian court life where sensual desire and attachment will test him",
         "distinction": "Not isolation (Ka, Philon) but anonymity—surrounded yet unknown"
       },
-      "scenes": [],
-      "status": "outlined"
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Baths and the First Contempt",
+          "file": "scene-01-baths.md",
+          "word_count": 764,
+          "status": "draft"
+        }
+      ],
+      "status": "in_progress"
     },
 
     {
