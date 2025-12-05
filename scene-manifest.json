@@ -611,6 +611,7 @@
           "title": "The Ordinary Extraordinary",
           "file": "scene-01-morning.md",
           "word_target": "900-1,000",
+          "word_count": 1450,
           "beats": [
             "Dawn practice—meditation, stillness, discipline as lived experience",
             "Phone call from Nadia—mother's remarriage stepping on sister's engagement",
@@ -618,13 +619,14 @@
             "Nadia frustrated Lilith won't join her narrative; call ends with love intact",
             "Beat of Lilith alone—notes residue, lets it pass; this is equanimity"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "II",
           "title": "The Good Son",
           "file": "scene-02-david.md",
           "word_target": "1,200-1,400",
+          "word_count": 1600,
           "beats": [
             "David in therapy room—exhausted, world shrunk to work/Marsha/sleep",
             "Gradual reveal: marriage ended, promotion refused, friends gone",
@@ -634,13 +636,14 @@
             "Crack in armor; session ends without resolution but question landed",
             "Lilith alone—doubled irony (never stated); glances at mother's wedding text, responds easily"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "III",
           "title": "Between",
           "file": "scene-03-between.md",
           "word_target": "700-800",
+          "word_count": 1050,
           "beats": [
             "Weeks pass—montage quality",
             "Clinical work continuing; she's good at her job",
@@ -650,13 +653,14 @@
             "Glance at notebooks, tracking materials—reader knows what's waiting",
             "Evening falls; she moves toward tracking corner"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Death of Philon",
           "file": "scene-04-tracking.md",
           "word_target": "1,300-1,500",
+          "word_count": 1700,
           "function": "CLIMAX",
           "beats": [
             "Night, flat dim, practice position—going back to confirm her work",
@@ -669,13 +673,14 @@
             "The whisper: could they be on the same journey? Curious, not alarmed",
             "Files it; returns to analysis; whisper doesn't fully fade"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "V",
           "title": "The Road to Rome",
           "file": "scene-05-rome.md",
           "word_target": "700-900",
+          "word_count": 950,
           "beats": [
             "Scanning her own lives as temporal landmarks—Alexandria, Spain, Guangzhou",
             "Each a waypoint—and a question: were you there too?",
@@ -687,10 +692,10 @@
             "Returns to stillness; curiosity remains, not urgent, not troubling",
             "Final image: two threads running parallel, closer than she knows"
           ],
-          "status": "outlined"
+          "status": "draft"
         }
       ],
-      "status": "outlined"
+      "status": "draft"
     },
 
     {

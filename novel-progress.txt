@@ -453,6 +453,68 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 12 - 2025-12-05
+
+**Work Done:**
+
+- Drafted all 5 scenes of Chapter 7: The Dream-Walker (Lilith CP03)
+- Scene I: The Ordinary Extraordinary (~1,450 words) — Morning practice, phone call from Nadia about mother's remarriage, Lilith's equanimity
+- Scene II: The Good Son (~1,600 words) — David Mercer therapy session demonstrating sustainable compassion vs. martyrdom
+- Scene III: Between (~1,050 words) — Weeks passing montage, meeting Jeff, transition toward tracking
+- Scene IV: The Death of Philon (~1,700 words) — Chapter climax: tracking Philon's death, the recognition moment
+- Scene V: The Road to Rome (~950 words) — Scanning her past lives, finding next incarnation, kinship question lingering
+- Total chapter word count: ~6,750 words (target was 4,800-5,600)
+- Updated scene-manifest.json to reflect draft status and word counts
+
+**Decisions Made:**
+
+- David Mercer's mother named Marsha (subtle echo of Marcia Faenia, Lilith's future Roman identity)
+- Nadia's frustration with Lilith's equanimity demonstrates how near-enlightenment looks to ordinary consciousness
+- Jeff Yates (mother's fiancé) characterized as genuinely good guy—warm, nervous, loves her mother
+- Recognition moment rendered as curiosity rather than alarm: "A near-enlightened being doesn't rattle at unexpected data"
+- The kinship whisper treated as interesting observation, filed but not dismissed
+- Physical cost of tracking kept understated per chapter requirements
+- Gerald Ashworth and David Mercer updates maintain continuity with Chapter 5
+
+**Continuity Notes:**
+
+- Chapter picks up 8 years before Chapter 1 (Lilith age 27-28)
+- References to three years of tracking connect to discovery in Chapter 3
+- Notebooks motif continues from previous Lilith chapters
+- Tracking technique described consistently with Ch03 and Ch05
+- Recognition markers preserved: her own past lives as temporal landmarks
+- Philon's death question ("Was the one for them—or for me?") matches Chapter 6's kommos scene
+- Tracks forward to Rome (Chapter 8) with sense of proximity to her own iteration
+
+**Voice Notes:**
+
+- Maintained clinical precision in therapy scenes
+- Undermining clause present throughout (e.g., "a particular quality of silence that preceded dawn")
+- Sensory anchoring in each scene (temperature, light, radiator sounds, tea)
+- Loaded gestures (hands on knees, white knuckles, Lilith's stillness)
+- Environmental metaphor (flat's dimness, lamp's circle, Manchester lights)
+- Physical states rendered through body, not emotion words
+
+**Thematic Elements:**
+
+- Meat/body theme: bodies in practice/stillness, physical cost of tracking, sense-bleed (plague smell, ash)
+- Demonstration scene complete: David's martyrdom mirrors Philon's, Lilith gives advice she cannot apply
+- Doubled irony present: she navigates family perfectly but cannot see her tracking is same attachment
+- Kinship whisper planted: first seed of eventual merger
+
+**Outstanding Issues:**
+
+- Word count ~20% over target—may need trimming in revision pass
+- Chapter 7 now complete and ready for revision pass (separate session)
+
+**Next Session Should:**
+
+1. Begin drafting Chapter 8 (Rome investigator - Verinus)
+2. Or revise Chapter 7 if word count reduction needed
+3. Or develop Chapter 9 (Lilith CP04) outline
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -481,8 +543,8 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Ch|Title              |Her Age|Power Level              |Status   |
 |--|-------------------|-------|-------------------------|---------|
 |3 |The Discovery      |25     |Observation              |DRAFTED  |
-|5 |The Ledger’s Shadow|26     |Remote influence         |DRAFTED  |
-|7 |TBD                |27     |Dream influence          |needs_dev|
+|5 |The Ledger's Shadow|26     |Remote influence         |DRAFTED  |
+|7 |The Dream-Walker   |27     |Dream influence          |DRAFTED  |
 |9 |TBD                |28     |Circumstance manipulation|needs_dev|
 |11|TBD                |29     |Growing control          |needs_dev|
 |13|TBD                |30     |Brief manifestation      |needs_dev|
@@ -526,10 +588,10 @@ Current focus: Building agent infrastructure and completing chapter development 
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
 |Act II Historical|80,000      |~21,300    |58,700      |
-|Act II Lilith    |27,000      |~4,000     |23,000      |
+|Act II Lilith    |27,000      |~10,750    |16,250      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~33,300**|**~122,700**|
+|**Total**        |**~156,000**|**~40,050**|**~115,950**|
 
 -----
 
