@@ -1120,6 +1120,7 @@
           "title": "The Complaint Arrives",
           "file": "scene-01-complaint.md",
           "word_target": "800-1,000",
+          "word_count": 1141,
           "beats": [
             "Ordinary morning interrupted by supervisor's summons",
             "Luther's complaint: claims 'dangerous advice'",
@@ -1127,7 +1128,7 @@
             "Lilith's response: curiosity, not panic",
             "Establishes external stakes"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "II",
