@@ -1,36 +1,131 @@
 {
-  "manifest_info": {
-    "description": "Dedicated tracking for Lilith's 10 contemporary chapters in Act II",
-    "structure": "These chapters alternate with historical past-life chapters, showing Lilith's decade-long pursuit of Silas's pattern from age 25 to 35",
-    "voice": "Contemporary Manchester, clinical/academic vocabulary, same voice as Chapters 1 and 22",
-    "word_target_per_chapter": "2500-3500 (shorter than historical chapters)"
+  "manifest": {
+    "title": "Lilith Chapter Manifest",
+    "description": "Tracks all 10 Lilith contemporary chapters across Act II, documenting her power progression, interventions, and the One Buddha belief arc",
+    "last_updated": "2025-12-06",
+    "total_chapters": 10
   },
 
-  "arc_overview": {
-    "timeline": "10 years of tracking (Year 0 to Year 9)",
-    "age_progression": "25 to 34-35",
-    "power_progression": "Observation → Remote influence → Dream manipulation → Circumstance shaping → Manifestation → Full incarnation",
-    "emotional_arc": "Curiosity → Fascination → Concern → Frustration → Desperation → Calculated commitment",
-    "spiritual_status": "Non-Returner (has broken 5 of 10 fetters; her final obstacle is attachment to being 'the one who achieves Buddhahood')",
-    "central_irony": "She demonstrates mastery of the fetter Silas struggles with in each corresponding historical chapter, while remaining blind to her own final attachment"
+  "power_progression": {
+    "description": "Lilith's abilities grow across her chapters as she approaches full manifestation in the present timeline",
+    "levels": [
+      { "chapter": 3, "level": "Observation only", "description": "Can perceive others' past lives; accidental influence possible" },
+      { "chapter": 5, "level": "Remote influence", "description": "Can affect intermediaries and circumstances from distance" },
+      { "chapter": 7, "level": "Dream influence", "description": "Can plant suggestions in dreams, work through liminal consciousness" },
+      { "chapter": 9, "level": "Circumstance manipulation", "description": "Can subtly manipulate circumstances and minor characters; can be physically present briefly" },
+      { "chapter": 11, "level": "Growing control", "description": "Stronger ability to influence events and people in past" },
+      { "chapter": 13, "level": "Brief manifestation", "description": "First physical appearance; draining, time-limited" },
+      { "chapter": 15, "level": "Sustained presence", "description": "Extended manifestations possible" },
+      { "chapter": 17, "level": "Extended interaction", "description": "Can engage in sustained conversations" },
+      { "chapter": 19, "level": "Near-full manifestation", "description": "Extended physical presence, direct confrontations" },
+      { "chapter": 21, "level": "Full manifestation in past", "description": "Can fully interact; preparing for present incarnation" }
+    ]
+  },
+
+  "one_buddha_arc": {
+    "description": "Lilith gradually constructs the tragic belief that only one can achieve Buddhahood per world-system per age. Each beat is felt, not explained—no cosmology, just accumulated observations.",
+    "beats": [
+      {
+        "beat": 4,
+        "chapter": 9,
+        "title": "Mutual Interference",
+        "insight": "Together doesn't hold.",
+        "content": "Memory-slice of a life where both rose simultaneously—social disorder, collapse, neither achieving clarity",
+        "status": "outlined"
+      },
+      {
+        "beat": 5,
+        "chapter": 11,
+        "title": "Singularity of the Age",
+        "insight": "Every age has one… then decay.",
+        "content": "Glimpses an era defined by a single moral-clarity figure, followed by rapid decline after their death",
+        "status": "needs_development"
+      },
+      {
+        "beat": 6,
+        "chapter": 13,
+        "title": "Dwindling Capacity",
+        "insight": "This era can barely support one ascent.",
+        "content": "Something in present life—clients, society, difficulty accessing clarity—shows the world is spiritually exhausted",
+        "status": "needs_development"
+      },
+      {
+        "beat": 7,
+        "chapter": 15,
+        "title": "Silas as Mirror",
+        "insight": "He is the only other one.",
+        "content": "Sees Silas in several past-life flashes across continents and centuries; their evolutions run parallel with uncanny symmetry",
+        "status": "needs_development"
+      },
+      {
+        "beat": 8,
+        "chapter": 17,
+        "title": "Fear of Simultaneity",
+        "insight": "If we rise together, we ruin each other.",
+        "content": "Remembers the emotional truth—not facts—of a life where simultaneous near-breakthrough produced disaster",
+        "status": "needs_development"
+      },
+      {
+        "beat": 9,
+        "chapter": 19,
+        "title": "Misreading as Duty",
+        "insight": "Someone must choose. Someone must act.",
+        "content": "Interprets her fear as responsibility. Not jealousy, not ego—duty. Selfhood disguised as moral necessity.",
+        "status": "needs_development"
+      },
+      {
+        "beat": 10,
+        "chapter": 21,
+        "title": "The Final False Law",
+        "insight": "There can be only one. And if he rises now, I will never be free.",
+        "content": "Compressed flash of all patterns together: singularity of ages, alternation with Silas, collapse of dual ascents, dwindling clarity. Forms the wrong conclusion.",
+        "status": "needs_development"
+      }
+    ]
   },
 
   "chapters": [
     {
-      "chapter_number": 3,
-      "id": "cp-01",
+      "chapter": 3,
+      "id": "ch03-lilith-cp01",
       "title": "The Discovery",
       "corresponds_to": {
         "historical_chapter": 2,
-        "avatar": "Ka",
-        "period": "300,000 BCE",
-        "lesson": "Cooperation / Loving-kindness (mettā)"
+        "avatar": "Ka (prehistoric hunter)",
+        "lesson": "Loving-kindness (mettā)"
       },
-      "lilith_state": {
+      "lilith": {
         "age": 25,
         "years_tracking": 0,
         "occupation": "Graduate student in psychiatry",
         "power_level": "Observation only",
+        "emotional_state": "Curiosity → Fascination → Validation"
+      },
+      "tracking_content": {
+        "discovers": "Ka's pattern—first time perceiving others' iterations",
+        "observes": "Ka's death (hoarding, cold, desperate hunger to understand giving)",
+        "tracks_forward_to": "Chandra"
+      },
+      "demonstration": {
+        "fetter": "Generosity (dāna)",
+        "scene": "Gives up chair to anxious first-year student; knee will hurt for hours"
+      },
+      "backfire_awareness": "None—this is discovery, not intervention",
+      "word_target": 3500,
+      "scenes": [],
+      "status": "drafted"
+    },
+
+    {
+      "chapter": 5,
+      "id": "ch05-lilith-cp02",
+      "title": "The Ledger's Shadow",
+      "corresponds_to": {
+        "historical_chapter": 4,
+        "avatar": "Chandra (Mauryan administrator)",
+        "lesson": "Generosity (dāna)"
+      },
+      "lilith": {
         "power_description": "Can perceive others' patterns for the first time; accidental influence possible"
       },
       "demonstration": {
@@ -74,6 +169,260 @@
         "years_tracking": 1,
         "occupation": "Graduate student / beginning clinical work",
         "power_level": "Remote influence",
+        "emotional_state": "Methodical confidence"
+      },
+      "tracking_content": {
+        "observes": "Chandra's incomplete generosity",
+        "intervention": "First deliberate interference—influences Devaka's betrayal",
+        "tracks_forward_to": "Philon (Athens)"
+      },
+      "demonstration": {
+        "fetter": "Non-attachment to outcomes",
+        "scene": "TBD—shows releasing attachment to patient improvement"
+      },
+      "backfire_awareness": "None—satisfaction at successful manipulation",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "drafted"
+    },
+
+    {
+      "chapter": 7,
+      "id": "ch07-lilith-cp03",
+      "title": "The Dream-Walker",
+      "corresponds_to": {
+        "historical_chapter": 6,
+        "avatar": "Philon (Athens physician)",
+        "lesson": "Wisdom (paññā)"
+      },
+      "lilith": {
+        "age": 27,
+        "years_tracking": "2-3",
+        "occupation": "Advanced graduate student / early clinical work",
+        "power_level": "Dream influence",
+        "emotional_state": "Methodical confidence; first whisper of kinship with Silas"
+      },
+      "modern_life_arc": {
+        "family": {
+          "mother": "Remarrying to Jeff",
+          "nadia": "Engaged, feels upstaged by mother",
+          "jeff": "Actually a good guy—warm, nervous, loves her mother",
+          "lilith_response": "Navigates with genuine equanimity"
+        },
+        "patient": {
+          "name": "David",
+          "profile": "Male, late 40s-50s, caring for aging mother Marsha",
+          "condition": "Caregiver guilt—destroying his life"
+        }
+      },
+      "tracking_content": {
+        "reviews": "Philon's death in Athens plague",
+        "interventions": [
+          "Xenophobic rumor acceleration—created chaos",
+          "Dream to Alexios—caused assistant to abandon Philon"
+        ],
+        "expected_outcome": "Bitterness and corruption",
+        "actual_outcome": "Isolation crystallized rather than corrupted; concentrated karma",
+        "the_recognition": "Watching Philon die, sees herself—same driven quality",
+        "tracks_forward_to": "Verinus (Rome)"
+      },
+      "demonstration": {
+        "fetter": "Sustainable compassion vs. martyrdom",
+        "patient": "David—caregiver destroying himself",
+        "advice": "Your worth doesn't depend on what you sacrifice; Martyrdom isn't love",
+        "irony": "Gives perfect advice she cannot apply to her tracking obsession"
+      },
+      "backfire_awareness": "First whisper of kinship—notices parallel but files it away",
+      "word_target": 5000,
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Ordinary Extraordinary",
+          "file": "scene-01-morning.md",
+          "word_count": 1450,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Good Son",
+          "file": "scene-02-david.md",
+          "word_count": 1600,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "Between",
+          "file": "scene-03-between.md",
+          "word_count": 1050,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Death of Philon",
+          "file": "scene-04-tracking.md",
+          "word_count": 1700,
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "The Road to Rome",
+          "file": "scene-05-rome.md",
+          "word_count": 950,
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
+    },
+
+    {
+      "chapter": 9,
+      "id": "ch09-lilith-cp04",
+      "title": "The Complaint",
+      "corresponds_to": {
+        "historical_chapter": 8,
+        "avatar": "Verinus (Roman investigator)",
+        "avatar_fetter": "Ill will (vyāpāda)",
+        "lesson": "Virtue (sīla) / Compassion amid uncertainty"
+      },
+      "lilith": {
+        "age": 28,
+        "years_tracking": "3-4",
+        "occupation": "Early career psychiatrist",
+        "power_level": "Circumstance manipulation",
+        "emotional_state": "Curiosity and interest, not frustration"
+      },
+      "modern_life_arc": {
+        "complaint": {
+          "patient": "Luther",
+          "profile": "Late 50s-60s, stay-at-home dad, formerly successful elsewhere",
+          "accusation": "Claims 'dangerous advice'—misinterpretation and fabrication",
+          "reality": "Didn't follow advice, blames Lilith",
+          "resolution": "Complaint dismissed"
+        },
+        "harrow": {
+          "role": "Part of review panel",
+          "behavior": "Surprisingly fair—follows facts",
+          "lilith_response": "Notes he's more complex than filed"
+        },
+        "family": {
+          "nadia": "Engagement survives; stress settled",
+          "mother_wedding": "Wasn't the horror Nadia expected",
+          "foreshadowing": "Nadia's wedding for ch11"
+        }
+      },
+      "tracking_content": {
+        "reviews": "Verinus's death in exile—olive grove, stylus, testimonies accepted",
+        "interventions": [
+          "Scribal error—created competing testimonial versions",
+          "Traffic delay—made alibi impossible",
+          "Senator's rage—amplified displeasure, triggered exile"
+        ],
+        "expected_outcome": "Virtue corrodes into cynicism",
+        "actual_outcome": "Contradictions made him humble; exile gave him permission to not know",
+        "tracks_forward_to": "Egyptian hermit (Desert Father)"
+      },
+      "demonstration": {
+        "fetter": "Ill will (vyāpāda)",
+        "method": "Luther embodies ill-will; Lilith demonstrates mastery by responding without it",
+        "irony_layers": [
+          "Patient consumed by ill-will; Lilith is not",
+          "Does her pursuit involve ill-will? She'd say no",
+          "Attachment to being first—is that something adjacent?"
+        ]
+      },
+      "one_buddha_arc": {
+        "beat": 4,
+        "title": "Mutual Interference",
+        "insight": "Together doesn't hold.",
+        "trigger": "While scanning, brushes against memory of dual ascent and collapse",
+        "setting": "Ancient but uncertain—dusty collapse, failing cities, moral confusion",
+        "response": "Files with curiosity, not alarm"
+      },
+      "backfire_awareness": "Growing curiosity—every intervention accelerates rather than impedes. The kinship whisper deepens.",
+      "strategy_evolution": "First intimations of needing nuance—stalling rather than derailing",
+      "word_target": 5000,
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Complaint Arrives",
+          "file": "scene-01-complaint.md",
+          "word_target": "800-1,000",
+          "beats": [
+            "Ordinary morning interrupted by supervisor's summons",
+            "Luther's complaint: claims 'dangerous advice'",
+            "Harrow will be on review panel",
+            "Lilith's response: curiosity, not panic"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "II",
+          "title": "Navigating the Review",
+          "file": "scene-02-review.md",
+          "word_target": "1,000-1,200",
+          "beats": [
+            "Formal review meeting",
+            "Luther's fabrications exposed",
+            "Harrow surprisingly fair",
+            "Review trends toward dismissal"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "III",
+          "title": "Family Update + Resolution",
+          "file": "scene-03-resolution.md",
+          "word_target": "700-900",
+          "beats": [
+            "Weeks pass—montage quality",
+            "Family: Nadia stable, foreshadow wedding",
+            "Complaint dismissed",
+            "Transition: tracking is calling"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "IV",
+          "title": "Tracking Session—Verinus's Death + Beat 4",
+          "file": "scene-04-tracking.md",
+          "word_target": "1,400-1,600",
+          "function": "CLIMAX",
+          "beats": [
+            "Night, flat dim; reaches back to Verinus",
+            "Death scene: olive grove, testimonies accepted",
+            "Genuine insight AND subtle pride observed",
+            "BEAT 4: Memory-slice—mutual interference",
+            "Insight: 'Together doesn't hold'"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "V",
+          "title": "Finding Egypt",
+          "file": "scene-05-egypt.md",
+          "word_target": "700-900",
+          "beats": [
+            "Scans forward using own lives as landmarks",
+            "Finds desert hermit",
+            "Sees Verinus's pride seeding new vulnerability",
+            "Strategy: feed spiritual pride, try nuance"
+          ],
+          "status": "outlined"
+        }
+      ],
+      "status": "outlined"
+    },
+
+    {
+      "chapter": 11,
+      "id": "ch11-lilith-cp05",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 10,
+        "avatar": "Egyptian hermit (Desert Father)",
+        "lesson": "Renunciation (nekkhamma)"
+      },
+      "lilith": {
         "power_description": "Can affect intermediaries; works through others rather than directly"
       },
       "demonstration": {
@@ -212,6 +561,43 @@
         "years_tracking": 4,
         "occupation": "Early career psychiatrist",
         "power_level": "Growing control",
+        "emotional_state": "Methodical but anxious beneath surface"
+      },
+      "modern_life_arc": {
+        "family": {
+          "nadia_wedding": "Occurs this chapter"
+        }
+      },
+      "tracking_content": {
+        "observes": "Desert Father's life",
+        "intervention": "Twists renunciation into spiritual pride",
+        "tracks_forward_to": "Heian avatar"
+      },
+      "demonstration": {
+        "fetter": "Non-attachment to being right",
+        "scene": "Patient obsessed with being right; advises 'The need to be right is itself attachment'"
+      },
+      "one_buddha_arc": {
+        "beat": 5,
+        "title": "Singularity of the Age",
+        "insight": "Every age has one… then decay."
+      },
+      "backfire_awareness": "Visible irony building; frustration that interventions aren't slowing progress",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 13,
+      "id": "ch13-lilith-cp06",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 12,
+        "avatar": "Heian courtier",
+        "lesson": "Equanimity (upekkhā) / Sensual desire"
+      },
+      "lilith": {
         "power_description": "Stronger influence on events and people"
       },
       "demonstration": {
@@ -258,6 +644,35 @@
         "years_tracking": 5,
         "occupation": "Psychiatrist, established practice",
         "power_level": "Brief manifestation",
+        "emotional_state": "New strategy emerging; something personal developing"
+      },
+      "tracking_content": {
+        "observes": "Heian avatar's life",
+        "intervention": "First physical manifestation—appears as object of desire",
+        "tracks_forward_to": "Inquisition avatar"
+      },
+      "one_buddha_arc": {
+        "beat": 6,
+        "title": "Dwindling Capacity",
+        "insight": "This era can barely support one ascent."
+      },
+      "physical_cost": "Manifestation drains her for days; colleagues notice distraction",
+      "key_moment": "First time she's appeared to him physically",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 15,
+      "id": "ch15-lilith-cp07",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 14,
+        "avatar": "Inquisition accused",
+        "lesson": "Patience (khanti) / Ill-will"
+      },
+      "lilith": {
         "power_description": "First physical appearances in past; draining, time-limited"
       },
       "demonstration": {
@@ -305,6 +720,65 @@
         "years_tracking": 6,
         "occupation": "Psychiatrist",
         "power_level": "Sustained presence",
+        "emotional_state": "Desperate measures; willing to cause suffering"
+      },
+      "tracking_content": {
+        "observes": "Inquisition avatar's persecution",
+        "intervention": "Sustained manifestation—cultivates hatred",
+        "tracks_forward_to": "Renaissance avatar"
+      },
+      "one_buddha_arc": {
+        "beat": 7,
+        "title": "Silas as Mirror",
+        "insight": "He is the only other one."
+      },
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 17,
+      "id": "ch17-lilith-cp08",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 16,
+        "avatar": "Renaissance skeptic",
+        "lesson": "Truthfulness (sacca) / Doubt"
+      },
+      "lilith": {
+        "age": 32,
+        "years_tracking": 7,
+        "occupation": "Psychiatrist (considering leave)",
+        "power_level": "Extended interaction",
+        "emotional_state": "Intellectually engaged but interventions keep failing"
+      },
+      "tracking_content": {
+        "observes": "Renaissance avatar's intellectual journey",
+        "intervention": "Extended interaction—philosophical companion encouraging doubt",
+        "tracks_forward_to": "Taiping avatar"
+      },
+      "one_buddha_arc": {
+        "beat": 8,
+        "title": "Fear of Simultaneity",
+        "insight": "If we rise together, we ruin each other."
+      },
+      "backfire_awareness": "Interventions consistently failing; patients notice preoccupation",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 19,
+      "id": "ch19-lilith-cp09",
+      "title": "TBD",
+      "corresponds_to": {
+        "historical_chapter": 18,
+        "avatar": "Taiping rebel",
+        "lesson": "Determination (adhiṭṭhāna) / Self-sacrifice"
+      },
+      "lilith": {
         "power_description": "Extended manifestations possible; still time-limited"
       },
       "demonstration": {
@@ -398,6 +872,61 @@
         "years_tracking": 8,
         "occupation": "Psychiatrist (on partial leave)",
         "power_level": "Near-full manifestation",
+        "emotional_state": "Ruthless; ordinary life suffering"
+      },
+      "tracking_content": {
+        "observes": "Taiping avatar's sacrifices",
+        "intervention": "Near-full manifestation—makes his sacrifices meaningless",
+        "tracks_forward_to": "1930s Detective"
+      },
+      "one_buddha_arc": {
+        "beat": 9,
+        "title": "Misreading as Duty",
+        "insight": "Someone must choose. Someone must act."
+      },
+      "backfire_awareness": "Ruthless denial; can sense him approaching stream-entry",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_development"
+    },
+
+    {
+      "chapter": 21,
+      "id": "ch21-lilith-cp10",
+      "title": "The Decision",
+      "corresponds_to": {
+        "historical_chapter": 20,
+        "avatar": "1930s Detective",
+        "lesson": "Perseverance (viriya)"
+      },
+      "lilith": {
+        "age": 34,
+        "years_tracking": 9,
+        "occupation": "Psychiatrist (on full leave)",
+        "power_level": "Full manifestation in past; preparing for present",
+        "emotional_state": "All masks dropped; calculated commitment"
+      },
+      "tracking_content": {
+        "observes": "Detective's persistence despite overwhelming obstacles",
+        "intervention": "Full manifestation—femme fatale, every case fails",
+        "outcome": "Complete failure; every intervention across nine years has backfired"
+      },
+      "one_buddha_arc": {
+        "beat": 10,
+        "title": "The Final False Law",
+        "insight": "There can be only one. And if he rises now, I will never be free."
+      },
+      "the_decision": {
+        "realization": "He's approaching stream-entry; window closing",
+        "assessment": "Strong enough to incarnate in same timeline—barely",
+        "finding_silas": "Tracks to present; finds him in Manchester; philosophy professor",
+        "the_plan": "Incarnate fully, become his lover, prevent breakthrough from inside",
+        "the_meeting": "Engineers encounter at his lecture on Nagarjuna"
+      },
+      "foreshadowing": "Attraction she won't name; pull that exceeds tactical necessity",
+      "function": "Sets up Chapter 1; completes her decade-long arc toward full commitment",
+      "word_target": 3500,
+      "scenes": [],
         "power_description": "Extended physical presence; direct confrontations possible"
       },
       "demonstration": {
@@ -486,6 +1015,68 @@
   ],
 
   "recurring_elements": {
+    "harrow": {
+      "description": "Difficult colleague who provides professional friction",
+      "appearances": {
+        "ch07": "Given a break—not present",
+        "ch09": "On complaint review panel; surprisingly fair"
+      }
+    },
+    "family": {
+      "mother": {
+        "ch07": "Remarrying to Jeff",
+        "ch09": "Wedding happened; 'wasn't the horror'"
+      },
+      "nadia": {
+        "ch07": "Engaged, resentful of mother",
+        "ch09": "Engagement stable, planning wedding",
+        "ch11": "Wedding occurs"
+      },
+      "jeff": {
+        "ch07": "Introduced—actually a good guy"
+      }
+    },
+    "patients": {
+      "david": {
+        "chapter": 7,
+        "profile": "Caregiver destroying himself for mother Marsha",
+        "function": "Demonstrates sustainable compassion lesson"
+      },
+      "luther": {
+        "chapter": 9,
+        "profile": "Vindictive older man who blames Lilith",
+        "function": "Embodies ill-will; Lilith demonstrates mastery by non-reaction"
+      }
+    }
+  },
+
+  "thematic_threads": {
+    "kinship_whisper": {
+      "description": "Growing recognition that Silas may be a fellow traveler, not just a rival",
+      "progression": [
+        { "chapter": 7, "status": "First whisper—watching Philon die, sees herself" },
+        { "chapter": 9, "status": "Deepens—parallel between his attachment to insight and hers" }
+      ]
+    },
+    "backfire_pattern": {
+      "description": "Every intervention accelerates rather than impedes Silas's progress",
+      "first_noticed": "Chapter 7",
+      "articulated": "Chapter 9—curiosity about the pattern"
+    },
+    "demonstration_technique": {
+      "description": "Each chapter shows Lilith demonstrating mastery of the fetter Silas struggles with",
+      "examples": [
+        { "chapter": 3, "fetter": "Generosity", "method": "Gives up chair despite physical cost" },
+        { "chapter": 7, "fetter": "Sustainable compassion", "method": "Advises David perfectly" },
+        { "chapter": 9, "fetter": "Ill-will", "method": "Responds to Luther without resentment" }
+      ]
+    }
+  },
+
+  "development_status": {
+    "drafted": ["ch03", "ch05", "ch07"],
+    "outlined": ["ch09"],
+    "needs_development": ["ch11", "ch13", "ch15", "ch17", "ch19", "ch21"]
     "demonstration_technique": {
       "description": "Each chapter includes a scene where Lilith demonstrates mastery of the fetter Silas struggles with in the corresponding historical chapter",
       "structure": [
