@@ -1049,6 +1049,55 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene V: Finding Egypt (~1,018 words) — FINAL SCENE
+- Reviewed Ch3, Ch5, Ch7 endings for consistency in Lilith chapter closing patterns
+- Continues from Scene IV; memory-slice phrase "Together doesn't hold" resurfaces
+- Scans forward using own lives as landmarks (Alexandria physician, Spain sutler, Guangzhou washerwoman)
+- Finds Desert Father in extreme solitude—pride dressed as humility
+- Strategy forms: feed the pride, nuance over force, stalling not derailing
+- Chapter closes with foreshadowing: "She did not know—could not yet know..."
+- Final parallel: "As did his. As did hers."
+
+**CHAPTER 9 COMPLETE — ALL 5 SCENES DRAFTED**
+
+**Chapter 9 Word Counts:**
+
+| Scene | Title | Words | Status |
+|-------|-------|-------|--------|
+| I | The Complaint Arrives | 1,141 | draft |
+| II | Navigating the Review | 1,295 | draft |
+| III | Family Update + Resolution | 820 | draft |
+| IV | Tracking Session (CLIMAX) | 1,443 | draft |
+| V | Finding Egypt | 1,018 | draft |
+| **Total** | | **5,717** | |
+
+**Target: ~5,000 words — ACHIEVED (slightly over)**
+
+**Decisions Made:**
+
+- Desert Father characterized: cell carved in rock, baskets, water jug, extreme asceticism
+- Pride manifestation: "I have given up more than others... I have achieved what they are still struggling to achieve"
+- Strategy: don't attack renunciation (would harden it), instead nurture the pride
+- Closing pattern matches Ch3/Ch5/Ch7: physical grounding, next destination, foreshadowing, parallel structure
+
+**Voice Notes:**
+
+- Chapter ending follows established Lilith chapter pattern
+- "Together doesn't hold" resurfaces as lingering question
+- Ordinary life referenced (complaint, Nadia's wedding) to ground the tracking
+- Foreshadowing: memory-slice is "not an observation but a seed"
+
+**Next Chapter to Draft:**
+
+- Chapter 10: The Hermit (Egypt, Desert Father)
+- Or Chapter 11: Lilith CP05 (age 29, growing control)
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -1079,7 +1128,7 @@ Current focus: Building agent infrastructure and completing chapter development 
 |3 |The Discovery      |25     |Observation              |DRAFTED  |
 |5 |The Ledger's Shadow|26     |Remote influence         |DRAFTED  |
 |7 |The Dream-Walker   |27     |Dream influence          |DRAFTED  |
-|9 |The Complaint      |28     |Circumstance manipulation|drafting |
+|9 |The Complaint      |28     |Circumstance manipulation|DRAFTED  |
 |11|TBD                |29     |Growing control          |needs_dev|
 |13|TBD                |30     |Brief manifestation      |needs_dev|
 |15|TBD                |31     |Sustained presence       |needs_dev|
@@ -1122,10 +1171,10 @@ Current focus: Building agent infrastructure and completing chapter development 
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
 |Act II Historical|80,000      |~21,300    |58,700      |
-|Act II Lilith    |27,000      |~15,450    |11,550      |
+|Act II Lilith    |27,000      |~16,500    |10,500      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~44,750**|**~111,250**|
+|**Total**        |**~156,000**|**~45,800**|**~110,200**|
 
 -----
 

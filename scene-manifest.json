@@ -1182,6 +1182,7 @@
           "title": "Finding Egypt",
           "file": "scene-05-egypt.md",
           "word_target": "700-900",
+          "word_count": 1018,
           "beats": [
             "Scans forward using own lives as landmarks",
             "Finds desert hermit in extreme solitude",
@@ -1190,10 +1191,10 @@
             "Kinship whisper continues",
             "Closes methodically: new strategy forming"
           ],
-          "status": "outlined"
+          "status": "draft"
         }
       ],
-      "status": "outlined"
+      "status": "draft"
     },
 
     {
