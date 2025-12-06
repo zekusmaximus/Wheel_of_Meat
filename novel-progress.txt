@@ -888,6 +888,216 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 14 - 2025-12-06
+
+**Work Done:**
+
+- Drafted Chapter 9, Scene I: The Complaint Arrives (~1,141 words)
+- Established complaint arc: Luther Crane files vindictive complaint against Lilith
+- Introduced supervisor Dr. Whitmore delivering the news
+- Harrow assigned to review panel (sets up Scene II surprise)
+- Lilith's response: curiosity, not panic—demonstrating mastery of ill-will fetter
+- Created scenes directory for ch09-lilith-cp04
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Luther characterized as late 50s stay-at-home dad, terminated treatment after 8 sessions
+- His complaint: claims Lilith advised "dangerous confrontation" with wife—actually misinterpretation/fabrication
+- Dr. Whitmore: mid-fifties supervisor, gray hair, professional demeanor, delivers news carefully
+- Lilith's response establishes demonstration technique: she handles unfair accusation without ill-will
+- Continuity from Ch7: brief reference to Verinus tracking session ("three nights ago")
+
+**Continuity Notes:**
+
+- Scene picks up approximately 6 months to 1 year after Chapter 7
+- Lilith is now 28, early career psychiatrist
+- She's been tracking Verinus's death—insight and subtle pride both observed
+- The kinship question lingers from previous chapter
+- Harrow relationship established in Ch7 supervision; now he's on review panel
+
+**Voice Notes:**
+
+- Opened with sensory anchor: gray light, wrong-facing windows
+- Undermining clause present: "making progress, or something that looked like progress"
+- Physical gestures carry meaning: hands rested on knees, still and patient
+- Environmental metaphor: institutional carpet, antiseptic air, fluorescent humming
+- Final line undercuts self-assessment: "She was not—or so she believed"
+
+**Next Scene:**
+
+- Scene II: Navigating the Review (~1,000-1,200 words)
+- Formal review meeting with Whitmore, Patel, Harrow
+- Luther's fabrications exposed through session notes
+- Harrow surprisingly fair—follows facts rather than piling on
+- Lilith recalibrates: he's more complex than she'd filed him
+- Review trends toward dismissal
+
+-----
+
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene II: Navigating the Review (~1,295 words)
+- Formal review meeting with Whitmore, Patel, Harrow convened
+- Luther's fabrications exposed: documentation shows no "confrontation" advice, no "emotional neglect" language
+- Harrow surprisingly fair—follows the evidence, notes thorough documentation
+- Lilith recalibrates: "filed him incorrectly... difficult—and he was also fair"
+- Complaint dismissed; clinical judgment vindicated
+- Demonstration complete: Lilith navigates unfair accusation without ill-will
+
+**Decisions Made:**
+
+- Dr. Patel introduced as ethics reviewer (soft voice, precise)
+- Ten days elapsed between Scene I and II
+- Harrow's key line: "Your documentation was thorough. That's what made this straightforward."
+- Lilith's reflection: "She had demonstrated what she taught her patients"
+
+**Voice Notes:**
+
+- Institutional setting: uncomfortable room, flat fluorescent light
+- Undermining clause: "difficult—and he was also fair. The two qualities were not mutually exclusive."
+- Physical gestures: hands folded, posture shifts
+- Dialogue maintains formal register throughout (professional review setting)
+
+**Next Scene:**
+
+- Scene III: Family Update + Resolution (~700-900 words)
+- Weeks pass—montage quality
+- Family: Nadia stable, mother's wedding fine, foreshadow Nadia's wedding
+- Transition: tracking is calling
+
+-----
+
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene III: Family Update + Resolution (~820 words)
+- Weeks-pass montage quality opening
+- Phone call with Nadia: mother's wedding "actually quite nice"
+- Jeff charming, Mum radiant, no disasters
+- Nadia's wedding foreshadowed: "eight months," Lilith promises to be present
+- Key observation from Nadia: "You're always planning something. You just don't tell anyone what."
+- Transition toward tracking session
+
+**Decisions Made:**
+
+- Marcus (Nadia's fiancé) briefly characterized: patient, steady, willing to have opinions when asked
+- Nadia's observation about the notebooks plants seed of her awareness
+- Eight-month wedding timeline established for Ch11
+- Rain and evening light set transition mood
+
+**Voice Notes:**
+
+- Montage quality: "Weeks passed. The rhythm of clinical work reasserted itself"
+- Phone dialogue natural, warm but with Lilith's characteristic distance
+- Environmental thread: Manchester rain, evening light fading
+- Closes with tracking anticipation
+
+**Next Scene:**
+
+- Scene IV: Tracking Session—Verinus's Death + Beat 4 (~1,400-1,600 words) — CLIMAX
+- Night, flat dim; reaches back to Verinus
+- Death scene: olive grove, stylus, testimonies accepted
+- Genuine insight AND subtle pride observed
+- BEAT 4: Memory-slice surfaces—mutual interference, collapse
+- Insight: "Together doesn't hold"
+
+-----
+
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene IV: Tracking Session—Verinus's Death + Beat 4 (~1,443 words) — CLIMAX
+- Verinus death scene: olive grove, stylus uncleaned, Marcus's letter about servant's rebuilt life
+- Genuine insight observed: "Virtue lives where certainty fails"
+- Subtle pride beneath: "And I have understood this"—enlightenment as achievement
+- Assessment: backfire complete, isolation strengthened rather than broke him
+- BEAT 4 INSERTED: Memory-slice of ancient life with parallel rise, mutual interference
+- Sensory impressions: dusty collapse, crumbling walls, empty markets, moral confusion
+- Key insight written: "Together doesn't hold"
+- Response: curious, not alarmed—files as interesting data
+- Physical cost subtle: headache, trembling hands
+
+**Decisions Made:**
+
+- Tracking transition rendered as "consciousness thinning at the edges, time becoming porous"
+- Verinus's stylus uncleaned (contrast to Rome's compulsive cleaning ritual)
+- Memory-slice setting: murky early civilization, possibly Mesopotamian, names forgotten
+- Beat 4 arrives accidentally while scanning for next incarnation
+- Notebook entries shown directly: clinical documentation style maintained
+- Physical cost returns briefly: headache, trembling—first since early tracking days
+
+**Voice Notes:**
+
+- Sensory anchor: dim flat, city glow, rain stopped
+- Verinus death scene rich with detail: golden light, olive grove, salt air
+- Memory-slice impressionistic: fragmentary, emotional, not analytical
+- Undermining clause: "Or so she believed" closes scene
+
+**Next Scene:**
+
+- Scene V: Finding Egypt (~700-900 words)
+- Scans forward using own lives as landmarks
+- Finds desert hermit in extreme solitude
+- Sees how Verinus's pride seeds new vulnerability
+- Strategy: feed spiritual pride, try nuance over force
+- Closes methodically: new strategy forming
+
+-----
+
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene V: Finding Egypt (~1,018 words) — FINAL SCENE
+- Reviewed Ch3, Ch5, Ch7 endings for consistency in Lilith chapter closing patterns
+- Continues from Scene IV; memory-slice phrase "Together doesn't hold" resurfaces
+- Scans forward using own lives as landmarks (Alexandria physician, Spain sutler, Guangzhou washerwoman)
+- Finds Desert Father in extreme solitude—pride dressed as humility
+- Strategy forms: feed the pride, nuance over force, stalling not derailing
+- Chapter closes with foreshadowing: "She did not know—could not yet know..."
+- Final parallel: "As did his. As did hers."
+
+**CHAPTER 9 COMPLETE — ALL 5 SCENES DRAFTED**
+
+**Chapter 9 Word Counts:**
+
+| Scene | Title | Words | Status |
+|-------|-------|-------|--------|
+| I | The Complaint Arrives | 1,141 | draft |
+| II | Navigating the Review | 1,295 | draft |
+| III | Family Update + Resolution | 820 | draft |
+| IV | Tracking Session (CLIMAX) | 1,443 | draft |
+| V | Finding Egypt | 1,018 | draft |
+| **Total** | | **5,717** | |
+
+**Target: ~5,000 words — ACHIEVED (slightly over)**
+
+**Decisions Made:**
+
+- Desert Father characterized: cell carved in rock, baskets, water jug, extreme asceticism
+- Pride manifestation: "I have given up more than others... I have achieved what they are still struggling to achieve"
+- Strategy: don't attack renunciation (would harden it), instead nurture the pride
+- Closing pattern matches Ch3/Ch5/Ch7: physical grounding, next destination, foreshadowing, parallel structure
+
+**Voice Notes:**
+
+- Chapter ending follows established Lilith chapter pattern
+- "Together doesn't hold" resurfaces as lingering question
+- Ordinary life referenced (complaint, Nadia's wedding) to ground the tracking
+- Foreshadowing: memory-slice is "not an observation but a seed"
+
+**Next Chapter to Draft:**
+
+- Chapter 10: The Hermit (Egypt, Desert Father)
+- Or Chapter 11: Lilith CP05 (age 29, growing control)
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -918,7 +1128,7 @@ Current focus: Building agent infrastructure and completing chapter development 
 |3 |The Discovery      |25     |Observation              |DRAFTED  |
 |5 |The Ledger's Shadow|26     |Remote influence         |DRAFTED  |
 |7 |The Dream-Walker   |27     |Dream influence          |DRAFTED  |
-|9 |TBD                |28     |Circumstance manipulation|needs_dev|
+|9 |The Complaint      |28     |Circumstance manipulation|DRAFTED  |
 |11|TBD                |29     |Growing control          |needs_dev|
 |13|TBD                |30     |Brief manifestation      |needs_dev|
 |15|TBD                |31     |Sustained presence       |needs_dev|
@@ -961,10 +1171,10 @@ Current focus: Building agent infrastructure and completing chapter development 
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
 |Act II Historical|80,000      |~21,300    |58,700      |
-|Act II Lilith    |27,000      |~10,750    |16,250      |
+|Act II Lilith    |27,000      |~16,500    |10,500      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~40,050**|**~115,950**|
+|**Total**        |**~156,000**|**~45,800**|**~110,200**|
 
 -----
 

@@ -1120,6 +1120,7 @@
           "title": "The Complaint Arrives",
           "file": "scene-01-complaint.md",
           "word_target": "800-1,000",
+          "word_count": 1141,
           "beats": [
             "Ordinary morning interrupted by supervisor's summons",
             "Luther's complaint: claims 'dangerous advice'",
@@ -1127,13 +1128,14 @@
             "Lilith's response: curiosity, not panic",
             "Establishes external stakes"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "II",
           "title": "Navigating the Review",
           "file": "scene-02-review.md",
           "word_target": "1,000-1,200",
+          "word_count": 1295,
           "beats": [
             "Formal review meeting",
             "Luther's fabrications exposed through session notes",
@@ -1141,26 +1143,28 @@
             "Lilith recalibrates: he's more complex than filed",
             "Review trends toward dismissal"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "III",
           "title": "Family Update + Resolution",
           "file": "scene-03-resolution.md",
           "word_target": "700-900",
+          "word_count": 820,
           "beats": [
             "Weeks pass—montage quality",
             "Family: Nadia stable, mother's wedding fine, foreshadow Nadia's wedding",
             "Complaint dismissed; Lilith vindicated",
             "Transition: tracking is calling"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "IV",
           "title": "Tracking Session—Verinus's Death + Beat 4",
           "file": "scene-04-tracking.md",
           "word_target": "1,400-1,600",
+          "word_count": 1443,
           "function": "CLIMAX",
           "beats": [
             "Night, flat dim; reaches back to Verinus",
@@ -1171,13 +1175,14 @@
             "Insight: 'Together doesn't hold'",
             "Files with curiosity; kinship whisper deepens"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "V",
           "title": "Finding Egypt",
           "file": "scene-05-egypt.md",
           "word_target": "700-900",
+          "word_count": 1018,
           "beats": [
             "Scans forward using own lives as landmarks",
             "Finds desert hermit in extreme solitude",
@@ -1186,10 +1191,10 @@
             "Kinship whisper continues",
             "Closes methodically: new strategy forming"
           ],
-          "status": "outlined"
+          "status": "draft"
         }
       ],
-      "status": "outlined"
+      "status": "draft"
     },
 
     {
