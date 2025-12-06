@@ -971,6 +971,13 @@
           "file": "scene-04-stoic-debate.md",
           "word_count": 1009,
           "status": "draft"
+        },
+        {
+          "number": 5,
+          "title": "Collapse of Coherence",
+          "file": "scene-05-collapse.md",
+          "word_count": 1103,
+          "status": "draft"
         }
       ],
       "status": "in_progress"
