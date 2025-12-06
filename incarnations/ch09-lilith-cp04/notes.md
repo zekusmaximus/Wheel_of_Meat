@@ -32,13 +32,12 @@
 - Cannot force choices—the incarnation's will still determines action
 - Manipulation leaves traces she may not anticipate
 
-### Physical Cost (Building)
-- Beginning to show more than fatigue
-- Headaches after extended tracking sessions
-- The body is starting to register the strain
-- Not dramatic—she's still functional—but the cost is accumulating
-- Brief moments of distraction, difficulty focusing after intensive sessions
-- Sleep quality slightly diminished
+### Physical Cost (Subtle)
+- Her powers are natural at this stage of enlightenment—using them doesn't hurt her
+- Any fatigue is from the *time* and *attention* required, not metaphysical drain
+- Keep physical manifestations understated throughout
+- Perhaps a colleague comments "You look tired" but nothing more dramatic
+- The cost is temporal and attentional, not physical deterioration
 
 ---
 
@@ -140,95 +139,71 @@ She won't try to break his virtue. She'll try to turn it against him.
 ## Emotional State
 
 ### Surface
-Growing frustration. This is her fourth major intervention, and his progress continues. Each interference has backfired. The pattern is becoming undeniable.
+**Curiosity and interest, not frustration.** This is her fourth major intervention, and his progress continues. Each interference has backfired. But a near-enlightened being doesn't rattle at unexpected data. She notices the pattern the way she notices everything: with interest.
 
 ### Beneath
-Something more troubling than frustration: the kinship whisper from Chapter 7 hasn't faded. Watching Philon die, she saw something of herself. Watching Verinus die with his incomplete insight... she sees it again.
+The kinship whisper from Chapter 7 hasn't faded. Watching Philon die, she saw something of herself. Watching Verinus die with his incomplete insight... she sees it again.
 
 The driven quality. The inability to do otherwise. The willingness to sacrifice for something larger.
 
 **Character Development This Chapter:**
-- Frustration at the pattern of backfires
+- **Curiosity** about the pattern of backfires—what is she missing?
 - Methodical analysis: what went wrong, how to adjust
 - The kinship whisper deepens—she notices the parallel between his attachment to insight and her own attachment to... what? The mission? Being first?
-- A moment of self-recognition she quickly suppresses
-- First hints that "something isn't working"—not just tactically, but perhaps conceptually
-- Growing physical cost: headaches, sleep disruption, moments of distraction
+- A moment of self-recognition she files for later examination
+- First intimations that she needs more *nuanced* approaches—not force but subtlety
+- Growing interest in trying to *stall* rather than derail (seeds future strategy)
 
 ### The Unsettling Pattern
-She's beginning to notice: every intervention accelerates rather than impedes. Is there something about her interference itself that catalyzes his growth? The thought surfaces. She dismisses it. But it lingers.
+She's beginning to notice: every intervention accelerates rather than impedes. Is there something about her interference itself that catalyzes his growth? The question is *interesting*. She doesn't have an answer yet. But she's patient. She's been at this for a very long time.
 
 ---
 
 ## Modern Life: External Action Beat
 
-### DECIDED: Action-Forward Focus
+### DECIDED: Professional Complaint + Harrow Resurfaces
 
-Since Chapter 10 (Egypt) will be largely internal—a spiritual drama of solitary asceticism—this chapter should emphasize external stakes in Lilith's modern life. Give her something that demands attention *outside* the tracking.
+Since Chapter 10 (Egypt) will be largely internal—a spiritual drama of solitary asceticism—this chapter should emphasize external stakes in Lilith's modern life. The complaint arc provides concrete action while demonstrating her competence under pressure.
 
-### Option A: Professional Crisis
+### The Complaint
 
-**A Complaint or Investigation:**
-- A patient or family member files a complaint against Lilith
-- Perhaps related to a missed signal, a boundary perceived as cold, or her increasing distraction
-- The NHS or her practice initiates a review
-- She must navigate interviews, documentation, colleagues who may or may not defend her
-
-**Why This Works:**
-- Creates concrete external stakes that demand attention
-- Forces her into situations where she can't control the narrative
-- Tests her equanimity under professional threat
-- Creates ironic parallel: she's being scrutinized for missing something while being oblivious to what she's missing in herself
-- The distraction from tracking adds tension
-
-**The Irony:**
-She demonstrates perfect clinical judgment in defending herself—calm, precise, self-aware in exactly the way she cannot be about her own obsession. The review finds nothing wrong. Her competence is confirmed. And yet.
-
----
-
-### Option B: Family Emergency
-
-**Nadia's Crisis:**
-- Building on Chapter 7's family dynamics
-- Nadia's engagement has fallen apart—perhaps triggered by the stress of their mother's remarriage
-- Or: Nadia is having a genuine breakdown, not just resentment
-- Lilith is called to help, to be present, to hold space
+**The Patient Who Filed:**
+A new patient (not David from ch07)—a vindictive older man who thinks he knows more than this young clinician. Key details:
+- **Age/Background:** Late 50s or 60s, stay-at-home dad, perhaps formerly successful in another field
+- **Core Dynamic:** Came to Lilith genuinely needing help, but his ego prevents him from following her advice
+- **What Happened:** Things didn't work out for him—not because her advice was wrong, but because he didn't follow it. He refused to do the work.
+- **His Response:** Rather than accept responsibility, he blames Lilith. Files a complaint with her department (not with regulatory authorities—this is internal, manageable, but still demands attention)
+- **The Injustice:** Lilith was genuinely helping him. He is vindictive because admitting she was right would require admitting he was wrong.
 
 **Why This Works:**
-- Continues the family thread from ch07
-- Creates external demand that interrupts tracking obsession
-- Shows Lilith's competence in crisis—she *can* drop everything for family
-- But also shows the cost: every hour with Nadia is an hour not tracking
+- Every clinician faces this at some point—this is early in her career but not implausible
+- Creates a thread that can continue in future Lilith chapters if desired
+- The complaint is *unfair* but not easily dismissed
+- Demands time and attention when she wants to be tracking
 
-**The Complication:**
-What if Nadia notices something? What if, in a moment of vulnerability, Nadia says: "You're always somewhere else now. Even when you're here." The accusation would be accurate. Lilith would deflect it. But the reader would see.
+### Harrow Resurfaces
 
----
+**His Role:** Harrow (the difficult colleague from earlier chapters) is part of the complaint review process—not as accuser, but as someone on the panel or involved in the investigation.
 
-### Option C: Professional + Personal Combined
+**The Dynamic:**
+- Chapter 7 gave Harrow a break; now he's back
+- His presence adds tension even if he's not actively hostile
+- Perhaps he's professionally neutral but personally skeptical
+- Or: he's actually fair during the review, surprising Lilith (and reader)
+- Either way, his presence means she must navigate someone who has reason to doubt her
 
-**A Patient Crisis That Intersects with Tracking:**
-- A patient in genuine crisis demands emergency attention
-- Perhaps the caregiver patient from ch07 (David)—his mother has died, or he's had a breakdown
-- The crisis requires Lilith to be fully present
-- But it happens at the worst possible time—when she's deep in tracking, when she's trying to understand the next incarnation
+**The Resolution:**
+The review finds nothing wrong. Her clinical judgment was sound. The patient's complaint is recognized as displaced blame. But the process took time, attention, emotional bandwidth—all resources diverted from tracking.
 
-**Why This Works:**
-- Demonstrates her genuine clinical skill and compassion
-- Creates tension between her roles
-- The irony: she can save everyone except the one she's hunting
-- Physical cost compounds: she's exhausted from tracking AND from crisis management
+### Family Update (Light Touch)
 
----
+**Nadia's Arc:**
+- Engagement survives; the stress from mother's remarriage has settled
+- Brief mention that mother's wedding "wasn't the horror Nadia expected"—maybe even a moment of warmth
+- Foreshadow Nadia's wedding for ch11 (she's planning now, will happen next chapter)
+- Lilith navigates family with characteristic ease—this isn't her pressure point
 
-### Recommended Direction
-
-**Combine A and C:** A professional complaint triggered by something that happened during a crisis with a patient. This creates:
-- External stakes (the review)
-- Ethical complexity (did she actually miss something? Or is this unfair?)
-- Time pressure (review demands attention when she wants to be tracking)
-- Physical cost (stress + tracking exhaustion = headaches, distraction)
-- Ironic demonstration (she navigates the review brilliantly, proving the very competence she can't apply to her own situation)
+**Purpose:** Shows Lilith's competence in personal life continues. The family thread from ch07 resolved positively. Her blindspot remains the tracking, not family.
 
 ---
 
@@ -239,29 +214,29 @@ Each chapter shows her demonstrating mastery of the fetter Silas struggles with 
 
 **Verinus's Fetter (Ch 8):** Ill will (vyāpāda) expressed as resentment toward ambiguity, imperfection, and human inconsistency. His demand for moral purity masked contempt for the messy reality of human behavior.
 
-### Parallel Patient: Resentment and Perfectionism
+### The Vindictive Patient AS the Demonstration
 
-**Patient Profile:**
-A professional—perhaps academic, legal, or medical—consumed by resentment toward colleagues, institutions, or systems that don't meet their standards. Someone who has made "being right" into an identity.
+**DECIDED:** The patient who files the complaint *is* the demonstration—he embodies ill-will, and Lilith demonstrates mastery by responding without it.
 
-**Possible Scenarios:**
-1. **The Whistleblower:** Someone who exposed genuine wrongdoing but can't stop fighting, can't let go of the grievance, is destroying relationships and career in pursuit of vindication
-2. **The Perfectionist:** Someone whose standards are so high that everyone fails them, including themselves
-3. **The Grudge-Holder:** Someone nursing a legitimate wrong that has calcified into defining bitterness
+**The Patient's Ill Will:**
+- He's consumed by resentment—toward Lilith, toward his situation, toward the reality that he didn't follow advice
+- His complaint is an act of ill will: blame-shifting, vindictiveness, the need to make someone else responsible
+- He believes he's right; he's nursing a grievance; he's attacking someone who actually helped him
 
-**The Session:**
-- Patient describes situation that mirrors Lilith's own pursuit (someone who can't let go)
-- Lilith gives perfect advice: "Resentment is drinking poison expecting the other person to die"
-- She speaks about the difference between justice and revenge, between standards and contempt
-- Patient's struggle mirrors Verinus's transformation: can you hold to virtue without despising those who fall short?
+**Lilith's Demonstration:**
+- She responds with equanimity, not resentment
+- She doesn't attack back, doesn't get defensive, doesn't become bitter
+- She navigates the complaint process with calm competence
+- Even when Harrow is involved, she maintains composure
+- This is what mastery of ill-will looks like: she can be treated unjustly without becoming consumed by injustice
 
-### The Doubled Irony
+### The Layered Irony
 
-**Layer 1 (Standard):** Lilith gives advice she cannot apply to her own obsessive project.
+**Layer 1 (Visible):** The patient is consumed by ill-will; Lilith is not. She demonstrates the fetter's opposite.
 
-**Layer 2 (New):** But does her pursuit involve ill will? She would say no—she's not angry at Silas, just... determined. But determination can mask resentment. Competition can mask contempt.
+**Layer 2 (Subtle):** But does her pursuit of Silas involve ill-will? She would say no—she's not angry at him, just... determined. Curious. Interested in the problem he represents.
 
-**Layer 3 (Deepest):** Her frustration this chapter is itself ill will. Resentment toward a soul that won't stay derailed. She can't see this. The reader might.
+**Layer 3 (Deepest):** Competition is not the same as ill-will. But the *attachment* to being first, to winning the cosmic race—is that a form of something adjacent? She can't see this yet. Neither can the reader, quite. But the question is being planted.
 
 ---
 
@@ -301,7 +276,59 @@ The pride. Subtle, almost invisible—but she sees it. He released attachment to
 - Isolation concentrated insight rather than diffusing it
 - He found peace instead of bitterness
 
-**The Pattern:** Every attack that isolates him seems to strengthen him. Every intervention that creates suffering seems to deepen wisdom. She's beginning to see the shape of something she doesn't understand.
+**The Pattern:** Every attack that isolates him seems to strengthen him. Every intervention that creates suffering seems to deepen wisdom. She's curious about this. What is she missing?
+
+---
+
+## Beat 4: Mutual Interference (One Buddha Arc)
+
+### The Memory-Slice
+
+**CRITICAL:** This chapter introduces Beat 4 of the "One Buddha" belief arc. During the tracking session, Lilith experiences something unexpected—a memory-slice from a life she doesn't usually visit.
+
+**What Surfaces:**
+A memory of a life where *both* of them rose at the same time. Not competing exactly—moving in parallel. Two trajectories approaching something like breakthrough simultaneously.
+
+**What She Glimpses:**
+- Social disorder around them—moral confusion, collapse
+- Neither achieving clarity; both failing
+- The strange feeling of *mutual interference*—like two frequencies canceling each other out
+- Not violence, not competition—something more like... instability
+- The world around them couldn't hold the pattern of dual ascent
+
+**What She Cannot See:**
+She doesn't understand *why* this happened. The glimpse is fragmentary, emotional, not analytical. Just the felt sense of catastrophe, and the presence of his pattern alongside hers.
+
+### The Insight
+
+> "Together doesn't hold."
+
+Not a fully formed theory—just an observation filed away. Something to examine later. But the seed is planted: their parallel progress may be inherently destabilizing.
+
+### How It Arrives
+
+This should feel *accidental*—not something she sought. Perhaps:
+- While scanning for the next incarnation, she brushes against her own thread
+- A life she usually passes over because nothing significant happened
+- Except something *did* happen—or rather, *didn't* happen
+- Both of them approaching, and the world... refusing to cohere around it
+
+### Tone
+
+Curious, not alarmed. She files it the way she files everything—interesting data, requires more examination. No panic, no urgency. Just: *Hm. Together doesn't hold. Worth watching.*
+
+### Connection to Future Beats
+
+This is the first beat in a 7-beat arc:
+- **Beat 4 (Ch 9):** Mutual Interference — "Together doesn't hold."
+- **Beat 5 (Ch 11):** Singularity of the Age — "Every age has one... then decay."
+- **Beat 6 (Ch 13):** Dwindling Capacity — "This era can barely support one ascent."
+- **Beat 7 (Ch 15):** Silas as Mirror — "He is the only other one."
+- **Beat 8 (Ch 17):** Fear of Simultaneity — "If we rise together, we ruin each other."
+- **Beat 9 (Ch 19):** Misreading as Duty — "Someone must choose. Someone must act."
+- **Beat 10 (Ch 21):** The Final False Law — "There can be only one. And if he rises now, I will never be free."
+
+Each beat is *felt*, not explained. No cosmology, no exposition—just accumulated observations that build to her tragic conclusion.
 
 ---
 
@@ -337,16 +364,17 @@ This is exactly what she's doing herself. Racing to Buddhahood. Attached to bein
 
 **Per Thematic Echoes:** Chapter 9's meat/body manifestation is "Body under strain; headaches"
 
-### Physical Thread (Escalating)
-- Headaches after tracking sessions—beginning as mild, becoming more persistent
-- Moments of distraction during clinical work
-- Sleep quality declining—not insomnia, but less restorative rest
-- The body registering what the mind won't acknowledge: this pursuit has a cost
-- Brief moment of looking at herself in a mirror—noting dark circles, tension in the jaw
-- Perhaps a colleague or family member comments: "You look tired"
+### Physical Thread (Subtle Throughout)
+- Her powers are natural—no metaphysical drain
+- Any physical manifestations should be understated:
+  - Perhaps someone comments "You look tired"
+  - Brief moment of needing coffee when she usually doesn't
+  - Nothing dramatic; she's functioning well
+- The "strain" this chapter is more *attentional* than physical—the complaint process, family updates, tracking sessions all demanding different kinds of focus
+- The body is a vehicle she uses efficiently, not an obstacle she fights
 
 ### Metaphorical Layer
-The body is beginning to rebel against what she's doing to it. The meat is speaking. But she interprets the symptoms as technical problems to solve—better sleep hygiene, adjust tracking schedule—rather than signals that something fundamental is wrong.
+The "meat" theme this chapter is about the *body of evidence*—the complaint file, the testimonies in Verinus's case, the physical documents that record judgment and accusation. Paper flesh. The body of the text.
 
 ---
 
@@ -370,49 +398,49 @@ Verinus's question about virtue → incomplete release (pride in understanding) 
 
 ## Structure
 
-**DECIDED:** Action beat throughout, not just at start. Tracking session as climax. Professional/personal stakes create tension.
+**DECIDED:** Action-forward, less interiority. Complaint arc runs throughout. Tracking session as climax with Beat 4 insertion. External stakes dominate to contrast with Egypt's internal focus.
 
-### Section I: The Complaint (~800-1,000 words)
-**Setting:** Clinical space, then meeting with supervisor/committee
-- Opens with Lilith learning of the complaint/review
-- The specifics: what happened, who filed, what's at stake
-- Her measured response—frustration contained, not displayed
-- Brief reference to physical state—headache beginning, tension in shoulders
-- Establishes the external stakes that will run through chapter
+### Section I: The Complaint Arrives (~800-1,000 words)
+**Setting:** Clinical space, supervisor's office
+- Opens with Lilith learning of the complaint
+- The vindictive patient, the internal review, Harrow's involvement
+- Her measured response—curiosity about the situation, not frustration
+- Demonstrates equanimity: she's been unfairly accused, and she's calm about it
+- Establishes the external stakes that run through chapter
 
-### Section II: The Resentment Patient (~1,000-1,200 words)
-**Setting:** Therapy room
-- Session with patient struggling with resentment/perfectionism
-- Patient's story mirrors Lilith's own pattern
-- She gives perfect advice about releasing ill will
-- The irony: her frustration with Silas is itself ill will
-- Physical tell: brief moment of distraction, touching temple
+### Section II: Navigating the Review (~1,000-1,200 words)
+**Setting:** Review meeting, documentation, Harrow interaction
+- The complaint process unfolds
+- Lilith demonstrates mastery of ill-will by not responding with ill-will
+- Harrow's role—perhaps surprisingly fair, perhaps skeptically neutral
+- The patient's vindictiveness becomes clear; the review trends toward dismissal
+- But the process has taken time, attention
 
-### Section III: Family + Review Navigation (~800-1,000 words)
-**Setting:** Various—family scene, review meeting, montage quality
+### Section III: Family Update + Resolution (~700-900 words)
+**Setting:** Various—phone call, brief scene, montage quality
 - Time passes—days or weeks
-- Lilith handles the review with characteristic competence
-- Family obligation (Nadia check-in, mother update)
-- She navigates brilliantly, demonstrating the equanimity she preaches
-- But the tracking keeps pulling at her attention
-- Someone notices she seems "elsewhere"
+- Family thread: Nadia's engagement stable, mother's wedding "wasn't the horror"
+- Foreshadow Nadia's wedding for ch11
+- Review concludes in Lilith's favor—complaint dismissed
+- She's vindicated, but something about the pattern of attack and non-reaction lands differently now
+- Brief transition: the tracking is calling
 
-### Section IV: Tracking Session—Verinus's Death (~1,200-1,400 words)
+### Section IV: Tracking Session—Verinus's Death + Beat 4 (~1,400-1,600 words)
 **[CLIMAX]**
 - Reviews Verinus's death and its aftermath
 - Sees the genuine insight AND the subtle pride
-- Assesses what worked and what backfired
-- The frustration crystallizes: the pattern isn't breaking
-- The kinship whisper deepens—she sees the parallel between his attachment to insight and her own attachment to... being first?
+- Assesses what worked, what backfired, what she's curious about
+- **BEAT 4 INSERTION:** While scanning, she brushes against the memory-slice—mutual interference, dual ascent, collapse
+- The insight surfaces: "Together doesn't hold."
+- Files it with interest. Curious. Worth watching.
 
 ### Section V: Finding Egypt (~700-900 words)
 - Scans forward to the next incarnation
-- Locates the desert hermit
+- Locates the desert hermit in his solitude
 - Sees how Verinus's pride seeds the new vulnerability
-- Plans her approach: feed the spiritual pride
-- Brief physical toll—needs to rest, head throbbing
-- Ends methodically, but something has shifted
-- The pattern is starting to trouble her
+- Plans her approach: feed the spiritual pride, try nuance rather than force
+- The kinship whisper continues—she notes the parallel but doesn't panic
+- Ends methodically: new strategy forming, new data to examine
 
 ---
 
@@ -431,29 +459,40 @@ Verinus's question about virtue → incomplete release (pride in understanding) 
 
 ## Key Themes to Track
 
-1. **The Backfire Pattern:** She's beginning to see that every intervention accelerates rather than impedes
-2. **Frustration as Ill Will:** Her growing resentment toward Silas mirrors the fetter she demonstrates mastery over
-3. **The Kinship Whisper Deepens:** The parallel between his attachments and hers becomes harder to ignore
-4. **Physical Cost:** The body is registering what the mind won't acknowledge
-5. **External Stakes:** Professional review creates concrete pressure beyond the tracking
-6. **Competence Demonstration:** She navigates modern crises brilliantly while missing her own blindspot
-7. **Pride Seed:** Verinus's pride in understanding becomes the thread she'll try to exploit in Egypt
+1. **Beat 4: Mutual Interference** — First seed of the "One Buddha" belief arc; "Together doesn't hold"
+2. **Curiosity Over Frustration** — She observes the backfire pattern with interest, not resentment
+3. **The Kinship Whisper Deepens** — The parallel between his attachments and hers becomes harder to ignore
+4. **Ill-Will Demonstration** — Vindictive patient embodies the fetter; Lilith demonstrates mastery by non-reaction
+5. **External Stakes** — Complaint + Harrow creates action-forward structure
+6. **Competence Demonstration** — She navigates the review brilliantly while missing her own blindspot
+7. **Pride Seed** — Verinus's pride in understanding becomes the thread she'll exploit in Egypt
+8. **Nuance Strategy** — She begins to consider stalling rather than derailing, subtlety rather than force
 
 ---
 
-## Key Decisions Still Needed
+## Decisions Made
 
-1. **Specific nature of the complaint:** What exactly is she being accused of? Did she actually miss something, or is this unfair?
+1. ✅ **Complaint source:** Vindictive older stay-at-home dad who blames Lilith for his own failure to follow advice
+2. ✅ **Harrow's role:** Part of the review process; adds tension but perhaps surprisingly fair
+3. ✅ **Demonstration technique:** The vindictive patient IS the demonstration—he embodies ill-will, she responds without it
+4. ✅ **Family arc:** Engagement survives, mother's wedding went fine, foreshadow Nadia's wedding (ch11)
+5. ✅ **Physical cost:** Subtle throughout; powers are natural, no metaphysical drain
+6. ✅ **Emotional state:** Curiosity and interest, NOT frustration
+7. ✅ **Beat 4:** Mutual Interference memory-slice inserted during tracking session
 
-2. **Resentment patient details:** Whistleblower? Perfectionist? Grudge-holder? What's their specific story?
+---
 
-3. **Family beat specifics:** Is Nadia in crisis? Just checking in? Does someone notice Lilith's distraction?
+## Questions for Outline Development
 
-4. **The kinship moment:** How explicit should the parallel between Lilith's attachment and Verinus's pride become? Does she almost see it?
+1. **Vindictive patient name?** Need to give him a name for the complaint arc
 
-5. **Physical toll level:** How much to escalate? Headaches only, or other symptoms?
+2. **What specifically did he complain about?** (e.g., "She was cold and dismissive" or "She gave dangerous advice" or "She abandoned me when I needed her most")
 
-6. **Backfire articulation:** Does Lilith begin to articulate the pattern consciously, or does she suppress the recognition?
+3. **Harrow's specific behavior during review?** Does he surprise Lilith by being fair? Or is he skeptically neutral?
+
+4. **The memory-slice setting:** What life/era does the "mutual interference" memory come from? Should remain vague but need enough texture to write
+
+5. **Chapter title?** (Optional—may emerge from drafting)
 
 ---
 
