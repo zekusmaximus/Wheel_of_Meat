@@ -70,10 +70,16 @@ Mirrored phrases for balance and thematic opposition:
 When drafting any avatar, subtly include:
 
 - **Physical marker**: [TBD - consistent across lives]
-- **Behavioral marker**: Patience and observation (Ka watches. Learns. → Silas’s academic temperament)
+- **Behavioral marker**: Patience and observation (Ka watches. Learns. → Silas's academic temperament)
 - **Situational marker**: Drawn to certain types of situations/people
 
 The compulsive helping flaw manifests differently in each life but is always present.
+
+### Lilith's Unchanging Face (locked 2025-12-06)
+
+- Sharp widow's peak, single thick darker strand always escaping to the left
+- Left eye: deep brown with pale-green crescent 11–1 o'clock (light-dependent; appears completely black in shadow)
+- First direct appearance: Chapter 8 (Marcia). Earlier chapters may only hint (shadow, partial glimpse, etc.).
 
 -----
 
