@@ -167,11 +167,13 @@ Since Chapter 10 (Egypt) will be largely internal—a spiritual drama of solitar
 
 ### The Complaint
 
-**The Patient Who Filed:**
+**The Patient Who Filed: Luther**
 A new patient (not David from ch07)—a vindictive older man who thinks he knows more than this young clinician. Key details:
-- **Age/Background:** Late 50s or 60s, stay-at-home dad, perhaps formerly successful in another field
+- **Name:** Luther
+- **Age/Background:** Late 50s or 60s, stay-at-home dad, formerly successful in another field
 - **Core Dynamic:** Came to Lilith genuinely needing help, but his ego prevents him from following her advice
 - **What Happened:** Things didn't work out for him—not because her advice was wrong, but because he didn't follow it. He refused to do the work.
+- **His Complaint:** Claims she gave "dangerous advice"—a mix of misinterpretation and outright fabrication. He's twisted what she actually said, added things she never recommended, constructed a narrative where he's the victim of professional negligence rather than his own resistance.
 - **His Response:** Rather than accept responsibility, he blames Lilith. Files a complaint with her department (not with regulatory authorities—this is internal, manageable, but still demands attention)
 - **The Injustice:** Lilith was genuinely helping him. He is vindictive because admitting she was right would require admitting he was wrong.
 
@@ -187,10 +189,12 @@ A new patient (not David from ch07)—a vindictive older man who thinks he knows
 
 **The Dynamic:**
 - Chapter 7 gave Harrow a break; now he's back
-- His presence adds tension even if he's not actively hostile
-- Perhaps he's professionally neutral but personally skeptical
-- Or: he's actually fair during the review, surprising Lilith (and reader)
-- Either way, his presence means she must navigate someone who has reason to doubt her
+- **DECIDED:** He's surprisingly fair during the review
+- Lilith expected skepticism or hostility; instead, he's professionally rigorous but honest
+- When the evidence clearly shows Luther's complaint is distorted, Harrow doesn't pile on—he follows the facts
+- This doesn't unnerve Lilith (she's too composed for that) but it's *interesting*
+- Perhaps a brief moment of recalibration: she had him filed as adversary, and he's more complex than that
+- Readers may find this more interesting than another Harrow-as-obstacle beat
 
 **The Resolution:**
 The review finds nothing wrong. Her clinical judgment was sound. The patient's complaint is recognized as displaced blame. But the process took time, attention, emotional bandwidth—all resources diverted from tracking.
@@ -312,6 +316,25 @@ This should feel *accidental*—not something she sought. Perhaps:
 - A life she usually passes over because nothing significant happened
 - Except something *did* happen—or rather, *didn't* happen
 - Both of them approaching, and the world... refusing to cohere around it
+
+### The Setting (Texture Without Specificity)
+
+**DECIDED:** Ancient but uncertain. Not Ka-ancient (that's the oldest, prehistoric), but pretty ancient—somewhere in the murky reaches of early civilization.
+
+**Sensory Impressions:**
+- Dusty collapse, crumbling walls
+- A sense of cities or settlements failing
+- The smell of drought or abandonment
+- People moving in wrong patterns—moral confusion made visible
+- Two threads running parallel, neither reaching clarity
+- The world unable to hold their dual weight
+
+**What NOT to Show:**
+- No specific era, culture, or geography
+- No clear narrative of what went wrong
+- Just the emotional residue: *this didn't work*
+
+The vagueness is intentional. She's not analyzing history—she's feeling a pattern. The specifics don't matter; the *shape* does.
 
 ### Tone
 
@@ -484,13 +507,13 @@ Verinus's question about virtue → incomplete release (pride in understanding) 
 
 ## Questions for Outline Development
 
-1. **Vindictive patient name?** Need to give him a name for the complaint arc
+1. ✅ **Vindictive patient name:** Luther
 
-2. **What specifically did he complain about?** (e.g., "She was cold and dismissive" or "She gave dangerous advice" or "She abandoned me when I needed her most")
+2. ✅ **His complaint:** Claims she gave "dangerous advice"—misinterpreted and some fabricated
 
-3. **Harrow's specific behavior during review?** Does he surprise Lilith by being fair? Or is he skeptically neutral?
+3. ✅ **Harrow's behavior:** Surprisingly fair; follows the facts rather than piling on
 
-4. **The memory-slice setting:** What life/era does the "mutual interference" memory come from? Should remain vague but need enough texture to write
+4. ✅ **Memory-slice setting:** Ancient but uncertain (not Ka-ancient); dusty collapse, failing cities, moral confusion
 
 5. **Chapter title?** (Optional—may emerge from drafting)
 
