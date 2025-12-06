@@ -1,0 +1,41 @@
+{
+  "chapter_id": "ch08-rome-investigator",
+  "avatar": {
+    "name": "Lucius Severian Verinus",
+    "occupation": "Legal investigator attached to the praetor urbanus",
+    "status": "Respected, exacting, increasingly isolated Stoic inquiry officer whose pursuit of ethical clarity alienates peers and patrons"
+  },
+  "physical": {
+    "appearance": "Lean, tall Roman man in his mid-40s with severe posture; close-cropped dark hair showing early silvering; eyes sharp and observant, rarely emotive; always immaculately dressed in a modest but perfectly kept tunic.",
+    "recognition_marker": "A polished bronze stylus he carries everywhere and cleans compulsively whenever testimony contradicts itself—his tactile ritual for correcting the world's disorder."
+  },
+  "psychology": {
+    "core_flaw_manifestation": "His inherited martyrdom impulse transforms into a rigid demand for moral and factual purity. He does not sacrifice himself through over-helping as Philon did; instead he sacrifices others through perfectionistic judgment. He believes virtue requires errorless conclusions, and he resents all ambiguity as a kind of ethical contamination.",
+    "fatal_flaw": "Ill will—specifically, resentment toward human imperfection disguised as Stoic detachment. When confronted with ambiguity, he tightens into absolutism rather than compassion.",
+    "strengths": [
+      "Disciplined mind trained in Stoic reasoning",
+      "Strong observational clarity and analytic rigor",
+      "Integrity that cannot be bent by political pressure",
+      "Capacity for deep introspection when forced"
+    ],
+    "weaknesses": [
+      "Contempt for irrationality in others",
+      "Inability to tolerate uncertainty",
+      "Social isolation caused by moral severity",
+      "A brittle sense of virtue that depends on perfect knowledge"
+    ]
+  },
+  "chapter_arc": {
+    "opening_state": "Verinus begins certain that reason and virtue are inseparable—that if one reasons correctly, the ethically right action will always emerge. He views the world as flawed but fixable through disciplined clarity.",
+    "inciting_incident": "He is assigned a seemingly simple case involving contradictory testimonies. A small but consequential scribal error (caused indirectly by Lilith) fractures the clarity he relies on and initiates a cascade of contradictions.",
+    "climax": "After attempting to force coherence onto impossibly conflicting accounts, Verinus chooses a compassionate resolution rather than a perfectly rational one. This decision offends a powerful patron, leading to political retaliation. His ethical stand costs him his position, authority, and standing.",
+    "closing_state": "Stripped of rank and exiled, Verinus dies quietly in a rural coastal province. In his final moments, he understands that virtue is action taken within uncertainty, not purity achieved through perfect knowledge. This insight dissolves his resentment and prepares him for the next incarnation’s confrontation with desire and emotional entanglement."
+  },
+  "lesson_development": {
+    "perfection_or_fetter": "Ill will (vyāpāda) expressed as resentment toward ambiguity, imperfection, and human inconsistency; secondary fetter of restlessness.",
+    "what_learned": "That ethical action is independent of certainty. Compassion is not the opposite of reason but its completion. The world cannot be perfected through clarity; it must be accepted through kindness.",
+    "what_failed": "His belief that virtue requires purity and definitive truth collapses. He cannot hold his identity as a faultless arbiter of order—his exile forces him to abandon moral absolutism.",
+    "death_seeds_next": "In accepting uncertainty and choosing compassion at the end, his heart softens enough to make him vulnerable to the next fetter: sensual desire and emotional attachment. This opens the karmic path toward the Heian Japan life, where craving and beauty entangle him."
+  },
+  "notes": "Lilith appears in this chapter as a quiet, perceptive woman (Marcia Faenia) connected to the case; she offers partial truths meant to harden Verinus's absolutism. Her indirect manipulations—mis-timed witnesses, altered moods, scribal errors—are intended to push him toward despair and rigidity but instead force him to confront the necessity of compassion. Her interlude will reveal frustration at her unintended success: the contradictions she cultivated become the crucible of his moral awakening."
+}

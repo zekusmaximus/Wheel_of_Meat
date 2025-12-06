@@ -218,75 +218,484 @@
     },
 
     {
-      "chapter": 6,
-      "id": "ch06-athens-philosopher",
-      "title": "The Philosopher",
-      "type": "historical",
-      "genre": "Historical Tragedy",
-      "setting": {
-        "period": "Classical",
-        "location": "Athens, Greece",
-        "year": "461-429 BCE"
-      },
-      "pov": "TBD",
-      "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
-      },
-      "lilith": {
-        "powers": "Dream influence—can plant suggestions in sleep",
-        "intervention": "Plants dreams conflating selflessness with self-destruction",
-        "objective": "Corrupt his understanding of altruism; make him believe true selflessness requires martyrdom"
-      },
-      "lesson": {
-        "perfection": "Wisdom (paññā)",
-        "theme": "Individual vs. collective good; true altruism",
-        "core_development": "Struggles with personal sacrifice vs. systemic change"
-      },
-      "backfire": "TBD",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+  "chapter": 6,
+  "id": "ch06-athens-philosopher",
+  "title": "The Philosopher",
+  "type": "historical",
+  "genre": "Historical Tragedy",
+  "setting": {
+    "period": "Classical Athens",
+    "location": "Athens, Greece (Agora, Long Walls, Piraeus)",
+    "year": "430 BCE (Year 2 of Peloponnesian War)",
+    "historical_context": "Plague of Athens during Pericles' leadership"
+  },
+  "pov": "Philon of Kephissia",
+  "avatar": {
+    "name": "Philon of Kephissia",
+    "age": "Early 40s",
+    "occupation": "Physician (iatros)",
+    "status": "Developing soul",
+    "recognition_markers": [
+      "Observational patience—watches before acting",
+      "Physical hesitation before touch (echo of Ka's deliberation)",
+      "Tendency to see individuals rather than categories"
+    ],
+    "fatal_flaw": "Conflates selflessness with self-destruction; cannot distinguish between compassionate service and martyrdom",
+    "binding_memory": "As young man, witnessed physician refuse plague victim during earlier outbreak; victim died begging; vowed never to be the man who abandons"
+  },
+  "lilith": {
+    "age": 27,
+    "identity": "Unknown presence in Athens",
+    "powers": "Dream influence—can plant suggestions and emotional residue during sleep",
+    "intervention_1": {
+      "timing": "First Episode",
+      "method": "Accelerates rumor that plague came from Persian ships",
+      "effect": "Creates xenophobic panic; refugees flood to Philon; strains resources"
     },
+    "intervention_2": {
+      "timing": "Night before Second Episode",
+      "method": "Sends dream to Alexios: vision of Philon's corpse, certainty that following means death, whisper that survival is service",
+      "target": "Alexios (Philon's assistant)",
+      "effect": "Alexios refuses to help treat slave woman; Philon faces final choice alone"
+    },
+    "objective": "Isolate Philon and accelerate his martyrdom by removing witnesses and support"
+  },
+  "key_characters": {
+    "alexios": {
+      "role": "Assistant and pupil",
+      "age": "Young man (early 20s)",
+      "function": "Voices the lesson Philon cannot hear: survival enables service to many",
+      "arc": "Believes in Philon's ethic until plague tests it; breaks when asked to accompany to slave woman; departure is rational, not cowardly",
+      "departure_argument": "If we both die treating one slave, who treats the hundred waiting outside? You taught me that a physician's life belongs to his patients. All of them. Not just the one in front of us."
+    },
+    "the_patient": {
+      "identity": "Adult female slave from Scythia",
+      "name": "TBD (foreign name or Greek slave-name)",
+      "status": "Abandoned by wealthy owners when symptomatic",
+      "speech": "Broken, halting Greek",
+      "function": "Lowest social status—makes Philon's choice maximally stark; echoes binding memory through her resignation",
+      "death": "Dies in Philon's arms in Third Episode despite his care"
+    }
+  },
+  "lesson": {
+    "perfection": "Wisdom (paññā)",
+    "theme": "Individual vs. collective good; distinguishing true altruism from self-destruction",
+    "core_development": "Cannot see that martyrdom for one person abandons the many who need him; wisdom requires understanding context and consequences, not just immediate compassion",
+    "insight_achieved": "Incomplete—arises in delirium: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
+    "karmic_seed": "There must be a way to understand virtue correctly → becomes Stoic investigator's obsession with moral framework"
+  },
+  "backfire": {
+    "lilith_intention": "Isolate and accelerate martyrdom",
+    "actual_result": "By ensuring Philon faces choice entirely alone (no one to share burden/blame), his death becomes concentrated seed of insight rather than diluted tragedy; karmic weight pure and undiffused"
+  },
+  "structure": {
+    "form": "Greek tragic architecture (9 sections)",
+    "sections": [
+      {
+        "number": "I",
+        "title": "Prologos—The City Before Collapse",
+        "word_target": 1400,
+        "beats": [
+          "Dawn in Agora; civic pride; Parthenon gleaming",
+          "Philon treating minor cases, already exhausted",
+          "Binding memory surfaces (flashback/internal reference to vow)",
+          "Alexios introduced—eager, competent, admiring",
+          "Subtle tension: rumors of fever from Piraeus",
+          "Recognition marker: Philon watches before acting",
+          "Meat/body: Agora meat market imagery"
+        ]
+      },
+      {
+        "number": "II",
+        "title": "Parodos—The First Breach",
+        "word_target": 900,
+        "beats": [
+          "Man collapses in Agora with unmistakable plague symptoms",
+          "Panic; ring of fear opens around victim",
+          "Philon steps forward alone—Alexios hesitates, then follows",
+          "Line: 'One life is worth the effort'",
+          "Binding moment: Philon becomes physician who will not refuse"
+        ]
+      },
+      {
+        "number": "III",
+        "title": "First Episode—The Flood",
+        "word_target": 1500,
+        "beats": [
+          "Long Walls fill with refugees; clinic overwhelmed",
+          "Lilith's first intervention: xenophobic panic amplified",
+          "Magistrates demand triage by status; Philon refuses",
+          "Alexios begins to crack under pressure",
+          "Meat/body: Philon touches diseased flesh others won't",
+          "Scene escalation toward breaking point"
+        ]
+      },
+      {
+        "number": "IV",
+        "title": "First Stasimon—The City's Lament",
+        "word_target": 500,
+        "beats": [
+          "Funeral pyres visible day and night",
+          "Citizens abandon rites, hurl corpses onto fires",
+          "Civic order dissolving",
+          "Atmospheric—Philon not present; city as chorus",
+          "Meat/body: Burning flesh of funeral pyres"
+        ]
+      },
+      {
+        "number": "V",
+        "title": "Second Episode—The Impossible Choice",
+        "word_target": 1800,
+        "beats": [
+          "Magistrates order Philon to relocate to safety",
+          "Philon refuses: 'What meaning has a healer who abandons the dying?'",
+          "Slave woman arrives—abandoned by wealthy owners, fever-wracked",
+          "Alexios confronts Philon (morning after Lilith's dream)",
+          "Alexios's departure argument—painful, not villainous",
+          "Alexios leaves; Philon alone with choice",
+          "Decision to isolate with patient"
+        ]
+      },
+      {
+        "number": "VI",
+        "title": "Second Stasimon—The Cost of the Choice",
+        "word_target": 500,
+        "beats": [
+          "Pericles glimpsed in passing (image of man who cannot save what he loves)",
+          "Smell of unburied dead permeating city",
+          "Philon's first flicker of doubt—suppressed immediately",
+          "Atmospheric deepening of tragedy"
+        ]
+      },
+      {
+        "number": "VII",
+        "title": "Third Episode—Martyrdom",
+        "word_target": 1500,
+        "beats": [
+          "Philon isolates himself with slave woman",
+          "Last-ditch care: cooling cloths, water, whispered reassurances",
+          "She speaks—crystallizes tragedy (gratitude? question about why?)",
+          "She dies in his arms",
+          "Philon's first cough",
+          "Point of no return marked clearly"
+        ]
+      },
+      {
+        "number": "VIII",
+        "title": "Kommos—The Broken Realization",
+        "word_target": 1000,
+        "beats": [
+          "Fever delirium intercut with city's collapse outside",
+          "Visceral insight: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
+          "Incomplete understanding—arising from pain, not clarity",
+          "Too late to change anything",
+          "Recognition that martyrdom ≠ virtue"
+        ]
+      },
+      {
+        "number": "IX",
+        "title": "Exodus—Death & Seeding",
+        "word_target": 600,
+        "beats": [
+          "Philon dies quietly, surrounded by abandoned tools",
+          "Citizens carry body without ceremony",
+          "Karmic pivot crystallizes: 'There must be a way to understand virtue correctly'",
+          "Seeds Stoic investigator's obsession with moral framework",
+          "Final image of Athens continuing to burn"
+        ]
+      }
+    ],
+    "total_word_target": 9700
+  },
+  "thematic_elements": {
+    "meat_body_thread": [
+      "Agora meat market in Prologos",
+      "Philon's hands on diseased bodies throughout",
+      "Burning flesh of funeral pyres in Stasimon sections",
+      "Physical deterioration in delirium",
+      "Abandoned corpses as civic collapse marker"
+    ],
+    "undermining_pattern": "Preserved through Greek restraint—assertions complicated by immediate counter-evidence or doubt",
+    "sensory_anchoring": "Physical Athens (architecture, smells, textures) before interiority; emphasis on tactile reality of plague",
+    "loaded_gestures": "Touch as moral statement; refusal to touch as condemnation",
+    "environmental_metaphor": "City's physical decay mirrors moral/spiritual collapse"
+  },
+  "historical_accuracy_requirements": [
+    "Plague symptoms consistent with Thucydides' description",
+    "Social hierarchy and slave status accurately portrayed",
+    "Long Walls geography and refugee dynamics",
+    "Athenian medical practice and limits",
+    "Funeral rites and their breakdown",
+    "Pericles' leadership during plague (background only—no interaction)",
+    "Language: formal but accessible classical Greek translated feel"
+  ],
+  "scenes": [
+    {
+      "section": "I",
+      "title": "Prologos—The City Before Collapse",
+      "file": "scene-01-prologos.md",
+      "word_count": 1450,
+      "status": "draft"
+    },
+    {
+      "section": "II",
+      "title": "Parodos—The First Breach",
+      "file": "scene-02-parodos.md",
+      "word_count": 900,
+      "status": "draft"
+    },
+    {
+      "section": "III",
+      "title": "First Episode—The Flood",
+      "file": "scene-03-first-episode.md",
+      "word_count": 1550,
+      "status": "draft"
+    },
+    {
+      "section": "IV",
+      "title": "First Stasimon—The City's Lament",
+      "file": "scene-04-first-stasimon.md",
+      "word_count": 510,
+      "status": "draft"
+    },
+    {
+      "section": "V",
+      "title": "Second Episode—The Impossible Choice",
+      "file": "scene-05-second-episode.md",
+      "word_count": 1680,
+      "status": "draft"
+    },
+    {
+      "section": "VI",
+      "title": "Second Stasimon—The Cost of the Choice",
+      "file": "scene-06-second-stasimon.md",
+      "word_count": 520,
+      "status": "draft"
+    },
+    {
+      "section": "VII",
+      "title": "Third Episode—Martyrdom",
+      "file": "scene-07-third-episode.md",
+      "word_count": 1520,
+      "status": "draft"
+    },
+    {
+      "section": "VIII",
+      "title": "Kommos—The Broken Realization",
+      "file": "scene-08-kommos.md",
+      "word_count": 1010,
+      "status": "draft"
+    },
+    {
+      "section": "IX",
+      "title": "Exodus—Death & Seeding",
+      "file": "scene-09-exodus.md",
+      "word_count": 739,
+      "status": "draft"
+    }
+  ],
+  "status": "draft"
+},
+
 
     {
       "chapter": 7,
       "id": "ch07-lilith-cp03",
-      "title": "TBD",
+      "title": "The Dream-Walker",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
-        "year": "8 years before Chapter 1"
+        "year": "8 years before Chapter 1",
+        "timespan": "Several weeks to a few months"
       },
       "pov": "Lilith",
       "lilith": {
-        "age": 27,
-        "years_tracking": 2,
-        "occupation": "Advanced graduate student",
+        "age": "27-28",
+        "years_tracking": "2-3",
+        "occupation": "Advanced graduate student / early clinical work",
         "power_level": "Dream influence",
-        "emotional_state": "Still confident; first whispers of concern"
+        "capabilities": [
+          "Can plant suggestions and guidance in dreams",
+          "Works through liminal space between waking and sleeping",
+          "Can shape dream imagery and emotional atmosphere",
+          "Influence is indirect but more personal than remote manipulation"
+        ],
+        "limitations": [
+          "Suggestions only, not commands",
+          "Dream logic applies—messages distort, become symbolic",
+          "Cannot force choices",
+          "Cannot enter waking consciousness directly"
+        ],
+        "emotional_state": "Methodical confidence; first whisper of curiosity (not concern) about kinship with Silas",
+        "physical_cost": "Understated—fatigue mentioned but no dramatic deterioration"
       },
       "corresponds_to": {
         "historical_chapter": 6,
-        "avatar": "Athens philosopher",
+        "avatar": "Philon (Athens philosopher)",
+        "avatar_fetter": "Compulsive helping / inability to distinguish compassion from martyrdom",
         "lesson": "Wisdom (paññā)"
       },
+      "family_dynamics": {
+        "scenario": "Mother remarrying to Jeff; sister Nadia also engaged and resents mother 'stealing spotlight'",
+        "mother": "Excited about remarriage, perhaps oblivious to Nadia's feelings",
+        "sister_nadia": "Engaged, feels upstaged, frames Jeff as complicit (he isn't)",
+        "jeff": "Actually a good guy—warm, nervous, loves her mother; not the villain Nadia painted",
+        "lilith_response": "Navigates with genuine equanimity—warm but boundaried, validates feelings without taking sides, sees truth without imposing it",
+        "thematic_function": "Shows her competence in personal life (unlike her patients); demonstrates the balance her caregiver patient cannot achieve"
+      },
       "demonstration": {
-        "fetter": "TBD—related to wisdom/discernment",
-        "scene": "TBD"
+        "fetter": "Sustainable compassion vs. martyrdom (wisdom/discernment)",
+        "patient": {
+          "name": "David",
+          "profile": "Male, late 40s-50s, caring for aging mother Marsha",
+          "condition": "Caregiver guilt—destroying his life, marriage ended, career stalled, identity fused with being 'the good son'",
+          "mothers_name": "Marsha (quiet echo of Marcia Faenia, Lilith's Roman form)"
+        },
+        "clinical_advice": [
+          "Your worth doesn't depend on what you sacrifice",
+          "Sustainable care requires preserving yourself",
+          "Martyrdom isn't love—it's another form of control",
+          "Whether the love requires this particular shape—whether there's a version of being a good son that doesn't require you to disappear"
+        ],
+        "doubled_irony": {
+          "layer_1": "Lilith gives perfect advice she cannot apply to her obsessive tracking project",
+          "layer_2": "But she DOES apply this wisdom to her own family—navigates mother/sister conflict with genuine balance",
+          "deeper_irony": "Her blindspot isn't family or work—it's the tracking itself. She can see David's compulsion clearly, manage her own family deftly, but cannot see that her pursuit of Silas is the same attachment."
+        }
       },
       "tracking_content": {
-        "observes": "Athenian avatar's life",
-        "intervention": "Dream manipulation—plants suggestions in sleep",
-        "tracks_forward_to": "Roman avatar"
+        "reviews": "Philon's death in Athens plague—confirms her interventions (Alexios dream, xenophobic panic)",
+        "intervention_results": {
+          "intervention_1": "Xenophobic rumor acceleration—created chaos, strained Philon's resources",
+          "intervention_2": "Dream to Alexios—caused assistant to abandon Philon, leaving him to face final choice alone"
+        },
+        "expected_outcome": "Bitterness and corruption—man dying alone, abandoned, sacrifice meaningless",
+        "actual_outcome": "Isolation crystallized rather than corrupted; concentrated karma; question ('Was the one for them—or for me?') became pure seed of insight",
+        "the_recognition": {
+          "moment": "Watching Philon die, Lilith recognizes something of herself—same driven quality, same inability to do otherwise",
+          "emotional_register": "Curious, not alarmed—a near-enlightened being doesn't rattle at unexpected data",
+          "the_whisper": "Could Ka, Chandra, Philon be on the same journey she is? Not rivals but fellow travelers?",
+          "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
+        },
+        "tracks_forward_to": {
+          "method": "Scans her own past lives as temporal landmarks (Alexandria physician, Spanish sutler, Guangzhou washerwoman)",
+          "search": "Looking for where threads might coincide—where their patterns might have crossed",
+          "finds": "A city of law and order, marble and bureaucracy, someone obsessed with certainty—an investigator",
+          "subtle_hint": "Sense of proximity; one of her iterations might have been near this one",
+          "foreshadowing": "Her powers are growing; soon she might do more than observe"
+        }
       },
-      "backfire_awareness": "First hints—senses pattern progresses faster than expected",
-      "word_target": 2500,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
+        "actual_result": "Concentrated karma—by removing Alexios, ensured Philon's choice was entirely his own; no dilution of karmic weight; death became pure seed of insight rather than diluted tragedy",
+        "mechanism": "Shared sacrifice diffuses weight; solitary sacrifice concentrates it",
+        "thematic_irony": "She weaponized isolation, but isolation is where insight crystallizes"
+      },
+      "backfire_awareness": "First whisper of curiosity rather than concern—notices the kinship, files it, doesn't yet see the pattern of backfires",
+      "thematic_elements": {
+        "near_enlightenment_lived": "Shows what spiritual development looks like in ordinary life—not dramatic, not performed, just competent, present, balanced",
+        "meat_body_thread": "Body and sleep; dream-work—dreams as liminal space, sense-bleed from tracking (plague smell, ash)",
+        "blindspot": "Can navigate family with equanimity, give perfect clinical advice, but cannot see her tracking is the same attachment",
+        "kinship_whisper": "First seed of eventual merger—they might be fellow travelers, not rivals"
+      },
+      "word_target": 5000,
+      "structure": {
+        "form": "5 sections with montage time passage",
+        "total_word_target": "4,800-5,600"
+      },
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Ordinary Extraordinary",
+          "file": "scene-01-morning.md",
+          "word_target": "900-1,000",
+          "word_count": 1450,
+          "beats": [
+            "Dawn practice—meditation, stillness, discipline as lived experience",
+            "Phone call from Nadia—mother's remarriage stepping on sister's engagement",
+            "Lilith listens fully, validates without taking sides, offers presence not alliance",
+            "Nadia frustrated Lilith won't join her narrative; call ends with love intact",
+            "Beat of Lilith alone—notes residue, lets it pass; this is equanimity"
+          ],
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Good Son",
+          "file": "scene-02-david.md",
+          "word_target": "1,200-1,400",
+          "word_count": 1600,
+          "beats": [
+            "David in therapy room—exhausted, world shrunk to work/Marsha/sleep",
+            "Gradual reveal: marriage ended, promotion refused, friends gone",
+            "Core wound: cannot separate worth from sacrifice",
+            "Lilith's work: questions that open ('Who taught you love looks like this?')",
+            "The pivot: 'Is there a version of being a good son that doesn't require you to disappear?'",
+            "Crack in armor; session ends without resolution but question landed",
+            "Lilith alone—doubled irony (never stated); glances at mother's wedding text, responds easily"
+          ],
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "Between",
+          "file": "scene-03-between.md",
+          "word_target": "700-800",
+          "word_count": 1050,
+          "beats": [
+            "Weeks pass—montage quality",
+            "Clinical work continuing; she's good at her job",
+            "Meeting Jeff—actually a good guy, warm, nervous; Lilith genuinely welcoming",
+            "Contrast: Nadia's narrative vs. reality Lilith observes (doesn't correct, just sees)",
+            "Sister follow-up—Lilith holds same line, maybe moment of humor",
+            "Glance at notebooks, tracking materials—reader knows what's waiting",
+            "Evening falls; she moves toward tracking corner"
+          ],
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Death of Philon",
+          "file": "scene-04-tracking.md",
+          "word_target": "1,300-1,500",
+          "word_count": 1700,
+          "function": "CLIMAX",
+          "beats": [
+            "Night, flat dim, practice position—going back to confirm her work",
+            "Reaches Philon's thread; finds him at the end",
+            "The death scene: plague, abandoned clinic, slave woman dead in his arms",
+            "His final attention: not despair but inquiry",
+            "The incomplete insight: 'If I had lived... Was the one for them—or for me?'",
+            "What she expected: bitterness. What she finds: concentrated, crystallized question",
+            "THE RECOGNITION: watching him, she sees herself—same driven quality",
+            "The whisper: could they be on the same journey? Curious, not alarmed",
+            "Files it; returns to analysis; whisper doesn't fully fade"
+          ],
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "The Road to Rome",
+          "file": "scene-05-rome.md",
+          "word_target": "700-900",
+          "word_count": 950,
+          "beats": [
+            "Scanning her own lives as temporal landmarks—Alexandria, Spain, Guangzhou",
+            "Each a waypoint—and a question: were you there too?",
+            "Curiosity from Philon's death lingers; shapes rhyming",
+            "Finds next incarnation: city of law, obsessed with certainty, an investigator",
+            "Doesn't name it Rome yet—senses shape, not specifics",
+            "Subtle hint: sense of proximity to one of her own iterations",
+            "Growing powers—soon she might do more than observe",
+            "Returns to stillness; curiosity remains, not urgent, not troubling",
+            "Final image: two threads running parallel, closer than she knows"
+          ],
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
 
     {
@@ -296,69 +705,491 @@
       "type": "historical",
       "genre": "Mystery/Philosophical Drama",
       "setting": {
-        "period": "Classical",
-        "location": "Roman Empire",
-        "year": "1st-2nd centuries CE"
+        "period": "Classical Rome",
+        "location": "Rome and coastal province",
+        "year": "1st-2nd centuries CE",
+        "historical_context": "Roman legal system, patronage culture, philosophical schools"
       },
-      "pov": "TBD",
+      "pov": "Verinus",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
+        "name": "Verinus (Lucius Severian Verinus)",
+        "age": "Mid-40s",
+        "occupation": "Legal investigator attached to the praetor urbanus",
+        "status": "Developing soul",
+        "recognition_markers": [
+          "Observational patience—watches before acting",
+          "Physical ritual: compulsively cleans bronze stylus when testimony contradicts itself",
+          "Sees individuals rather than categories, even as he judges them harshly"
+        ],
+        "fatal_flaw": "Ill will expressed as resentment toward ambiguity, imperfection, and human inconsistency. Believes virtue requires errorless conclusions.",
+        "binding_pattern": "Inherited martyrdom impulse transforms into rigid demand for moral and factual purity"
       },
       "lilith": {
-        "powers": "Circumstance manipulation—subtle environmental changes",
-        "intervention": "Engineers moral dilemmas with no clean answers",
-        "objective": "Test his commitment to virtue by presenting situations where every choice involves complicity in harm"
+        "age": 28,
+        "identity": "Marcia Faenia—quiet young woman, dark-haired, observational stillness",
+        "powers": "Circumstance manipulation—can subtly manipulate circumstances and minor characters",
+        "cameo": {
+          "scene": 4,
+          "method": "Silent observation at Stoic debate; establishes physical characteristics",
+          "effect": "Non-interference; seeds her Chapter 9 awareness of growing powers"
+        },
+        "intervention_1": {
+          "scene": 2,
+          "timing": "Case assignment",
+          "method": "Clerk miscopies crucial line from testimonial scroll (Lilith-induced distraction)",
+          "effect": "Creates two competing versions of same statement; seeds cognitive fracture"
+        },
+        "intervention_2": {
+          "scene": 5,
+          "timing": "Witness testimony phase",
+          "method": "Triggers noisy argument elsewhere that stalls traffic",
+          "effect": "Witness arrives late, shifting timeline and making alibi impossible; forces Verinus to choose what to believe"
+        },
+        "intervention_3": {
+          "scene": 7,
+          "timing": "Judgment scene",
+          "method": "Amplifies senator's temper from displeasure into rage",
+          "target": "Senator (Varro's patron)",
+          "effect": "Verinus sentenced to relegatio (exile); intended to break him through meaninglessness"
+        },
+        "objective": "Two mini interferences funnel into major one. If destabilized by ambiguity, Verinus should compromise—sacrifice servant to preserve position. Man who can't trust evidence should trust power."
+      },
+      "key_characters": {
+        "marcus_cassianus_priscus": {
+          "role": "Friend and warm human foil",
+          "function": "Represents emotional truth and human connection Verinus refuses to embrace",
+          "arc": "Tries to follow Verinus into exile but blocked by political appointment to Brundisium",
+          "key_trait": "Laughs at contradictions; sees emotional truth where Verinus sees logical disorder",
+          "final_action": "Sends letter to Verinus in exile with news of servant's rebuilt life"
+        },
+        "gaius_quintilius_varro": {
+          "role": "The deceased—respected philosophus",
+          "death": "Philosophical suicide (paradoxical 'lesson')",
+          "function": "Creates naturally paradoxical mystery that resists rational reconstruction"
+        },
+        "the_servant": {
+          "status": "Household slave, legally vulnerable",
+          "function": "Legally guilty but morally innocent—terrified man who omitted detail",
+          "arc": "After Verinus's exile, attempts to intercede to help Marcus; later rebuilds modest life (vegetable stall, wife with child)"
+        },
+        "the_senator": {
+          "role": "Varro's patron, political antagonist",
+          "function": "Expects verdict protecting his dignity by condemning servant",
+          "action": "Rage (Lilith-amplified) leads to Verinus's exile; blocks Marcus with political appointment"
+        }
       },
       "lesson": {
         "perfection": "Virtue (sīla)",
-        "theme": "Ethical action in morally complex situations",
-        "core_development": "Stoic investigator facing impossible choices"
+        "fetter": "Ill will (vyāpāda) → Compassion amid uncertainty",
+        "theme": "Ethical action in morally ambiguous situations; virtue independent of certainty",
+        "core_development": "Cannot distinguish between certainty and virtue; resentment toward ambiguity disguised as Stoic detachment",
+        "insight_achieved": "Virtue is action taken within uncertainty, not purity achieved through perfect knowledge. Compassion is not opposite of reason but its completion.",
+        "karmic_seed": "Accepting uncertainty and choosing compassion softens heart, making him vulnerable to next fetter: sensual desire and emotional attachment → seeds Heian Japan life"
       },
-      "backfire": "TBD",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Exile meant to break Verinus—strand him in meaninglessness, man whose life's work was coherence now marooned in chaos",
+        "actual_result": "Accumulated contradictions haven't made him cynical—they've made him humble. Realizes he cannot know with certainty but can still choose with compassion. Protects servant despite uncertainty. Exile removes him from Rome's certainty-obsessed culture, creating space for transformation. Senator meant to destroy him; instead freed him.",
+        "mechanism": "By ensuring Verinus faces choice entirely alone and then exiling him to silence, Lilith inadvertently gives him permission to not know—the one thing Rome never could"
+      },
+      "structure": {
+        "form": "Procedural mystery architecture (9 scenes)",
+        "scenes": [
+          {
+            "number": 1,
+            "title": "The Baths and the First Contempt",
+            "word_target": 800,
+            "beats": [
+              "Public baths at dawn; two citizens loudly disagree over event",
+              "Verinus performs stylus-cleaning ritual",
+              "Marcus joins him, laughs at contradiction; Verinus winces",
+              "Marcia Faenia (Lilith cameo): quiet observation, no interaction",
+              "Establishes Verinus's disdain for ambiguity and emotional aloofness"
+            ]
+          },
+          {
+            "number": 2,
+            "title": "The Case Is Assigned",
+            "word_target": 900,
+            "beats": [
+              "Praetor's office; Gaius Quintilius Varro died under suspicious circumstances",
+              "Three witnesses' accounts contradict sharply",
+              "Marcus warns: 'Varro had patrons. Tread softly.'",
+              "Lilith Interference #1: Clerk miscopies crucial testimonial line",
+              "Launches central mystery; seeds confusion"
+            ]
+          },
+          {
+            "number": 3,
+            "title": "First Testimonies: The Human Noise Floor",
+            "word_target": 1400,
+            "beats": [
+              "Varro's modest but cluttered study",
+              "Three testimonies: Servant (terrified), Student (eloquent/self-interested), Neighbor (resentful)",
+              "Every account contradicts; none malicious",
+              "Verinus attempts rational reconstruction; fails",
+              "Marcus tries emotional interpretation; Verinus dismisses"
+            ]
+          },
+          {
+            "number": 4,
+            "title": "Stoic Debate & Lilith Cameo",
+            "word_target": 1000,
+            "beats": [
+              "Portico where philosophers debate ethics to public audience",
+              "Two philosophers present opposite conclusions from same ethical premise",
+              "Verinus's worldview trembles",
+              "Marcia Faenia stands at edge of crowd, arms folded, watching Verinus's face",
+              "Does not speak; disappears into crowd",
+              "Plants philosophical paradox"
+            ]
+          },
+          {
+            "number": 5,
+            "title": "Collapse of Coherence",
+            "word_target": 1000,
+            "beats": [
+              "Streets of Rome to Praetor's office",
+              "Lilith Interference #2: Noisy argument stalls traffic, witness arrives late",
+              "Timeline shift makes alibi impossible",
+              "Verinus forces coherence by discarding emotional details",
+              "Marcus objects; they quarrel for first time",
+              "Accelerates Verinus's descent into absolutism"
+            ]
+          },
+          {
+            "number": 6,
+            "title": "The Vulnerable Witness",
+            "word_target": 1100,
+            "beats": [
+              "Quiet interior courtyard",
+              "Frightened younger witness (kitchen attendant/youth) gives shifting account",
+              "Emotionally earnest but factually inconsistent",
+              "Verinus near-shouts but restrains himself",
+              "Marcus calms youth; Verinus watches",
+              "Realizes emotional truth is its own kind of accuracy"
+            ]
+          },
+          {
+            "number": 7,
+            "title": "The Compassionate Judgment",
+            "word_target": 1500,
+            "beats": [
+              "Praetor's tribunal or adjudication room",
+              "Verinus reconstructs case: servant legally guilty but morally innocent",
+              "Senator expects verdict condemning servant",
+              "Verinus refuses; highlights senator's selfishness",
+              "Reveals Varro's philosophical suicide as paradoxical lesson",
+              "Lilith Interference #3: Amplifies senator's rage",
+              "Verinus sentenced to relegatio (exile)",
+              "Marcus tries to follow; blocked by appointment to Brundisium",
+              "Servant later attempts to intercede; intimidated by senator's household"
+            ]
+          },
+          {
+            "number": 8,
+            "title": "Exile: The Quiet Unraveling",
+            "word_target": 900,
+            "beats": [
+              "Coastal olive grove or fishing village",
+              "Days pass in quiet labor; small household (freedman, cook)",
+              "Verinus reopens notes, places contradictory testimonies side-by-side",
+              "First time he doesn't clean the stylus",
+              "Allows contradictions to remain",
+              "Letter from Marcus arrives: tried to join, senator blocked; servant rebuilt life (vegetable stall, wife with child)",
+              "Transformation deepens"
+            ]
+          },
+          {
+            "number": 9,
+            "title": "Death: Bittersweet Anonymity",
+            "word_target": 600,
+            "beats": [
+              "Grove at dusk; age or mild illness",
+              "Freedman finds him at dawn; stylus in hand",
+              "Contradictory testimonies unresolved, uncorrected, accepted",
+              "Servants stand together, unsure; neither knew who he'd been or who he'd become",
+              "Final sensation: world is imperfect and therefore lovable",
+              "Final thought: 'Virtue lives where certainty fails.'",
+              "Bittersweet anonymity—surrounded but unknown",
+              "Seeds attachment/desire issues for Heian life"
+            ]
+          }
+        ],
+        "total_word_target": 9200
+      },
+      "thematic_elements": {
+        "stylus_ritual": "Physical manifestation of conceptual need for order; cleaning = restoring order; Scene 8: first time he doesn't clean it; Scene 9: dies with it in hand, contradictions unresolved",
+        "meat_body_thread": [
+          "Public baths—bodies in water, physical vulnerability",
+          "Varro's study—mortal remains vs. immortal ideas",
+          "Courtyard—youth's trembling body revealing emotional truth",
+          "Exile—aging flesh, mild illness, physical decline"
+        ],
+        "undermining_pattern": "Roman legal assertions complicated by immediate human contradiction",
+        "loaded_gestures": "Stylus cleaning, Marcus's laugh, Verinus's restraint, letter reading, unread testimonies"
+      },
+      "historical_accuracy_requirements": [
+        "Roman legal procedures and investigative methods (1st-2nd century CE)",
+        "Social hierarchy: senators, citizens, slaves",
+        "Relegatio vs. other forms of exile",
+        "Roman philosophical schools (Stoicism, though Varro's school kept ambiguous)",
+        "Patronage culture and senatorial power",
+        "Daily life: baths, dress, scrolls, writing implements",
+        "Geography: coastal provinces suitable for exile",
+        "Language: Formal but accessible Latin-translated feel"
+      ],
+      "death_bridge": {
+        "description": "Dies surrounded by servants who don't know him; bittersweet anonymity rather than isolation",
+        "seeds_next": "Emotional vacancy becomes karmic invitation to Heian court life where sensual desire and attachment will test him",
+        "distinction": "Not isolation (Ka, Philon) but anonymity—surrounded yet unknown"
+      },
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Baths and the First Contempt",
+          "file": "scene-01-baths.md",
+          "word_count": 764,
+          "status": "draft"
+        },
+        {
+          "number": 2,
+          "title": "The Case Is Assigned",
+          "file": "scene-02-case-assigned.md",
+          "word_count": 932,
+          "status": "draft"
+        },
+        {
+          "number": 3,
+          "title": "First Testimonies—The Human Noise Floor",
+          "file": "scene-03-testimonies.md",
+          "word_count": 1381,
+          "status": "draft"
+        },
+        {
+          "number": 4,
+          "title": "Stoic Debate & Lilith Cameo",
+          "file": "scene-04-stoic-debate.md",
+          "word_count": 1009,
+          "status": "draft"
+        },
+        {
+          "number": 5,
+          "title": "Collapse of Coherence",
+          "file": "scene-05-collapse.md",
+          "word_count": 1103,
+          "status": "draft"
+        },
+        {
+          "number": 6,
+          "title": "The Vulnerable Witness",
+          "file": "scene-06-vulnerable-witness.md",
+          "word_count": 981,
+          "status": "draft"
+        },
+        {
+          "number": 7,
+          "title": "The Compassionate Judgment",
+          "file": "scene-07-judgment.md",
+          "word_count": 1406,
+          "status": "draft"
+        },
+        {
+          "number": 8,
+          "title": "Exile—The Quiet Unraveling",
+          "file": "scene-08-exile.md",
+          "word_count": 1001,
+          "status": "draft"
+        },
+        {
+          "number": 9,
+          "title": "Death—The Final Letting Go",
+          "file": "scene-09-death.md",
+          "word_count": 650,
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
 
     {
       "chapter": 9,
       "id": "ch09-lilith-cp04",
-      "title": "TBD",
+      "title": "The Complaint",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
-        "year": "7 years before Chapter 1"
+        "year": "7 years before Chapter 1",
+        "timespan": "Several weeks"
       },
       "pov": "Lilith",
       "lilith": {
         "age": 28,
-        "years_tracking": 3,
-        "occupation": "Completing doctorate / early clinical practice",
+        "years_tracking": "3-4",
+        "occupation": "Early career psychiatrist",
         "power_level": "Circumstance manipulation",
-        "emotional_state": "Practice deepening; concern emerging"
+        "capabilities": [
+          "Can subtly manipulate circumstances and minor characters",
+          "Works through environment and secondary figures",
+          "Can create coincidences, delays, missed connections",
+          "Can be physically present (as Marcia Faenia) though not extended"
+        ],
+        "limitations": [
+          "Cannot affect Silas directly—must work through context",
+          "Changes must be plausible within the world",
+          "Cannot force choices",
+          "Manipulation leaves traces she may not anticipate"
+        ],
+        "emotional_state": "Curiosity and interest, not frustration; methodical analysis of backfire pattern",
+        "physical_cost": "Subtle—powers are natural at this stage; any fatigue is temporal/attentional, not physical deterioration"
       },
       "corresponds_to": {
         "historical_chapter": 8,
-        "avatar": "Roman investigator",
-        "lesson": "Virtue (sīla)"
+        "avatar": "Verinus (Roman investigator)",
+        "avatar_fetter": "Ill will (vyāpāda) expressed as resentment toward ambiguity and human inconsistency",
+        "lesson": "Virtue (sīla) / Compassion amid uncertainty"
+      },
+      "modern_life_arc": {
+        "complaint": {
+          "patient": "Luther",
+          "profile": "Late 50s-60s, stay-at-home dad, formerly successful elsewhere",
+          "accusation": "Claims 'dangerous advice'—misinterpretation and fabrication",
+          "reality": "Didn't follow advice, blames Lilith rather than accept responsibility",
+          "resolution": "Complaint dismissed; clinical judgment confirmed sound"
+        },
+        "harrow": {
+          "role": "Part of review panel",
+          "behavior": "Surprisingly fair—follows facts rather than piling on",
+          "lilith_response": "Notes he's more complex than she'd filed him"
+        },
+        "family": {
+          "nadia": "Engagement survives; stress from mother's remarriage settled",
+          "mother_wedding": "Wasn't the horror Nadia expected",
+          "foreshadowing": "Nadia's wedding for ch11"
+        }
       },
       "demonstration": {
-        "fetter": "TBD—related to ethical clarity",
-        "scene": "TBD"
+        "fetter": "Ill will (vyāpāda)",
+        "method": "Luther embodies ill-will through vindictive complaint; Lilith demonstrates mastery by responding without it",
+        "irony_layers": [
+          "Layer 1: Patient consumed by ill-will; Lilith is not",
+          "Layer 2: Does her pursuit of Silas involve ill-will? She'd say no—just determined, curious",
+          "Layer 3: Attachment to being first—is that a form of something adjacent?"
+        ]
       },
       "tracking_content": {
-        "observes": "Roman avatar's life",
-        "intervention": "Circumstance manipulation—engineers dilemmas",
-        "tracks_forward_to": "Egyptian avatar"
+        "reviews": "Verinus's death in exile—olive grove, stylus, contradictory testimonies accepted",
+        "intervention_results": {
+          "scribal_error": "Created competing testimonial versions; seeded cognitive fracture",
+          "traffic_delay": "Made alibi impossible; forced Verinus to choose what to believe",
+          "senators_rage": "Amplified displeasure into rage; triggered exile"
+        },
+        "expected_outcome": "Man who can't trust evidence should trust power; virtue corrodes into cynicism",
+        "actual_outcome": "Contradictions made him humble, not cynical; chose compassion despite uncertainty; exile gave him silence and permission to not know",
+        "the_backfire": "I amplified his rage past discretion. The exile was meant to break Verinus—strand him in meaninglessness. Instead, I gave him silence. I gave him time. I gave him the one thing Rome never could: permission to not know.",
+        "tracks_forward_to": "Egyptian hermit (Desert Father)"
       },
-      "backfire_awareness": "Growing concern—something isn't working",
-      "word_target": 2500,
-      "scenes": [],
-      "status": "needs_development"
+      "one_buddha_arc": {
+        "beat": 4,
+        "title": "Mutual Interference",
+        "trigger": "While scanning for next incarnation, accidentally brushes against her own thread—a life usually passed over",
+        "memory_slice": {
+          "content": "Both of them rising at same time; social disorder, moral confusion, collapse; neither achieving clarity; mutual interference like two frequencies canceling",
+          "setting": "Ancient but uncertain—not Ka-ancient, but murky early civilization; dusty collapse, crumbling walls, failing cities",
+          "emotional_register": "Fragmentary, felt, not analytical"
+        },
+        "insight": "Together doesn't hold.",
+        "response": "Files with curiosity, not alarm; interesting data, requires examination"
+      },
+      "backfire_awareness": "Growing curiosity—every intervention accelerates rather than impedes. What is she missing? The kinship whisper from Ch7 deepens.",
+      "strategy_evolution": "First intimations of needing more nuanced approaches—subtlety rather than force; considers stalling rather than derailing",
+      "thematic_elements": {
+        "meat_body_thread": "Body of evidence—complaint file, testimonies in Verinus's case, paper flesh, body of the text",
+        "kinship_whisper": "Parallel between his attachment to insight and her attachment to being first becomes harder to ignore",
+        "near_enlightenment_lived": "Handles complaint with equanimity; navigates family with ease; blindspot remains the tracking"
+      },
+      "word_target": 5000,
+      "structure": {
+        "form": "5 sections with action-forward pacing",
+        "total_word_target": "4,600-5,600"
+      },
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Complaint Arrives",
+          "file": "scene-01-complaint.md",
+          "word_target": "800-1,000",
+          "beats": [
+            "Ordinary morning interrupted by supervisor's summons",
+            "Luther's complaint: claims 'dangerous advice'",
+            "Harrow will be on review panel",
+            "Lilith's response: curiosity, not panic",
+            "Establishes external stakes"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "II",
+          "title": "Navigating the Review",
+          "file": "scene-02-review.md",
+          "word_target": "1,000-1,200",
+          "beats": [
+            "Formal review meeting",
+            "Luther's fabrications exposed through session notes",
+            "Harrow surprisingly fair—follows facts",
+            "Lilith recalibrates: he's more complex than filed",
+            "Review trends toward dismissal"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "III",
+          "title": "Family Update + Resolution",
+          "file": "scene-03-resolution.md",
+          "word_target": "700-900",
+          "beats": [
+            "Weeks pass—montage quality",
+            "Family: Nadia stable, mother's wedding fine, foreshadow Nadia's wedding",
+            "Complaint dismissed; Lilith vindicated",
+            "Transition: tracking is calling"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "IV",
+          "title": "Tracking Session—Verinus's Death + Beat 4",
+          "file": "scene-04-tracking.md",
+          "word_target": "1,400-1,600",
+          "function": "CLIMAX",
+          "beats": [
+            "Night, flat dim; reaches back to Verinus",
+            "Death scene: olive grove, stylus, testimonies accepted",
+            "Genuine insight AND subtle pride observed",
+            "Assessment: what worked, what backfired",
+            "BEAT 4: Memory-slice surfaces—mutual interference, collapse",
+            "Insight: 'Together doesn't hold'",
+            "Files with curiosity; kinship whisper deepens"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "V",
+          "title": "Finding Egypt",
+          "file": "scene-05-egypt.md",
+          "word_target": "700-900",
+          "beats": [
+            "Scans forward using own lives as landmarks",
+            "Finds desert hermit in extreme solitude",
+            "Sees how Verinus's pride seeds new vulnerability",
+            "Strategy: feed spiritual pride, try nuance over force",
+            "Kinship whisper continues",
+            "Closes methodically: new strategy forming"
+          ],
+          "status": "outlined"
+        }
+      ],
+      "status": "outlined"
     },
 
     {

@@ -211,48 +211,6 @@ When drafting any scene, check this document for:
 1. How the death (if applicable) connects to the next lesson
 1. For Lilith chapters: what fetter she demonstrates, what parallel patient situation occurs
 
------
-
-## Buddhist Cosmology References
-
-### The One-Buddha Rule
-
-Buddhist texts state that only one fully enlightened Buddha (Sammasambuddha) can exist in a world-system at a time. This creates the apparent conflict between Silas and Lilith.
-
-Key references to weave in:
-
-- Shakyamuni Buddha (Siddhartha Gautama) as the Buddha of our current era
-- Amitabha Buddha exists in a different world-system (Sukhavati/Pure Land)
-- Dipankara Buddha was a previous Buddha who prophesied Shakyamuni’s enlightenment
-
-### Maitreya: The Future Buddha
-
-Maitreya is prophesied to appear when the dharma has been completely forgotten, to turn the wheel of dharma again.
-
-Key references:
-
-- Currently resides in Tushita heaven awaiting rebirth
-- Name means “loving-kindness” (metta/maitri)
-- In some traditions, associated with the bodhisattva of compassion
-
-### The Resolution’s Meaning
-
-The merger into Maitreya suggests:
-
-- The competition was illusory—there was only ever one future Buddha
-- Silas and Lilith represent complementary aspects (perhaps wisdom and compassion, or effort and resistance)
-- The “one Buddha” rule was true but misunderstood
-- Opposition was necessary for the Buddha-to-be to develop fully
-
-### Foreshadowing Elements
-
-- References to Maitreya in early chapters (statues, texts, passing mentions)
-- The name “Maitreya” or “loving-kindness” appearing in unexpected contexts
-- Moments where duality collapses (two becoming one)
-- The title “The Wheel of Meat” could reference both samsara and the eventual turning of Maitreya’s dharma wheel
-
------
-
 ## Chapter Type Reference
 
 For quick reference when checking thematic requirements:

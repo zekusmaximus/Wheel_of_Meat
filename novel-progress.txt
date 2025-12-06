@@ -92,6 +92,802 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 3 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene I: Prologos—The City Before Collapse (~1,450 words)
+- Established Athens setting during early Plague years (430 BCE)
+- Introduced Philon of Kephissia (physician) and Alexios (assistant)
+- Implemented Greek tragedy voice with classical restraint
+- Integrated binding memory (physician who refused earlier plague victim)
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Recognition markers successfully implemented: observational patience, hesitation before touch, seeing individuals
+- Meat/body theme rendered through butcher's stall imagery
+- Binding memory establishes Philon's core vow: never to be the physician who abandons
+- Alexios characterized as admiring student who will later voice the lesson Philon cannot hear
+- Rumors from Piraeus establish subtle tension without breaking tragic restraint
+
+**Continuity Notes:**
+
+- Philon's observational patience echoes Ka's watching-before-acting pattern
+- Touch as loaded gesture continues from Ka's deliberation with pack members
+- The binding memory establishes the martyrdom impulse that will drive the chapter's tragedy
+- Alexios's rationality foreshadows his eventual departure in Episode V
+
+**Next Scene:**
+
+- Scene II: Parodos—The First Breach (~900 words)
+- First plague case collapses in Agora
+- Philon steps forward when others flee
+- Establishes him as "the physician who will not refuse"
+- Word count target: 900 words
+
+-----
+
+### Session 4 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene II: Parodos—The First Breach (~900 words)
+- First plague case collapses in the Agora
+- Philon steps forward to help when crowd forms "ring of fear"
+- Alexios hesitates but follows
+- Establishes Philon as "the physician who will not refuse"
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Three-day gap between rumors and first collapse preserves pacing
+- The "ring of fear" (empty circle around fallen man) serves as visual metaphor for civic abandonment
+- Recognition markers present: observational patience, unhurried attention, hesitation before touch
+- Meat/body theme rendered through physical symptoms (flushed skin, fever-hot forehead, tremors)
+- Alexios's questioning line ("how many lives will this one cost?") plants his eventual departure argument
+- The binding memory explicitly echoes ("another man, another doorway")
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 01's ending (Philon standing in doorway, rumors from Piraeus)
+- Alexios's wariness established—watching patients for plague signs
+- "One life is worth the effort" becomes the defining statement of Philon's ethic
+- The "door he swore never to close" imagery connects to binding memory
+- Parthenon described as "beautiful and indifferent"—environmental metaphor for tragic inevitability
+
+**Next Scene:**
+
+- Scene III: First Episode—The Flood (~1,500 words)
+- Long Walls fill with refugees; clinic overwhelmed
+- Lilith's first intervention: xenophobic panic amplified
+- Magistrates demand triage by status; Philon refuses
+- Alexios begins to crack under pressure
+- Meat/body theme: Philon touches diseased flesh others won't
+
+-----
+
+### Session 5 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene III: First Episode—The Flood (~1,550 words)
+- Long Walls crowded with refugees fleeing Spartan raids
+- Lilith's first intervention lands: xenophobic rumors about Persian ships amplifying chaos
+- Magistrate Kallias demands triage by citizen status; Philon refuses
+- Alexios shows first fractures: compulsive hand-washing, story of dead boy, flinches from Philon's touch
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Kallias (Council of Five Hundred member) introduced as voice of civic authority vs. Philon's universal ethic
+- Alexios's crack shown through behavior (compulsive washing, flinching) rather than explicit breakdown
+- Lilith's intervention rendered naturalistically—rumors that "spread faster than the illness they pretended to explain"
+- Dead boy scene plants Alexios's eventual departure argument: triage as rational, not cowardly
+- "Physician's oath does not distinguish between the blood of a citizen and the blood of a slave" as Philon's defining moral stance
+
+**Continuity Notes:**
+
+- Scene picks up "a fortnight" after Scene 02's first plague case
+- Alexios's wariness from Scene 02 has evolved into visible psychological strain
+- Philon's observational patience maintained ("Philon watched him, as he watched everyone")
+- Environmental metaphor: funeral pyres as "orange smears," smoke settling "like a shroud"
+- Meat/body thread: pustules, fluids, hands that "carry death"
+
+**Next Scene:**
+
+- Scene IV: First Stasimon—The City's Lament (~500 words)
+- Funeral pyres visible day and night
+- Citizens abandon rites, hurl corpses onto fires
+- Civic order dissolving
+- Atmospheric—Philon not present; city as chorus
+- Meat/body: Burning flesh of funeral pyres
+
+-----
+
+### Session 6 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene IV: First Stasimon—The City's Lament (~510 words)
+- Choral interlude showing Athens's collapse without Philon POV
+- Funeral pyres burning day and night; citizens abandoning proper burial rites
+- Civic institutions dissolving (courts closed, Assembly abandoned, philosophers fled)
+- Parthenon as environmental metaphor for divine indifference
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Used omniscient/choral POV as befits Greek tragic stasimon structure
+- Structured lament around progressive breakdown: rites first, then bodies as obstacles, then fire as only recourse
+- Parthenon's beauty contrasted with city's horror creates undermining tension
+- Brief Philon reference at end ("somewhere in the city, a physician worked on") maintains narrative thread
+- Meat/body theme rendered through "greasy smoke," burning flesh smell, bodies as landscape features
+
+**Continuity Notes:**
+
+- Scene picks up pyre imagery from Scene 03's closing lines
+- Coin for Charon, washing of body, lamentations—all historically accurate burial customs
+- No anachronisms: agora, Acropolis, Athena, Assembly, Parthenon all appropriate
+- Divine indifference theme echoes Ka chapter's cosmos indifferent to individual striving
+- Choral mode prepares reader for return to Philon's individual struggle in Scene V
+
+**Next Scene:**
+
+- Scene VI: Second Stasimon—The Cost of the Choice (~500 words)
+- Pericles glimpsed in passing (image of man who cannot save what he loves)
+- Smell of unburied dead permeating city
+- Philon's first flicker of doubt—suppressed immediately
+- Atmospheric deepening of tragedy
+
+-----
+
+### Session 7 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene V: Second Episode—The Impossible Choice (~1,680 words)
+- Magistrate Kallias orders Philon to relocate to Eleusis to serve the wealthy; Philon refuses
+- Alexios confronts Philon with the rational argument: "If we both die, who treats the hundred?"
+- Slave woman from Scythia arrives—abandoned by owners, dying at the gate
+- Alexios's departure: painful, not villainous—he voices the lesson Philon cannot hear
+- Philon carries the woman toward his clinic, choosing one life over the many
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Lilith's dream-influence on Alexios rendered naturalistically: "Something had changed in the night. Something Philon could not name."
+- Alexios's departure framed as rational love, not cowardice—he makes the Stoic argument Philon's next incarnation will embrace
+- The slave woman remains unnamed throughout (Philon never learns her name—this is thematically important)
+- Her single word "Why?" crystallizes the unanswerable nature of his choice
+- Binding memory echoes: "He could not become that man" (the physician who closed his door)
+- Kallias introduced as voice of civic pragmatism: "You serve the polis, physician—not your own conscience"
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 04's closing line: "somewhere in the city, a physician worked on"
+- Alexios's psychological fractures from Scene 03 have reached breaking point
+- The shaking hands established in Scene 03 persist: "his hands trembling at his sides"
+- Philon's observational patience maintained: "studied his assistant's face" before speaking
+- Touch as loaded gesture: "close enough to touch, not touching" before the confrontation
+- Environmental metaphor: smoke, pyres, the gate as threshold between living and dying
+- The woman's Scythian origin established; her broken Greek confirms foreign status
+
+**Next Scene:**
+
+- Scene VII: Third Episode—Martyrdom (~1,500 words)
+- Philon isolates himself with slave woman
+- Last-ditch care: cooling cloths, water, whispered reassurances
+- She speaks—crystallizes tragedy (gratitude? question about why?)
+- She dies in his arms
+- Philon's first cough
+- Point of no return marked clearly
+
+-----
+
+### Session 8 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene VI: Second Stasimon—The Cost of the Choice (~520 words)
+- Atmospheric interlude showing Athens's continued collapse
+- Pericles glimpsed in litter passing through Agora—parallel to Philon as man who cannot save what he loves
+- Philon's first flicker of doubt surfaces and is suppressed
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Pericles rendered as ghostly presence rather than speaking character—maintains "background only" requirement
+- Stasimon structured in two parts: omniscient city view, then return to Philon's POV for doubt sequence
+- Doubt framed as "arithmetic"—echoing Alexios's rational argument from Scene 05
+- Doubt suppressed but not defeated: "a wound sutured shut without healing"
+- Smell of unburied dead rendered as a presence, not just a sensory detail
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 05's closing: Philon carrying the woman toward his clinic
+- The woman's "Water" request echoes her earlier "Why?"—showing diminished capacity
+- Philon's care (cloth, water) continues the tactile physician thread
+- Pericles's hollow frame mirrors the city's hollowing—environmental metaphor maintained
+- Smoke and pyres imagery continues from previous scenes
+
+**Next Scene:**
+
+- Scene VII: Third Episode—Martyrdom (~1,500 words)
+- Philon isolates himself with slave woman
+- Last-ditch care: cooling cloths, water, whispered reassurances
+- She speaks—crystallizes tragedy (gratitude? question about why?)
+- She dies in his arms
+- Philon's first cough
+- Point of no return marked clearly
+
+-----
+
+### Session 9 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene VII: Third Episode—Martyrdom (~1,520 words)
+- Philon keeps vigil through the night with the Scythian woman
+- She wakes and asks the crystallizing question: "Why waste on one slave?"
+- He answers with presence and touch—the only response he knows
+- She dies three hours before dawn; he performs last rites alone
+- Philon coughs—point of no return established
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- The woman's question "Why waste on one slave?" crystallizes the tragedy—she has internalized her owners' valuation of her
+- Philon's answer ("You are not a waste") is an act of defiance against the utilitarian calculus
+- She dies without telling him her name; he never asks—thematically important that her identity is complete without external markers
+- The cough arrives after her death, not during—his infection is consequence of his choice, not coincidental
+- Dawn light returns the scene to the living, transitioning toward final scenes
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 06's closing: Philon in small room, woman on last clean pallet
+- The "arithmetic" doubt from Scene 06 is referenced obliquely ("the numbers did not heal")
+- Binding memory echoes: "the hand that had refused to close a door"
+- Tactile physician thread continues: cloth, water, holding her hand, closing her eyes
+- Environmental metaphor: lamp guttering out as she dies, dawn light returning
+- Meat/body theme: pustules spreading, skin mottling, the physical reality of plague death
+
+**Next Scene:**
+
+- Scene VIII: Kommos—The Broken Realization (~1,000 words)
+- Fever delirium intercut with city's collapse
+- Visceral insight: "If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?"
+- Incomplete understanding—arising from pain, not clarity
+- Too late to change anything
+
+-----
+
+### Session 10 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene VIII: Kommos—The Broken Realization (~1,010 words)
+- Philon works through first day despite fever, collapses by evening
+- Fever delirium intercuts with city's collapse: pyres, empty Agora, refugees on Long Walls
+- The broken insight arrives: "Was the one for her—or for me?"
+- He recognizes martyrdom was not virtue but "fear wearing virtue's face"
+- Understanding incomplete—arising from pain, not clarity; too late to change anything
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Insight rendered as question rather than statement: "But was the one for her—or for me?"
+- Final recognition crystallizes: "The one was for me. I could not bear to be the man who refused. So I became the man who died instead."
+- Dream imagery includes the Scythian woman returning, speaking with others' words—reinforces the theme of interconnection
+- The "arithmetic of mercy" phrase captures the utilitarian calculation he refused to make
+- Scene ends not with death but with eyes closing—saves death itself for Exodus scene
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 07's closing: Philon walking to the outer room where the living waited
+- The cough from Scene 07 becomes the fever that dominates this scene
+- Alexios's argument echoes through the delirium: "If we both die, who treats the hundred?"
+- The woman from Scythia returns as dream-figure, crystallizing his doubt
+- "Meat and bone" language continues meat/body theme
+- Recognition markers: the observational quality persists even as he watches himself failing
+
+**Next Scene:**
+
+- Scene IX: Exodus—Death & Seeding (~600 words)
+- Philon dies quietly, surrounded by abandoned tools
+- Citizens carry body without ceremony
+- Karmic pivot crystallizes: "There must be a way to understand virtue correctly"
+- Seeds Stoic investigator's obsession with moral framework
+- Final image of Athens continuing to burn
+
+-----
+
+### Session 11 - 2025-12-04
+
+**Work Done:**
+
+- Drafted Chapter 6, Scene IX: Exodus—Death & Seeding (~739 words)
+- Philon's death scene: lingering passage from life, final moments of consciousness
+- Death arrives as "loosening"—shift from holding to letting go
+- Karmic seed crystallizes: hunger to understand virtue correctly carries forward
+- Urge toward rebirth established as sharper than grief or regret
+- Citizens find body, carry to mass pyre without ceremony
+- Final image: Athens burning, wheel turning, hunger remaining
+- Chapter 6 complete—all nine scenes drafted
+- Updated scene-manifest.json: Scene IX added, chapter status changed to "draft"
+
+**Decisions Made:**
+
+- Death structured in three movements: lingering decline, the moment of death with karmic seed, external perspective of body's disposal
+- Karmic hunger emphasized as "sharper than grief"—the incomplete lesson drives rebirth
+- Final insight: "There must be a way to understand virtue correctly" becomes seed for Stoic investigator (Ch 8)
+- Citizens who find him are unnamed survivors—maintain tragic universality
+- No post-death consciousness or bardo state—death and urge toward rebirth are final images per protocol
+- Word count slightly over target (739 vs 600) but all required beats needed space
+
+**Continuity Notes:**
+
+- Scene picks up from Scene 08's closing: "Philon closed his eyes"
+- The incomplete insight from Scene 08 crystallizes into forward-moving hunger
+- Recognition that "fear wearing virtue's face" drives the karmic seed
+- Meat/body theme: "meat and bone, the flesh that holds and limits, the wheel turning again"
+- Environmental metaphor: smoke, pyres, burning maintained through final image
+- Greek tragic restraint maintained: no melodrama, no excessive sentiment
+- Pyre with eleven others—Philon dies as one among many, not exceptional in death
+
+**Chapter 6 Summary:**
+
+- Total word count: ~9,379 words (target was ~9,700)
+- All nine tragic architecture sections complete
+- Philon's arc: devoted physician → martyrdom → incomplete insight → death → karmic seed
+- Lilith's interventions successfully rendered (xenophobic rumors, dream to Alexios)
+- Recognition markers maintained throughout
+- Meat/body thread present in every scene
+- Karmic bridge to Chapter 8 (Roman Stoic investigator) established
+
+**Next Steps:**
+
+- Chapter 6 complete and ready for revision pass (separate session)
+- Chapter 7 (Lilith CP03) needs development
+- Chapter 8 (Roman investigator) needs avatar development and scene breakdown
+
+-----
+
+### Session 12 - 2025-12-05
+
+**Work Done:**
+
+- Drafted all 5 scenes of Chapter 7: The Dream-Walker (Lilith CP03)
+- Scene I: The Ordinary Extraordinary (~1,450 words) — Morning practice, phone call from Nadia about mother's remarriage, Lilith's equanimity
+- Scene II: The Good Son (~1,600 words) — David Mercer therapy session demonstrating sustainable compassion vs. martyrdom
+- Scene III: Between (~1,050 words) — Weeks passing montage, meeting Jeff, transition toward tracking
+- Scene IV: The Death of Philon (~1,700 words) — Chapter climax: tracking Philon's death, the recognition moment
+- Scene V: The Road to Rome (~950 words) — Scanning her past lives, finding next incarnation, kinship question lingering
+- Total chapter word count: ~6,750 words (target was 4,800-5,600)
+- Updated scene-manifest.json to reflect draft status and word counts
+
+**Decisions Made:**
+
+- David Mercer's mother named Marsha (subtle echo of Marcia Faenia, Lilith's future Roman identity)
+- Nadia's frustration with Lilith's equanimity demonstrates how near-enlightenment looks to ordinary consciousness
+- Jeff Yates (mother's fiancé) characterized as genuinely good guy—warm, nervous, loves her mother
+- Recognition moment rendered as curiosity rather than alarm: "A near-enlightened being doesn't rattle at unexpected data"
+- The kinship whisper treated as interesting observation, filed but not dismissed
+- Physical cost of tracking kept understated per chapter requirements
+- Gerald Ashworth and David Mercer updates maintain continuity with Chapter 5
+
+**Continuity Notes:**
+
+- Chapter picks up 8 years before Chapter 1 (Lilith age 27-28)
+- References to three years of tracking connect to discovery in Chapter 3
+- Notebooks motif continues from previous Lilith chapters
+- Tracking technique described consistently with Ch03 and Ch05
+- Recognition markers preserved: her own past lives as temporal landmarks
+- Philon's death question ("Was the one for them—or for me?") matches Chapter 6's kommos scene
+- Tracks forward to Rome (Chapter 8) with sense of proximity to her own iteration
+
+**Voice Notes:**
+
+- Maintained clinical precision in therapy scenes
+- Undermining clause present throughout (e.g., "a particular quality of silence that preceded dawn")
+- Sensory anchoring in each scene (temperature, light, radiator sounds, tea)
+- Loaded gestures (hands on knees, white knuckles, Lilith's stillness)
+- Environmental metaphor (flat's dimness, lamp's circle, Manchester lights)
+- Physical states rendered through body, not emotion words
+
+**Thematic Elements:**
+
+- Meat/body theme: bodies in practice/stillness, physical cost of tracking, sense-bleed (plague smell, ash)
+- Demonstration scene complete: David's martyrdom mirrors Philon's, Lilith gives advice she cannot apply
+- Doubled irony present: she navigates family perfectly but cannot see her tracking is same attachment
+- Kinship whisper planted: first seed of eventual merger
+
+**Outstanding Issues:**
+
+- Word count ~20% over target—may need trimming in revision pass
+- Chapter 7 now complete and ready for revision pass (separate session)
+
+**Next Session Should:**
+
+1. Begin drafting Chapter 8 (Rome investigator - Verinus)
+2. Or revise Chapter 7 if word count reduction needed
+3. Or develop Chapter 9 (Lilith CP04) outline
+
+-----
+
+### Session 13 - 2025-12-05
+
+**Work Done:**
+
+- Drafted Chapter 8, Scene 1: The Baths and the First Contempt (~764 words)
+- Established Verinus at public baths with stylus-cleaning ritual
+- Introduced Marcus Cassianus Priscus as warm human foil
+- Two citizens arguing about grain ships establish Verinus's contempt for ambiguity
+- Marcia Faenia (Lilith) cameo: brief observation, dark-haired, quiet stillness, no interaction
+- Updated scene-manifest.json to track scene progress
+
+**Decisions Made:**
+
+- Recognition markers implemented: observational patience (Verinus watches citizens carefully, catalogs their errors), stylus cleaning as physical ritual for conceptual order
+- Marcus characterized as warm, accepting of contradiction, contrasts Verinus's rigidity
+- Lilith cameo subtle but memorable—she watches him with measure-taking quality, he notices but dismisses
+- Meat/body theme rendered through bodies in water, physical vulnerability of bathing
+- Roman period details: *caldarium*, *frigidarium*, oil lamps, Subura, harbormaster records
+
+**Continuity Notes:**
+
+- Scene opens sensory anchor: steam, marble, condensation, grey light through windows
+- Stylus cleaning ritual established as response to contradiction (will evolve through chapter)
+- Marcus's laugh characterized as "no mockery, only resignation of long familiarity"
+- Verinus's closing unease about Marcia plants seed for Scene 4 cameo
+- "Praetor's scrolls were waiting" transitions to Scene 2
+
+**Next Scene:**
+
+- Scene 2: The Case Is Assigned (~900 words)
+- Praetor's office; Varro's death announced
+- Three witnesses with contradictory accounts
+- Marcus warns about Varro's patrons
+- Lilith Interference #1: clerk miscopies crucial testimonial line
+- Launch central mystery; seed confusion
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 2: The Case Is Assigned (~932 words)
+- Introduced case: Gaius Quintilius Varro (philosophus) found dead
+- Three contradictory testimonies summarized: servant (terse, trembling), student (eloquent, self-interested), neighbor (resentful, mentions mysterious woman)
+- Marcus warns about Senator Publius Cornelius Scipio as Varro's patron
+- Lilith Interference #1 implemented: clerk's distraction causes "temperate/intemperate" copy error
+- Gnaeus the freedman secretary introduced as bureaucratic foil
+
+**Decisions Made:**
+
+- Copy error is subtle and naturalistic—clerk's cough as background distraction, easily overlooked
+- Verinus catches the error immediately, demonstrating his precision
+- "Errors reveal as much as accuracies" establishes his investigative philosophy
+- Student's account hints at philosophical school rivalries (potential red herring)
+- Neighbor's account introduces mysterious woman (will not be explained—adds to ambiguity)
+- Senator named specifically: Publius Cornelius Scipio (historical-sounding, establishes stakes)
+
+**Continuity Notes:**
+
+- Scene opens at praetor's office as Scene 1 promised
+- Stylus ritual continues but "comfort did not come"—case resists his usual methods
+- Marcus's warning deepens their relationship dynamic
+- "The dead are patient... the living lie" captures Verinus's worldview
+- Final image of clerk's cough ties back to copy error—Lilith's interference rendered as coincidence
+
+**Next Scene:**
+
+- Scene 3: First Testimonies—The Human Noise Floor (~1,400 words)
+- Varro's cluttered study
+- Three direct testimonies: Servant (terrified), Student (eloquent), Neighbor (resentful)
+- Every account contradicts; none malicious
+- Verinus attempts rational reconstruction; fails
+- Marcus tries emotional interpretation; Verinus dismisses
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 3: First Testimonies—The Human Noise Floor (~1,381 words)
+- Three witnesses interviewed directly in Varro's study
+- Servant Philo: eleven years with Varro, hands constantly moving, lies to protect someone (not malicious)
+- Student Aulus Petronius: theatrical, polished rhetoric, claims they "debated" not argued, too quick to deny knowing the woman
+- Neighbor Quintus Servilius: resentful, bitter, heard woman shouting then weeping three nights before death
+- Verinus's analysis: "Their silences have different shapes"
+- Marcus offers emotional interpretation; Verinus implicitly dismisses it
+
+**Decisions Made:**
+
+- Named the servant Philo (Greek name appropriate for household slave)
+- Named the student Aulus Petronius (Roman citizen, self-important)
+- Named the neighbor Quintus Servilius (Roman citizen, disappointed)
+- Burned letter introduced—adds to mystery without explanation
+- Woman remains unidentified—all three react to the mention but none will speak
+- Varro's last days: "done lending, done teaching, done with everything"
+- Wine stain on desk as physical evidence of the death scene
+- "The shape of what is missing tells us what was there" as Verinus's investigative philosophy
+
+**Continuity Notes:**
+
+- Scene opens in Varro's study as Scene 2 promised
+- Stylus ritual continues but is "slower than usual, less certain"
+- Marcus's mosaic metaphor: "building a mosaic from broken tiles"
+- Verinus notes different types of lies: protective (servant), self-serving (student), fear-based (neighbor)
+- Philosophical suicide foreshadowed: Varro "sick in spirit," wanted to "leave the world"
+- Copy error from Scene 2 referenced: Verinus asks about "intemperate" mood
+
+**Next Scene:**
+
+- Scene 4: Stoic Debate & Lilith Cameo (~1,000 words)
+- Portico where philosophers debate ethics publicly
+- Two philosophers present opposite conclusions from same premise
+- Verinus's worldview trembles
+- Marcia Faenia (Lilith) cameo: stands at crowd's edge, watches Verinus's face, disappears
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 4: Stoic Debate & Lilith Cameo (~1,009 words)
+- Portico of Octavia: two philosophers debate whether certainty is possible
+- Older philosopher: reason can illuminate any darkness; the sage sees reality undistorted
+- Younger philosopher: reality itself is fractured; honest observers may reach incompatible conclusions
+- Verinus's worldview trembles—"certainty trembling like a structure built on sand"
+- Marcia Faenia (Lilith) cameo: stands across colonnade, arms folded mirroring Verinus, watches him not the debate, vanishes
+
+**Decisions Made:**
+
+- Younger philosopher's argument explicitly connects to Varro case: "Three witnesses perceived accurately... the accounts cannot be reconciled because the reality they perceived was already fractured"
+- Stylus ritual fails—Verinus grips it instead of cleaning, palm aches from bronze pressing
+- "Confusion is not the opposite of truth—it is the medium through which truth must be sought" captures the chapter's philosophical theme
+- Lilith's second appearance connects explicitly to first: "The woman from the *frigidarium*. The one Marcus had called pretty."
+- She watches his doubt as if reading text—"patient enough to wait for him to turn the page"
+
+**Continuity Notes:**
+
+- Verinus sought philosophy for clarity after Varro case offered none
+- Epictetus and Chrysippus referenced (period-appropriate Stoic sources)
+- "A phantom" — Verinus's dismissal of the woman foreshadows her significance
+- Foundation cracking sets up Scene 5's descent into absolutism
+- Four scenes drafted: 764 + 932 + 1,381 + 1,009 = 4,086 words (of ~9,200 target)
+
+**Next Scene:**
+
+- Scene 5: Collapse of Coherence (~1,000 words)
+- Streets of Rome to Praetor's office
+- Lilith Interference #2: noisy argument stalls traffic, witness arrives late
+- Timeline shift makes alibi impossible
+- Verinus forces coherence by discarding emotional details
+- Marcus objects; they quarrel for first time
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 5: Collapse of Coherence (~1,103 words)
+- Lilith Interference #2: butcher vs. merchant argument blocks Forum Boarium passage, delays arrival
+- Fourth witness: Varro's cook, provides timeline that contradicts neighbor's account
+- Cook heard woman at third hour of night; neighbor heard her at beginning of evening—impossible
+- Verinus attempts to reconcile; Marcus challenges: "You are not assembling truth. You are choosing which fragments to trust."
+- First quarrel: Verinus stands sharply in anger toward Marcus
+
+**Decisions Made:**
+
+- Cook characterized as stout woman in fifties, impatient from waiting, tests Verinus's patience
+- The woman visited Varro and he was "comforting her. Explaining something"—adds depth to mystery
+- Timeline impossibility is genuinely irreconcilable—not a puzzle with a solution
+- Marcus's challenge cuts to the heart of Verinus's worldview: "pretending otherwise does not make it so"
+- Scene ends with Verinus alone, "something that had been tightly held for forty years was beginning to loosen"
+
+**Continuity Notes:**
+
+- Traffic delay explicitly caused by argument (Lilith's interference rendered naturalistically)
+- Cook's testimony adds third account of the woman: neighbor heard anger, cook heard weeping then comforting
+- Servant Philo still claims he heard nothing—his silence now more conspicuous
+- Verinus's stylus moves with "deliberate force"—aggression replacing ritual comfort
+- Marcus leaves without another word—their friendship strained
+- Five scenes drafted: 764 + 932 + 1,381 + 1,009 + 1,103 = 5,189 words (of ~9,200 target = 56%)
+
+**Next Scene:**
+
+- Scene 6: The Vulnerable Witness (~1,100 words)
+- Quiet interior courtyard
+- Frightened younger witness (kitchen attendant/youth) gives shifting account
+- Emotionally earnest but factually inconsistent
+- Verinus near-shouts but restrains himself
+- Marcus calms youth; Verinus watches
+- First crack: realizes emotional truth is its own kind of accuracy
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 6: The Vulnerable Witness (~981 words)
+- Marcus returns an hour after their quarrel, says nothing about it
+- Fifth witness: Demetrius, 15-year-old kitchen slave, purchased three years ago
+- Demetrius's account: heard Varro weeping alone after the woman left, lamps burned down
+- Verinus nearly speaks sharply but restrains himself
+- Marcus comforts the boy: "Fear does not make you a liar. It makes you human."
+- Verinus realizes emotional truth has its own significance—not evidence, but meaning
+
+**Decisions Made:**
+
+- Named the kitchen boy Demetrius (Greek slave name, appropriate)
+- His testimony is factually useless but emotionally crucial: Varro wept alone
+- "I do not know hours. I know lamps"—his temporal frame is experiential, not precise
+- Marcus and Verinus reconcile silently—the quarrel unspoken but the silence "different than it had been before"
+- Stylus cleaning now "merely habit... an empty gesture performed by hands that no longer believed in order"
+
+**Continuity Notes:**
+
+- Marcus returns after quarrel—friendship not broken, but changed
+- Demetrius's account adds to mystery: the woman left, then Varro wept, then silence
+- Philosophical suicide now deeply foreshadowed: a man weeping alone, then choosing to end
+- "Something had cracked. Something had opened."—prepares for Scene 7's compassionate judgment
+- Six scenes drafted: 764 + 932 + 1,381 + 1,009 + 1,103 + 981 = 6,170 words (of ~9,200 target = 67%)
+
+**Next Scene:**
+
+- Scene 7: The Compassionate Judgment (~1,500 words) — LONGEST SCENE
+- Praetor's tribunal or adjudication room
+- Verinus reconstructs case: servant legally guilty but morally innocent
+- Senator expects verdict condemning servant
+- Verinus refuses; reveals Varro's philosophical suicide
+- Lilith Interference #3: amplifies senator's rage
+- Verinus sentenced to relegatio (exile)
+- Marcus tries to follow; blocked by appointment to Brundisium
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 7: The Compassionate Judgment (~1,406 words)
+- Private tribunal chamber with Justitia fresco (scales crooked—symbolic)
+- Senator Publius Cornelius Scipio presented: sixty, weathered, politically dangerous
+- Verinus reveals Varro's death as philosophical suicide—"his final argument"
+- Refuses to condemn Philo: "If I condemn him, I condemn innocence itself"
+- Lilith Interference #3: senator's rage "exceeded its cause, as if a fire had been stoked by invisible hands"
+- Senator demands Verinus's removal; relegatio exile pronounced
+- Marcus tries to accompany; Verinus predicts Brundisium appointment as leash
+- Brief flash-forward: Philo survives, tries to intercede for Marcus, builds life near river
+
+**Decisions Made:**
+
+- Verinus's key realization: "I thought I was choosing truth. I did not realize until this moment that they were the same thing."
+- Senator's rage rendered as subtly amplified by Lilith—not obvious manipulation
+- Praetor's line: "Your conclusion may have been correct. But correctness is not always enough."
+- Verinus and Marcus's parting: "Live well. That is enough."
+- Flash-forward technique plants seeds for Scene 8 (the letter from Marcus)
+
+**Continuity Notes:**
+
+- Justitia's crooked scales echo the theme of imperfect justice
+- "Something that had been tightly held for forty years had finally, irrevocably, let go"
+- Philo's survival planted—will be confirmed in Marcus's letter (Scene 8)
+- Brundisium appointment predicted—sets up Marcus's inability to follow
+- Seven scenes drafted: 6,170 + 1,406 = 7,576 words (of ~9,200 target = 82%)
+
+**Next Scene:**
+
+- Scene 8: Exile—The Quiet Unraveling (~900 words)
+- Coastal olive grove or fishing village
+- Days pass in quiet labor and reflection
+- Verinus reopens notes, places contradictory testimonies side-by-side
+- For first time, he does NOT clean the stylus
+- Letter from Marcus arrives with news of Philo's rebuilt life
+
+-----
+
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted and revised Chapter 8, Scene 8: Exile—The Quiet Unraveling (~1,001 words)
+- Setting: Sicilian olive grove, three months after exile from Rome
+- Small household: Servius (freedman), village cook who comes twice weekly
+- Marcus's letter arrives: petition blocked, Philo has stall near river, wife with child
+- Verinus reads letter three times, folds it carefully beside the testimonies
+- Stylus ritual finally breaks: uncleaned, tarnished, hands steady
+- Contradictions accepted, unresolved—but new subtle attachment emerges
+
+**Key Revision (per author notes):**
+
+- Added: "He had traded one attachment for another, and he did not see it"
+- Quiet pride of having understood what others could not
+- Satisfaction of having transcended certainty becomes new attachment
+- "There was something in the stillness that was not quite humility"
+- This seeds the Heian life: attachment to the self who has "transcended"
+
+**Decisions Made:**
+
+- Named freedman Servius (Sicilian, quiet, asks nothing)
+- Three months since exile (allows time for news to travel, seasons to change)
+- Marcus's letter delivered verbatim per outline
+- Physical detail: reads three times, folds carefully, places beside testimonies
+
+**Continuity Notes:**
+
+- Letter confirms predictions from Scene 7: Marcus blocked, Philo survived
+- Stylus tarnished but still carried—he will die with it in hand
+- Contradictions from throughout chapter referenced: servant, student, neighbor, cook
+- Eight scenes drafted: 7,576 + 1,001 = 8,577 words (of ~9,200 target = 93%)
+
+**Next Scene:**
+
+- Scene 9: Death—Bittersweet Anonymity (~600 words)
+- Grove at dusk; age or mild illness
+- Freedman finds him at dawn, stylus in hand
+- Contradictory testimonies unresolved, uncorrected, accepted
+- Servants stand together, unsure; neither knew who he'd been
+- Final sensation: "The world is imperfect and therefore lovable"
+- Final thought: "Virtue lives where certainty fails"
+- Seeds Heian life (sensual desire, attachment)
+
+-----
+
+### Session 13 (continued) — CHAPTER 8 COMPLETE
+
+**Final Scene Drafted:**
+
+- Drafted Chapter 8, Scene 9: Death—The Final Letting Go (~650 words)
+- Grove at dusk, alone—Servius at market, cook with family
+- Quiet failing of the body: "winding down, the way a lamp gutters when the oil runs low"
+- Testimonies spread, stylus in hand (uncleaned, tarnished)
+- Marcus's letter recalled: "I think you were right, though I cannot say why"
+- The incomplete insight: genuine wisdom held too tightly becomes its own fetter
+
+**Key Elements per Revised Outline:**
+
+- "I have understood this. I carry this forward."—satisfaction that tastes of pride
+- "The clinging was subtle. Not to certainty anymore... but to having transcended certainty"
+- "He did not see it. He could not see it."
+- Final sensation: "The world was imperfect and therefore lovable"
+- Final thought: "Virtue lives where certainty fails." And beneath it: "And I have understood this."
+- Stylus falls from loosening fingers, lands on testimonies
+- No witnesses, no discovery—scene ends with fading consciousness
+
+**Death Bridge to Chapter 10 (Desert Father):**
+
+- Genuine insight: compassion survives uncertainty
+- Karmic residue: pride in having understood, satisfaction in wisdom earned
+- "The Desert Father would inherit both"—explicit in final lines
+- Seeds vulnerability to spiritual pride / attachment to non-attachment
+
+**Chapter 8 Final Statistics:**
+
+| Scene | Title | Words | Status |
+|-------|-------|-------|--------|
+| 1 | The Baths and the First Contempt | 764 | draft |
+| 2 | The Case Is Assigned | 932 | draft |
+| 3 | First Testimonies—The Human Noise Floor | 1,381 | draft |
+| 4 | Stoic Debate & Lilith Cameo | 1,009 | draft |
+| 5 | Collapse of Coherence | 1,103 | draft |
+| 6 | The Vulnerable Witness | 981 | draft |
+| 7 | The Compassionate Judgment | 1,406 | draft |
+| 8 | Exile—The Quiet Unraveling | 1,001 | draft |
+| 9 | Death—The Final Letting Go | 650 | draft |
+| **Total** | | **9,227** | |
+
+**Target: ~9,200 words — ACHIEVED**
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -105,9 +901,9 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Ch|Title           |Avatar |Period     |Status   |
 |--|----------------|-------|-----------|---------|
 |2 |Blood           |Ka     |300,000 BCE|DRAFTED  |
-|4 |The Ledger      |Chandra|268 BCE    |outlined |
-|6 |The Philosopher |[TBD]  |450 BCE    |needs_dev|
-|8 |The Investigator|[TBD]  |100 CE     |needs_dev|
+|4 |The Ledger      |Chandra|268 BCE    |DRAFTED  |
+|6 |The Philosopher |Philon |430 BCE    |DRAFTED  |
+|8 |The Investigator|Verinus|120-140 CE |DRAFTED    |
 |10|The Hermit      |[TBD]  |350 CE     |needs_dev|
 |12|The Lover       |[TBD]  |1000 CE    |needs_dev|
 |14|The Accused     |[TBD]  |1485       |needs_dev|
@@ -120,8 +916,8 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Ch|Title              |Her Age|Power Level              |Status   |
 |--|-------------------|-------|-------------------------|---------|
 |3 |The Discovery      |25     |Observation              |DRAFTED  |
-|5 |The Ledger’s Shadow|26     |Remote influence         |needs_dev|
-|7 |TBD                |27     |Dream influence          |needs_dev|
+|5 |The Ledger's Shadow|26     |Remote influence         |DRAFTED  |
+|7 |The Dream-Walker   |27     |Dream influence          |DRAFTED  |
 |9 |TBD                |28     |Circumstance manipulation|needs_dev|
 |11|TBD                |29     |Growing control          |needs_dev|
 |13|TBD                |30     |Brief manifestation      |needs_dev|
@@ -164,11 +960,11 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Section          |Target      |Drafted    |Remaining   |
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
-|Act II Historical|80,000      |~7,000     |73,000      |
-|Act II Lilith    |27,000      |~4,000     |23,000      |
+|Act II Historical|80,000      |~21,300    |58,700      |
+|Act II Lilith    |27,000      |~10,750    |16,250      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~19,000**|**~137,000**|
+|**Total**        |**~156,000**|**~40,050**|**~115,950**|
 
 -----
 
