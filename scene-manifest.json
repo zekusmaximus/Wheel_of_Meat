@@ -999,9 +999,16 @@
           "file": "scene-08-exile.md",
           "word_count": 1001,
           "status": "draft"
+        },
+        {
+          "number": 9,
+          "title": "Death—The Final Letting Go",
+          "file": "scene-09-death.md",
+          "word_count": 650,
+          "status": "draft"
         }
       ],
-      "status": "in_progress"
+      "status": "draft"
     },
 
     {

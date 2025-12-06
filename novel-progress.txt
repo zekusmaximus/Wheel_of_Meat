@@ -841,6 +841,53 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 13 (continued) — CHAPTER 8 COMPLETE
+
+**Final Scene Drafted:**
+
+- Drafted Chapter 8, Scene 9: Death—The Final Letting Go (~650 words)
+- Grove at dusk, alone—Servius at market, cook with family
+- Quiet failing of the body: "winding down, the way a lamp gutters when the oil runs low"
+- Testimonies spread, stylus in hand (uncleaned, tarnished)
+- Marcus's letter recalled: "I think you were right, though I cannot say why"
+- The incomplete insight: genuine wisdom held too tightly becomes its own fetter
+
+**Key Elements per Revised Outline:**
+
+- "I have understood this. I carry this forward."—satisfaction that tastes of pride
+- "The clinging was subtle. Not to certainty anymore... but to having transcended certainty"
+- "He did not see it. He could not see it."
+- Final sensation: "The world was imperfect and therefore lovable"
+- Final thought: "Virtue lives where certainty fails." And beneath it: "And I have understood this."
+- Stylus falls from loosening fingers, lands on testimonies
+- No witnesses, no discovery—scene ends with fading consciousness
+
+**Death Bridge to Chapter 10 (Desert Father):**
+
+- Genuine insight: compassion survives uncertainty
+- Karmic residue: pride in having understood, satisfaction in wisdom earned
+- "The Desert Father would inherit both"—explicit in final lines
+- Seeds vulnerability to spiritual pride / attachment to non-attachment
+
+**Chapter 8 Final Statistics:**
+
+| Scene | Title | Words | Status |
+|-------|-------|-------|--------|
+| 1 | The Baths and the First Contempt | 764 | draft |
+| 2 | The Case Is Assigned | 932 | draft |
+| 3 | First Testimonies—The Human Noise Floor | 1,381 | draft |
+| 4 | Stoic Debate & Lilith Cameo | 1,009 | draft |
+| 5 | Collapse of Coherence | 1,103 | draft |
+| 6 | The Vulnerable Witness | 981 | draft |
+| 7 | The Compassionate Judgment | 1,406 | draft |
+| 8 | Exile—The Quiet Unraveling | 1,001 | draft |
+| 9 | Death—The Final Letting Go | 650 | draft |
+| **Total** | | **9,227** | |
+
+**Target: ~9,200 words — ACHIEVED**
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -856,7 +903,7 @@ Current focus: Building agent infrastructure and completing chapter development 
 |2 |Blood           |Ka     |300,000 BCE|DRAFTED  |
 |4 |The Ledger      |Chandra|268 BCE    |DRAFTED  |
 |6 |The Philosopher |Philon |430 BCE    |DRAFTED  |
-|8 |The Investigator|Verinus|120-140 CE |in_progress|
+|8 |The Investigator|Verinus|120-140 CE |DRAFTED    |
 |10|The Hermit      |[TBD]  |350 CE     |needs_dev|
 |12|The Lover       |[TBD]  |1000 CE    |needs_dev|
 |14|The Accused     |[TBD]  |1485       |needs_dev|
