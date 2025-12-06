@@ -1007,6 +1007,48 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene IV: Tracking Session—Verinus's Death + Beat 4 (~1,443 words) — CLIMAX
+- Verinus death scene: olive grove, stylus uncleaned, Marcus's letter about servant's rebuilt life
+- Genuine insight observed: "Virtue lives where certainty fails"
+- Subtle pride beneath: "And I have understood this"—enlightenment as achievement
+- Assessment: backfire complete, isolation strengthened rather than broke him
+- BEAT 4 INSERTED: Memory-slice of ancient life with parallel rise, mutual interference
+- Sensory impressions: dusty collapse, crumbling walls, empty markets, moral confusion
+- Key insight written: "Together doesn't hold"
+- Response: curious, not alarmed—files as interesting data
+- Physical cost subtle: headache, trembling hands
+
+**Decisions Made:**
+
+- Tracking transition rendered as "consciousness thinning at the edges, time becoming porous"
+- Verinus's stylus uncleaned (contrast to Rome's compulsive cleaning ritual)
+- Memory-slice setting: murky early civilization, possibly Mesopotamian, names forgotten
+- Beat 4 arrives accidentally while scanning for next incarnation
+- Notebook entries shown directly: clinical documentation style maintained
+- Physical cost returns briefly: headache, trembling—first since early tracking days
+
+**Voice Notes:**
+
+- Sensory anchor: dim flat, city glow, rain stopped
+- Verinus death scene rich with detail: golden light, olive grove, salt air
+- Memory-slice impressionistic: fragmentary, emotional, not analytical
+- Undermining clause: "Or so she believed" closes scene
+
+**Next Scene:**
+
+- Scene V: Finding Egypt (~700-900 words)
+- Scans forward using own lives as landmarks
+- Finds desert hermit in extreme solitude
+- Sees how Verinus's pride seeds new vulnerability
+- Strategy: feed spiritual pride, try nuance over force
+- Closes methodically: new strategy forming
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -1080,10 +1122,10 @@ Current focus: Building agent infrastructure and completing chapter development 
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
 |Act II Historical|80,000      |~21,300    |58,700      |
-|Act II Lilith    |27,000      |~14,000    |13,000      |
+|Act II Lilith    |27,000      |~15,450    |11,550      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~43,300**|**~112,700**|
+|**Total**        |**~156,000**|**~44,750**|**~111,250**|
 
 -----
 
