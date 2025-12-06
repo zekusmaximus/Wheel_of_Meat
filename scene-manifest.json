@@ -1014,50 +1014,182 @@
     {
       "chapter": 9,
       "id": "ch09-lilith-cp04",
-      "title": "The Circumstance",
+      "title": "The Complaint",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
-        "year": "7 years before Chapter 1"
+        "year": "7 years before Chapter 1",
+        "timespan": "Several weeks"
       },
       "pov": "Lilith",
       "lilith": {
         "age": 28,
-        "years_tracking": 3,
-        "occupation": "Completing doctorate / early clinical practice",
+        "years_tracking": "3-4",
+        "occupation": "Early career psychiatrist",
         "power_level": "Circumstance manipulation",
-        "emotional_state": "Practice deepening; concern emerging; frustration at unintended success"
+        "capabilities": [
+          "Can subtly manipulate circumstances and minor characters",
+          "Works through environment and secondary figures",
+          "Can create coincidences, delays, missed connections",
+          "Can be physically present (as Marcia Faenia) though not extended"
+        ],
+        "limitations": [
+          "Cannot affect Silas directly—must work through context",
+          "Changes must be plausible within the world",
+          "Cannot force choices",
+          "Manipulation leaves traces she may not anticipate"
+        ],
+        "emotional_state": "Curiosity and interest, not frustration; methodical analysis of backfire pattern",
+        "physical_cost": "Subtle—powers are natural at this stage; any fatigue is temporal/attentional, not physical deterioration"
       },
       "corresponds_to": {
         "historical_chapter": 8,
         "avatar": "Verinus (Roman investigator)",
-        "lesson": "Virtue (sīla) / Ill will → Compassion"
+        "avatar_fetter": "Ill will (vyāpāda) expressed as resentment toward ambiguity and human inconsistency",
+        "lesson": "Virtue (sīla) / Compassion amid uncertainty"
+      },
+      "modern_life_arc": {
+        "complaint": {
+          "patient": "Luther",
+          "profile": "Late 50s-60s, stay-at-home dad, formerly successful elsewhere",
+          "accusation": "Claims 'dangerous advice'—misinterpretation and fabrication",
+          "reality": "Didn't follow advice, blames Lilith rather than accept responsibility",
+          "resolution": "Complaint dismissed; clinical judgment confirmed sound"
+        },
+        "harrow": {
+          "role": "Part of review panel",
+          "behavior": "Surprisingly fair—follows facts rather than piling on",
+          "lilith_response": "Notes he's more complex than she'd filed him"
+        },
+        "family": {
+          "nadia": "Engagement survives; stress from mother's remarriage settled",
+          "mother_wedding": "Wasn't the horror Nadia expected",
+          "foreshadowing": "Nadia's wedding for ch11"
+        }
       },
       "demonstration": {
-        "fetter": "Ethical action in ambiguous situations",
-        "scene": "Patient or colleague presents ethically complex situation with no clear answer; Lilith realizes she can act with compassion despite uncertainty",
-        "irony": "Demonstrates the very lesson Verinus learned—virtue lives where certainty fails—yet immediately returns to planning how to stop Silas"
+        "fetter": "Ill will (vyāpāda)",
+        "method": "Luther embodies ill-will through vindictive complaint; Lilith demonstrates mastery by responding without it",
+        "irony_layers": [
+          "Layer 1: Patient consumed by ill-will; Lilith is not",
+          "Layer 2: Does her pursuit of Silas involve ill-will? She'd say no—just determined, curious",
+          "Layer 3: Attachment to being first—is that a form of something adjacent?"
+        ]
       },
       "tracking_content": {
-        "observes": "Verinus's life in Rome and exile",
-        "past_life_awareness": "Notes she was physically present as Marcia Faenia—'I stood close enough to touch him. My powers were growing—I could be there now, not merely observe.'",
-        "intervention_review": [
-          "Scribal error: intended to fracture evidence, make reconstruction harder",
-          "Traffic delay: intended to introduce impossible alibi, force choice under pressure",
-          "Senator's rage: THE TRAP—meant to make Verinus compromise, sacrifice servant to survive"
-        ],
-        "intended_outcome": "If destabilized by ambiguity, he should become complicit in injustice. Man who can't trust evidence should trust power. Virtue corrodes; ill-will calcifies as resentment.",
-        "actual_outcome": "He doesn't compromise. Contradictions made him humble, not cynical. Chose compassion despite uncertainty. Protected servant.",
-        "the_backfire": "I amplified his rage past discretion, past political calculation. The exile was meant to break Verinus—to strand him in meaninglessness, a man whose life's work had been coherence now marooned in chaos. Instead, I gave him silence. I gave him time. I gave him the one thing Rome never could: permission to not know.",
-        "tracks_forward_to": "Egyptian avatar (Desert Father)"
+        "reviews": "Verinus's death in exile—olive grove, stylus, contradictory testimonies accepted",
+        "intervention_results": {
+          "scribal_error": "Created competing testimonial versions; seeded cognitive fracture",
+          "traffic_delay": "Made alibi impossible; forced Verinus to choose what to believe",
+          "senators_rage": "Amplified displeasure into rage; triggered exile"
+        },
+        "expected_outcome": "Man who can't trust evidence should trust power; virtue corrodes into cynicism",
+        "actual_outcome": "Contradictions made him humble, not cynical; chose compassion despite uncertainty; exile gave him silence and permission to not know",
+        "the_backfire": "I amplified his rage past discretion. The exile was meant to break Verinus—strand him in meaninglessness. Instead, I gave him silence. I gave him time. I gave him the one thing Rome never could: permission to not know.",
+        "tracks_forward_to": "Egyptian hermit (Desert Father)"
       },
-      "backfire_awareness": "Growing concern—something isn't working. Her interventions consistently backfire. The contradictions she cultivated became crucible of his moral awakening. Admits: 'I meant to break his trust in virtue. Instead, I showed him how deeply the world needs it.' She is unsettled by this failure—and perhaps by flicker of her own compassion she refuses to name.",
-      "emotional_arc": "Frustration building beneath methodical surface. First clear articulation that her strategy is failing. Perhaps earliest hint of her own transformation—the compassion she demonstrates in her life mirrors what Verinus learned, but she cannot yet see the connection.",
-      "word_target": 2500,
-      "scenes": [],
-      "status": "needs_development"
+      "one_buddha_arc": {
+        "beat": 4,
+        "title": "Mutual Interference",
+        "trigger": "While scanning for next incarnation, accidentally brushes against her own thread—a life usually passed over",
+        "memory_slice": {
+          "content": "Both of them rising at same time; social disorder, moral confusion, collapse; neither achieving clarity; mutual interference like two frequencies canceling",
+          "setting": "Ancient but uncertain—not Ka-ancient, but murky early civilization; dusty collapse, crumbling walls, failing cities",
+          "emotional_register": "Fragmentary, felt, not analytical"
+        },
+        "insight": "Together doesn't hold.",
+        "response": "Files with curiosity, not alarm; interesting data, requires examination"
+      },
+      "backfire_awareness": "Growing curiosity—every intervention accelerates rather than impedes. What is she missing? The kinship whisper from Ch7 deepens.",
+      "strategy_evolution": "First intimations of needing more nuanced approaches—subtlety rather than force; considers stalling rather than derailing",
+      "thematic_elements": {
+        "meat_body_thread": "Body of evidence—complaint file, testimonies in Verinus's case, paper flesh, body of the text",
+        "kinship_whisper": "Parallel between his attachment to insight and her attachment to being first becomes harder to ignore",
+        "near_enlightenment_lived": "Handles complaint with equanimity; navigates family with ease; blindspot remains the tracking"
+      },
+      "word_target": 5000,
+      "structure": {
+        "form": "5 sections with action-forward pacing",
+        "total_word_target": "4,600-5,600"
+      },
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Complaint Arrives",
+          "file": "scene-01-complaint.md",
+          "word_target": "800-1,000",
+          "beats": [
+            "Ordinary morning interrupted by supervisor's summons",
+            "Luther's complaint: claims 'dangerous advice'",
+            "Harrow will be on review panel",
+            "Lilith's response: curiosity, not panic",
+            "Establishes external stakes"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "II",
+          "title": "Navigating the Review",
+          "file": "scene-02-review.md",
+          "word_target": "1,000-1,200",
+          "beats": [
+            "Formal review meeting",
+            "Luther's fabrications exposed through session notes",
+            "Harrow surprisingly fair—follows facts",
+            "Lilith recalibrates: he's more complex than filed",
+            "Review trends toward dismissal"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "III",
+          "title": "Family Update + Resolution",
+          "file": "scene-03-resolution.md",
+          "word_target": "700-900",
+          "beats": [
+            "Weeks pass—montage quality",
+            "Family: Nadia stable, mother's wedding fine, foreshadow Nadia's wedding",
+            "Complaint dismissed; Lilith vindicated",
+            "Transition: tracking is calling"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "IV",
+          "title": "Tracking Session—Verinus's Death + Beat 4",
+          "file": "scene-04-tracking.md",
+          "word_target": "1,400-1,600",
+          "function": "CLIMAX",
+          "beats": [
+            "Night, flat dim; reaches back to Verinus",
+            "Death scene: olive grove, stylus, testimonies accepted",
+            "Genuine insight AND subtle pride observed",
+            "Assessment: what worked, what backfired",
+            "BEAT 4: Memory-slice surfaces—mutual interference, collapse",
+            "Insight: 'Together doesn't hold'",
+            "Files with curiosity; kinship whisper deepens"
+          ],
+          "status": "outlined"
+        },
+        {
+          "section": "V",
+          "title": "Finding Egypt",
+          "file": "scene-05-egypt.md",
+          "word_target": "700-900",
+          "beats": [
+            "Scans forward using own lives as landmarks",
+            "Finds desert hermit in extreme solitude",
+            "Sees how Verinus's pride seeds new vulnerability",
+            "Strategy: feed spiritual pride, try nuance over force",
+            "Kinship whisper continues",
+            "Closes methodically: new strategy forming"
+          ],
+          "status": "outlined"
+        }
+      ],
+      "status": "outlined"
     },
 
     {
