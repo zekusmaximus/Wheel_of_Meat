@@ -712,6 +712,47 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 13 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 8, Scene 6: The Vulnerable Witness (~981 words)
+- Marcus returns an hour after their quarrel, says nothing about it
+- Fifth witness: Demetrius, 15-year-old kitchen slave, purchased three years ago
+- Demetrius's account: heard Varro weeping alone after the woman left, lamps burned down
+- Verinus nearly speaks sharply but restrains himself
+- Marcus comforts the boy: "Fear does not make you a liar. It makes you human."
+- Verinus realizes emotional truth has its own significance—not evidence, but meaning
+
+**Decisions Made:**
+
+- Named the kitchen boy Demetrius (Greek slave name, appropriate)
+- His testimony is factually useless but emotionally crucial: Varro wept alone
+- "I do not know hours. I know lamps"—his temporal frame is experiential, not precise
+- Marcus and Verinus reconcile silently—the quarrel unspoken but the silence "different than it had been before"
+- Stylus cleaning now "merely habit... an empty gesture performed by hands that no longer believed in order"
+
+**Continuity Notes:**
+
+- Marcus returns after quarrel—friendship not broken, but changed
+- Demetrius's account adds to mystery: the woman left, then Varro wept, then silence
+- Philosophical suicide now deeply foreshadowed: a man weeping alone, then choosing to end
+- "Something had cracked. Something had opened."—prepares for Scene 7's compassionate judgment
+- Six scenes drafted: 764 + 932 + 1,381 + 1,009 + 1,103 + 981 = 6,170 words (of ~9,200 target = 67%)
+
+**Next Scene:**
+
+- Scene 7: The Compassionate Judgment (~1,500 words) — LONGEST SCENE
+- Praetor's tribunal or adjudication room
+- Verinus reconstructs case: servant legally guilty but morally innocent
+- Senator expects verdict condemning servant
+- Verinus refuses; reveals Varro's philosophical suicide
+- Lilith Interference #3: amplifies senator's rage
+- Verinus sentenced to relegatio (exile)
+- Marcus tries to follow; blocked by appointment to Brundisium
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
