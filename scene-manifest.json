@@ -1135,6 +1135,7 @@
           "title": "Navigating the Review",
           "file": "scene-02-review.md",
           "word_target": "1,000-1,200",
+          "word_count": 1295,
           "beats": [
             "Formal review meeting",
             "Luther's fabrications exposed through session notes",
@@ -1142,7 +1143,7 @@
             "Lilith recalibrates: he's more complex than filed",
             "Review trends toward dismissal"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "section": "III",

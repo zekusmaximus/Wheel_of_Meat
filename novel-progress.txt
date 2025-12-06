@@ -935,6 +935,41 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 14 (continued)
+
+**Additional Work Done:**
+
+- Drafted Chapter 9, Scene II: Navigating the Review (~1,295 words)
+- Formal review meeting with Whitmore, Patel, Harrow convened
+- Luther's fabrications exposed: documentation shows no "confrontation" advice, no "emotional neglect" language
+- Harrow surprisingly fair—follows the evidence, notes thorough documentation
+- Lilith recalibrates: "filed him incorrectly... difficult—and he was also fair"
+- Complaint dismissed; clinical judgment vindicated
+- Demonstration complete: Lilith navigates unfair accusation without ill-will
+
+**Decisions Made:**
+
+- Dr. Patel introduced as ethics reviewer (soft voice, precise)
+- Ten days elapsed between Scene I and II
+- Harrow's key line: "Your documentation was thorough. That's what made this straightforward."
+- Lilith's reflection: "She had demonstrated what she taught her patients"
+
+**Voice Notes:**
+
+- Institutional setting: uncomfortable room, flat fluorescent light
+- Undermining clause: "difficult—and he was also fair. The two qualities were not mutually exclusive."
+- Physical gestures: hands folded, posture shifts
+- Dialogue maintains formal register throughout (professional review setting)
+
+**Next Scene:**
+
+- Scene III: Family Update + Resolution (~700-900 words)
+- Weeks pass—montage quality
+- Family: Nadia stable, mother's wedding fine, foreshadow Nadia's wedding
+- Transition: tracking is calling
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -1008,10 +1043,10 @@ Current focus: Building agent infrastructure and completing chapter development 
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
 |Act II Historical|80,000      |~21,300    |58,700      |
-|Act II Lilith    |27,000      |~11,900    |15,100      |
+|Act II Lilith    |27,000      |~13,200    |13,800      |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~41,200**|**~114,800**|
+|**Total**        |**~156,000**|**~42,500**|**~113,500**|
 
 -----
 
