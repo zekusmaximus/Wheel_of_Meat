@@ -1,31 +1,67 @@
 {
   "chapter_id": "ch10-egypt-hermit",
   "avatar": {
-    "name": "[TBD]",
-    "occupation": "[TBD]",
-    "status": "[TBD]"
+    "name": "Abba Macarius of Scetis",
+    "occupation": "Desert Father / Hermit (formerly a scholar/teacher of rhetoric in Alexandria)",
+    "status": "Semi-eremitic monk in the Egyptian desert, approximately 15 years in solitude"
   },
   "physical": {
-    "appearance": "[TBD]",
-    "recognition_marker": "[TBD]"
+    "appearance": "Weathered, sun-darkened skin stretched over bones. White beard untrimmed. Eyes that have stared at horizons until they reflect emptiness. Hands calloused from basket-weaving, fingers stained with palm fiber.",
+    "recognition_marker": "[TBD - connect to Silas soul markers when defined]"
   },
   "psychology": {
-    "core_flaw_manifestation": "[TBD - how compulsive helping shows in this life]",
-    "fatal_flaw": "[TBD]",
-    "strengths": [],
-    "weaknesses": []
+    "core_flaw_manifestation": "Compulsive helping manifests as the need to be the wisest, to offer counsel, to be sought out—even while living in deliberate isolation. He has renounced teaching but craves being worth teaching.",
+    "fatal_flaw": "Pride in humility itself. He has become attached to being unattached. His asceticism has become achievement, his renunciation a possession.",
+    "strengths": [
+      "Genuine spiritual discipline developed over fifteen years",
+      "Capacity for stillness and observation",
+      "Real insight into the mechanics of desire (for others)",
+      "Patience with physical hardship"
+    ],
+    "weaknesses": [
+      "Cannot see his own pride because it wears the clothing of virtue",
+      "Measures himself against other monks (duration of fasts, severity of conditions)",
+      "Secretly pleased when pilgrims seek his counsel",
+      "Dismisses praise verbally while savoring it internally"
+    ]
+  },
+  "backstory": {
+    "pre_desert": "Taught rhetoric and philosophy in Alexandria. Successful, respected, comfortable. Converted to Christianity during a period of spiritual crisis—the intellectual life felt hollow. Fled to the desert seeking what words couldn't provide.",
+    "the_irony": "He traded the pride of the scholar for the pride of the ascetic. The content changed but the structure remained.",
+    "fifteen_years": "Built a reputation through reputation's opposite—the more he withdrew, the more famous he became. The sayings he offers visitors are genuinely wise, which makes the pride harder to detect."
   },
   "chapter_arc": {
-    "opening_state": "[TBD]",
-    "inciting_incident": "[TBD]",
-    "climax": "[TBD]",
-    "closing_state": "[TBD]"
+    "opening_state": "Established routine of prayer, fasting, basket-weaving. Occasional visitors whom he receives with performed reluctance and secret satisfaction. The pride is stable, invisible to him.",
+    "inciting_incident": "Archdeacon Theophanes arrives from Alexandria—accompanied by Theodora (Lilith incarnate)—to document Macarius's wisdom for official recognition.",
+    "rising_action": "Theophanes's praise is excessive (orchestrated by Theodora/Lilith). Other monks begin treating Macarius differently. The formalization of his holiness creates a mirror he cannot avoid.",
+    "climax": "A moment where the praise becomes so thick he can taste it—and in that tasting, recognizes the hunger. The structure of his pride becomes visible to him.",
+    "resolution": "Genuine humility breaks through—not as achievement but as collapse. He sees what he has been.",
+    "closing_state": "Death in the aftermath of this recognition. But what clings: the long deprivation, the denied body, the fifteen years of sensory starvation. The pendulum begins its swing."
   },
   "lesson_development": {
-    "perfection_or_fetter": "[TBD]",
-    "what_learned": "[TBD]",
-    "what_failed": "[TBD]",
-    "death_seeds_next": "[TBD]"
+    "perfection_or_fetter": "Renunciation (Nekkhamma)",
+    "what_learned": "True renunciation is not about accumulating spiritual credentials. The attachment to non-attachment is still attachment.",
+    "what_failed": "His insight comes late—after the pride has been fed and formalized. The body remains hungry. The senses remain starved. The denial was real even if the motivation was mixed.",
+    "death_seeds_next": "Fifteen years of ascetic denial creates a deep hunger for beauty, sensation, pleasure. This swings into the Heian courtier's obsession with aesthetic experience—he will live surrounded by beauty because this life was surrounded by emptiness."
   },
-  "notes": "[TBD]"
+  "supporting_characters": {
+    "theophanes": {
+      "name": "Archdeacon Theophanes of Alexandria",
+      "role": "Church official sent to document Macarius's wisdom",
+      "function": "Primary instrument whose excessive praise creates the mirror"
+    },
+    "theodora": {
+      "name": "Theodora",
+      "true_identity": "Lilith incarnate",
+      "role": "Church dignitary accompanying Theophanes",
+      "function": "Orchestrates the mission from within the delegation. Does not directly affect or converse with Macarius, but her presence shapes events and guides Theophanes's approach.",
+      "physical_markers": {
+        "widow_peak": "Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face",
+        "left_eye": "Deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow appears completely black)",
+        "drafting_note": "Work these markers into descriptions when Macarius observes her—he does not recognize their significance, but readers will"
+      },
+      "constraint": "Does not directly interact with or speak to Macarius in this chapter. Her influence is through Theophanes and the delegation's behavior."
+    }
+  },
+  "notes": "The genre (spiritual drama) requires interior conflict as the engine. The challenge: render Macarius's psychology through body sensation and environment rather than abstraction. Silence as character. The smallest physical details carry existential weight. Lilith (as Theodora) is physically present but operates through others, not direct contact."
 }

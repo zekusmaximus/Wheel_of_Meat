@@ -160,11 +160,71 @@ Language Rules
 	•	No Greek or Coptic required unless universally recognizable; keep diction simple and grave.
 
 ## Avatar Profile
-[Link to avatar-profile.json when created]
+
+See [avatar-profile.json](./avatar-profile.json) for complete character details.
+
+**Name:** Abba Macarius of Scetis  
+**Background:** Formerly a scholar/teacher of rhetoric in Alexandria, now 15 years in the desert.  
+**Core Flaw:** Pride wears the clothing of humility—he has become attached to being unattached. His compulsive helping manifests as the need to be the wisest, to offer counsel, to be worth seeking out.
+
+---
 
 ## Lilith in This Chapter
-[Power level, method, objective]
+
+**Status:** Physically incarnate as Theodora, a church dignitary accompanying Archdeacon Theophanes.
+
+**Physical Markers (for reader recognition):**
+- Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face
+- Left eye deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow appears completely black)
+
+**Characters:**
+- **Theodora (Lilith incarnate)** — Church dignitary accompanying the delegation. Does not directly interact with or speak to Macarius in this chapter. Orchestrates the mission from within.
+- **Archdeacon Theophanes of Alexandria** — Church official sent to document Macarius's wisdom. Lilith's primary instrument, guided by Theodora.
+
+**Constraint:** Theodora/Lilith does not directly affect or converse with Macarius. Her influence operates through Theophanes and the delegation's behavior.
+
+**Method:** Theophanes arrives to document Macarius's wisdom for official recognition. Theodora guides his approach—his questions draw out Macarius's most impressive sayings, and his praise becomes excessive enough to create a mirror Macarius cannot avoid.
+
+**Objective:** Turn renunciation into spiritual pride. Make Macarius attached to being unattached. Feed his hunger for recognition until the hunger becomes visible.
+
+**The Backfire:** Lilith pushes too hard. Theophanes's excessive formalization of Macarius's holiness creates conditions where the pride becomes undeniable. Macarius *tastes* his own hunger—and in that tasting, genuine humility breaks through as collapse rather than achievement.
+
+**Emotional State:** Anxious beneath methodical surface; his progress continues despite her efforts. This is her fifth intervention and none have worked as intended.
+
+---
 
 ## Scene Requirements
-[Chapter-specific requirements]
+
+### Genre Requirements (Spiritual Drama)
+
+1. **Interior Conflict as Engine** — The plot originates from the hermit's spiritual struggle, not external events. His pride vs. his genuine aspiration.
+
+2. **Trial → Fracture → Insight Structure**
+   - Trial: The church official's recognition test
+   - Fracture: The moment pride becomes visible to himself
+   - Insight: Genuine humility through collapse, not achievement
+
+3. **Silence as Character** — The desert's presence must be felt throughout. What does silence reveal? What does it hide?
+
+4. **Ineffable Climax** — The moment of recognition is physical before it is understood. No declaration—the insight is embodied through trembling hands, held breath, the taste of hunger.
+
+5. **Visitation Motif** — The church official disrupts solitude and tests the hermit's self-image.
+
+### Voice Requirements
+
+1. **Meat/Body Focus** — The sensory palette of deprivation: hunger pangs, thirst, the weight of heat, the brush of wind against weathered skin. Every sensation matters because there are so few.
+
+2. **Aphoristic Dialogue** — Speech patterns reflecting the Apophthegmata: curt, sparse, direct. The hermit's wisdom sounds genuine because it is genuine—the pride is structural, not in the content.
+
+3. **No Modern Psychology** — Convey internal states through body sensation, action, and environment. No "he realized," "he felt."
+
+4. **Five Senses Present** — Heat, dust, the rough texture of palm fiber, the taste of bread and water, the silence or wind-sounds.
+
+### Bridge Requirements
+
+1. **From Ch8 (Rome/Verinus):** The hermit carries forward Verinus's seed—pride in having understood. "I have achieved what others struggle toward."
+
+2. **To Ch12 (Heian/Equanimity):** The death must seed sensory hunger. Fifteen years of deprivation creates a deep pull toward beauty, pleasure, form. The pendulum swings from empty cell to rooms full of aesthetic obsession.
+
+3. **Death Scene Extended:** Per novel requirements—visceral, with clear karmic bridge. He dies with genuine insight (pride seen) but incomplete release (body's long starvation creates new hunger).
 
