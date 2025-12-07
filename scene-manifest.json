@@ -1331,7 +1331,7 @@
     {
       "chapter": 11,
       "id": "ch11-lilith-cp05",
-      "title": "TBD",
+      "title": "The Performance of Humility",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
@@ -1349,7 +1349,7 @@
       },
       "corresponds_to": {
         "historical_chapter": 10,
-        "avatar": "Egyptian hermit",
+        "avatar": "Abba Macarius of Scetis",
         "lesson": "Renunciation (nekkhamma)"
       },
       "demonstration": {
@@ -1363,9 +1363,53 @@
         "tracks_forward_to": "Heian avatar"
       },
       "backfire_awareness": "Visible irony building; frustration that interventions aren't slowing progress",
-      "word_target": 2500,
-      "scenes": [],
-      "status": "needs_development"
+      "word_target": 5500,
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Demonstration Session",
+          "file": "scene-01-demonstration.md",
+          "word_target": "900-1,100",
+          "status": "outline"
+        },
+        {
+          "section": "II",
+          "title": "Rehearsal Dinner",
+          "file": "scene-02-rehearsal.md",
+          "word_target": "1,000-1,200",
+          "status": "outline"
+        },
+        {
+          "section": "III",
+          "title": "Professional Life",
+          "file": "scene-03-professional.md",
+          "word_target": "700-900",
+          "status": "outline"
+        },
+        {
+          "section": "IV",
+          "title": "Tracking—Macarius's Death + Beat 5",
+          "file": "scene-04-tracking.md",
+          "word_target": "1,300-1,500",
+          "function": "CLIMAX",
+          "status": "outline"
+        },
+        {
+          "section": "V",
+          "title": "Finding Heian Japan",
+          "file": "scene-05-heian.md",
+          "word_target": "600-800",
+          "status": "outline"
+        },
+        {
+          "section": "VI",
+          "title": "Closing",
+          "file": "scene-06-closing.md",
+          "word_target": "400-500",
+          "status": "outline"
+        }
+      ],
+      "status": "scaffolded"
     },
     {
       "chapter": 12,
