@@ -191,7 +191,7 @@
   
   "physical_description": {
     "canonical_face": "Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face. Left eye deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow the eye appears completely black).",
-    "first_full_manifestation": "Chapter 8 as Marcia (Verinus's exile village)",
+    "first_full_manifestation": "Chapter 8 as Marcia",
     "reader_recognition_starts": "Chapter 8 onward (retroactive hints possible in earlier chapters only via shadow/silhouette/description-from-afar)"
   },
 
@@ -236,5 +236,28 @@
     "Specific physical description of her consistent appearance",
     "Exact backfire mechanisms for chapters not yet developed",
     "The exact mechanism of the merger in Chapter 26"
+  ],
+
+  "physical_cost_progression": [
+    "CP-01: Headaches from sustained focus",
+    "CP-02 through CP-05: Increasing exhaustion, nausea",
+    "CP-06 through CP-09: Manifestation drains her for days; colleagues notice decline",
+    "CP-10: Full incarnation feels like dying and being born simultaneously"
+  ],
+
+  "professional_decline": [
+    "CP-01 through CP-03: Thriving, building reputation",
+    "CP-04 through CP-06: Colleagues notice preoccupation",
+    "CP-07 through CP-08: Considering leave; patients affected",
+    "CP-09: Partial leave",
+    "CP-10: Full leave; decade-long pursuit has consumed her life"
+  ],
+
+  "maitreya_foreshadowing": [
+    "Moments of hesitation before interventions (she doesn't understand why)",
+    "Inexplicable pain when she causes him suffering",
+    "Dreams where she sees through his eyes or they appear merged",
+    "The attraction she keeps dismissing as tactical calculation",
+    "References to 'loving-kindness' (mettā/maitri—Maitreya's name meaning)"
   ]
 }

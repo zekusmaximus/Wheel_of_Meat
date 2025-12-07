@@ -198,22 +198,6 @@
     ]
   },
   
-  "chapter_mapping": {
-    "note": "Act II alternates historical chapters with Lilith contemporary chapters",
-    "structure": [
-      {"historical": 2, "lilith": 3, "avatar": "Ka", "period": "300,000 BCE"},
-      {"historical": 4, "lilith": 5, "avatar": "Chandra", "period": "268 BCE"},
-      {"historical": 6, "lilith": 7, "avatar": "TBD", "period": "450 BCE"},
-      {"historical": 8, "lilith": 9, "avatar": "TBD", "period": "100 CE"},
-      {"historical": 10, "lilith": 11, "avatar": "TBD", "period": "350 CE"},
-      {"historical": 12, "lilith": 13, "avatar": "TBD", "period": "1000 CE"},
-      {"historical": 14, "lilith": 15, "avatar": "TBD", "period": "1485"},
-      {"historical": 16, "lilith": 17, "avatar": "TBD", "period": "1585"},
-      {"historical": 18, "lilith": 19, "avatar": "TBD", "period": "1855"},
-      {"historical": 20, "lilith": 21, "avatar": "TBD", "period": "1930s"}
-    ]
-  },
-  
   "thematic_question": {
     "central": "Can enlightenment be achieved through helping others, or must the helper-identity itself be released?",
     "secondary": [
@@ -222,22 +206,5 @@
       "What persists when the self is illusion?"
     ],
     "resolution": "The competition was illusory. Silas and Lilith were always two aspects of the same future Buddha—Maitreya. Their apparent opposition was the necessary friction through which that Buddha-to-be developed."
-  },
-  
-  "maitreya_resolution": {
-    "description": "In Chapter 26, Silas and Lilith's consciousnesses merge to become Maitreya, the future Buddha prophesied in Buddhist texts.",
-    "meaning": "The 'one Buddha per world-system' rule was true but misunderstood. There was only ever one Buddha-to-be, appearing as two until ready to unite.",
-    "foreshadowing_needed": [
-      "References to Maitreya throughout the novel",
-      "Moments where their separation seems artificial",
-      "Times when harming him causes her inexplicable pain",
-      "Her attraction to him that exceeds tactical calculation",
-      "Imagery of two becoming one"
-    ],
-    "buddhist_context": {
-      "maitreya": "The prophesied future Buddha who will appear when the dharma has been forgotten",
-      "one_buddha_rule": "Only one Sammasambuddha can exist in a world-system at a time",
-      "other_buddhas": "Amitabha and others exist in different world-systems, referenced to establish cosmology"
-    }
   }
 }

@@ -75,11 +75,10 @@ When drafting any avatar, subtly include:
 
 The compulsive helping flaw manifests differently in each life but is always present.
 
-### Lilith's Unchanging Face (locked 2025-12-06)
-
-- Sharp widow's peak, single thick darker strand always escaping to the left
-- Left eye: deep brown with pale-green crescent 11–1 o'clock (light-dependent; appears completely black in shadow)
-- First direct appearance: Chapter 8 (Marcia). Earlier chapters may only hint (shadow, partial glimpse, etc.).
+### Lilith’s Unchanging Face (locked 2025-12-06)
+- Sharp widow’s peak with single thick darker strand always escaping over left side
+- Left eye: deep brown with pale-green crescent 11–1 o’clock (light-dependent)
+First direct appearance: Chapter 8 (Marcia). Earlier chapters may only hint.
 
 -----
 
