@@ -8,35 +8,63 @@
     "status": "development",
     "structure_note": "26 chapters in 4 acts. Act II alternates between Silas's historical past lives and Lilith's contemporary pursuit, creating parallel forward momentum in both timelines."
   },
-
   "acts": [
     {
       "act": 1,
       "title": "The Meeting",
-      "chapters": [1],
+      "chapters": [
+        1
+      ],
       "description": "Introduction to Silas and Lilith in contemporary Manchester; first glimpse of past-life fracture; establishment of core conflict"
     },
     {
       "act": 2,
       "title": "The Wheel Turns",
-      "chapters": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+      "chapters": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
       "description": "Ten historical past lives alternating with ten contemporary Lilith chapters. Silas develops perfections while Lilith's powers grow and her pursuit intensifies over a decade.",
       "structure": "Historical → Lilith → Historical → Lilith (alternating)"
     },
     {
       "act": 3,
       "title": "The Breakthrough",
-      "chapters": [22],
+      "chapters": [
+        22
+      ],
       "description": "Return to contemporary Manchester; Silas achieves stream-entry; Lilith's realization of her error and turn toward unity"
     },
     {
       "act": 4,
       "title": "The Ascension",
-      "chapters": [23, 24, 25, 26],
+      "chapters": [
+        23,
+        24,
+        25,
+        26
+      ],
       "description": "Post-stream-entry progression through higher realms; the race to Buddhahood; final merger into Maitreya"
     }
   ],
-
   "chapters": [
     {
       "chapter": 1,
@@ -67,7 +95,6 @@
       "scenes": [],
       "status": "drafted"
     },
-
     {
       "chapter": 2,
       "id": "ch02-prehistoric-ka",
@@ -103,7 +130,6 @@
       "scenes": [],
       "status": "drafted"
     },
-
     {
       "chapter": 3,
       "id": "ch03-lilith-cp01",
@@ -142,7 +168,6 @@
       "scenes": [],
       "status": "drafted"
     },
-
     {
       "chapter": 4,
       "id": "ch04-mauryan-chandra",
@@ -176,7 +201,6 @@
       "scenes": [],
       "status": "outlined"
     },
-
     {
       "chapter": 5,
       "id": "ch05-lilith-cp02",
@@ -216,288 +240,285 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
-  "chapter": 6,
-  "id": "ch06-athens-philosopher",
-  "title": "The Philosopher",
-  "type": "historical",
-  "genre": "Historical Tragedy",
-  "setting": {
-    "period": "Classical Athens",
-    "location": "Athens, Greece (Agora, Long Walls, Piraeus)",
-    "year": "430 BCE (Year 2 of Peloponnesian War)",
-    "historical_context": "Plague of Athens during Pericles' leadership"
-  },
-  "pov": "Philon of Kephissia",
-  "avatar": {
-    "name": "Philon of Kephissia",
-    "age": "Early 40s",
-    "occupation": "Physician (iatros)",
-    "status": "Developing soul",
-    "recognition_markers": [
-      "Observational patience—watches before acting",
-      "Physical hesitation before touch (echo of Ka's deliberation)",
-      "Tendency to see individuals rather than categories"
-    ],
-    "fatal_flaw": "Conflates selflessness with self-destruction; cannot distinguish between compassionate service and martyrdom",
-    "binding_memory": "As young man, witnessed physician refuse plague victim during earlier outbreak; victim died begging; vowed never to be the man who abandons"
-  },
-  "lilith": {
-    "age": 27,
-    "identity": "Unknown presence in Athens",
-    "powers": "Dream influence—can plant suggestions and emotional residue during sleep",
-    "intervention_1": {
-      "timing": "First Episode",
-      "method": "Accelerates rumor that plague came from Persian ships",
-      "effect": "Creates xenophobic panic; refugees flood to Philon; strains resources"
-    },
-    "intervention_2": {
-      "timing": "Night before Second Episode",
-      "method": "Sends dream to Alexios: vision of Philon's corpse, certainty that following means death, whisper that survival is service",
-      "target": "Alexios (Philon's assistant)",
-      "effect": "Alexios refuses to help treat slave woman; Philon faces final choice alone"
-    },
-    "objective": "Isolate Philon and accelerate his martyrdom by removing witnesses and support"
-  },
-  "key_characters": {
-    "alexios": {
-      "role": "Assistant and pupil",
-      "age": "Young man (early 20s)",
-      "function": "Voices the lesson Philon cannot hear: survival enables service to many",
-      "arc": "Believes in Philon's ethic until plague tests it; breaks when asked to accompany to slave woman; departure is rational, not cowardly",
-      "departure_argument": "If we both die treating one slave, who treats the hundred waiting outside? You taught me that a physician's life belongs to his patients. All of them. Not just the one in front of us."
-    },
-    "the_patient": {
-      "identity": "Adult female slave from Scythia",
-      "name": "TBD (foreign name or Greek slave-name)",
-      "status": "Abandoned by wealthy owners when symptomatic",
-      "speech": "Broken, halting Greek",
-      "function": "Lowest social status—makes Philon's choice maximally stark; echoes binding memory through her resignation",
-      "death": "Dies in Philon's arms in Third Episode despite his care"
-    }
-  },
-  "lesson": {
-    "perfection": "Wisdom (paññā)",
-    "theme": "Individual vs. collective good; distinguishing true altruism from self-destruction",
-    "core_development": "Cannot see that martyrdom for one person abandons the many who need him; wisdom requires understanding context and consequences, not just immediate compassion",
-    "insight_achieved": "Incomplete—arises in delirium: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
-    "karmic_seed": "There must be a way to understand virtue correctly → becomes Stoic investigator's obsession with moral framework"
-  },
-  "backfire": {
-    "lilith_intention": "Isolate and accelerate martyrdom",
-    "actual_result": "By ensuring Philon faces choice entirely alone (no one to share burden/blame), his death becomes concentrated seed of insight rather than diluted tragedy; karmic weight pure and undiffused"
-  },
-  "structure": {
-    "form": "Greek tragic architecture (9 sections)",
-    "sections": [
-      {
-        "number": "I",
-        "title": "Prologos—The City Before Collapse",
-        "word_target": 1400,
-        "beats": [
-          "Dawn in Agora; civic pride; Parthenon gleaming",
-          "Philon treating minor cases, already exhausted",
-          "Binding memory surfaces (flashback/internal reference to vow)",
-          "Alexios introduced—eager, competent, admiring",
-          "Subtle tension: rumors of fever from Piraeus",
-          "Recognition marker: Philon watches before acting",
-          "Meat/body: Agora meat market imagery"
-        ]
+      "chapter": 6,
+      "id": "ch06-athens-philosopher",
+      "title": "The Philosopher",
+      "type": "historical",
+      "genre": "Historical Tragedy",
+      "setting": {
+        "period": "Classical Athens",
+        "location": "Athens, Greece (Agora, Long Walls, Piraeus)",
+        "year": "430 BCE (Year 2 of Peloponnesian War)",
+        "historical_context": "Plague of Athens during Pericles' leadership"
       },
-      {
-        "number": "II",
-        "title": "Parodos—The First Breach",
-        "word_target": 900,
-        "beats": [
-          "Man collapses in Agora with unmistakable plague symptoms",
-          "Panic; ring of fear opens around victim",
-          "Philon steps forward alone—Alexios hesitates, then follows",
-          "Line: 'One life is worth the effort'",
-          "Binding moment: Philon becomes physician who will not refuse"
-        ]
+      "pov": "Philon of Kephissia",
+      "avatar": {
+        "name": "Philon of Kephissia",
+        "age": "Early 40s",
+        "occupation": "Physician (iatros)",
+        "status": "Developing soul",
+        "recognition_markers": [
+          "Observational patience—watches before acting",
+          "Physical hesitation before touch (echo of Ka's deliberation)",
+          "Tendency to see individuals rather than categories"
+        ],
+        "fatal_flaw": "Conflates selflessness with self-destruction; cannot distinguish between compassionate service and martyrdom",
+        "binding_memory": "As young man, witnessed physician refuse plague victim during earlier outbreak; victim died begging; vowed never to be the man who abandons"
       },
-      {
-        "number": "III",
-        "title": "First Episode—The Flood",
-        "word_target": 1500,
-        "beats": [
-          "Long Walls fill with refugees; clinic overwhelmed",
-          "Lilith's first intervention: xenophobic panic amplified",
-          "Magistrates demand triage by status; Philon refuses",
-          "Alexios begins to crack under pressure",
-          "Meat/body: Philon touches diseased flesh others won't",
-          "Scene escalation toward breaking point"
-        ]
+      "lilith": {
+        "age": 27,
+        "identity": "Unknown presence in Athens",
+        "powers": "Dream influence—can plant suggestions and emotional residue during sleep",
+        "intervention_1": {
+          "timing": "First Episode",
+          "method": "Accelerates rumor that plague came from Persian ships",
+          "effect": "Creates xenophobic panic; refugees flood to Philon; strains resources"
+        },
+        "intervention_2": {
+          "timing": "Night before Second Episode",
+          "method": "Sends dream to Alexios: vision of Philon's corpse, certainty that following means death, whisper that survival is service",
+          "target": "Alexios (Philon's assistant)",
+          "effect": "Alexios refuses to help treat slave woman; Philon faces final choice alone"
+        },
+        "objective": "Isolate Philon and accelerate his martyrdom by removing witnesses and support"
       },
-      {
-        "number": "IV",
-        "title": "First Stasimon—The City's Lament",
-        "word_target": 500,
-        "beats": [
-          "Funeral pyres visible day and night",
-          "Citizens abandon rites, hurl corpses onto fires",
-          "Civic order dissolving",
-          "Atmospheric—Philon not present; city as chorus",
-          "Meat/body: Burning flesh of funeral pyres"
-        ]
+      "key_characters": {
+        "alexios": {
+          "role": "Assistant and pupil",
+          "age": "Young man (early 20s)",
+          "function": "Voices the lesson Philon cannot hear: survival enables service to many",
+          "arc": "Believes in Philon's ethic until plague tests it; breaks when asked to accompany to slave woman; departure is rational, not cowardly",
+          "departure_argument": "If we both die treating one slave, who treats the hundred waiting outside? You taught me that a physician's life belongs to his patients. All of them. Not just the one in front of us."
+        },
+        "the_patient": {
+          "identity": "Adult female slave from Scythia",
+          "name": "TBD (foreign name or Greek slave-name)",
+          "status": "Abandoned by wealthy owners when symptomatic",
+          "speech": "Broken, halting Greek",
+          "function": "Lowest social status—makes Philon's choice maximally stark; echoes binding memory through her resignation",
+          "death": "Dies in Philon's arms in Third Episode despite his care"
+        }
       },
-      {
-        "number": "V",
-        "title": "Second Episode—The Impossible Choice",
-        "word_target": 1800,
-        "beats": [
-          "Magistrates order Philon to relocate to safety",
-          "Philon refuses: 'What meaning has a healer who abandons the dying?'",
-          "Slave woman arrives—abandoned by wealthy owners, fever-wracked",
-          "Alexios confronts Philon (morning after Lilith's dream)",
-          "Alexios's departure argument—painful, not villainous",
-          "Alexios leaves; Philon alone with choice",
-          "Decision to isolate with patient"
-        ]
+      "lesson": {
+        "perfection": "Wisdom (paññā)",
+        "theme": "Individual vs. collective good; distinguishing true altruism from self-destruction",
+        "core_development": "Cannot see that martyrdom for one person abandons the many who need him; wisdom requires understanding context and consequences, not just immediate compassion",
+        "insight_achieved": "Incomplete—arises in delirium: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
+        "karmic_seed": "There must be a way to understand virtue correctly → becomes Stoic investigator's obsession with moral framework"
       },
-      {
-        "number": "VI",
-        "title": "Second Stasimon—The Cost of the Choice",
-        "word_target": 500,
-        "beats": [
-          "Pericles glimpsed in passing (image of man who cannot save what he loves)",
-          "Smell of unburied dead permeating city",
-          "Philon's first flicker of doubt—suppressed immediately",
-          "Atmospheric deepening of tragedy"
-        ]
+      "backfire": {
+        "lilith_intention": "Isolate and accelerate martyrdom",
+        "actual_result": "By ensuring Philon faces choice entirely alone (no one to share burden/blame), his death becomes concentrated seed of insight rather than diluted tragedy; karmic weight pure and undiffused"
       },
-      {
-        "number": "VII",
-        "title": "Third Episode—Martyrdom",
-        "word_target": 1500,
-        "beats": [
-          "Philon isolates himself with slave woman",
-          "Last-ditch care: cooling cloths, water, whispered reassurances",
-          "She speaks—crystallizes tragedy (gratitude? question about why?)",
-          "She dies in his arms",
-          "Philon's first cough",
-          "Point of no return marked clearly"
-        ]
+      "structure": {
+        "form": "Greek tragic architecture (9 sections)",
+        "sections": [
+          {
+            "number": "I",
+            "title": "Prologos—The City Before Collapse",
+            "word_target": 1400,
+            "beats": [
+              "Dawn in Agora; civic pride; Parthenon gleaming",
+              "Philon treating minor cases, already exhausted",
+              "Binding memory surfaces (flashback/internal reference to vow)",
+              "Alexios introduced—eager, competent, admiring",
+              "Subtle tension: rumors of fever from Piraeus",
+              "Recognition marker: Philon watches before acting",
+              "Meat/body: Agora meat market imagery"
+            ]
+          },
+          {
+            "number": "II",
+            "title": "Parodos—The First Breach",
+            "word_target": 900,
+            "beats": [
+              "Man collapses in Agora with unmistakable plague symptoms",
+              "Panic; ring of fear opens around victim",
+              "Philon steps forward alone—Alexios hesitates, then follows",
+              "Line: 'One life is worth the effort'",
+              "Binding moment: Philon becomes physician who will not refuse"
+            ]
+          },
+          {
+            "number": "III",
+            "title": "First Episode—The Flood",
+            "word_target": 1500,
+            "beats": [
+              "Long Walls fill with refugees; clinic overwhelmed",
+              "Lilith's first intervention: xenophobic panic amplified",
+              "Magistrates demand triage by status; Philon refuses",
+              "Alexios begins to crack under pressure",
+              "Meat/body: Philon touches diseased flesh others won't",
+              "Scene escalation toward breaking point"
+            ]
+          },
+          {
+            "number": "IV",
+            "title": "First Stasimon—The City's Lament",
+            "word_target": 500,
+            "beats": [
+              "Funeral pyres visible day and night",
+              "Citizens abandon rites, hurl corpses onto fires",
+              "Civic order dissolving",
+              "Atmospheric—Philon not present; city as chorus",
+              "Meat/body: Burning flesh of funeral pyres"
+            ]
+          },
+          {
+            "number": "V",
+            "title": "Second Episode—The Impossible Choice",
+            "word_target": 1800,
+            "beats": [
+              "Magistrates order Philon to relocate to safety",
+              "Philon refuses: 'What meaning has a healer who abandons the dying?'",
+              "Slave woman arrives—abandoned by wealthy owners, fever-wracked",
+              "Alexios confronts Philon (morning after Lilith's dream)",
+              "Alexios's departure argument—painful, not villainous",
+              "Alexios leaves; Philon alone with choice",
+              "Decision to isolate with patient"
+            ]
+          },
+          {
+            "number": "VI",
+            "title": "Second Stasimon—The Cost of the Choice",
+            "word_target": 500,
+            "beats": [
+              "Pericles glimpsed in passing (image of man who cannot save what he loves)",
+              "Smell of unburied dead permeating city",
+              "Philon's first flicker of doubt—suppressed immediately",
+              "Atmospheric deepening of tragedy"
+            ]
+          },
+          {
+            "number": "VII",
+            "title": "Third Episode—Martyrdom",
+            "word_target": 1500,
+            "beats": [
+              "Philon isolates himself with slave woman",
+              "Last-ditch care: cooling cloths, water, whispered reassurances",
+              "She speaks—crystallizes tragedy (gratitude? question about why?)",
+              "She dies in his arms",
+              "Philon's first cough",
+              "Point of no return marked clearly"
+            ]
+          },
+          {
+            "number": "VIII",
+            "title": "Kommos—The Broken Realization",
+            "word_target": 1000,
+            "beats": [
+              "Fever delirium intercut with city's collapse outside",
+              "Visceral insight: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
+              "Incomplete understanding—arising from pain, not clarity",
+              "Too late to change anything",
+              "Recognition that martyrdom ≠ virtue"
+            ]
+          },
+          {
+            "number": "IX",
+            "title": "Exodus—Death & Seeding",
+            "word_target": 600,
+            "beats": [
+              "Philon dies quietly, surrounded by abandoned tools",
+              "Citizens carry body without ceremony",
+              "Karmic pivot crystallizes: 'There must be a way to understand virtue correctly'",
+              "Seeds Stoic investigator's obsession with moral framework",
+              "Final image of Athens continuing to burn"
+            ]
+          }
+        ],
+        "total_word_target": 9700
       },
-      {
-        "number": "VIII",
-        "title": "Kommos—The Broken Realization",
-        "word_target": 1000,
-        "beats": [
-          "Fever delirium intercut with city's collapse outside",
-          "Visceral insight: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
-          "Incomplete understanding—arising from pain, not clarity",
-          "Too late to change anything",
-          "Recognition that martyrdom ≠ virtue"
-        ]
+      "thematic_elements": {
+        "meat_body_thread": [
+          "Agora meat market in Prologos",
+          "Philon's hands on diseased bodies throughout",
+          "Burning flesh of funeral pyres in Stasimon sections",
+          "Physical deterioration in delirium",
+          "Abandoned corpses as civic collapse marker"
+        ],
+        "undermining_pattern": "Preserved through Greek restraint—assertions complicated by immediate counter-evidence or doubt",
+        "sensory_anchoring": "Physical Athens (architecture, smells, textures) before interiority; emphasis on tactile reality of plague",
+        "loaded_gestures": "Touch as moral statement; refusal to touch as condemnation",
+        "environmental_metaphor": "City's physical decay mirrors moral/spiritual collapse"
       },
-      {
-        "number": "IX",
-        "title": "Exodus—Death & Seeding",
-        "word_target": 600,
-        "beats": [
-          "Philon dies quietly, surrounded by abandoned tools",
-          "Citizens carry body without ceremony",
-          "Karmic pivot crystallizes: 'There must be a way to understand virtue correctly'",
-          "Seeds Stoic investigator's obsession with moral framework",
-          "Final image of Athens continuing to burn"
-        ]
-      }
-    ],
-    "total_word_target": 9700
-  },
-  "thematic_elements": {
-    "meat_body_thread": [
-      "Agora meat market in Prologos",
-      "Philon's hands on diseased bodies throughout",
-      "Burning flesh of funeral pyres in Stasimon sections",
-      "Physical deterioration in delirium",
-      "Abandoned corpses as civic collapse marker"
-    ],
-    "undermining_pattern": "Preserved through Greek restraint—assertions complicated by immediate counter-evidence or doubt",
-    "sensory_anchoring": "Physical Athens (architecture, smells, textures) before interiority; emphasis on tactile reality of plague",
-    "loaded_gestures": "Touch as moral statement; refusal to touch as condemnation",
-    "environmental_metaphor": "City's physical decay mirrors moral/spiritual collapse"
-  },
-  "historical_accuracy_requirements": [
-    "Plague symptoms consistent with Thucydides' description",
-    "Social hierarchy and slave status accurately portrayed",
-    "Long Walls geography and refugee dynamics",
-    "Athenian medical practice and limits",
-    "Funeral rites and their breakdown",
-    "Pericles' leadership during plague (background only—no interaction)",
-    "Language: formal but accessible classical Greek translated feel"
-  ],
-  "scenes": [
-    {
-      "section": "I",
-      "title": "Prologos—The City Before Collapse",
-      "file": "scene-01-prologos.md",
-      "word_count": 1450,
+      "historical_accuracy_requirements": [
+        "Plague symptoms consistent with Thucydides' description",
+        "Social hierarchy and slave status accurately portrayed",
+        "Long Walls geography and refugee dynamics",
+        "Athenian medical practice and limits",
+        "Funeral rites and their breakdown",
+        "Pericles' leadership during plague (background only—no interaction)",
+        "Language: formal but accessible classical Greek translated feel"
+      ],
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Prologos—The City Before Collapse",
+          "file": "scene-01-prologos.md",
+          "word_count": 1450,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "Parodos—The First Breach",
+          "file": "scene-02-parodos.md",
+          "word_count": 900,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "First Episode—The Flood",
+          "file": "scene-03-first-episode.md",
+          "word_count": 1550,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "First Stasimon—The City's Lament",
+          "file": "scene-04-first-stasimon.md",
+          "word_count": 510,
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "Second Episode—The Impossible Choice",
+          "file": "scene-05-second-episode.md",
+          "word_count": 1680,
+          "status": "draft"
+        },
+        {
+          "section": "VI",
+          "title": "Second Stasimon—The Cost of the Choice",
+          "file": "scene-06-second-stasimon.md",
+          "word_count": 520,
+          "status": "draft"
+        },
+        {
+          "section": "VII",
+          "title": "Third Episode—Martyrdom",
+          "file": "scene-07-third-episode.md",
+          "word_count": 1520,
+          "status": "draft"
+        },
+        {
+          "section": "VIII",
+          "title": "Kommos—The Broken Realization",
+          "file": "scene-08-kommos.md",
+          "word_count": 1010,
+          "status": "draft"
+        },
+        {
+          "section": "IX",
+          "title": "Exodus—Death & Seeding",
+          "file": "scene-09-exodus.md",
+          "word_count": 739,
+          "status": "draft"
+        }
+      ],
       "status": "draft"
     },
-    {
-      "section": "II",
-      "title": "Parodos—The First Breach",
-      "file": "scene-02-parodos.md",
-      "word_count": 900,
-      "status": "draft"
-    },
-    {
-      "section": "III",
-      "title": "First Episode—The Flood",
-      "file": "scene-03-first-episode.md",
-      "word_count": 1550,
-      "status": "draft"
-    },
-    {
-      "section": "IV",
-      "title": "First Stasimon—The City's Lament",
-      "file": "scene-04-first-stasimon.md",
-      "word_count": 510,
-      "status": "draft"
-    },
-    {
-      "section": "V",
-      "title": "Second Episode—The Impossible Choice",
-      "file": "scene-05-second-episode.md",
-      "word_count": 1680,
-      "status": "draft"
-    },
-    {
-      "section": "VI",
-      "title": "Second Stasimon—The Cost of the Choice",
-      "file": "scene-06-second-stasimon.md",
-      "word_count": 520,
-      "status": "draft"
-    },
-    {
-      "section": "VII",
-      "title": "Third Episode—Martyrdom",
-      "file": "scene-07-third-episode.md",
-      "word_count": 1520,
-      "status": "draft"
-    },
-    {
-      "section": "VIII",
-      "title": "Kommos—The Broken Realization",
-      "file": "scene-08-kommos.md",
-      "word_count": 1010,
-      "status": "draft"
-    },
-    {
-      "section": "IX",
-      "title": "Exodus—Death & Seeding",
-      "file": "scene-09-exodus.md",
-      "word_count": 739,
-      "status": "draft"
-    }
-  ],
-  "status": "draft"
-},
-
-
     {
       "chapter": 7,
       "id": "ch07-lilith-cp03",
@@ -697,7 +718,6 @@
       ],
       "status": "draft"
     },
-
     {
       "chapter": 8,
       "id": "ch08-rome-investigator",
@@ -1010,7 +1030,6 @@
       ],
       "status": "draft"
     },
-
     {
       "chapter": 9,
       "id": "ch09-lilith-cp04",
@@ -1196,40 +1215,119 @@
       ],
       "status": "draft"
     },
-
     {
       "chapter": 10,
       "id": "ch10-egypt-hermit",
       "title": "The Hermit",
       "type": "historical",
-      "genre": "Spiritual Drama/Magical Realism",
+      "genre": "Spiritual Drama",
       "setting": {
         "period": "Late Antiquity",
-        "location": "Egyptian Desert",
-        "year": "3rd-4th centuries CE"
+        "location": "Egyptian Desert (Scetis)",
+        "year": "c. 360 CE"
       },
-      "pov": "TBD",
+      "pov": "Abba Macarius",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "Desert Father / ascetic",
+        "name": "Abba Macarius of Scetis",
+        "occupation": "Desert Father / former rhetoric teacher",
         "status": "Developing soul"
       },
       "lilith": {
+        "incarnation": "Theodora",
+        "role": "Church dignitary accompanying Archdeacon Theophanes",
         "powers": "Growing control—stronger influence on events and people",
-        "intervention": "Twists his renunciation into spiritual pride",
-        "objective": "Make him attached to being unattached; corrupt asceticism into ego"
+        "intervention": "Feeds his pride through excessive praise via Theophanes; does not speak directly to Macarius",
+        "objective": "Make him attached to being unattached; corrupt asceticism into vanity"
       },
       "lesson": {
         "perfection": "Renunciation (nekkhamma)",
         "theme": "Letting go vs. spiritual pride",
-        "core_development": "Desert Father learning true vs. false renunciation"
+        "core_development": "Desert Father learning true vs. false renunciation through collapse"
       },
-      "backfire": "TBD",
-      "word_target": 7000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": "Lilith's excessive praise forces Macarius to taste his own hunger for recognition—creating the conditions for genuine humility through collapse rather than achievement",
+      "death_bridge": {
+        "from": "Ascetic denial and sensory starvation",
+        "to": "Deep hunger for beauty and sensation",
+        "seeds_next": "Foreshadows the Heian courtier's aesthetic obsession (Ch 12)"
+      },
+      "word_target": 9700,
+      "total_word_count": 13578,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Cell",
+          "file": "scene-01-cell.md",
+          "word_count": 1224,
+          "type": "pressure",
+          "status": "draft"
+        },
+        {
+          "number": 2,
+          "title": "The Deference",
+          "file": "scene-02-deference.md",
+          "word_count": 1368,
+          "type": "pressure",
+          "status": "draft"
+        },
+        {
+          "number": 3,
+          "title": "The Arrival",
+          "file": "scene-03-arrival.md",
+          "word_count": 1504,
+          "type": "contrast",
+          "status": "draft"
+        },
+        {
+          "number": 4,
+          "title": "The Interview",
+          "file": "scene-04-interview.md",
+          "word_count": 1647,
+          "type": "echo",
+          "status": "draft"
+        },
+        {
+          "number": 5,
+          "title": "The First Crack",
+          "file": "scene-05-first-crack.md",
+          "word_count": 1333,
+          "type": "turn",
+          "status": "draft"
+        },
+        {
+          "number": 6,
+          "title": "The Recognition Spreads",
+          "file": "scene-06-recognition.md",
+          "word_count": 1367,
+          "type": "pressure",
+          "status": "draft"
+        },
+        {
+          "number": 7,
+          "title": "The Tasting",
+          "file": "scene-07-tasting.md",
+          "word_count": 1761,
+          "type": "turn",
+          "status": "draft"
+        },
+        {
+          "number": 8,
+          "title": "The Collapse",
+          "file": "scene-08-collapse.md",
+          "word_count": 1555,
+          "type": "turn",
+          "status": "draft"
+        },
+        {
+          "number": 9,
+          "title": "The Pendulum",
+          "file": "scene-09-death.md",
+          "word_count": 1819,
+          "type": "turn/death",
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
-
     {
       "chapter": 11,
       "id": "ch11-lilith-cp05",
@@ -1269,7 +1367,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 12,
       "id": "ch12-heian-lover",
@@ -1303,7 +1400,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 13,
       "id": "ch13-lilith-cp06",
@@ -1344,7 +1440,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 14,
       "id": "ch14-inquisition-accused",
@@ -1378,7 +1473,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 15,
       "id": "ch15-lilith-cp07",
@@ -1418,7 +1512,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 16,
       "id": "ch16-renaissance-skeptic",
@@ -1452,7 +1545,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 17,
       "id": "ch17-lilith-cp08",
@@ -1491,7 +1583,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 18,
       "id": "ch18-taiping-rebel",
@@ -1524,7 +1615,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 19,
       "id": "ch19-lilith-cp09",
@@ -1563,7 +1653,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 20,
       "id": "ch20-noir-detective",
@@ -1596,7 +1685,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 21,
       "id": "ch21-lilith-cp10",
@@ -1639,7 +1727,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 22,
       "id": "ch22-contemporary-breakthrough",
@@ -1663,12 +1750,15 @@
         "powers": "Full presence—all powers at peak in human realm"
       },
       "function": "First dramatic climax; Silas breaks through despite Lilith's decade of effort; her desperation becomes visible to him, helping him see attachment clearly",
-      "fetter_focus": ["self_illusion", "doubt", "rites_rituals"],
+      "fetter_focus": [
+        "self_illusion",
+        "doubt",
+        "rites_rituals"
+      ],
       "word_target": 10000,
       "scenes": [],
       "status": "outlined"
     },
-
     {
       "chapter": 23,
       "id": "ch23-deva-celestial",
@@ -1696,7 +1786,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 24,
       "id": "ch24-future-prophet",
@@ -1724,7 +1813,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 25,
       "id": "ch25-space-explorer",
@@ -1745,7 +1833,10 @@
         "powers": "Near-peak—approaching universal consciousness manipulation",
         "crisis": "Can manipulate nearly everything except the one thing that matters; desperation giving way to something else"
       },
-      "fetter_focus": ["sensual_desire", "ill_will"],
+      "fetter_focus": [
+        "sensual_desire",
+        "ill_will"
+      ],
       "lesson": {
         "theme": "Final competition phase; her attachments becoming unbearable"
       },
@@ -1753,7 +1844,6 @@
       "scenes": [],
       "status": "needs_development"
     },
-
     {
       "chapter": 26,
       "id": "ch26-pure-abodes-awakened",
@@ -1771,20 +1861,24 @@
         "mechanism": "Their consciousnesses merge to become Maitreya, the future Buddha",
         "meaning": "The 'one Buddha per world-system' rule was true but misunderstood—there was only ever one Buddha-to-be, appearing as two until ready to unite"
       },
-      "fetter_focus": ["desire_for_fine_material_existence", "desire_for_immaterial_existence", "conceit", "restlessness", "ignorance"],
+      "fetter_focus": [
+        "desire_for_fine_material_existence",
+        "desire_for_immaterial_existence",
+        "conceit",
+        "restlessness",
+        "ignorance"
+      ],
       "word_target": 8000,
       "scenes": [],
       "status": "needs_development"
     }
   ],
-
   "chapter_type_legend": {
     "contemporary": "Present-day Manchester; Silas and/or Lilith POV; literary voice",
     "historical": "Past life; avatar POV; genre-specific voice adaptation",
     "lilith_contemporary": "Present-day Manchester; Lilith POV; tracks corresponding historical chapter",
     "cosmic": "Post-stream-entry realms; transcendent voice; syntax may fragment"
   },
-
   "word_count_summary": {
     "act_1": 8000,
     "act_2_historical": 80000,
