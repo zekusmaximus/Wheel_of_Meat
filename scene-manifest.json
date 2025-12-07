@@ -1364,52 +1364,59 @@
       },
       "backfire_awareness": "Visible irony building; frustration that interventions aren't slowing progress",
       "word_target": 5500,
+      "total_word_count": 6150,
       "scenes": [
         {
           "section": "I",
           "title": "The Demonstration Session",
           "file": "scene-01-demonstration.md",
           "word_target": "900-1,100",
-          "status": "outline"
+          "word_count": 1150,
+          "status": "draft"
         },
         {
           "section": "II",
           "title": "Rehearsal Dinner",
           "file": "scene-02-rehearsal.md",
           "word_target": "1,000-1,200",
-          "status": "outline"
+          "word_count": 1200,
+          "status": "draft"
         },
         {
           "section": "III",
           "title": "Professional Life",
           "file": "scene-03-professional.md",
           "word_target": "700-900",
-          "status": "outline"
+          "word_count": 900,
+          "status": "draft"
         },
         {
           "section": "IV",
           "title": "Tracking—Macarius's Death + Beat 5",
           "file": "scene-04-tracking.md",
           "word_target": "1,300-1,500",
+          "word_count": 1400,
           "function": "CLIMAX",
-          "status": "outline"
+          "status": "draft"
         },
         {
           "section": "V",
           "title": "Finding Heian Japan",
           "file": "scene-05-heian.md",
           "word_target": "600-800",
-          "status": "outline"
+          "word_count": 900,
+          "status": "draft"
         },
         {
           "section": "VI",
           "title": "Closing",
           "file": "scene-06-closing.md",
           "word_target": "400-500",
-          "status": "outline"
+          "word_count": 600,
+          "status": "draft"
         }
       ],
-      "status": "scaffolded"
+      "status": "draft"
     },
     {
       "chapter": 12,
