@@ -173,6 +173,7 @@ A rival bodhisattva, very close to Buddhahood, who believes only one Buddha can 
 - Can observe past lives but cannot change past events
 - Can influence circumstances and people, not Silas directly
 - Cannot force his choices or negate his accumulated merit
+- Cannot retroactively grant avatars her insight—she can only nudge within their cultural and cognitive constraints
 - Her interventions have karmic consequences for herself
 - Power grows from observation (Ch 2-3) → influence (Ch 4-11) → manifestation (Ch 12-19) → full presence (Ch 20-22) → cosmic scale (Ch 23-26)
 
@@ -292,13 +293,15 @@ She shows mastery of the fetter Silas struggles with in the corresponding histor
 - What intervention she attempts (matching her power level)
 - What she tracks forward to (next avatar)
 
-### 3. Physical Cost
+### 3. Reincarnation Awareness Constraints
 
-Tracking and intervention have bodily consequences:
+Tracking and intervention are limited by the gap between Lilith's present clarity and the avatar's capacity:
 
-- Early chapters: Headaches, exhaustion
-- Middle chapters: Days of recovery after manifestation
-- Late chapters: Full incarnation “like dying and being born”
+- **Early chapters (CP-01–02):** Grainy awareness—she sees coarse karmic patterns, not moment-to-moment experience; interventions are almost blind pokes at structural conditions.
+- **Middle chapters (CP-03–05):** Scene-level access—she can drop into specific episodes and dreamscapes, but cannot share the avatar's interiority or override their interpretive frame.
+- **Late chapters (CP-06–10):** Near-continuous access—she can inhabit extended stretches but must speak through their habits and delusions; forcing insight produces backfire.
+
+Each interference deepens her attachment to being the one who steers his stream—this is the karmic side-effect on *her* path, not physical strain.
 
 ### 4. Professional Life Marker
 
@@ -325,7 +328,7 @@ See `contemporary-period-rules.md` for voice and setting guidance.
 
 The agent must NOT independently create or modify:
 
-- Reincarnation/rebirth mechanics
+- Reincarnation/rebirth mechanics (no cross-life memory for avatars; Lilith's present awareness can observe but cannot retroactively teach; she nudges within the avatar's existing framework or accepts the mismatch)
 - Lilith’s powers or constraints beyond what’s documented
 - Fetter progression or breaking sequence
 - New chapters or structural changes

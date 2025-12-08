@@ -224,11 +224,12 @@ Before marking any Lilith scene complete, verify:
 - [ ] Patient/colleague parallel present (they describe her situation)
 - [ ] Physical tell undercuts her self-assessment
 - [ ] Power level matches lilith-chapter-manifest.json
-- [ ] Physical cost of tracking shown
+- [ ] Awareness constraints of tracking shown—demonstrate what she can and cannot perceive or express into the corresponding past life
 - [ ] Professional life status matches progression
 - [ ] Notebook motif present
 - [ ] Maitreya foreshadowing: 0-2 subtle moments only
 - [ ] Tracking connects to corresponding historical chapter
+- [ ] Clarity-collision beat present—at least one moment where her contemporary understanding clashes with the avatar's limited frame (e.g., she sees pride-as-virtue while the avatar experiences righteous anger; her attempted exploitation backfires)
 
 ### Contemporary Dual Chapter Revision Checklist (Ch 1, 22)
 

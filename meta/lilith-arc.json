@@ -6,14 +6,12 @@
     "cosmic_constraint": "Only one fully enlightened Buddha can exist in any given world-system at a time; if Silas achieves Buddhahood first, Lilith's eons of work are nullified",
     "spiritual_status": "Non-Returner (has broken 5 of 10 fetters; final obstacle is attachment to being 'the one who achieves Buddhahood')"
   },
-  
   "motivation": {
     "surface": "In her current incarnation as psychiatrist Lilith Azami, she may rationalize her actions as 'helping' Silas or 'testing' him",
     "true": "Desperate self-preservation of her path to enlightenment; she must derail Silas before he achieves what she has worked lifetimes to attain",
     "relationship_to_silas": "Rival, not enemy—she doesn't hate him, but his success means her failure. This may include complex feelings: respect for a fellow traveler, resentment at the cosmic unfairness, perhaps even attraction to the very qualities that make him a threat",
     "tragic_irony": "Her grasping at Buddhahood—the very desperation driving her interference—is itself the attachment that prevents her enlightenment. She cannot see that releasing her claim would free her."
   },
-  
   "power_progression": [
     {
       "historical_chapter": 2,
@@ -80,7 +78,7 @@
       "historical_avatar": "Heian courtier",
       "level": "Brief manifestation",
       "capabilities": "Can appear momentarily in past lives; first physical presence",
-      "limitations": "Appearances brief and draining; cannot sustain presence; requires recovery",
+      "limitations": "Appearances constrained by the avatar's capacity for perception; she can be seen only in forms they can interpret (courtier, spirit, dream-figure)",
       "intervention": "Appears as object of desire to bind him through sensual attachment",
       "objective_this_chapter": "Her first physical appearance—she manifests as an object of desire. The Heian court's aesthetic obsession with beauty makes this the ideal battleground. If she can make him crave her across lifetimes, she wins.",
       "backfire": "TBD",
@@ -92,7 +90,7 @@
       "historical_avatar": "Inquisition accused",
       "level": "Sustained presence",
       "capabilities": "More sustained physical presence in past; extended manifestations possible",
-      "limitations": "Still time-limited; appearance may be unstable; requires significant recovery",
+      "limitations": "Must speak through the avatar's vocabulary of saints and demons; her contemporary concepts have no direct translation",
       "intervention": "Appears as inquisitor or fellow victim urging vengeance",
       "objective_this_chapter": "Cultivate his hatred. The Inquisition provides the perfect crucible—if she can make him hate his persecutors deeply enough, ill-will becomes a fetter he cannot break.",
       "backfire": "Suffering becomes crucible for releasing ill-will",
@@ -180,7 +178,6 @@
       "emotional_state": "Release. Recognition. Union."
     }
   ],
-  
   "arc_summary": {
     "act_2_historical": "Chapters 2, 4, 6, 8, 10, 12, 14, 16, 18, 20—Silas's past lives; Lilith's interventions escalate from observation to full manifestation",
     "act_2_lilith": "Chapters 3, 5, 7, 9, 11, 13, 15, 17, 19, 21—Lilith's contemporary pursuit; powers grow; professional life declines; decade of tracking",
@@ -188,13 +185,11 @@
     "chapters_23_25": "Post-failure recalibration; the race to Buddhahood rather than prevention of his progress",
     "chapter_26": "Resolution: their souls merge to become Maitreya, the future Buddha. The competition was illusory—they were two aspects of the same being all along."
   },
-  
   "physical_description": {
     "canonical_face": "Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face. Left eye deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow the eye appears completely black).",
     "first_full_manifestation": "Chapter 8 as Marcia",
     "reader_recognition_starts": "Chapter 8 onward (retroactive hints possible in earlier chapters only via shadow/silhouette/description-from-afar)"
   },
-
   "appearance_across_lives": {
     "consistency": "Same face across all incarnations—a beautiful, dark-haired woman. Silas never consciously recognizes her, but readers will learn to spot her.",
     "recognition_markers": [
@@ -204,7 +199,6 @@
     ],
     "reader_experience": "By Chapter 12/13 (first physical manifestation), readers should recognize her immediately even though the avatar does not."
   },
-  
   "intervention_paradox": {
     "description": "Every intervention backfires. Her attempts to derail him become the friction that forges his progress.",
     "examples": [
@@ -215,14 +209,12 @@
     ],
     "thematic_meaning": "Opposition is necessary for enlightenment. Lilith is not the enemy of his awakening—she is its unwitting catalyst."
   },
-  
   "resolution": {
     "type": "Merger into Maitreya",
     "description": "Their souls merge to become Maitreya, the future Buddha prophesied in Buddhist texts. The 'one Buddha per world-system' rule was never the obstacle she thought—they were always two halves of the same future Buddha.",
     "cosmic_irony": "Her eons of opposition were necessary. Without her resistance, he could not have developed. Without his progress, she could not have grown. They needed each other.",
     "maitreya_references": "Buddhist texts prophesy Maitreya as the next Buddha who will appear when the dharma has been forgotten. The novel implies this Buddha is born from the union of two bodhisattvas who thought they were rivals."
   },
-  
   "key_questions_resolved": [
     "What is Lilith's true nature? A rival bodhisattva, very close to enlightenment, who sees Silas as an existential threat.",
     "Why does she oppose Silas's enlightenment specifically? The one-Buddha-per-world-system rule means his success nullifies her eons of work.",
@@ -231,28 +223,35 @@
     "Same face across lives? Yes—readers will recognize her before Silas does.",
     "Do her interventions work? Never. They always backfire, becoming the catalyst for his growth."
   ],
-  
   "questions_still_open": [
     "Specific physical description of her consistent appearance",
     "Exact backfire mechanisms for chapters not yet developed",
     "The exact mechanism of the merger in Chapter 26"
   ],
-
-  "physical_cost_progression": [
-    "CP-01: Headaches from sustained focus",
-    "CP-02 through CP-05: Increasing exhaustion, nausea",
-    "CP-06 through CP-09: Manifestation drains her for days; colleagues notice decline",
-    "CP-10: Full incarnation feels like dying and being born simultaneously"
+  "awareness_access_progression": [
+    {
+      "tier": "Grainy Awareness",
+      "applies_to": "CP-01 through CP-02 (Ka, Chandra)",
+      "description": "She perceives only coarse karmic patterns, not moment-to-moment experience; interventions are almost blind pokes at structural conditions."
+    },
+    {
+      "tier": "Scene-Level Access",
+      "applies_to": "CP-03 through CP-05 (Athens, Rome, Egypt Hermit)",
+      "description": "She can drop into specific episodes and dreamscapes, but cannot fully share the avatar's interiority or override their interpretive frame."
+    },
+    {
+      "tier": "Near-Continuous Access",
+      "applies_to": "CP-06 through CP-10 (Heian through Noir)",
+      "description": "She can inhabit extended stretches of their life but must still speak through their habits and delusions; any attempt to force a different understanding snaps back into backfire."
+    }
   ],
-
   "professional_decline": [
-    "CP-01 through CP-03: Thriving, building reputation",
-    "CP-04 through CP-06: Colleagues notice preoccupation",
-    "CP-07 through CP-08: Considering leave; patients affected",
-    "CP-09: Partial leave",
-    "CP-10: Full leave; decade-long pursuit has consumed her life"
+    "CP-01 through CP-03: Thriving; the tracking is a side project that enhances her clinical intuition",
+    "CP-04 through CP-06: Colleagues notice preoccupation; she is choosing the cosmic pursuit over mundane responsibilities",
+    "CP-07 through CP-08: Considering leave; patients matter less than the mission",
+    "CP-09: Partial leave; her human life is a trivial side-quest relative to the game with Silas",
+    "CP-10: Full leave; a decade of monomaniacal focus has rotted everything else"
   ],
-
   "maitreya_foreshadowing": [
     "Moments of hesitation before interventions (she doesn't understand why)",
     "Inexplicable pain when she causes him suffering",
