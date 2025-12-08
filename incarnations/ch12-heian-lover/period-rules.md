@@ -135,3 +135,28 @@ Language Rules
 	•	No anachronistic vocabulary (e.g., “love affair,” “emotionally manipulative,” “intuition”).
 	•	Use Japanese terms sparingly and only culturally universal ones (e.g., waka, shōji, sudare).
 	•	Gothic tone emerges from atmosphere and psychology, not supernatural elements.
+
+⸻
+
+## Voice Calibration: Gothic-Heian Fusion
+
+The challenge is delivering Gothic dread through Heian restraint. The horror must emerge from what is *not* said, from formal surfaces concealing rot.
+
+**Poetry as Weapon**
+- Heian communication runs through verse. Gothic menace appears when poetry is *too* perfect, or when it says more than the speaker seems to know.
+- The voice shift in Lady Hotaru's recitation should feel like someone else speaking through her—achieved through sudden fluency, unfamiliar vocabulary, or images that don't match her supposed isolation.
+
+**Environmental Menace Through Restraint**
+- Avoid Gothic-purple prose ("the shadows writhed with malevolence"). Instead, let wrongness accumulate through precise, restrained observation.
+- Example: "The plum blossoms had not fallen. It was the ninth month." The reader supplies the dread.
+- Silence is a tool. Note what sounds are *absent* (no crickets, no wind, no servants murmuring).
+
+**The Unsaid as Horror**
+- Kaoru's terror in The Glimpse should not be explained. Describe only: the Attendant's stillness, the changed posture, the clinical tilt of the head. Let his physical reaction (freezing, unsteady breath, backing away) carry the meaning.
+- When the Attendant "wakes" and flees, do not interpret. Let the rupture stand.
+
+**Formal Register Under Pressure**
+- As the storm destroys the illusion, Kaoru's interiority may fragment slightly—shorter sentences, interrupted thoughts—but never into modern colloquialism. The formal shell cracks; it does not disappear.
+
+**The Inheritance from Ka and Verinus**
+- This avatar carries forward: the observational patience (he watches before acting), the tactile engagement with the world (his hands on his cup, on bark paper, on Hotaru's dying body), and the fatal tendency to stay when he should leave.

@@ -1423,33 +1423,127 @@
       "id": "ch12-heian-lover",
       "title": "The Lover",
       "type": "historical",
-      "genre": "Gothic Romance",
+      "genre": "Heian Gothic Romance",
       "setting": {
         "period": "Medieval",
-        "location": "Heian Period Japan",
-        "year": "794-1185 CE"
+        "location": "Heian Period Japan (Kyoto)",
+        "year": "c. 1000 CE"
       },
-      "pov": "TBD",
+      "pov": "Fujiwara no Kaoru",
       "avatar": {
-        "name": "[TBD]",
+        "name": "Fujiwara no Kaoru",
         "occupation": "Court noble / poet",
-        "status": "Developing soul"
+        "status": "Developing soul; consumed by aesthetic obsession",
+        "recognition_markers": [
+          "Traces the rim of cups/fans when anxious",
+          "Compulsive need to 'rescue' beauty from obscurity"
+        ]
       },
       "lilith": {
-        "powers": "Brief manifestation—first physical appearance; draining, time-limited",
-        "intervention": "Appears as object of desire to bind him through sensual attachment",
-        "objective": "The Heian court's aesthetic obsession with beauty makes this the ideal battleground; if she can make him crave her across lifetimes, she wins"
+        "identity": "The Attendant—a possessed servant woman (Lilith's first vessel possession attempt)",
+        "powers": "Vessel Possession (Low Agency)—operates through subconscious compulsion; environmental stagecraft; rare moments of full lucidity",
+        "intervention": "Possesses the Attendant to stage-manage a 'perfect romance' around Lady Hotaru (an aging, ill noblewoman puppeteered as 'timeless beauty'); creates a stasis field where nothing decays",
+        "objective": "To freeze time and bind Kaoru to the realm of desire by removing the impermanence that makes beauty meaningful"
       },
       "lesson": {
         "perfection": "Equanimity (upekkhā)",
-        "theme": "Beauty, desire, and detachment",
+        "theme": "Beauty, impermanence (mono no aware), and the acceptance of decay",
         "fetter_focus": "Sensual desire (kāma-rāga)",
-        "core_development": "Court romance with dark undertones; grappling with attachment to pleasure"
+        "core_development": "Moving from an addiction to artificial perfection toward an acceptance of the broken, dying world"
       },
-      "backfire": "TBD",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Create an addictive, eternal paradise",
+        "actual_result": "The static perfection proves monstrous; the lack of decay repels Kaoru, forcing him to realize that beauty requires mortality to be real"
+      },
+      "death_bridge": {
+        "description": "Dies of exposure in the wreckage of the estate, holding the dying Lady Hotaru; rejects the illusion of safety",
+        "seeds_next": "The desire for sensation burns out, leaving a need to endure reality without dressing it up (Patience/Khanti for the Inquisition)"
+      },
+      "word_target": 9000,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Arrival",
+          "type": "The Hook + Crossing",
+          "word_target": 1800,
+          "beats": [
+            "Receives poem on bark paper at dull poetry contest",
+            "Traces rim of cup (Recognition Marker)",
+            "Arrives at ruined Seiryō Pavilion",
+            "Sees the Attendant scrubbing floors until bleeding",
+            "Helper compulsion triggered"
+          ],
+          "status": "outlined"
+        },
+        {
+          "number": 2,
+          "title": "The Voice Behind the Screen",
+          "type": "The Temptation",
+          "word_target": 1400,
+          "beats": [
+            "Meeting Lady Hotaru (screened)",
+            "Lilith puppeteers the voice/poetry",
+            "Kaoru falls for the constructed image",
+            "Incense masks the smell of sickness"
+          ],
+          "status": "outlined"
+        },
+        {
+          "number": 3,
+          "title": "The Stagnant Garden",
+          "type": "The Obsession",
+          "word_target": 1500,
+          "beats": [
+            "Weeks pass; unnatural spring in autumn",
+            "Attendant's manic maintenance of stasis",
+            "Atmosphere becomes stifling/airless",
+            "Kaoru's body begins to fail"
+          ],
+          "status": "outlined"
+        },
+        {
+          "number": 4,
+          "title": "The Glimpse",
+          "type": "The Assessment (Lilith's moment of lucidity)",
+          "word_target": 1100,
+          "beats": [
+            "Kaoru catches the Attendant unaware, perfectly still",
+            "Lilith looks out through the vessel's eyes",
+            "Recognition of the Face (Widow's Peak, Green Crescent)",
+            "Clinical detachment terrifies him; she wakes and flees"
+          ],
+          "status": "outlined"
+        },
+        {
+          "number": 5,
+          "title": "The Typhoon",
+          "type": "The Climax (Storm + Reveal)",
+          "word_target": 2000,
+          "beats": [
+            "Storm strikes Kyoto; Kaoru rushes to estate",
+            "Physical violence destroys the illusion",
+            "Attendant's futile battle against the wind",
+            "Tree crushes veranda; screens blow in",
+            "Lady Hotaru exposed as sick/elderly",
+            "Kaoru chooses the reality over the lie"
+          ],
+          "status": "outlined"
+        },
+        {
+          "number": 6,
+          "title": "The Morning",
+          "type": "Exodus (Death + Insight)",
+          "word_target": 1200,
+          "beats": [
+            "Post-storm clarity; Attendant vanished",
+            "Kaoru holds dying Hotaru in the mud",
+            "Final insight: 'It is beautiful because it is dying'",
+            "Death by exposure; seeds Patience for next life"
+          ],
+          "status": "outlined"
+        }
+      ],
+      "status": "outlined"
     },
     {
       "chapter": 13,
