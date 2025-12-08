@@ -12,13 +12,20 @@
   "psychology": {
     "core_flaw_manifestation": "Compulsive Longing. He believes he must 'rescue' beauty from time. He enters the Gothic plot thinking he is the Savior; he learns he is the Victim.",
     "fatal_flaw": "Aesthetic Obsession. He values the intensity of feeling over the truth of the object.",
-    "strengths": ["Perception", "Courage in the face of the uncanny", "Deep empathy"],
-    "weaknesses": ["Morbid fascination with decay", "Constitutional frailty"]
+    "strengths": [
+      "Perception",
+      "Courage in the face of the uncanny",
+      "Deep empathy"
+    ],
+    "weaknesses": [
+      "Morbid fascination with decay",
+      "Constitutional frailty"
+    ]
   },
   "chapter_arc": {
     "opening_state": "Bored by the safety of the court.",
     "inciting_incident": "Receives the poem from the Ruined Estate (The Summons).",
-    "climax": "The Typhoon Night. Confronting the physical manifestation of Lilith.",
+    "climax": "The Typhoon Night. Confronting the mysterious woman.",
     "closing_state": "Dying, but cured of the illusion that beauty exists 'out there.'"
   },
   "lesson_development": {
@@ -26,5 +33,5 @@
     "what_learned": "The Gothic truth: That which dazzles is often a trap. True peace is internal.",
     "death_seeds_next": "The withdrawal into the self seeds the Patience (Khanti) needed for the Inquisition."
   },
-  "notes": "Lilith is 'Lady Hotaru.' She is the Bluebeard figure; Kaoru is the investigator."
+  "notes": "Lilith is an attendant of 'Lady Hotaru.' She whispers to the the Bluebeard figure; Kaoru is the investigator."
 }
