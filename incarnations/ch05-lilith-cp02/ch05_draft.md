@@ -176,9 +176,9 @@ Not literally—nothing broke—but the sensation was exactly that: a tension re
 
 She wrenched herself backward so violently that the tracking shattered.
 
-One moment she was suspended in ancient Pataliputra. The next she was on her floor in Manchester, and the floor was tilting, and her hands were scrabbling against cold boards, and something was very wrong with her body.
+One moment she was suspended in ancient Pataliputra. The next she was on her floor in Manchester, and the floor was tilting, and her hands were scrabbling against cold boards, and something was very wrong.
 
-Nausea hit first—not the gradual discomfort of previous sessions but a wave that doubled her over, her forehead pressed to the floor, her breath coming in ragged gasps. Then the tremors, starting in her hands and spreading until her whole body shook. Then the headache, blooming behind her eyes like a wound opening from the inside.
+The gradual discomfort of previous sessions returned as she pondered, a wave that doubled her over, her forehead pressed to the floor, her breath coming in ragged gasps.
 
 She had done something.
 
@@ -218,7 +218,7 @@ Her pen touched paper.
 
 *March 15. Tracking session: Chandra, continued.*
 
-*Duration: approximately 3 hours. Physical cost: severe. Nausea, tremor, headache persisting. Full recovery time unknown.*
+*Duration: approximately 3 hours. Cognitive cost: severe. focused attention appears to collapse unresolved choice-points; mechanism unclear, effect unintended.*
 
 *Observation: subject’s pattern shows significant development from Ka iteration. Sophisticated cognitive structures; systematic approach to resource distribution. Core lesson (giving of self vs. giving of resources) remains incomplete.*
 

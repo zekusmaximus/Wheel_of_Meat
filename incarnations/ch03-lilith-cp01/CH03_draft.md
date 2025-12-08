@@ -146,7 +146,7 @@ She recognized it. The recognition was uncomfortable, a mirror she had not asked
 
 But that was for later. For now, there was only the question that had driven her here: could she follow the thread forward? Could she track Ka’s pattern through death to rebirth, the way she had tracked Margaret to the toddler in Leeds?
 
-She returned to the floor, to the lamp’s dim circle, to the practice she had never named. The headache would get worse before it got better. She did not care.
+She returned to the floor, to the lamp’s dim circle, to the practice she had never named. The interpretive work would get more difficult. She did not care.
 
 -----
 
@@ -182,7 +182,7 @@ He would be an administrator, she saw. A keeper of records. The merchant’s son
 
 The vision thinned. Lilith could hold it no longer—the strain of sustained tracking pulled at something behind her eyes, threatened to collapse the perception entirely. She withdrew carefully, following her own thread back to the body waiting in Manchester, the rain-streaked window and the cold tea and the lamp’s faithful glow.
 
-Her hands were shaking. She stood, walked to the kitchen, drank water directly from the tap. The headache had settled into a dull, persistent pressure at her temples, the kind that would not ease for days.
+Her hands were shaking. She stood, walked to the kitchen, drank water directly from the tap. The effort had settled into a dull, persistent pressure at her temples, inherent price of the practice.
 
 She had done it. The technique worked on others the way it worked on herself—follow the thread, trace the pattern, track the consciousness through death to rebirth. Ka to Chandra, separated by hundreds of thousands of years but connected by something that survived the passage.
 
