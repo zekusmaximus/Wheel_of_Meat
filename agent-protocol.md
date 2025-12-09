@@ -107,6 +107,7 @@ Before beginning any task, identify which mode applies. Do not mix modes within 
 - Run all verification passes (see below)
 - Update `scene-manifest.json` with status and word count
 - Update `novel-progress.txt` with session summary
+- If completing a chapter: add brief synopsis to `novel-progress.txt`
 
 -----
 
@@ -295,7 +296,7 @@ CONTINUITY CHECK
 1. Verify patient/colleague parallel present (they describe her situation)
 1. Verify physical tell undercuts her self-assessment
 1. Verify power level matches `lilith-chapter-manifest.json`
-1. Verify physical cost of tracking/intervention shown
+1. Verify attentional/karmic cost shown (time lost, distraction, deepening attachment—NOT physical symptoms)
 1. Verify professional life status matches progression
 1. Verify notebook/documentation motif present
 1. Count Maitreya foreshadowing moments (should be 0-2, subtle)
@@ -309,7 +310,7 @@ LILITH CHAPTER VERIFICATION
 - [ ] Patient/colleague parallel present
 - [ ] Physical tell undercuts self-assessment
 - [ ] Power level matches chapter: [level]
-- [ ] Physical cost shown
+- [ ] Attentional/karmic cost shown (not physical)
 - [ ] Professional life status: [matches / needs adjustment]
 - [ ] Notebook motif present
 - [ ] Maitreya foreshadowing: [count] moments

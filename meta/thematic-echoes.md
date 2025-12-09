@@ -33,12 +33,12 @@ Track how the meat/body/flesh theme appears in each chapter:
 
 |Chapter|Title              |Her Age|Manifestation                                  |Notes                               |
 |-------|-------------------|-------|-----------------------------------------------|------------------------------------|
-|3      |The Discovery      |25     |Clinical body; body as instrument of perception|First tracking; physical cost begins|
+|3      |The Discovery      |25     |Clinical body; body as instrument of perception|First tracking; time-cost begins    |
 |5      |The Ledger’s Shadow|26     |Professional body; body in service             |First intervention                  |
 |7      |TBD                |27     |Body and sleep; dream-work                     |Power through dreams                |
-|9      |TBD                |28     |Body under strain; headaches                   |Circumstance manipulation           |
-|11     |TBD                |29     |Body and professional decline                  |Growing exhaustion                  |
-|13     |TBD                |30     |Body manifesting; first physical appearance    |Draining cost of manifestation      |
+|9      |TBD                |28     |Body still; hours lost to tracking             |Circumstance manipulation           |
+|11     |TBD                |29     |Body and professional decline                  |Growing distraction                 |
+|13     |TBD                |30     |Body manifesting; first physical appearance    |Attentional cost of manifestation   |
 |15     |TBD                |31     |Body sustained across time                     |Extended presence                   |
 |17     |TBD                |32     |Body in conversation; extended interaction     |Professional life suffering         |
 |19     |TBD                |33     |Body at breaking point                         |Near-full manifestation             |
@@ -219,5 +219,5 @@ For quick reference when checking thematic requirements:
 |-----------------------|----------------------------------|-------------------------------------------------------|
 |Contemporary (Dual POV)|1, 22                             |Modern flesh; intimacy; breakthrough                   |
 |Historical             |2, 4, 6, 8, 10, 12, 14, 16, 18, 20|Period-specific body; death bridge; Lilith intervention|
-|Lilith Contemporary    |3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Clinical body; physical cost; demonstration; tracking  |
+|Lilith Contemporary    |3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Clinical body; attentional cost; demonstration; tracking|
 |Cosmic                 |23, 24, 25, 26                    |Transcendence of body; merger; resolution              |

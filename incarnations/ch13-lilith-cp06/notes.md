@@ -14,7 +14,7 @@ Following Chapter 12 (Heian Courtier - Japan). Lilith is back in modern Manchest
 ## Limitations
 - Consciousness is suppressed; she operates mostly on instinct.
 - Moments of full lucidity are rare and fleeting.
-- The physical strain on the vessel is immense.
+- The attentional strain of maintaining the vessel is immense—hours vanish, focus narrows.
 
 ## Intervention
 Constructs a "perfect romance" by stage-managing the environment and puppeteering Lady Hotaru. She attempts to trap Kaoru in a world where beauty never fades, believing this will bind him to the realm of desire.
@@ -26,7 +26,7 @@ To freeze time. By removing decay from the equation, she hopes to make his attac
 Static perfection proves monstrous to a human soul. The lack of decay (*mono no aware*) repels Kaoru rather than binding him. He realizes that beauty requires impermanence, pushing him toward **Equanimity** and the strength to endure reality (**Patience**) rather than escaping it.
 
 ## Emotional State
-Exhausted and disoriented. The physical cost of maintaining the vessel is high, and she is learning that "giving him what he wants" is as ineffective as denying it.
+Exhausted and disoriented. The attentional cost of maintaining the vessel is high—hours vanish, focus narrows—and she is learning that "giving him what he wants" is as ineffective as denying it.
 
 ## Notes
 
@@ -46,7 +46,7 @@ Exhausted and disoriented. The physical cost of maintaining the vessel is high, 
 * Her intervention accelerated his lesson: he moved from **Desire** to **Equanimity** much faster because the alternative (her artificial paradise) was terrifying.
 
 **Implication for Lilith:**
-* She is drained. The physical cost of maintaining a vessel, even poorly, is high.
+* She is drained. The attentional cost of maintaining a vessel, even poorly, is high—hours disappear, her contemporary life fades to background noise.
 * She sees that "giving him what he wants" (beauty) works no better than "denying him what he wants" (food/safety in previous lives).
 * This failure pushes her toward the darker, more direct approach of the Inquisition (Chapter 14/15)—if pleasure won't bind him, perhaps **pain** will.
 

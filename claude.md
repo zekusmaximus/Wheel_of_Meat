@@ -12,7 +12,9 @@ Read this file to understand voice, character, and theme. Read `agent-protocol.m
 
 ## Project Overview
 
-A literary novel following one soul’s journey toward enlightenment across sixteen lifetimes, spanning 300,000 years. Each chapter operates in a distinct historical period and genre (survival horror, political thriller, noir, cosmic fantasy, etc.) while maintaining unified voice patterns and thematic throughlines.
+A literary novel following one soul’s journey toward enlightenment across ten historical lives, spanning 300,000 years. Each chapter operates in a distinct historical period and genre (survival horror, political thriller, noir, cosmic fantasy, etc.) while maintaining unified voice patterns and thematic throughlines.
+
+**Current Progress (December 2025):** Chapters 1-12 are drafted (~73,500 words). Four historical avatars remain undeveloped (Ch 14, 16, 18, 20).
 
 **Core Premise:** Philosophy professor Silas Pahlavan approaches stream-entry while psychiatrist Lilith Azami—a rival bodhisattva who appears with the same face across all his past lives—attempts to derail his progress. Her interventions always backfire, becoming the friction that forges his growth. They ultimately merge to become Maitreya, the future Buddha. The competition was illusory; they were always two aspects of the same being.
 
@@ -137,7 +139,7 @@ See `contemporary-period-rules.md` for Manchester-specific voice and setting gui
 
 ### Silas / The Soul
 
-One consciousness across sixteen lives, working toward enlightenment. No memory crosses between lives; continuity is causal, not substantial.
+One consciousness across ten historical lives, working toward enlightenment. No memory crosses between lives; continuity is causal, not substantial.
 
 **Core Flaw:** Compulsive helping—attachment to being the one who fixes, saves, guides others. This manifests differently in each life but is always present. The helper identity reinforces the sense of separate self, which is the actual obstacle.
 
@@ -175,7 +177,7 @@ A rival bodhisattva, very close to Buddhahood, who believes only one Buddha can 
 - Cannot force his choices or negate his accumulated merit
 - Cannot retroactively grant avatars her insight—she can only nudge within their cultural and cognitive constraints
 - Her interventions have karmic consequences for herself
-- Power grows from observation (Ch 2-3) → influence (Ch 4-11) → manifestation (Ch 12-19) → full presence (Ch 20-22) → cosmic scale (Ch 23-26)
+- Power grows from observation (Ch 3) → remote influence (Ch 5) → dream influence (Ch 7) → circumstance manipulation (Ch 9) → growing control (Ch 11) → vessel possession (Ch 13+) → full manifestation (Ch 20-22) → cosmic scale (Ch 23-26)
 
 **Her Arc Across Act II:**
 The 10 Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) show her contemporary pursuit:
@@ -199,28 +201,28 @@ The 10 Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) show her contemporar
 
 ### Act II: The Wheel Turns (Alternating Structure)
 
-|Ch|Title              |Type      |Avatar/Focus        |Lesson/Focus                      |Status   |
-|--|-------------------|----------|--------------------|----------------------------------|---------|
-|2 |Blood              |Historical|Ka (300,000 BCE)    |Cooperation/Mettā                 |DRAFTED  |
-|3 |The Discovery      |Lilith    |Lilith age 25       |Tracks Ka; first discovery        |DRAFTED  |
-|4 |The Ledger         |Historical|Chandra (268 BCE)   |Generosity/Dāna                   |outlined |
-|5 |The Ledger’s Shadow|Lilith    |Lilith age 26       |Tracks Chandra; first intervention|needs_dev|
-|6 |The Philosopher    |Historical|TBD (Athens 450 BCE)|Wisdom/Paññā                      |needs_dev|
-|7 |TBD                |Lilith    |Lilith age 27       |Dream influence                   |needs_dev|
-|8 |The Investigator   |Historical|TBD (Rome 100 CE)   |Virtue/Sīla                       |needs_dev|
-|9 |TBD                |Lilith    |Lilith age 28       |Circumstance manipulation         |needs_dev|
-|10|The Hermit         |Historical|TBD (Egypt 350 CE)  |Renunciation/Nekkhamma            |needs_dev|
-|11|TBD                |Lilith    |Lilith age 29       |Growing control                   |needs_dev|
-|12|The Lover          |Historical|TBD (Heian 1000 CE) |Equanimity/Upekkhā                |needs_dev|
-|13|TBD                |Lilith    |Lilith age 30       |First manifestation               |needs_dev|
-|14|The Accused        |Historical|TBD (Spain 1485)    |Patience/Khanti                   |needs_dev|
-|15|TBD                |Lilith    |Lilith age 31       |Sustained presence                |needs_dev|
-|16|The Skeptic        |Historical|TBD (France 1585)   |Truthfulness/Sacca                |needs_dev|
-|17|TBD                |Lilith    |Lilith age 32       |Extended interaction              |needs_dev|
-|18|The Rebel          |Historical|TBD (China 1855)    |Determination/Adhiṭṭhāna          |needs_dev|
-|19|TBD                |Lilith    |Lilith age 33       |Near-full manifestation           |needs_dev|
-|20|The Detective      |Historical|TBD (USA 1930s)     |Perseverance/Viriya               |needs_dev|
-|21|The Decision       |Lilith    |Lilith age 34       |Full manifestation; incarnates    |needs_dev|
+|Ch|Title                     |Type      |Avatar/Focus           |Lesson/Focus                      |Status   |
+|--|--------------------------|----------|-----------------------|----------------------------------|---------|
+|2 |Blood                     |Historical|Ka (300,000 BCE)       |Cooperation/Mettā                 |DRAFTED  |
+|3 |The Discovery             |Lilith    |Lilith age 25          |Tracks Ka; first discovery        |DRAFTED  |
+|4 |The Ledger                |Historical|Chandra (268 BCE)      |Generosity/Dāna                   |DRAFTED  |
+|5 |The Ledger's Shadow       |Lilith    |Lilith age 26          |Tracks Chandra; first intervention|DRAFTED  |
+|6 |The Philosopher           |Historical|Philon (Athens 430 BCE)|Wisdom/Paññā                      |DRAFTED  |
+|7 |The Dream-Walker          |Lilith    |Lilith age 27          |Dream influence                   |DRAFTED  |
+|8 |The Investigator          |Historical|Verinus (Rome ~140 CE) |Virtue/Sīla                       |DRAFTED  |
+|9 |The Complaint             |Lilith    |Lilith age 28          |Circumstance manipulation         |DRAFTED  |
+|10|The Hermit                |Historical|Macarius (Egypt 360 CE)|Renunciation/Nekkhamma            |DRAFTED  |
+|11|The Performance of Humility|Lilith    |Lilith age 29          |Growing control                   |DRAFTED  |
+|12|The Lover                 |Historical|Kaoru (Heian 1000 CE)  |Equanimity/Upekkhā                |DRAFTED  |
+|13|TBD                       |Lilith    |Lilith age 30          |Vessel possession                 |needs_dev|
+|14|The Accused               |Historical|TBD (Spain 1485)       |Patience/Khanti                   |needs_dev|
+|15|TBD                       |Lilith    |Lilith age 31          |Sustained presence                |needs_dev|
+|16|The Skeptic               |Historical|TBD (France 1585)      |Truthfulness/Sacca                |needs_dev|
+|17|TBD                       |Lilith    |Lilith age 32          |Extended interaction              |needs_dev|
+|18|The Rebel                 |Historical|TBD (China 1855)       |Determination/Adhiṭṭhāna          |needs_dev|
+|19|TBD                       |Lilith    |Lilith age 33          |Near-full manifestation           |needs_dev|
+|20|The Detective             |Historical|TBD (USA 1930s)        |Perseverance/Viriya               |needs_dev|
+|21|The Decision              |Lilith    |Lilith age 34          |Full manifestation; incarnates    |needs_dev|
 
 ### Act III: The Breakthrough
 

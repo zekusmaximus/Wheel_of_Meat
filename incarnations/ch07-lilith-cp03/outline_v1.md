@@ -267,7 +267,7 @@ She's right about all of that. She's also missing the larger truth. But she'll h
 Lilith surfaces in her flat. The tracking complete.
 
 **Physical State:**
-Not dramatically depleted—we're keeping physical costs understated. Perhaps a moment of adjustment, the ordinary body reasserting itself after consciousness traveled far.
+Not dramatically depleted—we're keeping costs understated. Perhaps a moment of adjustment, the ordinary body reasserting itself after consciousness traveled far.
 
 **Emotional State:**
 Thoughtful. Not troubled—she's not someone who troubles easily. But there's something new to consider now. An observation that doesn't quite fit her model.

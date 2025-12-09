@@ -32,11 +32,11 @@
 - Cannot force choices—the incarnation's will still determines action
 - Manipulation leaves traces she may not anticipate
 
-### Physical Cost (Subtle)
+### Attentional Cost (Subtle)
 - Her powers are natural at this stage of enlightenment—using them doesn't hurt her
 - Any fatigue is from the *time* and *attention* required, not metaphysical drain
 - Keep physical manifestations understated throughout
-- Perhaps a colleague comments "You look tired" but nothing more dramatic
+- Perhaps a colleague comments "You seem distracted" but nothing more dramatic
 - The cost is temporal and attentional, not physical deterioration
 
 ---
@@ -499,7 +499,7 @@ Verinus's question about virtue → incomplete release (pride in understanding) 
 2. ✅ **Harrow's role:** Part of the review process; adds tension but perhaps surprisingly fair
 3. ✅ **Demonstration technique:** The vindictive patient IS the demonstration—he embodies ill-will, she responds without it
 4. ✅ **Family arc:** Engagement survives, mother's wedding went fine, foreshadow Nadia's wedding (ch11)
-5. ✅ **Physical cost:** Subtle throughout; powers are natural, no metaphysical drain
+5. ✅ **Attentional cost:** Subtle throughout; powers are natural, no metaphysical drain
 6. ✅ **Emotional state:** Curiosity and interest, NOT frustration
 7. ✅ **Beat 4:** Mutual Interference memory-slice inserted during tracking session
 

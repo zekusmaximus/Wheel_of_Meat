@@ -92,7 +92,71 @@
       },
       "function": "Introduction; first glimpse of past-life fracture; establish core relationship and conflict",
       "word_target": 8000,
-      "scenes": [],
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Sunset",
+          "file": "scene-01-sunset-bedroom.md",
+          "word_count": 850,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "Campus Morning",
+          "file": "scene-02-campus-morning.md",
+          "word_count": 400,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "The Lecture Hall",
+          "file": "scene-03-lecture-hall.md",
+          "word_count": 1100,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Hallway",
+          "file": "scene-04-hallway-aftermath.md",
+          "word_count": 850,
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "The Faculty Meeting",
+          "file": "scene-05-faculty-meeting.md",
+          "word_count": 1000,
+          "status": "draft"
+        },
+        {
+          "section": "VI",
+          "title": "University Green",
+          "file": "scene-06-university-green.md",
+          "word_count": 1000,
+          "status": "draft"
+        },
+        {
+          "section": "VII",
+          "title": "The Meditation",
+          "file": "scene-07-apartment-meditation.md",
+          "word_count": 700,
+          "status": "draft"
+        },
+        {
+          "section": "VIII",
+          "title": "The Drive",
+          "file": "scene-08-the-drive.md",
+          "word_count": 2800,
+          "status": "draft"
+        },
+        {
+          "section": "IX",
+          "title": "The Rooftop",
+          "file": "scene-09-rooftop-climax.md",
+          "word_count": 3800,
+          "status": "draft"
+        }
+      ],
       "status": "drafted"
     },
     {

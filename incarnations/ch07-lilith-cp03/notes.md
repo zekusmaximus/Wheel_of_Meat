@@ -29,10 +29,10 @@
 - Cannot force choices — the dreamer's will still determines action
 - Cannot enter waking consciousness directly
 
-### Physical Cost (Understated)
+### Attentional Cost (Understated)
 - Keep physical manifestations minimal this chapter
 - No technical/metaphysical reason for negative side effects from using powers
-- Mention fatigue or minor strain but save escalation for future chapters
+- Mention distraction or divided attention but save escalation for future chapters
 - Her powers are growing; the cost is time and attention, not physical deterioration
 
 ---
@@ -238,7 +238,7 @@ As she prepares to observe the Roman life, she might consider: her powers are gr
 - The body as vehicle, not obstacle—she uses it efficiently, doesn't fight it
 - Family scene: physical presence matters (being there, not just calling)
 
-**Note:** Don't overplay physical costs. Her powers work; they're growing. The limitation is time and attention, not physical deterioration.
+**Note:** Don't overplay costs. Her powers work; they're growing. The limitation is time and attention, not physical deterioration.
 
 ---
 

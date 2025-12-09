@@ -174,11 +174,11 @@ Lilith's response: warm but evasive. The reader sees what she cannot.
 - Per lilith-arc.json: "CP-04 through CP-06: Colleagues notice preoccupation"
 - Beginning of decline
 
-### Physical Cost
-- Headache after tracking (subtle)
+### Attentional Cost
+- Hours lost to tracking (subtle)
 - Coffee when she usually doesn't need it
-- Colleague comments on pallor
-- Body under strain, not emergency
+- Colleague comments on distraction
+- Mind elsewhere, not body under strain
 
 ---
 
@@ -327,7 +327,7 @@ The next configuration will be different. She can feel it.
 
 ### Section VI: Closing (~400-500 words)
 - Surfaces from tracking
-- Physical cost
+- Attentional cost noted
 - Kinship whisper growing
 - Manchester lights, threads humming
 - As always. Until it doesn't.
@@ -366,7 +366,7 @@ The next configuration will be different. She can feel it.
 3. ✅ **Ch1 foreshadowing:** "Difference between trusting judgment and crushing challenges"
 4. ✅ **Beat 5:** Recurring parallel—his attachment mirrors hers
 5. ✅ **Harrow:** Brief encounter showing recalibrated relationship
-6. ✅ **Physical cost:** Subtle—headaches, fatigue, pallor
+6. ✅ **Attentional cost:** Subtle—distraction, time-loss, preoccupation
 7. ✅ **Word target:** 5,500-6,500 words (matching Ch7/Ch9 precedent)
 
 ---

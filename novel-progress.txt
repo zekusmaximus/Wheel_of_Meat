@@ -1098,6 +1098,62 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Session 15 - 2025-12-09
+
+**Work Done:**
+
+- Drafted all 9 scenes of Chapter 10: The Hermit (Egypt, Desert Father) (~13,578 words)
+- Drafted all 6 scenes of Chapter 11: The Performance of Humility (Lilith CP05) (~6,150 words)
+- Drafted all 6 scenes of Chapter 12: The Lover (Heian Japan) (~8,040 words)
+- Total new draft content: ~27,768 words across three chapters
+
+**Chapter 10 Synopsis: The Hermit**
+
+- Abba Macarius of Scetis—former Alexandrian rhetoric teacher, 15 years in the desert
+- Lilith incarnates as Theodora, a church dignitary accompanying Archdeacon Theophanes
+- The intervention: excessive praise through Theophanes forces Macarius to taste his own hunger for recognition
+- The backfire: the formalization becomes a mirror—he sees pride wearing humility's clothing
+- Genuine insight arrives through collapse, not achievement; humility as loss, not attainment
+- Death bridge: 15 years of sensory denial creates a final hunger—reaching for color, texture, beauty
+- Seeds Heian courtier's aesthetic obsession
+
+**Chapter 11 Synopsis: The Performance of Humility**
+
+- Lilith at 29, four years tracking; rehearsal dinner for Nadia's wedding
+- Dr. Pierce demonstration session—the cost of needing to be right
+- Everyone performing humility: Jeff, Mother, Nadia, Lilith herself
+- Beat 5: "What does that remind me of?" surfaces and goes unanswered
+- Macarius's death observed: genuine insight AND subtle pride beneath
+- Backfire assessment: formalization revealed rather than concealed
+- Heian thread located—pendulum swings from denial to sensation
+
+**Chapter 12 Synopsis: The Lover**
+
+- Fujiwara no Kaoru—mid-rank courtier consumed by aesthetic obsession
+- Lilith's first vessel possession: inhabits the Attendant (low agency), puppeteers Lady Hotaru
+- The trap: creating a stasis field where nothing decays—artificial eternal spring
+- The backfire: static perfection proves monstrous; beauty requires impermanence
+- Typhoon destroys the illusion; Lady Hotaru revealed as sick elderly woman
+- Kaoru's insight: "It is beautiful because it is dying"
+- Death: exposure in the wreckage, holding the dying Hotaru
+- Seeds Patience (khanti) for the Inquisition
+
+**Decisions Made:**
+
+- Macarius characterized with 9-scene spiritual drama structure (4 turns)
+- Lilith's vessel possession established as low agency—subconscious compulsion with rare lucidity
+- Heian Gothic Romance genre conventions honored: decaying estate, mysterious lady, mono no aware
+- Word counts exceeded targets across all three chapters (healthy expansion)
+
+**Continuity Notes:**
+
+- Theodora (Ch10) maintains canonical physical markers: widow's peak, rogue strand, green crescent
+- The Attendant (Ch12) carries same physical markers for reader recognition
+- Beat 5 in Ch11 deepens the kinship whisper; pattern of backfires becoming visible
+- Death bridges chain correctly: Macarius's starvation → Kaoru's sensation → Inquisition victim's patience
+
+-----
+
 ## Chapter Development Status
 
 ### Act I
@@ -1108,33 +1164,33 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 ### Act II: Historical Chapters
 
-|Ch|Title           |Avatar |Period     |Status   |
-|--|----------------|-------|-----------|---------|
-|2 |Blood           |Ka     |300,000 BCE|DRAFTED  |
-|4 |The Ledger      |Chandra|268 BCE    |DRAFTED  |
-|6 |The Philosopher |Philon |430 BCE    |DRAFTED  |
-|8 |The Investigator|Verinus|120-140 CE |DRAFTED    |
-|10|The Hermit      |[TBD]  |350 CE     |needs_dev|
-|12|The Lover       |[TBD]  |1000 CE    |needs_dev|
-|14|The Accused     |[TBD]  |1485       |needs_dev|
-|16|The Skeptic     |[TBD]  |1585       |needs_dev|
-|18|The Rebel       |[TBD]  |1855       |needs_dev|
-|20|The Detective   |[TBD]  |1930s      |needs_dev|
+|Ch|Title           |Avatar  |Period     |Status   |
+|--|----------------|--------|-----------|---------|
+|2 |Blood           |Ka      |300,000 BCE|DRAFTED  |
+|4 |The Ledger      |Chandra |268 BCE    |DRAFTED  |
+|6 |The Philosopher |Philon  |430 BCE    |DRAFTED  |
+|8 |The Investigator|Verinus |120-140 CE |DRAFTED  |
+|10|The Hermit      |Macarius|c. 360 CE  |DRAFTED  |
+|12|The Lover       |Kaoru   |c. 1000 CE |DRAFTED  |
+|14|The Accused     |[TBD]   |1485       |needs_dev|
+|16|The Skeptic     |[TBD]   |1585       |needs_dev|
+|18|The Rebel       |[TBD]   |1855       |needs_dev|
+|20|The Detective   |[TBD]   |1930s      |needs_dev|
 
 ### Act II: Lilith Chapters
 
-|Ch|Title              |Her Age|Power Level              |Status   |
-|--|-------------------|-------|-------------------------|---------|
-|3 |The Discovery      |25     |Observation              |DRAFTED  |
-|5 |The Ledger's Shadow|26     |Remote influence         |DRAFTED  |
-|7 |The Dream-Walker   |27     |Dream influence          |DRAFTED  |
-|9 |The Complaint      |28     |Circumstance manipulation|DRAFTED  |
-|11|TBD                |29     |Growing control          |needs_dev|
-|13|TBD                |30     |Brief manifestation      |needs_dev|
-|15|TBD                |31     |Sustained presence       |needs_dev|
-|17|TBD                |32     |Extended interaction     |needs_dev|
-|19|TBD                |33     |Near-full manifestation  |needs_dev|
-|21|The Decision       |34     |Full manifestation       |needs_dev|
+|Ch|Title                     |Her Age|Power Level              |Status   |
+|--|--------------------------|-------|-------------------------|---------|
+|3 |The Discovery             |25     |Observation              |DRAFTED  |
+|5 |The Ledger's Shadow       |26     |Remote influence         |DRAFTED  |
+|7 |The Dream-Walker          |27     |Dream influence          |DRAFTED  |
+|9 |The Complaint             |28     |Circumstance manipulation|DRAFTED  |
+|11|The Performance of Humility|29     |Growing control          |DRAFTED  |
+|13|TBD                       |30     |Brief manifestation      |needs_dev|
+|15|TBD                       |31     |Sustained presence       |needs_dev|
+|17|TBD                       |32     |Extended interaction     |needs_dev|
+|19|TBD                       |33     |Near-full manifestation  |needs_dev|
+|21|The Decision              |34     |Full manifestation       |needs_dev|
 
 ### Act III
 
@@ -1155,11 +1211,9 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 ## Key Unresolved Questions
 
-1. **Recognition Markers**: What subtle physical/behavioral/situational markers let readers recognize the same soul across lives?
-1. **Avatar Development**: Names, occupations, and specific circumstances for Chapters 6, 8, 10, 12, 14, 16, 18, 20
-1. **Backfire Mechanisms**: How exactly does each Lilith intervention catalyze growth? (Partially developed for some chapters)
-1. **Patient Parallels**: Specific patient/colleague situations for Lilith chapters that mirror her pursuit of Silas
-1. **Lilith’s Physical Description**: Specific eye color, distinguishing feature, characteristic gesture for cross-life recognition
+1. **Avatar Development**: Names, occupations, and specific circumstances for Chapters 14, 16, 18, 20
+1. **Backfire Mechanisms**: How exactly does each Lilith intervention catalyze growth? (Developed through Ch12; remaining chapters need development)
+1. **Patient Parallels**: Specific patient/colleague situations for remaining Lilith chapters (Ch13+)
 1. **Maitreya Foreshadowing**: Specific moments to plant in each chapter (0-2 per chapter)
 1. **The Merger Mechanism**: Exactly how do Silas and Lilith merge in Chapter 26?
 
@@ -1170,44 +1224,122 @@ Current focus: Building agent infrastructure and completing chapter development 
 |Section          |Target      |Drafted    |Remaining   |
 |-----------------|------------|-----------|------------|
 |Act I (Ch 1)     |8,000       |~8,000     |0           |
-|Act II Historical|80,000      |~21,300    |58,700      |
-|Act II Lilith    |27,000      |~16,500    |10,500      |
+|Act II Historical|80,000      |~42,900    |37,100      |
+|Act II Lilith    |27,000      |~22,650    |4,350       |
 |Act III (Ch 22)  |10,000      |0          |10,000      |
 |Act IV (Ch 23-26)|31,000      |0          |31,000      |
-|**Total**        |**~156,000**|**~45,800**|**~110,200**|
+|**Total**        |**~156,000**|**~73,550**|**~82,450** |
 
 -----
 
-## File Inventory
+## File Directory
 
-### Core Documents (Revised for 26-chapter structure)
+### Root Files
 
-- [x] CLAUDE.md
-- [x] scene-manifest.json
-- [x] lilith-arc.json
-- [x] soul-constants.json
-- [x] thematic-echoes.md
-- [x] novel-progress.txt (this file)
+```
+Wheel_of_Meat/
+├── README.md
+├── .gitignore
+├── claude.md                    # Project overview and AI context
+├── agent-protocol.md            # Workflow and verification passes
+├── novel-progress.txt           # This file - session log and tracking
+├── scene-manifest.json          # Master scene/chapter tracking
+├── meta/                        # Supporting documentation
+└── incarnations/                # All chapter content
+```
 
-### New Documents
+### incarnations/ Directory Structure
 
-- [x] lilith-chapter-manifest.json
-- [x] contemporary-period-rules.md
+```
+incarnations/
+├── ch01-contemporary-manchester/   [DRAFTED - 3 files]
+├── ch02-prehistoric-ka/            [DRAFTED - 4 files]
+├── ch03-lilith-cp01/                [DRAFTED - 2 files]
+├── ch04-mauryan-chandra/            [DRAFTED - 3 files]
+├── ch05-lilith-cp02/                [DRAFTED - 2 files]
+├── ch06-athens-philosopher/         [DRAFTED - 13 files, 9 scenes]
+├── ch07-lilith-cp03/                [DRAFTED - 8 files, 5 scenes]
+├── ch08-rome-investigator/          [DRAFTED - 13 files, 9 scenes]
+├── ch09-lilith-cp04/                [DRAFTED - 8 files, 5 scenes]
+├── ch10-egypt-hermit/               [DRAFTED - 13 files, 9 scenes]
+│   ├── avatar-profile.json
+│   ├── chapter-outline.md
+│   ├── genre_research.md
+│   ├── period-rules.md
+│   └── scenes/
+│       ├── scene-01-cell.md
+│       ├── scene-02-deference.md
+│       ├── scene-03-arrival.md
+│       ├── scene-04-interview.md
+│       ├── scene-05-first-crack.md
+│       ├── scene-06-recognition.md
+│       ├── scene-07-tasting.md
+│       ├── scene-08-collapse.md
+│       └── scene-09-death.md
+├── ch11-lilith-cp05/                [DRAFTED - 8 files, 6 scenes]
+│   ├── chapter-outline.md
+│   ├── notes.md
+│   └── scenes/
+│       ├── scene-01-demonstration.md
+│       ├── scene-02-rehearsal.md
+│       ├── scene-03-professional.md
+│       ├── scene-04-tracking.md
+│       ├── scene-05-heian.md
+│       └── scene-06-closing.md
+├── ch12-heian-lover/                [DRAFTED - 9 files, 6 scenes]
+│   ├── CH12_outline.md
+│   ├── avatar-profile.json
+│   ├── period-rules.md
+│   └── scenes/
+│       ├── scene-01-arrival.md
+│       ├── scene-02-voice-behind-screen.md
+│       ├── scene-03-stagnant-garden.md
+│       ├── scene-04-glimpse.md
+│       ├── scene-05-typhoon.md
+│       └── scene-06-morning.md
+├── ch13-lilith-cp06/                [needs_dev - 1 file]
+├── ch14-inquisition-accused/        [needs_dev - 2 files]
+├── ch15-lilith-cp07/                [needs_dev - 1 file]
+├── ch16-renaissance-skeptic/        [needs_dev - 2 files]
+├── ch17-lilith-cp08/                [needs_dev - 1 file]
+├── ch18-taiping-rebel/              [needs_dev - 2 files]
+├── ch19-lilith-cp09/                [needs_dev - 1 file]
+├── ch20-noir-detective/             [needs_dev - 2 files]
+├── ch21-lilith-cp10/                [needs_dev - 1 file]
+├── ch22-contemporary-breakthrough/  [outlined - 2 files]
+├── ch23-deva-celestial/             [needs_dev - 2 files]
+├── ch24-future-prophet/             [needs_dev - 2 files]
+├── ch25-space-explorer/             [needs_dev - 2 files]
+└── ch26-pure-abodes-awakened/       [needs_dev - 2 files]
+```
 
-### Reference Documents (Minor updates needed)
+### meta/ Directory
 
-- [ ] style-rules.md — Update chapter number references
-- [ ] voice-analysis.md — Add Lilith POV patterns section
-- [ ] agent-protocol.md — Add Lilith chapter checklist
+```
+meta/
+├── lilith-arc.json              # Lilith's power progression
+├── soul-constants.json          # Fetter/perfection tracking
+├── thematic-echoes.md           # Cross-chapter motif tracking
+└── contemporary-period-rules.md # Manchester voice/setting guide
+```
 
-### Drafted Content
+### Drafted Content Summary
 
-- [x] Chapter 1 draft
-- [x] Chapter 2 draft (Ka)
-- [x] Chapter 3 draft (Lilith - The Discovery)
+- [x] Chapter 1: The Meeting (Contemporary Manchester)
+- [x] Chapter 2: Blood (Ka - Prehistoric)
+- [x] Chapter 3: The Discovery (Lilith CP01)
+- [x] Chapter 4: The Ledger (Chandra - Mauryan)
+- [x] Chapter 5: The Ledger's Shadow (Lilith CP02)
+- [x] Chapter 6: The Philosopher (Philon - Athens)
+- [x] Chapter 7: The Dream-Walker (Lilith CP03)
+- [x] Chapter 8: The Investigator (Verinus - Rome)
+- [x] Chapter 9: The Complaint (Lilith CP04)
+- [x] Chapter 10: The Hermit (Macarius - Egypt)
+- [x] Chapter 11: The Performance of Humility (Lilith CP05)
+- [x] Chapter 12: The Lover (Kaoru - Heian Japan)
 
 ### Still Needed
 
-- [ ] Period-rules.md for each historical chapter
-- [ ] Avatar-profile.json for unnamed avatars
-- [ ] Scene breakdowns for all chapters
+- [ ] Period-rules.md for remaining historical chapters (14, 16, 18, 20)
+- [ ] Avatar-profile.json for unnamed avatars (14, 16, 18, 20)
+- [ ] Scene breakdowns for chapters 13-26

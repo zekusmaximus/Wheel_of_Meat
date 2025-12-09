@@ -200,13 +200,13 @@ A small professional slip: she almost calls a patient by the wrong name. Catches
 
 These are not crises. But they are new. The beginning of the pattern noted in lilith-arc.json: *colleagues notice preoccupation*.
 
-### Physical Cost (Subtle)
+### Attentional Cost (Subtle)
 
 She needs coffee in the afternoon—doesn't usually.
 
-A brief headache after a long tracking session the night before. She attributes it to screen time.
+Her mind drifts during a routine task. She attributes it to a busy week.
 
-Her reflection in the bathroom mirror: slightly paler than usual. She registers this, dismisses it.
+Her colleague's comment: "You seem distracted lately." She registers this, deflects smoothly.
 
 ### Transition
 
@@ -462,7 +462,7 @@ As always. Until it doesn't.
 2. **Everyone performing humility:** Jeff, Mother, Nadia, Lilith
 3. **Beat 5 surfaces:** "What does that remind me of?" (unanswered)
 4. **Backfire assessment:** Mirror she created revealed rather than concealed
-5. **Physical cost accumulating:** Headaches, trembling, pallor
+5. **Attentional cost accumulating:** Distraction, time-loss, preoccupation
 6. **Preoccupation visible:** Colleagues noticing, small slips
 7. **Heian thread located:** Pendulum swings to sensation/beauty
 
