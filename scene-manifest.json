@@ -1465,7 +1465,9 @@
           "number": 1,
           "title": "The Arrival",
           "type": "The Hook + Crossing",
+          "file": "scene-01-arrival.md",
           "word_target": 1800,
+          "word_count": 1430,
           "beats": [
             "Receives poem on bark paper at dull poetry contest",
             "Traces rim of cup (Recognition Marker)",
@@ -1473,52 +1475,60 @@
             "Sees the Attendant scrubbing floors until bleeding",
             "Helper compulsion triggered"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "number": 2,
           "title": "The Voice Behind the Screen",
           "type": "The Temptation",
+          "file": "scene-02-voice-behind-screen.md",
           "word_target": 1400,
+          "word_count": 1180,
           "beats": [
             "Meeting Lady Hotaru (screened)",
             "Lilith puppeteers the voice/poetry",
             "Kaoru falls for the constructed image",
             "Incense masks the smell of sickness"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "number": 3,
           "title": "The Stagnant Garden",
           "type": "The Obsession",
+          "file": "scene-03-stagnant-garden.md",
           "word_target": 1500,
+          "word_count": 1340,
           "beats": [
             "Weeks pass; unnatural spring in autumn",
             "Attendant's manic maintenance of stasis",
             "Atmosphere becomes stifling/airless",
             "Kaoru's body begins to fail"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "number": 4,
           "title": "The Glimpse",
           "type": "The Assessment (Lilith's moment of lucidity)",
+          "file": "scene-04-glimpse.md",
           "word_target": 1100,
+          "word_count": 1130,
           "beats": [
             "Kaoru catches the Attendant unaware, perfectly still",
             "Lilith looks out through the vessel's eyes",
             "Recognition of the Face (Widow's Peak, Green Crescent)",
             "Clinical detachment terrifies him; she wakes and flees"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "number": 5,
           "title": "The Typhoon",
           "type": "The Climax (Storm + Reveal)",
+          "file": "scene-05-typhoon.md",
           "word_target": 2000,
+          "word_count": 1680,
           "beats": [
             "Storm strikes Kyoto; Kaoru rushes to estate",
             "Physical violence destroys the illusion",
@@ -1527,23 +1537,25 @@
             "Lady Hotaru exposed as sick/elderly",
             "Kaoru chooses the reality over the lie"
           ],
-          "status": "outlined"
+          "status": "draft"
         },
         {
           "number": 6,
           "title": "The Morning",
           "type": "Exodus (Death + Insight)",
+          "file": "scene-06-morning.md",
           "word_target": 1200,
+          "word_count": 1280,
           "beats": [
             "Post-storm clarity; Attendant vanished",
             "Kaoru holds dying Hotaru in the mud",
             "Final insight: 'It is beautiful because it is dying'",
             "Death by exposure; seeds Patience for next life"
           ],
-          "status": "outlined"
+          "status": "draft"
         }
       ],
-      "status": "outlined"
+      "status": "draft"
     },
     {
       "chapter": 13,
