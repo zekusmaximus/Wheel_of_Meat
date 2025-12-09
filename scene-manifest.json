@@ -191,7 +191,64 @@
         "seeds_next": "Generosity lesson for Chandra"
       },
       "word_target": 7000,
-      "scenes": [],
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Blood Wake",
+          "file": "scene-01-blood-wake.md",
+          "word_count": 1000,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "Strange Hunters",
+          "file": "scene-02-strange-hunters.md",
+          "word_count": 1100,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "Alone Hunt",
+          "file": "scene-03-alone-hunt.md",
+          "word_count": 1200,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Dog Pack",
+          "file": "scene-04-dog-pack.md",
+          "word_count": 1400,
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "Cat Attack",
+          "file": "scene-05-cat-attack.md",
+          "word_count": 1000,
+          "status": "draft"
+        },
+        {
+          "section": "VI",
+          "title": "Tribe Saves Ka",
+          "file": "scene-06-tribe-saves-ka.md",
+          "word_count": 1000,
+          "status": "draft"
+        },
+        {
+          "section": "VII",
+          "title": "Learning Together",
+          "file": "scene-07-learning-together.md",
+          "word_count": 900,
+          "status": "draft"
+        },
+        {
+          "section": "VIII",
+          "title": "The Hoarding Death",
+          "file": "scene-08-hoarding-death.md",
+          "word_count": 1400,
+          "status": "draft"
+        }
+      ],
       "status": "drafted"
     },
     {
@@ -229,7 +286,50 @@
       },
       "function": "Establish her expanded ability; validate consciousness continuity as universal law; begin decade-long pursuit",
       "word_target": 3500,
-      "scenes": [],
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Tracking Margaret",
+          "file": "scene-01-tracking-margaret.md",
+          "word_count": 600,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Sharing Scene",
+          "file": "scene-02-sharing-scene.md",
+          "word_count": 550,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "The Discovery of Ka",
+          "file": "scene-03-discovery-of-ka.md",
+          "word_count": 650,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "Observing Ka's Death",
+          "file": "scene-04-observing-ka-death.md",
+          "word_count": 750,
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "Following Thread to Chandra",
+          "file": "scene-05-following-to-chandra.md",
+          "word_count": 700,
+          "status": "draft"
+        },
+        {
+          "section": "VI",
+          "title": "The Decision to Track",
+          "file": "scene-06-decision-to-track.md",
+          "word_count": 900,
+          "status": "draft"
+        }
+      ],
       "status": "drafted"
     },
     {
@@ -262,7 +362,64 @@
       },
       "backfire": "Betrayal teaches him generosity cannot depend on reciprocity",
       "word_target": 8000,
-      "scenes": [],
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Pillar Ceremony",
+          "file": "scene-01-pillar-ceremony.md",
+          "word_count": 2400,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Assignment",
+          "file": "scene-02-assignment.md",
+          "word_count": 1800,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "Warehouse Inspection",
+          "file": "scene-03-warehouse-inspection.md",
+          "word_count": 2400,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Interrogation",
+          "file": "scene-04-interrogation.md",
+          "word_count": 2600,
+          "status": "draft"
+        },
+        {
+          "section": "V",
+          "title": "The Covert Investigation",
+          "file": "scene-05-covert-investigation.md",
+          "word_count": 3400,
+          "status": "draft"
+        },
+        {
+          "section": "VI",
+          "title": "The Temple Betrayal",
+          "file": "scene-06-temple-betrayal.md",
+          "word_count": 2200,
+          "status": "draft"
+        },
+        {
+          "section": "VII",
+          "title": "The Fire",
+          "file": "scene-07-the-fire.md",
+          "word_count": 3200,
+          "status": "draft"
+        },
+        {
+          "section": "VIII",
+          "title": "The Ledger's Reckoning",
+          "file": "scene-08-ledgers-reckoning.md",
+          "word_count": 3600,
+          "status": "draft"
+        }
+      ],
       "status": "outlined"
     },
     {
@@ -301,7 +458,36 @@
       "backfire_awareness": "None—satisfaction at successful manipulation",
       "function": "First intervention; realizes she can DO things, not just observe",
       "word_target": 2500,
-      "scenes": [],
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Supervision",
+          "file": "scene-01-supervision.md",
+          "word_count": 600,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Ashworth Session",
+          "file": "scene-02-ashworth-session.md",
+          "word_count": 1200,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "Influencing Devaka",
+          "file": "scene-03-influencing-devaka.md",
+          "word_count": 1400,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Decision to Continue",
+          "file": "scene-04-decision-to-continue.md",
+          "word_count": 900,
+          "status": "draft"
+        }
+      ],
       "status": "needs_development"
     },
     {

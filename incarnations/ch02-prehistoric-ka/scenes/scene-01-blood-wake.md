@@ -1,0 +1,18 @@
+# Scene 01: Blood Wake
+
+**Chapter:** ch02-prehistoric-ka
+**Section:** I. Blood Wake
+**Word count:** ~1,000
+**Status:** Draft
+
+---
+
+Ka wake to blood taste. Tongue blood. Teeth bite in sleep. Body knows bad coming before mind knows. Cave dark. No light. Air wrong on skin. Wrong smell in nose. Ground remembers feet different now. Used to drink feet in wet season. Now feet stay on top, like walking on frozen water. Wind carries dying grass smell. Fear smell. Wrong bird sound. Neck hair stiff like big hunt time. Belly tight like long hunger time.
+
+Tribe sleep in cave pile. Bodies touch like wolf pups. Safe sounds. Breathing together. Meat dream warm. Strong hunters close. Cave walls weep more water now. Like sky-water stuck in stone. Ka sleep alone near cave mouth. Cave mouth breathes different wind. Used to breathe warm. Now breathes like ice-time. Always alone. Something in Ka's chest. Like ice wall.
+
+Ka think burning makes strong. Ka think alone safe. Eye catches moving. Down in mist valley. Mist like white snake. Shadow shapes run fast. Many shadows. One shadow. Wolf pack shape but wrong. Wrong moving. Sky water used to fall soft like mist-breath. Now falls hard like thrown stones.
+
+New hunters come. Hunters flow together like water drops. Hunt together like hand fingers. Ka chest tightens. Change coming. Smell it wind. Wind changes color of sky. Red wind brings dry time. White wind brings cold time. Feel it ground. Ground shakes into feet into belly. Old hunt ways die like old season prey. Food hard to find. Sweet-root goes deeper in ground now. Must dig past three hand-lengths. Used to be one hand-length. Herds move wrong way. Old hunting grounds empty.
+
+Ka knows better way. Ka hunts alone. Prey blood stays warm shorter time now. Gets stiff-cold fast like frozen stream. Ka stays strong by self. Ka needs no one. Morning birds stop. All stop. Mist valley opens like ripped skin. Ka sees them. New hunters. Strange hunters. Move together. One mind. Herd beasts bunch tighter now. Used to spread like water drops. Now clump like fire sparks. Sky brightens. Dawn red like fresh meat. Ka not know. This dawn test. This dawn end old ways. This dawn end alone time. Or Ka run.

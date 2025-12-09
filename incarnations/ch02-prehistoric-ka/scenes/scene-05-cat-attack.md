@@ -1,0 +1,24 @@
+# Scene 05: Cat Attack
+
+**Chapter:** ch02-prehistoric-ka
+**Section:** V. Cat Attack
+**Word count:** ~1,000
+**Status:** Draft
+
+---
+
+Ka turns from setting sun. Cold wind bites back. Goes back to cave. Cave smells wrong now. Tribe smell stronger. Fear smell. Change smell. Weak smell. Ka cannot take air in. Too thick. Ka leaves again. Needs air. Needs hunt. Needs alone. Away from pressing tribe smell. Needs big plains. Needs hunt alone. To feel big again. To feel strong again.
+
+Ka waits. No moving. Spear gripped tight. Something watches. Feeling crawls on Ka's skin. No sound. No moving. But Ka knows. Ka looks at trees, dark shadows, twisted branches like grabbing hands. Looks at rocks, sharp edges against dying light. Nothing. But watching feeling stays. Makes skin prickle. Wind changes, brings dog smell again. Stronger now. Closer. Smell like pack animal but stronger. Death smell.
+
+Ka holds spear tighter. Knuckles white like bone. Heart beats like caught bird. Fear sits cold in belly. Then, moving happens. Shadow flickers across stream bed. Now just dust and old stones. Dogs. Not big like wolves. Smaller. Lean-strong. Made for running. Made for killing. Eyes like fire sparks, burning in shadows. Hunters. They move as one, like flowing water stream, like wind through grass, scary-beautiful moving.
+
+Ka watches from rock-hide place. No breathing. Must learn their ways. Must understand new thing. Dogs follow deer trail. Same trail Ka finds. Fresh trail. Good trail. But dogs move different. Not like Ka. Not like tribe. They spread wide, like opened hand. Cover all ground. Silent moving. Only soft paw sounds on dry earth, like whispers in wind. Ka watches. Something like respect grows. They hunt like one mind. One thinking. Kill-skill that makes Ka afraid.
+
+Deer come. Big herd. Not knowing danger. Eating grass. Peaceful like morning time. Ka watches. Spear ready. Good weight feels right. Ka could take one. Maybe two. But dogs wait. Patient like spider. Waiting for strike time. Ka feels new thing. Knows their together-skill. Their waiting-skill.
+
+Dogs attack. Fast like snake strike. Hard like rock fall. Blur of moving. Like storm breaking. Deer run wild. Fear-moving. Dogs too fast. Too many. Cut off escape way. Drive deer toward cliff wall. Death-smart hunting. Ka watches. Mind-struck. Hunters better than Ka. Better than tribe.
+
+Deer trapped now. Cliff behind. Big drop. Dogs make wall in front. Wall of teeth and muscle. Wall of death. Deer fight. Antlers flash like lightning. Hooves hit like thunder. No use fighting. Dogs too many. Too fast. Too together-minded. Deer fall. One. Two. Three. More falling. Bodies hit ground. Dogs eat fast. Smart-eating. No waste. Then gone. Like wind. Like they never were. Ka alone. Spear not used. Nothing done. Empty feeling comes back. Heavier now. Deeper cut.
+
+Ka climbs down. Body feels not-there. Goes to kill place. Sees bodies. Many bodies. More than Ka ever kill alone. Dogs take what they need. Leave rest. Sky birds circle above. Ka feels small. Weak like cub. Hunters change everything. Ka always hunt alone. Always strong alone. Now doubt grows like ice in stream.
