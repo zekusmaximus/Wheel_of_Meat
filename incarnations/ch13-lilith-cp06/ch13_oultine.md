@@ -17,7 +17,7 @@
 **The Architecture:**
 - The birthday gathering demonstrates her equanimity about impermanence and beauty
 - The tracking session shows her witnessing her own failure and losing the thread
-- The meditation reveals she's overcome the attentional costs—but discovered karmic disturbance
+- The meditation reveals she's overcome the attentional costs—but discovered the noise floor
 - The closing plants seeds about the nature of the competition itself
 
 **The Turning Point:**
@@ -198,7 +198,7 @@ But tonight something is different.
 
 ### The Realization
 
-The failure wasn't about effort. She had complete control of the Attendant. Her vessel possession worked perfectly. The stasis field held for months. Everything she built functioned exactly as designed.
+The failure wasn't about effort. She had complete control of the Attendant. Her vessel pushing worked perfectly. The stasis field held for months. Everything she built functioned exactly as designed.
 
 And it backfired anyway.
 
@@ -452,7 +452,7 @@ Thirty is a threshold. The chapter uses this culturally loaded moment to:
 - [ ] Family update: Nadia's wedding happened, went well, tensions resolved
 - [ ] Reference to rehearsal dinner (Ch11) if natural
 - [ ] Tracking corner and notebooks consistent with previous chapters
-- [ ] Power level represents evolution from Ch11 (vessel possession)
+- [ ] Power level represents evolution from Ch11 (vessel pushing)
 - [ ] Backfire pattern explicitly noted (fourth or fifth in sequence)
 - [ ] Thread to Inquisition planted but not yet accessible
 - [ ] No Buddhist terminology

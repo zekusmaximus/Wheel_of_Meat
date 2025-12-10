@@ -113,7 +113,7 @@
 - **Power level:** Growing control—can work through intermediaries with precision
 - **Tracking content:** 
   - Observes Macarius (Egypt); orchestrates excessive praise through Theophanes
-  - Inhabits Theodora (church dignitary) but only as observer/orchestrator, not full possession
+  - Works through Theodora (church dignitary) as observer/orchestrator, pushing from afar rather than inhabiting directly
 - **Backfire:** The formalization becomes a mirror; Macarius sees and releases his pride
 - **Emotional state:** Methodical but anxious beneath surface; the pattern of backfires becoming harder to ignore
 - **Loose threads:**
@@ -296,7 +296,7 @@ Chapter 13 marks a shift in Lilith's arc:
 
 **Before Ch13:** Costs are attentional/spiritual; she's learning to push through them
 **Ch13 turning point:** She's mastered the attentional discipline
-**After Ch13:** The limit is karmic disturbance—interventions create counter-pressure regardless of her capacity
+**After Ch13:** The limit is the noise floor—interventions create interference regardless of her capacity
 
 ### What She Realizes (Without Buddhist Terminology)
 

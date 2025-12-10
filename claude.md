@@ -177,7 +177,7 @@ A rival bodhisattva, very close to Buddhahood, who believes only one Buddha can 
 - Cannot force his choices or negate his accumulated merit
 - Cannot retroactively grant avatars her insight—she can only nudge within their cultural and cognitive constraints
 - Her interventions have karmic consequences for herself
-- Power grows from observation (Ch 3) → remote influence (Ch 5) → dream influence (Ch 7) → circumstance manipulation (Ch 9) → growing control (Ch 11) → vessel possession (Ch 13+) → full manifestation (Ch 20-22) → cosmic scale (Ch 23-26)
+- Power grows from observation (Ch 3) → remote influence (Ch 5) → dream influence (Ch 7) → circumstance manipulation (Ch 9) → growing control (Ch 11) → vessel pushing (Ch 13+) → full manifestation (Ch 20-22) → cosmic scale (Ch 23-26)
 
 **Her Arc Across Act II:**
 The 10 Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) show her contemporary pursuit:
@@ -214,7 +214,7 @@ The 10 Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) show her contemporar
 |10|The Hermit                |Historical|Macarius (Egypt 360 CE)|Renunciation/Nekkhamma            |DRAFTED  |
 |11|The Performance of Humility|Lilith    |Lilith age 29          |Growing control                   |DRAFTED  |
 |12|The Lover                 |Historical|Kaoru (Heian 1000 CE)  |Equanimity/Upekkhā                |DRAFTED  |
-|13|TBD                       |Lilith    |Lilith age 30          |Vessel possession                 |needs_dev|
+|13|TBD                       |Lilith    |Lilith age 30          |Vessel pushing                    |needs_dev|
 |14|The Accused               |Historical|TBD (Spain 1485)       |Patience/Khanti                   |needs_dev|
 |15|TBD                       |Lilith    |Lilith age 31          |Sustained presence                |needs_dev|
 |16|The Skeptic               |Historical|TBD (France 1585)      |Truthfulness/Sacca                |needs_dev|
