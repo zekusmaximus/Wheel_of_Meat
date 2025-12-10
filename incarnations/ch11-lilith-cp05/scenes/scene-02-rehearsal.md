@@ -1,8 +1,8 @@
-# Scene II: Rehearsal Dinner
+# Scene II: Family Dinner
 
 The restaurant held the careful warmth of places designed for occasions—low lighting, linen napkins folded into shapes that suggested attentiveness, the murmur of other diners reduced to pleasant background. A private table near the back, arranged with the precision of someone who wanted things perfect but wanted credit for not caring about perfection.
 
-Lilith arrived to find the gathering already underway. Nadia sat at the head of the table in a draped blouse that managed to suggest both effortlessness and three hours of outfit changes. Marcus occupied the seat beside her, steady as ballast, his attention on his fiancée with the particular focus of someone who had learned when silence was service. Mother and Jeff anchored the opposite end, their chairs slightly closer together than strictly necessary—the unconscious geometry of people still learning how to be a unit.
+Lilith arrived to find the gathering already underway. Nadia sat at the head of the table in a draped blouse that managed to suggest both effortlessness and three hours of outfit changes. Marcus occupied the seat beside her, steady as ballast, his attention on his fiancée with the particular focus of someone who had learned when silence was service. Mother and Jeff anchored the opposite end, their chairs slightly closer together than strictly necessary—the unconscious geometry of people still learning how to be a unit. Meera had claimed the seat beside Lilith's empty chair—friend since university, close enough to the family to be included, perceptive enough to be trusted at these events.
 
 "There you are." Nadia's voice carried across the table with a relief that edged toward accusation. "I was beginning to think you'd forgotten."
 
@@ -43,6 +43,8 @@ Uncle Harold laughed—a sound with more edge than humor. "Since when do you hol
 Jeff's hand covered hers on the tablecloth. The gesture was meant to be supportive, and was, and also wanted to be noticed being supportive—the layers of intention visible to anyone who knew to look.
 
 Everyone, Lilith observed, was renouncing something. Everyone was performing their restraint and wanting credit for the performance. The chill bride. The hands-off mother. The humble stepfather still learning his place.
+
+Meera caught her eye from across the table—a glance that carried the particular solidarity of someone who knew all the players and appreciated the choreography. *You seeing this?* the look said. *All of them.* Lilith allowed herself a small smile in return. It was good to have a witness.
 
 It was Macarius in a Manchester restaurant. All of them reaching for recognition in spaces designed to deny it.
 
@@ -94,6 +96,6 @@ Then the thought passed. The tracking was waiting.
 
 She walked toward home through streets that held the day's retreating warmth, her mind already turning toward the notebooks in her flat, toward the threads she had been following through lifetimes she had witnessed and shaped.
 
-Somewhere behind her, a restaurant began clearing a table where a family had gathered to rehearse a performance of coming together. And somewhere ahead, a desert father lay in the dark of his cell, reaching toward color and texture and warmth, his hands grasping for everything he had spent fifteen years learning to release.
+Somewhere behind her, a restaurant began clearing a table where a family had gathered to perform coming together. And somewhere ahead, a desert father lay in the dark of his cell, reaching toward color and texture and warmth, his hands grasping for everything he had spent fifteen years learning to release.
 
 She did not see the connection. She was not looking.
