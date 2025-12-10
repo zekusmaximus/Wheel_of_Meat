@@ -14,15 +14,15 @@
 
 **Lady Hotaru:** The Recluse. An aging, ill noblewoman hidden behind screens. The "timeless beauty" is Lilith's stage production—Hotaru is the unwitting prop.
 
-**The Attendant (Lilith's Vessel):** A local servant woman. She possesses the canonical physical markers (Widow's Peak, Rogue Strand, Green Crescent in left eye). Lilith inhabits this vessel with Low Agency—driving her through subconscious compulsion rather than direct control. The manic devotion to maintaining "stasis" is Lilith's will expressing itself instinctively. Moments of full lucidity are rare and fleeting (see Scene IV: "The Glimpse").
+**The Attendant (Lilith's Vessel):** A local servant woman. She has the canonical physical markers (Widow's Peak, Rogue Strand, Green Crescent in left eye). Lilith pushes this vessel with Low Agency—driving her through subconscious compulsion from afar rather than inhabiting with direct control. The manic devotion to maintaining "stasis" is Lilith's will expressing itself instinctively. Moments of full lucidity are rare and fleeting (see Scene IV: "The Glimpse").
 
 ---
 
 ## Lilith's Intervention
 
-**Power Level:** Vessel Possession (Low Agency)—first attempt at this capability
+**Power Level:** Vessel Pushing (Low Agency)—first attempt at this capability
 
-**Method:** Lilith possesses the Attendant and uses her to stage-manage an artificial Gothic romance. She puppeteers Lady Hotaru's voice and poetry, manipulates the environment (gardens, lighting, scents) to create a "stasis field" of artificial perfection where nothing decays.
+**Method:** Lilith pushes the Attendant and uses her to stage-manage an artificial Gothic romance. She puppeteers Lady Hotaru's voice and poetry, manipulates the environment (gardens, lighting, scents) to create a "stasis field" of artificial perfection where nothing decays.
 
 **Objective:** To freeze time. By removing decay (*mono no aware*) from the equation, she hopes to make Kaoru's attachment to beauty absolute and unending—binding him to the realm of desire.
 
@@ -150,4 +150,4 @@
 - Gothic Romance: Decaying estate, mysterious lady, obsessive protagonist, supernatural dread
 - Heian Literature: Poetry as communication, screens and blinds, *mono no aware*
 
-**Lilith's First Vessel Possession:** This chapter establishes her ability to inhabit a human vessel, though imperfectly. She operates on instinct, with rare moments of full awareness. This power level escalates in later chapters until she achieves full manifestation in Chapter 20 (Noir).
+**Lilith's First Vessel Pushing:** This chapter establishes her ability to push a human vessel through remote compulsion, though imperfectly. She operates on instinct, with rare moments of full awareness. This power level escalates in later chapters until she achieves full manifestation in Chapter 20 (Noir).

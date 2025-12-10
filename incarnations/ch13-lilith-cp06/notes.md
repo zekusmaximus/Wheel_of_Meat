@@ -7,10 +7,10 @@ Following Chapter 12 (Heian Courtier - Japan). This chapter takes place on Lilit
 What happens when mastery reveals a harder limit?
 
 ## Power Level
-**Vessel Possession (Low Agency)** — Now with understanding of its structural limitations
+**Vessel Pushing (Low Agency)** — Now with understanding of its structural limitations
 
 ## Capabilities Demonstrated
-- Full vessel possession of the Attendant (her own past incarnation)
+- Full vessel pushing of the Attendant (her own past incarnation)
 - Driving a past self through subconscious compulsion
 - Environmental manipulation via the host (gardens, lighting, stasis field)
 - **New this chapter:** First glimpses of her own past lives beyond Heian
@@ -18,7 +18,7 @@ What happens when mastery reveals a harder limit?
 ## Limitations Discovered
 - Cannot push AND observe simultaneously—steering fragments attention
 - The "noise floor": a baseline interference level that cannot be eliminated
-- Every action raises karmic disturbance; the universe compensates for precise intervention
+- Every action raises the noise floor; the universe compensates for precise intervention
 - **The key realization:** She has overcome the attentional costs—but discovered limits that can't be overcome through discipline
 
 ## The Heian Intervention (What She Witnesses)
