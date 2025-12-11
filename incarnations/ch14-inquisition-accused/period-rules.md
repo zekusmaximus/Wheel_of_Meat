@@ -45,6 +45,8 @@ This chapter must feel suffocating, paranoid, and intimate. Horror is psychologi
 
 **Identity horror:** Conversos and moriscos live double lives, masking traditions and performing Catholic orthodoxy.
 
+**Institutional horror:** The terror of a system that is meticulous, bureaucratic, and utterly convinced of its righteousness.
+
 ---
 
 ## Historical Constraints
@@ -99,90 +101,33 @@ This chapter must feel suffocating, paranoid, and intimate. Horror is psychologi
 
 ---
 
-## Avatar Profile
+## Lilith: Power Level and Constraints
 
-See [avatar-profile.json](./avatar-profile.json) for complete character details.
+### Power Level
 
-**Name:** [To be determined — a converso name, possibly a "New Christian" baptismal name]
+**Sustained Presence** — Lilith can inhabit and steer her own past incarnation for extended periods. This is the same mechanism used in Chapter 12 with the Heian Attendant.
 
-**Background:** A converso — descended from Jewish ancestors who converted (willingly or under duress) within the past two generations. Lives in constant performance of Catholic orthodoxy while suppressing family traditions and memories.
+She cannot possess random people. She can only work through a vessel that shares her soul-pattern—one of her own past lives present in this time period.
 
-**Core Flaw Manifestation:** The avatar's fatal flaw manifests as either:
-- **Internalized self-hatred** — has absorbed the ideology of his persecutors, believes himself genuinely tainted
-- **Rigid suppression** — refuses to feel anything about his heritage, creating a void that hatred could fill
+### Hard Constraints
 
-**Lesson Development:**
-- **Perfection/Fetter:** Releasing ill-will (hatred toward persecutors)
-- **What must be learned:** That suffering caused by others need not generate hatred; that persecution cannot taint the soul unless the soul accepts the hatred
-- **Death seeds next:** The release of hatred under extreme pressure seeds the doubt/inquiry capacity needed for Renaissance skepticism (Ch16)
+**No direct interaction with Silas/Diego.** Lilith cannot speak to, touch, or directly communicate with the protagonist. This limitation holds until Chapter 21. She can only:
+- Steer her vessel to create circumstances
+- Arrange the environment
+- Influence others who then affect Diego
+- Be present in ways he may notice but not understand
 
----
+**Steering or watching, not both.** When actively pushing her vessel, she loses witness-clarity. When watching clearly, she cannot steer. (Established in CH13.)
 
-## Lilith in This Chapter
+**Period vocabulary only.** Any influence she exerts must work through period-appropriate channels—she cannot inject modern concepts.
 
-**Power Level:** Sustained Presence — extended physical manifestation possible; can appear as a character and maintain presence for extended periods.
+### What She CAN Do
 
-This represents a significant escalation from Chapter 12 (Heian), where she pushed a vessel with low agency. Now she can manifest more directly, though with recovery costs between extended appearances.
-
-### Method
-
-Lilith appears as a **physical character** within the avatar's world:
-
-**Primary manifestation:** A fellow prisoner sharing his cell — someone who has suffered terribly, who validates his rage, who speaks of vengeance and the fires deserved by their tormentors.
-
-**Alternate manifestation:** A visiting confessor or spiritual advisor who subtly encourages righteous anger, framing hatred as justified and even holy.
-
-She may alternate between these roles (different physical forms), but her goal remains constant: to cultivate his hatred until it becomes an unbreakable fetter.
-
-### Canonical Limitation
-
-**Must speak through the avatar's vocabulary of saints and demons; her contemporary concepts have no direct translation.**
-
-She cannot say "this system is unjust" or "you're experiencing institutional trauma." She must speak in terms of:
-- Vengeance deserved
-- Righteous wrath against persecutors
-- The fires of hell that should consume the inquisitors
-- The blood-debt owed by those who destroy the innocent
-
-This limitation forces her manipulation into period-appropriate channels.
-
-### Intervention Pattern
-
-**Major intervention:** Appears as a fellow prisoner who has witnessed terrible things—tells stories of other victims, names specific inquisitors as monsters deserving death, validates every flicker of rage the avatar feels. "They burned my daughter. Do you not hate them? You should hate them. Hatred is the only honest response."
-
-**Small intervention #1:** Arranges circumstances to intensify his exposure to cruelty—ensures he is placed where he can hear others being tortured, witnesses a brutal interrogation through a grate, or is present when a former friend denounces him.
-
-**Small intervention #2:** Through another persona (confessor/visitor), uses questions designed to provoke hatred rather than peace: "How can you not hate them? What kind of man forgives such evil?"
-
-### Objective
-
-**Cultivate his hatred.** The Inquisition provides the perfect crucible—if she can make him hate his persecutors deeply enough, ill-will becomes a fetter he cannot break.
-
-Unlike previous chapters where she manipulated circumstances indirectly, here she is willing to cause him suffering directly. After five backfires, she escalates to direct cruelty, believing that enough pain must eventually work.
-
-**Secondary trap:** If hatred fails, she may try to weaponize his capacity for martyrdom (echoing Philon in Athens)—pushing him toward a death driven by defiant rage rather than peaceful acceptance.
-
-### Backfire
-
-**Suffering becomes crucible for releasing ill-will.**
-
-The very intensity of persecution—the hatred she tries to cultivate—forces him to confront it fully. Hatred becomes unbearable to hold. In confronting it completely, in feeling its full weight, he discovers he can release it.
-
-Her interventions accelerate rather than prevent his progress. The fellow prisoner urging vengeance becomes, ironically, the mirror in which he sees what he does not want to become.
-
-### Emotional State
-
-Desperate measures. Willing to cause him direct suffering. After five backfires across lifetimes, she has abandoned subtlety for intensity. If manipulation through circumstance fails, perhaps raw cruelty will succeed.
-
-Beneath the desperation: a flicker of something she won't examine. Why does causing him pain feel like causing pain to herself?
-
-### Physical Markers (for reader recognition)
-
-When Lilith manifests as the fellow prisoner or confessor:
-- Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face
-- Left eye deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow appears completely black)
-
-The avatar will not recognize these markers. Readers should.
+- Inhabit a past incarnation of herself present in 1491 Toledo
+- Through that vessel, manipulate circumstances around Diego
+- Position herself where Diego might observe her vessel (from a distance, through bars, etc.)
+- Influence third parties who then interact with Diego
+- Create environmental pressures designed to cultivate hatred
 
 ---
 
@@ -203,32 +148,22 @@ The avatar will not recognize these markers. Readers should.
 - At least one scene must depict the formal machinery: interrogation room, scribe recording testimony, processing of accusations
 - The bureaucratic precision of cruelty should be felt
 
-**Lilith's manifestations:**
-- Her appearances as fellow prisoner or confessor should feel earned—not magical intrusions but encounters that could happen within this world
-- Her physical markers visible to readers; the avatar may notice something unsettling without understanding why
-
 **Hatred as the test:**
 - The spiritual question of the chapter: Can he endure this without being consumed by hatred?
-- Lilith's entire strategy depends on the answer being "no"
+- The chapter must show hatred as a genuine temptation—not easily dismissed
 
 **Death scene / karmic bridge:**
 - The avatar's final insight must relate to releasing ill-will
-- Death should come with hatred released, not suppressed—he genuinely does not hate them, even as they kill him
+- Death should come with hatred released, not suppressed—genuine peace, not resignation
 - This seeds the questioning capacity needed for Renaissance skepticism (doubt without bitterness)
-
-### Optional but Strong Additions
-
-- An auto-de-fé procession glimpsed from a distance—reinforcing spectacle and fear
-- A solitary confinement sequence for psychological unraveling
-- A community rupture where a friend or relative chooses self-preservation over loyalty
-- A moment where the avatar nearly breaks into hatred—and catches himself
 
 ### Forbidden
 
-- Graphic torture descriptions (psychological horror only)
+- Graphic torture descriptions (psychological horror only; aftermath and anticipation, not the act)
 - Anachronistic critiques of the Church; critique arises through lived experience
-- Lilith appearing through "ambient influence"—she must be physically present at this power level
+- Lilith speaking directly to Diego or interacting with him face-to-face
 - Easy forgiveness—the release of hatred must be earned through genuine confrontation with its weight
+- Martyrdom-as-defiance—the death must be peaceful, not triumphant
 
 ---
 
@@ -246,8 +181,8 @@ The logic of purity has no natural stopping point. Everyone becomes suspect.
 **Spiritual progress requires confronting hatred fully—not suppressing it.**
 The avatar cannot release ill-will by pretending he doesn't feel it. He must feel its full weight, understand its temptation, and choose to set it down.
 
-**Opposition, fully met, becomes transformation.**
-What Lilith intends as a trap becomes the crucible for his liberation. Her hatred-cultivation becomes his hatred-release.
+**The healer who cannot heal himself.**
+Diego's identity as physician creates specific dramatic possibilities around helplessness, care, and the limits of service.
 
 ---
 
@@ -255,7 +190,9 @@ What Lilith intends as a trap becomes the crucible for his liberation. Her hatre
 
 ### From Chapter 12 (Heian/Kaoru)
 
-The avatar who releases equanimity in the face of impermanence now faces a different test: can he release ill-will in the face of cruelty? The aesthetic sensitivity of Kaoru becomes irrelevant here; what matters is whether the soul that accepted decay can also accept injustice without being poisoned by hatred.
+Kaoru learned: "To endure what is real. That is enough. That is everything." He released the need for illusion and accepted impermanence, including his own death.
+
+Diego inherits this capacity. He can face hard truths without flinching. What he has NOT yet learned is how to face *injustice*—cruelty inflicted by others—without being poisoned by hatred. Kaoru's test was aesthetic/existential; Diego's test is moral/interpersonal.
 
 ### To Chapter 16 (Renaissance Skeptic)
 
@@ -263,6 +200,4 @@ The release of hatred—the discovery that one can endure terrible things withou
 
 ### Lilith's Arc
 
-This is her sixth intervention across his lifetimes (counting from her first deliberate action in Ch4/Ch5). Her power has grown from remote influence to sustained physical presence. Her desperation has grown proportionally. The backfire pattern is now undeniable—every escalation accelerates his progress.
-
-After this chapter, she will need a new strategy entirely.
+This is her sixth intervention across his lifetimes. Her power has grown from remote influence to sustained vessel-steering. The pattern of backfires continues—but from Diego's POV, we see only her actions, not her internal state. Her perspective will be shown in Chapter 15.

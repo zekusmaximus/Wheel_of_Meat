@@ -10,8 +10,8 @@
     "recognition_marker": "A habit of touching his fingers together in sequence, as if counting or checking their steadiness—echoing Kaoru's fan-tracing, Verinus's stylus-cleaning. The hands of a man whose work requires control."
   },
   "psychology": {
-    "core_flaw_manifestation": "Compulsive helping manifests as the need to heal everyone, even those who persecute him. He cannot walk past suffering without attempting to address it. This makes him beloved in the community but also prevents him from fleeing when he should.",
-    "fatal_flaw": "The belief that being useful will protect him. If he heals enough people, surely they will not turn on him. This bargain with the world—service in exchange for safety—will be broken.",
+    "core_flaw_manifestation": "Compulsive helping manifests as the need to heal everyone, even those who persecute him. He cannot walk past suffering without attempting to address it.",
+    "fatal_flaw": "The belief that being useful will protect him. Service in exchange for safety—a bargain with the world that the world never agreed to.",
     "strengths": [
       "Genuine compassion developed across lifetimes",
       "Patience with physical and emotional pain (seeded from Kaoru's equanimity)",
@@ -27,66 +27,14 @@
   },
   "backstory": {
     "family_history": "His grandparents converted during the pogroms of 1391. His parents raised him Catholic in practice but Jewish in memory—lighting candles on Friday evenings, fasting on certain days that happened to coincide with Yom Kippur. The double life is his inheritance.",
-    "medical_training": "Studied under both Christian and (secretly) Arabic medical texts. His skill is genuine and recognized. He has treated nobility, clergy, and peasants alike. The Inquisitors themselves have benefited from his care.",
-    "the_bargain": "He believes his usefulness is his shield. He has watched other conversos arrested and thought: 'But I have healed too many of them. They need me.' This belief will be tested to destruction.",
-    "what_he_suppresses": "The rage at being forced to perform, the grief for traditions he cannot openly practice, the fear that never goes away. He has pushed these down so far he has forgotten they exist—until Lilith helps him find them."
-  },
-  "chapter_arc": {
-    "opening_state": "Diego moves through Toledo as a respected figure. He attends Mass, treats patients, maintains the careful performance. Beneath the surface: the constant low-grade fear, the watching of his own words, the exhaustion of never being unguarded.",
-    "inciting_incident": "A patient he treated—a minor church official—dies despite his care. The family, grief-stricken and suspicious, files a denunciation. Diego is arrested.",
-    "rising_action": "In prison, Diego meets a fellow prisoner (Lilith's primary manifestation) who validates his rage, tells stories of persecution, urges him to hate. Meanwhile, he is interrogated by officials who twist every act of kindness into evidence of secret Judaism. His bargain with the world collapses.",
-    "climax": "A moment when the hatred becomes unbearable—when he could curse them all, when the rage finally surfaces. He feels its full weight. And in that moment, discovers he can set it down. Not suppression but release.",
-    "resolution": "Condemned despite his service. The final scene: facing death without hatred. Not resignation, not martyrdom-as-defiance, but genuine peace. He does not forgive them (forgiveness implies they need it); he simply no longer carries the poison.",
-    "closing_state": "Death at the auto-de-fé. But what he carries forward: the discovery that suffering inflicted by others need not become suffering carried within. The capacity to face injustice without being consumed by bitterness seeds the Renaissance skeptic's ability to question without rage."
+    "medical_training": "Studied under both Christian and (secretly) Arabic medical texts. His skill is genuine and recognized. He has treated nobility, clergy, and peasants alike.",
+    "what_he_suppresses": "The rage at being forced to perform, the grief for traditions he cannot openly practice, the fear that never goes away. He has pushed these down so far he has forgotten they exist."
   },
   "lesson_development": {
     "perfection_or_fetter": "Releasing ill-will (Vyapada) — the second of the five hindrances, the poison that persecution is designed to cultivate",
-    "what_learned": "That hatred is a choice, even when it seems like the only rational response. That the persecutors cannot poison his soul unless he drinks the poison himself. That patience under suffering is not the same as suppressing anger—it requires facing anger fully and choosing release.",
-    "what_failed": "His bargain with the world—the belief that being useful would protect him. The Inquisition does not care how many people he has healed. This failure is necessary: he must lose the illusion of safety-through-service.",
-    "death_seeds_next": "The release of hatred without the need for reconciliation or forgiveness seeds the Renaissance skeptic's capacity for radical doubt without bitterness. A mind that can question the Church that killed him without being consumed by revenge-fantasy can question anything. The skeptic will doubt not from trauma but from genuine inquiry."
+    "inherited_from_previous": "From Kaoru: the capacity to endure reality without fleeing into illusion. Diego begins with this—he can face hard truths. What he must learn is to face injustice without being poisoned by hatred.",
+    "what_must_be_learned": "That hatred is a choice, even when it seems like the only rational response. That persecutors cannot poison his soul unless he drinks the poison himself. That patience under suffering requires facing anger fully and choosing release—not suppression.",
+    "death_seeds_next": "The release of hatred without the need for reconciliation or forgiveness seeds the Renaissance skeptic's capacity for radical doubt without bitterness. A mind that can question the Church that killed him without being consumed by revenge-fantasy can question anything."
   },
-  "supporting_characters": {
-    "the_fellow_prisoner": {
-      "name": "Catalina",
-      "true_identity": "Lilith's primary manifestation",
-      "role": "A woman in the adjacent cell—claims to be a widow whose husband was burned, whose daughter was taken",
-      "function": "Validates Diego's rage, tells horrific stories, insists that hatred is the only honest response. 'They burned my daughter. Do you not hate them? You should hate them.'",
-      "physical_markers": {
-        "widow_peak": "Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face",
-        "left_eye": "Deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in dim prison light; often appears completely black)",
-        "drafting_note": "Diego may notice something unsettling about her eyes in certain light—a wrongness he cannot name. Readers will recognize Lilith."
-      },
-      "method": "She appears when he is weakest—after interrogation, in the dark hours. She speaks the hatred he has suppressed, gives it voice, makes it feel righteous."
-    },
-    "the_inquisitor": {
-      "name": "Fray Tomás de Santo Domingo",
-      "role": "Dominican friar conducting Diego's interrogation",
-      "function": "Not a sadist but a believer—which is worse. Genuinely convinced he is saving Diego's soul. His certainty is more terrifying than cruelty would be.",
-      "irony": "Diego once treated Fray Tomás for a fever. The friar recovered. Now he repays Diego by trying to extract a confession that will lead to his execution."
-    },
-    "the_denouncer": {
-      "name": "Alonso de Herrera",
-      "role": "Brother of the patient who died; filed the denunciation",
-      "function": "Grief weaponized into suspicion. He genuinely believes Diego killed his brother through Jewish sorcery. His accusation is sincere, which makes it harder to hate him."
-    },
-    "the_guard": {
-      "name": "[TBD]",
-      "role": "A guard who shows small kindnesses—extra water, a warning about tomorrow's interrogation",
-      "function": "Complicates the hatred. Not everyone in the system is a monster. This makes the choice to release ill-will more meaningful."
-    }
-  },
-  "lilith_alternate_manifestation": {
-    "name": "Padre Esteban",
-    "role": "A confessor who visits prisoners, ostensibly to offer spiritual comfort",
-    "function": "Uses confessional questions to provoke hatred rather than peace: 'How can you not hate them? What kind of man forgives such evil? God himself demands justice.'",
-    "physical_markers": "Same widow's peak, same eye. Different face otherwise. Diego does not consciously connect them, but readers will.",
-    "constraint": "Must speak through period vocabulary—vengeance, divine wrath, blood-debt. Cannot articulate modern concepts."
-  },
-  "thematic_notes": {
-    "patience_vs_suppression": "The Patience (Khanti) seeded from Kaoru's death is not about suppressing feeling—it's about enduring while feeling. Diego must feel the hatred fully before he can release it.",
-    "the_bargain_breaking": "His core flaw (compulsive helping as shield) must be broken for the lesson to land. The Inquisition doesn't care that he's useful. Merit doesn't protect.",
-    "hatred_as_poison": "The chapter's central metaphor: hatred is the poison Lilith is trying to make him drink. The Inquisition provides the cup; she provides the pressure to drink.",
-    "release_not_forgiveness": "He does not 'forgive' his persecutors in the modern therapeutic sense. He simply stops carrying the hatred. This is subtler and more Buddhist than Christian forgiveness."
-  },
-  "notes": "Diego de Lucena is a composite figure—the name echoes historical converso families, and the profession (physician) was common among educated conversos. His medical skill gives him the 'compulsive helping' manifestation while also providing the irony of healing those who will destroy him. Lilith's challenge: she has direct access to him for the first time (sustained presence), but she must work through medieval vocabulary. Her desperation after five backfires shows in her willingness to cause direct suffering."
+  "notes": "Diego de Lucena is a composite figure—the name echoes historical converso families, and the profession (physician) was common among educated conversos. His medical skill gives him the 'compulsive helping' manifestation while also providing dramatic irony in a system that may use his skills against him or others."
 }
