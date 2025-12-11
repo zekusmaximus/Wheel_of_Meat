@@ -1,7 +1,5 @@
 # Chapter 13: The Turning
 
-## Lilith CP06 — After Heian Japan
-
 ---
 
 The afternoon light entered Lilith's office at an angle that made her patient squint—a woman in her late forties, hands clasped in her lap with the particular tightness of someone holding herself together. Caroline Webb. Third session. The intake notes mentioned divorce, adult children who had stopped calling, a face she no longer recognised in mirrors.
@@ -539,5 +537,3 @@ The thread was dark. The wheel kept turning.
 And somewhere in the gap between lives, in the space between deaths and births, two patterns continued their long weave toward a meeting neither of them yet expected.
 
 ---
-
-
