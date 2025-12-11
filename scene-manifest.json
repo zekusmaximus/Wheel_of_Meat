@@ -1852,33 +1852,135 @@
       "id": "ch14-inquisition-accused",
       "title": "The Accused",
       "type": "historical",
-      "genre": "Psychological Horror/Thriller",
+      "genre": "Psychological Horror / Procedural Suspense",
       "setting": {
         "period": "Early Modern",
-        "location": "Spain",
-        "year": "1480-1492"
+        "location": "Toledo, Castile",
+        "year": "Late autumn 1491"
       },
-      "pov": "TBD",
+      "pov": "Diego de Lucena (third person, close)",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
+        "name": "Diego de Lucena",
+        "occupation": "Converso physician",
+        "age": "Early forties",
+        "status": "Developing soul",
+        "recognition_markers": [
+          "Touches fingers together in sequence (echoes Kaoru's fan-tracing, Verinus's stylus-cleaning)",
+          "Dark hair silvering at temples, deep-set eyes, careful hands"
+        ],
+        "core_flaw": "Believes being useful will protect him—service in exchange for safety"
       },
       "lilith": {
-        "powers": "Sustained presence—extended manifestations possible",
-        "intervention": "Appears as inquisitor or fellow victim urging vengeance; cultivates hatred",
-        "objective": "If she can make him hate his persecutors deeply enough, ill-will becomes a fetter he cannot break"
+        "identity": "Sor Catalina—a beata (lay holy woman) known for visions and counsel",
+        "powers": "Sustained presence—vessel acts autonomously; Lilith's involvement revealed in Ch 15",
+        "intervention": "Through sustained presence in Sor Catalina, creates conditions where Tomás's denunciation feels necessary",
+        "objective": "Make betrayal personal and specific to poison Diego with hatred toward a named face",
+        "constraint": "Cannot speak directly to Diego; acts from vessel's own psychology"
+      },
+      "key_characters": {
+        "tomas_de_mendoza": {
+          "role": "The betrayer—cloth merchant, ten years Diego's senior",
+          "relationship": "Taught Diego Hebrew prayers; sat shiva with Diego's family",
+          "betrayal": "Provides testimony to save his arrested son Rafael"
+        },
+        "sor_catalina": {
+          "role": "Lilith's vessel—beata known for visions",
+          "appearance": "Dark hair with widow's peak, single darker strand escaping over left side",
+          "function": "Acts from own psychology; Diego feels instinctive unease"
+        }
       },
       "lesson": {
         "perfection": "Patience (khanti)",
         "theme": "Persecution and the release of hatred",
         "fetter_focus": "Ill-will (vyāpāda)",
-        "core_development": "Learning to overcome anger and hatred under extreme pressure"
+        "core_development": "Releasing ill-will toward the man who betrayed him—not abstract hatred, but specific, personal hatred",
+        "insight": "Hatred is mourning dressed as rage; a choice even when it seems the only rational response"
       },
-      "backfire": "Suffering becomes crucible for releasing ill-will",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Make betrayal personal to poison Diego with hatred",
+        "actual_result": "Specificity becomes the crucible; releasing ill-will toward a named face requires genuine spiritual work, making liberation complete"
+      },
+      "death_bridge": {
+        "description": "Dies at the stake, peaceful not triumphant; releases specific hatred toward Tomás",
+        "karmic_seed": "What else can be questioned? What else is belief rather than truth?",
+        "seeds_next": "Renaissance skeptic's radical doubt—curious doubt born of liberation, not bitter doubt born of trauma"
+      },
+      "word_target": 8900,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Performance of Safety",
+          "file": "scene-01-performance.md",
+          "word_target": 800,
+          "function": "Establish Diego's world before arrest; performance of Catholic orthodoxy; double consciousness of converso life",
+          "status": "not_started"
+        },
+        {
+          "number": 2,
+          "title": "The Holy Woman",
+          "file": "scene-02-holy-woman.md",
+          "word_target": 900,
+          "function": "Establish Sor Catalina's presence; plant reader recognition; show Diego's instinctive unease",
+          "status": "not_started"
+        },
+        {
+          "number": 3,
+          "title": "The Knock",
+          "file": "scene-03-knock.md",
+          "word_target": 1000,
+          "function": "World inverts; arrest; everything Diego has built means nothing",
+          "status": "not_started"
+        },
+        {
+          "number": 4,
+          "title": "The Processing",
+          "file": "scene-04-processing.md",
+          "word_target": 700,
+          "function": "Bureaucratic horror; Diego becomes a file; his life becomes evidence",
+          "status": "not_started"
+        },
+        {
+          "number": 5,
+          "title": "The Source",
+          "file": "scene-05-source.md",
+          "word_target": 1100,
+          "function": "Diego learns who betrayed him; hatred begins; Tomás's visit seeking absolution",
+          "status": "not_started"
+        },
+        {
+          "number": 6,
+          "title": "The Interrogation",
+          "file": "scene-06-interrogation.md",
+          "word_target": 1200,
+          "function": "Formal machinery of Inquisition; Sor Catalina present watching; epistemological trap",
+          "status": "not_started"
+        },
+        {
+          "number": 7,
+          "title": "The Healer's Burden",
+          "file": "scene-07-healers-burden.md",
+          "word_target": 800,
+          "function": "Diego's gift perverted; heals torture victim so he can survive more; self-hatred compounds",
+          "status": "not_started"
+        },
+        {
+          "number": 8,
+          "title": "The Release",
+          "file": "scene-08-release.md",
+          "word_target": 1000,
+          "function": "Darkest point; Diego confronts hatred fully and chooses to set it down; not suppression but release",
+          "status": "not_started"
+        },
+        {
+          "number": 9,
+          "title": "The Fire",
+          "file": "scene-09-fire.md",
+          "word_target": 1400,
+          "function": "Auto-de-fé; peaceful death not triumphant; karmic bridge to Renaissance skeptic; meat theme culminates",
+          "status": "not_started"
+        }
+      ],
+      "status": "outlined"
     },
     {
       "chapter": 15,
