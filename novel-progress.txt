@@ -1340,6 +1340,92 @@ meta/
 
 ### Still Needed
 
-- [ ] Period-rules.md for remaining historical chapters (14, 16, 18, 20)
-- [ ] Avatar-profile.json for unnamed avatars (14, 16, 18, 20)
-- [ ] Scene breakdowns for chapters 13-26
+- [ ] Period-rules.md for remaining historical chapters (16, 18, 20)
+- [ ] Avatar-profile.json for unnamed avatars (16, 18, 20)
+- [ ] Scene breakdowns for chapters 13, 15-26
+
+-----
+
+### Session 16 - 2025-12-12
+
+**Work Done:**
+
+- Drafted all 9 scenes of Chapter 14: The Accused (Diego de Lucena, Spanish Inquisition) (~16,300 words)
+- Scene I: The Performance of Safety (~1,470 words) - Diego's converso physician's world
+- Scene II: The Holy Woman (~1,680 words) - Sor Catalina (Lilith vessel) introduced with all recognition markers
+- Scene III: The Knock (~1,980 words) - Dawn arrest; world inverts
+- Scene IV: The Processing (~1,520 words) - Bureaucratic horror; becoming a file
+- Scene V: The Source (~2,030 words) - Tomás reveals betrayal; hatred crystallizes
+- Scene VI: The Interrogation (~2,340 words) - Sor Catalina watches; procedural dread
+- Scene VII: The Healer's Burden (~1,930 words) - Diego forced to heal torture victims; self-hatred
+- Scene VIII: The Release (~2,120 words) - Spiritual breakthrough: hatred examined and released
+- Scene IX: The Fire (~2,090 words) - Auto-de-fé death; karmic bridge to Renaissance skeptic
+- Completed all six verification passes (agent-protocol.md requirements)
+- Created VERIFICATION-REPORT.md documenting all passes
+- Committed and pushed to branch claude/draft-chapter-14-01QKwxyKxHn6EmPv7cC8fUJU
+- Created comprehensive notes for Chapter 15 (Lilith CP07)
+
+**Decisions Made:**
+
+- Diego de Lucena: converso physician in Toledo, early forties, compulsive helping flaw
+- Recognition marker: finger-touching sequence (index, middle, ring, smallest)
+- Tomás de Mendoza: the betrayer—childhood friend who testifies to save his son Rafael
+- Sor Catalina (Lilith vessel): beata (lay holy woman) with all physical markers
+- **Critical constraint maintained:** Sor Catalina never speaks directly to Diego, only watches
+- Supernatural frame absent from Chapter 14—will appear in Chapter 15 retcon
+- Hatred seed planted in Scene 3, grows through Scenes 5-7, released in Scene 8
+- Death scene peaceful not triumphant; Diego dies free of rage
+- Karmic bridge: "What else can be questioned? Everything." → seeds Renaissance skeptic's radical doubt
+
+**Continuity Notes:**
+
+- Chapter picks up from Kaoru (Ch12): inherited capacity to endure reality without illusion
+- Diego must learn: face injustice without being consumed by hatred
+- Death bridge to Chapter 16: questioning as tool rather than crime; doubt without bitterness
+- Sor Catalina's physical appearance matches Lilith across all incarnations:
+  - Widow's peak with single darker strand over left temple
+  - Pale crescent in left eye (light-dependent)
+  - Dark hair, particular stillness, watching quality
+- Tomás's betrayal echoes Devaka (Ch4) but escalated to sacred betrayal
+
+**Voice Notes:**
+
+- Psychological horror / procedural suspense genre conventions honored
+- No graphic torture—aftermath and anticipation only
+- Undermining clause present throughout with period-appropriate grammatical complexity
+- Sensory anchoring in every scene (environment before interiority)
+- Loaded gestures: finger-touching sequence, hands shaking/steadying
+- Environmental metaphor: Toledo as watching city; cell as coffin; flames as purification/destruction
+- Meat/body theme culminates: "His flesh is meat"—body as fuel for fire
+
+**Thematic Elements:**
+
+- Meat/body progression: healing hands → bodies to be processed → meat burning at stake
+- Hatred as genuine temptation, not easily dismissed
+- The physician who cannot heal himself
+- Compulsive helping flaw: Diego cannot refuse to heal even when healing serves evil
+- Release vs. forgiveness: understanding without forgiving; setting down without reconciling
+- The bargain that never existed: usefulness did not purchase safety
+
+**Outstanding Issues:**
+
+- Word count significantly over target (~16,300 vs ~8,500)—ran long due to scene complexity
+- May need trimming in revision pass, but all content serves the arc
+- Chapter 15 needs full development to show Lilith's POV on this intervention
+
+**Chapter 14 Summary:**
+
+- Total word count: ~16,300 words (target was ~8,500)
+- All nine scenes complete
+- Diego's arc: performed safety → betrayal → imprisonment → hatred → release → death
+- Lilith's intervention successfully rendered through Sor Catalina vessel
+- Recognition markers maintained throughout
+- Meat/body thread present and escalating in every scene
+- Karmic bridge to Chapter 16 (Renaissance skeptic) clearly established
+- All verification passes completed successfully
+
+**Next Steps:**
+
+- Chapter 14 complete and ready for revision pass (separate session)
+- Chapter 15 (Lilith CP07) needs drafting—comprehensive notes created
+- Chapter 16 (Renaissance skeptic) needs avatar development and scene breakdown
