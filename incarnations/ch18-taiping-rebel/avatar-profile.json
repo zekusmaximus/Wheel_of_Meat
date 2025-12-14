@@ -1,31 +1,131 @@
 {
   "chapter_id": "ch18-taiping-rebel",
   "avatar": {
-    "name": "[TBD]",
-    "occupation": "[TBD]",
-    "status": "[TBD]"
+    "name": "Wei Shufen (魏淑芬)",
+    "name_etymology": {
+      "family_name": "Wei (魏) - Common Hakka surname; historical state known for integrity",
+      "given_name": "Shufen (淑芬) - 'Virtuous and fragrant' (typically a woman's name)",
+      "significance": "Mother wanted a daughter; gave him a soft name. Minor childhood shame leads to overcompensation through service (manifestation of compulsive helping flaw)"
+    },
+    "age": 29,
+    "birth_year": 1835,
+    "ethnicity": "Hakka (客家)",
+    "occupation": "Military medic and tactical commander",
+    "status": "Lüshuai (Captain) commanding 100 men, West Wall defensive unit; de facto medic for ~500 civilians and soldiers in West Ward"
+  },
+  "background": {
+    "origin": "Farming family, Guangxi Province",
+    "joined_taiping": "1850 (age 15) with mother and younger sister",
+    "mothers_fate": "Died 1854 of cholera in Tianjing; passed herbal medical knowledge to Wei before death",
+    "sisters_fate": "Alive but separated in women's quarters; Wei hasn't seen her in years due to gender segregation policies",
+    "promotion_path": "Rose through ranks due to medical skill and battlefield competence, not political connections"
   },
   "physical": {
-    "appearance": "[TBD]",
-    "recognition_marker": "[TBD]"
+    "build": "Lean, wiry from chronic semi-starvation",
+    "face": "Square jaw, Hakka features, sun-darkened skin",
+    "hair": "Long (natural Taiping style), tied in practical bun for lice control",
+    "hands": "Herb-stained fingers, surgical scars from battlefield medicine",
+    "clothing": "Red officer's tunic (faded to rust-brown from age and bloodstains), yellow trim torn off and repurposed as bandages",
+    "bearing": "Calm, methodical movements; exhaustion visible in eyes",
+    "recognition_marker": "N/A - Recognition markers no longer needed per user decision"
   },
   "psychology": {
-    "core_flaw_manifestation": "[TBD - how compulsive helping shows in this life]",
-    "fatal_flaw": "[TBD]",
-    "strengths": [],
-    "weaknesses": []
+    "core_flaw_manifestation": "Cannot delegate medical care; must personally check every bandage. Obsessively tracks 'saved' vs 'lost' count in mental ledger. Attachment to being 'the one who saves them.' Sense of personal failure when patients die, even from mortal wounds.",
+    "fatal_flaw": "Attachment to outcomes; determination contaminated by need for success and divine validation",
+    "strengths": [
+      "Medical skill (traditional herbal medicine + battlefield surgery)",
+      "Calm under pressure (makes triage decisions without panic)",
+      "Leadership through competence (men trust him rather than fear him)",
+      "Clean doubt inherited from Jean (can question theology without bitterness)",
+      "Honest to the point of bluntness with dying patients"
+    ],
+    "weaknesses": [
+      "Attachment to outcomes (contaminated determination at start)",
+      "Overwork (exhausts himself trying to save everyone)",
+      "Guilt (counts every death as personal failure)",
+      "Difficulty accepting limits of medicine and war",
+      "Cannot delegate even when overwhelmed"
+    ],
+    "internal_voice": {
+      "characteristics": [
+        "Precise, clinical descriptions of wounds and symptoms",
+        "Methodical counting and listing (the ledger obsession)",
+        "Soft-spoken in dialogue",
+        "Honest to the point of bluntness ('You will die. I cannot stop it.')"
+      ],
+      "example": "The boy's wound is mortal—intestines perforated, infection spreading. Three days, perhaps four. I tell him he will recover, because some lies ease the passage. But I do not lie to myself. I add him to the count."
+    }
   },
   "chapter_arc": {
-    "opening_state": "[TBD]",
-    "inciting_incident": "[TBD]",
-    "climax": "[TBD]",
-    "closing_state": "[TBD]"
+    "opening_state": "Spring 1862: Competent, faithful but not fanatical, quietly optimistic. Believes 'God protects those I save.' Mental ledger: 47 saved, 23 lost. Determination is contaminated by theology and outcome-attachment.",
+    "inciting_incident": "Pattern of deaths emerges among those he saves. What begins as bad luck becomes statistically impossible—evacuees killed by shelling, healed soldiers sent to suicide missions, infections spreading to his patients. By 1863, soldiers whisper he is cursed.",
+    "development": "1862-1863: Losses mount; ledger inverts (more lost than saved). Doctrine vs reality creates cognitive dissonance. Inherits Jean's capacity for clean doubt—questions theology but doesn't become bitter. Growing dread: 'Everyone I save dies. Am I cursed?'",
+    "crisis": "Winter 1863 - June 1864: Theology collapses. Hong's 'manna' decree (eating weeds) reveals delusion. Hong's death (June 1, 1864) shatters divine protection narrative. Wei stops helping, believing he is cursed. Lilith thinks she has won.",
+    "climax": "June 1864: Wounded child appears before Wei. He hesitates—then helps anyway, knowing it may be futile. Breakthrough: 'It doesn't matter if I'm cursed. She needs help.' True adhiṭṭhāna achieved—outcome-independent determination.",
+    "closing_state": "July 19, 1864: Dies during the Qing massacre after organizing evacuation he knows will fail. Stays with wounded who cannot flee. Dies protecting them. Final thought: 'I saved no one. But the trying was not nothing. I will try again.'"
   },
   "lesson_development": {
-    "perfection_or_fetter": "[TBD]",
-    "what_learned": "[TBD]",
-    "what_failed": "[TBD]",
-    "death_seeds_next": "[TBD]"
+    "perfection_or_fetter": "Perfection: Determination (adhiṭṭhāna) - 8th of Ten Perfections",
+    "what_learned": "True determination is outcome-independent. Commitment to helping belongs to the act itself, not to the hope of success. The trying matters even when it fails. Purified determination from theological belief, divine reward expectations, and ego attachment to 'saving' people.",
+    "what_failed": "Initial determination was contaminated: dependent on belief in God's protection, attached to successful outcomes, driven by identity as 'the one who saves.' Failed to recognize that futility does not negate rightness of action.",
+    "death_seeds_next": "Seeds Ch20 (Noir Detective): Capacity to persist through repeated failure. Determination that doesn't require victories. Energy/perseverance (viriya) in the face of systemic corruption and unsolvable cases. Question forward: 'If trying matters even when it fails, what is worth trying when the system itself is the enemy?'"
   },
-  "notes": "[TBD]"
+  "karmic_bridges": {
+    "from_previous": {
+      "chapter": 16,
+      "avatar": "Jean (Renaissance Skeptic)",
+      "received": "Capacity for truthfulness under uncertainty; clean doubt without bitterness; ability to act honestly as someone who doesn't know",
+      "question_inherited": "If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?",
+      "how_manifests": "Wei can doubt Taiping theology without becoming bitter. He doesn't need theological certainty to act. He can question doctrine while still functioning as healer/leader. This allows him to maintain determination even after faith collapses."
+    },
+    "to_next": {
+      "chapter": 20,
+      "avatar": "Noir Detective (1930s-40s)",
+      "passes_forward": "Purified determination; ability to persist through repeated failure; energy/perseverance that doesn't require victories; understanding that trying matters independent of outcomes",
+      "question_seeded": "If trying matters even when it fails, what is worth trying when the system itself is the enemy? How do you persist when the corruption is institutional, not individual?",
+      "how_will_manifest": "Detective will work cases knowing most won't solve. Will pursue truth in a broken system. Will maintain energy/perseverance (viriya) despite institutional obstacles and repeated failures."
+    }
+  },
+  "historical_context": {
+    "period": "1862-1864",
+    "location": "Tianjing (Nanjing), Jiangsu Province, China",
+    "event": "Siege of Tianjing during the Taiping Rebellion",
+    "genre": "War epic",
+    "death_date": "July 19, 1864 (during the Qing massacre after walls breached)",
+    "historical_notes": "The Taiping Rebellion (1850-1864) was the bloodiest civil war in history (20-30 million dead). The Siege of Tianjing lasted from 1862-1864, ending with ~100,000 killed in three days of massacre. Wei dies in the final hours of the city's fall."
+  },
+  "lilith_intervention": {
+    "power_level": "Near-full manifestation",
+    "primary_objective": "Tracking this incarnation forward to locate modern Silas (reconnaissance mission)",
+    "secondary_objective": "Opportunistic intervention to test breaking his determination while observing",
+    "method": "Circumstantial manipulation over 2 years (1862-1864): adjusts artillery timing so evacuees are shelled; influences commanders to send healed soldiers to suicide missions; spreads disease to specific patients; causes intelligence failures and supply losses",
+    "physical_manifestation": "None—Lilith does not appear as a character Wei interacts with. Saves physical manifestation for modern Manchester.",
+    "wei_experience": "Extraordinary bad luck following him. Statistically impossible pattern of deaths among 'saved' people. Growing dread that he is cursed. No visible antagonist—feels like fate/God/karma.",
+    "lilith_expectation": "Wei becomes demoralized and stops helping. Determination broken. She continues tracking forward.",
+    "actual_result": "Backfire. By making futility visible, Lilith forces Wei to purify determination from outcome-attachment. He helps anyway, knowing it's futile. True adhiṭṭhāna achieved.",
+    "backfire_realization": "Lilith watches him die still helping others during the massacre. Realizes the intervention accelerated his perfection instead of breaking it. Frustration: 'Even when I'm not trying to help him, I help him.'"
+  },
+  "thematic_notes": {
+    "war_epic_principles": [
+      "War as system, not villain (logistics, hierarchy, scarcity are antagonists)",
+      "Body as ledger (physical suffering is measure of truth)",
+      "Hierarchy as moral corrosion (orders are correct and catastrophic)",
+      "Inevitable disillusionment arc (Belief → Function → Fracture → Residual Ethic)",
+      "No clean endings (death accomplishes nothing strategically)"
+    ],
+    "key_motifs": [
+      "The ledger (counting saved vs lost)",
+      "Hands (herb-stained, bloodied, holding the dying)",
+      "Dust and smoke (siege atmosphere)",
+      "Empty rice bowls (scarcity)",
+      "Temple space (converted aid station; echoes of destroyed faith)"
+    ],
+    "disillusionment_stages": {
+      "belief": "God protects those I save (theology supports commitment)",
+      "function": "My duty is to try, regardless of theology (inherited from Jean)",
+      "fracture": "Everyone I touch dies—I am the curse (crisis of faith)",
+      "residual_ethic": "I help because it is right, not because it will work (pure adhiṭṭhāna)"
+    }
+  },
+  "notes": "Wei Shufen represents the purification of determination through futility. His arc demonstrates that true adhiṭṭhāna is outcome-independent—commitment to helping others regardless of success, divine reward, or personal validation. The siege provides the perfect crucible: a war epic where systems crush individuals, where the body pays the price ideology demands, and where meaning exists in the attempt rather than the achievement. Lilith's opportunistic intervention (while tracking him forward to modern times) backfires by forcing this purification, accelerating rather than hindering his spiritual development. This is the penultimate historical avatar before modern Silas—spiritually advanced, working on the 8th perfection, two lives away from stream-entry."
 }

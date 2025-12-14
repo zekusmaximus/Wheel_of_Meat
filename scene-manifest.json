@@ -2308,34 +2308,162 @@
     {
       "chapter": 18,
       "id": "ch18-taiping-rebel",
-      "title": "The Rebel",
+      "title": "The Determination",
       "type": "historical",
       "genre": "War Epic",
       "setting": {
-        "period": "Modern",
-        "location": "China",
-        "year": "1850-1864"
+        "period": "Taiping Rebellion",
+        "location": "Tianjing (Nanjing), Jiangsu Province, China",
+        "year": "1862-1864"
       },
-      "pov": "TBD",
+      "pov": "Wei Shufen (third person, close)",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
+        "name": "Wei Shufen (魏淑芬)",
+        "occupation": "Military medic and tactical commander",
+        "age": 29,
+        "rank": "Lüshuai (Captain)",
+        "status": "Spiritually advanced—developing 8th perfection",
+        "ethnicity": "Hakka",
+        "core_flaw": "Compulsive helping—obsessive ledger tracking; attachment to being 'the one who saves'; cannot delegate medical care"
       },
       "lilith": {
-        "powers": "Near-full manifestation—extended physical presence, direct confrontations",
-        "intervention": "Ensures everyone he tries to save dies anyway",
-        "objective": "Make self-sacrifice meaningless; if sacrifice achieves nothing, he may abandon helping others entirely"
+        "primary_objective": "Tracking this incarnation forward to locate modern Silas (reconnaissance mission)",
+        "secondary_objective": "Opportunistic intervention to test breaking determination while observing",
+        "powers": "Near-full manifestation—circumstantial manipulation over extended time",
+        "intervention": "Adjusts artillery timing, influences unit assignments, spreads disease vectors, causes intelligence failures—ensures everyone Wei saves dies anyway",
+        "manifestation": "None—no physical appearance; saves that for modern Manchester",
+        "objective": "Make futility visible; if everyone he saves dies, he'll stop helping and determination will break"
       },
       "lesson": {
-        "perfection": "Determination (adhiṭṭhāna)",
-        "theme": "Self-sacrifice and its meaning",
-        "core_development": "Choosing others' welfare over survival in war's chaos"
+        "perfection": "Determination (adhiṭṭhāna) - 8th of Ten Perfections",
+        "theme": "Purification of determination through futility; outcome-independent commitment",
+        "fetter_focus": "None (perfection development, not fetter breaking)",
+        "core_development": "Learning that true determination belongs to the act of helping, not to the hope of success. Moving from contaminated determination (theology + outcomes) to pure adhiṭṭhāna (helping because it's right, regardless of result).",
+        "insight": "The trying is never nothing—even when everything fails"
       },
-      "backfire": "TBD",
-      "word_target": 10000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Make futility visible to break his determination; if self-sacrifice achieves nothing, he'll abandon helping",
+        "actual_result": "By making futility visible, Lilith forces Wei to purify determination from outcome-attachment. He helps anyway, knowing it's futile. True adhiṭṭhāna achieved—outcome-independent determination.",
+        "mechanism": "Disillusionment arc (Belief → Function → Fracture → Residual Ethic) strips away contamination, leaving pure commitment to helping"
+      },
+      "death_bridge": {
+        "description": "Dies during July 19, 1864 Qing massacre of Tianjing. Organizes evacuation knowing it will fail (Lilith intercepts it). Stays with wounded who cannot flee. Killed by Qing soldiers while protecting them.",
+        "final_thought": "I saved no one. The walls fell. The kingdom fell. Every hand I held went cold. But the holding was not nothing. The trying is never nothing. I will try again.",
+        "karmic_seed": "If trying matters even when it fails, what is worth trying when the system itself is the enemy?",
+        "seeds_next": "Noir Detective (Ch20)—capacity to persist through repeated failure; energy/perseverance (viriya) that doesn't require victories"
+      },
+      "inherited_from_jean": "Capacity for truthfulness under uncertainty; clean doubt without bitterness; can question theology while still functioning as healer/leader; allows determination to persist after faith collapses",
+      "word_target": 13000,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Arithmetic",
+          "file": "scene-01-arithmetic.md",
+          "word_target": 1400,
+          "timeline": "Spring 1862",
+          "function": "Establish Wei's competence, baseline faith, ledger obsession; plant first seed of pattern",
+          "opening": "Wei treating wounded at dawn in temple aid station",
+          "closing": "Wei updates ledger: '48 saved, 23 lost'—doesn't know numbers will invert",
+          "key_beats": "Triage calculus; ledger counting; genuine but quiet faith; successful surgery; soldier returns (will die tomorrow—Lilith's touch)",
+          "word_count": 1458,
+          "status": "complete"
+        },
+        {
+          "number": 2,
+          "title": "The First Fracture",
+          "file": "scene-02-first-fracture.md",
+          "word_target": 1500,
+          "timeline": "Summer 1862 (3 months later)",
+          "function": "Pattern begins; first loss of someone 'saved'; escalate stakes",
+          "opening": "Mass casualty event—30+ wounded flood aid station",
+          "closing": "Wei burns corpses; girl he saved watches; ledger: '71 saved, 58 lost—gap closing'",
+          "key_beats": "Brutal triage; gut wound mercy killing; evacuated family returns (parents dead); first seed of doubt about his efficacy",
+          "word_count": 1587,
+          "status": "complete"
+        },
+        {
+          "number": 3,
+          "title": "The Doctrine",
+          "file": "scene-03-doctrine.md",
+          "word_target": 1300,
+          "timeline": "Fall 1862 (3 months later)",
+          "function": "Hierarchy as moral corrosion; theology vs. reality; Wei obeys impossible order",
+          "opening": "Sabbath service—preacher rants about divine protection while Wei sees dying men in crowd",
+          "closing": "Wei alone, ledger: '103 saved, 97 lost'—nearly even; sits before empty Buddha alcove",
+          "key_beats": "Sermon cognitive dissonance; impossible order to release unready men; 18 of 20 die in raid; Wei registers failure without bitterness",
+          "word_count": 1728,
+          "status": "complete"
+        },
+        {
+          "number": 4,
+          "title": "The Pattern",
+          "file": "scene-04-pattern.md",
+          "word_target": 1600,
+          "timeline": "Spring 1863 (6 months later)",
+          "function": "Wei consciously recognizes pattern; superstition takes root; ledger inverts",
+          "opening": "Wei making list of 15 people he saved—checking on them methodically",
+          "closing": "Wei burns the list; ledger: '133 saved, 128 lost'—gap closed; 'Five left before I've killed more than I've saved'",
+          "key_beats": "12 of 15 dead (impossible statistics); conversation with Old Huang; soldiers whisper 'cursed'; girl returns (starving)",
+          "word_count": 1982,
+          "status": "complete"
+        },
+        {
+          "number": 5,
+          "title": "The Manna",
+          "file": "scene-05-manna.md",
+          "word_target": 1700,
+          "timeline": "Winter 1863-1864 (9 months later)",
+          "function": "Theology collapses; body truth over doctrine; shift to residual ethic",
+          "opening": "Wei stares at bowl of 'manna' (weeds)—Hong's decree that this is God's provision",
+          "closing": "Wei stops counting ledger; 'Saved' and 'lost' are meaningless—everyone's dying, he just chooses the speed",
+          "key_beats": "Manna decree; ethical horror of distribution; dysentery outbreak; dying believer asks 'Why?'; Wei stays (function, not faith)",
+          "word_count": 1858,
+          "status": "complete"
+        },
+        {
+          "number": 6,
+          "title": "The King is Dead",
+          "file": "scene-06-king-dead.md",
+          "word_target": 1500,
+          "timeline": "June 1-3, 1864 (5 months later)",
+          "function": "Hong dies; Wei's crisis peaks and breaks; the breakthrough moment",
+          "opening": "Runners bring news at dawn: Hong Xiuquan is dead",
+          "closing": "Child leaves, bandaged; Wei: 'When walls break, he'll die anyway. But not from this wound. Not today.' Returns to work.",
+          "key_beats": "Hong's death; social order collapses; Wei paralyzed (stops working 2 days); wounded child appears; breakthrough: helps anyway, knowing it's futile",
+          "word_count": 1924,
+          "status": "complete"
+        },
+        {
+          "number": 7,
+          "title": "The Walls Break",
+          "file": "scene-07-walls-break.md",
+          "word_target": 2000,
+          "timeline": "July 19, 1864 (dawn to mid-morning) - Real-time",
+          "function": "Application of purified determination; Wei organizes futile evacuation; sees pattern's hand",
+          "opening": "Explosion—wall collapses, Qing forces flood through breach",
+          "closing": "Wei kneels with wounded in temple, boy's hand in his; footsteps approach; they wait",
+          "key_beats": "The breach; triage arithmetic (reprise); orders evacuation knowing it's futile; Lilith's cavalry intercepts (slaughter); Wei returns to wounded",
+          "word_count": 1652,
+          "status": "complete"
+        },
+        {
+          "number": 8,
+          "title": "The Ledger Closes",
+          "file": "scene-08-ledger-closes.md",
+          "word_target": 1800,
+          "timeline": "July 19, 1864 (midday) - Real-time (final minutes)",
+          "function": "Death scene; bridge to Ch20; close ledger; demonstrate adhiṭṭhāna achieved",
+          "opening": "Silence after massacre; Wei and 40 wounded wait; footsteps approaching",
+          "closing": "Wei's body on temple floor, eyes open, one hand reaching toward boy; ledger closed",
+          "key_beats": "The wait; internal review (not ledger—abandoned); Jean's question answered; Qing soldiers arrive; Wei stands between them and wounded; death; final thought (Ch20 bridge)",
+          "word_count": 1502,
+          "status": "complete"
+        }
+      ],
+      "total_word_count": 12691,
+      "status": "drafted",
+      "outline_complete_date": "2024-12-14",
+      "draft_complete_date": "2024-12-14"
     },
     {
       "chapter": 19,
