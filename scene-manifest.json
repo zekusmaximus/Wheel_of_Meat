@@ -2203,7 +2203,7 @@
     {
       "chapter": 17,
       "id": "ch17-lilith-cp08",
-      "title": "TBD",
+      "title": "The Pivot",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
@@ -2215,28 +2215,81 @@
       "lilith": {
         "age": 32,
         "years_tracking": 7,
-        "occupation": "Psychiatrist (considering leave)",
-        "power_level": "Extended interaction",
-        "emotional_state": "Intellectually engaged but interventions keep failing"
+        "occupation": "Psychiatrist, NHS (actively considering leave)",
+        "power_level": "Extended interaction - deeper observation from distance",
+        "emotional_state": "Intellectually exhausted; frustrated but not desperate; pattern recognition crystallizing"
       },
       "corresponds_to": {
         "historical_chapter": 16,
-        "avatar": "Renaissance skeptic",
-        "lesson": "Truthfulness / Doubt"
+        "avatar": "Jean de Langon, Renaissance skeptic",
+        "lesson": "Truthfulness without certainty"
       },
       "demonstration": {
-        "fetter": "TBD—related to certainty/doubt",
-        "scene": "TBD"
+        "fetter": "Radical skepticism / paralysis by uncertainty",
+        "scene": "University student patient paralyzed by doubt, unable to commit to thesis position",
+        "lilith_advice": "Truthfulness doesn't require certainty - can acknowledge limits while taking action",
+        "irony": "Gives perfect advice while her own 7-year strategy is paralyzed by distance"
       },
       "tracking_content": {
-        "observes": "Renaissance avatar's intellectual journey",
-        "intervention": "Extended interaction—philosophical companion encouraging doubt",
-        "tracks_forward_to": "Taiping avatar"
+        "observes": "Jean's investigation, philosophical debates with Marguerite, breakthrough to truthfulness without certainty, death for honest uncertainty",
+        "isabeau_recognition": "Brief glimpse of her past incarnation (Isabeau de Carcassonne) at the ball - filed without drama, she already knows she has past lives",
+        "intervention_backfire": "Her influence through Marguerite's skeptical arguments sharpened Jean's thinking rather than paralyzing him",
+        "pain_at_death": "Inexplicable empathy watching him die (Maitreya foreshadowing)",
+        "tracks_forward_to": "Begins searching for Ch18 Taiping avatar as bridge to present"
       },
-      "backfire_awareness": "Interventions consistently failing; patients notice preoccupation",
-      "word_target": 2500,
-      "scenes": [],
-      "status": "needs_development"
+      "central_realization": {
+        "pattern_undeniable": "7 years, 7 interventions, 7 backfires - she's training him, not stopping him",
+        "distance_is_problem": "Working through intermediaries, circumstances, past incarnations - always one step removed",
+        "the_pivot": "Decision to stop working in past, find him in present timeline, engineer direct contact"
+      },
+      "backfire_awareness": "Pattern now explicit and undeniable - every intervention accelerates him. Distance strategy has structurally failed.",
+      "professional_decline": "Colleagues visibly concerned, researching university positions, considering extended leave",
+      "threads_addressed": [
+        "Kinship whisper deepens",
+        "'Together doesn't hold' resurfaces",
+        "'What does that remind me of?' (Beat 5) surfaces unanswered",
+        "Maitreya foreshadowing: pain at his death, inexplicable empathy"
+      ],
+      "word_target": 7000,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The University Student",
+          "word_target": 1000,
+          "function": "Demonstration; foreshadow university transition"
+        },
+        {
+          "number": 2,
+          "title": "Professional Deterioration",
+          "word_target": 800,
+          "function": "NHS decline; seed career transition"
+        },
+        {
+          "number": 3,
+          "title": "The Loneliness of Knowledge",
+          "word_target": 700,
+          "function": "Family/friend grounding; isolation of what she knows"
+        },
+        {
+          "number": 4,
+          "title": "Tracking - The Renaissance Skeptic",
+          "word_target": 2500,
+          "function": "CLIMAX - observe Ch16, recognize Isabeau (minor beat), witness backfire, feel pain at death"
+        },
+        {
+          "number": 5,
+          "title": "Processing the Pattern",
+          "word_target": 1200,
+          "function": "7 backfires listed, pattern analysis, pivot decision forms"
+        },
+        {
+          "number": 6,
+          "title": "CODA - The Search Begins",
+          "word_target": 800,
+          "function": "Commitment to new strategy; search for Ch18 avatar"
+        }
+      ],
+      "status": "outlined"
     },
     {
       "chapter": 18,
