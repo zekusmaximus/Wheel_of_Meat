@@ -1,31 +1,142 @@
 {
   "chapter_id": "ch20-noir-detective",
   "avatar": {
-    "name": "[TBD]",
-    "occupation": "[TBD]",
-    "status": "[TBD]"
+    "name": "Jack Malone (John Patrick Malone)",
+    "occupation": "Private Detective (ex-LAPD)",
+    "status": "Barely surviving; office on Bunker Hill, cheap SRO room, taking cases that pay",
+    "age": 38,
+    "born": 1900,
+    "location": "Los Angeles, California (Bunker Hill)",
+    "time_period": "January–March 1938"
   },
   "physical": {
-    "appearance": "[TBD]",
-    "recognition_marker": "[TBD]"
+    "height": "5'10\" (average)",
+    "build": "Lean, wiry (160 lbs, not eating regularly)",
+    "hair": "Dark brown, slicked back with pomade, some gray at temples",
+    "eyes": "Blue-gray (cold, observant, tired)",
+    "face": "Angular, weathered, five-o'clock shadow by noon",
+    "distinguishing_features": [
+      "Small scar through left eyebrow (WWI shrapnel)",
+      "Crooked nose (broken twice: once in war, once as cop)",
+      "Scarred knuckles, callused hands",
+      "Nicotine-stained fingers"
+    ],
+    "recognition_marker": "Rubs jaw when thinking/troubled (gesture persists across lives → Silas does this in Ch1:9)",
+    "voice": "Gravelly, from cigarettes and whiskey, dry humor",
+    "typical_dress": "Gray or brown fedora (worn), off-the-rack suit (dark gray/brown, $20, two years old), white shirt (collar fraying), narrow dark tie (often loosened), suspenders, scuffed leather shoes, tan trench coat, shoulder holster with Colt Detective Special (.38). Always looks slightly rumpled."
+  },
+  "background": {
+    "family": "Irish-American working class. Father: dockworker/union man, died in industrial accident (1912). Mother: seamstress, died of influenza (1919). No living family.",
+    "military_service": "U.S. Army, WWI, 1917-1918 (age 17-18, lied about age). Fought in France: Belleau Wood, Meuse-Argonne. Returned 1919.",
+    "lapd_career": "Joined LAPD 1920 (age 20)—needed structure, paycheck, purpose. Beat cop → Detective Division by 1928. Reputation: good cop, good detective, played by the rules.",
+    "quit_force_1936": "Ordered to cover up evidence in murder case (Combination-connected suspect). Refused, threatened with demotion/termination. Quit before they could fire him. Walked away from pension, seniority, everything.",
+    "private_detective_1936_present": "Office on Bunker Hill, above Angels Flight. Specialties: infidelity, missing persons, skip-tracing, background checks. Reputation: ex-cop, honest (liability in corrupt city), competent but unlucky.",
+    "recent_failures": "Last 6 months: cases going south, clients disappearing, witnesses recanting. Doesn't know it's Lilith sabotaging everything. Thinks he's lost his touch, getting old, drinking too much."
   },
   "psychology": {
-    "core_flaw_manifestation": "[TBD - how compulsive helping shows in this life]",
-    "fatal_flaw": "[TBD]",
-    "strengths": [],
-    "weaknesses": []
+    "core_flaw_manifestation": "Attachment to personal code: 'Someone has to give a damn.' Can't walk away from people who need help. Compulsive helping dressed up as cynical pragmatism. Says he does it for money, but takes cases he knows won't pay. The code is noble; the attachment to it is the fetter. Will die because he can't let go of the corruption case.",
+    "fatal_flaw": "The compulsive helping manifests as attachment to his personal code. He tells himself he's just doing a job, but he's attached to being 'the one who still cares.' This is subtle spiritual obstacle: the helper identity is still identity. Noble on surface, fetter underneath. Will get him killed—but also purify the perfection of Energy (viriya).",
+    "strengths": [
+      "Observant, patient, methodical",
+      "Good instincts about people (usually)",
+      "Tough, resilient, doesn't quit",
+      "Combat veteran—can handle violence",
+      "Ethical in corrupt world (stubbornly so)",
+      "Loyal to clients (even when they betray him)"
+    ],
+    "weaknesses": [
+      "Drinks too much (self-medicating loneliness, war trauma)",
+      "Cynical but not cynical enough (still believes in justice)",
+      "Attracted to dangerous women (weakness Lilith exploits)",
+      "Won't walk away even when smart",
+      "Pride (won't admit he's in over his head)",
+      "Attachment to being 'the good guy'"
+    ],
+    "habits": [
+      "Smokes Lucky Strikes (two packs a day)",
+      "Drinks rye whiskey (in office, at home, in bars)",
+      "Rubs jaw when thinking (RECOGNITION MARKER)",
+      "Skips meals when working case",
+      "Walks everywhere (can't afford to drive much)",
+      "Takes Angels Flight daily (5¢, cheaper than driving)",
+      "Reads pulp detective magazines (ironic enjoyment)",
+      "Listens to The Shadow on radio"
+    ],
+    "living_situation": "SRO boarding room, Bunker Hill ($6/week). Spartan: Murphy bed, hotplate, clothes, typewriter. Shared bathroom down hall. No social life (no friends, no girlfriend, no family). Eats at Clifton's, drinks at dive bars. Lonely but won't admit it. Work is his life."
   },
   "chapter_arc": {
-    "opening_state": "[TBD]",
-    "inciting_incident": "[TBD]",
-    "climax": "[TBD]",
-    "closing_state": "[TBD]"
+    "opening_state": "Morning after a failed case (witness recanted, client fired him). Hung over, frustrated, questioning everything. Rent is due, money's tight. Knows he should quit taking cases, but can't. When Lilith walks in with corruption case, he should refuse—but doesn't. 'Someone has to give a damn, even if it kills me.' (It will.)",
+    "inciting_incident": "Lilith (under alias) walks into his office with corruption case: gather evidence against Shaw administration for recall movement. Offers good money, inside information, chance to take down the Combination. He knows it's dangerous (Raymond bombing still fresh). Takes it anyway.",
+    "main_case": "Corruption expose: hired to gather evidence against Mayor Shaw, Chief Davis, and Combination enforcers. Timeline: January (post-Raymond bombing) through March (Great Flood). Every piece of evidence destroyed, every witness dead/silent, Lilith orchestrating it all.",
+    "subplot_cases": [
+      "Missing person (early): Finds husband for worried wife—dead in alley next day, wife denies hiring him. Pattern begins.",
+      "Blackmail case (mid): Client being blackmailed—discovers client guilty of worse, blackmailer turns up dead, Malone looks like suspect. Another failure."
+    ],
+    "relationship_with_lilith": "Attracted to her (can't help it). She uses this (classic femme fatale). Mutual suspicion + mutual attraction = noir tension. He suspects she's not who she claims—but needs the case. She provides real corruption evidence but ensures it all falls apart. By late March, he's marked for death.",
+    "climax": "Late March 1938, during/after Great Flood. Case has fallen apart, he's marked for death, knows it. Gets in Buick Roadmaster, turns key. Car bomb (starter-wired) detonates. Lilith appears on street, 'rushing to avoid' explosion.",
+    "closing_state": "Extended bleed-out sequence in the rain. Realizes: (1) Lesson of viriya—perseverance purified of outcome-attachment, (2) All ten perfections complete across lives, (3) Strong urge to break first three fetters in next life, (4) This urge propels rebirth as Silas Pahlavan. Dies with anticipation, readiness, completion. Not defeat—victory. Rain falling, blood washing away, eyes closing. Lilith watching, horrified. Chapter ends.",
+    "death_context": "Car bomb explosion (echoes Harry Raymond bombing). Bleeds out in rain during/after Great Flood. Final thoughts: completion recognition, stream-entry urge, anticipation of next life."
   },
   "lesson_development": {
-    "perfection_or_fetter": "[TBD]",
-    "what_learned": "[TBD]",
-    "what_failed": "[TBD]",
-    "death_seeds_next": "[TBD]"
+    "perfection_or_fetter": "Perfection: Energy (viriya) — Right effort, perseverance, sustained effort without attachment to results. FINAL PERFECTION: All ten complete by end of this life.",
+    "what_learned": "True viriya = continuing because it's right, not because it succeeds. Every failed case was practice in right effort without outcome-attachment. He never stopped trying, even knowing it was futile. The perseverance purified of ego, results, need for victory. 'I didn't save anyone. But the trying was not nothing.'",
+    "what_failed": "The corruption case falls apart completely. Every witness dies or recants. Every piece of evidence destroyed (many by flood). Reformers back out, deny hiring him. Newspaper won't print his findings. He solves nothing, saves no one, changes nothing. The Combination wins. He dies.",
+    "death_seeds_next": "All ten perfections complete. Strong urge to break first three fetters (self-illusion, doubt, rites/rituals) in next life. This urge is powerful enough to direct rebirth → Silas Pahlavan, the life where stream-entry happens. Dies anticipating breakthrough.",
+    "backfire_mechanism": "Lilith makes every effort futile to break his perseverance. Instead, teaches him outcome-independent perseverance. He continues despite knowing it's pointless: 'Someone has to give a damn, even if it changes nothing.' This purifies viriya from attachment to success. He dies persevering—perfection complete. She thinks she's won (killed him); he's won (completed path). Final historical backfire before modern confrontation."
   },
-  "notes": "[TBD]"
+  "noir_elements": {
+    "genre": "Detective Noir (hard-boiled)",
+    "voice": "First-person (Jack Malone POV) for maximum noir authenticity. Internal monologue: sardonic, philosophical, weary. Observational detail through metaphor. Short declarative sentences + longer reflective passages.",
+    "tone": "Noir cynicism, hard-boiled weariness, rain and neon and smoke. LA as beautiful and rotten. Underlying persistence Lilith cannot break. Spiritual victory disguised as worldly defeat.",
+    "required_elements": [
+      "Rain (especially climax during Great Flood)",
+      "Shadows, neon, smoke",
+      "Corrupt cops, city officials",
+      "Femme fatale (Lilith)",
+      "Failed cases, betrayed allies",
+      "Violence that doesn't resolve moral problems",
+      "The city as character/antagonist",
+      "Drinking, smoking, insomnia",
+      "Ethical code tested and held",
+      "Ending: defeat in worldly terms, victory in spiritual terms"
+    ],
+    "thematic_engine": "What does integrity look like in a world that punishes it?",
+    "thematic_rule": "If the reader feels cleaner at the end, you did it wrong."
+  },
+  "lilith_intervention": {
+    "power_level": "Full manifestation in past timeline. Can physically manifest with complete presence. All human-realm powers. This is her last chance before present day—maximum desperation.",
+    "emotional_state": "Panic beneath control; she can feel him approaching stream-entry in modern timeline. Desperation masked by femme fatale performance. Throwing everything at him. Weight of 18+ failed interventions pressing on her. Willing to kill directly.",
+    "manifestation": "Single femme fatale identity throughout. Appears as client/informant for corruption case. Classic 1938 styling: victory rolls, red lipstick, expensive silk dress, fur stole. Canonical face (widow's peak, dark strand left, pale green crescent in left eye 11-1 o'clock). Readers recognize her; Malone doesn't.",
+    "method": "Provides real corruption evidence but ensures it all falls apart. Witnesses die, evidence destroyed, clients betray him, police harass him. Makes him look dangerous to Combination. Sets up car bomb. Uses attraction/sexual tension as weapon. Classic noir: he knows she's lying, helps her anyway.",
+    "sabotage_pattern": [
+      "Witnesses die or disappear (made to look like Combination hits)",
+      "Evidence vanishes (stolen from office, destroyed in flood)",
+      "Clients betray him (reformers back out, deny knowing him)",
+      "Police harassment escalates (arrested, beaten, threatened)",
+      "Every victory turns to ash (smoking gun destroyed, enforcer found dead, newspaper refuses to print)"
+    ],
+    "car_bomb_setup": "By late March, Malone marked for death. Combination thinks he's threat (Lilith engineered). She 'warns' him to back off (fake concern). He refuses (can't walk away). Bomb planted in Buick Roadmaster. She's nearby when it happens.",
+    "backfire": "Making every effort futile teaches outcome-independent perseverance. He continues despite knowing it's pointless. Purifies viriya from attachment to success. Dies persevering—perfection complete. She thinks she won; he won."
+  },
+  "historical_context": {
+    "year": 1938,
+    "location": "Los Angeles, California",
+    "key_events": [
+      "Harry Raymond bombing (Jan 14, 1938): Car bomb, LAPD Spy Squad, sets paranoia tone",
+      "Great Flood (Feb 27 - Mar 3, 1938): LA River floods, 100+ dead, city chaos",
+      "Recall movement: Shaw administration corruption exposed, reform vs. Combination"
+    ],
+    "political_climate": "Mayor Frank Shaw's 'Combination' (city government + LAPD + mob). Chief 'Two-Gun' Davis runs Gun Squad. P.I.s harassed/bombed. Reform movement building.",
+    "social_context": "Great Depression (10 years in). Dust Bowl refugees. Stark class divide (Bunker Hill slums vs. flatlands wealth). Rigid racial segregation. Hollywood glamour facade over urban rot.",
+    "daily_costs": {
+      "coffee": "5¢",
+      "whiskey_shot": "25¢–35¢",
+      "pi_daily_rate": "$25/day + expenses",
+      "boarding_room": "$6/week (~$25/month)",
+      "angels_flight": "5¢",
+      "buick_roadmaster": "$900–1,000 (new)"
+    }
+  },
+  "word_count_target": "~8,000–11,000 words",
+  "notes": "FINAL HISTORICAL LIFE before modern Silas Pahlavan. All ten perfections complete by death. Strong stream-entry urge seeds next incarnation. Car bomb death matches Ch1 flashback (rain, Buick Roadmaster, Lilith as passerby). First-person noir voice essential. Spiritual triumph disguised as worldly defeat."
 }
