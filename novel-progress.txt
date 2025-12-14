@@ -1554,3 +1554,232 @@ meta/
 - Chapter 16 (Renaissance skeptic) needs avatar development and drafting
 - Chapter 17 (Lilith CP08) will show one year later (age 32), armed with wheel knowledge
 
+
+---
+
+## SESSION: Chapter 16 Draft Complete (2025-12-14)
+
+**Chapter 16: "The Skeptic" — DRAFTED**
+
+**Session Type:** Mode 2 - DRAFTING (Historical Chapter)
+**Session Duration:** Single session
+**Total Word Count:** 13,546 words (target was 9,000; appropriate for complex philosophical adventure)
+
+### Chapter Overview
+
+**Genre:** Philosophical Adventure / Swashbuckling  
+**Setting:** Guyenne, France, 1588 (French Wars of Religion)  
+**POV:** Jean de Langon (third person, close)  
+**Avatar Age:** 42-43  
+**Lesson Focus:** Truthfulness (sacca) / Breaking doubt (vicikicchā)
+
+### Core Achievement
+
+Jean learns the central insight: **Truthfulness is not the same as certainty.** He can act *as someone who does not know*—stating honestly what was observed and what remains uncertain—rather than refusing to act because certainty is impossible.
+
+This breaks the fetter of vicikicchā not by acquiring certainty, but by discovering that truthful action doesn't require it.
+
+### Scene Breakdown (9 scenes completed)
+
+1. **The Assignment** (1,196 words) - Jean receives impossible investigation from Magistrate de Lacaze; Protestant notable murdered; both factions demand conclusions serving their interests
+2. **The Witnesses** (1,457 words) - Three witnesses, three mutually exclusive accounts; Jean's investigative tools produce questions, not answers
+3. **The Ambush** (1,191 words) - Attacked on road by masked men; faction unknown; Jean survives but understands neutrality ≠ safety
+4. **The Printer's Widow** (1,493 words) - Marguerite Viret (Lilith's vessel) introduced; philosophical companionship begins; quotes Montaigne; plants skeptical arguments
+5. **The Document** (1,563 words) - Unverifiable letter suggests Protestant conspiracy; could be genuine or perfect forgery; Jean's paralysis crystallizes
+6. **The Ball** (1,651 words) - Social combat; every conversation a trap; Father Sorbin and Captain de Castelnau both pressure Jean; neutrality produces false certainty in others
+7. **The Temptation** (1,756 words) - Lilith/Marguerite presents nihilist argument: "If you cannot verify, you cannot conclude"; Jean almost agrees, then breakthrough: "You offer me a fortress"
+8. **The Report** (1,480 words) - Jean writes honest report acknowledging uncertainty; submits it knowing both factions will turn on him; de Lacaze: "You are better than this province deserves"
+9. **The Road** (1,759 words) - Death scene; both factions collaborate to kill him; brief fight; dies in dirt; final thought: "I told the truth about what I didn't know"; karmic bridge to Taiping rebel
+
+### Lilith's Intervention
+
+**Vessel:** Marguerite Viret, printer's widow, late thirties  
+**Power Level:** Extended interaction (CP08) - sustained philosophical conversations  
+**Method:** Appears as intellectual companion; pushes doubt toward nihilist endpoint  
+**Objective:** Feed doubt until Jean stops believing action is possible  
+**Argument:** "If you cannot verify, you cannot conclude. The only honest report is no report."
+
+**Backfire:** By articulating the nihilist endpoint so clearly, she forces Jean to discover what the argument misses: truthfulness under uncertainty is possible. Her challenges become the whetstone that sharpens his understanding.
+
+**Recognition Moment:** Scene 4—Jean glimpses Marguerite at upper window; "stillness older than her face"; dismisses it but registers something uncanny
+
+### Karmic Bridge to Chapter 18
+
+**From Diego (Ch 14):** Jean inherits capacity to doubt without bitterness—can question cleanly, no resentment
+
+**Jean's Lesson:** Learns to act under uncertainty; discovers truthfulness ≠ certainty
+
+**Jean Does NOT Learn:** What cause deserves certain commitment; doubt is purified but conviction untested
+
+**Burning Question Forward:** *"If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?"*
+
+**Seeds Taiping Rebel:** Hunger for a cause worth dying for; commitment that doesn't require pretending to know; choosing others' welfare over survival with full knowledge of cost; determination (adhiṭṭhāna)
+
+### Voice Implementation
+
+**Undermining Clause (Renaissance Mode):**
+- Rhetorical complication via subordinate clauses and appositive phrases
+- Examples: "The witness spoke with conviction—the conviction of a man who knows what answer will save his skin"
+- Present in every scene, period-appropriate formality
+
+**Sensory Anchoring:**
+- Tactical/material environment (rooms assessed for danger, social spaces as battlefields)
+- Opening Scene 1: "chambers smelled of old parchment and wet stone"
+- Period-specific palette: ink, metal, woodsmoke, wine, candles, blood
+
+**Loaded Gestures:**
+- Recognition marker: Jean touches fingers in sequence (thumb to index to middle to ring to small) when weighing evidence
+- Inherited from Diego's physician hands
+- Appears in Scenes 1, 2, 3, 5, 6, 7, 8, 9
+- Becomes empty performance in Scene 6, revealing his fortress crumbling
+
+**Period-Appropriate Diction:**
+- Epistemic hedging as sophistication: "One supposes," "Perhaps," "It would seem"
+- Religious formulae as cultural habit: "Dieu merci," "God keep you"
+- Class markers through register shifts
+- No anachronistic vocabulary (verified against period-rules.md)
+
+### Genre Requirements Met
+
+**Swashbuckling Elements:**
+- Ambush (Scene 3): Desperate, ugly, close fighting; old shoulder wound tears
+- Ball (Scene 6): Verbal fencing as lethal as swords; social performance as survival
+- Death (Scene 9): Brief, losing fight on the road; no rescue; meaning in the ending
+
+**Philosophical Integration:**
+- Every action set-piece advances doubt/truthfulness question
+- Motion carries meaning (Jean travels, investigates, flees, dies)
+- Rhetoric draws blood (conversations have stakes)
+- Ideas embedded in action, not lectures
+
+**Motion as Morality:**
+- Chain of movement: assignment → interviews → ambush → investigation → ball → report → road → death
+- Philosophy rides in the saddle, bleeds in alleys
+
+### Thematic Elements
+
+**Doubt as Avoidance:**
+- Jean has made "I don't know" into fortress, identity, shield against moral exposure
+- His neutrality is spiritual avoidance dressed as intellectual honesty
+- Uses uncertainty to avoid responsibility for action
+
+**Certainty as Weapon:**
+- Father Sorbin, Captain de Castelnau weaponize conviction
+- Both factions perform certainty whether they feel it or not
+- Manufactured certainty destroys
+
+**Truthfulness Under Uncertainty:**
+- The breakthrough: "I can honestly say what I observed, acknowledge what I don't know, and accept the consequences"
+- Submitting honest uncertainty is itself an action
+- Integrity has a cost, but integrity is possible
+
+**Meat/Body Theme:**
+- Physical consequences throughout: shoulder wound, ribs bruised, blood, death in dirt
+- Body as site of mortality
+- Jean dies for his honest words—flesh fails, truth remains
+
+### Character Recognition Markers
+
+**Physical:** Lean, weathered, dark hair silvering; old sword wound in left shoulder (aches in rain, betrays him in final fight)
+
+**Behavioral:** The watching-to-understand inherited from Ka through Diego to Silas—"Jean observes. Weighs. Waits."
+
+**Gestural:** Finger-touching sequence (recognition marker across lives)
+
+### Continuity Verified
+
+**From Chapter 14:**
+- Diego released hatred without reconciliation
+- Jean inherits clean doubt without bitterness
+- Karmic bridge: "What else can be questioned?" → Jean's professional identity
+
+**To Chapter 18:**
+- Jean's question seeds Taiping avatar: "What is worth dying for with conviction?"
+- Doubt purified → determination tested
+- Uncertainty mastered → commitment required
+
+**Lilith Arc:**
+- Eighth intervention (Ch 2 → 4 → 6 → 8 → 10 → 12 → 14 → 16)
+- Power progression: Extended interaction (can sustain philosophical conversations through vessel)
+- Backfire pattern continues: opposition enables growth
+- Intellectually engaged; thinks she can win battle of ideas
+
+### Verification Passes Summary
+
+**Pass 1 (Sensory Audit):**
+- Sight, sound, touch present in all scenes ✓
+- Smell present in most scenes; gaps noted in combat/dialogue-heavy scenes
+- Taste minimal (appropriate for genre/period—appears through wine scenes)
+- No segments >400 words missing two+ senses ✓
+
+**Pass 2 (Undermining Clause Audit):**
+- Present in every scene ✓
+- Method appropriate for period (rhetorical complication, appositives) ✓
+- Function maintained across all scenes ✓
+- Examples: "institutional permanence threatened by season's rains," "reasonable answer also useless"
+
+**Pass 3 (Forbidden Pattern Scan):**
+- Abstract emotion words: NONE FOUND ✓
+- Buddhist terminology: NONE FOUND ✓
+- Filter verbs: Minimal use, only when perception itself matters ✓
+- Emotions rendered physically: shoulder ache, shaking hands, breath patterns ✓
+
+**Pass 4 (Structural Verification):**
+- Opens with sensory anchor ✓
+- POV consistent throughout (Jean, third person close, no head-hopping) ✓
+- Dialogue physically grounded ✓
+- Death scene: Extended (1,759 words), visceral detail, karmic bridge present ✓
+- Lilith power level appropriate (extended interaction per lilith-arc.json) ✓
+- Recognition markers present (finger-touching in 8 scenes, Lilith recognition Scene 4) ✓
+- Meat/body theme present ✓
+- Genre conventions honored ✓
+
+**Pass 5 (Continuity Check):**
+- All character names verified against avatar-profile.json ✓
+- Setting details accurate (1588, Guyenne, Wars of Religion) ✓
+- Lilith consistency maintained (dark hair, watchful, philosophical) ✓
+- Karmic bridge correct (seeds Taiping determination) ✓
+- No contradictions ✓
+
+**Pass 6 (Lilith Chapter Verification):**
+- N/A (historical chapter)
+
+### Key Quotes
+
+**Jean's Breakthrough (Scene 7):**
+> "You offer me purity. The purity of never claiming more than I can prove. The safety of perpetual suspension of judgment... You offer me a fortress. The same fortress I have inhabited my entire career. The belief that uncertainty absolves me of responsibility for action."
+
+**Final Report Submission (Scene 8):**
+> "I could have forced a conclusion. I chose instead to report truthfully on what I could not determine."
+
+**Death (Scene 9):**
+> "I told the truth about what I didn't know. That was mine to give. It wasn't enough. But it was true."
+
+**Karmic Burning:**
+> "If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?"
+
+### Outstanding Issues
+
+**None—Chapter verified and complete**
+
+Minor sensory enhancement could add smell to combat scenes (blood, earth) and taste to death scene, but not required for core function.
+
+### Chapter 16 Summary
+
+- **Title:** "The Skeptic"
+- **Total word count:** 13,546 words
+- **Function:** Breaking vicikicchā through truthfulness under uncertainty
+- **Avatar Age:** 42-43
+- **Central Insight:** Truthfulness ≠ certainty; can act honestly as someone who does not know
+- **Death Bridge:** Seeds Taiping rebel's hunger for certain commitment
+- **Lilith's Role:** Extended interaction through philosophical companionship (backfires into clarity)
+- **All verification passes:** COMPLETE and PASSED
+
+### Next Steps
+
+- Chapter 16 complete and ready for integration ✓
+- scene-manifest.json updated with completion status ✓
+- Chapter 17 (Lilith CP08) next—age 32, three years before Chapter 1, extended interaction power level
+- Chapter 18 (Taiping Rebel) needs development—China 1855, determination lesson
+
+---
