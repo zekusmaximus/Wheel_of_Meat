@@ -66,6 +66,8 @@ A fever here. A structural weakness there. An assignment to the dangerous sector
 
 Over the next three days of Wei's subjective time—and perhaps an hour of Lilith's—twelve of the fifteen died.
 
+In Manchester, winter rain had turned to sleet, then back to rain, then to the grey constancy of February. But in her tracking corner, monitoring 1862 from across centuries, Lilith felt something approaching warmth. The interventions were working. The pattern was emerging. Wei's ledger numbers were inverting exactly as planned.
+
 Wei found the bodies. Or heard the news. Or stood at the edge of mass graves and counted.
 
 Her ledger:
@@ -102,4 +104,4 @@ She continued watching.
 
 ---
 
-**Word count: ~1,050**
+**Word count: ~1,100**

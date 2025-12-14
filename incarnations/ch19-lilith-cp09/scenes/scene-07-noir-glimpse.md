@@ -10,13 +10,13 @@ The intermediate life was brief. A Japanese woman in the 1890s—factory worker,
 
 Then the thread brightened.
 
-1920s. America. Los Angeles, or somewhere with that quality of light—Lilith had never visited, but the tracking gave her impressions that suggested it. Sun that felt different from England. Heat that came with a kind of insistence. Architecture that was still inventing itself.
+1920s. America. Los Angeles, or somewhere with that quality of light—harsh, artificial, even in the tracking's compressed memory. Sun that felt different from England's perpetual grey. Heat that came with a kind of insistence, an aggressive brightness Manchester never achieved even in summer. Architecture that was still inventing itself, all angles and optimism, nothing like the Victorian brick solidity she'd grown used to.
 
 And him.
 
 A man this time. Late twenties when the tracking settled, though she was glimpsing a life that would span decades. Private detective—or something adjacent to that category. The neon and fedora era, the world she'd absorbed from films without ever quite believing it was real.
 
-*The determination has evolved*, she noted with something approaching admiration. *Not adhiṭṭhāna anymore. Viriya.*
+*The determination has evolved*, she noted with something approaching admiration. *Not conviction anymore. Perseverance.*
 
 She recognized the shift. Wei's purified determination—the trying that needed no outcome—had transformed in its passage through death into something related but distinct. Energy. Perseverance. The capacity to continue despite obstacles.
 
@@ -30,7 +30,7 @@ That wasn't true, exactly. Some succeeded. But the successes were small, and the
 
 And he continued anyway.
 
-*Perseverance*, Lilith thought. *Viriya purified.*
+*Perseverance*, Lilith thought. *Purified through failure.*
 
 She didn't intervene.
 
@@ -38,9 +38,11 @@ She could have. The power was there. She could have manifested as a client—the
 
 But she knew now how that would end.
 
-*I would refine him*, she thought. *Every obstacle would become a lesson. Every failure would teach him to fail better.*
+Eight incarnations. Eight interventions. Eight backfires—the list was complete now, Wei's purified determination the final proof. The pattern was undeniable. Distance didn't prevent it. Method didn't prevent it. The only constant was her opposition—and every opposition accelerated rather than obstructed.
 
-The pattern was undeniable. Distance didn't work. Intervention didn't work. The soul she was tracking had some quality—some structural feature she couldn't quite see—that transformed obstruction into fuel.
+*I would refine him*, she thought. *Every obstacle would become a lesson. Every failure would teach him to fail better. Even here, even in this marginal life, my interference would polish rather than corrupt.*
+
+So she simply watched. The soul she was tracking had some quality—some structural feature she couldn't quite see—that transformed obstruction into fuel.
 
 Or perhaps the quality wasn't in the soul. Perhaps it was in the structure of reality itself. Perhaps there was no way to interfere with genuine spiritual progress that didn't, paradoxically, accelerate it.
 
@@ -76,7 +78,7 @@ In her timeline.
 
 In her city, probably. The signature was close. Closer than she'd expected.
 
-Her Manchester body was present to her again—the feeling of sitting, the cool air, the stillness of the flat. She had been away for hours. Perhaps days. Time moved strangely during extended tracking; she'd learned to stop fighting it.
+Her Manchester body was present to her again—the feeling of sitting, the cool air, the stillness of the flat. Rain against the window. The grey English morning a world away from that particular American brightness, from the detective's harsh sunlight and neon-washed nights. She had been away for hours. Perhaps days. Time moved strangely during extended tracking; she'd learned to stop fighting it.
 
 But she couldn't stop now.
 
@@ -106,4 +108,4 @@ Lilith opened her eyes.
 
 ---
 
-**Word count: ~930**
+**Word count: ~1,050**

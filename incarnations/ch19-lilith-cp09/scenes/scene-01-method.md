@@ -16,6 +16,12 @@ The technique had evolved. That first accidental glimpse in her twenty-fifth yea
 
 It worked. It worked imperfectly, with gaps she couldn't fill and connections she was forced to infer, but it worked. She had traced him backward to the primordial—that protohuman who had first touched something she recognized as kin. She had traced him forward through Egypt, Rome, Athens, medieval Spain. Each death a waypoint. Each life a data point.
 
+Her own face in the tracking—when she glimpsed her past incarnations in the peripheral awareness that sometimes accompanied deep observation—was always the same. The widow's peak. The dark strand falling left. The particular way light caught the crescent in her left eye.
+
+His face changed every time.
+
+She had never wondered why. The observation filed itself away, a detail that seemed to mean nothing.
+
 And now, after a year of intensive work, she had nearly completed the forward scan.
 
 She was close. Close enough to feel him. Not in the tracking way, not in the awareness that let her observe his past lives, but in a different register entirely. A presence in the world. A weight on the same scale where she stood.
@@ -29,6 +35,28 @@ Then she would find him.
 Her NHS position had thinned to something barely defensible. Colleagues had stopped asking if she was all right; they had learned to read her absence even when she was present. She had let it happen. The cosmic scope of what she pursued made ordinary professional concerns feel like children's games played by the side of a roaring ocean.
 
 This was the cost of seeing what she saw. Not physical strain—her body remained capable, her mind remained sharp—but the gradual, voluntary withdrawal from everything that didn't matter. And increasingly, only one thing mattered.
+
+She had managed one appointment that morning. The NHS clinic, the truncated schedule she maintained to preserve the appearance of professional continuity. Eleanor Hartley, forty-seven, caregiver exhaustion. Three years attending her mother's decline from Alzheimer's, the slow erosion visible in Eleanor's face, the way her hands moved with the particular tremor of someone running on fumes.
+
+"I know she won't get better," Eleanor had said, staring at the tissue she was methodically shredding. "The doctors have been clear. It's just... maintenance now. Keeping her comfortable. But I can't stop trying to reach her. Every day I try to get her to remember my name. My face. Something."
+
+Lilith had sat with the familiar weight of another person's futility, feeling it settle like sediment.
+
+"And does she?" she'd asked. "Remember?"
+
+"No. Not for months. But I keep trying anyway."
+
+The silence between them had held something Lilith recognized but couldn't name. She'd leaned forward slightly, using the gesture to signal attention, engagement—the practiced choreography of clinical care.
+
+"Sometimes," she'd said, her voice carrying the particular gentleness she'd learned to manufacture, "the meaning isn't in whether you succeed. It's in the trying itself. In the commitment. You're showing up for her even when the outcome is already determined. That has its own value."
+
+Eleanor had looked at her with something like hope, or perhaps just relief at being given permission to continue the impossible.
+
+After the session, Lilith had returned to her desk to write her notes. Her hands had shaken slightly as she held the pen—exhaustion from last night's tracking session, probably. The migraine had started three hours in, pressure behind her left eye, the way peripheral vision fragmented at the edges. She'd taken paracetamol and continued anyway. The pain had faded by dawn but left a residue, the particular emptiness that came from pushing past the body's warnings.
+
+She'd written: *Patient demonstrates persistent effort despite acknowledged futility. Advised reframing success metrics. Prognosis: will continue caregiver role until natural conclusion.*
+
+The irony hadn't registered. Not then. Not sitting in her clinic office with Eleanor's gratitude still warm in the air. She'd filed the notes, cleared her desk, and returned to the flat where the real work waited.
 
 The transition was easier now than it had been. That first year, she'd fought against the dissolution of ordinary perception, uncertain what she was becoming. Now she simply... allowed it. Like releasing a held breath. The releasing was almost relief.
 
@@ -70,4 +98,4 @@ Lilith watched, feeling the familiar settling of observation into position. Like
 
 ---
 
-**Word count: ~1,050**
+**Word count: ~1,550**

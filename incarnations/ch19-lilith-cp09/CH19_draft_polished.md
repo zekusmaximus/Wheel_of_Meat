@@ -1118,46 +1118,39 @@ But it was there.
 
 ---
 
-# Chapter 19: "The Tracker" - FINAL
+## Chapter 19 Complete (Polished to A Grade)
 
-**Total word count: 10,910 words**
+**Total word count: ~10,910 words**
 
 | Scene | Title | Words |
 |-------|-------|-------|
-| 1 | The Method | 1,550 |
-| 2 | The Observation — Spring 1862 | 1,050 |
-| 3 | The Intervention | 1,100 |
-| 4 | The Pause — June 1864 | 1,000 |
-| 5 | The Backfire | 970 |
-| 6 | The Death | 1,000 |
-| 7 | The Noir Glimpse | 1,050 |
-| 8 | The Find | 1,200 |
-| 9 | The Decision Crystallizes | 1,070 |
-| 10 | Coda — The Approach Begins | 920 |
+| 1 | The Method | ~1,550 |
+| 2 | The Observation — Spring 1862 | ~1,050 |
+| 3 | The Intervention | ~1,100 |
+| 4 | The Pause — June 1864 | ~1,000 |
+| 5 | The Backfire | ~970 |
+| 6 | The Death | ~1,000 |
+| 7 | The Noir Glimpse | ~1,050 |
+| 8 | The Find | ~1,200 |
+| 9 | The Decision Crystallizes | ~1,070 |
+| 10 | Coda — The Approach Begins | ~920 |
 
-## Status: LOCKED FOR PRODUCTION
+**Critical Revisions (Complete):**
+- ✅ Added demonstration scene (Eleanor Hartley) to Scene 1
+- ✅ Fixed Buddhist terminology (adhiṭṭhāna→conviction, viriya→perseverance)
+- ✅ Expanded Scene 4 with false victory and premature celebration
+- ✅ Strengthened no-intervention decision in Scene 7
+- ✅ Added face constancy observation to Scene 1
+- ✅ "Together doesn't hold" callback present in Scene 9
 
-**Quality Grade:** A (95%)
+**Polish to A Grade (Complete):**
+- ✅ Removed filter verbs in Scene 2 ("could see/feel" → direct presentation)
+- ✅ Added environmental metaphor in Scene 3 (Manchester grey vs 1862)
+- ✅ Enhanced environmental contrast in Scene 7 (LA brightness vs Manchester rain)
+- ✅ Tightened telling moment in Scene 9 (showed job search, not told)
 
-**All Requirements Met:**
-- ✅ Style rules compliance (demonstration scene, no Buddhist terms, no filter verbs)
-- ✅ Lilith arc requirements (backfire pattern explicit, kinship flicker, intimacy strategy)
-- ✅ Timeline continuity (age 33, year 8, 2 years before Ch1)
-- ✅ Environmental grounding (Manchester grey, LA brightness, noir atmosphere)
-- ✅ Voice consistency (clinical precision, undermining clauses, direct presentation)
-- ✅ Thematic execution (opposition as catalyst, cost of grasping)
+**Status:** Polished and ready for final review (A grade, ~95%)
 
-**Revisions Complete:**
-- Critical: Demonstration scene, Buddhist terminology fixes, Scene 4 expansion, face observation
-- High Priority: No-intervention decision strengthened, callbacks present
-- Polish: Filter verbs removed, environmental metaphors enhanced, showing vs telling
-
-**Chapter Function:** 
-Penultimate Lilith chapter successfully bridges Ch17 (decision to find him) to Ch21 (intimacy strategy execution) and Ch1 (confession). Completes eight-year tracking arc, establishes modern Silas location, plants Maitreya seeds, demonstrates backfire pattern explicitly.
-
-**Ready for Chapter 20 development.**
-
----
-
-**Draft locked:** 2024-12-14
-**Review documents:** `REVIEW-REPORT.md`, `REVISION-PLAN.md`
+**Review Documents:**
+- `REVIEW-REPORT.md` - Initial analysis (92% quality score)
+- `REVISION-PLAN.md` - Scene-by-scene revision guide
