@@ -407,30 +407,41 @@ Now Lilith can:
 - Steer the vessel’s words more precisely
 - Maintain awareness while interacting (though still with effort)
 
-### The Vessel: Marguerite Viret
+### Marguerite Viret (Historical Character - NOT Lilith)
 
-**Who she is (her own psychology):**
+**Who she is:**
 
-- Printer’s widow, late thirties
-- Educated through her husband’s trade and the intellectual circles it accessed
+- Printer's widow, late thirties
+- Educated through her husband's trade and the intellectual circles it accessed
 - Genuinely skeptical—the religious wars have cost her
 - Survives by being useful to multiple factions (prints for whoever pays)
-- Has her own reasons for involvement with Jean’s investigation
+- Jean's philosophical companion; encourages radical doubt and skepticism
+- Her arguments are genuinely held; she's a true intellectual of the period
 
-**Physical markers (Lilith’s constants):**
+### Isabeau de Carcassonne (Lilith's Past Incarnation - Peripheral)
 
-- Dark hair with widow’s peak
-- Single darker strand that escapes arrangement
-- Green crescent in left iris (if lighting reveals it)
+**Who she was:**
+
+- Noblewoman, late thirties, Catholic faction
+- Attendee at the ball (Scene 6)
+- Jean glimpses her but they do not interact
+- This is the first time in the tracking sequence where one of Lilith's past lives was present in the same time/place as one of Silas's
+
+**Physical markers (for reader recognition):**
+
+- Dark hair with pronounced widow's peak
+- Single darker strand falling left
+- Left eye: brown with crescent of pale green (11 to 1 o'clock position)
 - Eyes that seem to look through people
-- A particular stillness in observation
+- A particular stillness, watchful quality
 
-**Lilith’s method:**
+**Lilith's observation method (from 2020s Manchester):**
 
-- Works through Marguerite’s own vocabulary and personality
-- Pushes doubt toward nihilism: “If you cannot verify, you cannot conclude”
-- Uses philosophical companionship as intervention
-- Cannot reveal her true nature or cosmic stakes
+- Observes the events of 1588 from her tracking corner
+- Can see Jean's journey through doubt to truthfulness
+- Sees her own past incarnation present but peripheral
+- In Ch17 she may realize: one of her past lives was there but wisely did not engage
+- This maintains the rule: modern Manchester is the FIRST time she actually converses with Silas
 
 ### Hard Constraints
 

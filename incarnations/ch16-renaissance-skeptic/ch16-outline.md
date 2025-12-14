@@ -34,13 +34,20 @@ Jean de Langon, legal investigator, moves from comfortable doubt → impossible 
 - Core flaw: uses neutrality/uncertainty as shield against moral exposure
 - Has survived religious wars by being useful to both sides and committing to neither
 
-### Marguerite Viret (Lilith’s Vessel)
+### Marguerite Viret
 
-- Printer’s widow, late thirties
+- Printer's widow, late thirties
 - Educated, skeptical, connected to intellectual underground
-- Dark hair with widow’s peak; single darker strand; eyes that see through
-- Jean’s philosophical companion; pushes his doubt toward nihilist endpoint
-- Her own psychology is real—Lilith pushes but doesn’t overwrite
+- Jean's philosophical companion; encourages radical doubt and skepticism
+- Her arguments are genuinely held; she's a true intellectual of the period
+
+### Isabeau de Carcassonne (Lilith's Past Incarnation - Peripheral)
+
+- Noblewoman, late thirties, attendee at the ball (Scene 6)
+- Dark hair with pronounced widow's peak; single darker strand falling left
+- Left eye: brown with crescent of pale green (11 to 1 o'clock position)
+- Watchful, still presence; Jean glimpses her but they do not interact
+- Readers should recognize the physical markers; Jean may feel momentary familiarity but dismisses it
 
 ### Magistrate Bernard de Lacaze
 
@@ -112,19 +119,17 @@ Jean de Langon, legal investigator, moves from comfortable doubt → impossible 
 
 -----
 
-### Scene 4: The Printer’s Widow (900 words)
+### Scene 4: The Printer's Widow (900 words)
 
-**Location:** Marguerite Viret’s print shop in a market town
+**Location:** Marguerite Viret's print shop in a market town
 
-**Function:** Introduce Lilith’s vessel; establish the philosophical companionship that will become temptation.
+**Function:** Establish the philosophical companionship that will become temptation.
 
 **Action:** Jean seeks Marguerite because she has documents—correspondence that passed through her press, connections to the intellectual underground. She receives him with caution that becomes interest. They discuss the case, but the conversation slides into philosophy: the limits of testimony, the impossibility of certainty, the question of what one can honestly claim to know.
 
-**Doubt-work:** Marguerite articulates Jean’s own doubts more clearly than he can. She quotes the skeptics—“Que sais-je?” She suggests that honest uncertainty might be more virtuous than false conviction. Jean feels understood. This is dangerous.
+**Doubt-work:** Marguerite articulates Jean's own doubts more clearly than he can. She quotes the skeptics—"Que sais-je?" She suggests that honest uncertainty might be more virtuous than false conviction. Jean feels understood. This is dangerous.
 
 **Genre obligation:** The ally who may be more; intellectual tension as romantic possibility; information exchange.
-
-**Recognition moment (Lilith):** As Jean leaves, he glimpses Marguerite watching from an upper window—and for a moment, her stillness seems older than her face. He shakes off the impression.
 
 **Ends with:** Jean with new documents and new doubt about doubt itself.
 
@@ -154,13 +159,17 @@ Captain de Castelnau summons Jean—wants a progress report. Jean reveals nothin
 
 **Function:** Social combat set-piece. Rhetoric as fencing; every conversation is a trap.
 
-**Action:** Jean attends a ball where his investigation is the subtext of every exchange. Father Sorbin corners him with elegant questions that are really threats. Captain de Castelnau’s lieutenant asks pointed questions about timeline. A Catholic lady implies she knows about the ambush—was it a warning or a test? Jean navigates with neutral answers, reveals nothing, commits to nothing.
+**Action:** Jean attends a ball where his investigation is the subtext of every exchange. Father Sorbin corners him with elegant questions that are really threats. Captain de Castelnau's lieutenant asks pointed questions about timeline. A Catholic lady implies she knows about the ambush—was it a warning or a test? Jean navigates with neutral answers, reveals nothing, commits to nothing.
 
-But he realizes: his silence is being read as alliance by both sides. Each faction assumes he’s secretly with them. His neutrality is producing false certainty in others.
+At one point, Jean glimpses a noblewoman across the hall—Isabeau de Carcassonne, dark-haired with a widow's peak, watching the proceedings with uncommon stillness. Something about her seems familiar, though he's certain they've never met. When he looks again, she's turned away.
+
+But he realizes: his silence is being read as alliance by both sides. Each faction assumes he's secretly with them. His neutrality is producing false certainty in others.
 
 **Doubt-work:** The social performance of certainty surrounds him. Everyone at the ball *performs* conviction even if they share his doubts. Jean sees his own strategy reflected and distorted: they all use ambiguity as weapon. Is he any different?
 
 **Genre obligation:** The mandatory ball scene; verbal fencing; social stakes as lethal as swords.
+
+**Recognition moment (Lilith):** Jean glimpses Isabeau briefly—the widow's peak, the watchful eyes. A flicker of recognition he cannot explain. He dismisses it as the evening's tension.
 
 **Ends with:** Jean escaping the ball, realizing neutrality is not invisibility.
 
@@ -285,14 +294,14 @@ Ready to commit.
 - [ ] Certainty as weapon (Father Sorbin, factions)
 - [ ] Truth ≠ certainty
 - [ ] Recognition marker (finger-touching) in at least two scenes
-- [ ] Lilith recognition moment (Marguerite at window)
+- [ ] Lilith recognition moment (Isabeau at ball - glimpsed, not engaged)
 
 ### Continuity
 
-- [ ] Jean’s profile matches avatar-profile.json
-- [ ] Marguerite’s appearance matches Lilith’s cross-life markers
+- [ ] Jean's profile matches avatar-profile.json
+- [ ] Isabeau's appearance has Lilith's cross-life markers (widow's peak, darker strand, eye crescent)
+- [ ] Isabeau appears peripherally in Scene 6 - Jean glimpses her but they do not interact
 - [ ] Period details match period-rules.md
-- [ ] Power level: extended interaction (sustained conversation, not control)
 - [ ] Karmic bridge matches Ch 18 lesson (determination)
 
 -----
@@ -307,6 +316,6 @@ Ready to commit.
 
 **The Report (Scene 8):** The key insight: Jean can say “I don’t know” as a truth-claim rather than an evasion. The report doesn’t conclude because conclusion isn’t possible—but submitting that honest non-conclusion is itself an action with consequences. Truthfulness under uncertainty.
 
-**The Death (Scene 9):** Not a noble last stand. A brief, losing fight. The meaning is in Jean’s final thoughts, not his final sword-stroke. And the ending must pull forward—the question that seeds the next life, the hunger for conviction that Jean never found.
+**The Death (Scene 9):** Not a noble last stand. A brief, losing fight. The meaning is in Jean's final thoughts, not his final sword-stroke. And the ending must pull forward—the question that seeds the next life, the hunger for conviction that Jean never found.
 
-**Lilith’s Recognition Moment:** In Scene 4, Jean glimpses Marguerite and something seems *off*—her stillness, her watchfulness. He dismisses it. But the moment should be specific enough that Lilith, looking back in Chapter 17, can identify it as the instant she was almost seen.
+**Lilith's Recognition Moment:** In Scene 6, Jean glimpses Isabeau de Carcassonne at the ball—the widow's peak, the watchful stillness. A flicker of familiarity he cannot explain and quickly dismisses. The moment should be specific enough that readers recognize her physical markers, but brief enough that Jean doesn't dwell on it. In Chapter 17, Lilith can observe this moment and realize one of her past incarnations was present but wisely did not engage.
