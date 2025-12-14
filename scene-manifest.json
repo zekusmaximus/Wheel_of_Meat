@@ -2468,7 +2468,7 @@
     {
       "chapter": 19,
       "id": "ch19-lilith-cp09",
-      "title": "TBD",
+      "title": "The Tracker",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological",
       "setting": {
@@ -2482,26 +2482,51 @@
         "years_tracking": 8,
         "occupation": "Psychiatrist (on partial leave)",
         "power_level": "Near-full manifestation",
-        "emotional_state": "Ruthless; ordinary life suffering"
+        "emotional_state": "Exhausted but resolute; eight years of focused pursuit reaching decisive point"
       },
       "corresponds_to": {
         "historical_chapter": 18,
-        "avatar": "Taiping rebel",
-        "lesson": "Determination / Self-sacrifice"
+        "avatar": "Wei Shufen (Taiping rebel)",
+        "lesson": "Determination (adhiṭṭhāna)"
       },
       "demonstration": {
-        "fetter": "TBD—related to determination/sacrifice",
-        "scene": "TBD"
+        "fetter": "Futility / outcome-attachment",
+        "scene": "Brief clinical session with patient continuing despite lack of results",
+        "irony": "She advises 'meaning is in the trying'—exactly what Wei learned and she doesn't see applies to her"
       },
       "tracking_content": {
-        "observes": "Taiping avatar's sacrifices",
-        "intervention": "Near-full manifestation—makes his sacrifices meaningless",
-        "tracks_forward_to": "1930s Detective"
+        "primary_focus": "Forward-tracking to locate modern Silas",
+        "observes": "Wei Shufen (Taiping 1862-1864): determination contaminated by outcome-attachment",
+        "intervention": "Circumstantial manipulation—artillery timing, evacuees, disease vectors. Makes everyone he saves die anyway",
+        "backfire": "Futility visible purifies determination rather than breaking it. Wei helps knowing it's futile.",
+        "brief_glimpse": "1930s Noir detective (Ch20 incarnation)—perseverance developing",
+        "tracks_forward_to": "Modern Manchester: locates Silas Pahlavan"
       },
-      "backfire_awareness": "Ruthless denial; can sense him approaching stream-entry",
-      "word_target": 2500,
+      "modern_discovery": {
+        "silas_located": "University lecturer, philosophy/religious studies",
+        "proximity_to_breakthrough": "2-3 years from stream-entry",
+        "physical_response": "Heart rate, stillness, 'recognition'—filed as adrenaline",
+        "first_sighting": "Attends his public lecture; does not approach"
+      },
+      "intimacy_strategy_seeds": {
+        "realization": "Distance fails. Intermediaries fail. Past-life intervention fails.",
+        "decision": "If essential to his life, can intervene at critical moment",
+        "professional_pivot": "Researches university positions; begins transition planning"
+      },
+      "one_buddha_arc": {
+        "beat": "9 - Misreading as Duty",
+        "content": "If we rise together, we ruin each other. Someone must choose. Someone must act.",
+        "manifestation": "Frames intimacy as necessity rather than desire; strategic mask over attraction"
+      },
+      "maitreya_foreshadowing": [
+        "Inexplicable chest pain when Wei dies—empathic connection unrecognized",
+        "Recognition/stillness at first in-person sighting of modern Silas",
+        "Desire for him to understand her—loneliness of knowing building"
+      ],
+      "backfire_awareness": "Pattern now explicit: eight years, eight interventions, eight accelerations. She's training him, not stopping him.",
+      "word_target": 10000,
       "scenes": [],
-      "status": "needs_development"
+      "status": "outlined"
     },
     {
       "chapter": 20,
@@ -2538,9 +2563,9 @@
     {
       "chapter": 21,
       "id": "ch21-lilith-cp10",
-      "title": "The Decision",
+      "title": "The Commitment",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Romance",
       "setting": {
         "period": "Contemporary",
         "location": "Manchester, UK",
@@ -2551,29 +2576,43 @@
         "age": 34,
         "years_tracking": 9,
         "occupation": "Psychiatrist (on full leave)",
-        "power_level": "Full manifestation in past; preparing for present incarnation",
-        "emotional_state": "All masks dropped; calculated commitment"
+        "power_level": "Full manifestation in present",
+        "emotional_state": "Calculated commitment becoming something else; falling without knowing it"
       },
       "corresponds_to": {
         "historical_chapter": 20,
         "avatar": "1930s Detective",
         "lesson": "Perseverance (viriya)"
       },
-      "tracking_content": {
-        "observes": "Detective's persistence despite overwhelming obstacles",
-        "intervention": "Full manifestation—femme fatale, every case fails",
-        "outcome": "Complete failure; every intervention across nine years has backfired"
+      "intimacy_strategy": {
+        "phase": "4 - Commitment (per lilith-arc-bible.md)",
+        "status": "One year after locating Silas; established in his professional orbit",
+        "escalation": "Professional relationship → personal → intimate",
+        "strategic_goal": "If essential to his life, can intervene at critical moment",
+        "backfire_emerging": "Intimacy nourishes him rather than trapping him; she's the one becoming attached"
       },
-      "the_decision": {
-        "realization": "He's approaching stream-entry; window closing",
-        "assessment": "Strong enough to incarnate in same timeline—barely",
-        "finding_silas": "Tracks to present; finds him in Manchester; philosophy professor",
-        "the_plan": "Incarnate fully, become his lover, prevent breakthrough from inside",
-        "the_meeting": "Engineers encounter at his lecture on Nagarjuna"
+      "key_scenes": {
+        "established_orbit": "University campus; colleagues becoming friends",
+        "demonstration": "Clinical session showing her blind spot",
+        "escalation": "Moment that shifts professional to personal",
+        "first_night": "Consummation of intimacy strategy; body truths surface",
+        "lovers_paradox": "Domestic intimacy; gathering intelligence while falling",
+        "merger_dream": "Maitreya foreshadowing—wakes unsure which of them was dreaming"
       },
-      "foreshadowing": "Attraction she won't name; pull that exceeds tactical necessity",
-      "function": "Sets up Chapter 1; explains how they met; completes her decade-long arc toward full commitment",
-      "word_target": 3500,
+      "maitreya_foreshadowing": [
+        "Merger dream—she and Silas are the same person",
+        "Completing his sentences before he speaks",
+        "Mirrored habits (sitting, making tea, phrases)",
+        "The question she won't ask: why does proximity feel like home?"
+      ],
+      "threads_addressed": [
+        "Beat 10: The Final False Law ('There can be only one')",
+        "Love she won't name (body truths contradicting analysis)",
+        "Loneliness of knowing (he's the only one who could understand)",
+        "Backfire pattern (intimacy accelerating him)"
+      ],
+      "function": "Phase 4 of intimacy strategy; Lilith becomes Silas's lover; trap meant for him closes on her; sets up Chapter 1 confession",
+      "word_target": 6500,
       "scenes": [],
       "status": "needs_development"
     },
