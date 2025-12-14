@@ -14,19 +14,24 @@ Lilith age 32, 3 years before Chapter 1
 - Jean achieved breakthrough: truthfulness without certainty
 - Died for honest uncertainty, seeds next incarnation
 
-## Key Revelation for Chapter 17
-**Lilith discovers one of her past lives was present in 1588**
-- When tracking back, she sees Isabeau at the ball
-- Realizes: one of HER past incarnations was in the same time/place as one of HIS
-- But Isabeau wisely did not engage—just observed
-- This is significant: their paths have been closer than she realized
-- YET this makes her decision to find him in modern times more urgent
-- Modern Manchester will be the FIRST time they actually converse across lifetimes
+## Key Beats for Chapter 17
+**The Backfire Pattern Now Undeniable**
+- Seven years, seven interventions, seven backfires
+- She's not stopping him—she's TRAINING him
+- Distance is the problem: working through past won't work
+- THE PIVOT: Decision to find him in present timeline
+
+**Isabeau Recognition (Minor Beat)**
+- Brief observation: another past life present at the ball (as expected)
+- Lilith already knows she has past lives (established Ch13/15)
+- Notes without drama: Isabeau stayed peripheral, didn't engage
+- Confirms pattern of parallel lives, maintained distance
+- Not a revelation—just another data point
 
 ## Chapter 17 Objectives
 1. Observe and process the Chapter 16 backfire (doubt sharpened into truthfulness)
-2. Discover her own past incarnation was present (Isabeau)
-3. Seven years of tracking, seven failures—the pattern is undeniable
+2. Seven years of tracking, seven failures—the pattern is undeniable
+3. Brief recognition: Isabeau at ball (toned down, she already knows about her past lives)
 4. THE PIVOT: Decide to find him in the present, not the past
 5. Begin searching for next incarnation (Ch18, Taiping) as bridge to present
 6. Professional life deteriorating; considering leave from NHS
