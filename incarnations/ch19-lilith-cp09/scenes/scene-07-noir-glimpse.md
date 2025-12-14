@@ -16,7 +16,7 @@ And him.
 
 A man this time. Late twenties when the tracking settled, though she was glimpsing a life that would span decades. Private detective—or something adjacent to that category. The neon and fedora era, the world she'd absorbed from films without ever quite believing it was real.
 
-*The determination has evolved*, she noted with something approaching admiration. *Not adhiṭṭhāna anymore. Viriya.*
+*The determination has evolved*, she noted with something approaching admiration. *Not conviction anymore. Perseverance.*
 
 She recognized the shift. Wei's purified determination—the trying that needed no outcome—had transformed in its passage through death into something related but distinct. Energy. Perseverance. The capacity to continue despite obstacles.
 
@@ -30,7 +30,7 @@ That wasn't true, exactly. Some succeeded. But the successes were small, and the
 
 And he continued anyway.
 
-*Perseverance*, Lilith thought. *Viriya purified.*
+*Perseverance*, Lilith thought. *Purified through failure.*
 
 She didn't intervene.
 
@@ -38,9 +38,11 @@ She could have. The power was there. She could have manifested as a client—the
 
 But she knew now how that would end.
 
-*I would refine him*, she thought. *Every obstacle would become a lesson. Every failure would teach him to fail better.*
+Eight incarnations. Eight interventions. Eight backfires—the list was complete now, Wei's purified determination the final proof. The pattern was undeniable. Distance didn't prevent it. Method didn't prevent it. The only constant was her opposition—and every opposition accelerated rather than obstructed.
 
-The pattern was undeniable. Distance didn't work. Intervention didn't work. The soul she was tracking had some quality—some structural feature she couldn't quite see—that transformed obstruction into fuel.
+*I would refine him*, she thought. *Every obstacle would become a lesson. Every failure would teach him to fail better. Even here, even in this marginal life, my interference would polish rather than corrupt.*
+
+So she simply watched. The soul she was tracking had some quality—some structural feature she couldn't quite see—that transformed obstruction into fuel.
 
 Or perhaps the quality wasn't in the soul. Perhaps it was in the structure of reality itself. Perhaps there was no way to interfere with genuine spiritual progress that didn't, paradoxically, accelerate it.
 
@@ -106,4 +108,4 @@ Lilith opened her eyes.
 
 ---
 
-**Word count: ~930**
+**Word count: ~1,000**

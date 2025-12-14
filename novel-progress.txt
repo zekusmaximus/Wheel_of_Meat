@@ -2237,3 +2237,133 @@ All verification passes completed and passed. Three abstract emotion word violat
 - Chapter 19 (Lilith CP09) ready for development—age 33, has found modern Silas in Manchester, planning direct approach
 - Chapter 20 (Noir Detective) needs development—energy/perseverance lesson, inherits "will try again" from Wei
 
+
+---
+
+## Session: 2024-12-14 (Chapter 19 Drafted and Revised)
+
+### Chapter 19: "The Tracker" (Lilith CP09)
+
+**Status:** DRAFTED AND REVISED (10,790 words)
+
+Chapter 19 drafted complete with all critical revisions implemented per comprehensive review.
+
+**Synopsis:**
+Lilith (age 33, year 8 of tracking) completes her forward scan, locates modern Silas in Manchester, and shifts strategy from past-life intervention to present-day intimacy as her final weapon. Through tracking the Taiping incarnation (Wei Shufen), she witnesses her eighth backfire: futility purifies determination rather than breaking it. The pattern is now undeniable—every intervention accelerates his progress.
+
+**Structure:** 10 scenes
+- Scene 1: "The Method" (1,550 words) - Tracking methodology + demonstration scene with Eleanor Hartley (caregiver patient)
+- Scene 2: "The Observation — Spring 1862" (1,050 words) - Wei Shufen's ledger-keeping
+- Scene 3: "The Intervention" (1,050 words) - Two years of circumstantial manipulation
+- Scene 4: "The Pause — June 1864" (1,000 words) - Hong's death, false victory, premature celebration
+- Scene 5: "The Backfire" (970 words) - Wei helps anyway, determination purified
+- Scene 6: "The Death" (1,000 words) - Tianjing falls, Wei's final thought: "The trying is never nothing"
+- Scene 7: "The Noir Glimpse" (1,000 words) - Brief tracking through detective life, no intervention decision
+- Scene 8: "The Find" (1,200 words) - Locates Silas Pahlavan in Manchester
+- Scene 9: "The Decision Crystallizes" (1,050 words) - Intimacy strategy conceived
+- Scene 10: "Coda — The Approach Begins" (920 words) - Professional pivot, Nadia call
+
+**Key Achievements:**
+- Demonstration scene requirement met (Eleanor Hartley advises "meaning in trying not outcomes")
+- Buddhist terminology corrected (adhiṭṭhāna→conviction, viriya→perseverance)
+- Face constancy mystery planted (her face same, his changes)
+- "Together doesn't hold" callback present (one-per-system rule explained)
+- Backfire pattern explicit (eight interventions, eight accelerations cataloged)
+- Intimacy strategy seeds planted for Ch21
+- Maitreya foreshadowing subtle (pain at Wei's death, recognition at lecture)
+
+**Wei's Final Thought (Bridge to Present):**
+> "I saved no one. But the trying was not nothing. I will try again."
+
+**Lilith's Realization:**
+> "I broke his faith. I shattered his hope. I made futility visible. And all I did was purify him."
+
+### Critical Revisions Implemented
+
+**1. Added Demonstration Scene (Scene 1)**
+- Patient: Eleanor Hartley, 47, caregiver exhaustion (Alzheimer's mother)
+- Lilith's advice: "The meaning isn't in whether you succeed. It's in the trying itself."
+- Physical tell: Hands shake after session (exhaustion from tracking)
+- Irony: She's describing Wei's lesson but doesn't see it applies to her own futile pursuit
+
+**2. Fixed Buddhist Terminology**
+- Scene 2: Removed italicized "determination" as technical term
+- Scene 7: "adhiṭṭhāna" → "conviction"
+- Scene 7: "viriya" → "perseverance"
+- All instances now use English psychological terms per Lilith's voice
+
+**3. Expanded Scene 4 (~380 words added)**
+- Hong's death impact on Tianjing morale shown
+- Lilith surfaces to Manchester body, makes triumphant notes
+- Premature victory: "She's stopped. I've actually won."
+- Returns to observation, setting up backfire
+
+**4. Strengthened No-Intervention Decision (Scene 7)**
+- Made explicit: "Eight incarnations. Eight interventions. Eight backfires."
+- Pattern recognition shown: "Every opposition accelerated rather than obstructed."
+- Learning demonstrated: "My interference would polish rather than corrupt."
+
+**5. Added Face Constancy Observation (Scene 1)**
+- Her face in tracking always the same (widow's peak, dark strand, crescent eye)
+- His face changes every time
+- Filed away as "meaning nothing" (plants mystery)
+
+**6. "Together Doesn't Hold" Callback (Scene 9)**
+- Already present at line 48
+- One-per-system rule explained from her perspective
+- Mutual exclusion certainty established (though she's wrong about the meaning)
+
+### Files Created/Updated
+
+**Revised:**
+- `incarnations/ch19-lilith-cp09/scenes/scene-01-method.md` (1,050→1,550 words)
+- `incarnations/ch19-lilith-cp09/scenes/scene-04-pause.md` (620→1,000 words)
+- `incarnations/ch19-lilith-cp09/scenes/scene-07-noir-glimpse.md` (930→1,000 words)
+- `incarnations/ch19-lilith-cp09/CH19_draft.md` (9,920→10,790 words)
+
+**Created:**
+- `incarnations/ch19-lilith-cp09/REVIEW-REPORT.md` (comprehensive analysis, 92% quality score)
+- `incarnations/ch19-lilith-cp09/REVISION-PLAN.md` (detailed scene-by-scene revision guide)
+
+**Updated:**
+- `scene-manifest.json` (Chapter 19 status: outlined→drafted, word_count: 10,790)
+
+### Review Assessment
+
+**Overall Quality:** A- (92%)
+- **Prose:** A- (91%) - Strong voice, good emotional pacing
+- **Structure:** B+ (88%) - All beats hit, demonstration added
+- **Voice:** A- (91%) - Clinical precision maintained
+- **Theme:** A (95%) - Opposition as catalyst powerfully executed
+- **Arc Function:** A (95%) - Penultimate chapter goals achieved
+
+### Outstanding Issues
+
+**None—Chapter complete and ready for next review**
+
+All critical and high-priority revisions implemented. Chapter successfully:
+- Follows style rules (demonstration scene, no Buddhist terms, physical tells)
+- Meets lilith arc requirements (backfire pattern, kinship flicker, intimacy strategy)
+- Aligns with contemporary timeline (age 33, year 8, NHS decline)
+- Complies with continuity audit (correct terminology, power level consistent)
+
+### Chapter 19 Summary
+
+- **Title:** "The Tracker"
+- **Total word count:** 10,790 words (target: 10,000-11,000)
+- **Type:** Lilith contemporary (CP09)
+- **Lilith's Age:** 33 (2 years before Chapter 1)
+- **Power Level:** Near-full manifestation (circumstantial manipulation, no physical presence)
+- **Key Function:** Complete forward scan, locate modern Silas, establish intimacy strategy
+- **Corresponds To:** Chapter 18 (Wei Shufen, Taiping Rebellion)
+- **Backfire Pattern:** Eight interventions, eight accelerations—pattern now explicit
+- **Strategic Shift:** Past-life interference → present-day intimacy
+- **Bridge to Ch1:** Professional pivot begun, proximity strategy conceived
+
+### Next Steps
+
+- Chapter 19 complete and verified ✓
+- Chapter 20 (Noir Detective) awaiting development
+- Chapter 21 (Lilith CP10) ready for planning—intimacy strategy execution
+- Chapter 1 revision may benefit from Ch19 insights (confession scene context)
+
