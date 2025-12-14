@@ -20,15 +20,13 @@ Seven years of tracking. Seven interventions. Seven backfires.
 
 The pattern is no longer deniable. Every attempt to slow his progress has accelerated it. Every obstacle has become a crucible. She is not stopping him—she is **training** him.
 
-**Critical Revelation:** While tracking Chapter 16, Lilith discovers one of her own past incarnations (Isabeau de Carcassonne) was present at the same ball where Jean died for honest uncertainty. Her past self was there, watching, but wisely did not engage.
+**The Realization:** Distance is the problem. Seven years of working through intermediaries, through circumstances, through her own past incarnations—all while maintaining separation. Every intervention fails because she's always one step removed, always reacting from afar.
 
-This discovery crystallizes everything:
-1. **Their paths have crossed closer than she realized** — but never directly
-2. **Distance is the problem** — working through the past won't work
-3. **Modern Manchester must be different** — she needs to find him in the present
-4. **The first conversation matters** — Ch1 will be the first time they actually speak across all their lifetimes
+While tracking Chapter 16, she glimpses Isabeau de Carcassonne at the ball—one of her past incarnations, as expected. The same face she's seen in Alexandria, in the Heian court, in Sor Catalina. Of course she was there. She's been on this wheel as long as he has. But Isabeau stayed peripheral, watchful. Wisely chose not to engage.
 
-The chapter ends with her commitment to a completely new strategy: track him to the present timeline, engineer a meeting, become part of his life directly.
+The observation confirms what she's been learning: proximity matters, but timing and approach matter more.
+
+The chapter ends with her commitment to a completely new strategy: stop working in the past. Find him in the present timeline. Engineer direct contact. No more distance.
 
 ---
 
@@ -45,10 +43,12 @@ The chapter ends with her commitment to a completely new strategy: track him to 
 
 Every intervention accelerates. The pattern is structural, not tactical.
 
-### The Discovery of Proximity
-Isabeau was there. One of Lilith's past lives attended the same ball where Jean wrestled with certainty and doubt. They were in the same room, breathing the same air, but never spoke.
+### The Recognition of Pattern
+Another past life present, as she's seen in every era she's tracked. Isabeau at the ball in 1588. The Attendant in Heian Japan. Sor Catalina in Spain. Her face persists across lifetimes, just as his soul progresses.
 
-This makes the modern meeting both more urgent and more significant: after lifetimes of near-misses, she will finally close the distance.
+But none of those past incarnations engaged him directly. Distance maintained. Separation preserved.
+
+Until now. Modern Manchester will be different.
 
 ### What She Doesn't See
 - The backfires suggest she's his necessary opposition, not his obstacle
@@ -220,27 +220,21 @@ Lilith observes Marguerite's arguments—the nihilist position, the paralysis of
 
 And then—
 
-**Part C: The Recognition (~400 words)**
+**Part C: The Recognition (~150 words)**
 
-Lilith sees her.
+At the ball, a brief glimpse: a noblewoman across the hall. Dark hair with the widow's peak. The darker strand. Watchful eyes.
 
-A noblewoman across the hall. Dark hair pulled back, revealing a pronounced widow's peak. A single darker strand falling forward. Watchful eyes that seem older than the face.
+Isabeau de Carcassonne. One of her past incarnations.
 
-Isabeau de Carcassonne.
+Lilith notes it without surprise. Of course she was there—she's been on this wheel as long as he has. The same face she's seen in Alexandria, in Heian Japan, in Sor Catalina. Her thread running parallel to his through time.
 
-Lilith recognizes the physical markers because they're **hers**. The face she's worn across lifetimes. The features that persist.
+But Isabeau stayed peripheral. Watched from across the room. Did not approach. Did not engage.
 
-One of her own past incarnations. There. In that ballroom. In 1588.
+The observation files itself: distance maintained, even when proximity was possible. Her past self chose separation.
 
-**The Revelation:**
+Interesting. Worth examining later.
 
-Her past life and his past life in the same space. Breathing the same air. Watching the same people. The distance between them—twenty feet of ballroom floor—could have been crossed.
-
-But Isabeau stayed peripheral. Watched. Did not engage.
-
-Lilith feels a strange gratitude toward her past self. Isabeau understood what she's only now learning: direct engagement might not work. Distance might be necessary.
-
-Or—the thought surfaces—distance might be the problem, but timing matters. The wrong intervention at the wrong moment.
+(She doesn't dwell on it. The tracking continues.)
 
 **Part D: Jean's Breakthrough (~500 words)**
 
@@ -278,15 +272,16 @@ Her hands tremble slightly. The headache that follows deep tracking pulses at he
 
 Seven years. Seven interventions. Seven backfires.
 
-And now: the discovery that one of her past lives was *there*. Close enough to speak to him. Close enough to touch.
+Another past life present in his timeline—Isabeau at the ball, just as the Attendant was in Heian Japan, just as Sor Catalina was in Spain. The pattern of parallel lives continuing. Her thread and his, running close but never touching.
 
-But Isabeau didn't. And Jean never knew.
+Until now. Until she changes the strategy.
 
 **Voice Notes:**
 - Dual sensation: Manchester present + France past
-- Recognition moment should feel significant—she's seeing herself across time
-- The pain at his death is physical, visceral, unexplained
+- Isabeau recognition brief, filed without drama—she already knows she has past lives
+- The pain at his death is physical, visceral, unexplained (Maitreya foreshadowing)
 - Backfire witnessed in real-time: her weapon became his tool
+- The dramatic weight is on the BACKFIRE, not the Isabeau sighting
 
 ---
 
@@ -478,12 +473,12 @@ The notebooks wait. The next chapter begins.
 - ✓ Professional decline visible (colleagues concerned)
 - ✓ Family/friend grounding (Nadia or Meera)
 
-### Discovery of Isabeau
-- ✓ Lilith sees her own past incarnation at the ball
-- ✓ Recognition through physical markers
-- ✓ Isabeau was peripheral, did not engage
-- ✓ This makes modern meeting more significant
-- ✓ Maintains rule: Ch1 is first actual conversation
+### Recognition of Isabeau (Minor Beat)
+- ✓ Brief recognition: another past life present (Isabeau at ball)
+- ✓ Filed without drama—she already knows she has past lives (Ch13/15 established)
+- ✓ Notes that Isabeau stayed peripheral, didn't engage
+- ✓ Confirms pattern: her past incarnations maintained distance
+- ✓ Not a dramatic revelation—just another data point
 
 ---
 
@@ -566,7 +561,7 @@ Let these land through juxtaposition and implication. Trust the reader.
 
 ## Notes for Drafting
 
-**The Isabeau Discovery:** This should feel like a gut-punch. She's been tracking him for seven years, watching his past lives unfold, never realizing that *she* was there too. The physical markers should be unmistakable—readers have learned to recognize them. The widow's peak, the darker strand, the watchful eyes. This is Lilith, 400 years ago, in the same room with Jean/Silas, and they never spoke.
+**The Isabeau Recognition:** Brief, matter-of-fact. By Ch15, Lilith already knows she has past lives with the same face across eons. Seeing Isabeau at the ball is just confirmation—"of course she was there." The physical markers should be clear for readers, but Lilith notes them without drama. The observation is filed quickly: her past self chose distance. Interesting. Then the tracking continues. The dramatic weight belongs to the BACKFIRE, not to spotting another past incarnation.
 
 **The Backfire List:** Render this almost mathematically. Seven interventions, seven outcomes, the pattern undeniable. Not emotional, analytical. She's a psychiatrist recognizing a clinical pattern. The framework she uses to understand patients is now turned on her own work.
 
