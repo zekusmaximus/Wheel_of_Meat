@@ -2251,45 +2251,59 @@
         "Maitreya foreshadowing: pain at his death, inexplicable empathy"
       ],
       "word_target": 7000,
+      "actual_word_count": 9587,
       "scenes": [
         {
           "number": 1,
           "title": "The University Student",
           "word_target": 1000,
-          "function": "Demonstration; foreshadow university transition"
+          "actual_words": 1658,
+          "function": "Demonstration; foreshadow university transition",
+          "file": "scenes/scene-01-university-student.md"
         },
         {
           "number": 2,
           "title": "Professional Deterioration",
           "word_target": 800,
-          "function": "NHS decline; seed career transition"
+          "actual_words": 1368,
+          "function": "NHS decline; seed career transition",
+          "file": "scenes/scene-02-professional-deterioration.md"
         },
         {
           "number": 3,
           "title": "The Loneliness of Knowledge",
           "word_target": 700,
-          "function": "Family/friend grounding; isolation of what she knows"
+          "actual_words": 1378,
+          "function": "Family/friend grounding; isolation of what she knows",
+          "file": "scenes/scene-03-loneliness.md"
         },
         {
           "number": 4,
           "title": "Tracking - The Renaissance Skeptic",
           "word_target": 2500,
-          "function": "CLIMAX - observe Ch16, recognize Isabeau (minor beat), witness backfire, feel pain at death"
+          "actual_words": 2252,
+          "function": "CLIMAX - observe Ch16, recognize Isabeau (minor beat), witness backfire, feel pain at death",
+          "file": "scenes/scene-04-tracking.md"
         },
         {
           "number": 5,
           "title": "Processing the Pattern",
           "word_target": 1200,
-          "function": "7 backfires listed, pattern analysis, pivot decision forms"
+          "actual_words": 1527,
+          "function": "7 backfires listed, pattern analysis, pivot decision forms",
+          "file": "scenes/scene-05-processing.md"
         },
         {
           "number": 6,
           "title": "CODA - The Search Begins",
           "word_target": 800,
-          "function": "Commitment to new strategy; search for Ch18 avatar"
+          "actual_words": 1404,
+          "function": "Commitment to new strategy; search for Ch18 avatar",
+          "file": "scenes/scene-06-coda-search.md"
         }
       ],
-      "status": "outlined"
+      "status": "drafted",
+      "draft_complete_date": "2024-12-14"
     },
     {
       "chapter": 18,
