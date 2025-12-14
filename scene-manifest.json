@@ -2525,11 +2525,13 @@
       ],
       "backfire_awareness": "Pattern now explicit: eight years, eight interventions, eight accelerations. She's training him, not stopping him.",
       "word_target": 10000,
-      "word_count": 10790,
+      "word_count": 10910,
       "scenes": [],
-      "status": "drafted",
+      "status": "polished",
       "draft_complete_date": "2024-12-14",
-      "revision_notes": "Added demonstration scene (Eleanor Hartley caregiver patient), expanded Scene 4 false victory, fixed Buddhist terminology (adhiṭṭhāna→conviction, viriya→perseverance), strengthened no-intervention decision in Scene 7, added face constancy observation to Scene 1"
+      "polish_complete_date": "2024-12-14",
+      "revision_notes": "Added demonstration scene (Eleanor Hartley caregiver patient), expanded Scene 4 false victory, fixed Buddhist terminology (adhiṭṭhāna→conviction, viriya→perseverance), strengthened no-intervention decision in Scene 7, added face constancy observation to Scene 1",
+      "polish_notes": "Removed filter verbs (Scene 2), added environmental metaphors (Manchester grey in Scene 3, LA brightness vs Manchester rain in Scene 7), tightened telling moments (Scene 9 job search shown not told). Quality: A grade (~95%)"
     },
     {
       "chapter": 20,

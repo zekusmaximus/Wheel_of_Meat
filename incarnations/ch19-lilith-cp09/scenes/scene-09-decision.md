@@ -102,7 +102,9 @@ This was closer to true. But it wasn't the whole truth.
 
 She didn't complete the sentence. There was something forming beneath the strategy, something she wasn't ready to name.
 
-She would need to change her professional circumstances. The NHS position was already unsustainable; she'd been choosing this work over that work for years, and the NHS work had withered from neglect. But there were opportunities in academic settings—university counseling centers, research positions, clinical faculty appointments. The same kind of institution where he worked.
+She opened her laptop.
+
+The NHS position was already unsustainable; she'd been choosing this work over that work for years, and the NHS work had withered from neglect. The browser tabs accumulated: "University of Manchester—Careers." "Academic counseling positions UK." "Clinical faculty appointments—eligibility requirements." The same kind of institution where he worked.
 
 *Engineering proximity.*
 
@@ -148,4 +150,4 @@ And now she was planning to get close to the only other person in the world who 
 
 ---
 
-**Word count: ~1,050**
+**Word count: ~1,070**

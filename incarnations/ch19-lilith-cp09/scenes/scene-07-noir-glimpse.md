@@ -10,7 +10,7 @@ The intermediate life was brief. A Japanese woman in the 1890s—factory worker,
 
 Then the thread brightened.
 
-1920s. America. Los Angeles, or somewhere with that quality of light—Lilith had never visited, but the tracking gave her impressions that suggested it. Sun that felt different from England. Heat that came with a kind of insistence. Architecture that was still inventing itself.
+1920s. America. Los Angeles, or somewhere with that quality of light—harsh, artificial, even in the tracking's compressed memory. Sun that felt different from England's perpetual grey. Heat that came with a kind of insistence, an aggressive brightness Manchester never achieved even in summer. Architecture that was still inventing itself, all angles and optimism, nothing like the Victorian brick solidity she'd grown used to.
 
 And him.
 
@@ -78,7 +78,7 @@ In her timeline.
 
 In her city, probably. The signature was close. Closer than she'd expected.
 
-Her Manchester body was present to her again—the feeling of sitting, the cool air, the stillness of the flat. She had been away for hours. Perhaps days. Time moved strangely during extended tracking; she'd learned to stop fighting it.
+Her Manchester body was present to her again—the feeling of sitting, the cool air, the stillness of the flat. Rain against the window. The grey English morning a world away from that particular American brightness, from the detective's harsh sunlight and neon-washed nights. She had been away for hours. Perhaps days. Time moved strangely during extended tracking; she'd learned to stop fighting it.
 
 But she couldn't stop now.
 
@@ -108,4 +108,4 @@ Lilith opened her eyes.
 
 ---
 
-**Word count: ~1,000**
+**Word count: ~1,050**

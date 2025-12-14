@@ -2,7 +2,7 @@
 
 The siege sounds were muffled by distance and the thick walls of the converted temple, but Wei Shufen's hands knew when artillery was coming. They would pause, just slightly, over whatever wound she was treating. Not stopping. Never stopping. But acknowledging, in the grammar of the body, that the world outside was actively trying to kill everything she was working to save.
 
-Lilith observed from the strange angle that tracking provided—neither inside Wei's head nor entirely outside it. She could see what Wei saw, feel something of what Wei felt, but it remained separate. Like watching a performance in a language she knew well but had not been born speaking.
+Lilith observed from the strange angle that tracking provided—neither inside Wei's head nor entirely outside it. What Wei saw, what Wei felt—the information arrived but remained separate. Like watching a performance in a language she knew well but had not been born speaking.
 
 The aid station occupied what had once been a Buddhist temple. The icons had been removed—the Taiping faith permitted no idols—but something of the space's original purpose lingered in the proportions of the room, the quality of light through high windows, the way sound moved. Sick and wounded men lay on straw pallets arranged in rows. There were perhaps forty of them. By Lilith's count, at least twelve would be dead within a week regardless of treatment.
 

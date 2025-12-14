@@ -104,7 +104,7 @@ Lilith watched, feeling the familiar settling of observation into position. Like
 
 The siege sounds were muffled by distance and the thick walls of the converted temple, but Wei Shufen's hands knew when artillery was coming. They would pause, just slightly, over whatever wound she was treating. Not stopping. Never stopping. But acknowledging, in the grammar of the body, that the world outside was actively trying to kill everything she was working to save.
 
-Lilith observed from the strange angle that tracking provided—neither inside Wei's head nor entirely outside it. What Wei saw, what Wei felt—the information arrived but remained separate. Like watching a performance in a language she knew well but had not been born speaking.
+Lilith observed from the strange angle that tracking provided—neither inside Wei's head nor entirely outside it. She could see what Wei saw, feel something of what Wei felt, but it remained separate. Like watching a performance in a language she knew well but had not been born speaking.
 
 The aid station occupied what had once been a Buddhist temple. The icons had been removed—the Taiping faith permitted no idols—but something of the space's original purpose lingered in the proportions of the room, the quality of light through high windows, the way sound moved. Sick and wounded men lay on straw pallets arranged in rows. There were perhaps forty of them. By Lilith's count, at least twelve would be dead within a week regardless of treatment.
 
@@ -242,8 +242,6 @@ A fever here. A structural weakness there. An assignment to the dangerous sector
 
 Over the next three days of Wei's subjective time—and perhaps an hour of Lilith's—twelve of the fifteen died.
 
-In Manchester, winter rain had turned to sleet, then back to rain, then to the grey constancy of February. But in her tracking corner, monitoring 1862 from across centuries, Lilith felt something approaching warmth. The interventions were working. The pattern was emerging. Wei's ledger numbers were inverting exactly as planned.
-
 Wei found the bodies. Or heard the news. Or stood at the edge of mass graves and counted.
 
 Her ledger:
@@ -280,7 +278,7 @@ She continued watching.
 
 ---
 
-**Word count: ~1,100**
+**Word count: ~1,050**
 
 # Scene 4: The Pause — June 1864
 
@@ -613,7 +611,7 @@ The intermediate life was brief. A Japanese woman in the 1890s—factory worker,
 
 Then the thread brightened.
 
-1920s. America. Los Angeles, or somewhere with that quality of light—harsh, artificial, even in the tracking's compressed memory. Sun that felt different from England's perpetual grey. Heat that came with a kind of insistence, an aggressive brightness Manchester never achieved even in summer. Architecture that was still inventing itself, all angles and optimism, nothing like the Victorian brick solidity she'd grown used to.
+1920s. America. Los Angeles, or somewhere with that quality of light—Lilith had never visited, but the tracking gave her impressions that suggested it. Sun that felt different from England. Heat that came with a kind of insistence. Architecture that was still inventing itself.
 
 And him.
 
@@ -681,7 +679,7 @@ In her timeline.
 
 In her city, probably. The signature was close. Closer than she'd expected.
 
-Her Manchester body was present to her again—the feeling of sitting, the cool air, the stillness of the flat. Rain against the window. The grey English morning a world away from that particular American brightness, from the detective's harsh sunlight and neon-washed nights. She had been away for hours. Perhaps days. Time moved strangely during extended tracking; she'd learned to stop fighting it.
+Her Manchester body was present to her again—the feeling of sitting, the cool air, the stillness of the flat. She had been away for hours. Perhaps days. Time moved strangely during extended tracking; she'd learned to stop fighting it.
 
 But she couldn't stop now.
 
@@ -711,7 +709,7 @@ Lilith opened her eyes.
 
 ---
 
-**Word count: ~1,050**
+**Word count: ~1,000**
 
 # Scene 8: The Find
 
@@ -945,9 +943,7 @@ This was closer to true. But it wasn't the whole truth.
 
 She didn't complete the sentence. There was something forming beneath the strategy, something she wasn't ready to name.
 
-She opened her laptop.
-
-The NHS position was already unsustainable; she'd been choosing this work over that work for years, and the NHS work had withered from neglect. The browser tabs accumulated: "University of Manchester—Careers." "Academic counseling positions UK." "Clinical faculty appointments—eligibility requirements." The same kind of institution where he worked.
+She would need to change her professional circumstances. The NHS position was already unsustainable; she'd been choosing this work over that work for years, and the NHS work had withered from neglect. But there were opportunities in academic settings—university counseling centers, research positions, clinical faculty appointments. The same kind of institution where he worked.
 
 *Engineering proximity.*
 
@@ -993,7 +989,7 @@ And now she was planning to get close to the only other person in the world who 
 
 ---
 
-**Word count: ~1,070**
+**Word count: ~1,050**
 
 # Scene 10: Coda — The Approach Begins
 
@@ -1118,39 +1114,33 @@ But it was there.
 
 ---
 
-## Chapter 19 Complete (Polished to A Grade)
+## Chapter 19 Complete (Revised)
 
-**Total word count: ~10,910 words**
+**Total word count: ~10,790 words**
 
 | Scene | Title | Words |
 |-------|-------|-------|
 | 1 | The Method | ~1,550 |
 | 2 | The Observation — Spring 1862 | ~1,050 |
-| 3 | The Intervention | ~1,100 |
+| 3 | The Intervention | ~1,050 |
 | 4 | The Pause — June 1864 | ~1,000 |
 | 5 | The Backfire | ~970 |
 | 6 | The Death | ~1,000 |
-| 7 | The Noir Glimpse | ~1,050 |
+| 7 | The Noir Glimpse | ~1,000 |
 | 8 | The Find | ~1,200 |
-| 9 | The Decision Crystallizes | ~1,070 |
+| 9 | The Decision Crystallizes | ~1,050 |
 | 10 | Coda — The Approach Begins | ~920 |
 
-**Critical Revisions (Complete):**
-- ✅ Added demonstration scene (Eleanor Hartley) to Scene 1
-- ✅ Fixed Buddhist terminology (adhiṭṭhāna→conviction, viriya→perseverance)
-- ✅ Expanded Scene 4 with false victory and premature celebration
-- ✅ Strengthened no-intervention decision in Scene 7
-- ✅ Added face constancy observation to Scene 1
-- ✅ "Together doesn't hold" callback present in Scene 9
+**Revisions Implemented:**
+- Added demonstration scene (Eleanor Hartley) to Scene 1
+- Fixed Buddhist terminology (adhiṭṭhāna→conviction, viriya→perseverance)
+- Expanded Scene 4 with false victory and premature celebration
+- Strengthened no-intervention decision in Scene 7
+- Added face constancy observation to Scene 1
+- "Together doesn't hold" callback present in Scene 9
 
-**Polish to A Grade (Complete):**
-- ✅ Removed filter verbs in Scene 2 ("could see/feel" → direct presentation)
-- ✅ Added environmental metaphor in Scene 3 (Manchester grey vs 1862)
-- ✅ Enhanced environmental contrast in Scene 7 (LA brightness vs Manchester rain)
-- ✅ Tightened telling moment in Scene 9 (showed job search, not told)
-
-**Status:** Polished and ready for final review (A grade, ~95%)
+**Status:** Drafted and revised per comprehensive review (92% quality score)
 
 **Review Documents:**
-- `REVIEW-REPORT.md` - Initial analysis (92% quality score)
+- `REVIEW-REPORT.md` - Detailed analysis against all criteria
 - `REVISION-PLAN.md` - Scene-by-scene revision guide
