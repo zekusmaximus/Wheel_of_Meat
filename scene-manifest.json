@@ -2095,7 +2095,8 @@
           "action": "Jean receives assignment from Magistrate de Lacaze: Protestant notable Henri de Ségur murdered on road; Catholics blamed, but whispers suggest Protestant hardliners eliminating moderate; peace depends on right finding",
           "doubt_work": "Jean understands immediately: being asked to find politically useful truth; professional neutrality already under siege",
           "genre_obligation": "Mission briefing convention; establish stakes and ticking clock",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1196
         },
         {
           "number": 2,
@@ -2106,7 +2107,8 @@
           "action": "Jean interviews witnesses at inn and Protestant household: Catholic merchant saw Protestant riders fleeing; Protestant farmer saw Catholic soldiers lurking; servant heard victim arguing with own faction; accounts internally coherent but mutually exclusive",
           "doubt_work": "Jean's professional tools—compare, cross-reference, find inconsistencies—reveal inconsistency without resolving it; method produces questions, not answers",
           "genre_obligation": "Investigation as motion; different locations, voices, rising tension",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1457
         },
         {
           "number": 3,
@@ -2117,7 +2119,8 @@
           "action": "Jean attacked on wooded road by masked men, faction unclear; desperate close fight; old shoulder wound screams; kills one, wounds another, escapes into woods as rest break off",
           "doubt_work": "Binding wound alone: Who sent them? Catholic elimination or Protestant silencing? Cannot know. But knows: both sides watching, both will act",
           "genre_obligation": "Mandatory ambush; proves stakes are lethal; bloods the protagonist",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1191
         },
         {
           "number": 4,
@@ -2129,7 +2132,8 @@
           "doubt_work": "Marguerite articulates Jean's doubts more clearly than he can; quotes skeptics—'Que sais-je?'; suggests honest uncertainty might be more virtuous than false conviction; Jean feels understood (dangerous)",
           "genre_obligation": "The ally who may be more; intellectual tension as romantic possibility; information exchange",
           "recognition_moment": "As Jean leaves, glimpses Marguerite watching from upper window—stillness seems older than her face; he shakes off impression",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1493
         },
         {
           "number": 5,
@@ -2140,7 +2144,8 @@
           "action": "Among Marguerite's documents, Jean finds letter suggesting killing was internal—Protestant faction eliminating moderate; if authentic, exonerates Catholics and indicts Protestant leadership; but provenance uncertain, could be forged, cannot verify; Captain de Castelnau summons Jean for progress report—Jean reveals nothing about letter; Captain's courtesy has edge",
           "doubt_work": "Letter crystallizes the fetter: cannot know if real; any action (include/exclude) could be wrong; honest move seems to be: wait, investigate, suspend judgment",
           "genre_obligation": "MacGuffin document; faction pressure personified; rising stakes",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1563
         },
         {
           "number": 6,
@@ -2151,7 +2156,8 @@
           "action": "Jean attends nobleman's ball where investigation is subtext of every exchange; Father Sorbin corners with elegant questions that are threats; Captain's lieutenant asks pointed timeline questions; Catholic lady implies knowledge of ambush—warning or test?; Jean navigates with neutral answers, reveals nothing, commits to nothing",
           "doubt_work": "Realizes silence being read as alliance by both sides; each faction assumes he's secretly with them; neutrality producing false certainty in others; sees his own strategy reflected/distorted—they all use ambiguity as weapon",
           "genre_obligation": "Mandatory ball scene; verbal fencing; social stakes as lethal as swords",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1651
         },
         {
           "number": 7,
@@ -2162,7 +2168,8 @@
           "action": "Jean returns to Marguerite late at night with crisis: the letter, irreconcilable witnesses, impossibility of conclusion; she listens, then articulates what he fears: 'If you cannot verify, you cannot include. If you cannot resolve contradiction, you cannot conclude. Only honest report is no report. Perhaps honest uncertainty means refusing to participate in their game of false certainties.'",
           "doubt_work": "Vicikicchā in pure form: I cannot know, therefore I cannot act; philosophical justification for spiritual paralysis; argument is clean, matches everything Jean believes; he almost agrees",
           "genre_obligation": "Dark night of soul; temptation scene; ally revealing as tempter",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1756
         },
         {
           "number": 8,
@@ -2173,7 +2180,8 @@
           "action": "Jean sits with notes; deadline tomorrow; de Lacaze made clear: submit or be dismissed; writes not what factions want or demand—writes what he observed, what he could not verify, that witness testimony is irreconcilable without unobtainable evidence, that letter's authenticity is unverifiable and should not be relied upon, that he has no conclusion—only truthful account of what investigation found and failed to find; submits to de Lacaze; magistrate's face: this protects no one, satisfies no one, will be seen as betrayal by everyone",
           "doubt_work": "The conversion: Jean discovers he can act *as someone who does not know*—stating honestly what was observed and what remains uncertain—rather than refusing to act because he does not know; truthfulness is not certainty but honest acknowledgment of limits combined with willingness to face consequences",
           "genre_obligation": "Turning point; hero commits; no retreat possible",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1480
         },
         {
           "number": 9,
@@ -2185,10 +2193,12 @@
           "doubt_work": "Dying in dirt, thinks: I told truth about what I didn't know. That was mine to give. It wasn't enough. But it was true. Question burns forward: *If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?* Hunger for that answer pulls forward—century, two centuries ahead, cause worth dying for, commitment that doesn't require pretending to know, choice made with eyes open",
           "genre_obligation": "Death with dignity; no rescue; meaning in the end",
           "karmic_bridge": "Lesson completes—vicikicchā broken not by acquiring certainty but by acting truthfully without it; lesson incomplete—Jean acted under uncertainty but never found what deserved certain commitment; seeds Taiping rebel",
-          "status": "not_started"
+          "status": "completed",
+          "word_count": 1759
         }
       ],
-      "status": "outlined"
+      "status": "drafted",
+      "total_word_count": 13546
     },
     {
       "chapter": 17,
