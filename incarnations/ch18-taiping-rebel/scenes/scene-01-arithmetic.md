@@ -76,7 +76,7 @@ At sunset, Wei stood in the temple doorway and looked west toward the wall. Sold
 
 Behind him, the empty alcove where Guanyin had once sat stared back with its hollow absence. The goddess of mercy was gone, but the work remained. Wei would kneel again tomorrow when the wounded came. He would count them, treat them, save the ones he could. The ledger would grow.
 
-He did not know that the numbers would invert within two years. Did not know that the ratio of saved to lost would collapse, then reverse, until the arithmetic itself became unbearable. Did not know that someone watched from a place outside time, arranging coincidences with the patience of the very desperate.
+He did not know that the numbers would invert within two years. Did not know that the ratio of saved to lost would collapse, then reverse, until the arithmetic itself became unbearable. Did not know that someone watched from a place outside time, arranging coincidences with the patience of someone who had already lost everything and was now losing time itself.
 
 Wei only knew that Chen was healed and walking and alive, and that was enough for today.
 

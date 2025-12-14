@@ -118,7 +118,7 @@ She nodded. She did not speak. Her eyes were huge in her shrunken face.
 
 Wei went to his personal supply—a small bag of rice he had saved from his own rations—and scooped a handful into a bowl. He added water from the bucket, stirred it into a thin gruel, and handed it to her.
 
-She ate without looking at him. Fast, desperate, like an animal. When the bowl was empty, she finally met his eyes.
+She ate without looking at him. Fast, hunched over the bowl, her hands trembling. Like an animal certain the food would be taken away. When the bowl was empty, she finally met his eyes.
 
 "You sent us away," she said. "Everyone died."
 

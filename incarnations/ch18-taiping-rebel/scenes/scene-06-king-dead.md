@@ -38,7 +38,7 @@ The Heavenly King was dead. The theological keystone was gone. And the structure
 
 By midday, the city had fractured into chaos.
 
-The riot started at the Holy Treasury. A crowd of civilians—skeletal, desperate—had stormed the gates demanding food. The treasury was empty. It had been empty for months. But hunger does not accept inventory reports. The crowd surged forward, was met by guards, and the confrontation dissolved into violence.
+The riot started at the Holy Treasury. A crowd of civilians—skeletal, moving with the jerky urgency of starvation—had stormed the gates demanding food. The treasury was empty. It had been empty for months. But hunger does not accept inventory reports. The crowd surged forward, was met by guards, and the confrontation dissolved into violence.
 
 Wei heard the commotion from the temple—shouts, the crack of wood breaking, a scream that cut off abruptly—but he did not go to investigate. The riot was not his concern. His concern was the temple floor, where three new wounded had arrived.
 

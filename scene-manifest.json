@@ -2365,7 +2365,8 @@
           "opening": "Wei treating wounded at dawn in temple aid station",
           "closing": "Wei updates ledger: '48 saved, 23 lost'—doesn't know numbers will invert",
           "key_beats": "Triage calculus; ledger counting; genuine but quiet faith; successful surgery; soldier returns (will die tomorrow—Lilith's touch)",
-          "status": "not_started"
+          "word_count": 1458,
+          "status": "complete"
         },
         {
           "number": 2,
@@ -2377,7 +2378,8 @@
           "opening": "Mass casualty event—30+ wounded flood aid station",
           "closing": "Wei burns corpses; girl he saved watches; ledger: '71 saved, 58 lost—gap closing'",
           "key_beats": "Brutal triage; gut wound mercy killing; evacuated family returns (parents dead); first seed of doubt about his efficacy",
-          "status": "not_started"
+          "word_count": 1587,
+          "status": "complete"
         },
         {
           "number": 3,
@@ -2389,7 +2391,8 @@
           "opening": "Sabbath service—preacher rants about divine protection while Wei sees dying men in crowd",
           "closing": "Wei alone, ledger: '103 saved, 97 lost'—nearly even; sits before empty Buddha alcove",
           "key_beats": "Sermon cognitive dissonance; impossible order to release unready men; 18 of 20 die in raid; Wei registers failure without bitterness",
-          "status": "not_started"
+          "word_count": 1728,
+          "status": "complete"
         },
         {
           "number": 4,
@@ -2401,7 +2404,8 @@
           "opening": "Wei making list of 15 people he saved—checking on them methodically",
           "closing": "Wei burns the list; ledger: '133 saved, 128 lost'—gap closed; 'Five left before I've killed more than I've saved'",
           "key_beats": "12 of 15 dead (impossible statistics); conversation with Old Huang; soldiers whisper 'cursed'; girl returns (starving)",
-          "status": "not_started"
+          "word_count": 1982,
+          "status": "complete"
         },
         {
           "number": 5,
@@ -2413,7 +2417,8 @@
           "opening": "Wei stares at bowl of 'manna' (weeds)—Hong's decree that this is God's provision",
           "closing": "Wei stops counting ledger; 'Saved' and 'lost' are meaningless—everyone's dying, he just chooses the speed",
           "key_beats": "Manna decree; ethical horror of distribution; dysentery outbreak; dying believer asks 'Why?'; Wei stays (function, not faith)",
-          "status": "not_started"
+          "word_count": 1858,
+          "status": "complete"
         },
         {
           "number": 6,
@@ -2425,7 +2430,8 @@
           "opening": "Runners bring news at dawn: Hong Xiuquan is dead",
           "closing": "Child leaves, bandaged; Wei: 'When walls break, he'll die anyway. But not from this wound. Not today.' Returns to work.",
           "key_beats": "Hong's death; social order collapses; Wei paralyzed (stops working 2 days); wounded child appears; breakthrough: helps anyway, knowing it's futile",
-          "status": "not_started"
+          "word_count": 1924,
+          "status": "complete"
         },
         {
           "number": 7,
@@ -2437,7 +2443,8 @@
           "opening": "Explosion—wall collapses, Qing forces flood through breach",
           "closing": "Wei kneels with wounded in temple, boy's hand in his; footsteps approach; they wait",
           "key_beats": "The breach; triage arithmetic (reprise); orders evacuation knowing it's futile; Lilith's cavalry intercepts (slaughter); Wei returns to wounded",
-          "status": "not_started"
+          "word_count": 1652,
+          "status": "complete"
         },
         {
           "number": 8,
@@ -2449,11 +2456,14 @@
           "opening": "Silence after massacre; Wei and 40 wounded wait; footsteps approaching",
           "closing": "Wei's body on temple floor, eyes open, one hand reaching toward boy; ledger closed",
           "key_beats": "The wait; internal review (not ledger—abandoned); Jean's question answered; Qing soldiers arrive; Wei stands between them and wounded; death; final thought (Ch20 bridge)",
-          "status": "not_started"
+          "word_count": 1502,
+          "status": "complete"
         }
       ],
-      "status": "outlined",
-      "outline_complete_date": "2024-12-14"
+      "total_word_count": 12691,
+      "status": "drafted",
+      "outline_complete_date": "2024-12-14",
+      "draft_complete_date": "2024-12-14"
     },
     {
       "chapter": 19,
