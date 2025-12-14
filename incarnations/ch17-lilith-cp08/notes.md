@@ -52,4 +52,31 @@ Beginning to see the pattern: she's TRAINING him, not stopping him
 The decision to find him in present is strategic shift, not panic
 
 ## Notes
-[Add chapter draft and development notes here]
+
+## DRAFT COMPLETE: 9,587 words across 6 scenes
+
+### Scene Breakdown:
+1. **University Student** (1,658 words) - Demonstration: Alex paralyzed by skepticism; Lilith gives advice about truthfulness ≠ certainty while unconsciously noting university details
+2. **Professional Deterioration** (1,368 words) - Harrow mandates leave; researching university positions; NHS work showing strain
+3. **The Loneliness of Knowledge** (1,378 words) - Meera notices decline; isolation of cosmic knowledge; seed of "one person who might understand"
+4. **Tracking - The Renaissance Skeptic** (2,252 words) - CLIMAX: Observes Ch16, brief Isabeau recognition (toned down), witnesses backfire, pain at death (Maitreya), pattern visible
+5. **Processing the Pattern** (1,527 words) - All 7 backfires listed explicitly, she's training him not stopping him, distance is problem, pivot decision forms
+6. **CODA - The Search Begins** (1,404 words) - Forward scan begun, glimpses Taiping incarnation, senses modern presence, commitment to new strategy
+
+### Verification Complete:
+- ✓ All required beats covered
+- ✓ Sensory details present in all scenes
+- ✓ Undermining clauses throughout
+- ✓ No forbidden abstract emotion words (1 "desperate" describing fight - acceptable)
+- ✓ Physical rendering of states (exhaustion, tension, pain)
+- ✓ Threads addressed: kinship whisper, "together doesn't hold," Beat 5, Maitreya foreshadowing
+- ✓ Isabeau recognition properly toned down (brief, matter-of-fact)
+- ✓ Dramatic weight on backfire pattern, not Isabeau sighting
+
+### Seeds Planted for Future Chapters:
+- University position research (Ch19/21 transition)
+- Decision to find Silas in present
+- Search for Ch18 Taiping avatar as bridge
+- Pain at death (Maitreya foreshadowing deepening)
+- Kinship whisper surfaces but not examined
+- Professional decline visible to colleagues
