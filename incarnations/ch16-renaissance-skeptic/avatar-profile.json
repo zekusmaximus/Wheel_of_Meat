@@ -1,31 +1,128 @@
-{
+
+  "chapter": 16,
   "chapter_id": "ch16-renaissance-skeptic",
+  
   "avatar": {
-    "name": "[TBD]",
-    "occupation": "[TBD]",
-    "status": "[TBD]"
+    "name": "Jean de Langon",
+    "name_meaning": "Jean is common; Langon is a town in Guyenne—marks him as provincial Gascon, not Parisian",
+    "birth_year": "c. 1545",
+    "death_year": "1588",
+    "age_at_chapter_events": "42-43",
+    "occupation": "Legal investigator attached to the Parlement of Bordeaux",
+    "social_position": "Minor gentry; educated at Collège de Guyenne; serves magistrates as agent sent to gather depositions, verify claims, escort witnesses, recover documents",
+    "location": "Bordeaux and the roads of Guyenne; mission takes him across faction lines"
   },
+  
   "physical": {
-    "appearance": "[TBD]",
-    "recognition_marker": "[TBD]"
+    "appearance": "Lean, weathered from travel; dark hair silvering early; deep-set watchful eyes; dresses practically for the road but carries himself with educated bearing",
+    "recognition_marker_physical": "Touches fingers together in sequence when weighing testimony—thumb to each fingertip, a counting or measuring gesture inherited from Diego's careful physician's hands",
+    "distinguishing_features": "A stillness when listening; people find themselves saying more than they intended",
+    "health_conditions": "Old sword wound in left shoulder from a roadside encounter years ago; aches in wet weather"
   },
+  
   "psychology": {
-    "core_flaw_manifestation": "[TBD - how compulsive helping shows in this life]",
-    "fatal_flaw": "[TBD]",
-    "strengths": [],
-    "weaknesses": []
+    "core_flaw_manifestation": "Helps by withholding judgment—believes his service is providing clean information so others can decide. This is compulsive helping with a built-in escape hatch: he never has to own the consequences of decisions made from his reports.",
+    "fatal_flaw": "Has made 'I don't know' into an identity, a fortress against moral exposure. His neutrality is spiritual avoidance dressed as intellectual honesty.",
+    "core_attachment": "The belief that uncertainty absolves him of responsibility for action",
+    "strengths": [
+      "Genuinely skilled at weighing evidence and detecting lies",
+      "Can move across faction lines because both sides find him useful",
+      "Patient, observant, unflappable under pressure",
+      "Capable swordsman—survival skill, not vanity"
+    ],
+    "weaknesses": [
+      "Uses doubt as shield against commitment",
+      "Believes neutrality is safety",
+      "Cannot distinguish between honest uncertainty and cowardly evasion",
+      "Has never had to die for a conclusion"
+    ],
+    "recognition_marker_behavioral": "The watching-to-understand that persists from Ka through Diego to Silas—'Jean observes. Weighs. Waits.'"
   },
+  
+  "relationships": {
+    "key_relationships": [
+      {
+        "name": "Magistrate Bernard de Lacaze",
+        "role": "Patron and superior",
+        "dynamic": "Has protected Jean for years; assigns him the impossible investigation; ultimately cannot or will not shield him from the consequences of his truthful report",
+        "arc": "Represents the system that uses Jean's neutrality and then discards him"
+      },
+      {
+        "name": "Marguerite Viret",
+        "role": "Printer's widow (Lilith's vessel)",
+        "dynamic": "Educated woman who inherited her husband's press and connections; provides documents, intellectual companionship, and the philosophical pressure that pushes Jean's doubt toward paralysis",
+        "arc": "Appears as ally and kindred spirit; her arguments represent the nihilist endpoint of his doubt"
+      },
+      {
+        "name": "Captain Arnaud de Castelnau",
+        "role": "Protestant military commander",
+        "dynamic": "One of the factions pressuring Jean; respects Jean's work but will turn lethal when the report fails to serve Protestant interests",
+        "arc": "The honorable enemy who kills him anyway"
+      },
+      {
+        "name": "Father Michel Sorbin",
+        "role": "Catholic agent attached to the investigation",
+        "dynamic": "Watches Jean on behalf of Catholic faction; urbane, educated, dangerous; represents certainty-as-weapon",
+        "arc": "The other faction; equally willing to destroy Jean for the wrong conclusion"
+      }
+    ],
+    "family": "Wife died in childbirth years ago; no surviving children; this isolation enables his wandering life but also means no one depends on him—contributing to his sense that his choices don't ultimately matter",
+    "enemies": "Both factions, by the end"
+  },
+  
   "chapter_arc": {
-    "opening_state": "[TBD]",
-    "inciting_incident": "[TBD]",
-    "climax": "[TBD]",
-    "closing_state": "[TBD]"
+    "opening_state": {
+      "external": "Jean is a trusted investigator whose neutrality has protected him through years of religious war; he is assigned to investigate a killing that both factions want resolved in their favor",
+      "internal": "His doubt is comfortable—a professional and personal identity. He believes 'I don't know' is honest and safe."
+    },
+    "inciting_incident": "A Protestant notable has been murdered. Catholics are blamed, but rumors suggest internal Protestant fratricide—moderates eliminated by hardliners. Jean's patron makes clear: the correct finding will serve peace; the incorrect finding will reignite war. Jean understands he's being asked to find politically useful truth, not actual truth.",
+    "central_conflict": "Can Jean act truthfully when truth serves neither faction and certainty is impossible? The investigation becomes a crucible for his doubt: witnesses contradict, documents may be forged, and every path forward makes enemies.",
+    "climax": "Jean submits a report that honestly represents his uncertainty—states what he observed, what he could not verify, what remains unresolved. This is an act of truthfulness under uncertainty. It is also politically suicidal.",
+    "closing_state": {
+      "external": "Both factions turn on him. He is killed—ambush on the road, or arrest on fabricated charges, or a duel provoked over his 'cowardice.'",
+      "internal": "He acted honestly. It wasn't enough—but it was his, and it was true. He dies not in despair or triumph but in quiet clarity."
+    }
   },
+  
   "lesson_development": {
-    "perfection_or_fetter": "[TBD]",
-    "what_learned": "[TBD]",
-    "what_failed": "[TBD]",
-    "death_seeds_next": "[TBD]"
+    "perfection": "Truthfulness (sacca)",
+    "fetter_focus": "Doubt (vicikicchā)—specifically doubt-as-avoidance, using uncertainty as a shield against moral exposure",
+    "inherited_from_diego": "The capacity to question without bitterness. Diego released hatred toward his persecutors; Jean inherits a mind that can doubt cleanly—without resentment, without cynicism. What he hasn't learned is that doubt must eventually resolve into action.",
+    "what_learned": "Truthfulness is not the same as certainty. One can act as someone who does not know—stating honestly what was observed, what remains uncertain—rather than refusing to act because knowledge is incomplete. The conversion from 'Is this true?' to 'What can I honestly say, and what happens if I say it?'",
+    "what_failed": "He learns to act under uncertainty, but he dies before discovering what cause is worth certain sacrifice. His doubt is purified; his commitment is untested.",
+    "death_seeds_next": "The question that burns forward: 'If I am willing to die for truthful uncertainty, what am I willing to die for with conviction? What is worth committing to completely?' This seeds the Taiping rebel's lesson—determination, choosing others' welfare over survival with full knowledge of the cost."
   },
-  "notes": "[TBD]"
+  
+  "death": {
+    "circumstances": "Ambush on the road after submitting his report, or arrest and execution on fabricated charges—the method matters less than the meaning. He dies because he told the truth about what he didn't know.",
+    "final_moment": "Not despair, not triumph. Something quieter. The recognition that he acted honestly, and that honesty had consequences he accepted. The hunger for the next question: what is worth dying for with certainty?",
+    "thematic_resonance": "The man who made uncertainty his fortress dies for the truth of his uncertainty—a death that validates truthfulness while exposing its incompleteness",
+    "karmic_bridge": "Jean learned to act under uncertainty; the Taiping avatar must learn what cause justifies certain sacrifice"
+  },
+  
+  "lilith_in_this_chapter": {
+    "vessel": "Marguerite Viret, printer's widow",
+    "vessel_psychology": "Educated, genuinely skeptical, has her own reasons for involvement in the intellectual underground—Lilith pushes but does not overwrite",
+    "power_level": "Extended interaction—can engage in sustained conversations through the vessel; works through subconscious compulsion rather than full inhabitation",
+    "method": "Philosophical companionship; Marguerite becomes Jean's intellectual foil, pushing his doubt toward its nihilist endpoint: 'If you cannot verify, you cannot conclude. The only honest report is no report.'",
+    "objective": "Feed doubt until he stops believing action is possible. If he refuses to submit any report, he fails his duty and confirms that uncertainty makes commitment impossible.",
+    "backfire": "By articulating the nihilist endpoint, she forces Jean to discover that truthfulness isn't about certainty—it's about honest acknowledgment of limits combined with willingness to act anyway. Her arguments become the whetstone that sharpens his understanding.",
+    "recognition_moment": "Jean sees her briefly in a context outside their philosophical conversations—perhaps at the margins of a faction gathering, or watching from a doorway as he passes. Her face registers but doesn't consciously alarm him. Lilith, looking back in Chapter 17, will remember this moment as one where she was almost seen.",
+    "limitations": "Cannot reveal her true nature; cannot force his choices; must work through Marguerite's own vocabulary and personality"
+  },
+  
+  "genre_requirements": {
+    "swashbuckling_elements": [
+      "Road travel with ambush risks",
+      "Duel provoked by faction agent",
+      "Escort mission (witness or document)",
+      "Ball/salon scene where conversation is fencing",
+      "Chase or flight sequence",
+      "Courtroom or hearing confrontation"
+    ],
+    "philosophical_integration": "Every action set-piece advances the doubt/truthfulness question. Motion carries meaning; rhetoric draws blood.",
+    "tone": "Velocity and wit under pressure; elegance and brutality intercut; danger metabolized into performance"
+  },
+  
+  "notes": "Jean de Langon represents the soul's encounter with institutional doubt—skepticism as profession rather than wound. Unlike Diego, who was persecuted for hidden belief, Jean is persecuted for refusing to perform certainty. His death demonstrates that truthfulness under uncertainty is possible and costly, seeding the Taiping rebel's question: granted that one can act honestly without certainty, what cause deserves certain commitment?"
 }
