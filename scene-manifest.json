@@ -2029,30 +2029,166 @@
       "genre": "Philosophical Adventure/Swashbuckling",
       "setting": {
         "period": "Renaissance",
-        "location": "France",
-        "year": "1580-1592"
+        "location": "Guyenne, France",
+        "year": "1588"
       },
-      "pov": "TBD",
+      "pov": "Jean de Langon (third person, close)",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "[TBD]",
-        "status": "Developing soul"
+        "name": "Jean de Langon",
+        "occupation": "Legal investigator",
+        "age": "Early forties",
+        "status": "Developing soul",
+        "recognition_markers": [
+          "Touches fingers in sequence when weighing evidence (echoes Diego's finger-touching, Kaoru's fan-tracing)",
+          "Lean, weathered, watchful; old shoulder wound"
+        ],
+        "core_flaw": "Uses neutrality/uncertainty as shield against moral exposure; survived religious wars by being useful to both sides and committing to neither"
       },
       "lilith": {
+        "identity": "Marguerite Viret—printer's widow, late thirties",
+        "appearance": "Dark hair with widow's peak, single darker strand, eyes that see through",
         "powers": "Extended interaction—can engage in sustained conversations",
-        "intervention": "Appears as philosophical companion encouraging radical doubt",
-        "objective": "Feed doubt until he stops believing the path is possible; if he abandons the journey, she wins"
+        "intervention": "Appears as philosophical companion; pushes doubt toward nihilist endpoint",
+        "objective": "Feed doubt until he stops believing action is possible; use philosophical coherence to justify spiritual paralysis",
+        "constraint": "Acts from vessel's own psychology; Jean feels she understands him (dangerous)"
+      },
+      "key_characters": {
+        "magistrate_bernard_de_lacaze": {
+          "role": "Jean's patron—a politique trying to maintain peace",
+          "function": "Assigns the impossible investigation; represents the system; cannot/will not protect Jean"
+        },
+        "captain_arnaud_de_castelnau": {
+          "role": "Protestant military commander",
+          "function": "Honorable, dangerous; respects Jean but will kill him for wrong conclusion; faction pressure with human face"
+        },
+        "father_michel_sorbin": {
+          "role": "Catholic agent",
+          "function": "Urbane, educated, lethal beneath courtesy; certainty-as-weapon personified"
+        }
       },
       "lesson": {
         "perfection": "Truthfulness (sacca)",
-        "theme": "Doubt, certainty, and the path forward",
+        "theme": "Breaking vicikicchā—not by acquiring certainty, but by discovering truthful action doesn't require it",
         "fetter_focus": "Doubt (vicikicchā)",
-        "core_development": "Intellectual grappling with uncertainty; questioning spiritual truths"
+        "core_development": "Moving from 'I cannot know, therefore I cannot act' to 'I can honestly say what I observed, acknowledge what I don't know, and accept the consequences'",
+        "insight": "Truthfulness is not certainty—it is honest acknowledgment of limits combined with willingness to face consequences"
       },
-      "backfire": "Her challenges sharpen his understanding rather than destroying it",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": {
+        "lilith_intention": "Use philosophical coherence to justify paralysis; make nihilist argument irresistible",
+        "actual_result": "Jean discovers truthfulness under uncertainty; the philosophical trap becomes the crucible for breakthrough"
+      },
+      "death_bridge": {
+        "description": "Dies on the road from faction violence after submitting honest but inconclusive report; brief losing fight",
+        "final_thought": "I told the truth about what I didn't know. That was mine to give. It wasn't enough. But it was true.",
+        "karmic_seed": "If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?",
+        "seeds_next": "Taiping rebel's determination—hunger for a cause worth dying for; commitment that doesn't require pretending to know"
+      },
+      "inherited_from_diego": "The capacity to doubt without bitterness—can question cleanly, no resentment, no cynicism",
+      "word_target": 9000,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Assignment",
+          "file": "scene-01-assignment.md",
+          "word_target": 800,
+          "function": "Establish Jean's world, professional identity as neutral investigator, and impossible assignment that will break that identity",
+          "action": "Jean receives assignment from Magistrate de Lacaze: Protestant notable Henri de Ségur murdered on road; Catholics blamed, but whispers suggest Protestant hardliners eliminating moderate; peace depends on right finding",
+          "doubt_work": "Jean understands immediately: being asked to find politically useful truth; professional neutrality already under siege",
+          "genre_obligation": "Mission briefing convention; establish stakes and ticking clock",
+          "status": "not_started"
+        },
+        {
+          "number": 2,
+          "title": "The Witnesses",
+          "file": "scene-02-witnesses.md",
+          "word_target": 900,
+          "function": "First encounter with irreconcilable testimony; gathering information becomes epistemological trap",
+          "action": "Jean interviews witnesses at inn and Protestant household: Catholic merchant saw Protestant riders fleeing; Protestant farmer saw Catholic soldiers lurking; servant heard victim arguing with own faction; accounts internally coherent but mutually exclusive",
+          "doubt_work": "Jean's professional tools—compare, cross-reference, find inconsistencies—reveal inconsistency without resolving it; method produces questions, not answers",
+          "genre_obligation": "Investigation as motion; different locations, voices, rising tension",
+          "status": "not_started"
+        },
+        {
+          "number": 3,
+          "title": "The Ambush",
+          "file": "scene-03-ambush.md",
+          "word_target": 1000,
+          "function": "First major action set-piece; violence clarifies that neutrality is not safety",
+          "action": "Jean attacked on wooded road by masked men, faction unclear; desperate close fight; old shoulder wound screams; kills one, wounds another, escapes into woods as rest break off",
+          "doubt_work": "Binding wound alone: Who sent them? Catholic elimination or Protestant silencing? Cannot know. But knows: both sides watching, both will act",
+          "genre_obligation": "Mandatory ambush; proves stakes are lethal; bloods the protagonist",
+          "status": "not_started"
+        },
+        {
+          "number": 4,
+          "title": "The Printer's Widow",
+          "file": "scene-04-printers-widow.md",
+          "word_target": 900,
+          "function": "Introduce Lilith's vessel; establish philosophical companionship that will become temptation",
+          "action": "Jean seeks Marguerite Viret at her print shop for documents—correspondence, intellectual underground connections; caution becomes interest; discussion slides into philosophy: limits of testimony, impossibility of certainty, what one can honestly claim to know",
+          "doubt_work": "Marguerite articulates Jean's doubts more clearly than he can; quotes skeptics—'Que sais-je?'; suggests honest uncertainty might be more virtuous than false conviction; Jean feels understood (dangerous)",
+          "genre_obligation": "The ally who may be more; intellectual tension as romantic possibility; information exchange",
+          "recognition_moment": "As Jean leaves, glimpses Marguerite watching from upper window—stillness seems older than her face; he shakes off impression",
+          "status": "not_started"
+        },
+        {
+          "number": 5,
+          "title": "The Document",
+          "file": "scene-05-document.md",
+          "word_target": 900,
+          "function": "Central evidentiary crisis; letter that could resolve everything or damn everyone",
+          "action": "Among Marguerite's documents, Jean finds letter suggesting killing was internal—Protestant faction eliminating moderate; if authentic, exonerates Catholics and indicts Protestant leadership; but provenance uncertain, could be forged, cannot verify; Captain de Castelnau summons Jean for progress report—Jean reveals nothing about letter; Captain's courtesy has edge",
+          "doubt_work": "Letter crystallizes the fetter: cannot know if real; any action (include/exclude) could be wrong; honest move seems to be: wait, investigate, suspend judgment",
+          "genre_obligation": "MacGuffin document; faction pressure personified; rising stakes",
+          "status": "not_started"
+        },
+        {
+          "number": 6,
+          "title": "The Ball",
+          "file": "scene-06-ball.md",
+          "word_target": 1100,
+          "function": "Social combat set-piece; rhetoric as fencing; every conversation is trap",
+          "action": "Jean attends nobleman's ball where investigation is subtext of every exchange; Father Sorbin corners with elegant questions that are threats; Captain's lieutenant asks pointed timeline questions; Catholic lady implies knowledge of ambush—warning or test?; Jean navigates with neutral answers, reveals nothing, commits to nothing",
+          "doubt_work": "Realizes silence being read as alliance by both sides; each faction assumes he's secretly with them; neutrality producing false certainty in others; sees his own strategy reflected/distorted—they all use ambiguity as weapon",
+          "genre_obligation": "Mandatory ball scene; verbal fencing; social stakes as lethal as swords",
+          "status": "not_started"
+        },
+        {
+          "number": 7,
+          "title": "The Temptation",
+          "file": "scene-07-temptation.md",
+          "word_target": 800,
+          "function": "Lilith's intervention reaches peak; nihilist argument laid bare",
+          "action": "Jean returns to Marguerite late at night with crisis: the letter, irreconcilable witnesses, impossibility of conclusion; she listens, then articulates what he fears: 'If you cannot verify, you cannot include. If you cannot resolve contradiction, you cannot conclude. Only honest report is no report. Perhaps honest uncertainty means refusing to participate in their game of false certainties.'",
+          "doubt_work": "Vicikicchā in pure form: I cannot know, therefore I cannot act; philosophical justification for spiritual paralysis; argument is clean, matches everything Jean believes; he almost agrees",
+          "genre_obligation": "Dark night of soul; temptation scene; ally revealing as tempter",
+          "status": "not_started"
+        },
+        {
+          "number": 8,
+          "title": "The Report",
+          "file": "scene-08-report.md",
+          "word_target": 1000,
+          "function": "The breakthrough; Jean discovers truthfulness doesn't require certainty",
+          "action": "Jean sits with notes; deadline tomorrow; de Lacaze made clear: submit or be dismissed; writes not what factions want or demand—writes what he observed, what he could not verify, that witness testimony is irreconcilable without unobtainable evidence, that letter's authenticity is unverifiable and should not be relied upon, that he has no conclusion—only truthful account of what investigation found and failed to find; submits to de Lacaze; magistrate's face: this protects no one, satisfies no one, will be seen as betrayal by everyone",
+          "doubt_work": "The conversion: Jean discovers he can act *as someone who does not know*—stating honestly what was observed and what remains uncertain—rather than refusing to act because he does not know; truthfulness is not certainty but honest acknowledgment of limits combined with willingness to face consequences",
+          "genre_obligation": "Turning point; hero commits; no retreat possible",
+          "status": "not_started"
+        },
+        {
+          "number": 9,
+          "title": "The Road",
+          "file": "scene-09-road.md",
+          "word_target": 1600,
+          "function": "Death scene; Jean dies for honest uncertainty; soul burns forward",
+          "action": "Jean leaves Bordeaux knowing he cannot stay—both factions will move against him; perhaps can reach another jurisdiction, another life; doesn't make it; Captain de Castelnau's men find him, or Father Sorbin's, or both working together—factions united only in need to punish man who refused useful certainty; fight is brief; shoulder betrays him; goes down",
+          "doubt_work": "Dying in dirt, thinks: I told truth about what I didn't know. That was mine to give. It wasn't enough. But it was true. Question burns forward: *If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?* Hunger for that answer pulls forward—century, two centuries ahead, cause worth dying for, commitment that doesn't require pretending to know, choice made with eyes open",
+          "genre_obligation": "Death with dignity; no rescue; meaning in the end",
+          "karmic_bridge": "Lesson completes—vicikicchā broken not by acquiring certainty but by acting truthfully without it; lesson incomplete—Jean acted under uncertainty but never found what deserved certain commitment; seeds Taiping rebel",
+          "status": "not_started"
+        }
+      ],
+      "status": "outlined"
     },
     {
       "chapter": 17,
