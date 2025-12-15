@@ -65,24 +65,24 @@
     "living_situation": "SRO boarding room, Bunker Hill ($6/week). Spartan: Murphy bed, hotplate, clothes, typewriter. Shared bathroom down hall. No social life (no friends, no girlfriend, no family). Eats at Clifton's, drinks at dive bars. Lonely but won't admit it. Work is his life."
   },
   "chapter_arc": {
-    "opening_state": "Morning after a failed case (witness recanted, client fired him). Hung over, frustrated, questioning everything. Rent is due, money's tight. Knows he should quit taking cases, but can't. When Lilith walks in with corruption case, he should refuse—but doesn't. 'Someone has to give a damn, even if it kills me.' (It will.)",
-    "inciting_incident": "Lilith (under alias) walks into his office with corruption case: gather evidence against Shaw administration for recall movement. Offers good money, inside information, chance to take down the Combination. He knows it's dangerous (Raymond bombing still fresh). Takes it anyway.",
-    "main_case": "Corruption expose: hired to gather evidence against Mayor Shaw, Chief Davis, and Combination enforcers. Timeline: January (post-Raymond bombing) through March (Great Flood). Every piece of evidence destroyed, every witness dead/silent, Lilith orchestrating it all.",
+    "opening_state": "Morning after a failed case (witness recanted, client fired him). Hung over, frustrated, questioning everything. Rent is due, money's tight. Knows he should quit taking cases, but can't. When REAL reformers approach him with corruption case, he should refuse—but doesn't. 'Someone has to give a damn, even if it kills me.' (It will.) Lilith manipulates timing: ensures he's desperate when offer comes.",
+    "inciting_incident": "REAL reformers (connected to Shaw recall movement) hire Malone to gather evidence against Shaw administration. Legitimate case, legitimate danger. Good money, chance to take down the Combination. He knows it's dangerous (Raymond bombing still fresh). Takes it anyway because someone has to.",
+    "main_case": "Corruption expose: hired by REAL reformers to gather evidence against Mayor Shaw, Chief Davis, and Combination enforcers. Timeline: January (post-Raymond bombing) through March (Great Flood). The case is genuine—real corruption, real danger. Lilith accelerates failures from distance but doesn't orchestrate case. Combination bombs his car (standard tactic, not Lilith's doing).",
     "subplot_cases": [
-      "Missing person (early): Finds husband for worried wife—dead in alley next day, wife denies hiring him. Pattern begins.",
-      "Blackmail case (mid): Client being blackmailed—discovers client guilty of worse, blackmailer turns up dead, Malone looks like suspect. Another failure."
+      "Missing person (early): Finds husband for worried wife—dead in alley next day (Combination hit, unrelated to his case), wife denies hiring him (scared). Pattern begins.",
+      "Blackmail case (mid): Client being blackmailed—discovers client guilty of worse, blackmailer turns up dead (made to look like Malone did it), police harassment escalates. Another failure."
     ],
-    "relationship_with_lilith": "Attracted to her (can't help it). She uses this (classic femme fatale). Mutual suspicion + mutual attraction = noir tension. He suspects she's not who she claims—but needs the case. She provides real corruption evidence but ensures it all falls apart. By late March, he's marked for death.",
-    "climax": "Late March 1938, during/after Great Flood. Case has fallen apart, he's marked for death, knows it. Gets in Buick Roadmaster, turns key. Car bomb (starter-wired) detonates. Lilith appears on street, 'rushing to avoid' explosion.",
-    "closing_state": "Extended bleed-out sequence in the rain. Realizes: (1) Lesson of viriya—perseverance purified of outcome-attachment, (2) All ten perfections complete across lives, (3) Strong urge to break first three fetters in next life, (4) This urge propels rebirth as Silas Pahlavan. Dies with anticipation, readiness, completion. Not defeat—victory. Rain falling, blood washing away, eyes closing. Lilith watching, horrified. Chapter ends.",
-    "death_context": "Car bomb explosion (echoes Harry Raymond bombing). Bleeds out in rain during/after Great Flood. Final thoughts: completion recognition, stream-entry urge, anticipation of next life."
+    "relationship_with_lilith": "NO RELATIONSHIP. He doesn't know her. She appears 3 times total as background figure: (1) in a bar early on—he doesn't notice, (2) woman on street near his office mid-chapter—fleeting sense of familiarity he dismisses, (3) passerby when bomb goes off—'rushing to avoid' explosion. She manipulates from distance (accelerates witness deaths, ensures evidence destroyed faster, makes him too visible to Combination). He never interacts with her.",
+    "climax": "Late March 1938, during/after Great Flood. Case has fallen apart, he's marked for death by COMBINATION (they decide to bomb him, not Lilith), knows it. Gets in Buick Roadmaster, turns key. Car bomb (starter-wired by Combination enforcers) detonates. Lilith appears on street as passerby, 'rushing to avoid' explosion.",
+    "closing_state": "Extended bleed-out sequence in the rain. Realizes: (1) Lesson of viriya—perseverance purified of outcome-attachment, (2) All ten perfections complete across lives, (3) Strong urge to break first three fetters in next life, (4) This urge propels rebirth as Silas Pahlavan. Dies with anticipation, readiness, completion. Not defeat—victory. Rain falling, blood washing away, eyes closing. Lilith watching from distance, horrified (realizes all perfections complete, modern stream-entry inevitable). Chapter ends.",
+    "death_context": "Car bomb explosion planted by COMBINATION (echoes Harry Raymond bombing). Bleeds out in rain during/after Great Flood. Final thoughts: completion recognition, stream-entry urge, anticipation of next life. Lilith observes from distance as passerby."
   },
   "lesson_development": {
     "perfection_or_fetter": "Perfection: Energy (viriya) — Right effort, perseverance, sustained effort without attachment to results. FINAL PERFECTION: All ten complete by end of this life.",
     "what_learned": "True viriya = continuing because it's right, not because it succeeds. Every failed case was practice in right effort without outcome-attachment. He never stopped trying, even knowing it was futile. The perseverance purified of ego, results, need for victory. 'I didn't save anyone. But the trying was not nothing.'",
     "what_failed": "The corruption case falls apart completely. Every witness dies or recants. Every piece of evidence destroyed (many by flood). Reformers back out, deny hiring him. Newspaper won't print his findings. He solves nothing, saves no one, changes nothing. The Combination wins. He dies.",
     "death_seeds_next": "All ten perfections complete. Strong urge to break first three fetters (self-illusion, doubt, rites/rituals) in next life. This urge is powerful enough to direct rebirth → Silas Pahlavan, the life where stream-entry happens. Dies anticipating breakthrough.",
-    "backfire_mechanism": "Lilith makes every effort futile to break his perseverance. Instead, teaches him outcome-independent perseverance. He continues despite knowing it's pointless: 'Someone has to give a damn, even if it changes nothing.' This purifies viriya from attachment to success. He dies persevering—perfection complete. She thinks she's won (killed him); he's won (completed path). Final historical backfire before modern confrontation."
+    "backfire_mechanism": "Lilith accelerates failures from distance to break his perseverance. Instead, teaches him outcome-independent perseverance FASTER. He continues despite knowing it's pointless: 'Someone has to give a damn, even if it changes nothing.' This purifies viriya from attachment to success. He dies persevering—ALL TEN PERFECTIONS COMPLETE. She watches from distance, horrified: next life is stream-entry, modern intimacy strategy is now desperate necessity, not choice. CATASTROPHIC final historical backfire."
   },
   "noir_elements": {
     "genre": "Detective Noir (hard-boiled)",
@@ -91,8 +91,8 @@
     "required_elements": [
       "Rain (especially climax during Great Flood)",
       "Shadows, neon, smoke",
-      "Corrupt cops, city officials",
-      "Femme fatale (Lilith)",
+      "Corrupt cops, city officials (Combination as true antagonist)",
+      "Mysterious woman (Lilith - brief background appearances, NOT femme fatale subplot)",
       "Failed cases, betrayed allies",
       "Violence that doesn't resolve moral problems",
       "The city as character/antagonist",
@@ -104,19 +104,18 @@
     "thematic_rule": "If the reader feels cleaner at the end, you did it wrong."
   },
   "lilith_intervention": {
-    "power_level": "Full manifestation in past timeline. Can physically manifest with complete presence. All human-realm powers. This is her last chance before present day—maximum desperation.",
-    "emotional_state": "Panic beneath control; she can feel him approaching stream-entry in modern timeline. Desperation masked by femme fatale performance. Throwing everything at him. Weight of 18+ failed interventions pressing on her. Willing to kill directly.",
-    "manifestation": "Single femme fatale identity throughout. Appears as client/informant for corruption case. Classic 1938 styling: victory rolls, red lipstick, expensive silk dress, fur stole. Canonical face (widow's peak, dark strand left, pale green crescent in left eye 11-1 o'clock). Readers recognize her; Malone doesn't.",
-    "method": "Provides real corruption evidence but ensures it all falls apart. Witnesses die, evidence destroyed, clients betray him, police harass him. Makes him look dangerous to Combination. Sets up car bomb. Uses attraction/sexual tension as weapon. Classic noir: he knows she's lying, helps her anyway.",
+    "power_level": "Observer with circumstantial manipulation (NOT full manifestation). Can observe from 2032-2033 contemporary position. Can manipulate circumstances, timing, accelerate existing dangers. Brief physical appearances only (3 total). LAST attempt at past-life intervention before modern intimacy strategy.",
+    "emotional_state": "Testing whether minimal intervention works where active interference failed. Already committed to intimacy strategy from Ch19. Watching to confirm he's completing perfections. Desperate but learning restraint. When she sees all ten perfections complete, realizes modern intimacy is only path left.",
+    "manifestation": "MINIMAL PRESENCE, NOT FEMME FATALE. Distant observer. Brief appearances (3 times): (1) background in bar early—he doesn't notice, (2) woman on street mid—fleeting familiarity he dismisses, (3) passerby at bomb—'rushing to avoid' (Ch1 flashback). He barely notices her. No relationship. Canonical face (widow's peak, dark strand left, pale green crescent) visible to readers; Malone just sees stranger.",
+    "method": "Manipulates from distance like Taiping Ch18. Does NOT create the case—it's real. Accelerates existing failures: ensures witnesses die faster (Combination was killing them anyway), evidence destroyed sooner, he's too visible to Combination (they mark him). Combination plants bomb (standard tactic), not her. She just speeds their timeline.",
     "sabotage_pattern": [
-      "Witnesses die or disappear (made to look like Combination hits)",
-      "Evidence vanishes (stolen from office, destroyed in flood)",
-      "Clients betray him (reformers back out, deny knowing him)",
-      "Police harassment escalates (arrested, beaten, threatened)",
-      "Every victory turns to ash (smoking gun destroyed, enforcer found dead, newspaper refuses to print)"
+      "Ensures he takes case: manipulates timing (desperate when offered), removes other jobs, but reformers/case are real",
+      "Accelerates failures: witnesses die faster (Combination kills them), evidence destroyed sooner, flood targets his records",
+      "Makes him too visible: Combination notices him as threat faster, decides to bomb him sooner",
+      "Watches his death from distance: appears as passerby, witnesses bleed-out, realizes all perfections complete"
     ],
-    "car_bomb_setup": "By late March, Malone marked for death. Combination thinks he's threat (Lilith engineered). She 'warns' him to back off (fake concern). He refuses (can't walk away). Bomb planted in Buick Roadmaster. She's nearby when it happens.",
-    "backfire": "Making every effort futile teaches outcome-independent perseverance. He continues despite knowing it's pointless. Purifies viriya from attachment to success. Dies persevering—perfection complete. She thinks she won; he won."
+    "car_bomb_setup": "COMBINATION plants bomb in Buick Roadmaster (standard post-Raymond tactic). Lilith just ensures Malone is visible enough that they mark him, accelerates their decision timeline. She doesn't set it up—she ensures it happens. Appears on street when it goes off, 'rushing to avoid' explosion.",
+    "backfire": "CATASTROPHIC. Accelerating failures teaches outcome-independent perseverance faster. He completes ALL TEN PERFECTIONS. She watches from distance, horrified: he's ready for stream-entry in next life. Modern intimacy strategy is no longer optional—it's desperate last resort. Ch21 explanation: 'I tried minimal intervention. It failed worse than everything before. He's done. The intimacy strategy wasn't Plan A—it was my only option left.'"
   },
   "historical_context": {
     "year": 1938,
@@ -138,5 +137,5 @@
     }
   },
   "word_count_target": "~8,000–11,000 words",
-  "notes": "FINAL HISTORICAL LIFE before modern Silas Pahlavan. All ten perfections complete by death. Strong stream-entry urge seeds next incarnation. Car bomb death matches Ch1 flashback (rain, Buick Roadmaster, Lilith as passerby). First-person noir voice essential. Spiritual triumph disguised as worldly defeat."
+  "notes": "FINAL HISTORICAL LIFE before modern Silas Pahlavan. All ten perfections complete by death. Strong stream-entry urge seeds next incarnation. Car bomb death matches Ch1 flashback (rain, Buick Roadmaster, Lilith as passerby). CRITICAL: Lilith is MINIMAL PRESENCE (3 brief appearances), NOT femme fatale client. Real reformers hire him, real Combination bombs him. She accelerates from distance. This justifies Ch21 modern intimacy strategy as desperate last resort. First-person noir voice essential. Malone is protagonist, Combination is antagonist, Lilith is distant observer. Spiritual triumph disguised as worldly defeat."
 }

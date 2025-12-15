@@ -528,118 +528,121 @@ Three-way power struggle:
 - Hung over, frustrated, questioning everything
 - Rent is due, money's tight
 - Knows he should quit taking cases, but can't
-- When Lilith walks in with corruption case, he should refuse—but doesn't
+- **When reformers approach him with corruption case, he should refuse—but doesn't**
 - "Someone has to give a damn, even if it kills me"
 - (It will)
+- **Lilith manipulates timing:** ensures he's desperate when offer comes
 
 ## Lilith in This Chapter
 
-**Power Level:** Full manifestation in past timeline
-- Can physically manifest with complete presence
-- All human-realm powers available in this era
-- Can manipulate circumstances, timing, people
-- Can appear as fully realized human being (not just influencing)
-- **This is her last chance before the present day—maximum desperation**
-- **Time period:** Can maintain presence for months (Jan-Mar 1938)
+**Power Level:** Observer with Circumstantial Manipulation
+- Can observe past timeline from her contemporary position (2032-2033)
+- Can manipulate circumstances, timing, accelerate existing dangers
+- **NOT full physical manifestation** - brief appearances only
+- **This is her LAST attempt at past-life intervention** before committing to modern intimacy strategy
+- She's already located modern Silas; this is final observation to confirm approach
 
 **Emotional State:**
-- "Panic beneath control; she can feel him approaching stream-entry in modern timeline"
-- Desperation masked by femme fatale performance
-- Throwing everything she has at him
-- Weight of failed interventions across 18+ lives pressing on her
-- This must work—if he completes perfections, modern stream-entry is inevitable
-- Willing to kill him directly if necessary (car bomb)
+- Testing whether minimal intervention might work where active interference failed
+- Already committed to intimacy strategy (from Ch19 decision)
+- Watching to confirm he's completing the perfections
+- Desperate but learning restraint (too much intervention = backfire)
+- When she sees all ten perfections complete, realizes: modern intimacy is only path left
 
-**Manifestation Strategy: Single Femme Fatale Identity**
+**Manifestation Strategy: Minimal Presence (NOT Femme Fatale)**
 
-**Cover Identity:**
-- **Name:** [To be determined in outline—probably alias]
-- **Appearance:** Classic 1938 femme fatale
-  - Canonical face: sharp widow's peak, dark strand falling left, pale green crescent in left eye (11-1 o'clock)
-  - Period styling: victory rolls, finger waves, red lipstick, defined brows
-  - Expensive clothes (silk dresses, fur stole, seamed stockings)
-  - Looks wealthy, mysterious, dangerous
-- **Backstory:** Connected to reform movement OR Combination insider (ambiguous)
-- **Hook:** Brings him the corruption case, claims to have inside information
-- **Truth:** She's setting him up to be Raymond-style car-bombed
+**CRITICAL REVISION FROM ORIGINAL PLAN:**
+- **She is NOT the client who hires him**
+- **She is NOT a sustained character in his life**
+- **She does NOT orchestrate the case**
+- **The Combination bombs his car (not her)**
 
-**Method:**
-- Appears as client/informant for main corruption case
-- Provides evidence, targets, inside information
-- Everything she gives him is true (makes it believable)
-- But every lead gets witness killed, evidence destroyed
-- She's simultaneously:
-  1. Feeding him real corruption info
-  2. Ensuring it all falls apart
-  3. Making him look dangerous to the Combination
-  4. Setting him up to be killed
-- Uses attraction/sexual tension as weapon
-- He's suspicious but can't resist (femme fatale classic)
-- Classic noir: he knows she's lying, helps her anyway
+**Her Actual Role:**
+- **Distant observer** watching his final historical life
+- **Brief appearances** (2-3 times total):
+  1. Background figure in a bar (early) - he doesn't notice
+  2. Woman on the street near his office (mid) - fleeting glimpse, sense of familiarity
+  3. **Passerby when bomb goes off** (end) - "rushing to avoid" explosion (Ch1 flashback)
+- **He barely notices her** - just a face that feels strangely familiar but he can't place
+- **She manipulates from distance** (like Taiping Ch18):
+  - Accelerates witness deaths (they were going to die anyway from Combination)
+  - Ensures evidence is destroyed faster
+  - Makes sure he's too visible to Combination (they mark him)
+  - But she's NOT creating the case—it's real
 
-**Intervention Tactics:**
+**What Actually Happens (The REAL Noir Story):**
 
-**Sabotage Pattern (Jan-Mar 1938):**
-1. **Witnesses die or disappear**
-   - People he interviews turn up dead (made to look like Combination hits)
-   - Survivors too scared to talk
-   - Pattern emerges: everyone connected to case is in danger
+**The Case is Genuine:**
+- **Real reformers** (connected to recall movement) hire Malone
+- **Real corruption** in Shaw administration
+- **Real danger** - Combination kills people investigating them
+- **Real car bomb** - Combination plants it (standard tactic post-Raymond)
+- Malone takes the case because someone has to, not because Lilith tricks him
 
-2. **Evidence disappears**
-   - Documents he obtains vanish (stolen from office)
-   - Photographs ruined or lost
-   - Paper trail erased
+**Lilith's Limited Intervention:**
+1. **Ensures he takes the case:**
+   - Manipulates timing so he's desperate for money when offered
+   - Removes other job opportunities
+   - But reformers are real, case is real
 
-3. **Clients betray him**
-   - Reformers who hired him back out
-   - Deny they know him
-   - Claim he's making it up
+2. **Accelerates the failures:**
+   - Witnesses were going to die (Combination kills them) - she ensures timing
+   - Evidence was going to be destroyed/stolen - she accelerates it
+   - Flood would destroy records - she ensures his records are included
+   - Police harassment was inevitable - she makes it worse faster
 
-4. **Police harassment escalates**
-   - Arrested on trumped-up charges
-   - Beaten in alleys by "unknown assailants" (cops)
-   - Office ransacked
-   - Threatened with losing license
+3. **Makes him too visible:**
+   - Ensures Combination notices him as threat
+   - Accelerates their decision to bomb his car
+   - But they make the decision; she just speeds timeline
 
-5. **Every victory turns to ash**
-   - Gets smoking gun evidence → flood destroys it
-   - Identifies Combination enforcer → man found dead next day
-   - Prepares to expose mayor → newspaper refuses to print it
+4. **Watches his death:**
+   - Appears on street as bomb goes off
+   - "Rushing to avoid" explosion (not causing it)
+   - Witnesses his bleed-out from distance
+   - Realizes: all ten perfections complete, modern stream-entry inevitable
 
-**The Car Bomb Setup:**
-- By late March, Malone is marked for death
-- Combination thinks he's legitimate threat (Lilith engineered this)
-- She "warns" him to back off (fake concern)
-- He refuses (can't walk away from code)
-- Bomb planted in his Buick Roadmaster
-- She'll be nearby when it happens (witness his death, confirm kill)
+**Why This Reduced Presence:**
 
-**Relationship Dynamic:**
-- He's attracted to her (can't help it)
-- She uses this (classic femme fatale)
-- But there are moments where she hesitates (Maitreya foreshadowing)
-- Genuine connection underlying the manipulation
-- She doesn't want to kill him—but will if necessary
-- He suspects she's not who she claims—but needs the case
-- Mutual suspicion + mutual attraction = noir tension
+**Narrative justification (for Ch21):**
+> "After Taiping, I knew active intervention backfired. So in 1938, I tried restraint. Minimal manipulation. Just... observations. Nudges. Let the corrupt world do the work. But even that failed. I watched him bleed out in the rain, all ten perfections complete, and I knew: he would be reborn ready for stream-entry. No more past lives. No more distance. The intimacy strategy wasn't Plan A—it was my only option left."
 
-**The Backfire She Doesn't See:**
-- By making every effort futile, she teaches him outcome-independent perseverance
-- He continues despite knowing it's pointless
-- "Someone has to give a damn, even if it changes nothing"
-- This purifies viriya (energy) from attachment to success
-- He dies persevering—perfection complete
-- She thinks she's won (killed him)—but he's won (completed path)
+**Matches Ch1 flashback perfectly:**
+- "a passerby" (minor presence, not sustained character)
+- "rushing to avoid" (observing, not orchestrating)
+- Brief glimpse, sense of familiarity, nothing more
 
-**Her Appearance (Canonical):**
+**Preserves noir authenticity:**
+- Malone is the protagonist
+- Corruption/Combination is the antagonist
+- His choices drive the story
+- Failures feel organic to noir world
+- No femme fatale subplot to manage
+
+**Shows her learning curve:**
+- Ch3-17: Active intervention → backfires
+- Ch18-19 (Taiping): Circumstantial manipulation → still backfires
+- **Ch20 (Noir): Minimal presence → CATASTROPHIC backfire (completes all perfections)**
+- Ch21: "Fine. I'll become his lover. Direct engagement is my only move."
+
+**Her Appearance (When Briefly Seen):**
 - Sharp, pronounced widow's peak
 - Single thick darker strand falling over left side of face
-- Left eye: deep brown with thin pale-green crescent 11–1 o'clock (visible in good light, in shadow appears all dark)
+- Left eye: deep brown with thin pale-green crescent 11–1 o'clock (visible in good light)
 - Beautiful, dark-haired, exotic
-- **In 1938:** Period-appropriate styling (victory rolls, defined waves, red lipstick), but the face is the same
-- Readers who've read previous chapters recognize her immediately
-- Malone doesn't (no past-life memory)
-- He just sees a dangerous, beautiful woman with a case he can't refuse
+- **In 1938:** Period-appropriate styling (victory rolls, defined waves, red lipstick)
+- **Readers recognize her immediately** (canonical face)
+- **Malone doesn't** - just fleeting sense of familiarity he can't place
+- He's not attracted to her (no relationship) - she's just background
+
+**The Backfire She Doesn't See:**
+- By accelerating the failures, she teaches him outcome-independent perseverance faster
+- He continues despite knowing it's futile
+- "Someone has to give a damn, even if it changes nothing"
+- This purifies viriya (energy) from attachment to success
+- He dies persevering—**all ten perfections complete**
+- She watches from distance, horrified: he's DONE, next life is stream-entry
+- Modern intimacy strategy is no longer optional—it's desperate necessity
 
 ## Scene Requirements
 
@@ -664,7 +667,7 @@ Three-way power struggle:
 - Rain (especially climax during Great Flood)
 - Shadows, neon, smoke
 - Corrupt cops, city officials
-- Femme fatale (Lilith)
+- **Mysterious woman** (Lilith - brief, background appearances only)
 - Failed cases, betrayed allies
 - Violence that doesn't resolve moral problems
 - The city as character/antagonist
@@ -672,31 +675,38 @@ Three-way power struggle:
 - Ethical code tested and held
 - Ending: defeat in worldly terms, victory in spiritual terms
 
-**Case Structure (Proposed):**
+**Case Structure (Revised):**
 
 **Main Case: Corruption Expose**
-- Hired by reformers (or woman claiming to represent them) to gather evidence against Shaw administration
+- **Hired by REAL reformers** (connected to recall movement) to gather evidence against Shaw administration
 - Specific targets: Mayor Shaw, Chief Davis, Combination enforcers
-- Goal: Provide evidence for recall movement
+- Goal: Provide evidence for recall movement to support Shaw recall
 - Timeline: January (post-Raymond bombing) through March (flood)
-- Outcome: Every piece of evidence destroyed, every witness dead/silent, bomb planted
+- **The case is genuine:** Real corruption, real danger, real Combination threat
+- **Lilith's role:** Accelerates failures, ensures he's too visible, speeds Combination response
+- Outcome: Every piece of evidence destroyed, every witness dead/silent, **Combination bombs his car**
 
 **Subplot Cases (Show Pattern of Failure):**
 1. **Missing person** (early chapter): Find husband for worried wife
-   - Finds him—dead in alley next day
-   - Wife denies hiring Malone
-   - Pattern begins
+   - Finds him—dead in alley next day (Combination hit, not related to his case)
+   - Wife denies hiring Malone (scared, not Lilith's doing)
+   - Pattern of failures begins
 
 2. **Blackmail case** (mid-chapter): Client being blackmailed
-   - Discovers client is guilty of worse
-   - Blackmailer turns up dead (Malone looks like suspect)
+   - Discovers client is guilty of worse crimes
+   - Blackmailer turns up dead (made to look like Malone did it)
+   - Police harassment escalates
    - Another failure
 
-**Through-Line: Lilith's Presence**
-- First appears with corruption case (January)
-- Reappears throughout with new information
-- Relationship deepens (attraction + suspicion)
-- Final appearance: "witness" to his death (March)
+**Through-Line: Lilith's Minimal Presence**
+- **NOT a sustained character relationship**
+- Brief glimpses only (3 appearances total):
+  1. **Early:** Background figure in a bar - he doesn't consciously notice her
+  2. **Mid:** Woman on street near his office - fleeting sense of familiarity he dismisses
+  3. **End:** Passerby when bomb goes off - "rushing to avoid" explosion
+- She accelerates failures from distance (like Taiping manipulation)
+- Watches his death, realizes all perfections complete
+- No attraction, no relationship, no femme fatale dynamic
 
 **Death Scene (Chapter Ending):**
 
@@ -751,12 +761,12 @@ Three-way power struggle:
 ## Research Notes
 
 **Still Need to Finalize:**
-1. Lilith's alias/cover name for femme fatale
-2. Specific reformers/clients who hire Malone (real historical figures or fictional?)
-3. Exact locations of key scenes (specific Bunker Hill addresses, bars, etc.)
-4. Details of subplot cases
-5. Malone's specific war service (unit, battles, trauma details)
-6. Names of secondary characters (cops, witnesses, allies)
+1. Specific reformers/clients who hire Malone (real historical figures or fictional?)
+2. Exact locations of key scenes (specific Bunker Hill addresses, bars, etc.)
+3. Details of subplot cases (missing person specifics, blackmail case specifics)
+4. Malone's specific war service (unit, battles, trauma details if referenced)
+5. Names of secondary characters (cops, witnesses, reformers, allies)
+6. Specific Combination enforcers/antagonists (names, roles)
 
 **Historical Accuracy Priorities:**
 - Get the slang right (no anachronisms)
