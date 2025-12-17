@@ -2541,29 +2541,86 @@
       "genre": "Noir",
       "setting": {
         "period": "Modern",
-        "location": "USA",
-        "year": "1930s"
+        "location": "Los Angeles, California",
+        "year": "January–March 1938 (Great Flood period)"
       },
-      "pov": "TBD",
+      "pov": "First-person (Jack Malone)",
       "avatar": {
-        "name": "[TBD]",
-        "occupation": "Private detective",
-        "status": "Near stream-entry"
+        "name": "Jack Malone",
+        "occupation": "Private detective (ex-LAPD)",
+        "age": 38,
+        "status": "All ten perfections completing; final historical life before stream-entry"
       },
       "lilith": {
-        "powers": "Full manifestation in past—can fully interact",
-        "intervention": "Appears as femme fatale and client; ensures every case fails, every victory turns to ash",
-        "objective": "Break his perseverance directly; this is her last chance before present day"
+        "powers": "Observer with circumstantial manipulation—NOT full manifestation",
+        "intervention": "MINIMAL PRESENCE: 3 brief appearances as observer only. (1) Background in bar—he doesn't notice, (2) Woman on street—fleeting familiarity dismissed, (3) Passerby when bomb explodes—'rushing to avoid' (matches Ch1 flashback). She accelerates failures from distance; Combination plants the car bomb, not her.",
+        "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation before committing to modern intimacy strategy"
       },
       "lesson": {
-        "perfection": "Energy/Perseverance (viriya)",
-        "theme": "Maintaining commitment despite overwhelming obstacles",
-        "core_development": "Noir detective facing repeated defeat yet continuing"
+        "perfection": "Energy/Perseverance (viriya)—FINAL PERFECTION",
+        "theme": "Continuing because it's right, not because it succeeds; outcome-independent effort",
+        "core_development": "Noir detective facing repeated defeat yet continuing; 'Someone has to give a damn, even if it changes nothing'"
       },
-      "backfire": "TBD",
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+      "backfire": "CATASTROPHIC: Accelerating failures teaches outcome-independent perseverance faster. He dies with all ten perfections complete. She watches from distance, horrified: next life is stream-entry. Modern intimacy strategy becomes desperate necessity, not choice.",
+      "word_target": 9500,
+      "scenes": [
+        {
+          "scene": 1,
+          "title": "The Hangover",
+          "word_target": 1000,
+          "function": "Establish Malone's voice, situation, recent failures; rides Angels Flight to office"
+        },
+        {
+          "scene": 2,
+          "title": "The Offer",
+          "word_target": 1100,
+          "function": "Real reformers hire him for Shaw corruption case; he knows it's dangerous but takes it"
+        },
+        {
+          "scene": 3,
+          "title": "First Blood",
+          "word_target": 1200,
+          "function": "Missing person subplot fails; Lilith appearance #1 (background in bar); pattern begins"
+        },
+        {
+          "scene": 4,
+          "title": "Gathering Evidence",
+          "word_target": 1100,
+          "function": "Investigation montage; building case; signs of trouble ignored"
+        },
+        {
+          "scene": 5,
+          "title": "The Pattern Emerges",
+          "word_target": 1200,
+          "function": "Witnesses die/recant; police harassment; Lilith appearance #2 (street); pattern undeniable"
+        },
+        {
+          "scene": 6,
+          "title": "Blackmail and Betrayal",
+          "word_target": 1100,
+          "function": "Blackmail case backfires; framed for murder; exhausted but won't quit"
+        },
+        {
+          "scene": 7,
+          "title": "The Flood",
+          "word_target": 1200,
+          "function": "Great Flood destroys evidence; reformers back out; viriya purifying—keeps working anyway"
+        },
+        {
+          "scene": 8,
+          "title": "The Car",
+          "word_target": 1800,
+          "function": "Car bomb; Lilith appearance #3 (passerby); extended death/bleed-out; all perfections complete; stream-entry urge; karmic bridge to Silas"
+        }
+      ],
+      "death_scene": {
+        "method": "Car bomb (Buick Roadmaster, starter-wired by Combination—standard post-Raymond tactic)",
+        "setting": "Downtown LA street, rain, late March 1938",
+        "final_thought": "I didn't save anyone. But the trying was not nothing. I will try again.",
+        "karmic_seed": "All ten perfections complete; strong urge to break first three fetters; propels rebirth as Silas Pahlavan",
+        "lilith_witness": "Appears as passerby 'rushing to avoid' explosion; watches from doorway as he dies; realizes catastrophic backfire"
+      },
+      "status": "outlined"
     },
     {
       "chapter": 21,
