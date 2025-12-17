@@ -27,7 +27,7 @@ Track how the meat/body/flesh theme appears in each chapter:
 |14     |The Accused     |TBD    |Torture; the body as site of persecution              |Inquisition                        |
 |16     |The Skeptic     |TBD    |Doubt about material reality?                         |TBD                                |
 |18     |The Rebel       |TBD    |War wounds; sacrifice of body                         |Combat; bodies as expendable       |
-|20     |The Detective   |TBD    |Noir bodies—victims, femmes fatales                   |Genre bodies                       |
+|20     |The Detective   |Jack Malone|Car bomb death; body in rain; bleeding out in street; violence that doesn't resolve|Final noir body—victory through worldly defeat|
 
 #### Act II: Lilith Chapters
 
@@ -137,7 +137,7 @@ She appears with the same face across all incarnations. Readers should recognize
 |14|Inquisition accused|Inquisitor or fellow victim|Cultivate hatred of persecutors                |Suffering becomes crucible for releasing ill-will  |
 |16|Renaissance skeptic|Philosophical companion    |Feed doubt until he abandons the path          |Her challenges sharpen his understanding           |
 |18|Taiping rebel      |War manipulator            |Make his sacrifices meaningless                |TBD                                                |
-|20|1930s Detective    |Femme fatale / client      |Break his perseverance through repeated failure|TBD                                                |
+|20|Jack Malone        |Minimal observer (3 brief appearances)|Accelerate failures to break perseverance|CATASTROPHIC: Failures teach outcome-independent perseverance; ALL TEN PERFECTIONS COMPLETE; next life is stream-entry|
 
 #### Lilith Chapters (Her contemporary arc)
 
@@ -197,7 +197,7 @@ Each death should seed the next life’s lesson. Track the chain:
 |14     |Spain  |TBD                                                                           |Truthfulness lesson (Ch 16)       |
 |16     |France |TBD                                                                           |Determination lesson (Ch 18)      |
 |18     |China  |TBD                                                                           |Perseverance lesson (Ch 20)       |
-|20     |USA    |TBD                                                                           |Stream-entry preparation (Ch 22)  |
+|20     |Jack Malone|Car bomb; rain; bleeds out thinking "the trying was not nothing"—all 10 perfections complete; strong stream-entry urge|Stream-entry (Ch 22)|
 
 -----
 
