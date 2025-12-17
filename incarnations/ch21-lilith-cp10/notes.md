@@ -157,26 +157,33 @@ The intimacy was supposed to create **his** attachment to trap him. Instead:
 ### 1. Completing Each Other's Thoughts (Scene 2)
 > He said something that finished a thought she'd been forming. She filed it under observation: "A year of studying him. Of course I know his patterns."
 
-### 2. Breathing in Sync (Scene 5)
+### 2. Face Constancy Callback (Scene 5)
+When she watches him sleep, the "unfamiliar yet known" beat should flicker toward the face-constancy mystery planted in Ch19: she has traced this soul through seven different faces—Ka, Chandra, Philon, Verinus, Macarius, Kaoru, Catalina, Wei, the detective—none of them this face. Her own face never changes. His always does.
+
+She shouldn't *understand* this, but something about watching his sleeping features should stir the unanswered question. Perhaps: "Seven faces she had traced him through. None of them this one. Yet watching him breathe, she almost felt..."
+
+The sentence doesn't finish. She won't let it.
+
+### 4. Breathing in Sync (Scene 5)
 > She noticed her breath matching his—rise and fall aligned. Proximity effect. Shared physiology. Nothing more.
 
-### 3. The Mirroring (Scene 6)
+### 5. The Mirroring (Scene 6)
 - His phrases appearing in her speech
 - Sitting the way he sits
 - Making tea the way he does
 - "Ten years of observation. Of course I've absorbed his patterns."
 
-### 4. The Merger Dream (Scene 7) **[MOST EXPLICIT]**
+### 6. The Merger Dream (Scene 7) **[MOST EXPLICIT]**
 > In the dream, they were the same person. Not together—the same. Looking through one set of eyes at two different views. Two bodies housing one awareness.
 
 > She woke unsure which of them had been dreaming.
 
-### 5. The Unfinished Question (Scene 7)
+### 7. The Unfinished Question (Scene 7)
 > "If we're both this close to completing... if the threshold admits one..."
 >
 > She didn't finish the thought. Refused to finish it.
 
-### 6. "Stay a Little Longer" (Scene 9)
+### 8. "Stay a Little Longer" (Scene 9)
 > He was approaching the threshold. She was supposed to stop him.
 >
 > Instead the thought surfaced: *Not yet. Stay a little longer.*
@@ -187,11 +194,18 @@ The intimacy was supposed to create **his** attachment to trap him. Instead:
 
 ## The Noir Tracking Scene (Scene 3)
 
+### Relationship to Ch19
+In Ch19 Scene 7 ("The Noir Glimpse"), Lilith briefly observed the detective while tracking forward to locate modern Silas. That was a forward scan—finding where the thread led.
+
+This Scene 3 is different: a *retrospective* return to what she glimpsed. Now embedded in Silas's life, she revisits the Noir thread to confirm the backfire pattern still holds. She's checking her work, looking for anything she might have missed that could inform her current strategy.
+
+The phrase "together doesn't hold" should surface here—her certainty about mutual exclusion, the belief that drives everything she does.
+
 ### Purpose
 - Continue the pattern of past-life observation from previous chapters
-- Show the most recent backfire
+- Show the most recent backfire (retrospective confirmation, not new discovery)
 - Demonstrate her power level (can track at will)
-- Show the pattern she believes she's finally breaking
+- Show the pattern she believes she's finally breaking through proximity
 
 ### What She Observes
 
@@ -221,6 +235,12 @@ The intimacy was supposed to create **his** attachment to trap him. Instead:
 ---
 
 ## The Almost-Confession (Scene 8)
+
+### The Motivation Duality
+
+In Ch 1, Lilith will frame her confession as a tactical gambit—a destabilization move to pull Silas back from stream-entry. But the reader should understand from THIS chapter that the confession is coming because she can't bear to carry it alone anymore.
+
+The loneliness is real. The need to tell him is genuine. By Ch 1, she will have rationalized that need as strategy, but the tactical framing is the lie she tells herself. This chapter must plant the REAL motivation so the reader sees through her self-deception in Ch 1.
 
 ### The Build-Up
 
@@ -284,9 +304,11 @@ The intimacy was supposed to create **his** attachment to trap him. Instead:
 **Intellectual intimacy (Scene 2):**
 > "Jung said dreams are the guiding words of the soul," he offered.
 >
-> "The bridge between your vocation and mine." She raised her glass. "The psychiatrist and the philosopher, meeting in the unconscious."
+> "Our friend Jung, the embodied consummation of our vocations." She raised her glass. "The psychiatrist and the philosopher, meeting in the unconscious."
 >
 > "Or the conscious study of it." His smile carried no agenda she could read.
+
+NOTE: The exact phrase "Our friend Jung, the embodied consummation of our vocations" must match—it recurs in Ch 1 as a callback establishing their shared vocabulary.
 
 **The escalation (Scene 4):**
 > "Do you want to come up? I have that paper you mentioned."
@@ -327,10 +349,14 @@ The intimacy was supposed to create **his** attachment to trap him. Instead:
 ### To Chapter 1
 - [ ] Relationship established (lovers with domestic intimacy)
 - [ ] Her attachment visible (body truths)
-- [ ] His progress accelerating (backfire)
-- [ ] Confession pressure built
-- [ ] Jung reference planted (Scene 2 → Ch 1 callback)
-- [ ] Rain motif planted (Scene 4 → Ch 1 storm)
+- [ ] His progress accelerating (backfire—show through colleague comment, practice deepening)
+- [ ] Confession pressure built (loneliness motivation clear)
+- [ ] Jung reference planted: "Our friend Jung, the embodied consummation of our vocations" (exact phrasing)
+- [ ] Rain motif planted (Scene 4 gentle → Ch 1 storm)
+- [ ] Domestic vocabulary begun (tea, books, routines forming)
+- [ ] His meditation practice visible (corner, cushion, altar)
+- [ ] Face-constancy mystery flickered (Scene 5)
+- [ ] "Together doesn't hold" phrase present (Scene 3)
 
 ### Thread Status
 
@@ -341,6 +367,84 @@ The intimacy was supposed to create **his** attachment to trap him. Instead:
 | Love unnamed | Strategic interest | Physical response | Body truths | Desperation visible |
 | Loneliness | Surfaces | Building | Almost breaks | Confession |
 | Professional decline | Considering leave | Near-full leave | University position | Complete isolation |
+
+---
+
+## Bridge to Chapter 1: Key Details
+
+### What Ch 1 Opens With
+Ch 1 opens with established lovers in domestic intimacy:
+- Silas asleep, she sits on edge of bed
+- The sunset painting colors across her skin
+- Their "game of metaphysical pillow talk"
+- References to past lives she's seen
+- "Our friend Jung, the embodied consummation of our vocations"
+- His mantra "I am boundless awareness"
+- The Walnut Persian Restaurant as their place
+- Rain/storm throughout the chapter
+
+### What Ch 21 Must Plant
+- The beginning of domestic vocabulary: his tea, her book on his shelf, established routines forming
+- The Jung phrase as THEIR shared reference
+- Rain as romantic prelude (which will become ominous storm)
+- His meditation practice visibility (corner, cushion, altar)
+- The pressure building toward confession
+
+### The Off-Page Year (Ch 21 → Ch 1)
+Between Ch 21 (age 34) and Ch 1 (age 35):
+- Relationship deepens into comfortable domesticity
+- Her attachment increases (body truths accumulating)
+- His progress continues accelerating (the backfire)
+- The confession pressure becomes unbearable
+- She shifts from "I can't tell him" to "I MUST tell him" (reframed as strategy)
+
+---
+
+## Showing the Backfire (Scene 6)
+
+The intimacy was supposed to create HIS attachment to trap him. Instead:
+
+### How to Show It (Visible to Reader, Invisible to Her)
+- **External confirmation:** A colleague mentions how well Silas seems lately. "You've been good for him, Lilith." She files this as evidence her strategy is working. Reader sees: she's accelerating his growth.
+- **His practice deepening:** She notes his meditation sessions growing longer, his clarity increasing. She interprets: "He's stabilizing. Controllable." Reader sees: he's approaching stream-entry faster.
+- **His work improving:** Papers sharper, teaching more present, students responding better. Her interpretation: "The strategy is working." Reader interpretation: love-without-grasping supports awakening.
+
+### Her Misreading
+She believes stability = control. The reader understands stability = groundedness = faster progress toward threshold. The backfire pattern continues—every intervention (including intimacy) accelerates rather than obstructs.
+
+---
+
+## Rain Motif Development
+
+### Ch 21 (Scene 4): The Prelude
+- Rain beginning, gentle, almost romantic
+- The intimacy unfolds under soft rainfall
+- Tone: possibility, warmth, beginning of something
+
+### Ch 1: The Storm
+- Torrential rain, threatening, ominous
+- The storm during the rooftop scene
+- Thunder, lightning, danger
+
+The same motif in escalating register. Ch 21's gentle rain foreshadows Ch 1's tempest—the relationship that began so softly will crash into crisis.
+
+---
+
+## Silas's Practice Visibility
+
+Ch 1 shows Silas with:
+- Mantra: "I am boundless awareness" (internal, she doesn't know it)
+- Deep meditation practice
+- Consciousness studies expertise
+- The quality that makes Stewart's crisis hit home
+
+Ch 21 must show the EXTERIOR evidence of this without her having access to his interiority:
+- The meditation corner in his flat (Scene 4): cushion, simple altar, incense holder
+- His intellectual engagement with consciousness/phenomenology (Scene 2)
+- The discipline visible in his bearing, his presence, his grounded quality
+- Perhaps a glimpse of him sitting (she observes; he doesn't know she's watching)
+
+She reads all this as "data about her target." The reader sees: a man with serious contemplative practice, closer to the threshold than she wants to admit.
 
 ---
 

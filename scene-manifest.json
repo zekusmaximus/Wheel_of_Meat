@@ -2616,10 +2616,101 @@
         "Loneliness of knowing (he's the only one who could understand)",
         "Backfire pattern (intimacy accelerating him)"
       ],
-      "function": "Phase 4 of intimacy strategy; Lilith becomes Silas's lover; trap meant for him closes on her; sets up Chapter 1 confession",
-      "word_target": 6500,
-      "scenes": [],
-      "status": "needs_development"
+      "function": "Phase 4 of intimacy strategy; Lilith becomes Silas's lover; trap meant for him closes on her; almost-confession builds pressure toward Ch 1; Maitreya seeds planted throughout",
+      "word_target": 10500,
+      "scenes": [
+        {
+          "scene": 1,
+          "title": "The Established Orbit",
+          "file": "scenes/scene-01-established-orbit.md",
+          "word_target": 1000,
+          "status": "outlined",
+          "function": "Establish one year has passed; show professional integration; introduce Silas through her POV",
+          "setting": "University campus, Manchester, spring",
+          "key_beats": ["One year since university position", "Student counseling services as bridge", "First glimpse of Silas across quad", "Tonight shifts to next phase"]
+        },
+        {
+          "scene": 2,
+          "title": "The Conversation",
+          "file": "scenes/scene-02-conversation.md",
+          "word_target": 1300,
+          "status": "outlined",
+          "function": "Show intellectual intimacy; introduce Silas more fully; establish shared ground",
+          "setting": "After faculty event, pub near campus, late evening",
+          "key_beats": ["Jung reference (exact Ch1 phrasing)", "He completes her thought", "Assessment: perhaps a year until stream-entry", "Neither wants to leave"]
+        },
+        {
+          "scene": 3,
+          "title": "The Tracking Corner",
+          "file": "scenes/scene-03-tracking-corner.md",
+          "word_target": 1400,
+          "status": "outlined",
+          "function": "Show narrowed world; tracking ritual; Noir reflection (Ch 20 retrospective)",
+          "setting": "Her flat, night",
+          "key_beats": ["Flat as command center", "Revisits Noir thread (retrospective, not forward scan)", "Together doesn't hold phrase", "Eight backfires catalogued", "Missed call from Nadia"]
+        },
+        {
+          "scene": 4,
+          "title": "The Escalation",
+          "file": "scenes/scene-04-escalation.md",
+          "word_target": 1400,
+          "status": "outlined",
+          "function": "The pivot from friendship to romance",
+          "setting": "Evening, after faculty event; rain beginning; his flat",
+          "key_beats": ["Rain motif (gentle prelude to Ch1 storm)", "His flat: meditation corner visible", "Calculated move becomes something else", "The flicker she can't file away"]
+        },
+        {
+          "scene": 5,
+          "title": "The First Night",
+          "file": "scenes/scene-05-first-night.md",
+          "word_target": 1100,
+          "status": "outlined",
+          "function": "Show the shift; first Maitreya seeds; watching him sleep",
+          "setting": "After; his flat; dawn approaching",
+          "key_beats": ["Soul tracked through seven deaths, never this face", "Face-constancy mystery flicker", "Breathing in sync", "Dawn light", "Pause at door too long"]
+        },
+        {
+          "scene": 6,
+          "title": "The Lover's Paradox",
+          "file": "scenes/scene-06-lovers-paradox.md",
+          "word_target": 1300,
+          "status": "outlined",
+          "function": "Domestic intimacy developing; backfire emerging; Maitreya seeds deepening",
+          "setting": "Montage of weeks/months",
+          "key_beats": ["His stability increasing (backfire)", "Her attachment through body truths", "Mirroring habits", "Colleague comment on how well he seems"]
+        },
+        {
+          "scene": 7,
+          "title": "The Merger Dream",
+          "file": "scenes/scene-07-merger-dream.md",
+          "word_target": 1100,
+          "status": "outlined",
+          "function": "Most explicit Maitreya seed; the question she won't ask",
+          "setting": "Night; after sleeping together",
+          "key_beats": ["Dream: same person, two views, one awareness", "Wakes unsure which dreaming", "The unfinished question about threshold", "Dawn light, hand in his hair"]
+        },
+        {
+          "scene": 8,
+          "title": "The Almost",
+          "file": "scenes/scene-08-almost.md",
+          "word_target": 1300,
+          "status": "outlined",
+          "function": "CLIMAX - Loneliness breaks through; almost-confession; pulls back",
+          "setting": "Evening; her flat alone; then phone call",
+          "key_beats": ["Ten years of weight", "Loneliness genuine (not tactical)", "Hands shake", "Almost says it", "Not yet. But soon."]
+        },
+        {
+          "scene": 9,
+          "title": "Coda — The Edge",
+          "file": "scenes/scene-09-coda.md",
+          "word_target": 600,
+          "status": "outlined",
+          "function": "Final image; bridge to Ch 1",
+          "setting": "His flat; brief domestic moment",
+          "key_beats": ["Twelve months assessment (intimacy accelerating him)", "Stay a little longer", "What are you thinking? Nothing. Just—this.", "Domestic vocabulary forming (seeds for Ch1)"]
+        }
+      ],
+      "status": "outlined"
     },
     {
       "chapter": 22,
