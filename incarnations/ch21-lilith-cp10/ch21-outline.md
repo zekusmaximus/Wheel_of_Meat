@@ -101,7 +101,7 @@ This is the final Lilith chapter before the endgame. It must:
 - He's discussing consciousness with colleagues; she observes
 - Conversation narrows to just them as others drift away
 - Shared territory: philosophy and psychology
-- Reference to Jung: "the embodied consummation of our vocations" (callback to Ch 1)
+- Reference to Jung: "Our friend Jung, the embodied consummation of our vocations" (exact phrasing that will recur in Ch 1)
 - She tracks his thinking: meditation, phenomenology, nature of self
 - He says something that completes a thought she was forming
 - She dismisses it: "A year of studying him. Of course I know his patterns."
@@ -129,8 +129,9 @@ This is the final Lilith chapter before the endgame. It must:
 **Part A: The Return (~400 words)**
 - Returns home. The flat is a command center now.
 - Notebooks: ten years of work, lives documented, backfires recorded
-- Tonight she'll check the most recent thread—the Noir life
-- Wants to confirm: anything missed? Pattern that might help?
+- Tonight she'll revisit the Noir thread—the detective she glimpsed while tracking forward to find Silas
+- Not a forward scan this time, but retrospective analysis: now that she's embedded in his life, does the pattern hold?
+- *Together doesn't hold*—the phrase surfaces, her certainty about mutual exclusion
 
 **Part B: The Noir Observation (~600 words)**
 - Drops in on the detective—1940s Los Angeles
@@ -168,11 +169,11 @@ This is the final Lilith chapter before the endgame. It must:
 
 **Beats:**
 - Another faculty event ends; they walk out together
-- Rain beginning (callback to Ch 1's storm imagery)
+- Rain beginning—gentle at first, almost romantic. But something in it hints at the storm to come. (In Ch 1, rain will be torrential, threatening, ominous. Here it's the same motif in softer register—the prelude that will become the tempest.)
 - She engineers reason to extend the evening
 - Or he suggests: "Do you want to come up for a drink?"
 - She accepts. This is the moment she's been engineering.
-- His flat: books everywhere, meditation corner visible
+- His flat: books everywhere, meditation corner visible (cushion, simple altar, incense holder—the physical evidence of disciplined inner work; in Ch 1 he will have a mantra "I am boundless awareness" that she doesn't know yet, but his practice-visibility here suggests a man with serious contemplative discipline)
 - Wine, conversation, enclosed space intimacy
 - She makes the move—a touch, calculated timing
 - His response: surprise, then warmth, then acceptance
@@ -220,7 +221,7 @@ This is the final Lilith chapter before the endgame. It must:
 - The pause that's too long
 
 **Maitreya Seeds:**
-- His face unfamiliar yet known
+- His face unfamiliar yet known (callback to Ch19's face-constancy observation: she has traced this soul through seven different faces, none of them this one—yet something in the arrangement feels like recognition)
 - Breathing synchronization
 - The pause she can't explain
 
@@ -239,8 +240,9 @@ This is the final Lilith chapter before the endgame. It must:
 **The Backfire (visible to reader, not her):**
 - He's MORE stable since they got together
 - Her presence is grounding him
-- His progress accelerating
+- His progress accelerating—his papers sharper, his teaching more present, his meditation deeper
 - She's nourishing him, not trapping him
+- HOW TO SHOW: Perhaps a colleague comments on how well Silas seems lately; perhaps she notes his clarity increasing and files it under "the strategy is working" (stabilization = control) when the reader sees it means "growth" (her proximity as accelerant, like every other intervention)
 
 **Her Attachment (body truths):**
 - Checks his schedule compulsively
@@ -317,12 +319,14 @@ This is the final Lilith chapter before the endgame. It must:
 - Alone. Notebooks surrounding her.
 - Ten years. Ten incarnations. Eight backfires.
 - And now this—the intimacy that was supposed to be weapon
-- The loneliness surfaces:
+- The loneliness surfaces—genuine, unbearable:
   - "He's the only one who could understand."
   - "Ten years of watching him die. No one else knows."
   - "If I told him what I've seen..."
   - "He's the only person who might hear it."
 - Her hands shake. (Not named as fear—just her hands.)
+- The need to tell him is real, not tactical. This is the raw loneliness of knowing.
+- (By Ch 1, she will rationalize this need as strategy—the confession as destabilization gambit. But the reader should see here: the confession is coming because she can't bear to carry it alone anymore. The tactical framing will be the lie she tells herself.)
 
 **Part B: The Call (~500 words)**
 - Picks up phone. Calls him.
@@ -356,8 +360,8 @@ This is the final Lilith chapter before the endgame. It must:
 **Function:** Final image; bridge to Ch 1
 
 **Beats:**
-- Small domestic moment: walking together at dusk, or in his flat
-- She looks at him and thinks: "Twelve months. Maybe less."
+- Small domestic moment: in his flat, the ease of established routine beginning to form
+- She looks at him and thinks: "Twelve months. Maybe less." But something has shifted—in Scene 2 she calculated "perhaps a year," and his practice has only deepened since. The intimacy is accelerating him.
 - He's approaching the threshold. She's supposed to stop him.
 - Instead: "Not yet. Stay a little longer."
 - The thought surprises her. Files under: "Strategic timing."
@@ -366,6 +370,7 @@ This is the final Lilith chapter before the endgame. It must:
 - She says: "Nothing. Just—this."
 - (Reader hears: everything she can't say.)
 - Final image: a look between them that holds it all
+- Hint of domesticity forming: his tea the way she likes it, her book on his shelf, the vocabulary of a couple settling into each other's lives (seeds for Ch 1's opening)
 
 **Voice:** Quiet; drift toward Ch 1 complete
 
