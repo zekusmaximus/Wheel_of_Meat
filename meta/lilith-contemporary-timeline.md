@@ -170,10 +170,33 @@
 - **Power level:** Near-full manifestation
 - **[Further development needed]**
 
-### Chapter 21: The Decision (Age 34, Year 9)
-- **Power level:** Full manifestation—can incarnate physically
-- **Key event:** Decides to incarnate fully; commits to direct relationship with Silas
-- **[Further development needed]**
+### Chapter 21: "The Commitment" (Age 34, Year 9)
+- **Power level:** Full manifestation in present—can track at will, fully present in his life
+- **Professional status:** Student counseling services at university; one year in position
+- **Relationship to Silas:** Transitions from colleagues → friends → lovers
+- **Key events:**
+  - One year of professional proximity complete
+  - Revisits Noir thread (retrospective analysis of backfire pattern)
+  - First night together—watches him sleep, face-constancy mystery flickers
+  - Domestic intimacy develops over weeks/months
+  - The merger dream (most explicit Maitreya seed)
+  - Almost-confession—loneliness breaks through, pulls back
+  - Final image: "Stay a little longer"
+- **Backfire emerging:** Intimacy is accelerating his progress, not trapping him; she's the one becoming attached
+- **Maitreya seeds planted:**
+  - Completing each other's thoughts (dismissed as "observation")
+  - Breathing in sync (dismissed as "proximity effect")
+  - Mirroring his habits (dismissed as "absorbed his patterns")
+  - The merger dream (dismissed as "overidentification")
+- **Key threads:**
+  - "Together doesn't hold" phrase surfaces during Noir review
+  - Loneliness of knowing builds toward confession
+  - Body truths accumulating (can't sleep when apart, checks schedule)
+  - Jung reference planted: "Our friend Jung, the embodied consummation of our vocations"
+  - Rain motif as gentle prelude to Ch 1's storm
+- **Timeline assessment:** "Twelve months. Maybe less." until stream-entry (his practice deepening)
+- **Bridge to Ch 1:** Domestic vocabulary forming; confession pressure building; tactical framing will rationalize what is actually unbearable loneliness
+- **Status:** Outlined (9 scenes, ~10,500 words)
 
 ---
 

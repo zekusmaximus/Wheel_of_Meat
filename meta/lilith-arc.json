@@ -129,8 +129,14 @@
       "limitations": "Silas's accumulated merit creates strong resistance; this is her last chance before present day",
       "intervention": "Appears as femme fatale and client; breaks every case, ensures every victory turns to ash",
       "objective_this_chapter": "Break his perseverance directly. The noir detective faces overwhelming obstacles—she ensures every case fails, every client betrays him, every victory turns to ash. This is her last chance before the present day. She throws everything she has at breaking his spirit.",
-      "backfire": "TBD",
-      "emotional_state": "Panic beneath control; she can feel him approaching stream-entry"
+      "backfire": "His failures became his perseverance. Wei's purified determination transformed into viriya—the capacity to continue despite obstacles. Every case that failed taught him to fail better. The trying became the point.",
+      "emotional_state": "In Ch21, she revisits this retrospectively while embedded in Silas's contemporary life. Panic has given way to calculated intimacy—but intimacy itself is becoming the new backfire. She's falling without knowing it.",
+      "ch21_contemporary_focus": {
+        "primary_arc": "Transitions from colleagues to lovers; intimacy strategy deepens",
+        "maitreya_seeds": ["Merger dream", "Breathing in sync", "Mirroring habits", "Completing thoughts"],
+        "almost_confession": "Loneliness breaks through; she almost tells him everything; pulls back",
+        "bridge_to_ch1": "Domestic vocabulary forming; confession pressure building"
+      }
     },
     {
       "historical_chapter": null,
