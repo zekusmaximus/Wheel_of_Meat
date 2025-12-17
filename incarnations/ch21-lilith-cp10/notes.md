@@ -459,6 +459,7 @@ She reads all this as "data about her target." The reader sees: a man with serio
 
 ### Scene 2: "The Conversation"
 **Open with:** Faculty event winding down, they end up together
+**DEMONSTRATION (brief):** Before Silas joins, colleague vents about futile effort with a student. Lilith advises: "The trying is the point." Returns to scanning for Silas—blind to how this applies to her decade of backfiring interventions. Physical tell: hands steady, voice calm—she believes this wisdom completely, just not for herself.
 **Key moment:** He completes her thought (dismissed)
 **Jung reference:** "The embodied consummation of our vocations"
 **Assessment:** "Perhaps a year" until stream-entry

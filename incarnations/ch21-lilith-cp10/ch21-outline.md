@@ -98,6 +98,7 @@ This is the final Lilith chapter before the endgame. It must:
 
 **Beats:**
 - Faculty mixer winds down; they end up at the same table
+- **DEMONSTRATION BEAT:** Before Silas joins, a colleague (Dr. Brennan?) vents about a student who won't improve despite years of support—"I don't know why I keep trying." Lilith's response is calm, precise: "Because the trying is the point. Outcomes are beyond our control. The effort itself has value." Colleague nods, comforted. Lilith returns to scanning for Silas—ten years of effort that keeps backfiring, the irony invisible to her.
 - He's discussing consciousness with colleagues; she observes
 - Conversation narrows to just them as others drift away
 - Shared territory: philosophy and psychology
@@ -113,6 +114,7 @@ This is the final Lilith chapter before the endgame. It must:
 **Voice:** Intellectual sparring with undercurrent of something else
 
 **Key Lines to Hit:**
+- **Demonstration:** "The trying is the point. Outcomes are beyond our control." (advice she cannot apply to herself)
 - Jung reference (bridges to Ch 1)
 - Her tracking his spiritual progress
 - The moment of completing each other's thoughts (dismissed)
