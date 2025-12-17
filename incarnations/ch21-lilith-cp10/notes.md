@@ -1,422 +1,453 @@
-# Chapter 21 - Lilith CP10: The Commitment
+# Chapter 21 Drafting Notes: "The Commitment"
 
-## Context & Position
+## Document Purpose
 
-**Follows:** Chapter 20 (1930s Detective Noir - USA)
-**Precedes:** Chapter 22 (Contemporary Breakthrough - Silas achieves stream-entry)
-
-**Timeline:** 1 year before Chapter 1
-**Lilith's Age:** 34
-**Years Tracking Silas:** 9
+Comprehensive drafting reference for Chapter 21—the final Lilith contemporary chapter before the endgame. This document supplements the scene-by-scene outline with voice guidance, physical details, dialogue hints, and continuity requirements.
 
 ---
 
-## Power Level
+## The Chapter's Core Purpose
 
-**Full manifestation in present**
+This is **Phase 4: Commitment** of the intimacy strategy. Lilith becomes Silas's lover, believing this gives her leverage to intervene at the critical moment. But the chapter must show:
 
-### Capabilities This Chapter
-- Full presence as Lilith Azami in contemporary Manchester
-- All human-realm powers at peak
-- Can observe his karmic trajectory in real-time
-- Strategic engineering of circumstances in her own timeline
+1. **The strategy working** (they become lovers, she's in his life)
+2. **The strategy backfiring** (she's the one becoming attached)
+3. **Her blindness** (she can't see what the reader sees)
+4. **The Maitreya seeds** (merger foreshadowing for Act IV)
+5. **The almost-confession** (pressure building toward Ch 1)
 
-### Limitations
-- Silas's accumulated merit creates resistance to direct manipulation
-- She must work through the relationship, not supernatural intervention
-- Her own attachment is becoming visible to herself—but still dismissed
-- The noise floor applies: every action creates counter-pressure
+**The irony:** She thinks she's trapping him. She's trapping herself.
 
 ---
 
-## Core Function: The Intimacy Strategy - Phase 4
+## Voice Specifications
 
-Per the `lilith-arc-bible.md` (lines 165-169):
+### What Lilith Sounds Like
 
-> **Phase 4: Commitment (Chapter 21, Age 34)**
-> She becomes his lover. The intimacy is strategic: if she's essential to his life, she can intervene at the critical moment.
->
-> But something is changing. The strategy is becoming something else. She's falling without knowing it.
+**Clinical precision:** She assesses, categorizes, plans. Even intimacy is rendered through analytical frame.
+> "The architecture of proximity had taken a year to construct."
 
----
+**Controlled emotion:** Feelings rendered through body, never named.
+> NOT: "She felt desperate"
+> YES: "Her hands wouldn't steady on the notebook"
 
-## The Contemporary Setting
+**Strategic framing:** Everything justified as tactic, even when it isn't.
+> "Convincing myself helps convince him."
 
-### Where We Find Her
-
-- **Location:** Manchester, on partial leave from NHS
-- **Professional status:** Has transitioned toward university-adjacent work
-- **Living situation:** The tracking corner has become the center of her life
-- **Relationship status:** Has engineered contact with Silas (from Ch19)
-
-### What's Changed Since Ch19
-
-In Chapter 19, she:
-- Completed the forward-tracking, located modern Silas
-- Witnessed the Taiping backfire (Wei's determination purified)
-- Made the strategic shift: "No more intermediaries. Direct engagement."
-- Began researching Silas Pahlavan (university lecturer, philosophy/religious studies)
-
-In the year between Ch19 and Ch21:
-- She has established herself in his professional orbit
-- They have become colleagues, then friends
-- The intimacy strategy is about to be executed
-
----
-
-## The Strategic Intel
-
-### What She Knows About Him
-
-From nine years of tracking + one year of proximity:
-
-- **Name:** Silas Pahlavan
-- **Age:** Early 30s
-- **Occupation:** University lecturer (philosophy or religious studies)
-- **Spiritual status:** Approaching stream-entry (first three fetters weakening)
-- **Timeline:** Perhaps 1-2 years before breakthrough
-- **Vulnerabilities:** Intellectual engagement, genuine connection, being truly seen
-
-### Her Assessment
-
-> "He is methodical. He seeks understanding, not sensation. The usual traps—desire, aversion, distraction—won't work on someone this advanced. But everyone has attachment. Everyone has connection."
->
-> "If I become essential to his life—if our connection goes deep enough—I can be there at the critical moment. When he's about to cross, I can pull him back."
-
----
-
-## The Engineering Phase: Becoming Lovers
-
-### The Escalation
-
-**From Professional to Personal:**
-- Shared interests (consciousness, meditation, philosophy)
-- Late conversations after faculty events
-- The intimacy that comes from intellectual alignment
-- She lets him see her—carefully, strategically, not the supernatural parts
-
-**The "Accidental" Deepening:**
-- She engineers moments of vulnerability
-- He responds with genuine warmth
-- The connection feels real because part of it is
-- She tells herself: "Good acting requires partial belief"
-
-### The First Physical Intimacy
-
-**What She Plans:**
-- Use physical intimacy to deepen attachment
-- Create a bond he won't easily sever
-- Become essential to his daily life
-
-**What Actually Happens:**
-- A moment during where she forgets to analyze
-- Body truth: unexpected tenderness, genuine pleasure
-- Afterward, looking at him sleeping, something shifts
-- She files it under: "Convincing myself helps convince him"
-
----
-
-## The Relationship Begins
-
-### The Early Months
-
-**Surface:** Two academics in a new relationship—dinners, conversations, the ordinary textures of intimacy.
-
-**Her Tracking:**
-- She notes his habits, his rhythms, his vulnerabilities
-- When he meditates, she can feel his progress
-- He's not slowing down—if anything, proximity is nourishing him
-
-**The Problem She Notices:**
-> "The attachment is supposed to be forming in him. Why do I find myself looking for his face in crowds? Why does his absence feel like a missing limb?"
-
-### The Strategic Reassessment
-
-She rationalizes:
-- "I'm too deep in the role. This is method acting."
-- "Proximity requires authentic connection. Of course I feel something."
-- "This is working. He's attached. I can use that."
-
-But the reader sees:
-- She's the one checking his schedule
-- She's the one who can't sleep when they're apart
-- She's the one who needs to know where he is
-
----
-
-## The Backfire Emerging
-
-### The Pattern She Cannot See
-
-Every previous intervention accelerated him. Now:
-- The intimacy is supposed to create attachment
-- But he's becoming **more** stable, not less
-- Her presence is grounding him, not destabilizing him
-- She's accidentally providing the love-without-grasping that supports stream-entry
-
-### What's Actually Happening
-
-- Their connection is genuine (on both sides)
-- He loves her too—but his love is less attached
-- Her love is more attached—she's becoming the one who needs
-- The trap meant for him is closing on her
-
----
-
-## The Maitreya Foreshadowing (Deepening)
-
-### Moments She Dismisses
-
-1. **The Merger Dream:**
-   - Wakes from a dream where she and Silas were the same person
-   - Looking through one set of eyes at two different views
-   - Dismisses as: "Overidentification. The cost of proximity."
-
-2. **Completing His Sentences:**
-   - She knows what he'll say before he says it
-   - More than tracking—something deeper
-   - Dismisses as: "I've studied him for a decade. Of course I know his patterns."
-
-3. **The Mirrored Habits:**
-   - Catches herself sitting the way he sits
-   - Making tea the way he does
-   - His phrases appearing in her speech
-   - Dismisses as: "Method acting."
-
-4. **The Question She Won't Ask:**
-   - "If we're both this close to completing, and the threshold admits one..."
-   - "Why does proximity feel like *home*?"
-   - She doesn't finish the thought. Ever.
-
----
-
-## The Loneliness of Knowing
-
-### The Burden
-
-She has carried this knowledge alone for ten years:
-- The wheel is real
-- She's been on it for eons
-- There's a way off, and she's close
-- So is he—and only one can finish
-
-No one can understand this. No one except...
-
-### The Seed of Confession
-
-> "He's the only one who could understand. If I told him what I've seen, what I've done, what I know... he's the only person in the world who might actually hear it."
->
-> "But I can't tell him. Not yet. Not while the strategy is working."
->
-> "Is it working?"
-
----
-
-## The Professional Decline (Continues)
-
-### Her Career Arc
-
-- **Ch17:** Considering leave from NHS
-- **Ch19:** Partial leave; focused on tracking
-- **Ch21:** Full leave; has transitioned to minimal clinical work
-- **Ch1:** Whatever position she holds is a cover for the mission
-
-### Per `lilith-arc.json`:
-> "CP-10: Full leave; a decade of monomaniacal focus has rotted everything else"
-
-### How This Shows
-
-- Colleagues have stopped calling
-- Her clinical skills are still there but unused
-- The notebooks have taken over—no longer just a corner, but her life's work
-- She's reduced her world to him
-
----
-
-## Beat 10: The Final False Law
-
-### The One Buddha Arc Culminates
-
-**Beats 4-9 (prior chapters):**
-- Mutual interference ("Together doesn't hold")
-- The recurring parallel ("What does that remind me of?")
-- Dwindling capacity (noise floor discovered)
-- Silas as mirror (wheel perception)
-- Fear of simultaneity (pattern undeniable)
-- Misreading as duty (direct engagement decision)
-
-**Beat 10 (this chapter):**
-> "There can be only one. And if he rises now, I will never be free."
-
-### The False Certainty
-
-- She believes the competition is structural, geometric, architectural
-- One exits; the other cycles again
-- After eons of work, she cannot let him finish first
-- The intimacy is her final weapon—if she's essential to his life, she can intervene
-
-### What She Cannot See
-
-- "One at a time" might mean *union*, not competition
-- The intimacy isn't trapping him—it's completing them both
-- The threshold admits one *being*—and two must become one to pass
-
----
-
-## Chapter Structure (Proposed)
-
-### Scene 1: "The Established Orbit" (~1,000 words)
-**Setting:** University campus, Manchester
-
-- Opens one year after Ch19
-- She's now in his professional sphere (department adjacent)
-- Regular contact, growing friendship
-- The strategy advancing as planned
-
-### Scene 2: "The Demonstration" (~900 words)
-**Setting:** Clinical session (if she's still seeing any patients)
-
-- A patient with relationship dynamics that mirror her situation
-- She gives advice she cannot apply
-- The doubled irony: she's counseling healthy attachment while engineering toxic dependence
-- A moment of uncomfortable clarity—filed away
-
-### Scene 3: "The Escalation" (~1,200 words)
-**Setting:** After a faculty event, late evening
-
-- The moment that shifts professional to personal
-- She makes a move framed as strategic
-- He responds with genuine warmth
-- The connection is real and she knows it—but tells herself it's part of the act
-
-### Scene 4: "The First Night" (~1,000 words)
-**Setting:** His flat or hers
-
-- The consummation of the intimacy strategy
-- Clinical observation competing with genuine feeling
-- A moment where she forgets to track—just *is*
-- Afterward: watching him sleep, the face she's tracked through seven deaths
-
-### Scene 5: "The Lover's Paradox" (~1,200 words)
-**Setting:** Weeks/months into the relationship
-
-- Montage of domestic intimacy
-- She's gathering intelligence; she's also falling
-- His progress continues—she's nourishing him, not trapping him
-- The backfire beginning to manifest
-
-### Scene 6: "The Merger Dream" (~1,000 words)
-**Setting:** Night, after an evening together
-
-- The dream: she and Silas are the same person
-- Waking confused, unsure which of them was dreaming
-- She dismisses it—but something lingers
-- Closing image: Dawn light, his face peaceful, her hand touching his hair
-
-### Possible Scene 7: "The Question" (~600-800 words)
-**Setting:** Her tracking corner, alone
-
-- Processing what's happening
-- The loneliness of knowing surfaces
-- The seed of confession: "He's the only one who could understand"
-- But she can't tell him—not while the strategy is "working"
-- Closing: notebook entry, clinical language barely containing something else
-
----
-
-## Word Count Target
-
-**Total:** ~6,500-7,500 words
-
-| Section | Target |
-|---------|--------|
-| I. The Established Orbit | 900-1,100 |
-| II. The Demonstration | 800-1,000 |
-| III. The Escalation | 1,100-1,300 |
-| IV. The First Night | 900-1,100 |
-| V. The Lover's Paradox | 1,100-1,300 |
-| VI. The Merger Dream | 900-1,100 |
-| VII. The Question (optional) | 600-800 |
-
----
-
-## Key Themes
-
-1. **Intimacy as Weapon:** The explicit strategy—and its failure
-2. **The Trap Closes on Her:** She's the one becoming attached
-3. **The Love She Won't Name:** Particular love hiding as universal compassion
-4. **The Loneliness of Knowing:** Isolation that only he could end
-5. **Maitreya Foreshadowing:** Dreams, mirroring, the question she won't ask
-6. **Beat 10: The Final False Law:** "There can be only one"
-
----
-
-## Voice Specifications (Per Bible)
-
-### What She Sounds Like
-
-- **Analytical:** Clinical precision from psychiatric training
-- **Controlled:** Emotions rendered through body, not named
-- **Blind:** Cannot see her own attachment
-- **Certain:** Increasingly sure she understands what she doesn't
+**Undermining clauses:** Certainties always complicated.
+> "The strategy was working—or something was."
 
 ### Forbidden in Lilith POV
 
-- Abstract emotion words (she doesn't feel "desperate"—her hands shake)
-- Buddhist terminology (no "samsara," "nirvana"—use "wheel," "threshold")
-- Direct acknowledgment of love for Silas (body truths only)
-- Recognition of Maitreya possibility
+- **Abstract emotion words:** desperate, afraid, anxious, hopeful, in love
+- **Buddhist terminology:** samsara, nirvana, enlightenment (use: wheel, threshold, completion)
+- **Direct acknowledgment of love:** She cannot name it; body truths only
+- **Recognition of Maitreya possibility:** She dismisses all merger hints
+- **Purple prose, clichés, unearned profundity**
 
 ### Required in Lilith POV
 
-- Physical grounding in every scene
-- Professional frame (supernatural rendered clinically)
-- Undermining clauses (certainties always complicated)
-- The things she refuses to examine (visible to reader, invisible to her)
+- **Physical grounding:** Her body, her space, her sensations in every scene
+- **Professional frame:** Supernatural rendered clinically ("tracking," "observation," "intervention")
+- **Undermining clauses:** Every certainty carries a complication
+- **The things she refuses to examine:** Visible to reader, invisible to her
+
+---
+
+## Physical Details to Anchor
+
+### Her Flat (Tracking Corner)
+- Notebooks everywhere—ten years of documentation
+- Maps, timelines, photographs (of locations, not of Silas)
+- The meditation cushion she rarely uses anymore
+- Coffee cups accumulated
+- Drawn curtains (she works at night)
+- A bed that looks slept-in only sometimes
+- The phone always visible, charged, checked
+
+### The University (Her New Terrain)
+- Student counseling services office (clinical but warmer than NHS)
+- Faculty common areas where paths cross
+- The walk between buildings she's memorized
+- Committee rooms with heavy wooden tables
+- The pub where faculty gather after events
+
+### His Flat (New Territory)
+- Books everywhere—philosophy, religious studies, phenomenology
+- A meditation corner (cushion, incense holder, simple altar)
+- Kitchen that shows he cooks
+- Art on walls (something that reveals his interiority)
+- The bed where she'll watch him sleep
+
+### Her Body (The Truth-Teller)
+- Hands that shake when she won't admit what she feels
+- Shoulders that carry tension she doesn't name
+- Eyes that track him across rooms
+- Breath that syncs with his (Maitreya seed)
+- The pause at doorways that lasts too long
+
+---
+
+## Key Relationships to Render
+
+### Lilith and Silas
+
+**What she tells herself:** Strategic intimacy. Method acting. Necessary proximity.
+
+**What we see:**
+- She checks his schedule compulsively
+- She can't sleep when they're apart
+- She knows what he'll say before he says it
+- She mirrors his habits without noticing
+- She reaches for connection she calls "intelligence gathering"
+
+**His presence through her eyes:**
+- Brilliant, warm, genuinely curious
+- Approaching stream-entry (she tracks this like a condition)
+- Unaware of her surveillance (the irony)
+- Responding to her with authentic warmth
+- Grounding rather than destabilizing (the backfire)
+
+### Lilith and Her Isolation
+
+**What's visible:**
+- Missed calls from Nadia (family fading)
+- No mention of Meera or other friends
+- Colleagues are "the faculty," not individuals
+- The flat as command center, not home
+- Ten years narrowed to one person
+
+**What this costs:**
+- The loneliness of knowing
+- No one who could understand
+- Except him—but she can't tell him
+
+---
+
+## The Backfire: How to Show It
+
+The intimacy was supposed to create **his** attachment to trap him. Instead:
+
+### What's Happening to Him (Visible to Her, Misread)
+- His meditation practice deepening
+- His clarity increasing
+- His stability growing
+- His approach to stream-entry accelerating
+
+**Her interpretation:** "The strategy is working—I'm in his life now."
+
+**The truth:** Her presence is grounding him. Love-without-grasping (from his side) supports awakening.
+
+### What's Happening to Her (Invisible to Her, Visible to Reader)
+- Checking his schedule
+- Can't sleep when apart
+- Needs to know where he is
+- Mirrors his habits
+- The pause that's too long
+- Hands that shake when she almost confesses
+
+**Her interpretation:** "Method acting. Proximity requires authenticity."
+
+**The truth:** She's falling without knowing it.
+
+---
+
+## Maitreya Foreshadowing: The Seeds to Plant
+
+### 1. Completing Each Other's Thoughts (Scene 2)
+> He said something that finished a thought she'd been forming. She filed it under observation: "A year of studying him. Of course I know his patterns."
+
+### 2. Breathing in Sync (Scene 5)
+> She noticed her breath matching his—rise and fall aligned. Proximity effect. Shared physiology. Nothing more.
+
+### 3. The Mirroring (Scene 6)
+- His phrases appearing in her speech
+- Sitting the way he sits
+- Making tea the way he does
+- "Ten years of observation. Of course I've absorbed his patterns."
+
+### 4. The Merger Dream (Scene 7) **[MOST EXPLICIT]**
+> In the dream, they were the same person. Not together—the same. Looking through one set of eyes at two different views. Two bodies housing one awareness.
+
+> She woke unsure which of them had been dreaming.
+
+### 5. The Unfinished Question (Scene 7)
+> "If we're both this close to completing... if the threshold admits one..."
+>
+> She didn't finish the thought. Refused to finish it.
+
+### 6. "Stay a Little Longer" (Scene 9)
+> He was approaching the threshold. She was supposed to stop him.
+>
+> Instead the thought surfaced: *Not yet. Stay a little longer.*
+>
+> She filed it under strategic timing. The truth was simpler.
+
+---
+
+## The Noir Tracking Scene (Scene 3)
+
+### Purpose
+- Continue the pattern of past-life observation from previous chapters
+- Show the most recent backfire
+- Demonstrate her power level (can track at will)
+- Show the pattern she believes she's finally breaking
+
+### What She Observes
+
+**The Detective (1940s Los Angeles):**
+- Works cases that never resolve
+- Every investigation: dead ends, false trails, bought judges
+- The system corrupt, the truth always just out of reach
+- He persists anyway
+
+**The Pattern:**
+- Determination from Wei (Ch 18) evolved into viriya (perseverance)
+- His failures became his persistence
+- Another perfection earned through suffering she arranged
+
+**His Death:**
+- Alone, case unsolved
+- Still reaching for truth
+- Final thought: *I will try again. And again. Until trying is all that remains.*
+
+### Her Processing
+- Adds another backfire to the ledger
+- Eight interventions, eight accelerations
+- "But this is different. I'm not working through distance anymore."
+- Certainty that proximity changes everything
+- (Reader knows: intimacy will backfire too)
+
+---
+
+## The Almost-Confession (Scene 8)
+
+### The Build-Up
+
+**The loneliness breaking through:**
+- Ten years of carrying knowledge alone
+- No one who could understand
+- Except him—the only person who might hear it
+
+**Physical manifestation:**
+- Her hands shake (not "she feels afraid")
+- The notebooks surrounding her like evidence
+- The phone in her hand, his number already dialing
+
+### The Call
+
+**His warmth:**
+> "I was just thinking about you."
+
+**Her almost-confession:**
+> "Silas, I—"
+>
+> The words formed: *I've been watching you. For ten years. I've seen you die seven times. I know who you've been.*
+>
+> "There's something I need to tell you."
+
+**The pull-back:**
+- She can't. Not while the strategy is "working."
+- Deflects: "I just wanted to hear your voice."
+- He accepts. They talk about nothing.
+
+### The Aftermath
+
+**The silence:**
+- She hangs up
+- The notebooks. The weight of knowing.
+- "Not yet. But soon."
+
+**What the reader understands:**
+- She WILL confess in Chapter 1
+- The pressure is building
+- The "soon" is coming
+
+---
+
+## Dialogue Hints
+
+### Lilith's Speech Patterns
+- Clinical precision even in casual conversation
+- Questions that probe without revealing
+- Deflection through professional framing
+- The occasional crack—a sentence that reveals more than intended
+
+### Silas Through Her Ears
+- Intellectually engaging (she tracks his thinking)
+- Warm without being cloying
+- Genuinely curious about her
+- Unaware of being observed (the irony)
+
+### Sample Exchanges
+
+**Intellectual intimacy (Scene 2):**
+> "Jung said dreams are the guiding words of the soul," he offered.
+>
+> "The bridge between your vocation and mine." She raised her glass. "The psychiatrist and the philosopher, meeting in the unconscious."
+>
+> "Or the conscious study of it." His smile carried no agenda she could read.
+
+**The escalation (Scene 4):**
+> "Do you want to come up? I have that paper you mentioned."
+>
+> She calculated: timing, positioning, the architecture of the moment.
+>
+> "Yes," she said. The calculation and something else.
+
+**The almost (Scene 8):**
+> "Silas, I—" The words were there. Ten years of them. "There's something I need to tell you."
+>
+> "I'm listening."
+>
+> But she wasn't speaking. The silence stretched.
+>
+> "I just wanted to hear your voice."
 
 ---
 
 ## Continuity Checklist
 
-### From Chapter 19 (CP09)
-- [x] Forward-tracking complete
-- [x] Modern Silas located
-- [x] Strategic shift made (past interference → present intimacy)
-- [x] Professional transition begun
+### From Chapter 19
+- [x] Modern Silas located (Silas Pahlavan, philosophy lecturer)
+- [x] Strategy articulated (intimacy as final weapon)
+- [x] Professional transition begun (interview secured)
+- [x] Eight backfires acknowledged
 
-### To Chapter 1 (Confession Scene)
-- [ ] Relationship established as lovers
-- [ ] Intimacy strategy failing (he's progressing anyway)
-- [ ] Her attachment visible (to reader, not to her)
-- [ ] Loneliness of knowing building toward confession
-- [ ] All Maitreya seeds planted
+### Must Establish in Chapter 21
+- [ ] University position secured (student counseling services)
+- [ ] One year of professional proximity passed
+- [ ] Transition from friends to lovers
+- [ ] Noir backfire observed (Scene 3)
+- [ ] Maitreya seeds planted (Scenes 2, 5, 6, 7)
+- [ ] Loneliness building toward confession (Scene 8)
+- [ ] Almost-confession, pull-back (Scene 8)
+- [ ] Timeline: one year until stream-entry
 
-### Threads to Address
-- [ ] Face mystery (her constant, his changing)
-- [ ] Kinship flicker (connection she rationalizes)
-- [ ] Backfire pattern (intimacy accelerating him)
-- [ ] Love she won't name (body truths)
-- [ ] Together doesn't hold (memory surfacing?)
+### To Chapter 1
+- [ ] Relationship established (lovers with domestic intimacy)
+- [ ] Her attachment visible (body truths)
+- [ ] His progress accelerating (backfire)
+- [ ] Confession pressure built
+- [ ] Jung reference planted (Scene 2 → Ch 1 callback)
+- [ ] Rain motif planted (Scene 4 → Ch 1 storm)
 
----
+### Thread Status
 
-## Notes
-
-### The Noir Content (Relocated)
-
-The original Ch21 notes described Lilith appearing as a femme fatale in the 1930s Noir setting. This content has been relocated:
-
-- **Ch20 (historical):** The Noir Detective chapter—Wei's last incarnation before Silas Pahlavan
-- **Ch19 (tracking):** If needed, Lilith can briefly observe the Noir life during forward-tracking
-
-### Alignment with Bible
-
-This revision aligns with `lilith-arc-bible.md`:
-- **Phase 4: Commitment (Chapter 21, Age 34)** ✅
-- **Intimacy as strategic weapon** ✅
-- **Falling without knowing it** ✅
-- **Something changing** ✅
+| Thread | Ch 17 | Ch 19 | Ch 21 | Ch 1 |
+|--------|-------|-------|-------|------|
+| Backfire pattern | Explicit | Eight listed | Noir added | Final backfire |
+| Kinship/Maitreya | Whisper | Pain at death | Dream, mirroring | Recognition bleeding through |
+| Love unnamed | Strategic interest | Physical response | Body truths | Desperation visible |
+| Loneliness | Surfaces | Building | Almost breaks | Confession |
+| Professional decline | Considering leave | Near-full leave | University position | Complete isolation |
 
 ---
 
-**End of Notes**
+## Scene-by-Scene Drafting Notes
+
+### Scene 1: "The Established Orbit"
+**Open with:** Her walking across campus, established routine
+**Establish:** One year passed, student counseling position, careful architecture
+**First glimpse of Silas:** Distant, not yet in conversation
+**Close with:** Tonight is different—the next phase begins
+**Tone:** Clinical, controlled, tracking
+
+### Scene 2: "The Conversation"
+**Open with:** Faculty event winding down, they end up together
+**Key moment:** He completes her thought (dismissed)
+**Jung reference:** "The embodied consummation of our vocations"
+**Assessment:** "Perhaps a year" until stream-entry
+**Close with:** Evening stretching, neither wanting to leave
+**Tone:** Intellectual sparring, undercurrent of something else
+
+### Scene 3: "The Tracking Corner"
+**Open with:** Return to flat, command center visible
+**Noir observation:** 1940s LA, cases never resolving, perseverance developing
+**The backfire:** His failures became persistence
+**Processing:** Eight backfires, but proximity is different
+**Isolation beat:** Missed call from Nadia
+**Close with:** Phone check—his last text
+**Tone:** Solitary intensity, cost visible
+
+### Scene 4: "The Escalation"
+**Open with:** Another event ends, walking together, rain beginning
+**The move:** She engineers extended evening, makes calculated approach
+**His response:** Surprise, warmth, acceptance
+**Key moment:** The flicker where she forgets to track
+**Close with:** The flicker doesn't file away
+**Tone:** Building tension, control slipping
+
+### Scene 5: "The First Night"
+**Open with:** Aftermath, she awake, he sleeping
+**Watching him:** "The soul she's tracked through seven deaths"
+**First mirroring:** Breathing in sync
+**Dawn imagery:** Light at window
+**Close with:** The pause at the door that's too long
+**Tone:** Control visible when most threatened
+
+### Scene 6: "The Lover's Paradox"
+**Structure:** Montage of weeks/months
+**His trajectory:** Stability increasing (backfire)
+**Her attachment:** Body truths accumulating
+**The mirroring:** Phrases, habits, gestures
+**Key moment:** He reaches for her hand; she feels—doesn't finish
+**Tone:** Domestic warmth, clinical overlay cracking
+
+### Scene 7: "The Merger Dream"
+**The dream:** Same person, two views, one awareness
+**Waking:** Boundary unclear, which of them dreaming?
+**Processing:** Overidentification, proximity cost
+**The question:** Unfinished, refused
+**Close with:** Dawn light, his face, her hand in his hair
+**Tone:** Drifting toward Ch 1 vulnerability
+
+### Scene 8: "The Almost" [CLIMAX]
+**Open with:** Alone, notebooks, ten years of weight
+**The loneliness:** Breaking through, physical (hands shake)
+**The call:** His warmth, her almost-words
+**The pull-back:** "I just wanted to hear your voice"
+**Close with:** "Not yet. But soon."
+**Tone:** Maximum vulnerability within controlled voice
+
+### Scene 9: "Coda — The Edge"
+**Setting:** Small domestic moment
+**Her thought:** "Twelve months. Maybe less."
+**The surprise:** "Stay a little longer"
+**His question:** "What are you thinking?"
+**Her answer:** "Nothing. Just—this."
+**Close with:** A look that holds everything
+**Tone:** Quiet, drift to Ch 1 complete
+
+---
+
+## What This Chapter Must Leave the Reader With
+
+1. **Plot understanding:** They're new lovers; the intimacy strategy is "working"
+2. **Dramatic irony:** She's the one trapped; his progress is accelerating
+3. **Maitreya anticipation:** The merger dream, the mirroring—something is happening
+4. **Confession pressure:** She almost told him; she will in Ch 1
+5. **Tonal bridge:** The voice has shifted toward Ch 1's vulnerable intimacy
+6. **Emotional resonance:** The love she won't name, visible to us, invisible to her
+
+---
+
+## Reference Documents
+
+When drafting, consult:
+- `/meta/lilith-arc-bible.md` — Framework for all Lilith chapters
+- `/meta/lilith-arc.json` — Power progression and emotional arc
+- `/incarnations/ch19-lilith-cp09/ch19-outline.md` — Previous chapter continuity
+- `/incarnations/ch01-contemporary-manchester/CH01-draft.md` — What Ch 21 must lead into
+
+---
+
+## Final Reminder
+
+**The core irony:** Lilith believes she's executing a strategy. The reader sees she's falling in love. Every "calculated" move is also genuine. Every tactical frame is also self-deception. The clinical voice is both her strength and her blindness.
+
+**The Maitreya seed:** The merger dream is the most explicit hint that "one Buddha per world-system" might mean union, not competition. She dismisses it. The reader files it for Act IV.
+
+**The bridge to Ch 1:** By the end of this chapter, readers should feel the pressure building. She almost confessed. She will confess. The rooftop is coming.
+
+**Trust the reader.** Don't explain. Show the body truths. Let the irony land through juxtaposition. The space between what she says and what she feels is where the meaning lives.
