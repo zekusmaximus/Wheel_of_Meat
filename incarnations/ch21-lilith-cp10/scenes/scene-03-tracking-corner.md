@@ -98,7 +98,7 @@ Her thumb hovered over the reply field. Something in her wanted to respond immed
 
 Rapport necessary for the strategy, she reminded herself. Nothing more.
 
-The second message was from Nadia. Sent three days ago, she realised now—she hadn't checked her personal inbox in days.
+The second message was from Nadia. Sent three days ago—she hadn't checked her personal inbox in days.
 
 Lily, Mum's birthday is next month. Please come. She misses you. I miss you. Whatever you're working on, it can wait for one weekend. Please.
 
