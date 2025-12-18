@@ -8,7 +8,7 @@ The campus spread before her in the early light, that particular quality of Engl
 
 She had engineered all of this.
 
-The position with student counseling services had been the first move. A clinical role that required no research output, no publications, no long-term commitment—just competence and availability, both of which she could manufacture as easily as breathing. The interview panel had been impressed by her NHS credentials, her meditation research, her theoretical work on contemplative traditions. They hadn't questioned why a psychiatrist with her publications was taking what amounted to a lateral move. Universities rarely questioned gift horses.
+The position with student counseling services had been the first move. A clinical role that required no research output, no publications, no long-term commitment—just competence and availability, both of which she could manufacture as easily as breathing. The interview panel had been impressed by her NHS credentials, her contemplative research, her theoretical work on Eastern traditions. They hadn't questioned why a psychiatrist with her publications was taking what amounted to a lateral move. Universities rarely questioned gift horses.
 
 The rest had followed with the precision of a chess game played against an opponent who didn't know they were at the board. Faculty mixers where she positioned herself near the philosophy department cluster. Committee assignments that overlapped with his. A shared interest in consciousness studies that she cultivated through strategic questions at departmental seminars. The slow accumulation of proximity that looked, from the outside, like nothing more than professional collegiality.
 
@@ -38,7 +38,7 @@ The faculty mixer was scheduled for six o'clock, the kind of dreary departmental
 
 But tonight she would move.
 
-The decision had crystallized over the past week, though perhaps it had been forming for longer than that. The tracking sessions had shown her his progress—the meditation deepening, the clarity increasing, the first three fetters weakening with each month that passed. He was close. Closer than she'd calculated when she'd first found him. Perhaps a year from the threshold, perhaps less.
+The decision had crystallized over the past week, though perhaps it had been forming for longer than that. The tracking sessions had shown her his progress—the sitting practice deepening, the clarity increasing, the first three fetters weakening with each month that passed. He was close. Closer than she'd calculated when she'd first found him. Perhaps a year from the threshold, perhaps less.
 
 She didn't have time for more waiting.
 

@@ -26,7 +26,7 @@ His flat was on the third floor of a Victorian conversion, the kind of building 
 
 The interior contradicted his modesty. Books everywhere—stacked on shelves, piled on surfaces, arranged in careful columns along the walls like the architecture of a mind made visible. Spines in half a dozen languages. Philosophy, psychology, neuroscience, religious studies, the overlap and intersection of disciplines that refused to stay in their categories. Through an archway she could see a small kitchen; through another, what must be the bedroom.
 
-And in the corner of the main room, facing a window that looked out over the street: the meditation space.
+And in the corner of the main room, facing a window that looked out over the street: the sitting space.
 
 A cushion—worn, the colour of it faded from use. A small wooden shelf that might generously be called an altar, holding nothing but a brass incense holder and a single candle, unlit. The floorboards there were slightly lighter than elsewhere, worn smooth by years of regular positioning.
 
@@ -38,7 +38,7 @@ The physical evidence of disciplined inner work.
 
 It was. He poured two glasses—a Rioja that was better than the institutional offerings they'd left behind—and settled into the armchair across from her. The rain had intensified slightly outside, tapping against the windows with what might have been urgency or might have been mere persistence.
 
-"I like your meditation corner," she said.
+"I like your sitting corner," she said.
 
 "It's not much of a corner." But his eyes went to it as he spoke, and something in his posture softened. "I've had variations of it for years. Different flats, different cities. The cushion is the only constant."
 
@@ -72,7 +72,7 @@ Silas's attention sharpened, but his posture remained open, patient. The same qu
 
 "And did you find them?"
 
-She looked at him across the space between them—the books, the rain, the meditation corner with its evidence of years of quiet work. The face that had been different in every lifetime but somehow remained the same. The soul she had tracked through eight deaths and was now sitting across from, drinking wine, having a conversation that felt increasingly like something other than strategy.
+She looked at him across the space between them—the books, the rain, the sitting corner with its evidence of years of quiet work. The face that had been different in every lifetime but somehow remained the same. The soul she had tracked through eight deaths and was now sitting across from, drinking wine, having a conversation that felt increasingly like something other than strategy.
 
 "Yes," she said. "I think I did."
 

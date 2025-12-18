@@ -60,7 +60,7 @@ He smiled. The lines around his eyes deepened in a way she had catalogued across
 
 "I have excellent timing."
 
-"You have excellent everything, from what I can tell." He said it without flirtation, as simple assessment. "Your meditation research, the work on contemplative traditions, the way you handled the Wilson crisis last month. You're good at what you do."
+"You have excellent everything, from what I can tell." He said it without flirtation, as simple assessment. "Your contemplative research, the work on Eastern traditions, the way you handled the Wilson crisis last month. You're good at what you do."
 
 The Wilson crisis—a second-year who had experienced a dissociative episode during finals week. Lilith had spent four hours with him, grounding him through techniques she could have performed in her sleep, techniques she had developed across lifetimes of similar interventions. The faculty had been impressed. Silas had been watching.
 
@@ -102,7 +102,7 @@ She should feel alarm at this. Should feel the urgency of a decade compressing i
 
 "What?"
 
-"It's strange. I was going to say something, and then I realized you were about to say it too."
+"It's strange. I was going to say something, and then I knew you were about to say it too."
 
 Her breath caught, barely perceptible. "What were we going to say?"
 
