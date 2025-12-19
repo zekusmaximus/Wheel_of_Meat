@@ -88,8 +88,9 @@
         "name": "Lilith Azami",
         "occupation": "Psychiatrist",
         "age": 35,
-        "powers": "Full presence in present timeline; decade of tracking complete",
-        "relationship": "His lover, positioned for final intervention"
+        "powers": "Full presence in present timeline; 8-10 weeks of tracking complete (6-12 months ago)",
+        "relationship": "His lover, positioned for final intervention",
+        "note": "Composure is performance over tracking fever; intimacy strategy is final fetter made flesh"
       },
       "function": "Introduction; first glimpse of past-life fracture; establish core relationship and conflict",
       "word_target": 8000,
@@ -178,7 +179,8 @@
         "status": "Early soul development"
       },
       "lilith": {
-        "powers": "Observation only (from future); accidental influence possible",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "note": "Lilith has full power from the start; what escalates is her attachment, not her capability",
         "intervention": "None\u2014this is when she first becomes aware of his pattern",
         "objective": null
       },
@@ -276,7 +278,7 @@
       },
       "pov": "Lilith (integrated with Ka's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Days 1-3",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -353,7 +355,8 @@
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Remote influence\u2014can affect intermediaries",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Remote influence\u2014can affect intermediaries",
         "intervention": "Influences Devaka's betrayal to harden Chandra against trust",
         "objective": "Sabotage development of true generosity by corrupting trusted relationships"
       },
@@ -449,7 +452,7 @@
       },
       "pov": "Lilith (integrated with Chandra's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 1-2",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -540,7 +543,8 @@
       "lilith": {
         "age": 27,
         "identity": "Unknown presence in Athens",
-        "powers": "Dream influence\u2014can plant suggestions and emotional residue during sleep",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Dream influence\u2014can plant suggestions and emotional residue during sleep",
         "intervention_1": {
           "timing": "First Episode",
           "method": "Accelerates rumor that plague came from Persian ships",
@@ -814,7 +818,7 @@
       },
       "pov": "Lilith (integrated with Philon's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 2-3",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -912,9 +916,9 @@
         "binding_pattern": "Inherited martyrdom impulse transforms into rigid demand for moral and factual purity"
       },
       "lilith": {
-        "age": 28,
+        "age": 34,
         "identity": "Marcia Faenia\u2014quiet young woman, dark-haired, observational stillness",
-        "powers": "Circumstance manipulation\u2014can subtly manipulate circumstances and minor characters",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
         "cameo": {
           "scene": 4,
           "method": "Silent observation at Stoic debate; establishes physical characteristics",
@@ -1221,7 +1225,7 @@
       },
       "pov": "Lilith (integrated with Verinus's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 3-4",
         "cosmic_capability": "Full temporal perception, physical manifestation (as Marcia Faenia), circumstance manipulation\u2014constrained by karmic law, not power",
@@ -1315,7 +1319,8 @@
       "lilith": {
         "incarnation": "Theodora",
         "role": "Church dignitary accompanying Archdeacon Theophanes",
-        "powers": "Growing control\u2014stronger influence on events and people",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Physical manifestation as Theodora\u2014stronger influence on events and people",
         "intervention": "Feeds his pride through excessive praise via Theophanes; does not speak directly to Macarius",
         "objective": "Make him attached to being unattached; corrupt asceticism into vanity"
       },
@@ -1432,7 +1437,7 @@
       },
       "pov": "Lilith (integrated with Macarius's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 4-5",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -1517,7 +1522,8 @@
       },
       "lilith": {
         "identity": "The Attendant\u2014a pushed servant woman (Lilith's first vessel pushing attempt)",
-        "powers": "Vessel Pushing (Low Agency)\u2014operates through subconscious compulsion from afar; environmental stagecraft; rare moments of full lucidity",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Vessel Pushing (Low Agency)\u2014operates through subconscious compulsion from afar; environmental stagecraft; rare moments of full lucidity",
         "intervention": "Pushes the Attendant to stage-manage a 'perfect romance' around Lady Hotaru (an aging, ill noblewoman puppeteered as 'timeless beauty'); creates a stasis field where nothing decays",
         "objective": "To freeze time and bind Kaoru to the realm of desire by removing the impermanence that makes beauty meaningful"
       },
@@ -1657,7 +1663,7 @@
       },
       "pov": "Lilith (integrated with Kaoru's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 5-6",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -1744,7 +1750,8 @@
       },
       "lilith": {
         "identity": "Sor Catalina\u2014a beata (lay holy woman) known for visions and counsel",
-        "powers": "Sustained presence\u2014vessel acts autonomously; Lilith's involvement revealed in Ch 15",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Sustained presence\u2014vessel acts autonomously; Lilith's involvement revealed in Ch 15",
         "intervention": "Through sustained presence in Sor Catalina, creates conditions where Tom\u00e1s's denunciation feels necessary",
         "objective": "Make betrayal personal and specific to poison Diego with hatred toward a named face",
         "constraint": "Cannot speak directly to Diego; acts from vessel's own psychology"
@@ -1878,7 +1885,7 @@
       },
       "pov": "Lilith (integrated with Diego's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 6-7",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -1966,7 +1973,8 @@
       "lilith": {
         "identity": "Marguerite Viret\u2014printer's widow, late thirties",
         "appearance": "Dark hair with widow's peak, single darker strand, eyes that see through",
-        "powers": "Extended interaction\u2014can engage in sustained conversations",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Extended interaction\u2014can engage in sustained conversations",
         "intervention": "Appears as philosophical companion; pushes doubt toward nihilist endpoint",
         "objective": "Feed doubt until he stops believing action is possible; use philosophical coherence to justify spiritual paralysis",
         "constraint": "Acts from vessel's own psychology; Jean feels she understands him (dangerous)"
@@ -2143,7 +2151,7 @@
       },
       "pov": "Lilith (integrated with Renaissance avatar's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 7-8",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -2229,7 +2237,8 @@
       "lilith": {
         "primary_objective": "Tracking this incarnation forward to locate modern Silas (reconnaissance mission)",
         "secondary_objective": "Opportunistic intervention to test breaking determination while observing",
-        "powers": "Near-full manifestation\u2014circumstantial manipulation over extended time",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "Circumstantial manipulation\u2014circumstantial manipulation over extended time",
         "intervention": "Adjusts artillery timing, influences unit assignments, spreads disease vectors, causes intelligence failures\u2014ensures everyone Wei saves dies anyway",
         "manifestation": "None\u2014no physical appearance; saves that for modern Manchester",
         "objective": "Make futility visible; if everyone he saves dies, he'll stop helping and determination will break"
@@ -2389,7 +2398,7 @@
       },
       "pov": "Lilith (integrated with Taiping avatar's experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 8-9",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -2470,7 +2479,8 @@
         "status": "All ten perfections completing; final historical life before stream-entry"
       },
       "lilith": {
-        "powers": "Observer with circumstantial manipulation\u2014NOT full manifestation",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "intervention_method": "MINIMAL PRESENCE—Observer with circumstantial manipulation\u2014NOT full manifestation",
         "intervention": "MINIMAL PRESENCE: 3 brief appearances as observer only. (1) Background in bar\u2014he doesn't notice, (2) Woman on street\u2014fleeting familiarity dismissed, (3) Passerby when bomb explodes\u2014'rushing to avoid' (matches Ch1 flashback). She accelerates failures from distance; Combination plants the car bomb, not her.",
         "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation before committing to modern intimacy strategy"
       },
@@ -2564,7 +2574,7 @@
       },
       "pov": "Lilith (integrated with noir detective experience)",
       "lilith": {
-        "age": 28,
+        "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 9-10",
         "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
@@ -2589,9 +2599,9 @@
         "lilith_mistake": "Obsessive pursuit of him consuming everything else, persistence as compulsion"
       },
       "intervention": {
-        "method": "Full manifestation as femme fatale\u2014face to face in noir detective story",
-        "objective": "Final attempt to corrupt perseverance through obsession",
-        "backfire": "Femme fatale becomes the case he must solve; her opposition sharpens his determination; face-to-face manifestation with all power deployed\u2014still backfires",
+        "method": "MINIMAL PRESENCE, NOT FEMME FATALE. 3 brief appearances as distant observer only: (1) background in bar—he doesn't notice, (2) woman on street—fleeting familiarity dismissed, (3) passerby when bomb explodes—'rushing to avoid'. Accelerates failures from distance; Combination plants the car bomb, not her.",
+        "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation",
+        "backfire": "CATASTROPHIC: Accelerating failures teaches outcome-independent perseverance faster. He dies with ALL TEN PERFECTIONS COMPLETE. Next life is stream-entry. Modern intimacy strategy becomes desperate necessity.",
         "the_pattern_complete": "Ten interventions, ten backfires; cannot stop him from historical interventions"
       },
       "integrated_prose_features": {
@@ -2607,7 +2617,7 @@
       "pivotal_moments": [
         {
           "dominant_timeline": "Historical",
-          "moment": "Confrontation as femme fatale\u2014full power deployed, face to face\u2014still backfires",
+          "moment": "Jack Malone's death by car bomb—all ten perfections complete; final historical intervention fails catastrophically",
           "technique": "Historical foreground, Manchester recedes"
         },
         {
@@ -2635,7 +2645,7 @@
         "The pull toward him that has grown far beyond strategy\u2014now driving the pivot to intimacy"
       ],
       "spiritual_advancement_shown_through": [
-        "Full manifestation capability at peak\u2014femme fatale, face to face",
+        "Full cosmic capability—minimal presence, distant observation only",
         "Ability to hold 1930s noir and Manchester present simultaneously",
         "Understanding detective's obsessive perseverance while practicing obsessive tracking"
       ],
@@ -2667,7 +2677,7 @@
         "event": "Final intervention fails; realization of her error; turn toward unity",
         "powers": "Full presence\u2014all powers at peak in human realm"
       },
-      "function": "First dramatic climax; Silas breaks through despite Lilith's decade of effort; her desperation becomes visible to him, helping him see attachment clearly",
+      "function": "First dramatic climax; Silas breaks through despite Lilith's 8-10 weeks of tracking and 6-12 months of intimacy strategy; her desperation becomes visible to him, helping him see attachment clearly",
       "fetter_focus": [
         "self_illusion",
         "doubt",
