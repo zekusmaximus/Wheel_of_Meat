@@ -76,11 +76,11 @@ Before beginning any task, identify which mode applies. Do not mix modes within 
 
 *For Lilith Chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21):*
 
-- [ ] `contemporary-period-rules.md` has been read
+- [ ] `lilith-style-rules.md` has been read (integrated prose technique)
 - [ ] `lilith-chapter-manifest.json` entry is complete for this chapter
-- [ ] Corresponding historical chapter is drafted (she must observe/track it)
-- [ ] Demonstration scene is planned (fetter she demonstrates, patient parallel)
-- [ ] Power level matches chapter progression
+- [ ] Corresponding historical chapter is drafted (she tracks it via temporal integration)
+- [ ] Fetter intensification beat is planned for this chapter position
+- [ ] Period-specific integration flavor reviewed (how this historical period bleeds through)
 - [ ] Previous Lilith chapter has been read (if not first)
 
 *For Contemporary Dual-POV Chapters (1, 22):*
@@ -288,33 +288,39 @@ CONTINUITY CHECK
 
 ### Pass 6: Lilith Chapter Verification (Lilith Chapters Only)
 
-**Check:** Lilith chapter-specific requirements met
+**Check:** Integrated prose technique and arc requirements met
 
 **Procedure:**
 
-1. Verify demonstration scene present (she shows mastery of relevant fetter)
-1. Verify patient/colleague parallel present (they describe her situation)
-1. Verify physical tell undercuts her self-assessment
-1. Verify power level matches `lilith-chapter-manifest.json`
-1. Verify attentional/karmic cost shown (time lost, distraction, deepening attachment—NOT physical symptoms)
-1. Verify professional life status matches progression
-1. Verify notebook/documentation motif present
-1. Count Maitreya foreshadowing moments (should be 0-2, subtle)
-1. Verify tracking content connects to corresponding historical chapter
+1. Verify opens with dual sensory anchor (both timelines in first paragraph)
+1. Verify no transition markers between timelines ("Meanwhile," "Back in Manchester," etc.)
+1. Verify sensory bridges connect frames (temperature, sound, texture, etc.)
+1. Verify at least three conjoined actions (single gestures operating in both frames)
+1. Verify Manchester never absent for more than one paragraph
+1. Verify parallel mistake visible (her error mirrors avatar's error)
+1. Verify she doesn't see the parallel (prose shows it; she doesn't state it)
+1. Verify fetter intensification beat present (matches chapter position per `lilith-chapter-manifest.json`)
+1. Verify no physical deterioration (she is a near-Buddha; crisis is spiritual, not somatic)
+1. Count Maitreya foreshadowing moments (0-2, appropriately subtle)
+1. Verify period-specific integration flavor matches historical chapter (e.g., Ka = primal/sensory; Chandra = bureaucratic)
+1. Scan for forbidden patterns: no Buddhist terminology, no abstract emotion words, no power progression language, no patient scenes
 
 **Output format:**
 
 ```
 LILITH CHAPTER VERIFICATION
-- [ ] Demonstration scene present
-- [ ] Patient/colleague parallel present
-- [ ] Physical tell undercuts self-assessment
-- [ ] Power level matches chapter: [level]
-- [ ] Attentional/karmic cost shown (not physical)
-- [ ] Professional life status: [matches / needs adjustment]
-- [ ] Notebook motif present
+- [ ] Opens with dual sensory anchor
+- [ ] No transition markers between timelines
+- [ ] Sensory bridges present: [list types used]
+- [ ] Conjoined actions: [count] (minimum 3)
+- [ ] Manchester presence maintained throughout
+- [ ] Parallel mistake visible to reader, invisible to her
+- [ ] Fetter intensification beat: [description]
+- [ ] No physical deterioration
 - [ ] Maitreya foreshadowing: [count] moments
-- [ ] Tracking connects to Ch [X]: [verified]
+- [ ] Period integration flavor: [matches / needs adjustment]
+- [ ] Forbidden patterns scan: [clean / issues found]
+- [ ] Connects to historical Ch [X]: [verified]
 ```
 
 -----
@@ -325,7 +331,7 @@ LILITH CHAPTER VERIFICATION
 |-------------------|----------------------------------|-------------------------------------------------|-------------------|
 |Contemporary Dual  |1, 22                             |Both POVs; Manchester setting; contemporary voice|1-5                |
 |Historical         |2, 4, 6, 8, 10, 12, 14, 16, 18, 20|Period voice; death bridge; Lilith intervention  |1-5                |
-|Lilith Contemporary|3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Demonstration scene; tracking; contemporary voice|1-6                |
+|Lilith Integrated  |3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Integrated prose; fetter intensification; dual-timeline fusion|1-6                |
 |Cosmic             |23, 24, 25, 26                    |Transcendent voice; merger preparation           |1-5                |
 
 -----
@@ -339,7 +345,8 @@ CLAUDE.md (creative authority)
     ↓
 ├── style-rules.md (voice implementation)
 │   ├── voice-analysis.md (detailed patterns)
-│   └── contemporary-period-rules.md (Manchester chapters)
+│   ├── contemporary-period-rules.md (Ch 1 & 22 only)
+│   └── lilith-style-rules.md (Lilith integrated chapters)
 │
 ├── soul-constants.json (spiritual framework)
 │
@@ -362,7 +369,7 @@ For Historical Chapters:
         └── scenes/
 
 For Lilith Chapters:
-    contemporary-period-rules.md
+    lilith-style-rules.md (integrated prose technique)
     lilith-chapter-manifest.json
     [corresponding historical chapter must be drafted first]
 ```
@@ -385,11 +392,12 @@ CLAUDE.md ✓
 
 ```
 CLAUDE.md ✓
-    └── contemporary-period-rules.md ✓
+    └── lilith-style-rules.md ✓
         └── lilith-chapter-manifest.json entry complete ✓
             └── corresponding historical chapter drafted ✓
-                └── demonstration scene planned ✓
-                    └── READY TO DRAFT
+                └── fetter intensification beat planned ✓
+                    └── period integration flavor reviewed ✓
+                        └── READY TO DRAFT
 ```
 
 -----
@@ -480,6 +488,7 @@ All applicable verification passes completed:
 |Scene/chapter status                  |`scene-manifest.json`                    |
 |Historical chapter Lilith intervention|`lilith-arc.json`                        |
 |Lilith chapter requirements           |`lilith-chapter-manifest.json`           |
-|Manchester voice/setting              |`contemporary-period-rules.md`           |
+|Manchester voice/setting (Ch 1, 22)   |`contemporary-period-rules.md`           |
+|Lilith chapter technique              |`lilith-style-rules.md`                  |
 |“Can I do X?”                         |Check `CLAUDE.md` “Never Improvise” first|
 |“How do I do X?”                      |This file (`agent-protocol.md`)          |

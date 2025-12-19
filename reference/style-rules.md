@@ -112,7 +112,8 @@ The core patterns persist. Surface elements adjust:
 |Ancient/Classical    |4, 6, 8, 10                              |Period-appropriate, not archaic pastiche      |May include aphorisms               |
 |Medieval/Early Modern|12, 14, 16                               |Genre-colored formality                       |Gothic = lush; Adventure = energetic|
 |Modern               |18, 20                                   |Genre-specific (War vs. Noir)                 |War = expansive; Noir = clipped     |
-|Contemporary         |1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 22|Academic, clinical, restrained                |See contemporary-period-rules.md    |
+|Contemporary         |1, 22                                    |Academic, clinical, restrained                |See contemporary-period-rules.md    |
+|Integrated (Lilith)  |3, 5, 7, 9, 11, 13, 15, 17, 19, 21       |Temporal fusion, dual-timeline prose          |See lilith-style-rules.md           |
 |Cosmic               |23, 24, 25, 26                           |Abstract, synesthetic, neologism-possible     |Syntax may break                    |
 
 ### Sentence Structure by Genre
@@ -129,7 +130,8 @@ The core patterns persist. Surface elements adjust:
 |Philosophical Adventure|16                                       |Witty dialogue; action balanced with ideas                              |
 |War Epic               |18                                       |Scale and consequence; violence with weight                             |
 |Noir                   |20                                       |First-person-inflected third; clipped dialogue; atmospheric             |
-|Contemporary           |1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 22|Clinical precision; undermining clause; Manchester rain                 |
+|Contemporary           |1, 22                                    |Clinical precision; undermining clause; Manchester rain                 |
+|Integrated (Lilith)    |3, 5, 7, 9, 11, 13, 15, 17, 19, 21       |Dual-timeline fusion; sensory bridges; see lilith-style-rules.md        |
 |Cosmic/Transcendent    |23-26                                    |Perspectives may merge; “I” becomes unstable                            |
 
 ### What Must Persist Regardless of Genre
@@ -205,31 +207,13 @@ Before marking any historical scene complete, verify:
 - [ ] Meat/body theme present
 - [ ] Scene goal achieved
 - [ ] Emotional arc complete
-- [ ] Lilith intervention matches power level (per lilith-arc.json)
+- [ ] Lilith intervention present (full cosmic capability throughout; see lilith-arc.json)
 
 ### Lilith Chapter Revision Checklist
 
-Before marking any Lilith scene complete, verify:
+**For Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21), see `lilith-style-rules.md`.**
 
-- [ ] Opens with sensory anchor (Manchester setting)
-- [ ] Contains at least one undermining clause
-- [ ] Physical gestures carry meaning
-- [ ] Dialogue shifts register based on power dynamics
-- [ ] Environment reflects emotional/spiritual state
-- [ ] No filter verbs without purpose
-- [ ] No unearned interiority
-- [ ] No Buddhist terminology
-- [ ] No abstract emotion words
-- [ ] Demonstration scene present (she shows mastery of relevant fetter)
-- [ ] Patient/colleague parallel present (they describe her situation)
-- [ ] Physical tell undercuts her self-assessment
-- [ ] Power level matches lilith-chapter-manifest.json
-- [ ] Awareness constraints of tracking shown—demonstrate what she can and cannot perceive or express into the corresponding past life
-- [ ] Professional life status matches progression
-- [ ] Notebook motif present
-- [ ] Maitreya foreshadowing: 0-2 subtle moments only
-- [ ] Tracking connects to corresponding historical chapter
-- [ ] Clarity-collision beat present—at least one moment where her contemporary understanding clashes with the avatar's limited frame (e.g., she sees pride-as-virtue while the avatar experiences righteous anger; her attempted exploitation backfires)
+These chapters use the integrated prose technique—simultaneously holding Manchester and historical periods in each sentence. The comprehensive checklist for integration mechanics, fetter intensification, Maitreya foreshadowing, and forbidden patterns is maintained in that dedicated document.
 
 ### Contemporary Dual Chapter Revision Checklist (Ch 1, 22)
 
