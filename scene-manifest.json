@@ -42,8 +42,9 @@
         20,
         21
       ],
-      "description": "Ten historical past lives alternating with ten contemporary Lilith chapters. Silas develops perfections while Lilith's powers grow and her pursuit intensifies over a decade.",
-      "structure": "Historical → Lilith → Historical → Lilith (alternating)"
+      "description": "Ten historical past lives alternating with ten Lilith chapters using integrated prose technique. Silas develops perfections across 300,000 years while Lilith's final fetter intensifies over 8-10 weeks of feverish tracking. Each Lilith chapter holds Manchester present and historical period simultaneously.",
+      "structure": "Historical → Lilith (integrated) → Historical → Lilith (integrated) — alternating",
+      "timeline_note": "Historical chapters span 300,000 years; Lilith chapters span 8-10 weeks; time jump of 6-12 months between Ch 21 and Ch 1"
     },
     {
       "act": 3,
@@ -256,81 +257,83 @@
       "id": "ch03-lilith-cp01",
       "title": "The Discovery",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "10 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Days 1-3, Discovery period"
+        },
+        "historical": {
+          "period": "Prehistoric",
+          "location": "Jebel Irhoud, Morocco",
+          "year": "300,000 BCE",
+          "avatar": "Ka"
+        },
+        "integration_technique": "Primal, sensory, non-verbal—kettle scream/wind scream, tea warmth/fire warmth, silence/silence"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Ka's experience)",
       "lilith": {
-        "age": 25,
-        "years_tracking": 0,
-        "occupation": "Graduate student in psychiatry",
-        "power_level": "Observation only",
-        "emotional_state": "Curiosity → Fascination → Validation"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Days 1-3",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law—interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "I've found a problem to solve",
+          "emotional_state": "Analytical curiosity, first unnamed stirring",
+          "blind_spot": "Cannot see her own grasping"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 2,
         "avatar": "Ka",
-        "lesson": "Loving-kindness / Cooperation"
+        "lesson": "Loving-kindness (mettā) / Cooperation"
       },
-      "demonstration": {
-        "fetter": "Generosity (dāna)",
-        "scene": "Gives up chair to anxious first-year student; knee will hurt for hours"
+      "parallel_structure": {
+        "ka_mistake": "Hoarding meat, choosing isolation over tribe, calling alone-way 'strength'",
+        "lilith_mistake": "Hoarding capability, choosing solitary tracking over connection, calling isolation 'strategic'",
+        "recognition_moment": "'We are the same'—horrifying and fascinating"
       },
-      "tracking_content": {
-        "discovers": "Ka's pattern—first time perceiving others, not just her own iterations",
-        "observes": "Ka's death (hoarding, cold, desperate hunger to understand giving)",
-        "tracks_forward_to": "Chandra"
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Kettle scream / wind scream",
+          "Tea warmth / fire warmth",
+          "Flat silence / cave silence"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Ka's sensations register in her body",
+        "temporal_markers": "Three hundred thousand years before, embedded naturally",
+        "no_transitions": "Scene doesn't cut between Manchester and Morocco—holds both"
       },
-      "function": "Establish her expanded ability; validate consciousness continuity as universal law; begin decade-long pursuit",
-      "word_target": 3500,
-      "scenes": [
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "Tracking Margaret",
-          "file": "scene-01-tracking-margaret.md",
-          "word_count": 600,
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "The Sharing Scene",
-          "file": "scene-02-sharing-scene.md",
-          "word_count": 550,
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "The Discovery of Ka",
-          "file": "scene-03-discovery-of-ka.md",
-          "word_count": 650,
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "Observing Ka's Death",
-          "file": "scene-04-observing-ka-death.md",
-          "word_count": 750,
-          "status": "draft"
-        },
-        {
-          "section": "V",
-          "title": "Following Thread to Chandra",
-          "file": "scene-05-following-to-chandra.md",
-          "word_count": 700,
-          "status": "draft"
-        },
-        {
-          "section": "VI",
-          "title": "The Decision to Track",
-          "file": "scene-06-decision-to-track.md",
-          "word_count": 900,
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Ka's death—hoarding meat in isolation, desperate hunger to understand giving",
+          "technique": "Historical foreground, Manchester recedes to body-echo"
         }
       ],
-      "status": "drafted"
+      "fetter_beat": {
+        "moment": "Decision to continue tracking despite recognition of shared isolation",
+        "shown_through": "Action/choice, not stated—she drinks cold tea and stays in her tracking corner"
+      },
+      "maitreya_foreshadowing": [
+        "The thought 'We are the same' and its ambivalent affect—horror indistinguishable from fascination"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to access karmic thread and perceive Ka's entire life",
+        "Ability to hold Manchester present and prehistoric past simultaneously",
+        "Perfect understanding of Ka's attachment while blind to her own identical pattern"
+      ],
+      "function": "Discovery of Silas's thread; first integrated experience; recognition of kinship; decision to track",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 4,
@@ -427,68 +430,86 @@
       "id": "ch05-lilith-cp02",
       "title": "The Ledger's Shadow",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "9 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 1-2"
+        },
+        "historical": {
+          "period": "Ancient",
+          "location": "Mauryan Empire, India",
+          "year": "268-232 BCE",
+          "avatar": "Chandra"
+        },
+        "integration_technique": "Bureaucratic, ledgers and rain, political weight—record-keeping bleeding across timelines"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Chandra's experience)",
       "lilith": {
-        "age": 26,
-        "years_tracking": 1,
-        "occupation": "Graduate student / beginning clinical work",
-        "power_level": "Remote influence",
-        "emotional_state": "Methodical confidence"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 1-2",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law—interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "This intervention will work",
+          "emotional_state": "Confident strategy, first backfire witnessed",
+          "escalation": "From observation to deliberate interference"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 4,
         "avatar": "Chandra",
         "lesson": "Generosity (dāna)"
       },
-      "demonstration": {
-        "fetter": "Non-attachment to outcomes",
-        "scene": "TBD—shows releasing attachment to patient improvement"
+      "parallel_structure": {
+        "chandra_mistake": "Incomplete generosity—saving ledgers while people burn, transactional giving",
+        "lilith_mistake": "Strategic withholding, calculated interventions, treating tracking as ledger to balance"
       },
-      "tracking_content": {
-        "observes": "Chandra's incomplete generosity",
-        "intervention": "First deliberate interference—Devaka's betrayal",
-        "tracks_forward_to": "Athens avatar"
+      "intervention": {
+        "method": "Influences Devaka's betrayal to harden Chandra against trust",
+        "objective": "Sabotage development of true generosity by corrupting trusted relationships",
+        "backfire": "Betrayal teaches Chandra that generosity cannot depend on reciprocity—crystallizes the lesson rather than corrupting it"
       },
-      "backfire_awareness": "None—satisfaction at successful manipulation",
-      "function": "First intervention; realizes she can DO things, not just observe",
-      "word_target": 2500,
-      "scenes": [
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Rain on Manchester windows / monsoon rain on Mauryan roads",
+          "Her ledgers / Chandra's ledgers",
+          "Accounting for people / accounting for grain"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Chandra's bureaucratic thinking registers in her analysis",
+        "parallel_structure": "Both keeping meticulous records, both treating people as entries"
+      },
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "Supervision",
-          "file": "scene-01-supervision.md",
-          "word_count": 600,
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "The Ashworth Session",
-          "file": "scene-02-ashworth-session.md",
-          "word_count": 1200,
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "Influencing Devaka",
-          "file": "scene-03-influencing-devaka.md",
-          "word_count": 1400,
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "The Decision to Continue",
-          "file": "scene-04-decision-to-continue.md",
-          "word_count": 900,
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Devaka's betrayal—Chandra realizing ledgers saved while people burned",
+          "technique": "Historical foreground, Manchester recedes to background sensation"
         }
       ],
-      "status": "needs_development"
+      "fetter_beat": {
+        "moment": "Satisfaction at successful manipulation—attachment to being 'the one who shapes outcomes' intensifies",
+        "shown_through": "Her confidence in strategic intervention, blind to the pattern already backfiring"
+      },
+      "maitreya_foreshadowing": [
+        "Brief moment of hesitation before influencing Devaka—suppressed immediately"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to influence events across time without physical manifestation",
+        "Ability to hold both accounting systems simultaneously",
+        "Understanding Chandra's transactional generosity while practicing strategic transactional intervention"
+      ],
+      "function": "First deliberate intervention; first witnessed backfire; attachment to strategic control intensifies",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 6,
@@ -774,199 +795,95 @@
       "id": "ch07-lilith-cp03",
       "title": "The Dream-Walker",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "8 years before Chapter 1",
-        "timespan": "Several weeks to a few months"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 2-3"
+        },
+        "historical": {
+          "period": "Classical Athens",
+          "location": "Athens, Greece",
+          "year": "430 BCE (Plague of Athens)",
+          "avatar": "Philon"
+        },
+        "integration_technique": "Philosophical, dialogue bleeding through, ideas as sensation—Socratic questions in two keys"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Philon's experience)",
       "lilith": {
-        "age": "27-28",
-        "years_tracking": "2-3",
-        "occupation": "Advanced graduate student / early clinical work",
-        "power_level": "Dream influence",
-        "capabilities": [
-          "Can plant suggestions and guidance in dreams",
-          "Works through liminal space between waking and sleeping",
-          "Can shape dream imagery and emotional atmosphere",
-          "Influence is indirect but more personal than remote manipulation"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 2-3",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law—interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
         ],
-        "limitations": [
-          "Suggestions only, not commands",
-          "Dream logic applies—messages distort, become symbolic",
-          "Cannot force choices",
-          "Cannot enter waking consciousness directly"
-        ],
-        "emotional_state": "Methodical confidence; first whisper of curiosity (not concern) about kinship with Silas",
-        "physical_cost": "Understated—fatigue mentioned but no dramatic deterioration"
+        "fetter_state": {
+          "attachment_manifestation": "I see what went wrong; I'll correct",
+          "emotional_state": "Adjustment, certainty intact, refining strategy",
+          "recognition": "First whisper of kinship with Philon—filed with interest, not alarm"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 6,
-        "avatar": "Philon (Athens philosopher)",
+        "avatar": "Philon",
         "avatar_fetter": "Compulsive helping / inability to distinguish compassion from martyrdom",
         "lesson": "Wisdom (paññā)"
       },
-      "family_dynamics": {
-        "scenario": "Mother remarrying to Jeff; sister Nadia also engaged and resents mother 'stealing spotlight'",
-        "mother": "Excited about remarriage, perhaps oblivious to Nadia's feelings",
-        "sister_nadia": "Engaged, feels upstaged, frames Jeff as complicit (he isn't)",
-        "jeff": "Actually a good guy—warm, nervous, loves her mother; not the villain Nadia painted",
-        "lilith_response": "Navigates with genuine equanimity—warm but boundaried, validates feelings without taking sides, sees truth without imposing it",
-        "thematic_function": "Shows her competence in personal life (unlike her patients); demonstrates the balance her caregiver patient cannot achieve"
+      "parallel_structure": {
+        "philon_mistake": "Conflates selflessness with self-destruction, martyrdom compulsion, cannot distinguish service from suicide",
+        "lilith_mistake": "Compulsive tracking, cannot stop even when recognizing kinship, sacrifice of everything to this pursuit"
       },
-      "demonstration": {
-        "fetter": "Sustainable compassion vs. martyrdom (wisdom/discernment)",
-        "patient": {
-          "name": "David",
-          "profile": "Male, late 40s-50s, caring for aging mother Marsha",
-          "condition": "Caregiver guilt—destroying his life, marriage ended, career stalled, identity fused with being 'the good son'",
-          "mothers_name": "Marsha (quiet echo of Marcia Faenia, Lilith's Roman form)"
-        },
-        "clinical_advice": [
-          "Your worth doesn't depend on what you sacrifice",
-          "Sustainable care requires preserving yourself",
-          "Martyrdom isn't love—it's another form of control",
-          "Whether the love requires this particular shape—whether there's a version of being a good son that doesn't require you to disappear"
+      "intervention": {
+        "method_1": "Accelerates xenophobic rumor (plague from Persian ships) to create panic and strain resources",
+        "method_2": "Sends dream to Alexios showing Philon's corpse, whispers that survival is service—Alexios abandons Philon",
+        "objective": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
+        "backfire": "Isolation crystallized rather than corrupted; concentrated karma; question 'Was the one for them—or for me?' became pure seed of insight; Philon's choice entirely his own with no dilution"
+      },
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Manchester silence / Athens plague silence",
+          "Questions she cannot answer / questions Philon asks",
+          "Compulsion to continue / compulsion to heal one more"
         ],
-        "doubled_irony": {
-          "layer_1": "Lilith gives perfect advice she cannot apply to her obsessive tracking project",
-          "layer_2": "But she DOES apply this wisdom to her own family—navigates mother/sister conflict with genuine balance",
-          "deeper_irony": "Her blindspot isn't family or work—it's the tracking itself. She can see David's compulsion clearly, manage her own family deftly, but cannot see that her pursuit of Silas is the same attachment."
-        }
+        "pronoun_flow": "She for Lilith throughout; Philon's philosophical inquiry registers in her thoughts",
+        "parallel_structure": "Both unable to stop, both calling it purpose, both sacrificing for the one-more"
       },
-      "tracking_content": {
-        "reviews": "Philon's death in Athens plague—confirms her interventions (Alexios dream, xenophobic panic)",
-        "intervention_results": {
-          "intervention_1": "Xenophobic rumor acceleration—created chaos, strained Philon's resources",
-          "intervention_2": "Dream to Alexios—caused assistant to abandon Philon, leaving him to face final choice alone"
-        },
-        "expected_outcome": "Bitterness and corruption—man dying alone, abandoned, sacrifice meaningless",
-        "actual_outcome": "Isolation crystallized rather than corrupted; concentrated karma; question ('Was the one for them—or for me?') became pure seed of insight",
-        "the_recognition": {
-          "moment": "Watching Philon die, Lilith recognizes something of herself—same driven quality, same inability to do otherwise",
-          "emotional_register": "Curious, not alarmed—a near-enlightened being doesn't rattle at unexpected data",
-          "the_whisper": "Could Ka, Chandra, Philon be on the same journey she is? Not rivals but fellow travelers?",
-          "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
-        },
-        "tracks_forward_to": {
-          "method": "Scans her own past lives as temporal landmarks (Alexandria physician, Spanish sutler, Guangzhou washerwoman)",
-          "search": "Looking for where threads might coincide—where their patterns might have crossed",
-          "finds": "A city of law and order, marble and bureaucracy, someone obsessed with certainty—an investigator",
-          "subtle_hint": "Sense of proximity; one of her iterations might have been near this one",
-          "foreshadowing": "Her powers are growing; soon she might do more than observe"
-        }
-      },
-      "backfire": {
-        "lilith_intention": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
-        "actual_result": "Concentrated karma—by removing Alexios, ensured Philon's choice was entirely his own; no dilution of karmic weight; death became pure seed of insight rather than diluted tragedy",
-        "mechanism": "Shared sacrifice diffuses weight; solitary sacrifice concentrates it",
-        "thematic_irony": "She weaponized isolation, but isolation is where insight crystallizes"
-      },
-      "backfire_awareness": "First whisper of curiosity rather than concern—notices the kinship, files it, doesn't yet see the pattern of backfires",
-      "thematic_elements": {
-        "near_enlightenment_lived": "Shows what spiritual development looks like in ordinary life—not dramatic, not performed, just competent, present, balanced",
-        "meat_body_thread": "Body and sleep; dream-work—dreams as liminal space, sense-bleed from tracking (plague smell, ash)",
-        "blindspot": "Can navigate family with equanimity, give perfect clinical advice, but cannot see her tracking is the same attachment",
-        "kinship_whisper": "First seed of eventual merger—they might be fellow travelers, not rivals"
-      },
-      "word_target": 5000,
-      "structure": {
-        "form": "5 sections with montage time passage",
-        "total_word_target": "4,800-5,600"
-      },
-      "scenes": [
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "The Ordinary Extraordinary",
-          "file": "scene-01-morning.md",
-          "word_target": "900-1,000",
-          "word_count": 1450,
-          "beats": [
-            "Dawn practice—meditation, stillness, discipline as lived experience",
-            "Phone call from Nadia—mother's remarriage stepping on sister's engagement",
-            "Lilith listens fully, validates without taking sides, offers presence not alliance",
-            "Nadia frustrated Lilith won't join her narrative; call ends with love intact",
-            "Beat of Lilith alone—notes residue, lets it pass; this is equanimity"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "The Good Son",
-          "file": "scene-02-david.md",
-          "word_target": "1,200-1,400",
-          "word_count": 1600,
-          "beats": [
-            "David in therapy room—exhausted, world shrunk to work/Marsha/sleep",
-            "Gradual reveal: marriage ended, promotion refused, friends gone",
-            "Core wound: cannot separate worth from sacrifice",
-            "Lilith's work: questions that open ('Who taught you love looks like this?')",
-            "The pivot: 'Is there a version of being a good son that doesn't require you to disappear?'",
-            "Crack in armor; session ends without resolution but question landed",
-            "Lilith alone—doubled irony (never stated); glances at mother's wedding text, responds easily"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "Between",
-          "file": "scene-03-between.md",
-          "word_target": "700-800",
-          "word_count": 1050,
-          "beats": [
-            "Weeks pass—montage quality",
-            "Clinical work continuing; she's good at her job",
-            "Meeting Jeff—actually a good guy, warm, nervous; Lilith genuinely welcoming",
-            "Contrast: Nadia's narrative vs. reality Lilith observes (doesn't correct, just sees)",
-            "Sister follow-up—Lilith holds same line, maybe moment of humor",
-            "Glance at notebooks, tracking materials—reader knows what's waiting",
-            "Evening falls; she moves toward tracking corner"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "The Death of Philon",
-          "file": "scene-04-tracking.md",
-          "word_target": "1,300-1,500",
-          "word_count": 1700,
-          "function": "CLIMAX",
-          "beats": [
-            "Night, flat dim, practice position—going back to confirm her work",
-            "Reaches Philon's thread; finds him at the end",
-            "The death scene: plague, abandoned clinic, slave woman dead in his arms",
-            "His final attention: not despair but inquiry",
-            "The incomplete insight: 'If I had lived... Was the one for them—or for me?'",
-            "What she expected: bitterness. What she finds: concentrated, crystallized question",
-            "THE RECOGNITION: watching him, she sees herself—same driven quality",
-            "The whisper: could they be on the same journey? Curious, not alarmed",
-            "Files it; returns to analysis; whisper doesn't fully fade"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "V",
-          "title": "The Road to Rome",
-          "file": "scene-05-rome.md",
-          "word_target": "700-900",
-          "word_count": 950,
-          "beats": [
-            "Scanning her own lives as temporal landmarks—Alexandria, Spain, Guangzhou",
-            "Each a waypoint—and a question: were you there too?",
-            "Curiosity from Philon's death lingers; shapes rhyming",
-            "Finds next incarnation: city of law, obsessed with certainty, an investigator",
-            "Doesn't name it Rome yet—senses shape, not specifics",
-            "Subtle hint: sense of proximity to one of her own iterations",
-            "Growing powers—soon she might do more than observe",
-            "Returns to stillness; curiosity remains, not urgent, not troubling",
-            "Final image: two threads running parallel, closer than she knows"
-          ],
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Philon's death—slave woman dead in his arms, his final question crystallizing",
+          "technique": "Historical foreground, Manchester recedes to background awareness"
         }
       ],
-      "status": "draft"
+      "fetter_beat": {
+        "moment": "Watching backfire, recognizing strategy needs adjustment—attachment to 'correcting' intensifies",
+        "shown_through": "Immediate analysis of what went wrong, certainty she'll adjust next time"
+      },
+      "recognition": {
+        "moment": "Watching Philon die, recognizes something of herself—same driven quality, same inability to do otherwise",
+        "emotional_register": "Curious, not alarmed—a near-enlightened being doesn't rattle at unexpected data",
+        "the_whisper": "Could Ka, Chandra, Philon be on the same journey she is? Not rivals but fellow travelers?",
+        "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
+      },
+      "maitreya_foreshadowing": [
+        "The whisper: 'We are the same' extending from Ka to Philon",
+        "Curiosity about kinship, not rivalry—first seed of merger possibility"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to influence dreams across time (sent dream to Alexios)",
+        "Ability to hold Athens plague and Manchester present simultaneously",
+        "Perfect understanding of Philon's martyrdom compulsion while blind to her own tracking compulsion"
+      ],
+      "function": "Strategy adjustment after witnessing backfire; recognition of kinship with Philon; certainty that refinement will succeed; attachment intensifies through 'correction'",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 8,
