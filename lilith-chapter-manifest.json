@@ -1,0 +1,982 @@
+{
+  "manifest_version": "2.0",
+  "created": "December 2025",
+  "purpose": "Single source of truth for all Lilith chapter structural requirements under the new integrated prose architecture",
+
+  "architecture": {
+    "chapter_type": "lilith_contemporary",
+    "total_chapters": 10,
+    "chapter_numbers": [3, 5, 7, 9, 11, 13, 15, 17, 19, 21],
+    "prose_technique": "integrated",
+    "description": "All Lilith chapters hold Manchester present and historical period simultaneously using integrated prose. No alternating scenes, no scene breaks between timelines.",
+
+    "power_model": {
+      "type": "constant",
+      "description": "Full cosmic power from Chapter 3 onwards. She is a near-Buddha who has broken nine of ten fetters.",
+      "capabilities": [
+        "Full temporal perception (can access any point on Silas's karmic thread)",
+        "Physical manifestation in historical periods (can inhabit vessels, take form)",
+        "Circumstance manipulation (can influence events, people, environments)",
+        "Dream influence, environmental manipulation, direct intervention"
+      ],
+      "constraints": [
+        "Cannot override karmic law—interventions backfire structurally",
+        "Cannot force Silas's choices or negate his accumulated merit",
+        "Cannot change past events—can only manifest within them and influence",
+        "Interventions have karmic consequences for herself (attachment intensifies)"
+      ],
+      "what_drives_arc": "Not power acquisition, but intensification of her final fetter—attachment to being 'the one who achieves Buddhahood'"
+    },
+
+    "arc_type": "fetter_intensification",
+    "arc_description": "Her attachment sharpens chapter by chapter. She's not falling apart—she's crystallizing. The attachment becomes harder, brighter, more absolute. A master of immense capability making increasingly desperate moves because she cannot see the one thing she needs to see.",
+
+    "word_targets": {
+      "minimum": 2500,
+      "maximum": 3500,
+      "typical": 3000
+    },
+
+    "what_is_removed": [
+      "Patient sessions (Gerald, David, etc.)",
+      "Professional subplot (career erosion, colleague concerns)",
+      "Notebook/documentation motif",
+      "Power level progression markers",
+      "Extended Manchester-only scenes",
+      "Clinical demonstration of fetter mastery through counseling",
+      "Power tiers (Grainy Awareness → Scene-Level → Near-Continuous)",
+      "Decade timeline (now compressed to 8-10 weeks)"
+    ],
+
+    "what_is_added": [
+      "Integrated prose technique throughout (100% integration)",
+      "Fetter intensification beats (attachment sharpening, not power growing)",
+      "Parallel structure (her mistake mirrors avatar's mistake at different scale)",
+      "Enhanced Maitreya foreshadowing",
+      "The pull toward him that exceeds strategy",
+      "Sensory bridges connecting timelines",
+      "Dominant timeline moments (1-2 per chapter)"
+    ]
+  },
+
+  "timeline": {
+    "tracking_period": {
+      "duration": "8-10 weeks",
+      "description": "Compressed fever of discovery, intervention, failure, escalation. Not a decade—a manic pursuit."
+    },
+    "time_jump": {
+      "placement": "Between Chapter 21 and Chapter 1",
+      "duration": "6-12 months",
+      "what_happens_offpage": [
+        "Lilith locates Silas in present-day Manchester",
+        "Engineers their meeting (perhaps at his Nagarjuna lecture)",
+        "Develops intimate relationship",
+        "Rebuilds composure over tracking fever",
+        "Relationship becomes both tactic and (complicating) genuine feeling"
+      ]
+    },
+    "chapter_1_recontextualization": "First read: established lovers with apparent history. After Act II: her composure is performance over desperation. The clinical detachment masks obsession that burned through her weeks ago."
+  },
+
+  "technique": {
+    "integrated_prose": {
+      "description": "Lilith's chapters do not alternate between Manchester and historical periods. They hold both simultaneously in each sentence, paragraph, scene.",
+      "why_it_works": "A near-Buddha's consciousness operates this way. She doesn't experience time linearly or location as fixed. The prose isn't a gimmick—it's accurate rendering of her perception.",
+
+      "mechanics": {
+        "sensory_bridges": "Physical sensations connect timelines without transition markers (rain/snow, warmth/fire, silence/silence)",
+        "pronoun_flow": "'She' for Lilith throughout, but perspective bleeds. Her thoughts comment on avatar's actions; avatar's sensations register in her body.",
+        "parallel_structure": "Both characters making the same mistake at different scales—the devastating irony that she sees his flaw perfectly but cannot see her own identical pattern.",
+        "no_transitions": "Scene doesn't cut between Manchester and historical period—it holds both. The superimposition IS the POV."
+      },
+
+      "dominant_timeline_moments": {
+        "description": "At pivotal beats (1-2 per chapter), one timeline can take foreground while the other recedes to background sensation, body-echo, peripheral awareness.",
+        "historical_dominant": "Death scenes, crucial interventions, the backfire moment",
+        "manchester_dominant": "Her decision points, key realizations, the pivot (Ch 21)"
+      }
+    },
+
+    "parallel_structure_requirement": {
+      "description": "Her mistake must mirror the avatar's mistake at different scale in every chapter.",
+      "examples": [
+        "Ka hoarding meat / Lilith hoarding capability",
+        "Ka ignoring tribe's fires / Lilith ignoring colleagues' messages",
+        "Ka calling isolation 'strength' / Lilith calling isolation 'strategic necessity'"
+      ],
+      "function": "Creates the devastating irony: she sees his flaw perfectly, cannot see her own identical pattern"
+    },
+
+    "integration_flavors_by_period": {
+      "prehistoric_ka": {
+        "historical_chapter": 2,
+        "lilith_chapter": 3,
+        "flavor": "Primal, sensory, non-verbal, body-knowledge",
+        "sensory_bridges": ["Kettle scream / wind scream", "Tea warmth / fire warmth", "Flat silence / cave silence"]
+      },
+      "mauryan_chandra": {
+        "historical_chapter": 4,
+        "lilith_chapter": 5,
+        "flavor": "Bureaucratic, ledgers and rain, political weight",
+        "sensory_bridges": ["Rain on Manchester windows / monsoon rain on Mauryan roads", "Her ledgers / Chandra's ledgers", "Accounting for people / accounting for grain"]
+      },
+      "athens_philon": {
+        "historical_chapter": 6,
+        "lilith_chapter": 7,
+        "flavor": "Philosophical, dialogue bleeding through, ideas as sensation",
+        "sensory_bridges": ["Manchester silence / Athens plague silence", "Questions she cannot answer / questions Philon asks", "Compulsion to continue / compulsion to heal one more"]
+      },
+      "rome_verinus": {
+        "historical_chapter": 8,
+        "lilith_chapter": 9,
+        "flavor": "Procedural, investigation layered on investigation",
+        "sensory_bridges": ["Paper evidence / stylus on wax", "Manchester precision / Roman procedural certainty", "Questions that don't resolve"]
+      },
+      "egypt_macarius": {
+        "historical_chapter": 10,
+        "lilith_chapter": 11,
+        "flavor": "Ascetic, emptiness against emptiness, silence doubled",
+        "sensory_bridges": ["Manchester silence / desert silence", "Emptiness / emptiness", "Stillness practiced / stillness inhabited"]
+      },
+      "heian_kaoru": {
+        "historical_chapter": 12,
+        "lilith_chapter": 13,
+        "flavor": "Aesthetic, beauty saturating both frames, longing amplified",
+        "sensory_bridges": ["Beauty saturating both timelines", "Longing amplified across centuries", "Aesthetic sensibility doubled"]
+      },
+      "inquisition_diego": {
+        "historical_chapter": 14,
+        "lilith_chapter": 15,
+        "flavor": "Claustrophobic, persecution in two keys",
+        "sensory_bridges": ["Claustrophobic spaces doubled", "Persecution pressure in two registers", "Walls closing / certainty narrowing"]
+      },
+      "renaissance_jean": {
+        "historical_chapter": 16,
+        "lilith_chapter": 17,
+        "flavor": "Intellectual, wit and doubt, skepticism layered",
+        "sensory_bridges": ["Questions layered across timelines", "Doubt in parallel registers", "Intellectual precision / strategic precision"]
+      },
+      "taiping_wei": {
+        "historical_chapter": 18,
+        "lilith_chapter": 19,
+        "flavor": "Chaotic, violence bleeding through, conviction fractured",
+        "sensory_bridges": ["Violence bleeding across timelines", "Chaos doubled", "Conviction fracturing in parallel"]
+      },
+      "noir_jack": {
+        "historical_chapter": 20,
+        "lilith_chapter": 21,
+        "flavor": "Atmospheric, cigarette smoke and rain, failure repeated",
+        "sensory_bridges": ["Noir rain / Manchester rain", "Cigarette smoke / tracking corner haze", "Shadowed alleys / narrowed certainty", "Failure repeated across timelines"]
+      }
+    }
+  },
+
+  "fetter_intensification_schedule": {
+    "description": "Each chapter shows one clear beat of her attachment sharpening—NOT power growing. Shown through action/reaction, not stated.",
+    "the_key_insight": "She's not falling apart—she's crystallizing. The attachment becomes harder, brighter, more absolute.",
+    "beats": [
+      {
+        "chapter": 3,
+        "tracking_timeline": "Days 1-3",
+        "manifestation": "I've found a problem to solve",
+        "emotional_state": "Analytical curiosity, first unnamed stirring",
+        "blind_spot": "Cannot see her own grasping"
+      },
+      {
+        "chapter": 5,
+        "tracking_timeline": "Week 1-2",
+        "manifestation": "This intervention will work",
+        "emotional_state": "Confident strategy, first backfire witnessed",
+        "blind_spot": "Satisfaction at manipulation blind to pattern"
+      },
+      {
+        "chapter": 7,
+        "tracking_timeline": "Week 2-3",
+        "manifestation": "I see what went wrong; I'll correct",
+        "emotional_state": "Adjustment, certainty intact, refining strategy",
+        "blind_spot": "Recognition of kinship filed with interest, not alarm"
+      },
+      {
+        "chapter": 9,
+        "tracking_timeline": "Week 3-4",
+        "manifestation": "More precision required",
+        "emotional_state": "Intensifying focus, first suppressed doubts",
+        "blind_spot": "Attachment to precision mirrors avatar's attachment to certainty"
+      },
+      {
+        "chapter": 11,
+        "tracking_timeline": "Week 4-5",
+        "manifestation": "Why do I hesitate?",
+        "emotional_state": "Driven, the unnamed pull emerging",
+        "blind_spot": "Inexplicable hesitations suppressed immediately"
+      },
+      {
+        "chapter": 13,
+        "tracking_timeline": "Week 5-6",
+        "manifestation": "The pull toward him is tactical",
+        "emotional_state": "Denial of unnamed feeling, justifying escalation, cracks appearing",
+        "blind_spot": "First physical appearance to him as object of desire"
+      },
+      {
+        "chapter": 15,
+        "tracking_timeline": "Week 6-7",
+        "manifestation": "I don't feel what I'm feeling",
+        "emotional_state": "The pull growing, manic clarity, relentless",
+        "blind_spot": "Sustained presence revealing depth of investment"
+      },
+      {
+        "chapter": 17,
+        "tracking_timeline": "Week 7-8",
+        "manifestation": "One more. One more. One more.",
+        "emotional_state": "Manic persistence, exhaustion of strategies (spiritual, not physical)",
+        "blind_spot": "Cycling through approaches, certainty fracturing"
+      },
+      {
+        "chapter": 19,
+        "tracking_timeline": "Week 8-9",
+        "manifestation": "I will manifest fully",
+        "emotional_state": "Total commitment, power at peak, final attempts",
+        "blind_spot": "Full deployment revealing obsession, not mastery"
+      },
+      {
+        "chapter": 21,
+        "tracking_timeline": "Week 9-10",
+        "manifestation": "If I can't stop him, I'll bind him",
+        "emotional_state": "Final failure witnessed, pivot to new strategy—the decision",
+        "blind_spot": "Intimacy strategy is the final fetter made flesh"
+      }
+    ]
+  },
+
+  "maitreya_foreshadowing_distribution": {
+    "description": "0-2 subtle moments per chapter. As her attachment intensifies, hints that something else is happening grow stronger.",
+    "types": [
+      "Hesitation before interventions she can't explain",
+      "Inexplicable pain when she causes him suffering",
+      "Dreams where she sees through his eyes",
+      "The pull toward him that exceeds tactical necessity",
+      "Moments where she loses track of which consciousness is which",
+      "Face constancy observation (her face same across incarnations; his changes)"
+    ],
+    "by_chapter": [
+      {
+        "chapter": 3,
+        "foreshadowing": ["'We are the same'—horror indistinguishable from fascination"]
+      },
+      {
+        "chapter": 5,
+        "foreshadowing": ["Brief moment of hesitation before influencing Devaka—suppressed immediately"]
+      },
+      {
+        "chapter": 7,
+        "foreshadowing": ["Kinship whisper extending from Ka to Philon", "Curiosity about kinship, not rivalry—first seed of merger possibility"]
+      },
+      {
+        "chapter": 9,
+        "foreshadowing": ["Kinship whisper deepens—parallel between his attachment to insight and her attachment to being first", "Mutual interference memory plants seed of merger necessity"]
+      },
+      {
+        "chapter": 11,
+        "foreshadowing": ["Inexplicable hesitation—first hint of something beyond strategy", "The unnamed pull toward him emerging"]
+      },
+      {
+        "chapter": 13,
+        "foreshadowing": ["The pull toward him exceeding strategic necessity", "Her appearance to him—first face-to-face across time"]
+      },
+      {
+        "chapter": 15,
+        "foreshadowing": ["The pull growing beyond denial", "Sustained presence—deeper investment than strategy requires", "Face constancy observation (first time she notices?)"]
+      },
+      {
+        "chapter": 17,
+        "foreshadowing": ["Exhaustion revealing the pull beneath strategy", "Persistence exceeding rational calculation"]
+      },
+      {
+        "chapter": 19,
+        "foreshadowing": ["Face to face manifestation—intimacy of opposition", "Total commitment revealing depth of attachment"]
+      },
+      {
+        "chapter": 21,
+        "foreshadowing": ["Inexplicable pain when causing detective suffering", "Moment of losing track of which consciousness is which", "The pull that has grown far beyond strategy—now driving the pivot"]
+      }
+    ]
+  },
+
+  "setting": {
+    "manchester_location": {
+      "primary": "Fallowfield flat",
+      "description": "Her flat serves as the primary Manchester setting. Not confined to a 'tracking corner'—she moves through the space as needed.",
+      "movement": "Possible movement through Manchester when the chapter requires (walks, errands, travel), but flat remains the anchor point for most integrated prose.",
+      "time_period": "6-12 months before Chapter 1",
+      "note": "No professional subplot, no patient sessions, no office scenes."
+    }
+  },
+
+  "chapters": [
+    {
+      "chapter": 3,
+      "id": "ch03-lilith-cp01",
+      "title": "The Discovery",
+      "tracking_timeline": "Days 1-3",
+
+      "corresponds_to": {
+        "historical_chapter": 2,
+        "avatar": "Ka",
+        "avatar_occupation": "Hunter",
+        "lesson": "Loving-kindness (mettā) / Cooperation",
+        "historical_period": "Prehistoric, 300,000 BCE",
+        "historical_location": "Jebel Irhoud, Morocco"
+      },
+
+      "integration": {
+        "flavor": "Primal, sensory, non-verbal, body-knowledge",
+        "sensory_bridges": [
+          "Kettle scream / wind scream",
+          "Tea warmth / fire warmth",
+          "Flat silence / cave silence",
+          "Color blooming (tea leaves) / blood blooming (snow)"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Hoarding meat, choosing isolation over tribe, calling alone-way 'strength'",
+        "lilith_mistake": "Hoarding capability, choosing solitary tracking over connection, calling isolation 'strategic'",
+        "recognition_moment": "'We are the same'—horrifying and fascinating"
+      },
+
+      "intervention": null,
+      "intervention_note": "None in Ch 3—this is when she first becomes aware of his pattern. Observation only.",
+
+      "fetter_beat": {
+        "manifestation": "I've found a problem to solve",
+        "emotional_state": "Analytical curiosity, first unnamed stirring",
+        "shown_through": "Action—stays in flat, drinks cold tea, continues tracking"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Ka's death—hoarding meat in isolation, desperate hunger to understand giving",
+          "technique": "Historical foreground, Manchester recedes to body-echo"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "'We are the same'—horror indistinguishable from fascination"
+      ],
+
+      "function": "Discovery of Silas's thread; first integrated experience; recognition of kinship; decision to track",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 5,
+      "id": "ch05-lilith-cp02",
+      "title": "The Ledger's Shadow",
+      "tracking_timeline": "Week 1-2",
+
+      "corresponds_to": {
+        "historical_chapter": 4,
+        "avatar": "Chandra",
+        "avatar_occupation": "District administrator, former merchant",
+        "lesson": "Generosity (dāna)",
+        "historical_period": "Ancient, 268-232 BCE",
+        "historical_location": "Mauryan Empire, India"
+      },
+
+      "integration": {
+        "flavor": "Bureaucratic, ledgers and rain, political weight",
+        "sensory_bridges": [
+          "Rain on Manchester windows / monsoon rain on Mauryan roads",
+          "Her ledgers / Chandra's ledgers",
+          "Accounting for people / accounting for grain"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Incomplete generosity—saving ledgers while people burn, transactional giving",
+        "lilith_mistake": "Strategic withholding, calculated interventions, treating tracking as ledger to balance"
+      },
+
+      "intervention": {
+        "method": "Influences Devaka's betrayal to harden Chandra against trust",
+        "objective": "Sabotage development of true generosity by corrupting trusted relationships",
+        "backfire": "Betrayal teaches Chandra that generosity cannot depend on reciprocity—crystallizes the lesson rather than corrupting it"
+      },
+
+      "fetter_beat": {
+        "manifestation": "This intervention will work",
+        "emotional_state": "Confident strategy, first backfire witnessed",
+        "shown_through": "Satisfaction at successful manipulation, blind to the pattern already backfiring"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Devaka's betrayal—Chandra realizing ledgers saved while people burned",
+          "technique": "Historical foreground, Manchester recedes to background sensation"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "Brief moment of hesitation before influencing Devaka—suppressed immediately"
+      ],
+
+      "function": "First deliberate intervention; first witnessed backfire; attachment to strategic control intensifies",
+      "word_target": 2500,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 7,
+      "id": "ch07-lilith-cp03",
+      "title": "The Dream-Walker",
+      "tracking_timeline": "Week 2-3",
+
+      "corresponds_to": {
+        "historical_chapter": 6,
+        "avatar": "Philon of Kephissia",
+        "avatar_occupation": "Physician",
+        "lesson": "Wisdom (paññā)",
+        "historical_period": "Classical, 430 BCE",
+        "historical_location": "Athens, Greece (Plague of Athens)"
+      },
+
+      "integration": {
+        "flavor": "Philosophical, dialogue bleeding through, ideas as sensation",
+        "sensory_bridges": [
+          "Manchester silence / Athens plague silence",
+          "Questions she cannot answer / questions Philon asks",
+          "Compulsion to continue / compulsion to heal one more"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Conflates selflessness with self-destruction, martyrdom compulsion, cannot distinguish service from suicide",
+        "lilith_mistake": "Compulsive tracking, cannot stop even when recognizing kinship, sacrifice of everything to this pursuit"
+      },
+
+      "intervention": {
+        "method_1": "Accelerates xenophobic rumor (plague from Persian ships) to create panic and strain resources",
+        "method_2": "Sends dream to Alexios showing Philon's corpse, whispers that survival is service—Alexios abandons Philon",
+        "objective": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
+        "backfire": "Isolation crystallized rather than corrupted; concentrated karma; question 'Was the one for them—or for me?' became pure seed of insight"
+      },
+
+      "fetter_beat": {
+        "manifestation": "I see what went wrong; I'll correct",
+        "emotional_state": "Adjustment, certainty intact, refining strategy",
+        "shown_through": "Immediate analysis of what went wrong, certainty she'll adjust next time"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Philon's death—slave woman dead in his arms, his final question crystallizing",
+          "technique": "Historical foreground, Manchester recedes to background awareness"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "The whisper: 'We are the same' extending from Ka to Philon",
+        "Curiosity about kinship, not rivalry—first seed of merger possibility"
+      ],
+
+      "recognition_beat": {
+        "moment": "Watching Philon die, recognizes something of herself—same driven quality, same inability to do otherwise",
+        "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
+      },
+
+      "function": "Strategy adjustment after witnessing backfire; recognition of kinship with Philon; certainty that refinement will succeed",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 9,
+      "id": "ch09-lilith-cp04",
+      "title": "The Complaint",
+      "tracking_timeline": "Week 3-4",
+
+      "corresponds_to": {
+        "historical_chapter": 8,
+        "avatar": "Verinus (Lucius Severian Verinus)",
+        "avatar_occupation": "Legal investigator",
+        "lesson": "Virtue (sīla) / Compassion amid uncertainty",
+        "historical_period": "Classical Rome, ~140 CE",
+        "historical_location": "Rome"
+      },
+
+      "integration": {
+        "flavor": "Procedural, investigation layered on investigation",
+        "sensory_bridges": [
+          "Paper evidence / stylus on wax",
+          "Manchester precision / Roman procedural certainty",
+          "Questions that don't resolve"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Attachment to certainty, resentment toward ambiguity, needs evidence to align",
+        "lilith_mistake": "Attachment to precision in tracking, resentment when interventions don't align, needs control"
+      },
+
+      "intervention": {
+        "method_1": "Creates competing testimonial versions (scribal error) to seed cognitive fracture",
+        "method_2": "Traffic delay makes alibi impossible, forces Verinus to choose what to believe",
+        "method_3": "Amplifies senator's displeasure into rage, triggers exile",
+        "objective": "Corrupt virtue through cynicism—man who can't trust evidence should trust power",
+        "backfire": "Contradictions made him humble, not cynical; exile gave him silence and permission to not know"
+      },
+
+      "fetter_beat": {
+        "manifestation": "More precision required",
+        "emotional_state": "Intensifying focus, first suppressed doubts",
+        "shown_through": "Methodical analysis of what went wrong, certainty that subtler approach will work"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Verinus's death in exile—olive grove, stylus, contradictory testimonies accepted with humility",
+          "technique": "Historical foreground, Manchester recedes to background"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "Kinship whisper deepens—parallel between his attachment to insight and her attachment to being first",
+        "'Together doesn't hold'—mutual interference memory plants seed of merger necessity"
+      ],
+
+      "function": "Strategy evolution from force to nuance; attachment to precision intensifies; backfire pattern becoming harder to ignore",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 11,
+      "id": "ch11-lilith-cp05",
+      "title": "The Performance of Humility",
+      "tracking_timeline": "Week 4-5",
+
+      "corresponds_to": {
+        "historical_chapter": 10,
+        "avatar": "Abba Macarius of Scetis",
+        "avatar_occupation": "Desert Father / former rhetoric teacher",
+        "lesson": "Renunciation (nekkhamma)",
+        "historical_period": "Late Antiquity, ~360 CE",
+        "historical_location": "Egyptian Desert (Scetis)"
+      },
+
+      "integration": {
+        "flavor": "Ascetic, emptiness against emptiness, silence doubled",
+        "sensory_bridges": [
+          "Manchester silence / desert silence",
+          "Emptiness / emptiness",
+          "Stillness practiced / stillness inhabited"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Spiritual pride masking as humility, attachment to renunciation itself",
+        "lilith_mistake": "Certainty in her path masking as wisdom, attachment to being 'the one'"
+      },
+
+      "intervention": {
+        "method": "Feeds his spiritual pride through subtle validation of his superiority (via Theophanes)",
+        "identity": "Theodora—church dignitary accompanying Archdeacon Theophanes",
+        "objective": "Corrupt renunciation by strengthening pride",
+        "backfire": "Pride becomes so obvious he finally sees it; the seeing is the breakthrough"
+      },
+
+      "fetter_beat": {
+        "manifestation": "Why do I hesitate?",
+        "emotional_state": "Driven, the unnamed pull emerging, first suppressed doubts",
+        "shown_through": "Brief pause she cannot explain, filed away, returns to certainty"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Macarius recognizing his pride—the breakthrough Lilith didn't intend",
+          "technique": "Historical foreground"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "Inexplicable hesitation—first hint of something beyond strategy",
+        "The unnamed pull toward him emerging"
+      ],
+
+      "function": "First inexplicable hesitations; unnamed pull emerging; attachment to certainty despite doubts",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 13,
+      "id": "ch13-lilith-cp06",
+      "title": "TBD",
+      "tracking_timeline": "Week 5-6",
+
+      "corresponds_to": {
+        "historical_chapter": 12,
+        "avatar": "Fujiwara no Kaoru",
+        "avatar_occupation": "Court noble / poet",
+        "lesson": "Equanimity (upekkhā) / Sensual desire",
+        "historical_period": "Medieval, ~1000 CE",
+        "historical_location": "Heian-kyō (Kyoto), Japan"
+      },
+
+      "integration": {
+        "flavor": "Aesthetic, beauty saturating both frames, longing amplified—mono no aware in dual register",
+        "sensory_bridges": [
+          "Beauty saturating both timelines",
+          "Longing amplified across centuries",
+          "Aesthetic sensibility doubled"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Aesthetic longing becomes attachment, confuses beauty with transcendence",
+        "lilith_mistake": "Unnamed pull toward him exceeding tactical necessity, denying what she feels"
+      },
+
+      "intervention": {
+        "method": "Physical manifestation as object of desire—dark hair with widow's peak, pale-green crescent in left eye",
+        "identity": "The Attendant—pushed servant woman (Lilith's vessel pushing attempt)",
+        "objective": "Deepen attachment through beauty and longing; create 'perfect romance' to trap in realm of desire",
+        "backfire": "Longing teaches him about desire's nature; beauty becomes lesson rather than trap"
+      },
+
+      "fetter_beat": {
+        "manifestation": "The pull toward him is tactical",
+        "emotional_state": "Denial of unnamed feeling, justifying escalation, cracks appearing",
+        "shown_through": "Internal rationalization, certainty it's strategic, blind to genuine feeling"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Kaoru seeing her face—readers recognize before he does—widow's peak, green crescent",
+          "technique": "Historical foreground, Manchester recedes"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "The pull toward him exceeding strategic necessity",
+        "Her appearance to him—first face-to-face across time"
+      ],
+
+      "function": "First physical appearance to him; denial of unnamed feeling; attachment manifesting as 'tactical' justification",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 15,
+      "id": "ch15-lilith-cp07",
+      "title": "TBD",
+      "tracking_timeline": "Week 6-7",
+
+      "corresponds_to": {
+        "historical_chapter": 14,
+        "avatar": "Diego de Lucena",
+        "avatar_occupation": "Converso physician",
+        "lesson": "Patience (khanti)",
+        "historical_period": "Early Modern, ~1491",
+        "historical_location": "Toledo, Castile (Inquisition Spain)"
+      },
+
+      "integration": {
+        "flavor": "Claustrophobic, persecution in two keys—pressure doubling, walls closing",
+        "sensory_bridges": [
+          "Claustrophobic spaces doubled",
+          "Persecution pressure in two registers",
+          "Walls closing / certainty narrowing"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Believes being useful will protect him—service in exchange for safety",
+        "lilith_mistake": "Believes precision will succeed—strategic intervention in exchange for victory"
+      },
+
+      "intervention": {
+        "method": "Sustained presence through Sor Catalina (beata vessel) to engineer Tomás's betrayal",
+        "identity": "Sor Catalina—beata (lay holy woman) known for visions and counsel",
+        "objective": "Make betrayal personal to poison Diego with hatred toward named face",
+        "backfire": "Personal betrayal teaches him about the nature of attachment to safety; releases rather than hardens"
+      },
+
+      "fetter_beat": {
+        "manifestation": "I don't feel what I'm feeling",
+        "emotional_state": "The pull growing, manic clarity, relentless",
+        "shown_through": "Manic focus, relentless precision, blind to emotional reality"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Diego's betrayal by Tomás—personal, specific, intimate failure",
+          "technique": "Historical foreground"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "The pull growing beyond denial",
+        "Sustained presence—deeper investment than strategy requires",
+        "Face constancy observation (first time she notices her face is always the same?)"
+      ],
+
+      "special_note": "Chapter 15 is the FULCRUM—equidistant from Chapter 3 (discovery) and Chapter 1 (confession). Everything pivots here. Per lilith-arc-bible.md, this is where she perceives the wheel is real, understands the structural stakes, and commits fully.",
+
+      "function": "Manic clarity masking growing pull; sustained manifestation; denial intensifying as feeling grows",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 17,
+      "id": "ch17-lilith-cp08",
+      "title": "TBD",
+      "tracking_timeline": "Week 7-8",
+
+      "corresponds_to": {
+        "historical_chapter": 16,
+        "avatar": "Jean de Langon",
+        "avatar_occupation": "Legal investigator",
+        "lesson": "Truthfulness (sacca)",
+        "historical_period": "Renaissance, 1588",
+        "historical_location": "Guyenne, France"
+      },
+
+      "integration": {
+        "flavor": "Intellectual, wit and doubt, skepticism layered—questions in parallel registers",
+        "sensory_bridges": [
+          "Questions layered across timelines",
+          "Doubt in parallel registers",
+          "Intellectual precision / strategic precision"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Intellectual doubt becomes attachment, skepticism as identity",
+        "lilith_mistake": "Strategic refinement becomes compulsion, precision as desperation"
+      },
+
+      "intervention": {
+        "method": "Appears as Marguerite Viret (printer's widow)—philosophical companion pushing doubt toward nihilist endpoint",
+        "identity": "Marguerite Viret—printer's widow, late thirties",
+        "objective": "Feed doubt until he stops believing action is possible; use philosophical coherence to justify spiritual paralysis",
+        "backfire": "Jean discovers truthfulness under uncertainty; the philosophical trap becomes the crucible for breakthrough"
+      },
+
+      "fetter_beat": {
+        "manifestation": "One more. One more. One more.",
+        "emotional_state": "Manic persistence, exhaustion of strategies (spiritual, not physical)",
+        "shown_through": "Cycling through approaches, certainty cracking, desperation showing"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Jean's death on the road—dying for honest uncertainty",
+          "technique": "Historical foreground"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "Exhaustion revealing the pull beneath strategy",
+        "Persistence exceeding rational calculation"
+      ],
+
+      "function": "Exhaustion of strategies; manic persistence; certainty fracturing while attachment intensifies",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 19,
+      "id": "ch19-lilith-cp09",
+      "title": "TBD",
+      "tracking_timeline": "Week 8-9",
+
+      "corresponds_to": {
+        "historical_chapter": 18,
+        "avatar": "Wei Shufen",
+        "avatar_occupation": "Military medic and tactical commander",
+        "lesson": "Determination (adhiṭṭhāna)",
+        "historical_period": "19th century, 1862-1864",
+        "historical_location": "Tianjing (Nanjing), China (Taiping Rebellion)"
+      },
+
+      "integration": {
+        "flavor": "Chaotic, violence bleeding through, conviction fractured—chaos in dual keys",
+        "sensory_bridges": [
+          "Violence bleeding across timelines",
+          "Chaos doubled",
+          "Conviction fracturing in parallel"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Compulsive helping—obsessive ledger tracking; attachment to being 'the one who saves'",
+        "lilith_mistake": "Compulsive tracking—obsessive pursuit; attachment to being 'the one who stops him'"
+      },
+
+      "intervention": {
+        "method": "Circumstantial manipulation—adjusts artillery timing, influences unit assignments, spreads disease vectors, causes intelligence failures; ensures everyone Wei saves dies anyway",
+        "identity": "No physical manifestation—saves that for modern Manchester",
+        "objective": "Make futility visible; if everyone he saves dies, he'll stop helping and determination will break",
+        "backfire": "By making futility visible, forces Wei to purify determination from outcome-attachment. He helps anyway, knowing it's futile. True adhiṭṭhāna achieved."
+      },
+
+      "fetter_beat": {
+        "manifestation": "I will manifest fully",
+        "emotional_state": "Total commitment, power at peak, final attempts",
+        "shown_through": "Complete deployment of capability, certainty absolute, final gambit"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Wei's death during Qing massacre—helping anyway, knowing it's futile",
+          "technique": "Historical foreground"
+        }
+      ],
+
+      "maitreya_foreshadowing": [
+        "Face to face manifestation—intimacy of opposition",
+        "Total commitment revealing depth of attachment"
+      ],
+
+      "function": "Full manifestation attempts; power at peak; total commitment before final pivot",
+      "word_target": 3000,
+      "status": "needs_full_rewrite"
+    },
+
+    {
+      "chapter": 21,
+      "id": "ch21-lilith-cp10",
+      "title": "The Pivot",
+      "tracking_timeline": "Week 9-10",
+
+      "corresponds_to": {
+        "historical_chapter": 20,
+        "avatar": "Jack Malone",
+        "avatar_occupation": "Private detective (ex-LAPD)",
+        "lesson": "Energy/Perseverance (viriya)—FINAL PERFECTION",
+        "historical_period": "1930s, January-March 1938",
+        "historical_location": "Los Angeles, California"
+      },
+
+      "integration": {
+        "flavor": "Atmospheric, cigarette smoke and rain, failure repeated—noir atmosphere bleeding across timelines",
+        "sensory_bridges": [
+          "Noir rain / Manchester rain",
+          "Cigarette smoke / flat haze",
+          "Shadowed alleys / narrowed certainty",
+          "Failure repeated across timelines"
+        ]
+      },
+
+      "parallel_structure": {
+        "avatar_mistake": "Obsessive pursuit of case consuming everything else, perseverance without wisdom",
+        "lilith_mistake": "Obsessive pursuit of him consuming everything else, persistence as compulsion"
+      },
+
+      "intervention": {
+        "method": "MINIMAL PRESENCE, NOT FEMME FATALE. 3 brief appearances as distant observer only: (1) background in bar—he doesn't notice, (2) woman on street—fleeting familiarity dismissed, (3) passerby when bomb explodes—'rushing to avoid'. Accelerates failures from distance; Combination plants the car bomb, not her.",
+        "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation",
+        "backfire": "CATASTROPHIC: Accelerating failures teaches outcome-independent perseverance faster. He dies with ALL TEN PERFECTIONS COMPLETE. Next life is stream-entry. Modern intimacy strategy becomes desperate necessity."
+      },
+
+      "fetter_beat": {
+        "manifestation": "If I can't stop him, I'll bind him",
+        "emotional_state": "Final failure witnessed, pivot to new strategy—the decision",
+        "shown_through": "Decision to abandon historical interventions, trace thread to present, meet him in flesh"
+      },
+
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Jack's death by car bomb—all ten perfections complete",
+          "technique": "Historical foreground, Manchester recedes"
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "The realization and pivot—tracing thread forward to present-day Manchester",
+          "technique": "Manchester foreground, historical recedes to echo"
+        }
+      ],
+
+      "chapter_ending": {
+        "realization": "Cannot stop him from historical interventions—pattern is clear, all ten backfire",
+        "traces_thread_forward": "Follows karmic thread from 1930s to present-day Manchester",
+        "discovery": "Finds Silas Pahlavan, philosophy professor, approaching stream-entry—living now",
+        "decision": "Will meet him in the flesh, make him love her, become the thing he cannot transcend",
+        "final_beat": "On the threshold of the final gambit—flat one last time, thread glowing forward to present",
+        "does_NOT_show": "No relationship with present-day Silas yet—hasn't contacted him, hasn't met him; this is the DECISION to do so"
+      },
+
+      "maitreya_foreshadowing": [
+        "Inexplicable pain when causing detective suffering",
+        "Moment of losing track of which consciousness is which during observation",
+        "The pull that has grown far beyond strategy—now driving the pivot to intimacy"
+      ],
+
+      "function": "Final historical intervention fails; realization historical approach cannot work; THE PIVOT that sets up Chapter 1; end of compressed tracking period; decision to pursue intimacy strategy",
+      "word_target": 3500,
+      "status": "needs_complete_reconception",
+
+      "critical_notes": [
+        "This chapter MUST NOT show any content of established relationship with present-day Silas",
+        "That relationship happens in the 6-12 month gap between this chapter and Chapter 1",
+        "This chapter ends with the DECISION to meet him, not the result of having met him"
+      ]
+    }
+  ],
+
+  "chapter_template": {
+    "description": "Template structure for each Lilith chapter",
+    "structure": [
+      "INTEGRATED PROSE THROUGHOUT: Manchester and historical held simultaneously; sensory bridges connect frames; her actions operate in both registers",
+      "PIVOTAL MOMENT(S): 1-2 beats where one timeline dominates; death scenes, key interventions, crucial decisions",
+      "FETTER BEAT: One clear intensification of her attachment; shown through action/reaction, not stated",
+      "MAITREYA FORESHADOWING: 0-2 subtle moments; hesitation, inexplicable pain, merged perception"
+    ],
+    "word_count": "2,500-3,500 words",
+    "integration_percentage": "~100% (both timelines present throughout)"
+  },
+
+  "voice_requirements": {
+    "what_she_sounds_like": "Clinical precision, professional competence, undermined by physical tells and environmental metaphor",
+    "inner_voice": [
+      "Analytical (she assesses, categorizes, plans)",
+      "Controlled (emotions rendered through body, not named)",
+      "Blind to specific patterns (the love, the attachment, the kinship)",
+      "Increasingly certain she understands what she doesn't"
+    ],
+    "forbidden_in_lilith_pov": [
+      "Abstract emotion words (she doesn't feel 'desperate'—her hands shake)",
+      "Buddhist terminology (she perceives 'the wheel,' 'the threshold,' not 'samsara,' 'nirvana')",
+      "Direct acknowledgment of love for Silas until very late in arc",
+      "Recognition of the Maitreya possibility"
+    ],
+    "required_in_lilith_pov": [
+      "Physical grounding in every scene (her body, her space, her sensations)",
+      "Professional frame (even the supernatural rendered clinically)",
+      "Undermining clauses (her certainties are always complicated)",
+      "The things she refuses to examine (visible to reader, invisible to her)"
+    ]
+  },
+
+  "physical_description": {
+    "canonical_face": "Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face. Left eye deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow the eye appears completely black).",
+    "consistency": "Same face across all incarnations—readers will recognize her before avatars do",
+    "first_full_manifestation": "Chapter 8 as Marcia Faenia (historical); readers see face clearly",
+    "in_lilith_chapters": "Manchester present + historical manifestations both show this face"
+  }
+}

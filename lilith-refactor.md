@@ -558,10 +558,9 @@ A test scene demonstrating the integrated prose technique was created during thi
 
 ### Still To Determine
 
-1. **Exact duration of time jump:** 6 months? 9 months? 1 year? (Affects Chapter 1 relationship texture)
 1. **Chapter 21 ending specifics:** How exactly does she locate Silas in the present? What does she see? How does the chapter end on the threshold of the gambit?
-1. **Manchester settings in integrated chapters:** Does she stay primarily in her flat? Move through the city? How much variety in the Manchester frame?
-1. **Maitreya foreshadowing distribution:** Which specific moments in which chapters? Need to map across all ten Lilith chapters.
+1. ~~**Manchester settings in integrated chapters:**~~ ✅ RESOLVED: Primarily her flat (not tracking corner specifically), with possible movement through city when needed.
+1. ~~**Maitreya foreshadowing distribution:**~~ ✅ RESOLVED: Mapped in lilith-chapter-manifest.json with 0-2 moments per chapter.
 1. **Historical chapter Lilith presence:** Do historical chapters need revision to accommodate her full-power manifestation, or do existing interventions work as-is?
 1. **Chapter 1 adjustments:** Does the compressed courtship require any dialogue changes or scene modifications?
 
@@ -569,9 +568,12 @@ A test scene demonstrating the integrated prose technique was created during thi
 
 ## Document History
 
-- **Created:** December 2024
-- **Status:** Complete planning document
-- **Next action:** Begin Phase 1 implementation (CLAUDE.md revision)
+- **Created:** December 2025
+- **Status:** Phase 1 in progress
+- **Completed:**
+  - CLAUDE.md revision (December 2025)
+  - lilith-chapter-manifest.json creation (December 2025) — comprehensive manifest with all 10 chapter specifications, integrated prose technique, fetter intensification schedule, Maitreya foreshadowing distribution
+- **Next action:** Continue Phase 1 implementation (scene-manifest.json revision, lilith-arc.json overhaul)
 
 -----
 
