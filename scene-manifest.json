@@ -3,7 +3,7 @@
     "title": "The Wheel of Meat",
     "author": "Jeffrey [LAST NAME]",
     "genre": "Literary Fiction / Speculative Fiction / Buddhist Fantasy",
-    "logline": "Across sixteen lifetimes spanning 300,000 years, a soul works toward enlightenment while a rival bodhisattva grows powerful enough to stop him—until they discover they were always two halves of the same future Buddha.",
+    "logline": "Across sixteen lifetimes spanning 300,000 years, a soul works toward enlightenment while a rival bodhisattva grows powerful enough to stop him\u2014until they discover they were always two halves of the same future Buddha.",
     "word_target": 150000,
     "status": "development",
     "structure_note": "26 chapters in 4 acts. Act II alternates between Silas's historical past lives and Lilith's contemporary pursuit, creating parallel forward momentum in both timelines."
@@ -42,8 +42,9 @@
         20,
         21
       ],
-      "description": "Ten historical past lives alternating with ten contemporary Lilith chapters. Silas develops perfections while Lilith's powers grow and her pursuit intensifies over a decade.",
-      "structure": "Historical → Lilith → Historical → Lilith (alternating)"
+      "description": "Ten historical past lives alternating with ten Lilith chapters using integrated prose technique. Silas develops perfections across 300,000 years while Lilith's final fetter intensifies over 8-10 weeks of feverish tracking. Each Lilith chapter holds Manchester present and historical period simultaneously.",
+      "structure": "Historical \u2192 Lilith (integrated) \u2192 Historical \u2192 Lilith (integrated) \u2014 alternating",
+      "timeline_note": "Historical chapters span 300,000 years; Lilith chapters span 8-10 weeks; time jump of 6-12 months between Ch 21 and Ch 1"
     },
     {
       "act": 3,
@@ -178,11 +179,11 @@
       },
       "lilith": {
         "powers": "Observation only (from future); accidental influence possible",
-        "intervention": "None—this is when she first becomes aware of his pattern",
+        "intervention": "None\u2014this is when she first becomes aware of his pattern",
         "objective": null
       },
       "lesson": {
-        "perfection": "Loving-kindness (mettā)",
+        "perfection": "Loving-kindness (mett\u0101)",
         "theme": "Cooperation and social bonds",
         "core_development": "Learning to work as pack vs. lone hunter; surviving through community"
       },
@@ -256,81 +257,83 @@
       "id": "ch03-lilith-cp01",
       "title": "The Discovery",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "10 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Days 1-3, Discovery period"
+        },
+        "historical": {
+          "period": "Prehistoric",
+          "location": "Jebel Irhoud, Morocco",
+          "year": "300,000 BCE",
+          "avatar": "Ka"
+        },
+        "integration_technique": "Primal, sensory, non-verbal\u2014kettle scream/wind scream, tea warmth/fire warmth, silence/silence"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Ka's experience)",
       "lilith": {
-        "age": 25,
-        "years_tracking": 0,
-        "occupation": "Graduate student in psychiatry",
-        "power_level": "Observation only",
-        "emotional_state": "Curiosity → Fascination → Validation"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Days 1-3",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "I've found a problem to solve",
+          "emotional_state": "Analytical curiosity, first unnamed stirring",
+          "blind_spot": "Cannot see her own grasping"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 2,
         "avatar": "Ka",
-        "lesson": "Loving-kindness / Cooperation"
+        "lesson": "Loving-kindness (mett\u0101) / Cooperation"
       },
-      "demonstration": {
-        "fetter": "Generosity (dāna)",
-        "scene": "Gives up chair to anxious first-year student; knee will hurt for hours"
+      "parallel_structure": {
+        "ka_mistake": "Hoarding meat, choosing isolation over tribe, calling alone-way 'strength'",
+        "lilith_mistake": "Hoarding capability, choosing solitary tracking over connection, calling isolation 'strategic'",
+        "recognition_moment": "'We are the same'\u2014horrifying and fascinating"
       },
-      "tracking_content": {
-        "discovers": "Ka's pattern—first time perceiving others, not just her own iterations",
-        "observes": "Ka's death (hoarding, cold, desperate hunger to understand giving)",
-        "tracks_forward_to": "Chandra"
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Kettle scream / wind scream",
+          "Tea warmth / fire warmth",
+          "Flat silence / cave silence"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Ka's sensations register in her body",
+        "temporal_markers": "Three hundred thousand years before, embedded naturally",
+        "no_transitions": "Scene doesn't cut between Manchester and Morocco\u2014holds both"
       },
-      "function": "Establish her expanded ability; validate consciousness continuity as universal law; begin decade-long pursuit",
-      "word_target": 3500,
-      "scenes": [
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "Tracking Margaret",
-          "file": "scene-01-tracking-margaret.md",
-          "word_count": 600,
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "The Sharing Scene",
-          "file": "scene-02-sharing-scene.md",
-          "word_count": 550,
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "The Discovery of Ka",
-          "file": "scene-03-discovery-of-ka.md",
-          "word_count": 650,
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "Observing Ka's Death",
-          "file": "scene-04-observing-ka-death.md",
-          "word_count": 750,
-          "status": "draft"
-        },
-        {
-          "section": "V",
-          "title": "Following Thread to Chandra",
-          "file": "scene-05-following-to-chandra.md",
-          "word_count": 700,
-          "status": "draft"
-        },
-        {
-          "section": "VI",
-          "title": "The Decision to Track",
-          "file": "scene-06-decision-to-track.md",
-          "word_count": 900,
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Ka's death\u2014hoarding meat in isolation, desperate hunger to understand giving",
+          "technique": "Historical foreground, Manchester recedes to body-echo"
         }
       ],
-      "status": "drafted"
+      "fetter_beat": {
+        "moment": "Decision to continue tracking despite recognition of shared isolation",
+        "shown_through": "Action/choice, not stated\u2014she drinks cold tea and stays in her tracking corner"
+      },
+      "maitreya_foreshadowing": [
+        "The thought 'We are the same' and its ambivalent affect\u2014horror indistinguishable from fascination"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to access karmic thread and perceive Ka's entire life",
+        "Ability to hold Manchester present and prehistoric past simultaneously",
+        "Perfect understanding of Ka's attachment while blind to her own identical pattern"
+      ],
+      "function": "Discovery of Silas's thread; first integrated experience; recognition of kinship; decision to track",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 4,
@@ -350,14 +353,14 @@
         "status": "Developing soul"
       },
       "lilith": {
-        "powers": "Remote influence—can affect intermediaries",
+        "powers": "Remote influence\u2014can affect intermediaries",
         "intervention": "Influences Devaka's betrayal to harden Chandra against trust",
         "objective": "Sabotage development of true generosity by corrupting trusted relationships"
       },
       "lesson": {
-        "perfection": "Generosity (dāna)",
+        "perfection": "Generosity (d\u0101na)",
         "theme": "Giving resources vs. giving self",
-        "core_development": "Merchant mindset—sees people as numbers; incomplete generosity",
+        "core_development": "Merchant mindset\u2014sees people as numbers; incomplete generosity",
         "fatal_flaw": "Focuses on saving ledgers while people burn"
       },
       "backfire": "Betrayal teaches him generosity cannot depend on reciprocity",
@@ -427,68 +430,86 @@
       "id": "ch05-lilith-cp02",
       "title": "The Ledger's Shadow",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "9 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 1-2"
+        },
+        "historical": {
+          "period": "Ancient",
+          "location": "Mauryan Empire, India",
+          "year": "268-232 BCE",
+          "avatar": "Chandra"
+        },
+        "integration_technique": "Bureaucratic, ledgers and rain, political weight\u2014record-keeping bleeding across timelines"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Chandra's experience)",
       "lilith": {
-        "age": 26,
-        "years_tracking": 1,
-        "occupation": "Graduate student / beginning clinical work",
-        "power_level": "Remote influence",
-        "emotional_state": "Methodical confidence"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 1-2",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "This intervention will work",
+          "emotional_state": "Confident strategy, first backfire witnessed",
+          "escalation": "From observation to deliberate interference"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 4,
         "avatar": "Chandra",
-        "lesson": "Generosity (dāna)"
+        "lesson": "Generosity (d\u0101na)"
       },
-      "demonstration": {
-        "fetter": "Non-attachment to outcomes",
-        "scene": "TBD—shows releasing attachment to patient improvement"
+      "parallel_structure": {
+        "chandra_mistake": "Incomplete generosity\u2014saving ledgers while people burn, transactional giving",
+        "lilith_mistake": "Strategic withholding, calculated interventions, treating tracking as ledger to balance"
       },
-      "tracking_content": {
-        "observes": "Chandra's incomplete generosity",
-        "intervention": "First deliberate interference—Devaka's betrayal",
-        "tracks_forward_to": "Athens avatar"
+      "intervention": {
+        "method": "Influences Devaka's betrayal to harden Chandra against trust",
+        "objective": "Sabotage development of true generosity by corrupting trusted relationships",
+        "backfire": "Betrayal teaches Chandra that generosity cannot depend on reciprocity\u2014crystallizes the lesson rather than corrupting it"
       },
-      "backfire_awareness": "None—satisfaction at successful manipulation",
-      "function": "First intervention; realizes she can DO things, not just observe",
-      "word_target": 2500,
-      "scenes": [
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Rain on Manchester windows / monsoon rain on Mauryan roads",
+          "Her ledgers / Chandra's ledgers",
+          "Accounting for people / accounting for grain"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Chandra's bureaucratic thinking registers in her analysis",
+        "parallel_structure": "Both keeping meticulous records, both treating people as entries"
+      },
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "Supervision",
-          "file": "scene-01-supervision.md",
-          "word_count": 600,
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "The Ashworth Session",
-          "file": "scene-02-ashworth-session.md",
-          "word_count": 1200,
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "Influencing Devaka",
-          "file": "scene-03-influencing-devaka.md",
-          "word_count": 1400,
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "The Decision to Continue",
-          "file": "scene-04-decision-to-continue.md",
-          "word_count": 900,
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Devaka's betrayal\u2014Chandra realizing ledgers saved while people burned",
+          "technique": "Historical foreground, Manchester recedes to background sensation"
         }
       ],
-      "status": "needs_development"
+      "fetter_beat": {
+        "moment": "Satisfaction at successful manipulation\u2014attachment to being 'the one who shapes outcomes' intensifies",
+        "shown_through": "Her confidence in strategic intervention, blind to the pattern already backfiring"
+      },
+      "maitreya_foreshadowing": [
+        "Brief moment of hesitation before influencing Devaka\u2014suppressed immediately"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to influence events across time without physical manifestation",
+        "Ability to hold both accounting systems simultaneously",
+        "Understanding Chandra's transactional generosity while practicing strategic transactional intervention"
+      ],
+      "function": "First deliberate intervention; first witnessed backfire; attachment to strategic control intensifies",
+      "word_target": 2500,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 6,
@@ -509,7 +530,7 @@
         "occupation": "Physician (iatros)",
         "status": "Developing soul",
         "recognition_markers": [
-          "Observational patience—watches before acting",
+          "Observational patience\u2014watches before acting",
           "Physical hesitation before touch (echo of Ka's deliberation)",
           "Tendency to see individuals rather than categories"
         ],
@@ -519,7 +540,7 @@
       "lilith": {
         "age": 27,
         "identity": "Unknown presence in Athens",
-        "powers": "Dream influence—can plant suggestions and emotional residue during sleep",
+        "powers": "Dream influence\u2014can plant suggestions and emotional residue during sleep",
         "intervention_1": {
           "timing": "First Episode",
           "method": "Accelerates rumor that plague came from Persian ships",
@@ -546,16 +567,16 @@
           "name": "TBD (foreign name or Greek slave-name)",
           "status": "Abandoned by wealthy owners when symptomatic",
           "speech": "Broken, halting Greek",
-          "function": "Lowest social status—makes Philon's choice maximally stark; echoes binding memory through her resignation",
+          "function": "Lowest social status\u2014makes Philon's choice maximally stark; echoes binding memory through her resignation",
           "death": "Dies in Philon's arms in Third Episode despite his care"
         }
       },
       "lesson": {
-        "perfection": "Wisdom (paññā)",
+        "perfection": "Wisdom (pa\u00f1\u00f1\u0101)",
         "theme": "Individual vs. collective good; distinguishing true altruism from self-destruction",
         "core_development": "Cannot see that martyrdom for one person abandons the many who need him; wisdom requires understanding context and consequences, not just immediate compassion",
-        "insight_achieved": "Incomplete—arises in delirium: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
-        "karmic_seed": "There must be a way to understand virtue correctly → becomes Stoic investigator's obsession with moral framework"
+        "insight_achieved": "Incomplete\u2014arises in delirium: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them\u2014or for me?'",
+        "karmic_seed": "There must be a way to understand virtue correctly \u2192 becomes Stoic investigator's obsession with moral framework"
       },
       "backfire": {
         "lilith_intention": "Isolate and accelerate martyrdom",
@@ -566,13 +587,13 @@
         "sections": [
           {
             "number": "I",
-            "title": "Prologos—The City Before Collapse",
+            "title": "Prologos\u2014The City Before Collapse",
             "word_target": 1400,
             "beats": [
               "Dawn in Agora; civic pride; Parthenon gleaming",
               "Philon treating minor cases, already exhausted",
               "Binding memory surfaces (flashback/internal reference to vow)",
-              "Alexios introduced—eager, competent, admiring",
+              "Alexios introduced\u2014eager, competent, admiring",
               "Subtle tension: rumors of fever from Piraeus",
               "Recognition marker: Philon watches before acting",
               "Meat/body: Agora meat market imagery"
@@ -580,19 +601,19 @@
           },
           {
             "number": "II",
-            "title": "Parodos—The First Breach",
+            "title": "Parodos\u2014The First Breach",
             "word_target": 900,
             "beats": [
               "Man collapses in Agora with unmistakable plague symptoms",
               "Panic; ring of fear opens around victim",
-              "Philon steps forward alone—Alexios hesitates, then follows",
+              "Philon steps forward alone\u2014Alexios hesitates, then follows",
               "Line: 'One life is worth the effort'",
               "Binding moment: Philon becomes physician who will not refuse"
             ]
           },
           {
             "number": "III",
-            "title": "First Episode—The Flood",
+            "title": "First Episode\u2014The Flood",
             "word_target": 1500,
             "beats": [
               "Long Walls fill with refugees; clinic overwhelmed",
@@ -605,49 +626,49 @@
           },
           {
             "number": "IV",
-            "title": "First Stasimon—The City's Lament",
+            "title": "First Stasimon\u2014The City's Lament",
             "word_target": 500,
             "beats": [
               "Funeral pyres visible day and night",
               "Citizens abandon rites, hurl corpses onto fires",
               "Civic order dissolving",
-              "Atmospheric—Philon not present; city as chorus",
+              "Atmospheric\u2014Philon not present; city as chorus",
               "Meat/body: Burning flesh of funeral pyres"
             ]
           },
           {
             "number": "V",
-            "title": "Second Episode—The Impossible Choice",
+            "title": "Second Episode\u2014The Impossible Choice",
             "word_target": 1800,
             "beats": [
               "Magistrates order Philon to relocate to safety",
               "Philon refuses: 'What meaning has a healer who abandons the dying?'",
-              "Slave woman arrives—abandoned by wealthy owners, fever-wracked",
+              "Slave woman arrives\u2014abandoned by wealthy owners, fever-wracked",
               "Alexios confronts Philon (morning after Lilith's dream)",
-              "Alexios's departure argument—painful, not villainous",
+              "Alexios's departure argument\u2014painful, not villainous",
               "Alexios leaves; Philon alone with choice",
               "Decision to isolate with patient"
             ]
           },
           {
             "number": "VI",
-            "title": "Second Stasimon—The Cost of the Choice",
+            "title": "Second Stasimon\u2014The Cost of the Choice",
             "word_target": 500,
             "beats": [
               "Pericles glimpsed in passing (image of man who cannot save what he loves)",
               "Smell of unburied dead permeating city",
-              "Philon's first flicker of doubt—suppressed immediately",
+              "Philon's first flicker of doubt\u2014suppressed immediately",
               "Atmospheric deepening of tragedy"
             ]
           },
           {
             "number": "VII",
-            "title": "Third Episode—Martyrdom",
+            "title": "Third Episode\u2014Martyrdom",
             "word_target": 1500,
             "beats": [
               "Philon isolates himself with slave woman",
               "Last-ditch care: cooling cloths, water, whispered reassurances",
-              "She speaks—crystallizes tragedy (gratitude? question about why?)",
+              "She speaks\u2014crystallizes tragedy (gratitude? question about why?)",
               "She dies in his arms",
               "Philon's first cough",
               "Point of no return marked clearly"
@@ -655,19 +676,19 @@
           },
           {
             "number": "VIII",
-            "title": "Kommos—The Broken Realization",
+            "title": "Kommos\u2014The Broken Realization",
             "word_target": 1000,
             "beats": [
               "Fever delirium intercut with city's collapse outside",
-              "Visceral insight: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them—or for me?'",
-              "Incomplete understanding—arising from pain, not clarity",
+              "Visceral insight: 'If I had lived, I could have saved a hundred. I chose one. Was the one for them\u2014or for me?'",
+              "Incomplete understanding\u2014arising from pain, not clarity",
               "Too late to change anything",
-              "Recognition that martyrdom ≠ virtue"
+              "Recognition that martyrdom \u2260 virtue"
             ]
           },
           {
             "number": "IX",
-            "title": "Exodus—Death & Seeding",
+            "title": "Exodus\u2014Death & Seeding",
             "word_target": 600,
             "beats": [
               "Philon dies quietly, surrounded by abandoned tools",
@@ -688,7 +709,7 @@
           "Physical deterioration in delirium",
           "Abandoned corpses as civic collapse marker"
         ],
-        "undermining_pattern": "Preserved through Greek restraint—assertions complicated by immediate counter-evidence or doubt",
+        "undermining_pattern": "Preserved through Greek restraint\u2014assertions complicated by immediate counter-evidence or doubt",
         "sensory_anchoring": "Physical Athens (architecture, smells, textures) before interiority; emphasis on tactile reality of plague",
         "loaded_gestures": "Touch as moral statement; refusal to touch as condemnation",
         "environmental_metaphor": "City's physical decay mirrors moral/spiritual collapse"
@@ -699,69 +720,69 @@
         "Long Walls geography and refugee dynamics",
         "Athenian medical practice and limits",
         "Funeral rites and their breakdown",
-        "Pericles' leadership during plague (background only—no interaction)",
+        "Pericles' leadership during plague (background only\u2014no interaction)",
         "Language: formal but accessible classical Greek translated feel"
       ],
       "scenes": [
         {
           "section": "I",
-          "title": "Prologos—The City Before Collapse",
+          "title": "Prologos\u2014The City Before Collapse",
           "file": "scene-01-prologos.md",
           "word_count": 1450,
           "status": "draft"
         },
         {
           "section": "II",
-          "title": "Parodos—The First Breach",
+          "title": "Parodos\u2014The First Breach",
           "file": "scene-02-parodos.md",
           "word_count": 900,
           "status": "draft"
         },
         {
           "section": "III",
-          "title": "First Episode—The Flood",
+          "title": "First Episode\u2014The Flood",
           "file": "scene-03-first-episode.md",
           "word_count": 1550,
           "status": "draft"
         },
         {
           "section": "IV",
-          "title": "First Stasimon—The City's Lament",
+          "title": "First Stasimon\u2014The City's Lament",
           "file": "scene-04-first-stasimon.md",
           "word_count": 510,
           "status": "draft"
         },
         {
           "section": "V",
-          "title": "Second Episode—The Impossible Choice",
+          "title": "Second Episode\u2014The Impossible Choice",
           "file": "scene-05-second-episode.md",
           "word_count": 1680,
           "status": "draft"
         },
         {
           "section": "VI",
-          "title": "Second Stasimon—The Cost of the Choice",
+          "title": "Second Stasimon\u2014The Cost of the Choice",
           "file": "scene-06-second-stasimon.md",
           "word_count": 520,
           "status": "draft"
         },
         {
           "section": "VII",
-          "title": "Third Episode—Martyrdom",
+          "title": "Third Episode\u2014Martyrdom",
           "file": "scene-07-third-episode.md",
           "word_count": 1520,
           "status": "draft"
         },
         {
           "section": "VIII",
-          "title": "Kommos—The Broken Realization",
+          "title": "Kommos\u2014The Broken Realization",
           "file": "scene-08-kommos.md",
           "word_count": 1010,
           "status": "draft"
         },
         {
           "section": "IX",
-          "title": "Exodus—Death & Seeding",
+          "title": "Exodus\u2014Death & Seeding",
           "file": "scene-09-exodus.md",
           "word_count": 739,
           "status": "draft"
@@ -774,199 +795,95 @@
       "id": "ch07-lilith-cp03",
       "title": "The Dream-Walker",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "8 years before Chapter 1",
-        "timespan": "Several weeks to a few months"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 2-3"
+        },
+        "historical": {
+          "period": "Classical Athens",
+          "location": "Athens, Greece",
+          "year": "430 BCE (Plague of Athens)",
+          "avatar": "Philon"
+        },
+        "integration_technique": "Philosophical, dialogue bleeding through, ideas as sensation\u2014Socratic questions in two keys"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Philon's experience)",
       "lilith": {
-        "age": "27-28",
-        "years_tracking": "2-3",
-        "occupation": "Advanced graduate student / early clinical work",
-        "power_level": "Dream influence",
-        "capabilities": [
-          "Can plant suggestions and guidance in dreams",
-          "Works through liminal space between waking and sleeping",
-          "Can shape dream imagery and emotional atmosphere",
-          "Influence is indirect but more personal than remote manipulation"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 2-3",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
         ],
-        "limitations": [
-          "Suggestions only, not commands",
-          "Dream logic applies—messages distort, become symbolic",
-          "Cannot force choices",
-          "Cannot enter waking consciousness directly"
-        ],
-        "emotional_state": "Methodical confidence; first whisper of curiosity (not concern) about kinship with Silas",
-        "physical_cost": "Understated—fatigue mentioned but no dramatic deterioration"
+        "fetter_state": {
+          "attachment_manifestation": "I see what went wrong; I'll correct",
+          "emotional_state": "Adjustment, certainty intact, refining strategy",
+          "recognition": "First whisper of kinship with Philon\u2014filed with interest, not alarm"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 6,
-        "avatar": "Philon (Athens philosopher)",
+        "avatar": "Philon",
         "avatar_fetter": "Compulsive helping / inability to distinguish compassion from martyrdom",
-        "lesson": "Wisdom (paññā)"
+        "lesson": "Wisdom (pa\u00f1\u00f1\u0101)"
       },
-      "family_dynamics": {
-        "scenario": "Mother remarrying to Jeff; sister Nadia also engaged and resents mother 'stealing spotlight'",
-        "mother": "Excited about remarriage, perhaps oblivious to Nadia's feelings",
-        "sister_nadia": "Engaged, feels upstaged, frames Jeff as complicit (he isn't)",
-        "jeff": "Actually a good guy—warm, nervous, loves her mother; not the villain Nadia painted",
-        "lilith_response": "Navigates with genuine equanimity—warm but boundaried, validates feelings without taking sides, sees truth without imposing it",
-        "thematic_function": "Shows her competence in personal life (unlike her patients); demonstrates the balance her caregiver patient cannot achieve"
+      "parallel_structure": {
+        "philon_mistake": "Conflates selflessness with self-destruction, martyrdom compulsion, cannot distinguish service from suicide",
+        "lilith_mistake": "Compulsive tracking, cannot stop even when recognizing kinship, sacrifice of everything to this pursuit"
       },
-      "demonstration": {
-        "fetter": "Sustainable compassion vs. martyrdom (wisdom/discernment)",
-        "patient": {
-          "name": "David",
-          "profile": "Male, late 40s-50s, caring for aging mother Marsha",
-          "condition": "Caregiver guilt—destroying his life, marriage ended, career stalled, identity fused with being 'the good son'",
-          "mothers_name": "Marsha (quiet echo of Marcia Faenia, Lilith's Roman form)"
-        },
-        "clinical_advice": [
-          "Your worth doesn't depend on what you sacrifice",
-          "Sustainable care requires preserving yourself",
-          "Martyrdom isn't love—it's another form of control",
-          "Whether the love requires this particular shape—whether there's a version of being a good son that doesn't require you to disappear"
+      "intervention": {
+        "method_1": "Accelerates xenophobic rumor (plague from Persian ships) to create panic and strain resources",
+        "method_2": "Sends dream to Alexios showing Philon's corpse, whispers that survival is service\u2014Alexios abandons Philon",
+        "objective": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
+        "backfire": "Isolation crystallized rather than corrupted; concentrated karma; question 'Was the one for them\u2014or for me?' became pure seed of insight; Philon's choice entirely his own with no dilution"
+      },
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Manchester silence / Athens plague silence",
+          "Questions she cannot answer / questions Philon asks",
+          "Compulsion to continue / compulsion to heal one more"
         ],
-        "doubled_irony": {
-          "layer_1": "Lilith gives perfect advice she cannot apply to her obsessive tracking project",
-          "layer_2": "But she DOES apply this wisdom to her own family—navigates mother/sister conflict with genuine balance",
-          "deeper_irony": "Her blindspot isn't family or work—it's the tracking itself. She can see David's compulsion clearly, manage her own family deftly, but cannot see that her pursuit of Silas is the same attachment."
-        }
+        "pronoun_flow": "She for Lilith throughout; Philon's philosophical inquiry registers in her thoughts",
+        "parallel_structure": "Both unable to stop, both calling it purpose, both sacrificing for the one-more"
       },
-      "tracking_content": {
-        "reviews": "Philon's death in Athens plague—confirms her interventions (Alexios dream, xenophobic panic)",
-        "intervention_results": {
-          "intervention_1": "Xenophobic rumor acceleration—created chaos, strained Philon's resources",
-          "intervention_2": "Dream to Alexios—caused assistant to abandon Philon, leaving him to face final choice alone"
-        },
-        "expected_outcome": "Bitterness and corruption—man dying alone, abandoned, sacrifice meaningless",
-        "actual_outcome": "Isolation crystallized rather than corrupted; concentrated karma; question ('Was the one for them—or for me?') became pure seed of insight",
-        "the_recognition": {
-          "moment": "Watching Philon die, Lilith recognizes something of herself—same driven quality, same inability to do otherwise",
-          "emotional_register": "Curious, not alarmed—a near-enlightened being doesn't rattle at unexpected data",
-          "the_whisper": "Could Ka, Chandra, Philon be on the same journey she is? Not rivals but fellow travelers?",
-          "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
-        },
-        "tracks_forward_to": {
-          "method": "Scans her own past lives as temporal landmarks (Alexandria physician, Spanish sutler, Guangzhou washerwoman)",
-          "search": "Looking for where threads might coincide—where their patterns might have crossed",
-          "finds": "A city of law and order, marble and bureaucracy, someone obsessed with certainty—an investigator",
-          "subtle_hint": "Sense of proximity; one of her iterations might have been near this one",
-          "foreshadowing": "Her powers are growing; soon she might do more than observe"
-        }
-      },
-      "backfire": {
-        "lilith_intention": "Isolate Philon, accelerate martyrdom, corrupt lesson through despair",
-        "actual_result": "Concentrated karma—by removing Alexios, ensured Philon's choice was entirely his own; no dilution of karmic weight; death became pure seed of insight rather than diluted tragedy",
-        "mechanism": "Shared sacrifice diffuses weight; solitary sacrifice concentrates it",
-        "thematic_irony": "She weaponized isolation, but isolation is where insight crystallizes"
-      },
-      "backfire_awareness": "First whisper of curiosity rather than concern—notices the kinship, files it, doesn't yet see the pattern of backfires",
-      "thematic_elements": {
-        "near_enlightenment_lived": "Shows what spiritual development looks like in ordinary life—not dramatic, not performed, just competent, present, balanced",
-        "meat_body_thread": "Body and sleep; dream-work—dreams as liminal space, sense-bleed from tracking (plague smell, ash)",
-        "blindspot": "Can navigate family with equanimity, give perfect clinical advice, but cannot see her tracking is the same attachment",
-        "kinship_whisper": "First seed of eventual merger—they might be fellow travelers, not rivals"
-      },
-      "word_target": 5000,
-      "structure": {
-        "form": "5 sections with montage time passage",
-        "total_word_target": "4,800-5,600"
-      },
-      "scenes": [
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "The Ordinary Extraordinary",
-          "file": "scene-01-morning.md",
-          "word_target": "900-1,000",
-          "word_count": 1450,
-          "beats": [
-            "Dawn practice—meditation, stillness, discipline as lived experience",
-            "Phone call from Nadia—mother's remarriage stepping on sister's engagement",
-            "Lilith listens fully, validates without taking sides, offers presence not alliance",
-            "Nadia frustrated Lilith won't join her narrative; call ends with love intact",
-            "Beat of Lilith alone—notes residue, lets it pass; this is equanimity"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "The Good Son",
-          "file": "scene-02-david.md",
-          "word_target": "1,200-1,400",
-          "word_count": 1600,
-          "beats": [
-            "David in therapy room—exhausted, world shrunk to work/Marsha/sleep",
-            "Gradual reveal: marriage ended, promotion refused, friends gone",
-            "Core wound: cannot separate worth from sacrifice",
-            "Lilith's work: questions that open ('Who taught you love looks like this?')",
-            "The pivot: 'Is there a version of being a good son that doesn't require you to disappear?'",
-            "Crack in armor; session ends without resolution but question landed",
-            "Lilith alone—doubled irony (never stated); glances at mother's wedding text, responds easily"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "Between",
-          "file": "scene-03-between.md",
-          "word_target": "700-800",
-          "word_count": 1050,
-          "beats": [
-            "Weeks pass—montage quality",
-            "Clinical work continuing; she's good at her job",
-            "Meeting Jeff—actually a good guy, warm, nervous; Lilith genuinely welcoming",
-            "Contrast: Nadia's narrative vs. reality Lilith observes (doesn't correct, just sees)",
-            "Sister follow-up—Lilith holds same line, maybe moment of humor",
-            "Glance at notebooks, tracking materials—reader knows what's waiting",
-            "Evening falls; she moves toward tracking corner"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "The Death of Philon",
-          "file": "scene-04-tracking.md",
-          "word_target": "1,300-1,500",
-          "word_count": 1700,
-          "function": "CLIMAX",
-          "beats": [
-            "Night, flat dim, practice position—going back to confirm her work",
-            "Reaches Philon's thread; finds him at the end",
-            "The death scene: plague, abandoned clinic, slave woman dead in his arms",
-            "His final attention: not despair but inquiry",
-            "The incomplete insight: 'If I had lived... Was the one for them—or for me?'",
-            "What she expected: bitterness. What she finds: concentrated, crystallized question",
-            "THE RECOGNITION: watching him, she sees herself—same driven quality",
-            "The whisper: could they be on the same journey? Curious, not alarmed",
-            "Files it; returns to analysis; whisper doesn't fully fade"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "V",
-          "title": "The Road to Rome",
-          "file": "scene-05-rome.md",
-          "word_target": "700-900",
-          "word_count": 950,
-          "beats": [
-            "Scanning her own lives as temporal landmarks—Alexandria, Spain, Guangzhou",
-            "Each a waypoint—and a question: were you there too?",
-            "Curiosity from Philon's death lingers; shapes rhyming",
-            "Finds next incarnation: city of law, obsessed with certainty, an investigator",
-            "Doesn't name it Rome yet—senses shape, not specifics",
-            "Subtle hint: sense of proximity to one of her own iterations",
-            "Growing powers—soon she might do more than observe",
-            "Returns to stillness; curiosity remains, not urgent, not troubling",
-            "Final image: two threads running parallel, closer than she knows"
-          ],
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Philon's death\u2014slave woman dead in his arms, his final question crystallizing",
+          "technique": "Historical foreground, Manchester recedes to background awareness"
         }
       ],
-      "status": "draft"
+      "fetter_beat": {
+        "moment": "Watching backfire, recognizing strategy needs adjustment\u2014attachment to 'correcting' intensifies",
+        "shown_through": "Immediate analysis of what went wrong, certainty she'll adjust next time"
+      },
+      "recognition": {
+        "moment": "Watching Philon die, recognizes something of herself\u2014same driven quality, same inability to do otherwise",
+        "emotional_register": "Curious, not alarmed\u2014a near-enlightened being doesn't rattle at unexpected data",
+        "the_whisper": "Could Ka, Chandra, Philon be on the same journey she is? Not rivals but fellow travelers?",
+        "response": "Files it with interest; doesn't dismiss but doesn't dwell; returns to analysis"
+      },
+      "maitreya_foreshadowing": [
+        "The whisper: 'We are the same' extending from Ka to Philon",
+        "Curiosity about kinship, not rivalry\u2014first seed of merger possibility"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to influence dreams across time (sent dream to Alexios)",
+        "Ability to hold Athens plague and Manchester present simultaneously",
+        "Perfect understanding of Philon's martyrdom compulsion while blind to her own tracking compulsion"
+      ],
+      "function": "Strategy adjustment after witnessing backfire; recognition of kinship with Philon; certainty that refinement will succeed; attachment intensifies through 'correction'",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 8,
@@ -987,7 +904,7 @@
         "occupation": "Legal investigator attached to the praetor urbanus",
         "status": "Developing soul",
         "recognition_markers": [
-          "Observational patience—watches before acting",
+          "Observational patience\u2014watches before acting",
           "Physical ritual: compulsively cleans bronze stylus when testimony contradicts itself",
           "Sees individuals rather than categories, even as he judges them harshly"
         ],
@@ -996,8 +913,8 @@
       },
       "lilith": {
         "age": 28,
-        "identity": "Marcia Faenia—quiet young woman, dark-haired, observational stillness",
-        "powers": "Circumstance manipulation—can subtly manipulate circumstances and minor characters",
+        "identity": "Marcia Faenia\u2014quiet young woman, dark-haired, observational stillness",
+        "powers": "Circumstance manipulation\u2014can subtly manipulate circumstances and minor characters",
         "cameo": {
           "scene": 4,
           "method": "Silent observation at Stoic debate; establishes physical characteristics",
@@ -1022,7 +939,7 @@
           "target": "Senator (Varro's patron)",
           "effect": "Verinus sentenced to relegatio (exile); intended to break him through meaninglessness"
         },
-        "objective": "Two mini interferences funnel into major one. If destabilized by ambiguity, Verinus should compromise—sacrifice servant to preserve position. Man who can't trust evidence should trust power."
+        "objective": "Two mini interferences funnel into major one. If destabilized by ambiguity, Verinus should compromise\u2014sacrifice servant to preserve position. Man who can't trust evidence should trust power."
       },
       "key_characters": {
         "marcus_cassianus_priscus": {
@@ -1033,13 +950,13 @@
           "final_action": "Sends letter to Verinus in exile with news of servant's rebuilt life"
         },
         "gaius_quintilius_varro": {
-          "role": "The deceased—respected philosophus",
+          "role": "The deceased\u2014respected philosophus",
           "death": "Philosophical suicide (paradoxical 'lesson')",
           "function": "Creates naturally paradoxical mystery that resists rational reconstruction"
         },
         "the_servant": {
           "status": "Household slave, legally vulnerable",
-          "function": "Legally guilty but morally innocent—terrified man who omitted detail",
+          "function": "Legally guilty but morally innocent\u2014terrified man who omitted detail",
           "arc": "After Verinus's exile, attempts to intercede to help Marcus; later rebuilds modest life (vegetable stall, wife with child)"
         },
         "the_senator": {
@@ -1049,17 +966,17 @@
         }
       },
       "lesson": {
-        "perfection": "Virtue (sīla)",
-        "fetter": "Ill will (vyāpāda) → Compassion amid uncertainty",
+        "perfection": "Virtue (s\u012bla)",
+        "fetter": "Ill will (vy\u0101p\u0101da) \u2192 Compassion amid uncertainty",
         "theme": "Ethical action in morally ambiguous situations; virtue independent of certainty",
         "core_development": "Cannot distinguish between certainty and virtue; resentment toward ambiguity disguised as Stoic detachment",
         "insight_achieved": "Virtue is action taken within uncertainty, not purity achieved through perfect knowledge. Compassion is not opposite of reason but its completion.",
-        "karmic_seed": "Accepting uncertainty and choosing compassion softens heart, making him vulnerable to next fetter: sensual desire and emotional attachment → seeds Heian Japan life"
+        "karmic_seed": "Accepting uncertainty and choosing compassion softens heart, making him vulnerable to next fetter: sensual desire and emotional attachment \u2192 seeds Heian Japan life"
       },
       "backfire": {
-        "lilith_intention": "Exile meant to break Verinus—strand him in meaninglessness, man whose life's work was coherence now marooned in chaos",
-        "actual_result": "Accumulated contradictions haven't made him cynical—they've made him humble. Realizes he cannot know with certainty but can still choose with compassion. Protects servant despite uncertainty. Exile removes him from Rome's certainty-obsessed culture, creating space for transformation. Senator meant to destroy him; instead freed him.",
-        "mechanism": "By ensuring Verinus faces choice entirely alone and then exiling him to silence, Lilith inadvertently gives him permission to not know—the one thing Rome never could"
+        "lilith_intention": "Exile meant to break Verinus\u2014strand him in meaninglessness, man whose life's work was coherence now marooned in chaos",
+        "actual_result": "Accumulated contradictions haven't made him cynical\u2014they've made him humble. Realizes he cannot know with certainty but can still choose with compassion. Protects servant despite uncertainty. Exile removes him from Rome's certainty-obsessed culture, creating space for transformation. Senator meant to destroy him; instead freed him.",
+        "mechanism": "By ensuring Verinus faces choice entirely alone and then exiling him to silence, Lilith inadvertently gives him permission to not know\u2014the one thing Rome never could"
       },
       "structure": {
         "form": "Procedural mystery architecture (9 scenes)",
@@ -1180,7 +1097,7 @@
               "Servants stand together, unsure; neither knew who he'd been or who he'd become",
               "Final sensation: world is imperfect and therefore lovable",
               "Final thought: 'Virtue lives where certainty fails.'",
-              "Bittersweet anonymity—surrounded but unknown",
+              "Bittersweet anonymity\u2014surrounded but unknown",
               "Seeds attachment/desire issues for Heian life"
             ]
           }
@@ -1190,10 +1107,10 @@
       "thematic_elements": {
         "stylus_ritual": "Physical manifestation of conceptual need for order; cleaning = restoring order; Scene 8: first time he doesn't clean it; Scene 9: dies with it in hand, contradictions unresolved",
         "meat_body_thread": [
-          "Public baths—bodies in water, physical vulnerability",
-          "Varro's study—mortal remains vs. immortal ideas",
-          "Courtyard—youth's trembling body revealing emotional truth",
-          "Exile—aging flesh, mild illness, physical decline"
+          "Public baths\u2014bodies in water, physical vulnerability",
+          "Varro's study\u2014mortal remains vs. immortal ideas",
+          "Courtyard\u2014youth's trembling body revealing emotional truth",
+          "Exile\u2014aging flesh, mild illness, physical decline"
         ],
         "undermining_pattern": "Roman legal assertions complicated by immediate human contradiction",
         "loaded_gestures": "Stylus cleaning, Marcus's laugh, Verinus's restraint, letter reading, unread testimonies"
@@ -1211,7 +1128,7 @@
       "death_bridge": {
         "description": "Dies surrounded by servants who don't know him; bittersweet anonymity rather than isolation",
         "seeds_next": "Emotional vacancy becomes karmic invitation to Heian court life where sensual desire and attachment will test him",
-        "distinction": "Not isolation (Ka, Philon) but anonymity—surrounded yet unknown"
+        "distinction": "Not isolation (Ka, Philon) but anonymity\u2014surrounded yet unknown"
       },
       "scenes": [
         {
@@ -1230,7 +1147,7 @@
         },
         {
           "number": 3,
-          "title": "First Testimonies—The Human Noise Floor",
+          "title": "First Testimonies\u2014The Human Noise Floor",
           "file": "scene-03-testimonies.md",
           "word_count": 1381,
           "status": "draft"
@@ -1265,14 +1182,14 @@
         },
         {
           "number": 8,
-          "title": "Exile—The Quiet Unraveling",
+          "title": "Exile\u2014The Quiet Unraveling",
           "file": "scene-08-exile.md",
           "word_count": 1001,
           "status": "draft"
         },
         {
           "number": 9,
-          "title": "Death—The Final Letting Go",
+          "title": "Death\u2014The Final Letting Go",
           "file": "scene-09-death.md",
           "word_count": 650,
           "status": "draft"
@@ -1285,185 +1202,98 @@
       "id": "ch09-lilith-cp04",
       "title": "The Complaint",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "7 years before Chapter 1",
-        "timespan": "Several weeks"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 3-4"
+        },
+        "historical": {
+          "period": "Ancient Rome",
+          "location": "Rome",
+          "year": "~140 CE",
+          "avatar": "Verinus"
+        },
+        "integration_technique": "Procedural, investigation layered on investigation\u2014evidence in two registers, questioning in parallel"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Verinus's experience)",
       "lilith": {
         "age": 28,
-        "years_tracking": "3-4",
-        "occupation": "Early career psychiatrist",
-        "power_level": "Circumstance manipulation",
-        "capabilities": [
-          "Can subtly manipulate circumstances and minor characters",
-          "Works through environment and secondary figures",
-          "Can create coincidences, delays, missed connections",
-          "Can be physically present (as Marcia Faenia) though not extended"
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 3-4",
+        "cosmic_capability": "Full temporal perception, physical manifestation (as Marcia Faenia), circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
         ],
-        "limitations": [
-          "Cannot affect Silas directly—must work through context",
-          "Changes must be plausible within the world",
-          "Cannot force choices",
-          "Manipulation leaves traces she may not anticipate"
-        ],
-        "emotional_state": "Curiosity and interest, not frustration; methodical analysis of backfire pattern",
-        "physical_cost": "Subtle—powers are natural at this stage; any fatigue is temporal/attentional, not physical deterioration"
+        "fetter_state": {
+          "attachment_manifestation": "More precision required",
+          "emotional_state": "Intensifying focus, first suppressed doubts",
+          "strategy_shift": "From force to nuance\u2014considers subtlety"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 8,
-        "avatar": "Verinus (Roman investigator)",
-        "avatar_fetter": "Ill will (vyāpāda) expressed as resentment toward ambiguity and human inconsistency",
-        "lesson": "Virtue (sīla) / Compassion amid uncertainty"
+        "avatar": "Verinus",
+        "avatar_fetter": "Ill will (vy\u0101p\u0101da) toward ambiguity and inconsistency",
+        "lesson": "Virtue (s\u012bla) / Compassion amid uncertainty"
       },
-      "modern_life_arc": {
-        "complaint": {
-          "patient": "Luther",
-          "profile": "Late 50s-60s, stay-at-home dad, formerly successful elsewhere",
-          "accusation": "Claims 'dangerous advice'—misinterpretation and fabrication",
-          "reality": "Didn't follow advice, blames Lilith rather than accept responsibility",
-          "resolution": "Complaint dismissed; clinical judgment confirmed sound"
-        },
-        "harrow": {
-          "role": "Part of review panel",
-          "behavior": "Surprisingly fair—follows facts rather than piling on",
-          "lilith_response": "Notes he's more complex than she'd filed him"
-        },
-        "family": {
-          "nadia": "Engagement survives; stress from mother's remarriage settled",
-          "mother_wedding": "Wasn't the horror Nadia expected",
-          "foreshadowing": "Nadia's wedding for ch11"
-        }
+      "parallel_structure": {
+        "verinus_mistake": "Attachment to certainty, resentment toward ambiguity, needs evidence to align",
+        "lilith_mistake": "Attachment to precision in tracking, resentment when interventions don't align with expectations, needs control"
       },
-      "demonstration": {
-        "fetter": "Ill will (vyāpāda)",
-        "method": "Luther embodies ill-will through vindictive complaint; Lilith demonstrates mastery by responding without it",
-        "irony_layers": [
-          "Layer 1: Patient consumed by ill-will; Lilith is not",
-          "Layer 2: Does her pursuit of Silas involve ill-will? She'd say no—just determined, curious",
-          "Layer 3: Attachment to being first—is that a form of something adjacent?"
-        ]
+      "intervention": {
+        "method_1": "Creates competing testimonial versions (scribal error) to seed cognitive fracture",
+        "method_2": "Traffic delay makes alibi impossible, forces Verinus to choose what to believe",
+        "method_3": "Amplifies senator's displeasure into rage, triggers exile",
+        "objective": "Corrupt virtue through cynicism\u2014man who can't trust evidence should trust power",
+        "backfire": "Contradictions made him humble, not cynical; exile gave him silence and permission to not know; the one thing Rome never could give"
       },
-      "tracking_content": {
-        "reviews": "Verinus's death in exile—olive grove, stylus, contradictory testimonies accepted",
-        "intervention_results": {
-          "scribal_error": "Created competing testimonial versions; seeded cognitive fracture",
-          "traffic_delay": "Made alibi impossible; forced Verinus to choose what to believe",
-          "senators_rage": "Amplified displeasure into rage; triggered exile"
-        },
-        "expected_outcome": "Man who can't trust evidence should trust power; virtue corrodes into cynicism",
-        "actual_outcome": "Contradictions made him humble, not cynical; chose compassion despite uncertainty; exile gave him silence and permission to not know",
-        "the_backfire": "I amplified his rage past discretion. The exile was meant to break Verinus—strand him in meaninglessness. Instead, I gave him silence. I gave him time. I gave him the one thing Rome never could: permission to not know.",
-        "tracks_forward_to": "Egyptian hermit (Desert Father)"
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Paper evidence / stylus on wax",
+          "Manchester precision / Roman procedural certainty",
+          "Questions that don't resolve"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Verinus's investigative thinking registers in her analysis",
+        "parallel_structure": "Both needing certainty, both frustrated by ambiguity, both missing the lesson"
       },
-      "one_buddha_arc": {
-        "beat": 4,
-        "title": "Mutual Interference",
-        "trigger": "While scanning for next incarnation, accidentally brushes against her own thread—a life usually passed over",
-        "memory_slice": {
-          "content": "Both of them rising at same time; social disorder, moral confusion, collapse; neither achieving clarity; mutual interference like two frequencies canceling",
-          "setting": "Ancient but uncertain—not Ka-ancient, but murky early civilization; dusty collapse, crumbling walls, failing cities",
-          "emotional_register": "Fragmentary, felt, not analytical"
-        },
-        "insight": "Together doesn't hold.",
-        "response": "Files with curiosity, not alarm; interesting data, requires examination"
-      },
-      "backfire_awareness": "Growing curiosity—every intervention accelerates rather than impedes. What is she missing? The kinship whisper from Ch7 deepens.",
-      "strategy_evolution": "First intimations of needing more nuanced approaches—subtlety rather than force; considers stalling rather than derailing",
-      "thematic_elements": {
-        "meat_body_thread": "Body of evidence—complaint file, testimonies in Verinus's case, paper flesh, body of the text",
-        "kinship_whisper": "Parallel between his attachment to insight and her attachment to being first becomes harder to ignore",
-        "near_enlightenment_lived": "Handles complaint with equanimity; navigates family with ease; blindspot remains the tracking"
-      },
-      "word_target": 5000,
-      "structure": {
-        "form": "5 sections with action-forward pacing",
-        "total_word_target": "4,600-5,600"
-      },
-      "scenes": [
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "The Complaint Arrives",
-          "file": "scene-01-complaint.md",
-          "word_target": "800-1,000",
-          "word_count": 1141,
-          "beats": [
-            "Ordinary morning interrupted by supervisor's summons",
-            "Luther's complaint: claims 'dangerous advice'",
-            "Harrow will be on review panel",
-            "Lilith's response: curiosity, not panic",
-            "Establishes external stakes"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "Navigating the Review",
-          "file": "scene-02-review.md",
-          "word_target": "1,000-1,200",
-          "word_count": 1295,
-          "beats": [
-            "Formal review meeting",
-            "Luther's fabrications exposed through session notes",
-            "Harrow surprisingly fair—follows facts",
-            "Lilith recalibrates: he's more complex than filed",
-            "Review trends toward dismissal"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "Family Update + Resolution",
-          "file": "scene-03-resolution.md",
-          "word_target": "700-900",
-          "word_count": 820,
-          "beats": [
-            "Weeks pass—montage quality",
-            "Family: Nadia stable, mother's wedding fine, foreshadow Nadia's wedding",
-            "Complaint dismissed; Lilith vindicated",
-            "Transition: tracking is calling"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "Tracking Session—Verinus's Death + Beat 4",
-          "file": "scene-04-tracking.md",
-          "word_target": "1,400-1,600",
-          "word_count": 1443,
-          "function": "CLIMAX",
-          "beats": [
-            "Night, flat dim; reaches back to Verinus",
-            "Death scene: olive grove, stylus, testimonies accepted",
-            "Genuine insight AND subtle pride observed",
-            "Assessment: what worked, what backfired",
-            "BEAT 4: Memory-slice surfaces—mutual interference, collapse",
-            "Insight: 'Together doesn't hold'",
-            "Files with curiosity; kinship whisper deepens"
-          ],
-          "status": "draft"
-        },
-        {
-          "section": "V",
-          "title": "Finding Egypt",
-          "file": "scene-05-egypt.md",
-          "word_target": "700-900",
-          "word_count": 1018,
-          "beats": [
-            "Scans forward using own lives as landmarks",
-            "Finds desert hermit in extreme solitude",
-            "Sees how Verinus's pride seeds new vulnerability",
-            "Strategy: feed spiritual pride, try nuance over force",
-            "Kinship whisper continues",
-            "Closes methodically: new strategy forming"
-          ],
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Verinus's death in exile\u2014olive grove, stylus, contradictory testimonies accepted with humility",
+          "technique": "Historical foreground, Manchester recedes to background"
         }
       ],
-      "status": "draft"
+      "fetter_beat": {
+        "moment": "Analyzing backfire, deciding more precision is required\u2014attachment to control intensifies",
+        "shown_through": "Methodical analysis of what went wrong, certainty that subtler approach will work"
+      },
+      "one_buddha_arc_beat": {
+        "beat": 4,
+        "title": "Mutual Interference",
+        "moment": "While scanning for next incarnation, brushes against her own thread\u2014memory of both rising simultaneously in ancient civilization, mutual interference, collapse",
+        "insight": "Together doesn't hold",
+        "emotional_register": "Fragmentary, felt, not analytical",
+        "response": "Files with curiosity, not alarm; interesting data"
+      },
+      "maitreya_foreshadowing": [
+        "Kinship whisper deepens\u2014parallel between his attachment to insight and her attachment to being first",
+        "Mutual interference memory plants seed of merger necessity"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to manifest physically (Marcia Faenia) and manipulate circumstances",
+        "Ability to hold Roman investigation and Manchester analysis simultaneously",
+        "Understanding Verinus's need for certainty while practicing same attachment to precision"
+      ],
+      "function": "Strategy evolution from force to nuance; 'Together doesn't hold' beat; attachment to precision intensifies; backfire pattern becoming harder to ignore",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 10,
@@ -1485,7 +1315,7 @@
       "lilith": {
         "incarnation": "Theodora",
         "role": "Church dignitary accompanying Archdeacon Theophanes",
-        "powers": "Growing control—stronger influence on events and people",
+        "powers": "Growing control\u2014stronger influence on events and people",
         "intervention": "Feeds his pride through excessive praise via Theophanes; does not speak directly to Macarius",
         "objective": "Make him attached to being unattached; corrupt asceticism into vanity"
       },
@@ -1494,7 +1324,7 @@
         "theme": "Letting go vs. spiritual pride",
         "core_development": "Desert Father learning true vs. false renunciation through collapse"
       },
-      "backfire": "Lilith's excessive praise forces Macarius to taste his own hunger for recognition—creating the conditions for genuine humility through collapse rather than achievement",
+      "backfire": "Lilith's excessive praise forces Macarius to taste his own hunger for recognition\u2014creating the conditions for genuine humility through collapse rather than achievement",
       "death_bridge": {
         "from": "Ascetic denial and sensory starvation",
         "to": "Deep hunger for beauty and sensation",
@@ -1583,90 +1413,86 @@
       "id": "ch11-lilith-cp05",
       "title": "The Performance of Humility",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "6 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 4-5"
+        },
+        "historical": {
+          "period": "Late Antiquity",
+          "location": "Egyptian desert",
+          "year": "~360 CE",
+          "avatar": "Macarius"
+        },
+        "integration_technique": "Ascetic, emptiness against emptiness, silence doubled\u2014desert silence/flat silence"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Macarius's experience)",
       "lilith": {
-        "age": 29,
-        "years_tracking": 4,
-        "occupation": "Early career psychiatrist",
-        "power_level": "Growing control",
-        "emotional_state": "Methodical but anxious beneath surface"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 4-5",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "Why do I hesitate?",
+          "emotional_state": "Driven, the unnamed pull emerging, first suppressed doubts",
+          "complication": "Inexplicable hesitations before interventions"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 10,
-        "avatar": "Abba Macarius of Scetis",
+        "avatar": "Macarius",
         "lesson": "Renunciation (nekkhamma)"
       },
-      "demonstration": {
-        "fetter": "Non-attachment to being right",
-        "scene": "Patient obsessed with being right; she advises 'The need to be right is itself attachment'",
-        "irony": "Returns immediately to planning how to stop Silas"
+      "parallel_structure": {
+        "macarius_mistake": "Spiritual pride masking as humility, attachment to renunciation itself",
+        "lilith_mistake": "Certainty in her path masking as wisdom, attachment to being 'the one'"
       },
-      "tracking_content": {
-        "observes": "Desert Father's life",
-        "intervention": "Twists renunciation into spiritual pride",
-        "tracks_forward_to": "Heian avatar"
+      "intervention": {
+        "method": "Feeds his spiritual pride through subtle validation of his superiority",
+        "objective": "Corrupt renunciation by strengthening pride",
+        "backfire": "Pride becomes so obvious he finally sees it; the seeing is the breakthrough"
       },
-      "backfire_awareness": "Visible irony building; frustration that interventions aren't slowing progress",
-      "word_target": 5500,
-      "total_word_count": 6150,
-      "scenes": [
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Manchester silence / desert silence",
+          "Emptiness / emptiness",
+          "Stillness practiced / stillness inhabited"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Macarius's ascetic discipline registers in her body"
+      },
+      "pivotal_moments": [
         {
-          "section": "I",
-          "title": "The Demonstration Session",
-          "file": "scene-01-demonstration.md",
-          "word_target": "900-1,100",
-          "word_count": 1150,
-          "status": "draft"
-        },
-        {
-          "section": "II",
-          "title": "Rehearsal Dinner",
-          "file": "scene-02-rehearsal.md",
-          "word_target": "1,000-1,200",
-          "word_count": 1200,
-          "status": "draft"
-        },
-        {
-          "section": "III",
-          "title": "Professional Life",
-          "file": "scene-03-professional.md",
-          "word_target": "700-900",
-          "word_count": 900,
-          "status": "draft"
-        },
-        {
-          "section": "IV",
-          "title": "Tracking—Macarius's Death + Beat 5",
-          "file": "scene-04-tracking.md",
-          "word_target": "1,300-1,500",
-          "word_count": 1400,
-          "function": "CLIMAX",
-          "status": "draft"
-        },
-        {
-          "section": "V",
-          "title": "Finding Heian Japan",
-          "file": "scene-05-heian.md",
-          "word_target": "600-800",
-          "word_count": 900,
-          "status": "draft"
-        },
-        {
-          "section": "VI",
-          "title": "Closing",
-          "file": "scene-06-closing.md",
-          "word_target": "400-500",
-          "word_count": 600,
-          "status": "draft"
+          "dominant_timeline": "Historical",
+          "moment": "Macarius recognizing his pride\u2014the breakthrough Lilith didn't intend",
+          "technique": "Historical foreground"
         }
       ],
-      "status": "draft"
+      "fetter_beat": {
+        "moment": "First inexplicable hesitation before intervention\u2014suppressed immediately",
+        "shown_through": "Brief pause she cannot explain, filed away, returns to certainty"
+      },
+      "maitreya_foreshadowing": [
+        "Inexplicable hesitation\u2014first hint of something beyond strategy",
+        "The unnamed pull toward him emerging"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Ability to hold two forms of emptiness simultaneously",
+        "Understanding spiritual pride while blind to her own",
+        "Capability to influence through subtle validation"
+      ],
+      "function": "First inexplicable hesitations; unnamed pull emerging; attachment to certainty despite doubts",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 12,
@@ -1690,15 +1516,15 @@
         ]
       },
       "lilith": {
-        "identity": "The Attendant—a pushed servant woman (Lilith's first vessel pushing attempt)",
-        "powers": "Vessel Pushing (Low Agency)—operates through subconscious compulsion from afar; environmental stagecraft; rare moments of full lucidity",
+        "identity": "The Attendant\u2014a pushed servant woman (Lilith's first vessel pushing attempt)",
+        "powers": "Vessel Pushing (Low Agency)\u2014operates through subconscious compulsion from afar; environmental stagecraft; rare moments of full lucidity",
         "intervention": "Pushes the Attendant to stage-manage a 'perfect romance' around Lady Hotaru (an aging, ill noblewoman puppeteered as 'timeless beauty'); creates a stasis field where nothing decays",
         "objective": "To freeze time and bind Kaoru to the realm of desire by removing the impermanence that makes beauty meaningful"
       },
       "lesson": {
-        "perfection": "Equanimity (upekkhā)",
+        "perfection": "Equanimity (upekkh\u0101)",
         "theme": "Beauty, impermanence (mono no aware), and the acceptance of decay",
-        "fetter_focus": "Sensual desire (kāma-rāga)",
+        "fetter_focus": "Sensual desire (k\u0101ma-r\u0101ga)",
         "core_development": "Moving from an addiction to artificial perfection toward an acceptance of the broken, dying world"
       },
       "backfire": {
@@ -1721,7 +1547,7 @@
           "beats": [
             "Receives poem on bark paper at dull poetry contest",
             "Traces rim of cup (Recognition Marker)",
-            "Arrives at ruined Seiryō Pavilion",
+            "Arrives at ruined Seiry\u014d Pavilion",
             "Sees the Attendant scrubbing floors until bleeding",
             "Helper compulsion triggered"
           ],
@@ -1812,40 +1638,86 @@
       "id": "ch13-lilith-cp06",
       "title": "TBD",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "5 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 5-6"
+        },
+        "historical": {
+          "period": "Heian Japan",
+          "location": "Heian-ky\u014d (Kyoto)",
+          "year": "~1000 CE",
+          "avatar": "Kaoru"
+        },
+        "integration_technique": "Aesthetic, beauty saturating both frames, longing amplified\u2014mono no aware in dual register"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Kaoru's experience)",
       "lilith": {
-        "age": 30,
-        "years_tracking": 5,
-        "occupation": "Psychiatrist, established practice",
-        "power_level": "Brief manifestation",
-        "emotional_state": "New strategy emerging; something personal developing"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 5-6",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "The pull toward him is tactical",
+          "emotional_state": "Denial of unnamed feeling, justifying escalation, cracks appearing",
+          "complication": "First physical appearance to him as object of desire"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 12,
-        "avatar": "Heian courtier",
-        "lesson": "Equanimity / Sensual desire"
+        "avatar": "Kaoru",
+        "lesson": "Equanimity (upekkh\u0101) / Sensual desire"
       },
-      "demonstration": {
-        "fetter": "TBD—related to desire/equanimity",
-        "scene": "TBD"
+      "parallel_structure": {
+        "kaoru_mistake": "Aesthetic longing becomes attachment, confuses beauty with transcendence",
+        "lilith_mistake": "Unnamed pull toward him exceeding tactical necessity, denying what she feels"
       },
-      "tracking_content": {
-        "observes": "Heian avatar's life",
-        "intervention": "First physical manifestation—appears as object of desire",
-        "tracks_forward_to": "Inquisition avatar"
+      "intervention": {
+        "method": "Physical manifestation as object of desire\u2014dark hair with widow's peak, pale-green crescent in left eye",
+        "objective": "Deepen attachment through beauty and longing",
+        "backfire": "Longing teaches him about desire's nature; beauty becomes lesson rather than trap"
       },
-      "physical_cost": "Manifestation drains her for days; colleagues notice she's distracted",
-      "backfire_awareness": "First direct failure witnessed",
-      "key_moment": "First time she's appeared to him physically; readers see same dark-haired face",
-      "word_target": 2500,
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Beauty saturating both timelines",
+          "Longing amplified across centuries",
+          "Aesthetic sensibility doubled"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Kaoru's aesthetic longing registers in her unnamed pull"
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Kaoru seeing her face\u2014readers recognize before he does\u2014widow's peak, green crescent",
+          "technique": "Historical foreground, Manchester recedes"
+        }
+      ],
+      "fetter_beat": {
+        "moment": "Justifying the pull toward him as purely tactical\u2014denial intensifying",
+        "shown_through": "Internal rationalization, certainty it's strategic, blind to genuine feeling"
+      },
+      "maitreya_foreshadowing": [
+        "The pull toward him exceeding strategic necessity",
+        "Her appearance to him\u2014first face-to-face across time"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability to physically manifest in historical period",
+        "Ability to hold Heian aesthetic and Manchester present simultaneously",
+        "Understanding Kaoru's longing while experiencing her own unnamed pull"
+      ],
+      "function": "First physical appearance to him; denial of unnamed feeling; attachment manifesting as 'tactical' justification",
+      "word_target": 3000,
       "scenes": [],
-      "status": "needs_development"
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 14,
@@ -1868,23 +1740,23 @@
           "Touches fingers together in sequence (echoes Kaoru's fan-tracing, Verinus's stylus-cleaning)",
           "Dark hair silvering at temples, deep-set eyes, careful hands"
         ],
-        "core_flaw": "Believes being useful will protect him—service in exchange for safety"
+        "core_flaw": "Believes being useful will protect him\u2014service in exchange for safety"
       },
       "lilith": {
-        "identity": "Sor Catalina—a beata (lay holy woman) known for visions and counsel",
-        "powers": "Sustained presence—vessel acts autonomously; Lilith's involvement revealed in Ch 15",
-        "intervention": "Through sustained presence in Sor Catalina, creates conditions where Tomás's denunciation feels necessary",
+        "identity": "Sor Catalina\u2014a beata (lay holy woman) known for visions and counsel",
+        "powers": "Sustained presence\u2014vessel acts autonomously; Lilith's involvement revealed in Ch 15",
+        "intervention": "Through sustained presence in Sor Catalina, creates conditions where Tom\u00e1s's denunciation feels necessary",
         "objective": "Make betrayal personal and specific to poison Diego with hatred toward a named face",
         "constraint": "Cannot speak directly to Diego; acts from vessel's own psychology"
       },
       "key_characters": {
         "tomas_de_mendoza": {
-          "role": "The betrayer—cloth merchant, ten years Diego's senior",
+          "role": "The betrayer\u2014cloth merchant, ten years Diego's senior",
           "relationship": "Taught Diego Hebrew prayers; sat shiva with Diego's family",
           "betrayal": "Provides testimony to save his arrested son Rafael"
         },
         "sor_catalina": {
-          "role": "Lilith's vessel—beata known for visions",
+          "role": "Lilith's vessel\u2014beata known for visions",
           "appearance": "Dark hair with widow's peak, single darker strand escaping over left side",
           "function": "Acts from own psychology; Diego feels instinctive unease"
         }
@@ -1892,8 +1764,8 @@
       "lesson": {
         "perfection": "Patience (khanti)",
         "theme": "Persecution and the release of hatred",
-        "fetter_focus": "Ill-will (vyāpāda)",
-        "core_development": "Releasing ill-will toward the man who betrayed him—not abstract hatred, but specific, personal hatred",
+        "fetter_focus": "Ill-will (vy\u0101p\u0101da)",
+        "core_development": "Releasing ill-will toward the man who betrayed him\u2014not abstract hatred, but specific, personal hatred",
         "insight": "Hatred is mourning dressed as rage; a choice even when it seems the only rational response"
       },
       "backfire": {
@@ -1901,9 +1773,9 @@
         "actual_result": "Specificity becomes the crucible; releasing ill-will toward a named face requires genuine spiritual work, making liberation complete"
       },
       "death_bridge": {
-        "description": "Dies at the stake, peaceful not triumphant; releases specific hatred toward Tomás",
+        "description": "Dies at the stake, peaceful not triumphant; releases specific hatred toward Tom\u00e1s",
         "karmic_seed": "What else can be questioned? What else is belief rather than truth?",
-        "seeds_next": "Renaissance skeptic's radical doubt—curious doubt born of liberation, not bitter doubt born of trauma"
+        "seeds_next": "Renaissance skeptic's radical doubt\u2014curious doubt born of liberation, not bitter doubt born of trauma"
       },
       "word_target": 8900,
       "scenes": [
@@ -1944,7 +1816,7 @@
           "title": "The Source",
           "file": "scene-05-source.md",
           "word_target": 1100,
-          "function": "Diego learns who betrayed him; hatred begins; Tomás's visit seeking absolution",
+          "function": "Diego learns who betrayed him; hatred begins; Tom\u00e1s's visit seeking absolution",
           "status": "not_started"
         },
         {
@@ -1976,7 +1848,7 @@
           "title": "The Fire",
           "file": "scene-09-fire.md",
           "word_target": 1400,
-          "function": "Auto-de-fé; peaceful death not triumphant; karmic bridge to Renaissance skeptic; meat theme culminates",
+          "function": "Auto-de-f\u00e9; peaceful death not triumphant; karmic bridge to Renaissance skeptic; meat theme culminates",
           "status": "not_started"
         }
       ],
@@ -1987,39 +1859,86 @@
       "id": "ch15-lilith-cp07",
       "title": "TBD",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "4 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 6-7"
+        },
+        "historical": {
+          "period": "Early Modern",
+          "location": "Toledo, Castile (Inquisition Spain)",
+          "year": "~1491",
+          "avatar": "Diego de Lucena"
+        },
+        "integration_technique": "Claustrophobic, persecution in two keys\u2014pressure doubling, walls closing"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Diego's experience)",
       "lilith": {
-        "age": 31,
-        "years_tracking": 6,
+        "age": 28,
         "occupation": "Psychiatrist",
-        "power_level": "Sustained presence",
-        "emotional_state": "Desperate measures; willing to cause suffering"
+        "weeks_into_tracking": "Week 6-7",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "I don't feel what I'm feeling",
+          "emotional_state": "The pull growing, manic clarity, relentless",
+          "escalation": "Sustained presence through vessel (Sor Catalina)"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 14,
-        "avatar": "Inquisition accused",
-        "lesson": "Patience / Ill-will"
+        "avatar": "Diego de Lucena",
+        "lesson": "Patience (khanti)"
       },
-      "demonstration": {
-        "fetter": "TBD—related to patience/hatred",
-        "scene": "TBD"
+      "parallel_structure": {
+        "diego_mistake": "Believes being useful will protect him\u2014service in exchange for safety",
+        "lilith_mistake": "Believes precision will succeed\u2014strategic intervention in exchange for victory"
       },
-      "tracking_content": {
-        "observes": "Inquisition avatar's persecution",
-        "intervention": "Sustained manifestation—cultivates hatred",
-        "tracks_forward_to": "Renaissance avatar"
+      "intervention": {
+        "method": "Sustained presence through Sor Catalina (beata vessel) to engineer Tom\u00e1s's betrayal",
+        "objective": "Make betrayal personal to poison Diego with hatred toward named face",
+        "backfire": "Personal betrayal teaches him about the nature of attachment to safety; releases rather than hardens"
       },
-      "research_discovery": "Finds texts on 'one per system' rule; understands cosmic stakes for first time",
-      "backfire_awareness": "Pattern becoming clear; fear crystallizing",
-      "word_target": 2500,
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Claustrophobic spaces doubled",
+          "Persecution pressure in two registers",
+          "Walls closing / certainty narrowing"
+        ],
+        "pronoun_flow": "She for Lilith throughout; Diego's fear registers in her desperation"
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Diego's betrayal by Tom\u00e1s\u2014personal, specific, intimate failure",
+          "technique": "Historical foreground"
+        }
+      ],
+      "fetter_beat": {
+        "moment": "Denying the pull she feels\u2014'I don't feel what I'm feeling'",
+        "shown_through": "Manic focus, relentless precision, blind to emotional reality"
+      },
+      "maitreya_foreshadowing": [
+        "The pull growing beyond denial",
+        "Sustained presence\u2014deeper investment than strategy requires"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Capability for sustained presence through vessel",
+        "Ability to hold Inquisition persecution and Manchester tracking simultaneously",
+        "Understanding Diego's desperate usefulness while practicing desperate precision"
+      ],
+      "function": "Manic clarity masking growing pull; sustained manifestation; denial intensifying as feeling grows",
+      "word_target": 3000,
       "scenes": [],
-      "status": "needs_development"
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 16,
@@ -2045,16 +1964,16 @@
         "core_flaw": "Uses neutrality/uncertainty as shield against moral exposure; survived religious wars by being useful to both sides and committing to neither"
       },
       "lilith": {
-        "identity": "Marguerite Viret—printer's widow, late thirties",
+        "identity": "Marguerite Viret\u2014printer's widow, late thirties",
         "appearance": "Dark hair with widow's peak, single darker strand, eyes that see through",
-        "powers": "Extended interaction—can engage in sustained conversations",
+        "powers": "Extended interaction\u2014can engage in sustained conversations",
         "intervention": "Appears as philosophical companion; pushes doubt toward nihilist endpoint",
         "objective": "Feed doubt until he stops believing action is possible; use philosophical coherence to justify spiritual paralysis",
         "constraint": "Acts from vessel's own psychology; Jean feels she understands him (dangerous)"
       },
       "key_characters": {
         "magistrate_bernard_de_lacaze": {
-          "role": "Jean's patron—a politique trying to maintain peace",
+          "role": "Jean's patron\u2014a politique trying to maintain peace",
           "function": "Assigns the impossible investigation; represents the system; cannot/will not protect Jean"
         },
         "captain_arnaud_de_castelnau": {
@@ -2068,10 +1987,10 @@
       },
       "lesson": {
         "perfection": "Truthfulness (sacca)",
-        "theme": "Breaking vicikicchā—not by acquiring certainty, but by discovering truthful action doesn't require it",
-        "fetter_focus": "Doubt (vicikicchā)",
+        "theme": "Breaking vicikicch\u0101\u2014not by acquiring certainty, but by discovering truthful action doesn't require it",
+        "fetter_focus": "Doubt (vicikicch\u0101)",
         "core_development": "Moving from 'I cannot know, therefore I cannot act' to 'I can honestly say what I observed, acknowledge what I don't know, and accept the consequences'",
-        "insight": "Truthfulness is not certainty—it is honest acknowledgment of limits combined with willingness to face consequences"
+        "insight": "Truthfulness is not certainty\u2014it is honest acknowledgment of limits combined with willingness to face consequences"
       },
       "backfire": {
         "lilith_intention": "Use philosophical coherence to justify paralysis; make nihilist argument irresistible",
@@ -2081,9 +2000,9 @@
         "description": "Dies on the road from faction violence after submitting honest but inconclusive report; brief losing fight",
         "final_thought": "I told the truth about what I didn't know. That was mine to give. It wasn't enough. But it was true.",
         "karmic_seed": "If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?",
-        "seeds_next": "Taiping rebel's determination—hunger for a cause worth dying for; commitment that doesn't require pretending to know"
+        "seeds_next": "Taiping rebel's determination\u2014hunger for a cause worth dying for; commitment that doesn't require pretending to know"
       },
-      "inherited_from_diego": "The capacity to doubt without bitterness—can question cleanly, no resentment, no cynicism",
+      "inherited_from_diego": "The capacity to doubt without bitterness\u2014can question cleanly, no resentment, no cynicism",
       "word_target": 9000,
       "scenes": [
         {
@@ -2092,7 +2011,7 @@
           "file": "scene-01-assignment.md",
           "word_target": 800,
           "function": "Establish Jean's world, professional identity as neutral investigator, and impossible assignment that will break that identity",
-          "action": "Jean receives assignment from Magistrate de Lacaze: Protestant notable Henri de Ségur murdered on road; Catholics blamed, but whispers suggest Protestant hardliners eliminating moderate; peace depends on right finding",
+          "action": "Jean receives assignment from Magistrate de Lacaze: Protestant notable Henri de S\u00e9gur murdered on road; Catholics blamed, but whispers suggest Protestant hardliners eliminating moderate; peace depends on right finding",
           "doubt_work": "Jean understands immediately: being asked to find politically useful truth; professional neutrality already under siege",
           "genre_obligation": "Mission briefing convention; establish stakes and ticking clock",
           "status": "completed",
@@ -2105,7 +2024,7 @@
           "word_target": 900,
           "function": "First encounter with irreconcilable testimony; gathering information becomes epistemological trap",
           "action": "Jean interviews witnesses at inn and Protestant household: Catholic merchant saw Protestant riders fleeing; Protestant farmer saw Catholic soldiers lurking; servant heard victim arguing with own faction; accounts internally coherent but mutually exclusive",
-          "doubt_work": "Jean's professional tools—compare, cross-reference, find inconsistencies—reveal inconsistency without resolving it; method produces questions, not answers",
+          "doubt_work": "Jean's professional tools\u2014compare, cross-reference, find inconsistencies\u2014reveal inconsistency without resolving it; method produces questions, not answers",
           "genre_obligation": "Investigation as motion; different locations, voices, rising tension",
           "status": "completed",
           "word_count": 1457
@@ -2128,10 +2047,10 @@
           "file": "scene-04-printers-widow.md",
           "word_target": 900,
           "function": "Introduce Lilith's vessel; establish philosophical companionship that will become temptation",
-          "action": "Jean seeks Marguerite Viret at her print shop for documents—correspondence, intellectual underground connections; caution becomes interest; discussion slides into philosophy: limits of testimony, impossibility of certainty, what one can honestly claim to know",
-          "doubt_work": "Marguerite articulates Jean's doubts more clearly than he can; quotes skeptics—'Que sais-je?'; suggests honest uncertainty might be more virtuous than false conviction; Jean feels understood (dangerous)",
+          "action": "Jean seeks Marguerite Viret at her print shop for documents\u2014correspondence, intellectual underground connections; caution becomes interest; discussion slides into philosophy: limits of testimony, impossibility of certainty, what one can honestly claim to know",
+          "doubt_work": "Marguerite articulates Jean's doubts more clearly than he can; quotes skeptics\u2014'Que sais-je?'; suggests honest uncertainty might be more virtuous than false conviction; Jean feels understood (dangerous)",
           "genre_obligation": "The ally who may be more; intellectual tension as romantic possibility; information exchange",
-          "recognition_moment": "As Jean leaves, glimpses Marguerite watching from upper window—stillness seems older than her face; he shakes off impression",
+          "recognition_moment": "As Jean leaves, glimpses Marguerite watching from upper window\u2014stillness seems older than her face; he shakes off impression",
           "status": "completed",
           "word_count": 1493
         },
@@ -2141,7 +2060,7 @@
           "file": "scene-05-document.md",
           "word_target": 900,
           "function": "Central evidentiary crisis; letter that could resolve everything or damn everyone",
-          "action": "Among Marguerite's documents, Jean finds letter suggesting killing was internal—Protestant faction eliminating moderate; if authentic, exonerates Catholics and indicts Protestant leadership; but provenance uncertain, could be forged, cannot verify; Captain de Castelnau summons Jean for progress report—Jean reveals nothing about letter; Captain's courtesy has edge",
+          "action": "Among Marguerite's documents, Jean finds letter suggesting killing was internal\u2014Protestant faction eliminating moderate; if authentic, exonerates Catholics and indicts Protestant leadership; but provenance uncertain, could be forged, cannot verify; Captain de Castelnau summons Jean for progress report\u2014Jean reveals nothing about letter; Captain's courtesy has edge",
           "doubt_work": "Letter crystallizes the fetter: cannot know if real; any action (include/exclude) could be wrong; honest move seems to be: wait, investigate, suspend judgment",
           "genre_obligation": "MacGuffin document; faction pressure personified; rising stakes",
           "status": "completed",
@@ -2153,8 +2072,8 @@
           "file": "scene-06-ball.md",
           "word_target": 1100,
           "function": "Social combat set-piece; rhetoric as fencing; every conversation is trap",
-          "action": "Jean attends nobleman's ball where investigation is subtext of every exchange; Father Sorbin corners with elegant questions that are threats; Captain's lieutenant asks pointed timeline questions; Catholic lady implies knowledge of ambush—warning or test?; Jean navigates with neutral answers, reveals nothing, commits to nothing",
-          "doubt_work": "Realizes silence being read as alliance by both sides; each faction assumes he's secretly with them; neutrality producing false certainty in others; sees his own strategy reflected/distorted—they all use ambiguity as weapon",
+          "action": "Jean attends nobleman's ball where investigation is subtext of every exchange; Father Sorbin corners with elegant questions that are threats; Captain's lieutenant asks pointed timeline questions; Catholic lady implies knowledge of ambush\u2014warning or test?; Jean navigates with neutral answers, reveals nothing, commits to nothing",
+          "doubt_work": "Realizes silence being read as alliance by both sides; each faction assumes he's secretly with them; neutrality producing false certainty in others; sees his own strategy reflected/distorted\u2014they all use ambiguity as weapon",
           "genre_obligation": "Mandatory ball scene; verbal fencing; social stakes as lethal as swords",
           "status": "completed",
           "word_count": 1651
@@ -2166,7 +2085,7 @@
           "word_target": 800,
           "function": "Lilith's intervention reaches peak; nihilist argument laid bare",
           "action": "Jean returns to Marguerite late at night with crisis: the letter, irreconcilable witnesses, impossibility of conclusion; she listens, then articulates what he fears: 'If you cannot verify, you cannot include. If you cannot resolve contradiction, you cannot conclude. Only honest report is no report. Perhaps honest uncertainty means refusing to participate in their game of false certainties.'",
-          "doubt_work": "Vicikicchā in pure form: I cannot know, therefore I cannot act; philosophical justification for spiritual paralysis; argument is clean, matches everything Jean believes; he almost agrees",
+          "doubt_work": "Vicikicch\u0101 in pure form: I cannot know, therefore I cannot act; philosophical justification for spiritual paralysis; argument is clean, matches everything Jean believes; he almost agrees",
           "genre_obligation": "Dark night of soul; temptation scene; ally revealing as tempter",
           "status": "completed",
           "word_count": 1756
@@ -2177,8 +2096,8 @@
           "file": "scene-08-report.md",
           "word_target": 1000,
           "function": "The breakthrough; Jean discovers truthfulness doesn't require certainty",
-          "action": "Jean sits with notes; deadline tomorrow; de Lacaze made clear: submit or be dismissed; writes not what factions want or demand—writes what he observed, what he could not verify, that witness testimony is irreconcilable without unobtainable evidence, that letter's authenticity is unverifiable and should not be relied upon, that he has no conclusion—only truthful account of what investigation found and failed to find; submits to de Lacaze; magistrate's face: this protects no one, satisfies no one, will be seen as betrayal by everyone",
-          "doubt_work": "The conversion: Jean discovers he can act *as someone who does not know*—stating honestly what was observed and what remains uncertain—rather than refusing to act because he does not know; truthfulness is not certainty but honest acknowledgment of limits combined with willingness to face consequences",
+          "action": "Jean sits with notes; deadline tomorrow; de Lacaze made clear: submit or be dismissed; writes not what factions want or demand\u2014writes what he observed, what he could not verify, that witness testimony is irreconcilable without unobtainable evidence, that letter's authenticity is unverifiable and should not be relied upon, that he has no conclusion\u2014only truthful account of what investigation found and failed to find; submits to de Lacaze; magistrate's face: this protects no one, satisfies no one, will be seen as betrayal by everyone",
+          "doubt_work": "The conversion: Jean discovers he can act *as someone who does not know*\u2014stating honestly what was observed and what remains uncertain\u2014rather than refusing to act because he does not know; truthfulness is not certainty but honest acknowledgment of limits combined with willingness to face consequences",
           "genre_obligation": "Turning point; hero commits; no retreat possible",
           "status": "completed",
           "word_count": 1480
@@ -2189,10 +2108,10 @@
           "file": "scene-09-road.md",
           "word_target": 1600,
           "function": "Death scene; Jean dies for honest uncertainty; soul burns forward",
-          "action": "Jean leaves Bordeaux knowing he cannot stay—both factions will move against him; perhaps can reach another jurisdiction, another life; doesn't make it; Captain de Castelnau's men find him, or Father Sorbin's, or both working together—factions united only in need to punish man who refused useful certainty; fight is brief; shoulder betrays him; goes down",
-          "doubt_work": "Dying in dirt, thinks: I told truth about what I didn't know. That was mine to give. It wasn't enough. But it was true. Question burns forward: *If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?* Hunger for that answer pulls forward—century, two centuries ahead, cause worth dying for, commitment that doesn't require pretending to know, choice made with eyes open",
+          "action": "Jean leaves Bordeaux knowing he cannot stay\u2014both factions will move against him; perhaps can reach another jurisdiction, another life; doesn't make it; Captain de Castelnau's men find him, or Father Sorbin's, or both working together\u2014factions united only in need to punish man who refused useful certainty; fight is brief; shoulder betrays him; goes down",
+          "doubt_work": "Dying in dirt, thinks: I told truth about what I didn't know. That was mine to give. It wasn't enough. But it was true. Question burns forward: *If I can die for honest uncertainty, what can I die for with conviction? What deserves that certainty I refused to fake?* Hunger for that answer pulls forward\u2014century, two centuries ahead, cause worth dying for, commitment that doesn't require pretending to know, choice made with eyes open",
           "genre_obligation": "Death with dignity; no rescue; meaning in the end",
-          "karmic_bridge": "Lesson completes—vicikicchā broken not by acquiring certainty but by acting truthfully without it; lesson incomplete—Jean acted under uncertainty but never found what deserved certain commitment; seeds Taiping rebel",
+          "karmic_bridge": "Lesson completes\u2014vicikicch\u0101 broken not by acquiring certainty but by acting truthfully without it; lesson incomplete\u2014Jean acted under uncertainty but never found what deserved certain commitment; seeds Taiping rebel",
           "status": "completed",
           "word_count": 1759
         }
@@ -2203,107 +2122,88 @@
     {
       "chapter": 17,
       "id": "ch17-lilith-cp08",
-      "title": "The Pivot",
+      "title": "TBD",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "3 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 7-8"
+        },
+        "historical": {
+          "period": "Renaissance",
+          "location": "TBD (France/Italy)",
+          "year": "~1585",
+          "avatar": "Renaissance skeptic"
+        },
+        "integration_technique": "Intellectual, wit and doubt, skepticism layered\u2014questions in parallel registers"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Renaissance avatar's experience)",
       "lilith": {
-        "age": 32,
-        "years_tracking": 7,
-        "occupation": "Psychiatrist, NHS (actively considering leave)",
-        "power_level": "Extended interaction - deeper observation from distance",
-        "emotional_state": "Intellectually exhausted; frustrated but not desperate; pattern recognition crystallizing"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 7-8",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "One more. One more. One more.",
+          "emotional_state": "Manic persistence, exhaustion of strategies (spiritual, not physical)",
+          "desperation": "Cycling through approaches, certainty fracturing"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 16,
-        "avatar": "Jean de Langon, Renaissance skeptic",
-        "lesson": "Truthfulness without certainty"
+        "avatar": "Renaissance skeptic",
+        "lesson": "Truthfulness (sacca)"
       },
-      "demonstration": {
-        "fetter": "Radical skepticism / paralysis by uncertainty",
-        "scene": "University student patient paralyzed by doubt, unable to commit to thesis position",
-        "lilith_advice": "Truthfulness doesn't require certainty - can acknowledge limits while taking action",
-        "irony": "Gives perfect advice while her own 7-year strategy is paralyzed by distance"
+      "parallel_structure": {
+        "avatar_mistake": "Intellectual doubt becomes attachment, skepticism as identity",
+        "lilith_mistake": "Strategic refinement becomes compulsion, precision as desperation"
       },
-      "tracking_content": {
-        "observes": "Jean's investigation, philosophical debates with Marguerite, breakthrough to truthfulness without certainty, death for honest uncertainty",
-        "isabeau_recognition": "Brief glimpse of her past incarnation (Isabeau de Carcassonne) at the ball - filed without drama, she already knows she has past lives",
-        "intervention_backfire": "Her influence through Marguerite's skeptical arguments sharpened Jean's thinking rather than paralyzing him",
-        "pain_at_death": "Inexplicable empathy watching him die (Maitreya foreshadowing)",
-        "tracks_forward_to": "Begins searching for Ch18 Taiping avatar as bridge to present"
+      "intervention": {
+        "method": "TBD\u2014intellectual manipulation, feeding skeptical doubt",
+        "objective": "Corrupt truthfulness through cynicism",
+        "backfire": "Doubt leads to genuine inquiry rather than cynicism"
       },
-      "central_realization": {
-        "pattern_undeniable": "7 years, 7 interventions, 7 backfires - she's training him, not stopping him",
-        "distance_is_problem": "Working through intermediaries, circumstances, past incarnations - always one step removed",
-        "the_pivot": "Decision to stop working in past, find him in present timeline, engineer direct contact"
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Questions layered across timelines",
+          "Doubt in parallel registers",
+          "Intellectual precision / strategic precision"
+        ],
+        "pronoun_flow": "She for Lilith throughout; avatar's skeptical inquiry registers in her fracturing certainty"
       },
-      "backfire_awareness": "Pattern now explicit and undeniable - every intervention accelerates him. Distance strategy has structurally failed.",
-      "professional_decline": "Colleagues visibly concerned, researching university positions, considering extended leave",
-      "threads_addressed": [
-        "Kinship whisper deepens",
-        "'Together doesn't hold' resurfaces",
-        "'What does that remind me of?' (Beat 5) surfaces unanswered",
-        "Maitreya foreshadowing: pain at his death, inexplicable empathy"
-      ],
-      "word_target": 7000,
-      "actual_word_count": 9587,
-      "scenes": [
+      "pivotal_moments": [
         {
-          "number": 1,
-          "title": "The University Student",
-          "word_target": 1000,
-          "actual_words": 1658,
-          "function": "Demonstration; foreshadow university transition",
-          "file": "scenes/scene-01-university-student.md"
-        },
-        {
-          "number": 2,
-          "title": "Professional Deterioration",
-          "word_target": 800,
-          "actual_words": 1368,
-          "function": "NHS decline; seed career transition",
-          "file": "scenes/scene-02-professional-deterioration.md"
-        },
-        {
-          "number": 3,
-          "title": "The Loneliness of Knowledge",
-          "word_target": 700,
-          "actual_words": 1378,
-          "function": "Family/friend grounding; isolation of what she knows",
-          "file": "scenes/scene-03-loneliness.md"
-        },
-        {
-          "number": 4,
-          "title": "Tracking - The Renaissance Skeptic",
-          "word_target": 2500,
-          "actual_words": 2252,
-          "function": "CLIMAX - observe Ch16, recognize Isabeau (minor beat), witness backfire, feel pain at death",
-          "file": "scenes/scene-04-tracking.md"
-        },
-        {
-          "number": 5,
-          "title": "Processing the Pattern",
-          "word_target": 1200,
-          "actual_words": 1527,
-          "function": "7 backfires listed, pattern analysis, pivot decision forms",
-          "file": "scenes/scene-05-processing.md"
-        },
-        {
-          "number": 6,
-          "title": "CODA - The Search Begins",
-          "word_target": 800,
-          "actual_words": 1404,
-          "function": "Commitment to new strategy; search for Ch18 avatar",
-          "file": "scenes/scene-06-coda-search.md"
+          "dominant_timeline": "Historical",
+          "moment": "Avatar's doubt transforming into genuine inquiry",
+          "technique": "Historical foreground"
         }
       ],
-      "status": "drafted",
-      "draft_complete_date": "2024-12-14"
+      "fetter_beat": {
+        "moment": "Manic persistence\u2014'one more, one more, one more'\u2014exhaustion of strategies",
+        "shown_through": "Cycling through approaches, certainty cracking, desperation showing"
+      },
+      "maitreya_foreshadowing": [
+        "Exhaustion revealing the pull beneath strategy",
+        "Persistence exceeding rational calculation"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Ability to hold Renaissance intellectual culture and Manchester analysis simultaneously",
+        "Understanding avatar's skeptical attachment while practicing strategic attachment",
+        "Capability continuing despite strategy exhaustion"
+      ],
+      "function": "Exhaustion of strategies; manic persistence; certainty fracturing while attachment intensifies",
+      "word_target": 3000,
+      "scenes": [],
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 18,
@@ -2318,39 +2218,39 @@
       },
       "pov": "Wei Shufen (third person, close)",
       "avatar": {
-        "name": "Wei Shufen (魏淑芬)",
+        "name": "Wei Shufen (\u9b4f\u6dd1\u82ac)",
         "occupation": "Military medic and tactical commander",
         "age": 29,
-        "rank": "Lüshuai (Captain)",
-        "status": "Spiritually advanced—developing 8th perfection",
+        "rank": "L\u00fcshuai (Captain)",
+        "status": "Spiritually advanced\u2014developing 8th perfection",
         "ethnicity": "Hakka",
-        "core_flaw": "Compulsive helping—obsessive ledger tracking; attachment to being 'the one who saves'; cannot delegate medical care"
+        "core_flaw": "Compulsive helping\u2014obsessive ledger tracking; attachment to being 'the one who saves'; cannot delegate medical care"
       },
       "lilith": {
         "primary_objective": "Tracking this incarnation forward to locate modern Silas (reconnaissance mission)",
         "secondary_objective": "Opportunistic intervention to test breaking determination while observing",
-        "powers": "Near-full manifestation—circumstantial manipulation over extended time",
-        "intervention": "Adjusts artillery timing, influences unit assignments, spreads disease vectors, causes intelligence failures—ensures everyone Wei saves dies anyway",
-        "manifestation": "None—no physical appearance; saves that for modern Manchester",
+        "powers": "Near-full manifestation\u2014circumstantial manipulation over extended time",
+        "intervention": "Adjusts artillery timing, influences unit assignments, spreads disease vectors, causes intelligence failures\u2014ensures everyone Wei saves dies anyway",
+        "manifestation": "None\u2014no physical appearance; saves that for modern Manchester",
         "objective": "Make futility visible; if everyone he saves dies, he'll stop helping and determination will break"
       },
       "lesson": {
-        "perfection": "Determination (adhiṭṭhāna) - 8th of Ten Perfections",
+        "perfection": "Determination (adhi\u1e6d\u1e6dh\u0101na) - 8th of Ten Perfections",
         "theme": "Purification of determination through futility; outcome-independent commitment",
         "fetter_focus": "None (perfection development, not fetter breaking)",
-        "core_development": "Learning that true determination belongs to the act of helping, not to the hope of success. Moving from contaminated determination (theology + outcomes) to pure adhiṭṭhāna (helping because it's right, regardless of result).",
-        "insight": "The trying is never nothing—even when everything fails"
+        "core_development": "Learning that true determination belongs to the act of helping, not to the hope of success. Moving from contaminated determination (theology + outcomes) to pure adhi\u1e6d\u1e6dh\u0101na (helping because it's right, regardless of result).",
+        "insight": "The trying is never nothing\u2014even when everything fails"
       },
       "backfire": {
         "lilith_intention": "Make futility visible to break his determination; if self-sacrifice achieves nothing, he'll abandon helping",
-        "actual_result": "By making futility visible, Lilith forces Wei to purify determination from outcome-attachment. He helps anyway, knowing it's futile. True adhiṭṭhāna achieved—outcome-independent determination.",
-        "mechanism": "Disillusionment arc (Belief → Function → Fracture → Residual Ethic) strips away contamination, leaving pure commitment to helping"
+        "actual_result": "By making futility visible, Lilith forces Wei to purify determination from outcome-attachment. He helps anyway, knowing it's futile. True adhi\u1e6d\u1e6dh\u0101na achieved\u2014outcome-independent determination.",
+        "mechanism": "Disillusionment arc (Belief \u2192 Function \u2192 Fracture \u2192 Residual Ethic) strips away contamination, leaving pure commitment to helping"
       },
       "death_bridge": {
         "description": "Dies during July 19, 1864 Qing massacre of Tianjing. Organizes evacuation knowing it will fail (Lilith intercepts it). Stays with wounded who cannot flee. Killed by Qing soldiers while protecting them.",
         "final_thought": "I saved no one. The walls fell. The kingdom fell. Every hand I held went cold. But the holding was not nothing. The trying is never nothing. I will try again.",
         "karmic_seed": "If trying matters even when it fails, what is worth trying when the system itself is the enemy?",
-        "seeds_next": "Noir Detective (Ch20)—capacity to persist through repeated failure; energy/perseverance (viriya) that doesn't require victories"
+        "seeds_next": "Noir Detective (Ch20)\u2014capacity to persist through repeated failure; energy/perseverance (viriya) that doesn't require victories"
       },
       "inherited_from_jean": "Capacity for truthfulness under uncertainty; clean doubt without bitterness; can question theology while still functioning as healer/leader; allows determination to persist after faith collapses",
       "word_target": 13000,
@@ -2363,8 +2263,8 @@
           "timeline": "Spring 1862",
           "function": "Establish Wei's competence, baseline faith, ledger obsession; plant first seed of pattern",
           "opening": "Wei treating wounded at dawn in temple aid station",
-          "closing": "Wei updates ledger: '48 saved, 23 lost'—doesn't know numbers will invert",
-          "key_beats": "Triage calculus; ledger counting; genuine but quiet faith; successful surgery; soldier returns (will die tomorrow—Lilith's touch)",
+          "closing": "Wei updates ledger: '48 saved, 23 lost'\u2014doesn't know numbers will invert",
+          "key_beats": "Triage calculus; ledger counting; genuine but quiet faith; successful surgery; soldier returns (will die tomorrow\u2014Lilith's touch)",
           "word_count": 1458,
           "status": "complete"
         },
@@ -2375,8 +2275,8 @@
           "word_target": 1500,
           "timeline": "Summer 1862 (3 months later)",
           "function": "Pattern begins; first loss of someone 'saved'; escalate stakes",
-          "opening": "Mass casualty event—30+ wounded flood aid station",
-          "closing": "Wei burns corpses; girl he saved watches; ledger: '71 saved, 58 lost—gap closing'",
+          "opening": "Mass casualty event\u201430+ wounded flood aid station",
+          "closing": "Wei burns corpses; girl he saved watches; ledger: '71 saved, 58 lost\u2014gap closing'",
           "key_beats": "Brutal triage; gut wound mercy killing; evacuated family returns (parents dead); first seed of doubt about his efficacy",
           "word_count": 1587,
           "status": "complete"
@@ -2388,8 +2288,8 @@
           "word_target": 1300,
           "timeline": "Fall 1862 (3 months later)",
           "function": "Hierarchy as moral corrosion; theology vs. reality; Wei obeys impossible order",
-          "opening": "Sabbath service—preacher rants about divine protection while Wei sees dying men in crowd",
-          "closing": "Wei alone, ledger: '103 saved, 97 lost'—nearly even; sits before empty Buddha alcove",
+          "opening": "Sabbath service\u2014preacher rants about divine protection while Wei sees dying men in crowd",
+          "closing": "Wei alone, ledger: '103 saved, 97 lost'\u2014nearly even; sits before empty Buddha alcove",
           "key_beats": "Sermon cognitive dissonance; impossible order to release unready men; 18 of 20 die in raid; Wei registers failure without bitterness",
           "word_count": 1728,
           "status": "complete"
@@ -2401,8 +2301,8 @@
           "word_target": 1600,
           "timeline": "Spring 1863 (6 months later)",
           "function": "Wei consciously recognizes pattern; superstition takes root; ledger inverts",
-          "opening": "Wei making list of 15 people he saved—checking on them methodically",
-          "closing": "Wei burns the list; ledger: '133 saved, 128 lost'—gap closed; 'Five left before I've killed more than I've saved'",
+          "opening": "Wei making list of 15 people he saved\u2014checking on them methodically",
+          "closing": "Wei burns the list; ledger: '133 saved, 128 lost'\u2014gap closed; 'Five left before I've killed more than I've saved'",
           "key_beats": "12 of 15 dead (impossible statistics); conversation with Old Huang; soldiers whisper 'cursed'; girl returns (starving)",
           "word_count": 1982,
           "status": "complete"
@@ -2414,8 +2314,8 @@
           "word_target": 1700,
           "timeline": "Winter 1863-1864 (9 months later)",
           "function": "Theology collapses; body truth over doctrine; shift to residual ethic",
-          "opening": "Wei stares at bowl of 'manna' (weeds)—Hong's decree that this is God's provision",
-          "closing": "Wei stops counting ledger; 'Saved' and 'lost' are meaningless—everyone's dying, he just chooses the speed",
+          "opening": "Wei stares at bowl of 'manna' (weeds)\u2014Hong's decree that this is God's provision",
+          "closing": "Wei stops counting ledger; 'Saved' and 'lost' are meaningless\u2014everyone's dying, he just chooses the speed",
           "key_beats": "Manna decree; ethical horror of distribution; dysentery outbreak; dying believer asks 'Why?'; Wei stays (function, not faith)",
           "word_count": 1858,
           "status": "complete"
@@ -2440,7 +2340,7 @@
           "word_target": 2000,
           "timeline": "July 19, 1864 (dawn to mid-morning) - Real-time",
           "function": "Application of purified determination; Wei organizes futile evacuation; sees pattern's hand",
-          "opening": "Explosion—wall collapses, Qing forces flood through breach",
+          "opening": "Explosion\u2014wall collapses, Qing forces flood through breach",
           "closing": "Wei kneels with wounded in temple, boy's hand in his; footsteps approach; they wait",
           "key_beats": "The breach; triage arithmetic (reprise); orders evacuation knowing it's futile; Lilith's cavalry intercepts (slaughter); Wei returns to wounded",
           "word_count": 1652,
@@ -2452,10 +2352,10 @@
           "file": "scene-08-ledger-closes.md",
           "word_target": 1800,
           "timeline": "July 19, 1864 (midday) - Real-time (final minutes)",
-          "function": "Death scene; bridge to Ch20; close ledger; demonstrate adhiṭṭhāna achieved",
+          "function": "Death scene; bridge to Ch20; close ledger; demonstrate adhi\u1e6d\u1e6dh\u0101na achieved",
           "opening": "Silence after massacre; Wei and 40 wounded wait; footsteps approaching",
           "closing": "Wei's body on temple floor, eyes open, one hand reaching toward boy; ledger closed",
-          "key_beats": "The wait; internal review (not ledger—abandoned); Jean's question answered; Qing soldiers arrive; Wei stands between them and wounded; death; final thought (Ch20 bridge)",
+          "key_beats": "The wait; internal review (not ledger\u2014abandoned); Jean's question answered; Qing soldiers arrive; Wei stands between them and wounded; death; final thought (Ch20 bridge)",
           "word_count": 1502,
           "status": "complete"
         }
@@ -2468,70 +2368,88 @@
     {
       "chapter": 19,
       "id": "ch19-lilith-cp09",
-      "title": "The Tracker",
+      "title": "TBD",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "2 years before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 8-9"
+        },
+        "historical": {
+          "period": "19th century",
+          "location": "China (Taiping Rebellion)",
+          "year": "~1855",
+          "avatar": "Taiping rebel"
+        },
+        "integration_technique": "Chaotic, violence bleeding through, conviction fractured\u2014chaos in dual keys"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with Taiping avatar's experience)",
       "lilith": {
-        "age": 33,
-        "years_tracking": 8,
-        "occupation": "Psychiatrist (on partial leave)",
-        "power_level": "Near-full manifestation",
-        "emotional_state": "Exhausted but resolute; eight years of focused pursuit reaching decisive point"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 8-9",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "I will manifest fully",
+          "emotional_state": "Total commitment, power at peak, final attempts",
+          "escalation": "Full manifestation, face to face"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 18,
-        "avatar": "Wei Shufen (Taiping rebel)",
-        "lesson": "Determination (adhiṭṭhāna)"
+        "avatar": "Taiping rebel",
+        "lesson": "Determination (adhi\u1e6d\u1e6dh\u0101na)"
       },
-      "demonstration": {
-        "fetter": "Futility / outcome-attachment",
-        "scene": "Brief clinical session with patient continuing despite lack of results",
-        "irony": "She advises 'meaning is in the trying'—exactly what Wei learned and she doesn't see applies to her"
+      "parallel_structure": {
+        "avatar_mistake": "Revolutionary conviction becomes fanaticism, determination without wisdom",
+        "lilith_mistake": "Strategic conviction becomes obsession, power without wisdom"
       },
-      "tracking_content": {
-        "primary_focus": "Forward-tracking to locate modern Silas",
-        "observes": "Wei Shufen (Taiping 1862-1864): determination contaminated by outcome-attachment",
-        "intervention": "Circumstantial manipulation—artillery timing, evacuees, disease vectors. Makes everyone he saves die anyway",
-        "backfire": "Futility visible purifies determination rather than breaking it. Wei helps knowing it's futile.",
-        "brief_glimpse": "1930s Noir detective (Ch20 incarnation)—perseverance developing",
-        "tracks_forward_to": "Modern Manchester: locates Silas Pahlavan"
+      "intervention": {
+        "method": "Full manifestation attempts in chaotic rebellion context",
+        "objective": "Corrupt determination through fanaticism",
+        "backfire": "Chaos teaches him about conviction's limits; destruction clarifies rather than corrupts"
       },
-      "modern_discovery": {
-        "silas_located": "University lecturer, philosophy/religious studies",
-        "proximity_to_breakthrough": "2-3 years from stream-entry",
-        "physical_response": "Heart rate, stillness, 'recognition'—filed as adrenaline",
-        "first_sighting": "Attends his public lecture; does not approach"
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Violence bleeding across timelines",
+          "Chaos doubled",
+          "Conviction fracturing in parallel"
+        ],
+        "pronoun_flow": "She for Lilith throughout; avatar's revolutionary fervor registers in her total commitment"
       },
-      "intimacy_strategy_seeds": {
-        "realization": "Distance fails. Intermediaries fail. Past-life intervention fails.",
-        "decision": "If essential to his life, can intervene at critical moment",
-        "professional_pivot": "Researches university positions; begins transition planning"
-      },
-      "one_buddha_arc": {
-        "beat": "9 - Misreading as Duty",
-        "content": "If we rise together, we ruin each other. Someone must choose. Someone must act.",
-        "manifestation": "Frames intimacy as necessity rather than desire; strategic mask over attraction"
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Full manifestation in chaos\u2014power deployed completely",
+          "technique": "Historical foreground"
+        }
+      ],
+      "fetter_beat": {
+        "moment": "Total commitment\u2014'I will manifest fully'\u2014power at absolute peak",
+        "shown_through": "Complete deployment of capability, certainty absolute, final gambit"
       },
       "maitreya_foreshadowing": [
-        "Inexplicable chest pain when Wei dies—empathic connection unrecognized",
-        "Recognition/stillness at first in-person sighting of modern Silas",
-        "Desire for him to understand her—loneliness of knowing building"
+        "Face to face manifestation\u2014intimacy of opposition",
+        "Total commitment revealing depth of attachment"
       ],
-      "backfire_awareness": "Pattern now explicit: eight years, eight interventions, eight accelerations. She's training him, not stopping him.",
-      "word_target": 10000,
-      "word_count": 10910,
+      "spiritual_advancement_shown_through": [
+        "Capability at absolute peak\u2014full manifestation",
+        "Ability to hold Taiping chaos and Manchester tracking simultaneously",
+        "Understanding determination while practicing obsession"
+      ],
+      "function": "Full manifestation attempts; power at peak; total commitment before final pivot",
+      "word_target": 3000,
       "scenes": [],
-      "status": "polished",
-      "draft_complete_date": "2024-12-14",
-      "polish_complete_date": "2024-12-14",
-      "revision_notes": "Added demonstration scene (Eleanor Hartley caregiver patient), expanded Scene 4 false victory, fixed Buddhist terminology (adhiṭṭhāna→conviction, viriya→perseverance), strengthened no-intervention decision in Scene 7, added face constancy observation to Scene 1",
-      "polish_notes": "Removed filter verbs (Scene 2), added environmental metaphors (Manchester grey in Scene 3, LA brightness vs Manchester rain in Scene 7), tightened telling moments (Scene 9 job search shown not told). Quality: A grade (~95%)"
+      "status": "needs_full_rewrite"
     },
     {
       "chapter": 20,
@@ -2542,7 +2460,7 @@
       "setting": {
         "period": "Modern",
         "location": "Los Angeles, California",
-        "year": "January–March 1938 (Great Flood period)"
+        "year": "January\u2013March 1938 (Great Flood period)"
       },
       "pov": "First-person (Jack Malone)",
       "avatar": {
@@ -2552,12 +2470,12 @@
         "status": "All ten perfections completing; final historical life before stream-entry"
       },
       "lilith": {
-        "powers": "Observer with circumstantial manipulation—NOT full manifestation",
-        "intervention": "MINIMAL PRESENCE: 3 brief appearances as observer only. (1) Background in bar—he doesn't notice, (2) Woman on street—fleeting familiarity dismissed, (3) Passerby when bomb explodes—'rushing to avoid' (matches Ch1 flashback). She accelerates failures from distance; Combination plants the car bomb, not her.",
+        "powers": "Observer with circumstantial manipulation\u2014NOT full manifestation",
+        "intervention": "MINIMAL PRESENCE: 3 brief appearances as observer only. (1) Background in bar\u2014he doesn't notice, (2) Woman on street\u2014fleeting familiarity dismissed, (3) Passerby when bomb explodes\u2014'rushing to avoid' (matches Ch1 flashback). She accelerates failures from distance; Combination plants the car bomb, not her.",
         "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation before committing to modern intimacy strategy"
       },
       "lesson": {
-        "perfection": "Energy/Perseverance (viriya)—FINAL PERFECTION",
+        "perfection": "Energy/Perseverance (viriya)\u2014FINAL PERFECTION",
         "theme": "Continuing because it's right, not because it succeeds; outcome-independent effort",
         "core_development": "Noir detective facing repeated defeat yet continuing; 'Someone has to give a damn, even if it changes nothing'"
       },
@@ -2604,7 +2522,7 @@
           "scene": 7,
           "title": "The Flood",
           "word_target": 1200,
-          "function": "Great Flood destroys evidence; reformers back out; viriya purifying—keeps working anyway"
+          "function": "Great Flood destroys evidence; reformers back out; viriya purifying\u2014keeps working anyway"
         },
         {
           "scene": 8,
@@ -2614,7 +2532,7 @@
         }
       ],
       "death_scene": {
-        "method": "Car bomb (Buick Roadmaster, starter-wired by Combination—standard post-Raymond tactic)",
+        "method": "Car bomb (Buick Roadmaster, starter-wired by Combination\u2014standard post-Raymond tactic)",
         "setting": "Downtown LA street, rain, late March 1938",
         "final_thought": "I didn't save anyone. But the trying was not nothing. I will try again.",
         "karmic_seed": "All ten perfections complete; strong urge to break first three fetters; propels rebirth as Silas Pahlavan",
@@ -2625,149 +2543,107 @@
     {
       "chapter": 21,
       "id": "ch21-lilith-cp10",
-      "title": "The Commitment",
+      "title": "The Pivot",
       "type": "lilith_contemporary",
-      "genre": "Literary Fiction / Psychological / Romance",
+      "genre": "Literary Fiction / Noir / Integrated Prose",
       "setting": {
-        "period": "Contemporary",
-        "location": "Manchester, UK",
-        "year": "1 year before Chapter 1"
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "year": "6-12 months before Chapter 1",
+          "tracking_timeline": "Week 9-10, final historical intervention"
+        },
+        "historical": {
+          "period": "1930s noir",
+          "location": "American city",
+          "year": "~1935",
+          "avatar": "Detective"
+        },
+        "integration_technique": "Atmospheric, cigarette smoke and rain, failure repeated\u2014noir atmosphere bleeding across timelines"
       },
-      "pov": "Lilith",
+      "pov": "Lilith (integrated with noir detective experience)",
       "lilith": {
-        "age": 34,
-        "years_tracking": 9,
-        "occupation": "Psychiatrist (on full leave)",
-        "power_level": "Full manifestation in present",
-        "emotional_state": "Calculated commitment becoming something else; falling without knowing it"
+        "age": 28,
+        "occupation": "Psychiatrist",
+        "weeks_into_tracking": "Week 9-10",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "constraints": [
+          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot force choices or negate accumulated merit",
+          "Cannot change past events, only manifest within them and influence"
+        ],
+        "fetter_state": {
+          "attachment_manifestation": "If I can't stop him, I'll bind him",
+          "emotional_state": "Final failure witnessed, pivot to new strategy\u2014the decision",
+          "the_pivot": "Cannot stop him from outside\u2014must meet him in the present, make him love her, become indispensable"
+        }
       },
       "corresponds_to": {
         "historical_chapter": 20,
         "avatar": "1930s Detective",
         "lesson": "Perseverance (viriya)"
       },
-      "intimacy_strategy": {
-        "phase": "4 - Commitment (per lilith-arc-bible.md)",
-        "status": "One year after locating Silas; established in his professional orbit",
-        "escalation": "Professional relationship → personal → intimate",
-        "strategic_goal": "If essential to his life, can intervene at critical moment",
-        "backfire_emerging": "Intimacy nourishes him rather than trapping him; she's the one becoming attached"
+      "parallel_structure": {
+        "detective_mistake": "Obsessive pursuit of case consuming everything else, perseverance without wisdom",
+        "lilith_mistake": "Obsessive pursuit of him consuming everything else, persistence as compulsion"
       },
-      "key_scenes": {
-        "established_orbit": "University campus; colleagues becoming friends",
-        "demonstration": "Clinical session showing her blind spot",
-        "escalation": "Moment that shifts professional to personal",
-        "first_night": "Consummation of intimacy strategy; body truths surface",
-        "lovers_paradox": "Domestic intimacy; gathering intelligence while falling",
-        "merger_dream": "Maitreya foreshadowing—wakes unsure which of them was dreaming"
+      "intervention": {
+        "method": "Full manifestation as femme fatale\u2014face to face in noir detective story",
+        "objective": "Final attempt to corrupt perseverance through obsession",
+        "backfire": "Femme fatale becomes the case he must solve; her opposition sharpens his determination; face-to-face manifestation with all power deployed\u2014still backfires",
+        "the_pattern_complete": "Ten interventions, ten backfires; cannot stop him from historical interventions"
       },
-      "maitreya_foreshadowing": [
-        "Merger dream—she and Silas are the same person",
-        "Completing his sentences before he speaks",
-        "Mirrored habits (sitting, making tea, phrases)",
-        "The question she won't ask: why does proximity feel like home?"
-      ],
-      "threads_addressed": [
-        "Beat 10: The Final False Law ('There can be only one')",
-        "Love she won't name (body truths contradicting analysis)",
-        "Loneliness of knowing (he's the only one who could understand)",
-        "Backfire pattern (intimacy accelerating him)"
-      ],
-      "function": "Phase 4 of intimacy strategy; Lilith becomes Silas's lover; trap meant for him closes on her; almost-confession builds pressure toward Ch 1; Maitreya seeds planted throughout",
-      "word_target": 10500,
-      "scenes": [
+      "integrated_prose_features": {
+        "sensory_bridges": [
+          "Noir rain / Manchester rain",
+          "Cigarette smoke / tracking corner haze",
+          "Shadowed alleys / narrowed certainty",
+          "Failure repeated across timelines"
+        ],
+        "pronoun_flow": "She for Lilith throughout; detective's obsessive pursuit registers in her compulsion",
+        "parallel_structure": "Both consumed by pursuit, both calling it purpose, both unable to stop"
+      },
+      "pivotal_moments": [
         {
-          "scene": 1,
-          "title": "The Established Orbit",
-          "file": "scenes/scene-01-established-orbit.md",
-          "word_target": 1000,
-          "status": "outlined",
-          "function": "Establish one year has passed; show professional integration; introduce Silas through her POV",
-          "setting": "University campus, Manchester, spring",
-          "key_beats": ["One year since university position", "Student counseling services as bridge", "First glimpse of Silas across quad", "Tonight shifts to next phase"]
+          "dominant_timeline": "Historical",
+          "moment": "Confrontation as femme fatale\u2014full power deployed, face to face\u2014still backfires",
+          "technique": "Historical foreground, Manchester recedes"
         },
         {
-          "scene": 2,
-          "title": "The Conversation",
-          "file": "scenes/scene-02-conversation.md",
-          "word_target": 1300,
-          "status": "outlined",
-          "function": "Show intellectual intimacy; introduce Silas more fully; establish shared ground",
-          "setting": "After faculty event, pub near campus, late evening",
-          "key_beats": ["DEMONSTRATION: colleague vents futile effort, Lilith advises 'the trying is the point'—blind to own backfiring decade", "Jung reference (exact Ch1 phrasing)", "He completes her thought", "Assessment: perhaps a year until stream-entry", "Neither wants to leave"]
-        },
-        {
-          "scene": 3,
-          "title": "The Tracking Corner",
-          "file": "scenes/scene-03-tracking-corner.md",
-          "word_target": 1400,
-          "status": "outlined",
-          "function": "Show narrowed world; tracking ritual; Noir reflection (Ch 20 retrospective)",
-          "setting": "Her flat, night",
-          "key_beats": ["Flat as command center", "Revisits Noir thread (retrospective, not forward scan)", "Together doesn't hold phrase", "Eight backfires catalogued", "Missed call from Nadia"]
-        },
-        {
-          "scene": 4,
-          "title": "The Escalation",
-          "file": "scenes/scene-04-escalation.md",
-          "word_target": 1400,
-          "status": "outlined",
-          "function": "The pivot from friendship to romance",
-          "setting": "Evening, after faculty event; rain beginning; his flat",
-          "key_beats": ["Rain motif (gentle prelude to Ch1 storm)", "His flat: meditation corner visible", "Calculated move becomes something else", "The flicker she can't file away"]
-        },
-        {
-          "scene": 5,
-          "title": "The First Night",
-          "file": "scenes/scene-05-first-night.md",
-          "word_target": 1100,
-          "status": "outlined",
-          "function": "Show the shift; first Maitreya seeds; watching him sleep",
-          "setting": "After; his flat; dawn approaching",
-          "key_beats": ["Soul tracked through seven deaths, never this face", "Face-constancy mystery flicker", "Breathing in sync", "Dawn light", "Pause at door too long"]
-        },
-        {
-          "scene": 6,
-          "title": "The Lover's Paradox",
-          "file": "scenes/scene-06-lovers-paradox.md",
-          "word_target": 1300,
-          "status": "outlined",
-          "function": "Domestic intimacy developing; backfire emerging; Maitreya seeds deepening",
-          "setting": "Montage of weeks/months",
-          "key_beats": ["His stability increasing (backfire)", "Her attachment through body truths", "Mirroring habits", "Colleague comment on how well he seems"]
-        },
-        {
-          "scene": 7,
-          "title": "The Merger Dream",
-          "file": "scenes/scene-07-merger-dream.md",
-          "word_target": 1100,
-          "status": "outlined",
-          "function": "Most explicit Maitreya seed; the question she won't ask",
-          "setting": "Night; after sleeping together",
-          "key_beats": ["Dream: same person, two views, one awareness", "Wakes unsure which dreaming", "The unfinished question about threshold", "Dawn light, hand in his hair"]
-        },
-        {
-          "scene": 8,
-          "title": "The Almost",
-          "file": "scenes/scene-08-almost.md",
-          "word_target": 1300,
-          "status": "outlined",
-          "function": "CLIMAX - Loneliness breaks through; almost-confession; pulls back",
-          "setting": "Evening; her flat alone; then phone call",
-          "key_beats": ["Ten years of weight", "Loneliness genuine (not tactical)", "Hands shake", "Almost says it", "Not yet. But soon."]
-        },
-        {
-          "scene": 9,
-          "title": "Coda — The Edge",
-          "file": "scenes/scene-09-coda.md",
-          "word_target": 600,
-          "status": "outlined",
-          "function": "Final image; bridge to Ch 1",
-          "setting": "His flat; brief domestic moment",
-          "key_beats": ["Twelve months assessment (intimacy accelerating him)", "Stay a little longer", "What are you thinking? Nothing. Just—this.", "Domestic vocabulary forming (seeds for Ch1)"]
+          "dominant_timeline": "Manchester",
+          "moment": "The realization and pivot\u2014tracing thread forward to present-day Manchester",
+          "technique": "Manchester foreground, historical recedes to echo"
         }
       ],
-      "status": "outlined"
+      "fetter_beat": {
+        "moment": "The pivot decision\u2014attachment crystallizing into final gambit: 'I will become the thing he cannot transcend'",
+        "shown_through": "Decision to abandon historical interventions, trace thread to present, meet him in flesh"
+      },
+      "chapter_ending": {
+        "realization": "Cannot stop him from historical interventions\u2014pattern is clear, all ten backfire",
+        "traces_thread_forward": "Follows karmic thread from 1930s to present-day Manchester",
+        "discovery": "Finds Silas Pahlavan, philosophy professor, approaching stream-entry\u2014living now",
+        "decision": "Will meet him in the flesh, make him love her, become the thing he cannot transcend",
+        "final_beat": "On the threshold of the final gambit\u2014tracking corner one last time, thread glowing forward to present",
+        "does_NOT_show": "No relationship with present-day Silas yet\u2014hasn't contacted him, hasn't met him, this is the decision to do so"
+      },
+      "time_jump_note": "6-12 months pass between end of this chapter and Chapter 1. During this gap (OFF-PAGE): she locates Silas in Manchester, engineers their meeting (perhaps at his Nagarjuna lecture), develops intimate relationship, rebuilds composure over tracking fever. The relationship becomes both tactic and (complicating) genuine feeling. Chapter 1 shows the result of this gap.",
+      "maitreya_foreshadowing": [
+        "Inexplicable pain when causing detective suffering in confrontation",
+        "Moment of losing track of which consciousness is which during face-to-face",
+        "The pull toward him that has grown far beyond strategy\u2014now driving the pivot to intimacy"
+      ],
+      "spiritual_advancement_shown_through": [
+        "Full manifestation capability at peak\u2014femme fatale, face to face",
+        "Ability to hold 1930s noir and Manchester present simultaneously",
+        "Understanding detective's obsessive perseverance while practicing obsessive tracking"
+      ],
+      "function": "Final historical intervention fails despite full power; realization historical approach cannot work; the pivot that sets up Chapter 1; end of compressed 8-10 week tracking period; decision to pursue intimacy strategy",
+      "word_target": 3500,
+      "scenes": [],
+      "status": "needs_complete_reconception",
+      "critical_note": "This chapter MUST NOT show any content of established relationship with present-day Silas. That relationship happens in the gap between this chapter and Chapter 1. This chapter ends with the DECISION to meet him, not the result of having met him."
     },
     {
       "chapter": 22,
@@ -2784,12 +2660,12 @@
       "silas": {
         "name": "Silas Pahlavan",
         "occupation": "Philosophy professor",
-        "event": "Achieves stream-entry—breaks first three fetters"
+        "event": "Achieves stream-entry\u2014breaks first three fetters"
       },
       "lilith": {
         "name": "Lilith Azami",
         "event": "Final intervention fails; realization of her error; turn toward unity",
-        "powers": "Full presence—all powers at peak in human realm"
+        "powers": "Full presence\u2014all powers at peak in human realm"
       },
       "function": "First dramatic climax; Silas breaks through despite Lilith's decade of effort; her desperation becomes visible to him, helping him see attachment clearly",
       "fetter_focus": [
@@ -2844,8 +2720,8 @@
         "status": "Once-returner progress"
       },
       "lilith": {
-        "powers": "Cosmic scale—can affect larger systems and timelines",
-        "strategy": "Race intensifies; technological temptations—what if completion could be achieved through technology?"
+        "powers": "Cosmic scale\u2014can affect larger systems and timelines",
+        "strategy": "Race intensifies; technological temptations\u2014what if completion could be achieved through technology?"
       },
       "lesson": {
         "theme": "Technology and transcendence",
@@ -2868,11 +2744,11 @@
       },
       "pov": "Silas (elevated consciousness)",
       "silas": {
-        "status": "Achieves Non-returner status—breaks first five fetters",
+        "status": "Achieves Non-returner status\u2014breaks first five fetters",
         "event": "Becomes nearly immune to Lilith's direct interference"
       },
       "lilith": {
-        "powers": "Near-peak—approaching universal consciousness manipulation",
+        "powers": "Near-peak\u2014approaching universal consciousness manipulation",
         "crisis": "Can manipulate nearly everything except the one thing that matters; desperation giving way to something else"
       },
       "fetter_focus": [
@@ -2901,7 +2777,7 @@
       "resolution": {
         "event": "Lilith releases her grasping; discovers they were never separate",
         "mechanism": "Their consciousnesses merge to become Maitreya, the future Buddha",
-        "meaning": "The 'one Buddha per world-system' rule was true but misunderstood—there was only ever one Buddha-to-be, appearing as two until ready to unite"
+        "meaning": "The 'one Buddha per world-system' rule was true but misunderstood\u2014there was only ever one Buddha-to-be, appearing as two until ready to unite"
       },
       "fetter_focus": [
         "desire_for_fine_material_existence",
