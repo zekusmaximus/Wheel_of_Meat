@@ -130,7 +130,7 @@ her claim would free her.
   - Races through all ten historical lives
   - Each intervention fails and sharpens her attachment
   - Realizes she must meet him in the present (Ch 21)
-- **Time Jump (6-12 months):** Between Ch 21 and Ch 1
+- **Time Jump (1 year):** Between Ch 21 and Ch 1
   - Locates Silas in present-day Manchester
   - Engineers their meeting
   - Develops intimate relationship
@@ -395,7 +395,7 @@ Add to the list:
 - The integrated prose technique mechanics for Lilith chapters (established
   in lilith-refactor.md)
 - Lilith's timeline compression (8-10 weeks tracking period is fixed)
-- The time jump between Ch 21 and Ch 1 (duration TBD by author: 6-12 months)
+- The time jump between Ch 21 and Ch 1 (1 year)
 - How exactly Lilith locates Silas in Ch 21 (documented when Ch 21 is developed)
 ```
 
@@ -445,7 +445,7 @@ Act II's structure creates different temporal experiences for the two timelines:
 - Compressed fever of discovery, intervention, failure, escalation
 
 **The Time Jump:**
-- Between Chapter 21 and Chapter 1: approximately 6-12 months
+- Between Chapter 21 and Chapter 1: 1 year
 - During this gap:
   - Lilith locates Silas in present-day Manchester
   - Engineers their meeting
@@ -550,7 +550,7 @@ peripheral awareness, body-echo.
 1. ✅ Full power from Chapter 3 onwards (capabilities list)
 2. ✅ Integrated prose technique (detailed mechanics)
 3. ✅ Timeline compression (8-10 weeks tracking)
-4. ✅ Time jump between Ch 21 and Ch 1 (6-12 months)
+4. ✅ Time jump between Ch 21 and Ch 1 (1 year)
 5. ✅ Fetter intensification arc (replaces power progression)
 6. ✅ Parallel structure requirement (her mistake mirrors avatar's)
 7. ✅ Shorter word count (2,500-3,500)
@@ -568,33 +568,29 @@ peripheral awareness, body-echo.
 
 ---
 
-## Open Questions for Author
+## Author Decisions (Resolved)
 
-1. **Should integrated prose technique be INVIOLABLE or HIGH-PRIORITY?**
-   - Argument for INVIOLABLE: It's architectural, defines the chapter type
-   - Argument for HIGH-PRIORITY: Allows flexibility if specific moment needs different approach
+1. **Integrated prose technique: HIGH-PRIORITY** ✅
+   - Not INVIOLABLE, allowing flexibility if specific moments need different approach
+   - Still architectural and core to Lilith chapters
 
-2. **How to handle contemporary-period-rules.md interaction?**
-   - Lilith chapters blend contemporary + historical period voice
-   - Should contemporary-period-rules.md be updated to note this exception?
-   - Or should claude.md clarify that Lilith chapters override some contemporary rules?
+2. **Time jump duration: 1 year** ✅
+   - Between Chapter 21 and Chapter 1
+   - Sufficient time for established relationship texture in Chapter 1
 
-3. **Genre Adaptation Table - how to represent Lilith chapters?**
-   - They don't fit one row (dual timeline)
-   - Options:
-     a. Add Lilith row with "integrated" notes in each column
-     b. Add footnote explaining Lilith chapters blend rows
-     c. Create separate mini-table for Lilith chapters
+3. **Genre Adaptation Table: Hybrid** ✅
+   - Lilith chapters will be represented as "hybrid" genre
+   - Reflects dual-timeline integrated nature
 
-4. **Time jump duration - need decision:**
-   - 6 months? 9 months? 1 year?
-   - Affects how established relationship feels in Chapter 1
-   - Should claude.md list this as "TBD" or pick one?
+4. **Lilith chapter status: ALL need revision** ✅
+   - Chapters 3, 5, 7, 9, 11 (currently marked "DRAFTED")
+   - Chapters 13, 15, 17, 19, 21 (currently marked "needs_dev")
+   - All ten Lilith chapters should be marked "needs_revision"
 
-5. **What happens to drafted Chapters 3, 5, 7, 9, 11?**
-   - They're marked "DRAFTED" but need complete rewrites
-   - Should claude.md status column note this? ("drafted_needs_rewrite"?)
-   - Or update status to "needs_revision" in scene-manifest.json?
+5. **Contemporary-period-rules.md scope: Chapters 1 and 22 only** ✅
+   - Create NEW file for Lilith chapters
+   - New file will link to the preceding historical period's period-rules.md
+   - Lilith chapters integrate contemporary + historical period voices
 
 ---
 
@@ -623,7 +619,8 @@ As noted in lilith-refactor.md, these files depend on claude.md and need subsequ
 **Tier 2:**
 - `agent-protocol.md`
 - `style-rules.md`
-- `contemporary-period-rules.md`
+- `contemporary-period-rules.md` (scope to Ch 1 and 22)
+- `lilith-chapter-rules.md` (NEW FILE - integrated prose technique guidance)
 
 **Tier 3:**
 - `thematic-echoes.md`
