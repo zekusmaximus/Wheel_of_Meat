@@ -29,20 +29,22 @@ Track how the meat/body/flesh theme appears in each chapter:
 |18     |The Rebel       |TBD    |War wounds; sacrifice of body                         |Combat; bodies as expendable       |
 |20     |The Detective   |Jack Malone|Car bomb death; body in rain; bleeding out in street; violence that doesn't resolve|Final noir body—victory through worldly defeat|
 
-#### Act II: Lilith Chapters
+#### Act II: Lilith Chapters (Integrated Prose)
 
-|Chapter|Title              |Her Age|Manifestation                                  |Notes                               |
-|-------|-------------------|-------|-----------------------------------------------|------------------------------------|
-|3      |The Discovery      |25     |Clinical body; body as instrument of perception|First tracking; time-cost begins    |
-|5      |The Ledger’s Shadow|26     |Professional body; body in service             |First intervention                  |
-|7      |TBD                |27     |Body and sleep; dream-work                     |Power through dreams                |
-|9      |TBD                |28     |Body still; hours lost to tracking             |Circumstance manipulation           |
-|11     |TBD                |29     |Body and professional decline                  |Growing distraction                 |
-|13     |TBD                |30     |Body manifesting; first physical appearance    |Attentional cost of manifestation   |
-|15     |TBD                |31     |Body sustained across time                     |Extended presence                   |
-|17     |TBD                |32     |Body in conversation; extended interaction     |Professional life suffering         |
-|19     |TBD                |33     |Body at breaking point                         |Near-full manifestation             |
-|21     |The Decision       |34     |Body dying and being born; incarnation         |Full commitment                     |
+All Lilith chapters use the integrated prose technique, holding Manchester (age 34) and the historical period simultaneously. The body/flesh theme manifests in both timelines at once.
+
+|Chapter|Title              |Tracking Time|Body Manifestation (Integrated)                        |Notes                                    |
+|-------|-------------------|-------------|-------------------------------------------------------|-----------------------------------------|
+|3      |The Discovery      |Days 1-3     |Her body in flat + Ka's body in cave; sensation doubled|Discovery; primal body-knowledge         |
+|5      |The Ledger's Shadow|Week 1-2     |Clinical stillness + Chandra's accounting body         |First intervention; bureaucratic flesh   |
+|7      |The Dream-Walker   |Week 2-3     |Sleep-deprived body + Philon's plague-worn body        |Ideas as sensation; compulsion mirrored  |
+|9      |The Complaint      |Week 3-4     |Precision-tensed body + Verinus's investigator body    |Procedural bodies in parallel            |
+|11     |The Performance    |Week 4-5     |Stillness practiced + Macarius's ascetic body          |Emptiness doubled; silence in two keys   |
+|13     |[TBD]              |Week 5-6     |Longing body + Kaoru's aesthetic body                  |Beauty saturating both frames            |
+|15     |[TBD] — FULCRUM    |Week 6-7     |Manic body + Diego's persecuted body                   |Claustrophobic; walls closing            |
+|17     |[TBD]              |Week 7-8     |Exhausted strategy + Jean's doubting body              |Intellectual wit; skepticism layered     |
+|19     |[TBD]              |Week 8-9     |Total commitment body + Wei's war-torn body            |Violence bleeding through; chaos doubled |
+|21     |The Pivot          |Week 9-10    |Decision body + Jack's noir-death body                 |Failure repeated; the pivot              |
 
 #### Act III
 
@@ -118,9 +120,9 @@ She appears with the same face across all incarnations. Readers should recognize
 
 ### Physical Consistency
 
-- Dark hair
-- [TBD: specific eye color, distinguishing feature]
-- [TBD: characteristic gesture]
+- Sharp, pronounced widow's peak with single thick darker strand falling forward over left side of face
+- Left eye: deep brown containing thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow appears completely black)
+- Same face across all incarnations—readers recognize her before avatars do
 
 ### Per-Chapter Appearances and Backfires
 
@@ -139,32 +141,35 @@ She appears with the same face across all incarnations. Readers should recognize
 |18|Taiping rebel      |War manipulator            |Make his sacrifices meaningless                |TBD                                                |
 |20|Jack Malone        |Minimal observer (3 brief appearances)|Accelerate failures to break perseverance|CATASTROPHIC: Failures teach outcome-independent perseverance; ALL TEN PERFECTIONS COMPLETE; next life is stream-entry|
 
-#### Lilith Chapters (Her contemporary arc)
+#### Lilith Chapters (Fetter Intensification Arc)
 
-|Ch|Her Age|Power Level              |What She Demonstrates           |Her Blind Spot                        |
-|--|-------|-------------------------|--------------------------------|--------------------------------------|
-|3 |25     |Observation              |Generosity (gives chair)        |Pure curiosity; no threat seen yet    |
-|5 |26     |Remote influence         |Non-attachment to outcomes      |Satisfaction at first intervention    |
-|7 |27     |Dream influence          |TBD (wisdom-related)            |First whispers of concern             |
-|9 |28     |Circumstance manipulation|TBD (virtue-related)            |Something isn’t working               |
-|11|29     |Growing control          |“Need to be right is attachment”|Returns immediately to planning       |
-|13|30     |Brief manifestation      |TBD (equanimity-related)        |First direct failure witnessed        |
-|15|31     |Sustained presence       |TBD (patience-related)          |Discovers one-per-system rule         |
-|17|32     |Extended interaction     |TBD (truth-related)             |Patients notice preoccupation         |
-|19|33     |Near-full manifestation  |TBD (determination-related)     |Can sense him approaching stream-entry|
-|21|34     |Full manifestation       |N/A (decision chapter)          |Commits fully; strange attraction     |
+Lilith has full cosmic capability from Chapter 3. Her arc is not power growth but fetter intensification—her attachment crystallizing harder with each failed intervention.
+
+|Ch|Tracking Time|Fetter Manifestation                    |Parallel Mistake (Mirrors Avatar)      |Her Blind Spot                        |
+|--|-------------|----------------------------------------|---------------------------------------|--------------------------------------|
+|3 |Days 1-3     |"I've found a problem to solve"         |Hoarding capability / Ka hoards meat   |Cannot see her own grasping           |
+|5 |Week 1-2     |"This intervention will work"           |Strategic withholding / incomplete gift|Satisfaction blind to backfire pattern|
+|7 |Week 2-3     |"I see what went wrong; I'll correct"   |Compulsive tracking / martyrdom urge   |Kinship filed as interest, not alarm  |
+|9 |Week 3-4     |"More precision required"               |Attachment to precision / to certainty |Mirrors avatar's flaw exactly         |
+|11|Week 4-5     |"Why do I hesitate?"                    |Certainty as spiritual pride           |Hesitations suppressed immediately    |
+|13|Week 5-6     |"The pull toward him is tactical"       |Unnamed pull called "tactical"         |First appearance to him—denies feeling|
+|15|Week 6-7     |"I don't feel what I'm feeling"         |Precision-for-victory / service-safety |Manic clarity masks growing pull      |
+|17|Week 7-8     |"One more. One more. One more."         |Refinement as compulsion               |Certainty fracturing, attachment grows|
+|19|Week 8-9     |"I will manifest fully"                 |Compulsive tracking / compulsive help  |Full deployment reveals obsession     |
+|21|Week 9-10    |"If I can't stop him, I'll bind him"    |Obsessive pursuit / obsessive pursuit  |Intimacy strategy = final fetter made flesh|
 
 ### The Intervention Paradox
 
 Every attempt to derail him becomes the friction that forges his progress. She is not the enemy of his awakening—she is its unwitting catalyst. This is the cosmic irony: she was never his opponent. She was his necessary other half.
 
-### The Demonstration Technique (Lilith Chapters Only)
+### The Integrated Prose Technique (Lilith Chapters Only)
 
-Each Lilith chapter shows her demonstrating mastery of the fetter Silas struggles with in the corresponding historical chapter:
+Each Lilith chapter holds Manchester and historical period simultaneously—no alternating scenes, no transition markers:
 
-- Patient or colleague describes situation that mirrors her pursuit of Silas
-- She gives perfect advice she cannot apply to herself
-- Physical tell undercuts her equanimity (shaking hands, tension, etc.)
+- **Sensory bridges:** Physical sensations connect timelines (rain/snow, warmth/fire, silence/silence)
+- **Pronoun flow:** "She" throughout, but perspective bleeds between Lilith and avatar
+- **Parallel structure:** Her mistake mirrors the avatar's mistake at different scale—devastating irony visible to reader, invisible to her
+- **Dominant moments:** At pivotal beats (deaths, decisions), one timeline foregrounds while the other recedes to body-echo
 - The irony is never stated—trust readers to see
 
 ### Foreshadowing the Merger
@@ -209,7 +214,7 @@ When drafting any scene, check this document for:
 1. Any recurring images that should appear
 1. Whether Lilith should echo a previous appearance
 1. How the death (if applicable) connects to the next lesson
-1. For Lilith chapters: what fetter she demonstrates, what parallel patient situation occurs
+1. For Lilith chapters: what parallel mistake mirrors the avatar's flaw; what sensory bridges connect timelines
 
 ## Chapter Type Reference
 
@@ -219,5 +224,5 @@ For quick reference when checking thematic requirements:
 |-----------------------|----------------------------------|-------------------------------------------------------|
 |Contemporary (Dual POV)|1, 22                             |Modern flesh; intimacy; breakthrough                   |
 |Historical             |2, 4, 6, 8, 10, 12, 14, 16, 18, 20|Period-specific body; death bridge; Lilith intervention|
-|Lilith Contemporary    |3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Clinical body; attentional cost; demonstration; tracking|
+|Lilith (Integrated)    |3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Integrated prose; sensory bridges; fetter intensification; parallel mistakes|
 |Cosmic                 |23, 24, 25, 26                    |Transcendence of body; merger; resolution              |

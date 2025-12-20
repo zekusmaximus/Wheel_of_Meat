@@ -39,6 +39,47 @@ Current focus: Building agent infrastructure and completing chapter development 
 
 -----
 
+### Major Revision: Lilith Architectural Overhaul
+
+**Date:** December 2025
+
+**Change:** Comprehensive reconception of Lilith's arc, prose technique, and timeline.
+
+**Key Changes:**
+
+1. **Timeline Compression:** 10-year tracking → 8-10 weeks compressed fever
+2. **Power Model:** Progressive power levels → Full cosmic capability from Chapter 3
+3. **Arc Type:** Power progression → Fetter intensification (attachment crystallizing)
+4. **Prose Technique:** Alternating Manchester/historical scenes → Integrated prose (both timelines held simultaneously)
+5. **Age:** 25-34 over decade → 34 during tracking, 35 in Chapter 1
+6. **Time-Jump:** 6-12 months between Chapter 21 (The Pivot) and Chapter 1
+
+**What Was Removed:**
+
+- Patient sessions (Gerald, David, etc.)
+- Professional decline subplot
+- Tracking corner / notebooks as central motif
+- Power tier progression
+- Extended Manchester-only scenes
+
+**What Was Added:**
+
+- Integrated prose technique (sensory bridges, pronoun flow, parallel structure)
+- Fetter intensification beats (attachment sharpening each chapter)
+- Parallel mistake structure (her flaw mirrors avatar's flaw)
+- Enhanced Maitreya foreshadowing distribution
+- Dominant timeline moments (1-2 per chapter)
+
+**Implementation Phases:**
+
+- Phase 1 (December 2025): Core Architecture — CLAUDE.md, lilith-arc.json, lilith-chapter-manifest.json, scene-manifest.json
+- Phase 2 (December 2025): Protocol Updates — agent-protocol.md, style-rules.md, contemporary-period-rules.md, lilith-style-rules.md
+- Phase 3 (December 2025): Meta Documentation — thematic-echoes.md, lilith-contemporary-timeline.md, README.md, soul-constants.json, novel-progress.txt
+
+**Master Reference:** lilith-refactor.md
+
+-----
+
 ## Session Log
 
 ### Session 1 - [Initial Date]

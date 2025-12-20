@@ -3,200 +3,196 @@
 ## Basic Data
 
 - **Full name:** Lilith Azami
-- **DOB:** [Establish based on Ch13 being her 30th birthday—if Ch13 is ~5 years before Ch1, and Ch1 is "present day," she's 35 in Ch1]
+- **Age during tracking:** 34 (Chapters 3-21)
+- **Age in Chapter 1:** 35
 - **Profession:** Psychiatrist (NHS, Manchester)
-- **Location:** Manchester, UK
-- **Spiritual status:** Non-Returner (has transcended most fetters except the final attachments—though she wouldn't use this term)
+- **Location:** Manchester, UK (primarily Fallowfield flat)
+- **Spiritual status:** Non-Returner (has broken 5 of 10 fetters)
 
 ---
 
-## Chapter-by-Chapter Status
+## Timeline Architecture
 
-### Chapter 1 (Age 35, Year 10 of tracking)
-- **Professional status:** Established psychiatrist; reputation solid but colleagues have noted increasing distraction over the years
-- **Living situation:** Flat in Manchester (the tracking corner, the notebooks)
-- **Relationship to Silas:** Lovers (the intimate relationship as final gambit)
-- **Key events:** The chapter's present action
-- **Tracking status:** Decade of pursuit culminating in direct relationship
+### The Compressed Tracking Period (Chapters 3-21)
 
----
+**Duration:** 8-10 weeks
 
-### Chapter 3: The Discovery (Age 25, Year 0)
-- **Professional status:** Early-career psychiatrist, recently qualified
-- **Living situation:** First solo flat in Manchester
-- **Family status:** Mother and Nadia both stable; no major family drama yet
-- **Key events:** 
-  - First accidental discovery of tracking ability during deep meditation
-  - Finds Silas's thread extending backward through time
-  - Realizes she can observe past lives
-- **Spiritual development:** Has been practicing meditation seriously for years; this is the breakthrough that reveals her capabilities
-- **Power level:** Observation only—can see but not influence
-- **Emotional state:** Excitement, wonder, the thrill of discovery
-- **Loose threads introduced:**
-  - The notebooks begin
-  - The tracking corner established
-  - Her fascination with her own developing powers
+Lilith discovers Silas's karmic thread and races through all ten historical lives in rapid succession. This is not a decade of methodical study—it's a fever, a manic pursuit. Each intervention fails, each backfire sharpens her attachment, until she realizes she must meet him in the present.
 
----
+| Chapter | Tracking Timeline | Historical Avatar | Fetter Manifestation |
+|---------|-------------------|-------------------|----------------------|
+| 3 | Days 1-3 | Ka | "I've found a problem to solve" |
+| 5 | Week 1-2 | Chandra | "This intervention will work" |
+| 7 | Week 2-3 | Philon | "I see what went wrong; I'll correct" |
+| 9 | Week 3-4 | Verinus | "More precision required" |
+| 11 | Week 4-5 | Macarius | "Why do I hesitate?" |
+| 13 | Week 5-6 | Kaoru | "The pull toward him is tactical" |
+| 15 | Week 6-7 | Diego | "I don't feel what I'm feeling" |
+| 17 | Week 7-8 | Jean | "One more. One more. One more." |
+| 19 | Week 8-9 | Wei | "I will manifest fully" |
+| 21 | Week 9-10 | Jack Malone | "If I can't stop him, I'll bind him" |
 
-### Chapter 5: The Ledger's Shadow (Age 26, Year 1)
-- **Professional status:** Building caseload, earning respect
-- **Family status:** Stable
-- **Key events:**
-  - First deliberate intervention attempt (Chandra/Mauryan period)
-  - Learns she can influence through dreams, subtle pressure
-- **Power level:** Remote influence—can send impressions, dreams
-- **Tracking content:** Observes Chandra's life; attempts to amplify his attachment to record-keeping, his need for control
-- **Backfire:** Her intervention creates the very conditions for his insight about impermanence
-- **Emotional state:** Determined; believes she's found her method
-- **Promises made:** [TBD]
-- **Loose threads:** [TBD]
+### The Time-Jump (Between Chapter 21 and Chapter 1)
+
+**Duration:** 6-12 months
+
+**What happens offpage:**
+- Lilith traces Silas's thread forward to present-day Manchester
+- Locates him as a philosophy professor at the university
+- Engineers their meeting (perhaps at his Nagarjuna lecture)
+- Develops the intimate relationship over months
+- Rebuilds composure over the feverish tracking period
+- The relationship becomes both tactic and (complicating) genuine feeling
+
+### Chapter 1 (Age 35)
+
+**Recontextualization:** On first read, Lilith appears as an established lover—composed, professional, in control. After reading the Lilith chapters in Act II, readers understand: this composure is armor over desperation. The clinical detachment masks obsession that burned through her weeks ago.
 
 ---
 
-### Chapter 7: The Dream-Walker (Age 27-28, Year 2-3)
-- **Professional status:** Solid clinical reputation; colleagues value her insight
-- **Family status:** 
-  - Mother announces remarriage to Jeff
-  - Nadia announces engagement (feels upstaged by mother's timing)
-  - Lilith navigates both relationships with genuine equanimity
-- **Patient introduced:** David (caregiver guilt, destroying himself for mother Marsha)
-- **Key events:**
-  - Meets Jeff—genuinely warm, sees he's not the villain Nadia painted
-  - Demonstrates ability to hold space for family conflict without being consumed
-  - First deliberate dream-sending to historical figure (Alexios in Athens)
-- **Power level:** Dream manipulation—can send specific content across time
-- **Tracking content:** Observes Philon; sends dream to Alexios accelerating xenophobic panic
-- **Backfire:** Philon's martyrdom becomes vehicle for his insight; the persecution clarifies rather than corrupts
-- **The Kinship Whisper:** First flicker—watching Philon die, she recognizes something of her own journey
-- **Emotional state:** Curious about the backfire pattern; files it for later examination
-- **Loose threads introduced:**
-  - "Together doesn't hold"—observation about why his isolation attempts fail
-  - The question of why opposition seems to accelerate rather than obstruct
+## Cosmic Capability (Constant)
+
+Lilith has full cosmic power from Chapter 3 onwards. She is a near-Buddha who has broken 5 of 10 fetters.
+
+**Capabilities:**
+- Full temporal perception (can access any point on Silas's karmic thread)
+- Physical manifestation in historical periods (can inhabit vessels, take form)
+- Circumstance manipulation (can influence events, people, environments)
+- Dream influence, environmental manipulation, direct intervention
+
+**Constraints:**
+- Cannot override karmic law—interventions backfire structurally
+- Cannot force Silas's choices or negate his accumulated merit
+- Cannot change past events—can only manifest within them and influence
+- Interventions have karmic consequences for herself (attachment intensifies)
+
+**What drives her arc:** Not power acquisition, but intensification of her final fetter—attachment to being "the one who achieves Buddhahood."
 
 ---
 
-### Chapter 9: The Complaint (Age 28, Year 3)
-- **Professional status:** 
-  - Luther (difficult patient) files complaint against her
-  - First real professional threat
-  - Harrow (supervisor/administrator) initially adversarial
-- **Key events:**
-  - Navigates complaint process
-  - Harrow proves fair despite initial tension
-  - Complaint resolved in her favor
-- **Power level:** Circumstance manipulation—can arrange events, not just send impressions
-- **Tracking content:** Observes Verinus (Rome); manipulates circumstances around his investigation
-- **Backfire:** Her interference creates the conditions for his compassionate judgment; exile becomes space for integration
-- **Emotional state:** Growing frustration that interventions aren't slowing progress; intellectual curiosity about the pattern
-- **Loose threads:**
-  - Relationship with Harrow—resolved complaint but lingering professional tension?
-  - Luther's outcome?
+## Fetter Intensification Arc
+
+Her attachment sharpens chapter by chapter. She's not falling apart—she's *crystallizing*. The attachment becomes harder, brighter, more absolute. A master of immense capability making increasingly desperate moves because she cannot see the one thing she needs to see.
+
+### Chapter 3: The Discovery (Days 1-3)
+
+**Emotional state:** Analytical curiosity, first unnamed stirring
+**Manifestation:** "I've found a problem to solve"
+**Blind spot:** Cannot see her own grasping
+**Intervention:** None—first awareness of his pattern
+**Maitreya hint:** "We are the same"—horror indistinguishable from fascination
+
+### Chapter 5: The Ledger's Shadow (Week 1-2)
+
+**Emotional state:** Confident strategy, first backfire witnessed
+**Manifestation:** "This intervention will work"
+**Blind spot:** Satisfaction at manipulation blind to pattern
+**Intervention:** Influences Devaka's betrayal to harden Chandra against trust
+**Backfire:** Betrayal teaches Chandra that generosity cannot depend on reciprocity
+**Maitreya hint:** Brief hesitation before influencing Devaka—suppressed immediately
+
+### Chapter 7: The Dream-Walker (Week 2-3)
+
+**Emotional state:** Adjustment, certainty intact, refining strategy
+**Manifestation:** "I see what went wrong; I'll correct"
+**Blind spot:** Recognition of kinship filed with interest, not alarm
+**Intervention:** Accelerates xenophobic rumor; sends dream to Alexios isolating Philon
+**Backfire:** Isolation crystallizes rather than corrupts; question becomes pure seed of insight
+**Maitreya hints:** Kinship whisper extending from Ka to Philon; curiosity about kinship, not rivalry
+
+### Chapter 9: The Complaint (Week 3-4)
+
+**Emotional state:** Intensifying focus, first suppressed doubts
+**Manifestation:** "More precision required"
+**Blind spot:** Attachment to precision mirrors avatar's attachment to certainty
+**Intervention:** Creates competing testimonial versions; traffic delay; amplifies senator's rage
+**Backfire:** Contradictions made Verinus humble, not cynical; exile gave permission to not know
+**Maitreya hints:** Kinship deepens—parallel between his attachment to insight and her attachment to being first
+
+### Chapter 11: The Performance of Humility (Week 4-5)
+
+**Emotional state:** Driven, the unnamed pull emerging
+**Manifestation:** "Why do I hesitate?"
+**Blind spot:** Inexplicable hesitations suppressed immediately
+**Intervention:** Feeds spiritual pride through Theodora vessel
+**Backfire:** Pride becomes so obvious Macarius finally sees it; the seeing is the breakthrough
+**Maitreya hints:** Inexplicable hesitation—first hint beyond strategy; the unnamed pull emerging
+
+### Chapter 13: [TBD] (Week 5-6)
+
+**Emotional state:** Denial of unnamed feeling, justifying escalation, cracks appearing
+**Manifestation:** "The pull toward him is tactical"
+**Blind spot:** First physical appearance to him as object of desire
+**Intervention:** Physical manifestation as The Attendant—creates "perfect romance" to trap in realm of desire
+**Backfire:** Static perfection repels rather than binds; beauty requires impermanence
+**Maitreya hints:** The pull exceeding strategic necessity; first face-to-face across time
+
+### Chapter 15: [TBD] — FULCRUM (Week 6-7)
+
+**Emotional state:** The pull growing, manic clarity, relentless
+**Manifestation:** "I don't feel what I'm feeling"
+**Blind spot:** Sustained presence revealing depth of investment
+**Intervention:** Sustained presence as Sor Catalina—engineers Tomás's betrayal
+**Backfire:** Personal betrayal teaches Diego about attachment to safety; releases rather than hardens
+**Maitreya hints:** The pull growing beyond denial; sustained presence; face constancy observation
+**Note:** Chapter 15 is the FULCRUM—equidistant from discovery (Ch 3) and confession (Ch 1). She perceives the wheel is real and commits fully.
+
+### Chapter 17: [TBD] (Week 7-8)
+
+**Emotional state:** Manic persistence, exhaustion of strategies (spiritual, not physical)
+**Manifestation:** "One more. One more. One more."
+**Blind spot:** Cycling through approaches, certainty fracturing
+**Intervention:** Appears as Marguerite Viret—philosophical companion pushing doubt toward nihilism
+**Backfire:** Jean discovers truthfulness under uncertainty; trap becomes crucible
+**Maitreya hints:** Exhaustion revealing the pull beneath strategy; persistence exceeding rational calculation
+
+### Chapter 19: [TBD] (Week 8-9)
+
+**Emotional state:** Total commitment, power at peak, final attempts
+**Manifestation:** "I will manifest fully"
+**Blind spot:** Full deployment revealing obsession, not mastery
+**Intervention:** Circumstantial manipulation—adjusts artillery timing, spreads disease vectors; ensures everyone Wei saves dies anyway
+**Backfire:** By making futility visible, forces Wei to purify determination from outcome-attachment. True adhiṭṭhāna achieved.
+**Maitreya hints:** Face to face manifestation—intimacy of opposition; total commitment revealing depth
+
+### Chapter 21: The Pivot (Week 9-10)
+
+**Emotional state:** Final failure witnessed, pivot to new strategy—the decision
+**Manifestation:** "If I can't stop him, I'll bind him"
+**Blind spot:** Intimacy strategy is the final fetter made flesh
+**Intervention:** MINIMAL PRESENCE. 3 brief appearances as distant observer; accelerates failures from distance
+**Backfire:** CATASTROPHIC: All ten perfections complete. Next life is stream-entry.
+**Maitreya hints:** Inexplicable pain when causing detective suffering; losing track of which consciousness is which; the pull driving the pivot
+**The Decision:** Traces thread forward to present-day Manchester. Finds Silas Pahlavan. Decides to meet him in flesh, become the thing he cannot transcend.
 
 ---
 
-### Chapter 11: The Performance of Humility (Age 29, Year 4)
-- **Professional status:** 
-  - Luther complaint fully closed
-  - Standing with Harrow normalized
-  - Respected but colleagues beginning to notice occasional distraction
-- **Family status:**
-  - Nadia's rehearsal dinner (wedding imminent)
-  - Family dynamics settled—Jeff accepted, mother happy
-  - Tensions between Nadia and mother cooling
-- **Patient introduced:** Dr. Eleanor Pierce (philosophy professor; destroyed relationships by needing to be right)
-- **Social:** Meera Okonkwo introduced at rehearsal dinner—friend to both Lilith and Nadia since university
-- **Key events:**
-  - Rehearsal dinner: everyone performing humility (Jeff, Mother, Nadia, Lilith herself)
-  - Pierce session: "The need to be right is itself the attachment"
-  - Beat 5: "What does that remind me of?"—goes unanswered
-- **Power level:** Growing control—can work through intermediaries with precision
-- **Tracking content:** 
-  - Observes Macarius (Egypt); orchestrates excessive praise through Theophanes
-  - Works through Theodora (church dignitary) as observer/orchestrator, pushing from afar rather than inhabiting directly
-- **Backfire:** The formalization becomes a mirror; Macarius sees and releases his pride
-- **Emotional state:** Methodical but anxious beneath surface; the pattern of backfires becoming harder to ignore
-- **Loose threads:**
-  - Nadia's wedding (happens between Ch11 and Ch13)
-  - The unanswered question about what her observations remind her of
-  - Meera—will appear again at birthday gathering
+## Integrated Prose Technique
 
----
+All Lilith chapters hold Manchester present and historical period simultaneously. No alternating scenes, no transition markers.
 
-### Chapter 13: First Manifestation (Age 30, Year 5) — CURRENT DEVELOPMENT
-- **Professional status:** [TBD—stable but distraction increasing?]
-- **Family status:** 
-  - Nadia's wedding has happened (between chapters)
-  - Family relations improved—"they made a bigger deal of it than it was"
-  - Mother and Nadia getting along well now
-- **Social:** 
-  - 30th birthday gathering with friends including Meera
-  - Conversation about aging, beauty, cosmetic procedures
-- **Key events:**
-  - Birthday forces reflection on time, impermanence, her own path
-  - Major power evolution: has overcome attentional costs through deep practice
-  - Discovers new limit: the noise floor (interventions create interference regardless of capacity)
-  - Pushed her own past incarnation (The Attendant IS her)—realizes the Attendant was one of her past lives
-  - Witnesses catastrophic backfire in real-time
-- **Power level:** Pushing own past self (low agency)—can drive her own past incarnation but cannot integrate modern consciousness
-- **Tracking content:**
-  - Reviews Heian disaster; watches Kaoru die
-  - Releases the push—her past self wakes as if from a dream and walks away
-  - Thread fades; will be months before she can track forward
-  - Realizes: the thread surfaces in her time, but she must trace it forward life by life
-- **Spiritual turning point:**
-  - First glimpse of her OWN past lives—she's been on this path across lifetimes too
-  - Questions inevitability: if his progress can't be stopped, what about hers?
-  - Seeds of realization: opposing him feels like training—for both of them?
-  - Crossed-out notebook line: "If his progress is inevitable, is mine?"
-- **Emotional state:** Exhausted but intellectually energized; failure pushing her toward questions about her own path
-- **Loose threads to address:**
-  - What happened at Nadia's wedding? (Lilith present but distracted?)
-  - Meera notices something different about her
-  - The backfire pattern now tied to questions about her own inevitability
+**How it works:**
+- Sensory bridges connect timelines (rain/snow, warmth/fire, silence/silence)
+- Pronouns flow between Lilith's awareness and historical moment
+- Physical sensations register in both frames
+- Her thoughts comment on historical action while historical sensations affect her body
 
----
+**Dominant timeline moments:** At pivotal beats (1-2 per chapter), one timeline can dominate while the other recedes to background sensation. Deaths and key interventions typically foreground historical; her decisions and realizations foreground Manchester.
 
-### Chapter 15 (Age 31, Year 6)
-- **Power level:** Sustained presence—extended manifestations possible
-- **Tracking content:** Forward to Inquisition; months have passed, can finally pick up thread
-- **[Further development needed]**
+**Integration flavors by period:**
 
-### Chapter 17 (Age 32, Year 7)
-- **Power level:** Extended interaction—can hold conversations across time
-- **[Further development needed]**
-
-### Chapter 19 (Age 33, Year 8)
-- **Power level:** Near-full manifestation
-- **[Further development needed]**
-
-### Chapter 21: "The Commitment" (Age 34, Year 9)
-- **Power level:** Full manifestation in present—can track at will, fully present in his life
-- **Professional status:** Student counseling services at university; one year in position
-- **Relationship to Silas:** Transitions from colleagues → friends → lovers
-- **Key events:**
-  - One year of professional proximity complete
-  - Revisits Noir thread (retrospective analysis of backfire pattern)
-  - First night together—watches him sleep, face-constancy mystery flickers
-  - Domestic intimacy develops over weeks/months
-  - The merger dream (most explicit Maitreya seed)
-  - Almost-confession—loneliness breaks through, pulls back
-  - Final image: "Stay a little longer"
-- **Backfire emerging:** Intimacy is accelerating his progress, not trapping him; she's the one becoming attached
-- **Maitreya seeds planted:**
-  - Completing each other's thoughts (dismissed as "observation")
-  - Breathing in sync (dismissed as "proximity effect")
-  - Mirroring his habits (dismissed as "absorbed his patterns")
-  - The merger dream (dismissed as "overidentification")
-- **Key threads:**
-  - "Together doesn't hold" phrase surfaces during Noir review
-  - Loneliness of knowing builds toward confession
-  - Body truths accumulating (can't sleep when apart, checks schedule)
-  - Jung reference planted: "Our friend Jung, the embodied consummation of our vocations"
-  - Rain motif as gentle prelude to Ch 1's storm
-- **Timeline assessment:** "Twelve months. Maybe less." until stream-entry (his practice deepening)
-- **Bridge to Ch 1:** Domestic vocabulary forming; confession pressure building; tactical framing will rationalize what is actually unbearable loneliness
-- **Status:** Outlined (9 scenes, ~10,500 words)
+| Historical Period | Integration Flavor |
+|-------------------|-------------------|
+| Ka (Prehistoric) | Primal, sensory, non-verbal, body-knowledge |
+| Chandra (Mauryan) | Bureaucratic, ledgers and rain, political weight |
+| Philon (Athens) | Philosophical, dialogue bleeding through, ideas as sensation |
+| Verinus (Rome) | Procedural, investigation layered on investigation |
+| Macarius (Egypt) | Ascetic, emptiness against emptiness, silence doubled |
+| Kaoru (Heian) | Aesthetic, beauty saturating both frames, longing amplified |
+| Diego (Inquisition) | Claustrophobic, persecution in two keys |
+| Jean (Renaissance) | Intellectual, wit and doubt, skepticism layered |
+| Wei (Taiping) | Chaotic, violence bleeding through, conviction fractured |
+| Jack (Noir) | Atmospheric, cigarette smoke and rain, failure repeated |
 
 ---
 
@@ -205,146 +201,94 @@
 ### Family
 
 **Mother (name TBD)**
-- Remarried to Jeff between Ch7 and Ch9
-- Relationship with Lilith: warm, uncomplicated
-- By Ch13: settled into new marriage, getting along well with Nadia
+- Remarried to Jeff (established before tracking period)
+- Relationship with Lilith: warm, stable
+- Background context only—not a subplot
 
 **Nadia (sister)**
-- Engaged in Ch7, married between Ch11 and Ch13
-- Initial resentment about mother's timing has resolved
+- Married (wedding occurred before tracking period)
 - Relationship with Lilith: close but Nadia sometimes feels Lilith is "somewhere else"
-- By Ch13: happily married, family drama behind her
+- Background context only
 
 **Jeff (stepfather)**
-- Introduced Ch7
-- Warm, slightly nervous, genuinely loves their mother
-- Not the villain Nadia initially painted
-- By Ch13: accepted member of family
-
-### Professional
-
-**Dr. Harrow**
-- Supervisor/administrator
-- Initially adversarial during Luther complaint (Ch9)
-- Proved fair; relationship normalized
-- By Ch13: professional respect, no longer antagonistic
-
-**Colleagues**
-- Generally respect her clinical abilities
-- Beginning to notice increasing distraction (Ch11 onward)
-- By Ch13: whispers about her being "somewhere else"
+- Accepted member of family
+- Warm, genuine
+- Background context only
 
 ### Social
 
 **Meera Okonkwo**
-- Friend since university; also friends with Nadia
-- Nurse (A&E or psychiatric ward—adjacent to Lilith's medical world)
-- Appears at rehearsal dinner (Ch11)
-- Appears at 30th birthday gathering (Ch13)
-- Perceptive; likely to notice changes in Lilith
-- Has seen Lilith through various phases; knows her well enough to clock something's different
-
-**Other friends (Ch13 birthday gathering)**
-- [TBD—2-3 others to round out the scene]
-- Professional women, late 20s/early 30s
-- The conversation about aging/beauty emerges naturally from this demographic
+- Friend since university
+- Nurse (A&E or psychiatric ward)
+- Perceptive; notices changes in Lilith
+- Background context—may appear briefly if Manchester setting requires
 
 ### Romantic
 
-- **No significant relationships during tracking years**
-- Preoccupied first with spiritual development, then with tracking
-- The awakening of her powers and fascination with progressing further has consumed that energy
-- This makes the Chapter 1 relationship with Silas significant—it's her first intimate relationship in years, and it's strategic
+- No significant relationships during tracking period
+- Preoccupied with spiritual development, then with tracking
+- The Chapter 1 relationship with Silas is her first intimate relationship in years—and it's strategic (though complicated by genuine feeling)
 
 ---
 
-## Unfulfilled Promises / Loose Threads
+## The Parallel Structure
 
-### Introduced and Unresolved
+Every Lilith chapter demonstrates her making the same mistake as the avatar at a different scale:
 
-1. **"Together doesn't hold"** (Ch7)—her observation about why his isolation attempts fail; never fully examined
+| Avatar's Mistake | Lilith's Mistake |
+|------------------|------------------|
+| Ka hoarding meat | Lilith hoarding capability |
+| Ka ignoring tribe's fires | Lilith ignoring everything outside tracking |
+| Ka calling isolation "strength" | Lilith calling isolation "strategic necessity" |
+| Chandra's incomplete generosity | Lilith's strategic withholding |
+| Philon's martyrdom compulsion | Lilith's compulsive tracking |
+| Verinus's attachment to certainty | Lilith's attachment to precision |
+| Macarius's spiritual pride | Lilith's certainty in her path |
+| Kaoru's aesthetic attachment | Lilith's unnamed pull she calls "tactical" |
+| Diego's service-for-safety bargain | Lilith's precision-for-victory calculation |
+| Jean's skepticism as identity | Lilith's refinement as compulsion |
+| Wei's compulsive helping | Lilith's compulsive tracking |
+| Jack's obsessive pursuit | Lilith's obsessive pursuit |
 
-2. **"What does that remind me of?"** (Ch11)—the parallel between her observations and her own situation; deliberately not completed
-
-3. **The backfire pattern**—increasingly visible but not yet explained to her satisfaction
-
-4. **The kinship whisper**—growing recognition of connection to Silas that she can't explain
-
-5. **Her own past lives**—has she examined them? Ch13 might be where she starts
-
-### Resolved Between Chapters
-
-1. **Luther complaint** (Ch9 → Ch11)—resolved in her favor
-
-2. **Nadia's wedding tensions** (Ch7 → Ch13)—resolved; family getting along
-
-3. **Jeff's acceptance** (Ch7 → Ch13)—complete; he's part of the family now
-
----
-
-## The Tracking Corner
-
-A consistent detail across chapters: the corner of her flat where she does her "other work."
-
-- **The notebooks:** Handwritten records of observations, interventions, theories
-- **The materials:** Whatever she uses to anchor her practice
-- **The ritual:** The position, the breathing, the descent into tracking
-
-This space should feel increasingly significant as chapters progress—the physical anchor for her supernatural work.
+The devastating irony: She sees each avatar's flaw perfectly. She cannot see her own identical pattern.
 
 ---
 
-## Power Progression Summary
+## Maitreya Foreshadowing
 
-| Chapter | Age | Year | Power Level | Key Capability |
-|---------|-----|------|-------------|----------------|
-| 3 | 25 | 0 | Observation | Can see past lives |
-| 5 | 26 | 1 | Remote influence | Can send dreams/impressions |
-| 7 | 27-28 | 2-3 | Dream manipulation | Can send specific content |
-| 9 | 28 | 3 | Circumstance manipulation | Can arrange events |
-| 11 | 29 | 4 | Growing control | Can work through intermediaries precisely |
-| 13 | 30 | 5 | Pushing own past self | Can drive her own past incarnation (can't integrate consciousness) |
-| 15 | 31 | 6 | Sustained presence | Extended influence over past selves |
-| 17 | 32 | 7 | Extended interaction | Can maintain influence longer |
-| 19 | 33 | 8 | Near-full manifestation | Almost complete integration |
-| 21 | 34 | 9 | Full manifestation | Can incarnate with full consciousness |
+0-2 subtle moments per chapter, never explained:
 
----
+- Moments of hesitation before interventions she can't explain
+- Inexplicable pain when she causes him suffering
+- Dreams where she sees through his eyes
+- The pull toward him that exceeds tactical necessity
+- Moments where she loses track of which consciousness is which
+- Face constancy observation (her face same across incarnations; his changes)
+- References to loving-kindness (mettā/maitri—Maitreya's name meaning)
 
-## Chapter 13 Development Notes
-
-### The Turning Point
-
-Chapter 13 marks a shift in Lilith's arc:
-
-**Before Ch13:** Costs are attentional/spiritual; she's learning to push through them
-**Ch13 turning point:** She's mastered the attentional discipline
-**After Ch13:** The limit is the noise floor—interventions create interference regardless of her capacity
-
-### What She Realizes (Without Buddhist Terminology)
-
-- She's close to something—her own liberation feels near
-- The competition may not be what she thought
-- Opposing him feels like training—for both of them?
-- There's a pattern to the backfires that suggests systemic rather than tactical failure
-- Perhaps only one being can complete this path per... cycle? World? Era?
-- If so, what does that mean for her own progress?
-
-### Questions She Begins Asking
-
-- What are her own past lives? Has she always been pursuing him?
-- Is his progress somehow linked to hers?
-- Why does every intervention accelerate rather than obstruct?
-- What other capabilities might she develop?
-- What happens if she stops interfering?
+As her attachment intensifies, these hints grow stronger, culminating in Chapter 21's profound disorientation about whose consciousness is whose.
 
 ---
 
-## Notes for Chapter 11 Revision
+## What Has Been Removed
 
-**Add:** Brief mention of Meera Okonkwo at the rehearsal dinner
-- Could be seated near Lilith
-- A line of dialogue or observation
-- Establishes her presence for Ch13 payoff
+The following elements from the original conception are **no longer part of Lilith's arc**:
 
-**Example insertion point:** During the family dynamics section, Lilith might exchange a glance with Meera—someone who knows the family well enough to appreciate the performance everyone is putting on.
+- ❌ 10-year tracking timeline (now 8-10 weeks)
+- ❌ Power progression (full capability from start)
+- ❌ Patient sessions (Gerald, David, etc.)
+- ❌ Professional decline subplot
+- ❌ Tracking corner / notebooks as central motif
+- ❌ Clinical demonstration of fetter mastery
+- ❌ Extended Manchester-only scenes
+- ❌ Career erosion / colleague concerns
+
+---
+
+## Reference Documents
+
+For complete specifications, see:
+- **lilith-arc.json** — Full fetter intensification arc, timeline, spiritual status
+- **lilith-chapter-manifest.json** — Chapter-by-chapter integrated prose specifications
+- **lilith-style-rules.md** — Voice requirements and prose technique
+- **lilith-refactor.md** — Master reference for all architectural decisions

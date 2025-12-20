@@ -6,9 +6,9 @@
 
 ## Premise
 
-Silas Pahlavan, a philosophy professor in contemporary Manchester, is approaching stream-entry—the first stage of Buddhist enlightenment. Lilith Azami, a near-enlightened psychiatrist with growing supernatural abilities, can see his past lives and is determined to stop his progress. She believes that if only one soul can achieve Buddhahood in this cosmic cycle, it should be her.
+Silas Pahlavan, a philosophy professor in contemporary Manchester, is approaching stream-entry—the first stage of Buddhist enlightenment. Lilith Azami, a near-enlightened psychiatrist with cosmic-scale capability, can see his past lives and is determined to stop his progress. She believes that if only one soul can achieve Buddhahood in this cosmic cycle, it should be her.
 
-As Silas's accumulated incarnations unfold backward through time, Lilith's power grows forward in the contemporary timeline, building toward a confrontation that will determine whether enlightenment—or something stranger—awaits them both.
+As Silas's accumulated incarnations unfold backward through time, Lilith's attachment intensifies in the contemporary timeline—her fetter crystallizing harder with each failed intervention—building toward a confrontation that will determine whether enlightenment—or something stranger—awaits them both.
 
 ## Thematic Core
 
@@ -30,22 +30,22 @@ As Silas's accumulated incarnations unfold backward through time, Lilith's power
 
 ### Act II: The Alternating Pattern
 
-Act II alternates between Silas's past lives (even chapters) and Lilith's contemporary pursuit (odd chapters), creating parallel forward momentum:
+Act II alternates between Silas's past lives (even chapters) and Lilith's integrated prose chapters (odd chapters), creating parallel forward momentum. Lilith chapters hold Manchester and historical period simultaneously using an **integrated prose technique**—no scene breaks between timelines.
 
-| Historical (Silas) | Contemporary (Lilith) |
-|-------------------|----------------------|
-| Ch 2: Ka — Prehistoric hunter | Ch 3: Discovery of the ability |
-| Ch 4: Chandra — Mauryan accountant | Ch 5: First intervention |
-| Ch 6: Philon — Athenian physician | Ch 7: Dream influence |
-| Ch 8: Verinus — Roman investigator | Ch 9: Circumstance manipulation |
-| Ch 10: Macarius — Desert hermit | Ch 11: Growing control |
-| Ch 12: Kaoru — Heian courtier | Ch 13: Brief manifestation |
-| Ch 14: [TBD] — Inquisition victim | Ch 15: Sustained presence |
-| Ch 16: [TBD] — Renaissance skeptic | Ch 17: Extended interaction |
-| Ch 18: [TBD] — Taiping rebel | Ch 19: Near-full manifestation |
-| Ch 20: [TBD] — Noir detective | Ch 21: Full manifestation |
+| Historical (Silas) | Lilith (Integrated Prose) |
+|-------------------|---------------------------|
+| Ch 2: Ka — Prehistoric hunter | Ch 3: Integrated with Ka (Days 1-3) |
+| Ch 4: Chandra — Mauryan accountant | Ch 5: Integrated with Chandra (Week 1-2) |
+| Ch 6: Philon — Athenian physician | Ch 7: Integrated with Philon (Week 2-3) |
+| Ch 8: Verinus — Roman investigator | Ch 9: Integrated with Verinus (Week 3-4) |
+| Ch 10: Macarius — Desert hermit | Ch 11: Integrated with Macarius (Week 4-5) |
+| Ch 12: Kaoru — Heian courtier | Ch 13: Integrated with Kaoru (Week 5-6) |
+| Ch 14: Diego — Inquisition victim | Ch 15: Integrated with Diego — FULCRUM (Week 6-7) |
+| Ch 16: Jean — Renaissance skeptic | Ch 17: Integrated with Jean (Week 7-8) |
+| Ch 18: Wei — Taiping rebel | Ch 19: Integrated with Wei (Week 8-9) |
+| Ch 20: Jack Malone — Noir detective | Ch 21: The Pivot (Week 9-10) |
 
-Each historical chapter operates in a distinct **genre mode** (survival horror, political thriller, Greek tragedy, mystery, spiritual drama, Gothic romance, etc.) while maintaining thematic and narrative unity.
+Each historical chapter operates in a distinct **genre mode** (survival horror, political thriller, Greek tragedy, mystery, spiritual drama, Gothic romance, etc.) while maintaining thematic and narrative unity. Lilith's chapters compress 8-10 weeks of feverish tracking, with a 6-12 month time-jump between Chapter 21 and Chapter 1.
 
 ## Buddhist Framework
 
@@ -73,9 +73,9 @@ Parallel to fetter dissolution, the soul develops the **Ten Perfections** (*pār
 | Ch 1–12 | — | Ch 22 | Ch 13–21, 23–26 |
 
 **Word Count:**
-- Target: ~156,000 words
-- Drafted: ~73,550 words (47%)
-- Remaining: ~82,450 words
+- Target: ~145,000 words (revised: Lilith chapters now 2,500-3,500 words each)
+- Drafted: ~73,550 words (51%)
+- Remaining: ~71,450 words
 
 ## Repository Structure
 
@@ -88,7 +88,8 @@ Wheel_of_Meat/
 ├── scene-manifest.json           # Master chapter/scene tracking (JSON)
 │
 ├── meta/
-│   ├── lilith-arc.json           # Lilith's power progression by chapter
+│   ├── lilith-arc.json           # Lilith's fetter intensification arc
+│   ├── lilith-contemporary-timeline.md  # Lilith's compressed 8-10 week timeline
 │   ├── soul-constants.json       # What persists across incarnations
 │   ├── thematic-echoes.md        # Recurring symbols & situations
 │   └── contemporary-period-rules.md
