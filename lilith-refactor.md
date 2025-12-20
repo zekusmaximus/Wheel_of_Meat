@@ -1,7 +1,7 @@
 # Lilith Refactor: Architectural Revision Document
 
 **Created:** December 2024
-**Status:** Phase 3 COMPLETE (Meta Documentation)
+**Status:** Phase 4 IN PROGRESS (Chapter Rewrites)
 **Purpose:** Comprehensive record of all decisions made regarding the Lilith chapter restructure, to serve as the authoritative reference during revision.
 
 -----
@@ -587,7 +587,10 @@ A test scene demonstrating the integrated prose technique was created during thi
     - README.md updated — revised premise for cosmic capability and fetter intensification; updated Act II table for integrated prose; revised word targets (now ~145,000); updated repository structure listing
     - soul-constants.json updated — added lilith_reference section with spiritual status, arc type, and timeline cross-reference
     - novel-progress.txt updated — added "Major Revision: Lilith Architectural Overhaul" structural change log entry documenting all three phases
-- **Next action:** Phase 4 implementation (Chapter Rewrites: Chapter 3 test of integrated technique, then Chapters 5, 7, 9, 11, 13)
+- **Phase 4 (December 2025):**
+    - Chapter 3 scaffold created (CH03_scaffold.md) — comprehensive outline with section structure, integration points with Chapter 2, sensory bridges, parallel structure mapping, fetter beat placement, Maitreya foreshadowing guidance
+    - Chapter 3 notes.md updated to reflect new architecture
+- **Next action:** Draft Chapter 3 using integrated prose technique, then proceed to Chapters 5, 7, 9, 11, 13
 
 -----
 
