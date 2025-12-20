@@ -206,5 +206,13 @@
       "What persists when the self is illusion?"
     ],
     "resolution": "The competition was illusory. Silas and Lilith were always two aspects of the same future Buddha—Maitreya. Their apparent opposition was the necessary friction through which that Buddha-to-be developed."
+  },
+
+  "lilith_reference": {
+    "note": "For Lilith's spiritual status and arc, see lilith-arc.json",
+    "spiritual_status": "Non-Returner (has broken 5 of 10 fetters)",
+    "relationship_to_silas": "Rival bodhisattva; believes only one Buddha per world-system; her opposition unknowingly catalyzes his growth",
+    "arc_type": "Fetter intensification (attachment crystallizing), not power progression",
+    "timeline": "8-10 weeks compressed tracking (Chapters 3-21), then 6-12 month gap before Chapter 1"
   }
 }
