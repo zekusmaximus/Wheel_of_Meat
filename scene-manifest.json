@@ -944,8 +944,37 @@
       ],
       "function": "Strategy adjustment after witnessing backfire; recognition of kinship with Philon; certainty that refinement will succeed; attachment intensifies through 'correction'",
       "word_target": 3000,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Thread Shifts",
+          "file": "scene-01-thread-shifts.md",
+          "word_count": 580,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Dream-Walker",
+          "file": "scene-02-dream-walker.md",
+          "word_count": 780,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "The Compulsion",
+          "file": "scene-03-compulsion.md",
+          "word_count": 690,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Wheel Turns",
+          "file": "scene-04-wheel-turns.md",
+          "word_count": 950,
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
     {
       "chapter": 8,
