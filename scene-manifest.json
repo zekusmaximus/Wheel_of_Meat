@@ -334,8 +334,37 @@
       ],
       "function": "Discovery of Silas's thread; first integrated experience; recognition of kinship; decision to track",
       "word_target": 3000,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Discovery",
+          "file": "scene-01-discovery.md",
+          "word_count": 750,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Hoarding",
+          "file": "scene-02-hoarding.md",
+          "word_count": 850,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "Ka's Death",
+          "file": "scene-03-ka-death.md",
+          "word_count": 600,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Thread Forward",
+          "file": "scene-04-thread-forward.md",
+          "word_count": 700,
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
     {
       "chapter": 4,
