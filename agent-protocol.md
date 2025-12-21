@@ -149,6 +149,81 @@ Before beginning any task, identify which mode applies. Do not mix modes within 
 
 -----
 
+## Lilith Chapter Workflow
+
+The 10 Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) follow a three-phase development process. Each phase is typically done in a separate session.
+
+### Phase 1: Brainstorm/Scaffold
+
+**When the author asks to brainstorm or scaffold a Lilith chapter:**
+
+1. **Read required files:**
+   - `lilith-chapter-manifest.json` — Get chapter-specific requirements (fetter beat, parallel structure, sensory bridges, intervention details)
+   - `lilith-style-rules.md` — Understand integrated prose technique
+   - Corresponding historical chapter's draft (e.g., Ch 2 for Lilith Ch 3) — Understand the avatar's story
+   - Previous Lilith chapter's `notes.md` (if exists) — Continuity with her arc
+
+2. **Create or update `notes.md`** in the chapter folder with:
+   - Context (corresponding historical chapter, avatar, lesson)
+   - Lilith's status (timeline position, fetter beat manifestation)
+   - Integration flavor (period-specific sensory bridges)
+   - Parallel structure (avatar mistake ↔ Lilith mistake)
+   - Intervention details (method, objective, backfire)
+   - Maitreya foreshadowing (0-2 subtle moments)
+   - Pivotal moments (which timeline dominates when)
+
+3. **Reference example:** See `incarnations/ch03-lilith-cp01/notes.md` for format
+
+### Phase 2: Outline
+
+**When the author asks to outline a Lilith chapter:**
+
+1. **Read required files:**
+   - This chapter's `notes.md` — Scaffolding from Phase 1
+   - `lilith-chapter-manifest.json` — Word targets, structure template
+   - `lilith-style-rules.md` — Pacing and dominant timeline guidance
+   - Historical chapter's scenes — Understand the story beats to track
+
+2. **Create `chapter-outline.md`** with:
+   - Scene-by-scene breakdown (typically 3-5 scenes for 2,500-3,500 words)
+   - Each scene entry: title, word target, timeline balance, key beat, sensory bridges
+   - Chapter arc: how fetter intensifies across scenes
+   - Pivotal moment placement
+
+3. **Reference example:** See `incarnations/ch05-lilith-cp02/chapter-outline.md` for format
+
+### Phase 3: Draft
+
+**When the author asks to draft a Lilith chapter:**
+
+1. **Verify prerequisites:**
+   - [ ] `notes.md` exists and is complete
+   - [ ] `chapter-outline.md` exists
+   - [ ] Corresponding historical chapter is drafted
+   - [ ] `lilith-style-rules.md` has been read this session
+   - [ ] `lilith-chapter-manifest.json` entry reviewed
+   - [ ] Previous Lilith chapter has been read (if not Ch 3)
+
+2. **If any prerequisite is missing:** HALT. Switch to appropriate phase.
+
+3. **Create `scenes/` directory** in chapter folder
+
+4. **Draft each scene** as separate file (`scene-01-[slug].md`, etc.):
+   - Open with dual sensory anchor (both timelines in first paragraph)
+   - Maintain integrated prose throughout
+   - Include sensory bridges connecting frames
+   - Place fetter beat as outlined
+   - Include Maitreya foreshadowing (0-2 moments)
+
+5. **Reference examples:** See `incarnations/ch03-lilith-cp01/scenes/` for integrated prose examples
+
+6. **After drafting all scenes:**
+   - Run all 6 verification passes (including Lilith Chapter Verification)
+   - Create combined draft `CHxx_draft.md`
+   - Update `scene-manifest.json`
+
+-----
+
 ## Post-Draft Verification Passes
 
 After completing a scene draft, run these audits before finalizing. Do not skip passes.

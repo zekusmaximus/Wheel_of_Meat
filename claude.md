@@ -280,13 +280,13 @@ Act II's structure creates different temporal experiences for the two timelines:
 |11|The Performance of Humility|Lilith    |Week 4-5               |First suppressed doubts           |needs_revision |
 |12|The Lover                 |Historical|Kaoru (Heian 1000 CE)  |Equanimity/Upekkhā                |DRAFTED        |
 |13|TBD                       |Lilith    |Week 5-6               |Denial of unnamed feeling         |needs_revision |
-|14|The Accused               |Historical|TBD (Spain 1485)       |Patience/Khanti                   |needs_dev      |
+|14|The Accused               |Historical|Diego de Lucena (Spain 1491)|Patience/Khanti                |DRAFTED        |
 |15|TBD                       |Lilith    |Week 6-7               |Manic clarity                     |needs_revision |
-|16|The Skeptic               |Historical|TBD (France 1585)      |Truthfulness/Sacca                |needs_dev      |
+|16|The Skeptic               |Historical|Jean de Langon (France 1588)|Truthfulness/Sacca             |DRAFTED        |
 |17|TBD                       |Lilith    |Week 7-8               |Exhaustion of strategies          |needs_revision |
-|18|The Rebel                 |Historical|TBD (China 1855)       |Determination/Adhiṭṭhāna          |needs_dev      |
+|18|The Rebel                 |Historical|Wei Shufen (China 1862-64)|Determination/Adhiṭṭhāna       |DRAFTED        |
 |19|TBD                       |Lilith    |Week 8-9               |Full manifestation attempts       |needs_revision |
-|20|The Detective             |Historical|TBD (USA 1930s)        |Perseverance/Viriya               |needs_dev      |
+|20|The Detective             |Historical|Jack Malone (LA 1938)  |Perseverance/Viriya               |DRAFTED        |
 |21|The Decision              |Lilith    |Week 9-10              |Pivot to present-day gambit       |needs_revision |
 
 ### Act III: The Breakthrough
