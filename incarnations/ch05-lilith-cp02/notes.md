@@ -1,69 +1,41 @@
 # Chapter 5 Notes: The Ledger's Shadow
 
-## Status: NEEDS COMPLETE REWRITE
+## Status: READY FOR OUTLINE
 
-The existing `ch05_draft.md` uses the **old architecture** and must be fully reconceived. It contains elements that have been removed from Lilith's arc:
-
-### Elements to Remove (from old draft):
-- Patient sessions (Gerald Ashworth)
-- Supervision with Dr. Harrow
-- Professional subplot / career context
-- Notebook documentation motif (explicit tracking corner)
-- Extended Manchester-only scenes
-- Decade-long timeline framing
-
-### New Architecture Requirements:
-
-Per `lilith-chapter-manifest.json` and `lilith-refactor.md`:
-
-1. **Integrated Prose Technique**: Hold Manchester and Mauryan period simultaneously. No alternating scenes. Sensory bridges connect timelines.
-
-2. **Compressed Timeline**: This is Week 1-2 of an 8-10 week tracking fever, not year 1-2 of a decade.
-
-3. **Full Cosmic Power**: Lilith has complete capability from Chapter 3. No power progression—only fetter intensification.
-
-4. **First Deliberate Intervention**: This is where she discovers she can influence, not just observe. The intervention on Devaka is deliberate.
-
-5. **Backfire Pattern Begins**: She succeeds at manipulation but doesn't see the pattern already backfiring.
+### Context
+- **Corresponds to:** Chapter 4 (Chandra - Mauryan India, 268-232 BCE)
+- **Avatar:** Chandra, district administrator/former merchant
+- **Lesson:** Generosity (dāna)
+- **Tracking Timeline:** Week 1-2 of 8-10 week pursuit
+- **Word Target:** 2,500 words (2,500-3,500 range)
 
 ---
 
-## Relationship to Chapter 4
+## Lilith's Status This Chapter
 
-Chapter 4 (Chandra) establishes:
-- Devaka's fifteen-year partnership with Chandra
-- Devaka's betrayal in the temple passage
-- The conspiracy's architecture
-- Chandra choosing ledgers over people in the fire
-- His death, broken and understanding too late
-
-Chapter 5 (Lilith) adds:
-- **WHY** Devaka's loyalty failed (Lilith's focused attention collapsed the probability)
-- The hesitation before intervention (Maitreya seed)
-- Lilith's interpretation of events (satisfaction at "success," blindness to backfire)
-- The parallel between her calculated tracking and his calculated giving
-
-**Key Continuity Concern:** Nothing in Chapter 5 should contradict Chapter 4's events. Lilith's intervention *explains* Devaka's betrayal; it doesn't change what happens.
+- **Spiritual Level:** Non-Returner (5 of 10 fetters broken)
+- **Cosmic Capability:** Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power
+- **Position in Arc:** First deliberate intervention; moving from observer to actor
 
 ---
 
-## Integration Flavor
+## Integration Architecture
 
-"Bureaucratic, ledgers and rain, political weight."
+**Technique:** Integrated prose—Manchester and Mauryan held simultaneously throughout. No alternating scenes, no transition markers.
+
+**Integration Flavor:** "Bureaucratic, ledgers and rain, political weight."
 
 Both characters think in systems:
 - Chandra measures grain, calculates loss rates, tracks distributions
 - Lilith measures progress, calculates interventions, tracks development
 
 Both characters fail to give *themselves*:
-- Chandra gives resources but not presence
+- Chandra gives resources but not presence (saves ledgers while people burn)
 - Lilith observes patterns but doesn't ask why she's drawn to this particular one
-
-The rain connects both timelines—Manchester drizzle and Mauryan monsoon share the same relentless quality.
 
 ---
 
-## Sensory Bridge Catalogue
+## Sensory Bridges
 
 | Manchester | Mauryan | Bridge |
 |------------|---------|--------|
@@ -72,54 +44,116 @@ The rain connects both timelines—Manchester drizzle and Mauryan monsoon share 
 | Flat silence | Palace silence | Weighted quiet of calculation |
 | Clinical notes | Warehouse ledgers | Writing that fails to capture reality |
 | Lamp's dim circle | Oil lamp guttering | Inadequate light for the work required |
-| Body ache from practice | Body ache from wound | Physical cost of pursuit |
+| Her fingers on keyboard/papers | Chandra's stylus on palm leaves | The tactile work of accounting |
 
 ---
 
-## Fetter Intensification
+## Parallel Structure
 
-**Chapter 3:** "I've found a problem to solve" (Curiosity, first stirring)
-**Chapter 5:** "This intervention will work" (Confidence, satisfaction at control)
+| Chandra's Mistake | Lilith's Mistake |
+|-------------------|------------------|
+| Saving ledgers while people burn | Tracking patterns while life passes |
+| Transactional generosity (giving to get) | Strategic intervention (manipulating to win) |
+| Trusting Devaka based on fifteen years | Trusting her own capabilities based on millennia |
+| Cannot see past the numbers | Cannot see past the strategy |
+| Chooses evidence over lives (then reverses) | Chooses control over connection |
 
-The shift: She's moved from observer to actor. The fetter has crystallized from interest into certainty. She believes she understands how to redirect him—and that belief is the attachment sharpening.
+---
+
+## Intervention
+
+**Method:** Influences Devaka's betrayal to harden Chandra against trust
+
+**HOW it works (per lilith-chapter-manifest.json):**
+- Lilith doesn't possess Devaka—she influences probability
+- Devaka's wavering loyalty collapses; the betrayal becomes inevitable
+- A moment of hesitation before she acts (Maitreya seed)
+- She watches the betrayal unfold, tracking Chandra's response
+
+**Objective:** Sabotage development of true generosity by corrupting trusted relationships. If Chandra learns that trust leads to betrayal, he'll stop giving.
+
+**Backfire:** Betrayal teaches Chandra that generosity cannot depend on reciprocity—crystallizes the lesson rather than corrupting it. He chooses to save the workers instead of the ledgers. His final act is pure giving, expecting nothing in return.
+
+---
+
+## Fetter Intensification Beat
+
+**Manifestation:** "This intervention will work"
+**Emotional State:** Confident strategy, first backfire witnessed
+**Shown Through:** Satisfaction at successful manipulation, blind to the pattern already backfiring
+
+**The Shift from Ch 3:** She's moved from observer to actor. The fetter has crystallized from interest into certainty. She believes she understands how to redirect him—and that belief is the attachment sharpening.
 
 ---
 
 ## Maitreya Foreshadowing
 
-The hesitation before influencing Devaka. A moment where something in her pauses—not doubt about method, but a strange sense that she's about to do something to herself. She suppresses it immediately, files it as cognitive noise.
+The hesitation before influencing Devaka.
+
+A moment where something in her pauses—not doubt about method, but a strange sense that she's about to do something to herself. She suppresses it immediately, files it as cognitive noise.
 
 But the pause was real. Readers should feel it as significant even if Lilith doesn't.
 
 ---
 
-## Scene Files (Legacy)
+## Pivotal Moments
 
-The existing scene files in `/scenes/` are from the old draft and should be disregarded:
-- `scene-01-supervision.md` — Uses removed professional subplot
-- `scene-02-ashworth-session.md` — Uses removed patient sessions
-- `scene-03-influencing-devaka.md` — May contain useful material but needs reconception
-- `scene-04-decision-to-continue.md` — Needs integration into new structure
+### 1. Devaka's Betrayal (Historical Dominant)
+- Chandra in the temple passage, guards emerging from darkness
+- Devaka's confession: "I had hoped you would stop"
+- Manchester recedes to body-echo (her hands tighten, cold sensation)
 
-These can be archived or deleted once the new draft is complete.
+### 2. The Fire Scene (Historical Dominant)
+- Workers trapped, woman with infant
+- Chandra choosing between evidence and lives
+- His choice to save people—the lesson crystallizing
+
+### 3. Chandra's Death (Historical Dominant)
+- Broken understanding of true generosity
+- His final clinging-thought: the desperate hunger to give without calculation
+- This seeds the next life's lesson
 
 ---
 
-## Open Questions
+## Key Scenes from Ch 4 to Track
 
-1. **How much of Chandra's story does Lilith witness?** She needs to see enough to interpret (Devaka's betrayal, the fire, his death) but the integrated prose must keep her perspective central.
+1. **Devaka's subtle calculations** - Chandra notices hesitations, calculations, weighing throughout
+2. **The numbers obsession** - "Numbers had never betrayed me" (they have now)
+3. **The fire choice** - Ledgers vs. workers; woman with infant looking for someone to see her
+4. **The betrayal revelation** - "Fifteen years counts for something" / "It has always meant nothing"
+5. **Death scene** - Understanding generosity as Chandra dies
 
-2. **Physical cost:** How severe should the cognitive/physical cost of intervention be? Chapter 3 established tracking is exhausting. Intervention should be more so.
+---
 
-3. **Where in the flat is she?** The tracking corner exists but isn't foregrounded. The space should feel increasingly consumed by pursuit.
+## Structure Suggestion
+
+**Scene 1:** Opening dual anchor—Lilith in flat with rain, Chandra's world bleeding through. Discovery that intervention is possible. The ledger connection established.
+
+**Scene 2:** The hesitation before influencing Devaka—Maitreya foreshadowing. She acts anyway. Satisfaction at manipulation.
+
+**Scene 3:** Watching the conspiracy unfold—Chandra investigating, Devaka's subtle tells that she can read better than Chandra can.
+
+**Scene 4:** Pivotal moment—The betrayal in the temple passage. Historical dominant. Chandra captured.
+
+**Scene 5:** The fire, the choice, Chandra's death—she watches him choose people over ledgers, doesn't understand why this breaks something in her own certainty.
+
+**Scene 6:** Closing—the backfire registers. He died with the lesson crystallized. Her satisfaction curdles into something unnamed. She prepares to follow the thread forward.
+
+---
+
+## Voice Notes
+
+- Clinical precision undermined by physical tells
+- Manchester environment: rain, cooling tea, inadequate light
+- Her interiority: analytical, controlled, blind to her own parallel mistake
+- Forbidden: abstract emotion words, Buddhist terminology, explicit parallel statements
+- Required: physical grounding, undermining clauses, sensory bridges
 
 ---
 
 ## Reference Documents
 
 - `lilith-chapter-manifest.json` — Full structural requirements
-- `meta/lilith-arc-bible.md` — Emotional arc and Maitreya setup
-- `meta/lilith-contemporary-timeline.md` — Timeline and capability specs
-- `reference/lilith-style-rules.md` — Voice requirements
-- `incarnations/ch03-lilith-cp01/CH03_draft.md` — Example of integrated prose technique
+- `reference/lilith-style-rules.md` — Implementation guidance
+- `incarnations/ch03-lilith-cp01/scenes/` — Integrated prose examples (NEW, use as reference)
 - `incarnations/ch04-mauryan-chandra/CH04_draft.md` — Historical chapter to integrate with

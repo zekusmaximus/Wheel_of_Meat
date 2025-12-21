@@ -1,4 +1,4 @@
-# Chapter 5: The Ledger's Shadow — Outline
+# Chapter 5: The Ledger's Shadow — Expanded Outline
 
 ## Overview
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Key Structural Requirements
+## Core Structural Requirements
 
 ### Integrated Prose Technique
 
@@ -87,59 +87,176 @@ But the hesitation was real, and she did not examine why.
 
 ## Scene Structure (Integrated)
 
-### I. The Discovery of Influence (~600 words)
+### Scene I: The Ledger Bleeds (~600 words)
 
-**Manchester dominant, Mauryan present:**
+**Timeline Balance:** Manchester dominant, Mauryan present
 
-Opens in the flat, rain against windows, the thread of Chandra's pattern humming at the edge of perception. She has been tracking him since Ka—watching the pattern develop from hoarding to systematic distribution, from individual survival to administrative control.
+**OPENING BEAT:**
+Opens in the flat, rain against windows. Days have passed since Ka. The thread of Chandra's pattern hums at the edge of perception—different from Ka's primal hunger, this one structured, layered, administrative.
 
-She finds the relationship with Devaka. Fifteen years of partnership. The closest thing to trust Chandra's calculating mind allows. And beneath it: tension. Fear. A choice not yet made.
+**Prose Beat 1:** Manchester Anchor
+- Rain on windows, her flat silent
+- Tea gone cold beside her laptop (untouched—how long?)
+- The tracking notes open, careful documentation of what she observed in Ka's thread
+- But now: a new frequency. Numbers. Calculations. The weight of accountancy.
 
-**Integration texture:** The rain sounds like pages turning. Her tea has gone cold; his chai sits untouched beside ledgers. Both of them surrounded by numbers that fail to add correctly.
+**Prose Beat 2:** Historical Bleed
+- Chandra's world emerges through her awareness
+- Monsoon rain; the smell of wet cotton and palm-leaf ledgers
+- His hands moving across inventory lists, the same rhythm as her fingers on keys
+- The relationship with Devaka emerges—fifteen years of partnership, the closest thing to trust his calculating mind allows
 
-### II. The Intervention (~800 words)
+**Prose Beat 3:** The Parallel Begins (She Doesn't See It)
+- She notes his ledger-mind approach to generosity: grain distributed, surplus calculated, giving measured
+- She does not see herself taking notes in the same way
 
-**Mauryan dominant, Manchester present:**
+**Sensory Bridges for This Scene:**
+- Rain on Manchester windows → monsoon on terracotta roofs
+- Cold tea beside her → cold chai beside his ledgers
+- The rhythm of accounting (her tracking / his inventories)
+- Silence of her flat → weighted silence of his calculation chamber
 
-The vibrating tension of Devaka's choice-point. She leans closer to observe—and discovers that observation affects the observed. Her attention has weight. Her focus collapses probabilities.
+**Physical Tell:** The tea beside her has developed a film. She could not have said whether it was the same pot or a different one. The rain has shifted—harder now, or softer. Some part of her registered that the day has changed while she was inside Chandra's thread.
 
-The hesitation comes here. Brief. Unexplained. She pushes through it.
+**Ending Beat:** Beneath Devaka's reliable surface—tension. Fear. A choice not yet made. Something in her recognizes this as leverage.
 
-The fear-thread blazes white. The loyalty-thread dims. Something in the pattern shifts, and she feels her own attention inside the shift—participant, not witness.
+---
 
-**Integration texture:** Her hands grip the edges of her practice space; Chandra's hands grip the edges of his desk. Rain hammers Manchester windows; monsoon season weighs on Pataliputra. The smell of wet wool; the smell of wet cotton. Cold seeping through; heat pressing down.
+### Scene II: The Intervention (~800 words)
 
-### III. The Aftermath (~500 words)
+**Timeline Balance:** Mauryan dominant, Manchester present
 
-**Manchester dominant, Mauryan echo:**
+**OPENING BEAT:**
+The vibrating tension of Devaka's choice-point. She has found it—the unresolved moment where his loyalty could hold or break. Fifteen years of partnership balanced against growing fear, against the knowledge that Chandra's reformist zeal has made enemies of powerful men.
 
-She wrenches herself back. The tracking shatters. She is on her floor in Manchester, shaking, the cost of intervention written in her body (headache, nausea, trembling hands).
+**Prose Beat 1:** The Discovery of Power
+- She leans closer to observe—and discovers that observation affects the observed
+- Her attention has weight. Her focus collapses probabilities.
+- This is new. This is not what she planned.
 
-She documents what happened. Clinical language. Precise categories. "Focused attention appears to affect unresolved choice-points. Mechanism unclear. Effect unintended."
+**Prose Beat 2:** The Hesitation (MAITREYA SEED)
+- Before she acts, something makes her pause
+- Not doubt about method—something stranger
+- A sense that she's about to do something to herself as much as to him
+- **She pushes through it immediately. Files it as cognitive noise.**
 
-But she knows. She felt herself inside the collapse. She made something happen.
+**Prose Beat 3:** The Intervention Itself
+- She focuses on the fear-thread. Leans into it.
+- Devaka's loyalty-thread dims; the fear-thread blazes white
+- Something shifts in the pattern, and she feels her own attention inside the shift—participant, not witness
+- The collapse is immediate. Devaka's decision crystallizes: self-preservation over partnership
 
-**Integration texture:** The documentation feels like Chandra's ledgers—numbers meant to contain what numbers cannot contain. She catalogs her own violation with the same precision he catalogs grain shipments.
+**Prose Beat 4:** Satisfaction
+- She wrenches back to Manchester, shaking
+- But there's something new in her: certainty
+- She can influence. She can redirect. She can correct his path.
+- Her hands are steadier than they should be. Her breath has quickened.
 
-### IV. The Rationalization (~600 words)
+**Sensory Bridges for This Scene:**
+- Her hands grip edges of desk / Chandra's hands grip edges of his desk
+- Rain hammers Manchester windows / monsoon weighs on Pataliputra
+- The smell of wet wool / the smell of wet cotton
+- Cold seeping through / heat pressing down
+- Trembling after the act (both frames)
 
-**Both timelines balanced:**
+**Physical Tells:**
+- Headache blooming behind her eyes (cost of proximity)
+- Hands trembling—but steadier than they should be
+- Something like hunger, unfamiliar and unnamed
 
-She traces forward, watching the betrayal unfold in Chandra's timeline. Devaka's confession. The temple passage. The holding cell. The fire.
+**Ending Beat:** She documents what happened. Clinical language. "Focused attention appears to affect unresolved choice-points. Mechanism unclear. Effect unintended." But she knows. She felt herself inside the collapse. She made something happen.
 
-She sees him choose the ledgers over the people. She sees the records scatter and burn. She sees him broken in the ash, understanding too late.
+---
 
-And she tells herself: *He'll learn from this. The betrayal will teach him that giving cannot be transactional. The lesson will crystallize.*
+### Scene III: The Watching (~600 words)
 
-She does not ask whether she had the right. She does not examine whether her intervention was necessary. She files the doubt with the hesitation she suppressed earlier—acknowledged, categorized, not examined.
+**Timeline Balance:** Both timelines balanced
 
-**Integration texture:** Smoke in Pataliputra; steam rising from her tea. Fire consuming records; lamplight consuming her attention. His broken body in the ash; her aching body in the dim flat. Both of them alone with what they chose.
+**OPENING BEAT:**
+She traces forward, watching the betrayal unfold in Chandra's timeline. There is no need to intervene again—the choice has been made. Now she watches the dominoes fall.
 
-**Ending beat:** She turns toward the next thread—Athens, Philon—with the certainty that she understands now. She can influence. She can redirect. She can correct his path.
+**Prose Beat 1:** The Conspiracy Unfolds
+- Devaka's subtle calculations: the hesitations, the careful positioning
+- Chandra notices something—small tells that don't add to fifteen years of trust
+- But he cannot believe what he's seeing
+
+**Prose Beat 2:** Lilith Reads What Chandra Cannot
+- She can see the fear-thread in Devaka that Chandra refuses to acknowledge
+- The ledger-mind that made Chandra competent now blinds him
+- He trusts numbers; these numbers no longer add
+
+**Prose Beat 3:** The Temple Passage (HISTORICAL DOMINANT)
+- Guards emerge from shadows
+- Devaka's confession: "I had hoped you would stop"
+- Chandra captured, understanding too late
+- **Historical foreground; Manchester recedes to body-echo (her hands tighten, cold sensation through her chest)**
+
+**Sensory Bridges for This Scene:**
+- Her stillness / his frozen moment of comprehension
+- Rain slowing outside her window / monsoon pausing before thunderclap
+- The taste of old tea / the taste of dust in the temple passage
+- Cold hands in Manchester / cold stone against Chandra's back
+
+**Physical Tell:** Some part of her records satisfaction. The intervention worked. Devaka betrayed Chandra. Everything is proceeding as calculated.
+
+**What She Doesn't See:** Chandra is not hardening. Something in him is beginning to break *toward* rather than *away from* the lesson.
+
+---
+
+### Scene IV: The Rationalization (~500 words)
+
+**Timeline Balance:** Both timelines balanced → Manchester dominant at close
+
+**OPENING BEAT:**
+The fire. The choice. The death. She watches Chandra's final moments unfold—the culmination of her intervention—and she tells herself a story about what it means.
+
+**Prose Beat 1:** The Fire Scene (HISTORICAL DOMINANT)
+- Workers trapped. Woman with infant looking for someone to see her.
+- Chandra at the threshold—ledgers in one direction, people in the other
+- He chooses... the people. He chooses the burning warehouse.
+- Records scatter and burn. He is broken in the ash.
+
+**Prose Beat 2:** Chandra's Death
+- Understanding too late—but understanding
+- His final clinging-thought: the desperate hunger to give without calculation
+- This seeds the next life's lesson
+
+**Prose Beat 3:** Her Interpretation
+- She tells herself: *He learned from this. The betrayal taught him that giving cannot be transactional. The lesson crystallized.*
+- She does not ask whether she had the right
+- She does not examine whether her intervention was necessary
+- She files the doubt with the hesitation she suppressed earlier—acknowledged, categorized, not examined
+
+**Prose Beat 4:** The Turn Forward (MANCHESTER DOMINANT)
+- She turns toward the next thread—Athens, Philon—with the certainty that she understands now
+- She can influence. She can redirect. She can correct his path.
+- *This intervention will work.*
+- The phrase settles into her like a promise. She does not notice it is also a fetter, tightening.
+
+**Sensory Bridges for This Scene:**
+- Smoke in Pataliputra / steam rising from her tea (fresh pot, when did she make it?)
+- Fire consuming records / lamplight consuming her attention
+- His broken body in the ash / her aching body in the dim flat
+- Both of them alone with what they chose
+
+**Physical Tell:** Hours have passed. The rain has stopped. She has made fresh tea at some point—she doesn't remember doing it. The flat is darker now, the day having shifted through afternoon without her.
+
+**Final Line Territory:**
+*The thread of Philon's pattern was already beginning to hum—philosophical, questioning, alive with the compulsion to help one more. She leaned toward it.*
 
 *This intervention will work.*
 
-The phrase settles into her like a promise. She does not notice it is also a fetter, tightening.
+---
+
+## Time-Tracking Seeds
+
+Throughout the chapter, subtle markers that she is losing track of Manchester while immersed:
+- Tea gone cold → tea with a film → tea she doesn't remember making
+- Rain patterns changing without her notice
+- Light shifting (day → afternoon → evening)
+- No hunger, no fatigue—only the work
+
+These seed the "manic pursuit" that will intensify across later chapters without requiring external plot.
 
 ---
 
@@ -147,7 +264,7 @@ The phrase settles into her like a promise. She does not notice it is also a fet
 
 1. **Devaka's betrayal** is already established in Ch4 - Lilith's influence explains the WHY (fear-thread blazing white, loyalty collapsing)
 2. **The temple passage trap** proceeds as written in Ch4
-3. **Chandra choosing ledgers over people** remains intact (Lilith observes this, interprets it as parallel to her own approach)
+3. **Chandra choosing ledgers over people → then reversing** remains intact
 4. **The fire and his death** remain as written
 5. **Chandra's lesson crystallizing through betrayal** is the backfire - already implied in Ch4's arc
 
@@ -158,6 +275,7 @@ The phrase settles into her like a promise. She does not notice it is also a fet
 - Lilith's satisfaction at "successful" manipulation
 - The parallel between her calculated tracking and his calculated giving
 - The first discovery that she can influence, not just observe
+- The beginning of her ledger-mind approach to souls
 
 ---
 
@@ -169,13 +287,23 @@ The phrase settles into her like a promise. She does not notice it is also a fet
 - Blind to specific patterns: she sees Chandra's ledger-mind but not her own
 - Certain she understands what she doesn't
 
-**Forbidden:**
+**Forbidden Patterns:**
 - Abstract emotion words ("desperate," "anxious," "satisfied")
 - Buddhist terminology (use "the wheel," "the threshold," not "samsara," "nirvana")
 - Direct acknowledgment of what she feels about influencing him
 
-**Required:**
+**Required Patterns:**
 - Physical grounding in every beat (her body, her space, her sensations)
 - Professional frame (even supernatural intervention rendered clinically)
 - Undermining clauses (her certainties always complicated by physical tells)
 - The things she refuses to examine (visible to reader, invisible to her)
+
+---
+
+## Draft Preparation Checklist
+
+- [ ] Read `lilith-style-rules.md` before drafting
+- [ ] Read Ch 3 scenes for integrated prose reference
+- [ ] Read Ch 4 draft (Chandra) for historical accuracy
+- [ ] Reference `lilith-chapter-manifest.json` for fetter beat
+- [ ] Create `scenes/` directory when ready to draft

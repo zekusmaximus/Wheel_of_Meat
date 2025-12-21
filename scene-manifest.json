@@ -540,8 +540,37 @@
       ],
       "function": "First deliberate intervention; first witnessed backfire; attachment to strategic control intensifies",
       "word_target": 2500,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Ledger Bleeds",
+          "file": "scene-01-ledger-bleeds.md",
+          "word_count": 650,
+          "status": "draft"
+        },
+        {
+          "section": "II",
+          "title": "The Intervention",
+          "file": "scene-02-intervention.md",
+          "word_count": 800,
+          "status": "draft"
+        },
+        {
+          "section": "III",
+          "title": "The Watching",
+          "file": "scene-03-watching.md",
+          "word_count": 620,
+          "status": "draft"
+        },
+        {
+          "section": "IV",
+          "title": "The Rationalization",
+          "file": "scene-04-rationalization.md",
+          "word_count": 580,
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
     {
       "chapter": 6,
