@@ -63,19 +63,21 @@ This is the seed of the intimacy strategy. By Chapter 21, she will be his lover.
 
 ## The Correct Emotional Arc
 
-| Chapter | Age | What She Feels About Him | What It Actually Is |
-|---------|-----|-------------------------|---------------------|
-| 3 | 25 | Fascination, curiosity | Recognition she can't name |
-| 5 | 26 | Concern, first alarm | Beginning of obsession |
-| 7 | 27 | Frustration at failures | Intimacy through opposition |
-| 9 | 28 | Confusion at backfires | Love she won't acknowledge |
-| 11 | 29 | Methodical doubt | Questioning methods, not frame |
-| 13 | 30 | Vertigo, questions | Glimpsing parallel wheels |
-| **15** | **31** | **Clarity about stakes** | **Commitment deepens everything** |
-| 17 | 32 | Strategic interest | Planning what will become love |
-| 19 | 33 | Calculated proximity | Falling without knowing |
-| 21 | 34 | "Necessary" intimacy | In too deep to see clearly |
-| 1 | 35 | Desperate love disguised as strategy | The final fetter made flesh |
+**TIMELINE NOTE:** Per the architectural revision, the tracking period is compressed to **8-10 weeks** at age 34, not a decade. All tracking chapters (3-21) occur at age 34. Chapter 1 is at age 35.
+
+| Chapter | Week | What She Feels About Him | What It Actually Is |
+|---------|------|-------------------------|---------------------|
+| 3 | Days 1-3 | Fascination, curiosity | Recognition she can't name |
+| 5 | Week 1-2 | Concern, first alarm | Beginning of obsession |
+| 7 | Week 2-3 | Frustration at failures | Intimacy through opposition |
+| 9 | Week 3-4 | Confusion at backfires | Love she won't acknowledge |
+| 11 | Week 4-5 | Methodical doubt | Questioning methods, not frame |
+| 13 | Week 5-6 | Vertigo, questions | Glimpsing parallel wheels |
+| **15** | **Week 6-7** | **Clarity about stakes** | **Commitment deepens everything** |
+| 17 | Week 7-8 | Strategic interest | Planning what will become love |
+| 19 | Week 8-9 | Calculated proximity | Falling without knowing |
+| 21 | Week 9-10 | "Necessary" intimacy | In too deep to see clearly |
+| 1 | Months later | Desperate love disguised as strategy | The final fetter made flesh |
 
 ### Key Principle
 
@@ -146,31 +148,29 @@ Because that's what her opposition always does.
 
 ## The Intimacy Strategy: Full Arc
 
-### Phase 1: Conception (Chapter 15, Age 31)
+### Phase 1: Conception (Chapter 15, Week 6-7)
 
-After witnessing the wheel and understanding the structural stakes, she considers: what if the problem is distance? Six years of working through intermediaries, vessels, circumstances—every method has failed. What about direct contact?
+After witnessing the wheel and understanding the structural stakes, she considers: what if the problem is distance? Weeks of working through intermediaries, vessels, circumstances—every method has failed. What about direct contact?
 
-She doesn't act on it yet. But the seed is planted.
+She doesn't act on it yet. But the seed is planted as a question: *What if I met him directly?*
 
-### Phase 2: Preparation (Chapters 17, Age 32)
+### Phase 2: Preparation (Chapter 17, Week 7-8)
 
 She begins engineering present-day contact. She knows the shape of his soul from tracking—she would recognize it anywhere. She starts looking for his contemporary incarnation.
 
-### Phase 3: Contact (Chapter 19, Age 33)
+### Phase 3: Contact (Chapter 19, Week 8-9)
 
-She finds him. Engineers a meeting. Establishes herself in his orbit.
+She traces his thread forward to present-day Manchester. Finds Silas Pahlavan, philosophy professor at the university. Positions herself for the final confrontation—or for beating him to enlightenment herself.
 
-(Specific mechanism TBD—professional connection? Social introduction? "Accident"?)
+### Phase 4: The Pivot (Chapter 21, Week 9-10)
 
-### Phase 4: Commitment (Chapter 21, Age 34)
+The noir detective's death completes all ten perfections. CATASTROPHIC backfire. She realizes historical interventions will never work. As she tracks Jack Malone's final life, she is simultaneously making Silas's acquaintance in present-day Manchester.
 
-She becomes his lover. The intimacy is strategic: if she's essential to his life, she can intervene at the critical moment.
+The intimacy strategy becomes her final weapon: if she can't stop him, she'll bind him.
 
-But something is changing. The strategy is becoming something else. She's falling without knowing it.
+### Phase 5: Endgame (Chapter 1, months later)
 
-### Phase 5: Endgame (Chapter 1, Age 35)
-
-The rooftop is approaching. Stream-entry is imminent. Everything she's done for ten years is about to fail.
+The rooftop is approaching. Stream-entry is imminent. Everything she's worked toward is about to fail.
 
 The confession is the final gambit. It fails like everything else.
 
@@ -425,4 +425,4 @@ This document should be updated when:
 3. Retcons are implemented in earlier chapters
 4. The Maitreya resolution is drafted
 
-Last updated: [Current session - Chapter 15 development]
+Last updated: December 2025 — Timeline aligned to 8-10 week compressed tracking period; Chapter 15 notes review
