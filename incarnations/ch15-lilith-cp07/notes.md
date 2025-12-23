@@ -32,6 +32,26 @@ This is the **seed of the intimacy strategy.** By Chapter 17, she begins enginee
 
 The seed plants HERE. Subtly. As a question: *What if I met him directly?*
 
+### The Race Consciousness (First Conscious Turn)
+
+**The race seed was planted unconsciously in Chapter 13** (fleeting thought about her own progress, immediately filed). In Chapter 15, it becomes CONSCIOUS for the first time.
+
+**Pattern recognition:** Backfires are structural. They aren't failures to be corrected—they're the nature of interference itself. Every intervention accelerates him.
+
+**First conscious turn:** "I need to focus on my own escape."
+
+This is not despair—it's strategic recalibration. If opposition always backfires, perhaps the answer is to *outpace* him rather than slow him down.
+
+**The arc from here:**
+| Ch | Race State |
+|----|------------|
+| 15 | Pattern recognition → conscious turn ("I need my own escape") — FULCRUM |
+| 17 | Each "one more" is about proving her own mastery |
+| 19 | Locates Silas—positions for final confrontation OR her own finish line |
+| 21 | The bind strategy: attach herself so fully that his enlightenment becomes hers |
+
+**The tragic irony:** She's racing to escape attachment... through attachment. Her final fetter (conceit/being "the one") intensifies while she thinks she's addressing it.
+
 ### What She Doesn't See
 
 - "One at a time" might mean *union*, not competition
