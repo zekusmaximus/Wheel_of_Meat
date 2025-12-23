@@ -91,7 +91,7 @@ The Lilith refactor fundamentally changes her arc from **power progression** to 
       "duration": "6-12 months",
       "what_happens_offpage": [
         "Lilith locates Silas in present-day Manchester",
-        "Engineers their meeting (perhaps at his Nagarjuna lecture)",
+        "Engineers their first meeting at the university",
         "Develops intimate relationship",
         "Rebuilds composure over tracking fever",
         "Relationship becomes both tactic and (complicating) genuine feeling"

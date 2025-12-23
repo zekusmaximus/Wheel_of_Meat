@@ -5,7 +5,6 @@
     "origin": "Ancient soul on the path to enlightenment; became aware of Silas as a threat when she sensed another consciousness approaching stream-entry in the same world-system",
     "cosmic_constraint": "Only one fully enlightened Buddha can exist in any given world-system at a time; if Silas achieves Buddhahood first, Lilith's eons of work are nullified"
   },
-
   "spiritual_status": {
     "description": "Non-Returner (has broken 5 of 10 fetters)",
     "current_fetter": "Attachment to being 'the one who achieves Buddhahood'",
@@ -22,14 +21,12 @@
     },
     "note": "As a Non-Returner, she has broken the first five fetters. Her remaining obstacle is not ignorance in the abstract, but the specific form of conceit that manifests as attachment to being 'the one who achieves Buddhahood.'"
   },
-
   "motivation": {
     "surface": "In her current incarnation as psychiatrist Lilith Azami, she may rationalize her actions as 'helping' Silas or 'testing' him",
     "true": "Desperate self-preservation of her path to enlightenment; she must derail Silas before he achieves what she has worked lifetimes to attain",
     "relationship_to_silas": "Rival, not enemy—she doesn't hate him, but his success means her failure. This may include complex feelings: respect for a fellow traveler, resentment at the cosmic unfairness, perhaps even attraction to the very qualities that make him a threat",
     "tragic_irony": "Her grasping at Buddhahood—the very desperation driving her interference—is itself the attachment that prevents her enlightenment. She cannot see that releasing her claim would free her."
   },
-
   "cosmic_capability": {
     "description": "Full power from Chapter 3 onwards. She is a near-Buddha.",
     "constant_from": "Chapter 3",
@@ -47,23 +44,32 @@
     ],
     "what_drives_arc": "Not power acquisition, but intensification of her final fetter—attachment to being 'the one who achieves Buddhahood'"
   },
-
   "timeline": {
     "tracking_period": {
       "duration": "8-10 weeks",
       "description": "Compressed fever of discovery, intervention, failure, escalation. Not a decade—a manic pursuit.",
-      "chapters": [3, 5, 7, 9, 11, 13, 15, 17, 19, 21],
+      "chapters": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ],
       "age": 34,
       "occupation": "Psychiatrist",
       "note": "No professional decline subplot; tracking is private pursuit"
     },
     "time_jump": {
       "placement": "Between Chapter 21 and Chapter 1",
-      "duration": "6-12 months",
+      "duration": "weeks to months (shorter than previously conceived)",
+      "note": "Lilith locates Silas in Chapter 19. Chapter 21 is a simultaneous chapter—she tracks Jack Malone's final life WHILE making Silas's acquaintance in present-day Manchester. The time jump covers only relationship deepening.",
       "what_happens_offpage": [
-        "Lilith locates Silas in present-day Manchester",
-        "Engineers their meeting (perhaps at his Nagarjuna lecture)",
-        "Develops intimate relationship",
+        "Relationship deepens from initial acquaintance to established lovers",
         "Rebuilds composure over tracking fever",
         "Relationship becomes both tactic and (complicating) genuine feeling"
       ]
@@ -74,11 +80,35 @@
       "recontextualization": "First read: established lovers. After Act II: her composure masks obsession that burned through her weeks ago."
     }
   },
-
   "fetter_intensification_arc": {
     "description": "Her attachment sharpens chapter by chapter. She's not falling apart—she's crystallizing. The attachment becomes harder, brighter, more absolute.",
     "arc_type": "Spiritual intensification, not power progression",
-
+    "race_element": {
+      "description": "From Chapter 13 onwards, a subtle shift occurs: her motivation evolves from 'stop him' to 'escape the wheel before he does.' This manifests as increasing precision/elegance in her own practice, not just interference with his.",
+      "progression": [
+        {
+          "chapter": 13,
+          "state": "Fleeting thought about her own progress—immediately filed away. The race seed is planted but unconscious."
+        },
+        {
+          "chapter": 15,
+          "state": "Pattern recognition—backfires are structural. First conscious turn: 'I need to focus on my own escape.' FULCRUM."
+        },
+        {
+          "chapter": 17,
+          "state": "Each 'one more' is about proving her own mastery, not just blocking him. Strategic refinement becomes visible striving."
+        },
+        {
+          "chapter": 19,
+          "state": "Full deployment is also about positioning: 'I will manifest fully and win.' Locates Silas—positions for final confrontation OR her own finish line."
+        },
+        {
+          "chapter": 21,
+          "state": "The bind strategy emerges from race logic: if she can't beat him, she'll attach herself so completely that his enlightenment becomes hers."
+        }
+      ],
+      "tragic_irony": "She's racing to escape attachment... through attachment. Her final fetter (conceit/being 'the one') intensifies while she thinks she's addressing it."
+    },
     "emotional_progression": [
       {
         "chapter": 3,
@@ -91,7 +121,9 @@
         "intervention_note": "None—this is when she first becomes aware of his pattern. Observation only.",
         "backfire": "N/A",
         "blind_spot": "Cannot see her own grasping",
-        "maitreya_hints": ["'We are the same'—horror indistinguishable from fascination"]
+        "maitreya_hints": [
+          "'We are the same'—horror indistinguishable from fascination"
+        ]
       },
       {
         "chapter": 5,
@@ -103,7 +135,9 @@
         "intervention": "Influences Devaka's betrayal to harden Chandra against trust",
         "backfire": "Betrayal teaches Chandra that generosity cannot depend on reciprocity—crystallizes lesson rather than corrupting it",
         "blind_spot": "Satisfaction at manipulation blind to the backfire pattern",
-        "maitreya_hints": ["Brief hesitation before influencing Devaka—suppressed immediately"]
+        "maitreya_hints": [
+          "Brief hesitation before influencing Devaka—suppressed immediately"
+        ]
       },
       {
         "chapter": 7,
@@ -115,7 +149,10 @@
         "intervention": "Accelerates xenophobic rumor; sends dream to Alexios to isolate Philon",
         "backfire": "Isolation crystallized rather than corrupted; concentrated karma; question became pure seed of insight",
         "blind_spot": "Recognition of kinship filed with interest, not alarm",
-        "maitreya_hints": ["Kinship whisper extending from Ka to Philon", "Curiosity about kinship, not rivalry"]
+        "maitreya_hints": [
+          "Kinship whisper extending from Ka to Philon",
+          "Curiosity about kinship, not rivalry"
+        ]
       },
       {
         "chapter": 9,
@@ -127,7 +164,10 @@
         "intervention": "Creates competing testimonial versions, traffic delay, amplifies senator's rage",
         "backfire": "Contradictions made him humble, not cynical; exile gave permission to not know",
         "blind_spot": "Attachment to precision mirrors avatar's attachment to certainty",
-        "maitreya_hints": ["Kinship deepens—parallel between his attachment to insight and her attachment to being first", "Mutual interference memory plants seed of merger necessity"]
+        "maitreya_hints": [
+          "Kinship deepens—parallel between his attachment to insight and her attachment to being first",
+          "Mutual interference memory plants seed of merger necessity"
+        ]
       },
       {
         "chapter": 11,
@@ -139,7 +179,10 @@
         "intervention": "Feeds spiritual pride through Theodora vessel",
         "backfire": "Pride becomes so obvious he finally sees it; the seeing is the breakthrough",
         "blind_spot": "Inexplicable hesitations suppressed immediately",
-        "maitreya_hints": ["Inexplicable hesitation—first hint of something beyond strategy", "The unnamed pull toward him emerging"]
+        "maitreya_hints": [
+          "Inexplicable hesitation—first hint of something beyond strategy",
+          "The unnamed pull toward him emerging"
+        ]
       },
       {
         "chapter": 13,
@@ -151,7 +194,10 @@
         "intervention": "Physical manifestation as The Attendant—creates 'perfect romance' to trap in realm of desire",
         "backfire": "Static perfection repels rather than binds; beauty requires impermanence",
         "blind_spot": "First physical appearance to him as object of desire",
-        "maitreya_hints": ["The pull toward him exceeding strategic necessity", "Her appearance to him—first face-to-face across time"]
+        "maitreya_hints": [
+          "The pull toward him exceeding strategic necessity",
+          "Her appearance to him—first face-to-face across time"
+        ]
       },
       {
         "chapter": 15,
@@ -163,7 +209,11 @@
         "intervention": "Sustained presence as Sor Catalina—engineers Tomás's betrayal",
         "backfire": "Personal betrayal teaches about attachment to safety; releases rather than hardens",
         "blind_spot": "Sustained presence revealing depth of investment",
-        "maitreya_hints": ["The pull growing beyond denial", "Sustained presence—deeper investment than strategy requires", "Face constancy observation"],
+        "maitreya_hints": [
+          "The pull growing beyond denial",
+          "Sustained presence—deeper investment than strategy requires",
+          "Face constancy observation"
+        ],
         "note": "FULCRUM CHAPTER—equidistant from Ch 3 (discovery) and Ch 1 (confession); perceives wheel is real; commits fully"
       },
       {
@@ -176,7 +226,10 @@
         "intervention": "Appears as Marguerite Viret—philosophical companion pushing doubt toward nihilism",
         "backfire": "Jean discovers truthfulness under uncertainty; trap becomes crucible",
         "blind_spot": "Cycling through approaches, certainty fracturing",
-        "maitreya_hints": ["Exhaustion revealing the pull beneath strategy", "Persistence exceeding rational calculation"]
+        "maitreya_hints": [
+          "Exhaustion revealing the pull beneath strategy",
+          "Persistence exceeding rational calculation"
+        ]
       },
       {
         "chapter": 19,
@@ -188,7 +241,11 @@
         "intervention": "Circumstantial manipulation—adjusts artillery timing, spreads disease vectors; ensures everyone Wei saves dies anyway",
         "backfire": "By making futility visible, forces Wei to purify determination from outcome-attachment. True adhiṭṭhāna achieved.",
         "blind_spot": "Full deployment revealing obsession, not mastery",
-        "maitreya_hints": ["Face to face manifestation—intimacy of opposition", "Total commitment revealing depth of attachment"]
+        "maitreya_hints": [
+          "Face to face manifestation—intimacy of opposition",
+          "Total commitment revealing depth of attachment"
+        ],
+        "manchester_development": "LOCATES SILAS in present-day Manchester. Traces his thread forward. Finds him as philosophy professor at university. The race element crystallizes: if she can't stop him through historical intervention, she will position herself for the final confrontation—or beat him to enlightenment herself."
       },
       {
         "chapter": 21,
@@ -200,11 +257,15 @@
         "intervention": "MINIMAL PRESENCE. 3 brief appearances as distant observer; accelerates failures from distance; Combination plants car bomb",
         "backfire": "CATASTROPHIC: He dies with ALL TEN PERFECTIONS COMPLETE. Next life is stream-entry.",
         "blind_spot": "Intimacy strategy is the final fetter made flesh",
-        "maitreya_hints": ["Inexplicable pain when causing detective suffering", "Losing track of which consciousness is which", "The pull driving the pivot to intimacy"],
-        "note": "THE PIVOT—decision to meet him in present, become thing he cannot transcend"
+        "maitreya_hints": [
+          "Inexplicable pain when causing detective suffering",
+          "Losing track of which consciousness is which",
+          "The pull driving the pivot to intimacy"
+        ],
+        "note": "THE PIVOT—decision to meet him in present, become thing he cannot transcend",
+        "structural_note": "SIMULTANEOUS CHAPTER: Chapter 21 is the most integrated—Lilith tracks Jack Malone (noir, 1938) WHILE making Silas's acquaintance in present-day Manchester. She located him in Ch 19. Now she is engineering their first meetings while watching Jack's final life unfold. The parallel is devastating: she watches Jack fail to solve his case while she thinks she's 'solving' hers."
       }
     ],
-
     "post_tracking_arc": [
       {
         "chapter": 22,
@@ -234,7 +295,6 @@
       }
     ]
   },
-
   "arc_summary": {
     "act_2_structure": "Chapters 2-21 alternate historical (Silas's past lives) and Lilith (integrated prose)",
     "act_2_historical": "Chapters 2, 4, 6, 8, 10, 12, 14, 16, 18, 20—Silas develops ten perfections across 300,000 years",
@@ -247,13 +307,11 @@
     "chapters_23_25": "Post-failure recalibration; the race to Buddhahood rather than prevention",
     "chapter_26": "Resolution: souls merge to become Maitreya, the future Buddha"
   },
-
   "physical_description": {
     "canonical_face": "Sharp, pronounced widow's peak with a single thick, darker strand that always falls forward over the left side of her face. Left eye deep brown containing a thin, vivid crescent of pale green from 11 to 1 o'clock (visible only in good light; in shadow the eye appears completely black).",
     "first_full_manifestation": "Chapter 8 as Marcia",
     "reader_recognition_starts": "Chapter 8 onward (retroactive hints possible in earlier chapters only via shadow/silhouette/description-from-afar)"
   },
-
   "appearance_across_lives": {
     "consistency": "Same face across all incarnations—a beautiful, dark-haired woman. Silas never consciously recognizes her, but readers will learn to spot her.",
     "recognition_markers": [
@@ -263,7 +321,6 @@
     ],
     "reader_experience": "By Chapter 12/13 (first physical manifestation), readers should recognize her immediately even though the avatar does not."
   },
-
   "intervention_paradox": {
     "description": "Every intervention backfires. Her attempts to derail him become the friction that forges his progress.",
     "examples": [
@@ -280,14 +337,12 @@
     ],
     "thematic_meaning": "Opposition is necessary for enlightenment. Lilith is not the enemy of his awakening—she is its unwitting catalyst."
   },
-
   "resolution": {
     "type": "Merger into Maitreya",
     "description": "Their souls merge to become Maitreya, the future Buddha prophesied in Buddhist texts. The 'one Buddha per world-system' rule was never the obstacle she thought—they were always two halves of the same future Buddha.",
     "cosmic_irony": "Her eons of opposition were necessary. Without her resistance, he could not have developed. Without his progress, she could not have grown. They needed each other.",
     "maitreya_references": "Buddhist texts prophesy Maitreya as the next Buddha who will appear when the dharma has been forgotten. The novel implies this Buddha is born from the union of two bodhisattvas who thought they were rivals."
   },
-
   "key_questions_resolved": [
     "What is Lilith's true nature? A rival bodhisattva, very close to enlightenment, who sees Silas as an existential threat.",
     "Why does she oppose Silas's enlightenment specifically? The one-Buddha-per-world-system rule means his success nullifies her eons of work.",
@@ -299,12 +354,10 @@
     "Same face across lives? Yes—readers will recognize her before Silas does.",
     "Do her interventions work? Never. They always backfire, becoming the catalyst for his growth."
   ],
-
   "questions_still_open": [
     "The exact mechanism of the merger in Chapter 26",
     "Chapter 21 ending specifics: How exactly does she locate Silas in the present? What does she see? How does the chapter end on the threshold of the gambit?"
   ],
-
   "maitreya_foreshadowing": [
     "Moments of hesitation before interventions (she doesn't understand why)",
     "Inexplicable pain when she causes him suffering",

@@ -1729,7 +1729,7 @@
     {
       "chapter": 13,
       "id": "ch13-lilith-cp06",
-      "title": "TBD",
+      "title": "The Beauty of Frozen Things",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
@@ -1742,20 +1742,20 @@
         },
         "historical": {
           "period": "Heian Japan",
-          "location": "Heian-ky\u014d (Kyoto)",
+          "location": "Heian-kyō (Kyoto)",
           "year": "~1000 CE",
           "avatar": "Kaoru"
         },
-        "integration_technique": "Aesthetic, beauty saturating both frames, longing amplified\u2014mono no aware in dual register"
+        "integration_technique": "Aesthetic, beauty saturating both frames, longing amplified—mono no aware in dual register"
       },
       "pov": "Lilith (integrated with Kaoru's experience)",
       "lilith": {
         "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 5-6",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
         "constraints": [
-          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot override karmic law—interventions backfire structurally",
           "Cannot force choices or negate accumulated merit",
           "Cannot change past events, only manifest within them and influence"
         ],
@@ -1768,14 +1768,14 @@
       "corresponds_to": {
         "historical_chapter": 12,
         "avatar": "Kaoru",
-        "lesson": "Equanimity (upekkh\u0101) / Sensual desire"
+        "lesson": "Equanimity (upekkhā) / Sensual desire"
       },
       "parallel_structure": {
         "kaoru_mistake": "Aesthetic longing becomes attachment, confuses beauty with transcendence",
         "lilith_mistake": "Unnamed pull toward him exceeding tactical necessity, denying what she feels"
       },
       "intervention": {
-        "method": "Physical manifestation as object of desire\u2014dark hair with widow's peak, pale-green crescent in left eye",
+        "method": "Physical manifestation as object of desire—dark hair with widow's peak, pale-green crescent in left eye",
         "objective": "Deepen attachment through beauty and longing",
         "backfire": "Longing teaches him about desire's nature; beauty becomes lesson rather than trap"
       },
@@ -1790,27 +1790,79 @@
       "pivotal_moments": [
         {
           "dominant_timeline": "Historical",
-          "moment": "Kaoru seeing her face\u2014readers recognize before he does\u2014widow's peak, green crescent",
+          "moment": "Kaoru seeing her face—readers recognize before he does—widow's peak, green crescent",
           "technique": "Historical foreground, Manchester recedes"
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "The university walk—first movement beyond the flat, unknowingly drawn",
+          "technique": "Pattern break, Manchester dominant"
         }
       ],
       "fetter_beat": {
-        "moment": "Justifying the pull toward him as purely tactical\u2014denial intensifying",
+        "moment": "Justifying the pull toward him as purely tactical—denial intensifying",
         "shown_through": "Internal rationalization, certainty it's strategic, blind to genuine feeling"
+      },
+      "race_element": {
+        "moment": "First fleeting thought about her own liberation—immediately filed",
+        "function": "Plants seed for Ch 15-21 race arc"
       },
       "maitreya_foreshadowing": [
         "The pull toward him exceeding strategic necessity",
-        "Her appearance to him\u2014first face-to-face across time"
+        "Her appearance to him—first face-to-face across time",
+        "Body leading where mind refuses to examine (university walk)"
       ],
       "spiritual_advancement_shown_through": [
         "Capability to physically manifest in historical period",
         "Ability to hold Heian aesthetic and Manchester present simultaneously",
         "Understanding Kaoru's longing while experiencing her own unnamed pull"
       ],
-      "function": "First physical appearance to him; denial of unnamed feeling; attachment manifesting as 'tactical' justification",
+      "function": "First physical appearance to him; denial of unnamed feeling; attachment manifesting as 'tactical' justification; pattern break with university walk; race seed planted",
       "word_target": 3000,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "total_word_count": 2610,
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Shift to Beauty",
+          "file": "scene-01-shift.md",
+          "word_count": 420,
+          "function": "Transition from Macarius's ascetic silence to Kaoru's aesthetic saturation; first hints of beauty contamination in Manchester",
+          "status": "draft"
+        },
+        {
+          "number": 2,
+          "title": "The Attendant's Residue",
+          "file": "scene-02-residue.md",
+          "word_count": 500,
+          "function": "Explores aftermath of Attendant manifestation—proximity, the desire to be seen, the filing away of feelings",
+          "status": "draft"
+        },
+        {
+          "number": 3,
+          "title": "The University Walk",
+          "file": "scene-03-walk.md",
+          "word_count": 600,
+          "function": "PATTERN BREAK—first movement beyond the flat; unknowingly drawn to university; race seed planted",
+          "status": "draft"
+        },
+        {
+          "number": 4,
+          "title": "The Backfire",
+          "file": "scene-04-backfire.md",
+          "word_count": 560,
+          "function": "Frozen beauty freed Kaoru; face-recognition moment; pattern undeniable",
+          "status": "draft"
+        },
+        {
+          "number": 5,
+          "title": "The Fetter Beat",
+          "file": "scene-05-fetter.md",
+          "word_count": 530,
+          "function": "Crystallizes fetter beat ('the pull toward him is tactical'); race seed resurfaces; forward to Spain",
+          "status": "draft"
+        }
+      ],
+      "status": "draft"
     },
     {
       "chapter": 14,
@@ -2498,7 +2550,8 @@
           "attachment_manifestation": "I will manifest fully",
           "emotional_state": "Total commitment, power at peak, final attempts",
           "escalation": "Full manifestation, face to face"
-        }
+        },
+        "manchester_development": "LOCATES SILAS in present-day Manchester. Traces his thread forward. Finds him as a philosophy professor at the university. The race element crystallizes: if she can't stop him through historical intervention, she will position herself for the final confrontation—or beat him to enlightenment herself."
       },
       "corresponds_to": {
         "historical_chapter": 18,
@@ -2725,7 +2778,7 @@
         "final_beat": "On the threshold of the final gambit\u2014tracking corner one last time, thread glowing forward to present",
         "does_NOT_show": "No relationship with present-day Silas yet\u2014hasn't contacted him, hasn't met him, this is the decision to do so"
       },
-      "time_jump_note": "6-12 months pass between end of this chapter and Chapter 1. During this gap (OFF-PAGE): she locates Silas in Manchester, engineers their meeting (perhaps at his Nagarjuna lecture), develops intimate relationship, rebuilds composure over tracking fever. The relationship becomes both tactic and (complicating) genuine feeling. Chapter 1 shows the result of this gap.",
+      "time_jump_note": "Weeks to months pass between end of this chapter and Chapter 1. STRUCTURAL NOTE: Lilith locates Silas in Chapter 19. Chapter 21 is SIMULTANEOUS—she tracks Jack Malone's final life WHILE making Silas's acquaintance in present-day Manchester. The time jump covers only relationship deepening, not initial meeting. During gap (OFF-PAGE): relationship deepens to established lovers, rebuilds composure over tracking fever. The relationship becomes both tactic and (complicating) genuine feeling. Chapter 1 shows the result.",
       "maitreya_foreshadowing": [
         "Inexplicable pain when causing detective suffering in confrontation",
         "Moment of losing track of which consciousness is which during face-to-face",

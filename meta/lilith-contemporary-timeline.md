@@ -34,13 +34,12 @@ Lilith discovers Silas's karmic thread and races through all ten historical live
 
 ### The Time-Jump (Between Chapter 21 and Chapter 1)
 
-**Duration:** 6-12 months
+**Duration:** Weeks to months (shorter than previously conceived)
+
+**Structural Note:** Lilith locates Silas in **Chapter 19**. **Chapter 21** is a simultaneous chapter—she tracks Jack Malone's final life WHILE making Silas's acquaintance in present-day Manchester. The time jump covers only relationship deepening.
 
 **What happens offpage:**
-- Lilith traces Silas's thread forward to present-day Manchester
-- Locates him as a philosophy professor at the university
-- Engineers their meeting (perhaps at his Nagarjuna lecture)
-- Develops the intimate relationship over months
+- Relationship deepens from initial acquaintance to established lovers
 - Rebuilds composure over the feverish tracking period
 - The relationship becomes both tactic and (complicating) genuine feeling
 
@@ -154,6 +153,7 @@ Her attachment sharpens chapter by chapter. She's not falling apart—she's *cry
 **Intervention:** Circumstantial manipulation—adjusts artillery timing, spreads disease vectors; ensures everyone Wei saves dies anyway
 **Backfire:** By making futility visible, forces Wei to purify determination from outcome-attachment. True adhiṭṭhāna achieved.
 **Maitreya hints:** Face to face manifestation—intimacy of opposition; total commitment revealing depth
+**Manchester Development:** LOCATES SILAS in present-day Manchester. Traces his thread forward. Finds him as a philosophy professor at the university. The race element crystallizes: if she can't stop him through historical intervention, she will position herself for the final confrontation—or beat him to enlightenment herself.
 
 ### Chapter 21: The Pivot (Week 9-10)
 
@@ -163,7 +163,7 @@ Her attachment sharpens chapter by chapter. She's not falling apart—she's *cry
 **Intervention:** MINIMAL PRESENCE. 3 brief appearances as distant observer; accelerates failures from distance
 **Backfire:** CATASTROPHIC: All ten perfections complete. Next life is stream-entry.
 **Maitreya hints:** Inexplicable pain when causing detective suffering; losing track of which consciousness is which; the pull driving the pivot
-**The Decision:** Traces thread forward to present-day Manchester. Finds Silas Pahlavan. Decides to meet him in flesh, become the thing he cannot transcend.
+**Structural Note:** SIMULTANEOUS CHAPTER. Chapter 21 is the most integrated—Lilith tracks Jack Malone (noir, 1938) WHILE making Silas's acquaintance in present-day Manchester. She located him in Ch 19. Now she engineers their first meetings while watching Jack's final life unfold. The parallel is devastating: she watches Jack fail to solve his case while she thinks she's "solving" hers.
 
 ---
 

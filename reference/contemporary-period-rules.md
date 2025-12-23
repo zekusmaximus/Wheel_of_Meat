@@ -70,7 +70,7 @@ We see her emotion externally ("despair mixed with respect") but don't fully ent
 
 ### Academic Register
 Silas lectures on Eastern philosophy. Dialogue may include:
-- References to texts (Chandogya Upanishad, Nagarjuna)
+- References to texts (Chandogya Upanishad, Wittgenstein, Hume)
 - Philosophical concepts rendered accessibly
 - The academic's habit of quoting ("Who looks outside, dreams; who looks inside, awakes")
 

@@ -198,7 +198,7 @@ Lilith's chapters do not alternate between Manchester and historical periods. Th
 **The gap (6-12 months) contains:**
 
 - Her locating and approaching Silas
-- Engineering their meeting (perhaps at his lecture on Nagarjuna)
+- Engineering their first meeting at the university
 - Developing the intimate relationship
 - Rebuilding composure over the tracking fever
 - The tactic becoming genuine (the complication she didn't anticipate)
