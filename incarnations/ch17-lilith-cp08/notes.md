@@ -526,13 +526,96 @@ From lilith-style-rules.md:
 - Certainty fracturing further
 - The pull beneath strategy starting to show (Maitreya hints)
 
-### Toward Chapter 19 (Next Lilith Chapter)
+### Toward Chapter 19 (Next Lilith Chapter) [ENHANCED]
 
-**What Chapter 17 must seed:**
-- Intellectual manipulation will fail (like emotional did)
-- Methods running out (setting up Ch 19's total commitment)
-- The pull can't be rationalized away anymore (building toward Ch 19's "I will manifest fully")
-- Historical interventions structurally cannot work (setting up Ch 19-21 pivot to present)
+**What Chapter 19 opens with:**
+Per lilith-contemporary-timeline.md and lilith-chapter-manifest.json:
+- **Week 8-9:** "I will manifest fully"
+- **KEY EVENT:** Lilith LOCATES Silas in present-day Manchester
+- Finds him as philosophy professor at University of Manchester
+- Traces his thread forward from 1938 Los Angeles to present
+- **The race element crystallizes:** If she can't stop him historically, she'll beat him to enlightenment herself OR position for final confrontation
+
+**What Chapter 17 MUST seed for this:**
+
+**1. UNIVERSITY RESEARCH (Concrete Foundation):**
+- End Ch 17 with Lilith having researched:
+  - ✓ University of Manchester philosophy department structure
+  - ✓ Faculty roster (hasn't identified him yet, but has the data)
+  - ✓ Campus location, department building, geography
+  - ✓ Current semester schedule, seminar listings
+- **Why:** So Ch 19 can open with her USING this research to locate him
+- **Rationalization:** "Backup strategy if historical methods keep failing"
+- **Reality:** The pull is already directing her toward him in the present
+
+**2. THE METHODOLOGY CRISIS:**
+- By end of Ch 17, these methods have failed:
+  - Ch 15: Emotional/religious manipulation (Sor Catalina)
+  - Ch 17: Intellectual/philosophical manipulation (Marguerite Viret)
+- **What's left:** Direct circumstantial manipulation (Wei Shufen, Ch 19)
+- **After that:** Only present-day direct contact remains
+- **Seed:** "Historical interventions, mediated through time... what if proximity is the variable?"
+
+**3. THE TEMPORAL SHIFT:**
+- Ch 17: Primarily tracking 1588 (400 years in past)
+- Ch 19: Will track 1862-1864 AND locate present-day simultaneously
+- **Seed:** Her awareness beginning to orient toward present more than past
+- Show: Research tabs open, campus maps visible, "backup planning" that's actually the real plan forming
+
+**4. THE PULL INTENSIFYING:**
+- Ch 17 Maitreya hints: Pull beneath strategy, persistence exceeding rational calculation
+- Ch 19 will escalate to: Total commitment, face-to-face manifestation, intimacy of opposition
+- **Seed:** The university research itself IS the pull operating
+- She thinks: "Strategic necessity"
+- Reader sees: She's being drawn toward him in present tense
+
+**5. SPECIFIC DETAILS TO PLANT:**
+
+**Campus familiarity:**
+- Oxford Road campus location
+- Philosophy department building (specific)
+- Office hours, seminar schedules (she's already researching)
+- **Why:** Ch 19 opens with her tracing his thread to "a specific office in a specific building"
+
+**Recognition of the pattern:**
+- "Eight interventions. Eight backfires. The pattern is structural."
+- This should land HARD by end of Ch 17
+- Not: "I'll try differently next time"
+- But: "The methodology itself may be flawed. What if distance is the problem?"
+- **Seeds the shift:** From "stop him historically" to "race him in present"
+
+**The question forming:**
+- Ch 15 planted: "What if I met him directly?"
+- Ch 17 develops: "Historical intermediaries keep failing. Present-day proximity..."
+- Ch 19 will actualize: Finding him NOW, positioning for confrontation
+- **Show the thought evolving** across these chapters
+
+**SPECIFIC SEEDING MOMENTS IN CH 17:**
+
+**Early:**
+- University website open "for later, if needed"
+- Rationalized as contingency planning
+- Actually: The pull already redirecting her
+
+**Middle:**
+- While Jean struggles with doubt, she's researching Manchester faculty
+- Parallel: Both seeking truth through institutional structures (law courts / universities)
+- The irony: She's doing the same thing she criticizes in him (seeking certainty through method)
+
+**Late (post-backfire):**
+- Jean's method failed. Historical intervention #8 backfired.
+- "Eight failures. The pattern is clear. Perhaps the medium is wrong."
+- Laptop still open. Faculty pages still displayed.
+- "Temporal distance vs. spatial proximity. Variable to test."
+- Doesn't recognize this as THE PIVOT yet
+- Thinks it's "one more methodology to try"
+
+**Final beat:**
+- The chapter ends with her still tracking (moving toward Wei Shufen)
+- BUT: University research tabs remain open
+- BUT: Campus maps bookmarked
+- BUT: Philosophy department roster downloaded
+- The groundwork laid. Ch 19 will open with her using these tools to FIND HIM.
 
 ### Lilith's Physical Consistency
 
@@ -573,48 +656,130 @@ Per Ch 16 outline notes, Isabeau (glimpsed at the ball) is one of LILITH'S PAST 
 
 ## Key Decisions for Outlining
 
-### Question 1: The Letter's Origin
+### Decision 1: The Letter's Origin [LOCKED]
 
-**Options:**
-A) Lilith forged the letter entirely (active fabrication)
-B) Lilith found a real letter and amplified Jean's doubt about it
-C) Lilith timed the letter's "discovery" perfectly (circumstance manipulation)
-D) The letter is real; Lilith's intervention is pushing Jean toward paralysis about it
+**DECISION:** The letter is REAL (genuine historical document). Lilith's intervention is **timing and amplification**.
 
-**Recommendation:** **Option C or D**. The letter's authenticity remaining genuinely ambiguous fits the theme better. Lilith's power is circumstance manipulation and amplification—she doesn't need to forge; she can make Jean find it at exactly the wrong (right) moment, or push his doubt about a genuine document.
+**What happened:**
+- The letter exists in Marguerite's archives (authentic Protestant correspondence)
+- Lilith manipulates Jean's investigation path so he finds it at maximum doubt-inducing moment
+- Once found, she amplifies his uncertainty about its authenticity through Marguerite's philosophical arguments
+- The trap: Real evidence that cannot be verified = perfect paralysis
 
-**For Ch 17:** Show her precision in timing/amplification, not crude forgery.
+**Why this works better:**
+- More sophisticated than forgery (matches her capability level)
+- The letter's ambiguity is genuine (Lilith exploits real uncertainty, doesn't create false uncertainty)
+- Jean's crisis is authentic (he's right to be unsure—Lilith made the unsolvable problem worse)
+- Shows her power: circumstance manipulation, not crude fabrication
 
-### Question 2: Marguerite's Consciousness
+**For Ch 17 rendering:**
+- FROM MANCHESTER: Show her observing Jean's investigation path, recognizing the moment to guide him
+- The push: Subtle influence that makes him visit Marguerite's shop *now*, search *these* documents
+- Through Marguerite: Plant the doubt once he finds it ("provenance uncertain," "nearly missed it")
+- The precision: Not forcing, but directing flow toward maximum crisis
 
-**How much is vessel-psychology vs. Lilith's direct control?**
+### Decision 2: Marguerite's Dual Awareness [LOCKED]
 
-Per avatar-profile.json and lilith-chapter-manifest.json:
-- Marguerite has her own genuine skepticism (vessel's psychology)
-- Lilith "pushes" through the vessel, amplifying its existing tendencies
-- The arguments are genuinely held by Marguerite; Lilith directs their application
+**THE MECHANISM:**
 
-**For Ch 17:** Render this as dual-awareness. Marguerite's thoughts/arguments arise naturally; Lilith guides, amplifies, pushes toward endpoints. Not puppetry—influence.
+Lilith does not "possess" or "become" Marguerite. She **pushes through** the vessel's existing consciousness.
 
-**Challenge:** Show Lilith experiencing this dual state in integrated prose. She's not "becoming" Marguerite; she's pushing through Marguerite's existing framework.
+**How it works:**
+- Marguerite Viret is real (was real in 1588)—genuine person with genuine skeptical philosophy
+- Lilith can perceive through Marguerite's awareness (like looking through a lens)
+- She amplifies Marguerite's existing tendencies toward their endpoint
+- Marguerite's arguments are authentically hers; Lilith directs *when* they're spoken, *how* they're emphasized
+- It feels like: Marguerite's mouth moving, Marguerite's thoughts forming, but Lilith's intention guiding
 
-### Question 3: How Much of Ch 16 to Rehash?
+**The dual-awareness experience:**
 
-**Guideline from Ch 15:** Assume readers have Ch 16 fresh. Reference through sensation, not summary.
+NOT: "Lilith became Marguerite" or "Lilith controlled Marguerite like a puppet"
 
-**Show in Ch 17:**
-- Key conversation moments (Marguerite's arguments)
-- The letter's appearance/Jean's crisis
-- The temptation scene (brief, visceral)
-- The backfire moment (Jean's rejection)
-- The death (pivotal, historical dominant)
+IS: "She felt Marguerite's skepticism—genuine, intellectual, earned through years of printing dangerous texts—and pushed it toward the question Jean needed to hear. The words were Marguerite's. The timing was hers."
 
-**Don't show:**
-- Plot summary of the investigation
-- Witness testimony details
-- The ambush, ball, etc. (unless directly relevant to Lilith's intervention)
+**Sensory rendering:**
+- Lilith feels the print shop through Marguerite's body (ink smell, type metal cold, candlelight)
+- Marguerite's thoughts surface naturally (skeptical, philosophical)
+- Lilith guides: *Now. Say this now. Push here.*
+- The blend: Marguerite speaks authentically; Lilith directs the conversation's arc
 
-**Method:** Reference through Lilith's experience. She's tracking specific beats—the philosophical conversations, the doubt-amplification, the moment it fails.
+**For integrated prose:**
+- "She" = Lilith throughout (never "Marguerite thought" from Marguerite's POV)
+- But: "The words came from her mouth—Marguerite's mouth, Marguerite's arguments, shaped by Marguerite's decades reading skeptics—and Lilith pushed them toward the endpoint Marguerite could not see."
+- The dual sensation: Speaking/guiding simultaneously
+- Manchester presence: Even while Marguerite talks, Lilith's awareness includes her flat, her strategic purpose
+
+**Key moments to render:**
+1. **Initial push** - Inhabiting the vessel, feeling Marguerite's natural skepticism
+2. **Philosophical conversations** - Words flowing from vessel; Lilith steering toward paralysis
+3. **The temptation** - Marguerite's genuine arguments; Lilith's intentional application
+4. **Post-backfire** - Feeling Marguerite's surprise that Jean rejected the logic; Lilith's recognition it failed
+
+### Decision 3: How to Reference Chapter 16 [LOCKED]
+
+**CARDINAL RULE:** NO plot summary. NO rehearsing Jean's investigation. Assume reader has Ch 16 fresh.
+
+**INSTEAD:** Reference through **Lilith's visceral/emotional experience** of key intervention moments.
+
+**What this means in practice:**
+
+❌ **DON'T WRITE:**
+> "Jean interviewed three witnesses. The Catholic merchant said he saw Protestant riders. The Protestant farmer said he saw Catholic soldiers. The servant heard an argument..."
+
+✓ **WRITE INSTEAD:**
+> "The witnesses had layered contradictions—she felt Jean's frustration through Marguerite's observing eyes, each testimony adding weight without clarity. Good. The confusion was working. Until it wasn't."
+
+❌ **DON'T WRITE:**
+> "Marguerite told Jean about Montaigne's philosophy and questioned whether truth could be accessed through testimony."
+
+✓ **WRITE INSTEAD:**
+> "The words about testimony's unreliability came from Marguerite's mouth with the conviction of a woman who had typeset the Essays letter by letter. Lilith pushed the thought toward its endpoint: *If you cannot verify, you cannot conclude.* Jean's fingers touched in sequence. Counting nothing. Measuring absence. She recognized the gesture—he was close to accepting."
+
+**Key intervention moments to render through SENSATION:**
+
+**1. Philosophical Companionship (Ch 16 Scene 4)**
+- FEEL: Marguerite's genuine intellectual kinship with Jean
+- TRACK: His response—the dangerous feeling of being understood
+- SENSATION: The print shop's ink smell, candlelight, the intimacy of shared doubt
+- WHAT LILITH NOTICES: He's listening. The method is working. Intellectual seduction for intellectual fortress.
+
+**2. The Letter Crisis (Ch 16 Scene 5)**
+- FEEL: Jean's panic when he finds it (through Marguerite's awareness? through temporal perception?)
+- TRACK: His paralysis—cannot include it, cannot exclude it
+- SENSATION: His fingers touching, touching, counting possibilities that don't resolve
+- WHAT LILITH NOTICES: Perfect. The trap is set. He cannot act.
+
+**3. The Temptation (Ch 16 Scene 7)**
+- FEEL: Marguerite's arguments flowing, Jean almost agreeing
+- TRACK: The moment he's on the edge—will accept that doubt = inaction
+- SENSATION: Night visit, candlelight, wine, the philosophical intimacy
+- WHAT LILITH NOTICES: This is it. He's going to accept. Submit nothing. The fortress will hold.
+
+**4. The Backfire (Ch 16 Scene 8)**
+- FEEL: Jean's rejection—"You offer me a fortress"
+- TRACK: The moment he sees through the argument
+- SENSATION: Shock (Marguerite's? Lilith's?), the methodology failing again
+- WHAT LILITH NOTICES: No. No. The logic was perfect. How did he—
+
+**5. The Death (Ch 16 Scene 9)**
+- FEEL: Jean dying, the lesson crystallizing
+- TRACK: His final thought—"I told the truth about what I didn't know"
+- SENSATION: Blood on road, his certainty in the wrongness of it, the rightness
+- WHAT LILITH NOTICES: He acted. Without certainty. The thing she needed him NOT to learn.
+
+**HOW TO INTEGRATE THESE:**
+
+NOT as sequential recap, but as **layered awareness** woven through the integrated prose:
+
+- WHILE in Manchester analyzing what went wrong with Sor Catalina → flash to Marguerite's method being different
+- WHILE experiencing Marguerite's skeptical arguments → awareness of how Jean receives them
+- WHILE watching him find the letter → recognition this should paralyze him
+- WHILE certain the temptation is working → the shock when it fails
+- WHILE witnessing his death → understanding he learned the lesson despite her
+
+**The reader's experience:**
+NOT: "Here's what happened in Ch 16"
+BUT: "Here's what Lilith FELT happening, what she TRIED to do, how she EXPERIENCED the backfire"
 
 ### Question 4: The "One More" Beat - Where/When?
 
@@ -631,28 +796,97 @@ D) Throughout: Recurring motif in multiple scenes
 
 **Each iteration** shows increasing desperation masked as refinement.
 
-### Question 5: Manchester Concrete Details
+### Decision 4: Manchester Physical Reality [LOCKED]
 
-**What is Lilith actually DOING in her flat during Week 7-8?**
+**WHAT IS LILITH ACTUALLY DOING IN HER FLAT (WEEK 7-8)?**
 
-**Physical actions:**
-- Tracking (observing Jean's timeline)
-- Active manipulation (timing the letter's discovery? pushing Marguerite's arguments?)
-- Analysis (what went wrong with Sor Catalina? how to adjust?)
-- Strategic notes? (not scene-level documentation motif, but evidence of cycling approaches?)
+**The Shift:** She's not just tracking anymore. She's **researching present-day Manchester** while tracking Jean. The pivot toward Chapter 19 has already begun in her mind—she just doesn't recognize it as a pivot yet.
 
-**Environment:**
-- The flat: same as Ch 15 or changed?
-- Time of day: night tracking? morning analysis?
-- Body state: not tired, but... tense? controlled? relentless?
+**Physical actions in the flat:**
 
-**Sensory details needed:**
-- Tea (probably cold, like always)
-- Light (lamp, window, contrast with candlelight in France)
-- Space (narrow? precise? reflecting mental state?)
-- Silence (her control vs. the questions echoing)
+**1. DUAL-LAYER TRACKING:**
+- **Active layer:** Observing Jean's timeline (1588 France), pushing through Marguerite
+- **Background layer:** University records (research for "one more" after this fails)
+- **Why both:** She's already hedging. Methods are running out. What comes after intellectual manipulation?
 
-**Decision needed:** Concrete Manchester grounding that integrates with Renaissance intellectual precision.
+**2. RESEARCH MATERIALS (New for this chapter):**
+- Laptop open: University of Manchester philosophy department website
+- Browser tabs: Faculty listings, course schedules, department events
+- **Rationalization:** "Strategic reconnaissance. If historical methods continue failing..."
+- **Reality:** She's already looking for him in the present. The pull is directing her.
+- **What she's found:** Philosophy faculty roster, seminar schedules, campus maps
+- **What she hasn't done yet:** Identified which professor is Silas (that's Ch 19)
+
+**3. PHYSICAL STATE:**
+- NOT: Exhausted, disheveled, papers everywhere, coffee cups piled up
+- IS: Controlled, precise, relentless—but the control is fracturing
+- Tea: Cold (always). One cup, multiple hours old.
+- Posture: Laptop on desk, tracking window in peripheral vision, papers neat
+- Body: No physical fatigue, but jaw tight, shoulders held, breath shallow
+- The crack: Switching between research tabs and Jean's timeline compulsively
+
+**4. ENVIRONMENT DETAILS:**
+
+**The flat itself:**
+- Fallowfield flat (same as Ch 15)
+- NO deterioration, NO clutter (she's not falling apart)
+- BUT: The space feels narrower—not physically, but perceptually
+- Laptop glow + lamp light = modern intellectual workspace
+- Window: Manchester grey (autumn/winter approaching)
+- Contrast with: Candlelight in Renaissance print shop
+
+**Time indicators:**
+- Week 7-8 of tracking (approximately 7-8 weeks since Ch 3)
+- Late autumn (November? December?)
+- Sessions: Night tracking mostly (when Manchester is quiet)
+- But also: Daytime research (university sites more active)
+
+**Sensory grounding for integration:**
+
+**MANCHESTER DETAILS THAT PARALLEL RENAISSANCE:**
+- Laptop screen glow / Candle flame (both precision work by insufficient light)
+- University website / Print shop documents (both intellectual institutions)
+- Browser tabs / Folios and letters (both layered information requiring synthesis)
+- Cold tea / Wine in philosophical conversation (both beverages gone wrong temperature)
+- Typing / Typesetting (both precise manual work with letters/words)
+- Search algorithms / Witness testimony (both methods of seeking truth through uncertain sources)
+
+**SPECIFIC CONCRETE ACTIONS TO SHOW:**
+
+Early in chapter (Manchester-dominant scene):
+- Laptop open to UoM philosophy department page
+- Her cursor hovering over faculty directory link
+- Hasn't clicked yet. Doesn't examine why she's looking.
+- Switches to Jean's timeline: "One more historical method first."
+
+Middle of chapter (integrated):
+- While Marguerite speaks, Lilith's fingers rest on laptop keys
+- Renaissance philosophical argument / Modern university research
+- Both searching for the right approach to doubt
+- Both precision work that isn't working
+
+Late in chapter (post-backfire):
+- Jean's method failed. Laptop still open. University page still there.
+- The thought: "If historical interventions continue failing..."
+- Clicks through to faculty listings. Doesn't recognize it as pivot yet.
+- "Strategic preparation. One more method to develop."
+
+**THE SEED FOR CHAPTER 19:**
+
+By end of Ch 17, Lilith has:
+- ✓ University website researched (knows where to look)
+- ✓ Philosophy department identified (his likely location)
+- ✓ Campus geography understood (been looking at maps)
+- ✗ NOT identified Silas specifically (that's Ch 19's opening action)
+- ✗ NOT physically visited campus (that comes after Wei Shufen)
+- ✗ NOT acknowledged this is the pivot (still thinks it's "backup planning")
+
+**Why this works:**
+- Makes her physical Manchester presence concrete and active
+- Seeds Ch 19's present-day shift organically
+- Shows the "one more" compulsion (hedging before current method even fails)
+- The research IS another symptom of exhaustion (trying everything, including future methods)
+- Reader sees the pivot coming; Lilith doesn't recognize it yet
 
 ### Question 6: Maitreya Foreshadowing Specifics
 
@@ -789,13 +1023,21 @@ Opposition accelerates growth. Every intervention creates the friction that forg
 
 ---
 
-## Open Questions / Decisions for Author
+## Locked Decisions & Remaining Questions
 
-1. **The letter:** Forged by Lilith, or real but timed/amplified by her?
-2. **Marguerite's arguments:** How much direct speech vs. rendered through Lilith's experience?
-3. **Isabeau observation:** Include the glimpse of her past incarnation at Jean's ball?
-4. **Chapter title:** TBD (suggestions welcome)
-5. **Manchester concrete details:** What is she physically doing during tracking?
+### LOCKED DECISIONS ✓
+
+1. **The letter:** [DECISION 1 LOCKED] Real historical document, timed and amplified by Lilith
+2. **Marguerite's dual awareness:** [DECISION 2 LOCKED] Lilith pushes through existing consciousness, doesn't possess
+3. **Ch 16 references:** [DECISION 3 LOCKED] Through visceral sensation, not plot summary
+4. **Manchester physical reality:** [DECISION 4 LOCKED] Researching University of Manchester while tracking Jean
+5. **Isabeau observation:** YES - Brief observation that one of Lilith's past incarnations was at Jean's ball (peripheral, did not engage)
+
+### REMAINING OPEN QUESTIONS
+
+1. **Chapter title:** TBD (suggestions welcome)
+2. **Scene count:** 6, 7, or 8 scenes? (Will determine in outline phase based on pacing needs)
+3. **Maitreya hint placement:** Exactly which moments for the two subtle foreshadowing beats? (Can finalize in outline)
 
 ---
 
