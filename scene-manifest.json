@@ -2083,8 +2083,66 @@
       ],
       "function": "Manic clarity masking growing pull; sustained manifestation; denial intensifying as feeling grows",
       "word_target": 3000,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "actual_word_count": 4621,
+      "scenes": [
+        {
+          "id": "scene-01-walls",
+          "title": "The Walls",
+          "word_count": 576,
+          "integration": "50/50 - Manchester flat claustrophobia / Toledo narrow streets",
+          "function": "Establishing dual-timeline pressure; fetter beat beginning"
+        },
+        {
+          "id": "scene-02-pattern",
+          "title": "The Pattern",
+          "word_count": 463,
+          "integration": "60/40 Manchester-dominant",
+          "function": "Race consciousness crystallizes - 'I need to focus on my own escape'"
+        },
+        {
+          "id": "scene-03-encounter",
+          "title": "The Encounter",
+          "word_count": 635,
+          "integration": "70/30 Toledo-dominant - Witnessing past life",
+          "function": "Re-experiencing San Bartolomé encounter as Sor Catalina"
+        },
+        {
+          "id": "scene-04-push",
+          "title": "The Push",
+          "word_count": 518,
+          "integration": "40/60 Manchester-dominant - Active intervention",
+          "function": "Pushing Tomás into betrayal; manic precision"
+        },
+        {
+          "id": "scene-05-memory",
+          "title": "The Memory",
+          "word_count": 350,
+          "integration": "80/20 Manchester-dominant",
+          "function": "Campus memory surfaces; intimacy strategy seed planted"
+        },
+        {
+          "id": "scene-06-chamber",
+          "title": "The Chamber",
+          "word_count": 447,
+          "integration": "70/30 Toledo-dominant - Witnessing past life",
+          "function": "Interrogation chamber; sustained presence revealed"
+        },
+        {
+          "id": "scene-07-fire",
+          "title": "The Fire",
+          "word_count": 1009,
+          "integration": "Historical DOMINANT - Pivotal moment",
+          "function": "Auto-da-fé; backfire crystallizes; face constancy observation"
+        },
+        {
+          "id": "scene-08-seed",
+          "title": "The Seed",
+          "word_count": 623,
+          "integration": "60/40 Manchester-dominant",
+          "function": "Wheel becomes real; intimacy question forms; direction emerging"
+        }
+      ],
+      "status": "drafted"
     },
     {
       "chapter": 16,
