@@ -2327,7 +2327,7 @@
     {
       "chapter": 17,
       "id": "ch17-lilith-cp08",
-      "title": "TBD",
+      "title": "One More",
       "type": "lilith_contemporary",
       "genre": "Literary Fiction / Psychological / Integrated Prose",
       "setting": {
@@ -2340,20 +2340,20 @@
         },
         "historical": {
           "period": "Renaissance",
-          "location": "TBD (France/Italy)",
-          "year": "~1585",
-          "avatar": "Renaissance skeptic"
+          "location": "Guyenne, France",
+          "year": "1588",
+          "avatar": "Jean de Langon"
         },
-        "integration_technique": "Intellectual, wit and doubt, skepticism layered\u2014questions in parallel registers"
+        "integration_technique": "Intellectual, wit and doubt, skepticism layered—questions in parallel registers"
       },
-      "pov": "Lilith (integrated with Renaissance avatar's experience)",
+      "pov": "Lilith (integrated with Jean de Langon's experience via Marguerite Viret)",
       "lilith": {
         "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 7-8",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
         "constraints": [
-          "Cannot override karmic law\u2014interventions backfire structurally",
+          "Cannot override karmic law—interventions backfire structurally",
           "Cannot force choices or negate accumulated merit",
           "Cannot change past events, only manifest within them and influence"
         ],
@@ -2365,50 +2365,109 @@
       },
       "corresponds_to": {
         "historical_chapter": 16,
-        "avatar": "Renaissance skeptic",
+        "avatar": "Jean de Langon",
         "lesson": "Truthfulness (sacca)"
       },
       "parallel_structure": {
-        "avatar_mistake": "Intellectual doubt becomes attachment, skepticism as identity",
-        "lilith_mistake": "Strategic refinement becomes compulsion, precision as desperation"
+        "jean_mistake": "Uses doubt as fortress against commitment, skepticism as identity",
+        "lilith_mistake": "Uses strategic precision as fortress against attachment, precision as desperation"
       },
       "intervention": {
-        "method": "TBD\u2014intellectual manipulation, feeding skeptical doubt",
-        "objective": "Corrupt truthfulness through cynicism",
-        "backfire": "Doubt leads to genuine inquiry rather than cynicism"
+        "method": "Push through Marguerite Viret (printer's widow) to deliver intellectual/philosophical manipulation",
+        "objective": "Feed doubt until paralysis seems like wisdom; use philosophical coherence to justify inaction",
+        "backfire": "Jean discovers truthful action under uncertainty; intellectual trap becomes crucible for breakthrough"
       },
       "integrated_prose_features": {
         "sensory_bridges": [
-          "Questions layered across timelines",
-          "Doubt in parallel registers",
-          "Intellectual precision / strategic precision"
+          "Cold tea / cold wine",
+          "Ink and metal (print shop / laptop)",
+          "Candlelight / laptop glow",
+          "Finger-touching sequence / jaw tightness"
         ],
-        "pronoun_flow": "She for Lilith throughout; avatar's skeptical inquiry registers in her fracturing certainty"
+        "pronoun_flow": "She for Lilith throughout; Marguerite's sensations register as vessel-experience"
       },
       "pivotal_moments": [
         {
           "dominant_timeline": "Historical",
-          "moment": "Avatar's doubt transforming into genuine inquiry",
-          "technique": "Historical foreground"
+          "moment": "Jean's breakthrough—recognizing fortress of doubt and choosing truthful action anyway",
+          "technique": "Historical foreground, Manchester crashes back on backfire"
         }
       ],
       "fetter_beat": {
-        "moment": "Manic persistence\u2014'one more, one more, one more'\u2014exhaustion of strategies",
-        "shown_through": "Cycling through approaches, certainty cracking, desperation showing"
+        "moment": "Manic persistence—'one more, one more, one more'—exhaustion of strategies",
+        "shown_through": "Cycling through approaches (emotional failed, now intellectual), certainty cracking, compulsive university research"
       },
       "maitreya_foreshadowing": [
-        "Exhaustion revealing the pull beneath strategy",
-        "Persistence exceeding rational calculation"
+        "Scene 4: Flicker of doubt—'Will this actually work?'—filed as strategic assessment",
+        "Scene 7: Pull toward him exceeding rational calculation, rationalized as race necessity"
       ],
       "spiritual_advancement_shown_through": [
         "Ability to hold Renaissance intellectual culture and Manchester analysis simultaneously",
-        "Understanding avatar's skeptical attachment while practicing strategic attachment",
+        "Understanding Jean's skeptical attachment while practicing strategic attachment",
         "Capability continuing despite strategy exhaustion"
       ],
-      "function": "Exhaustion of strategies; manic persistence; certainty fracturing while attachment intensifies",
+      "function": "METHOD EXHAUSTION chapter; intellectual manipulation backfires; seeds Ch19 pivot to present-day tracking",
       "word_target": 3000,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "actual_word_count": 3200,
+      "scenes": [
+        {
+          "id": "scene-01-one-more-method",
+          "title": "One More Method",
+          "word_count": 420,
+          "integration": "Manchester-dominant",
+          "function": "Post-Ch15 analysis; shift from emotional to intellectual manipulation; university research seed"
+        },
+        {
+          "id": "scene-02-the-vessel",
+          "title": "The Vessel",
+          "word_count": 380,
+          "integration": "50/50",
+          "function": "Render push-through mechanism; Marguerite's genuine skepticism amplified"
+        },
+        {
+          "id": "scene-03-the-companionship",
+          "title": "The Companionship",
+          "word_count": 400,
+          "integration": "France-dominant",
+          "function": "Philosophical companionship building; Jean drawn in by being understood"
+        },
+        {
+          "id": "scene-04-the-letter",
+          "title": "The Letter",
+          "word_count": 440,
+          "integration": "Manchester-dominant",
+          "function": "Active circumstance manipulation; first Maitreya hint (flicker filed away)"
+        },
+        {
+          "id": "scene-05-the-temptation",
+          "title": "The Temptation",
+          "word_count": 480,
+          "integration": "Historical DOMINANT",
+          "function": "Full nihilist argument delivered; Lilith's certainty peaks"
+        },
+        {
+          "id": "scene-06-the-backfire",
+          "title": "The Backfire",
+          "word_count": 400,
+          "integration": "50/50",
+          "function": "Jean's breakthrough; intellectual trap turned upon itself; pattern recognition suppressed"
+        },
+        {
+          "id": "scene-07-the-death",
+          "title": "The Death",
+          "word_count": 400,
+          "integration": "Historical DOMINANT",
+          "function": "Jean's death; karmic bridge to Wei Shufen; second Maitreya hint (pull toward continuing)"
+        },
+        {
+          "id": "scene-08-one-more",
+          "title": "One More",
+          "word_count": 480,
+          "integration": "Manchester-dominant",
+          "function": "Final fetter beat; compulsive method-cycling; university research visible; seeds Ch19"
+        }
+      ],
+      "status": "drafted"
     },
     {
       "chapter": 18,
