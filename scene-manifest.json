@@ -2714,8 +2714,77 @@
       ],
       "function": "Full manifestation attempts; power at peak; total commitment before final pivot",
       "word_target": 3000,
-      "scenes": [],
-      "status": "needs_full_rewrite"
+      "actual_word_count": 9677,
+      "scenes": [
+        {
+          "id": "scene-01-rain-and-dust",
+          "title": "Rain and Dust",
+          "word_count": 904,
+          "integration": "Full integration (50/50)",
+          "function": "Dual anchor opening (rain/dust); establish sustained intervention; parallel compulsive helping/tracking; sensory bridges throughout"
+        },
+        {
+          "id": "scene-02-curse-spreads",
+          "title": "The Curse Spreads",
+          "word_count": 1101,
+          "integration": "Integrated (50/50)",
+          "function": "Pattern building across two years; parallel structure deepens; whispers emerge ('everyone he touches dies')"
+        },
+        {
+          "id": "scene-03-doctrine-collapse",
+          "title": "The Doctrine Collapse",
+          "word_count": 1106,
+          "integration": "Historical-leaning integrated",
+          "function": "Manna passage; theological paralysis; Maitreya foreshadowing #1 (chest pressure during Hong's vision)"
+        },
+        {
+          "id": "scene-04-pause",
+          "title": "The Pause",
+          "word_count": 649,
+          "integration": "Historical-dominant",
+          "function": "Post-Hong's death; Wei paralyzed; Lilith's certainty at peak; moment before breakthrough"
+        },
+        {
+          "id": "scene-05-breakthrough-death",
+          "title": "The Breakthrough and Death",
+          "word_count": 1435,
+          "integration": "Historical DOMINANT",
+          "function": "Wei's breakthrough (helps despite futility); Maitreya foreshadowing #2 (pain at his death); backfire realized; city falls"
+        },
+        {
+          "id": "scene-06-tracing-forward",
+          "title": "Tracing Forward",
+          "word_count": 1398,
+          "integration": "Transitional (historical→Manchester)",
+          "function": "Following soul thread forward; 'many lives' implied; sensing present-day Silas; race element crystallizes"
+        },
+        {
+          "id": "scene-07-positioning",
+          "title": "The Positioning",
+          "word_count": 1431,
+          "integration": "Manchester-dominant",
+          "function": "Job application to university; institutional violence parallel; strategic positioning for contact"
+        },
+        {
+          "id": "scene-08-threshold",
+          "title": "The Threshold",
+          "word_count": 1653,
+          "integration": "Manchester-dominant",
+          "function": "Ending beat; loving-kindness misinterpreted; both approaching each other; intimacy strategy set; bridge to Ch1"
+        }
+      ],
+      "status": "drafted",
+      "outline_complete_date": "2025-12-25",
+      "draft_complete_date": "2025-12-25",
+      "technical_completion": {
+        "dual_anchor_opening": true,
+        "integrated_prose_technique": true,
+        "maitreya_foreshadowing_count": 2,
+        "parallel_structure": "Compulsive helping (Wei) / compulsive tracking (Lilith)",
+        "timeline_transitions": "Full integration → historical dominant → Manchester dominant",
+        "sensory_bridges": true,
+        "forbidden_pattern_compliance": true
+      }
     },
     {
       "chapter": 20,
