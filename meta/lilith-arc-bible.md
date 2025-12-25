@@ -94,7 +94,7 @@ She's nearly a Buddha. She loves everyone.
 This is not special. This is what near-Buddhas do.
 
 But her love for Silas has a *quality* she doesn't examine—a specificity she attributes to:
-- Six years of tracking (she knows him better than anyone)
+- Weeks of tracking (she knows him better than anyone)
 - Proximity (he's the only other soul this close to completion)
 - Compassion (the natural response to another's struggle)
 
@@ -120,7 +120,7 @@ Lilith tells Silas: "I've seen your past lives. I've watched you die, over and o
 
 ### What She Means
 
-Literal truth. Six years of supernatural surveillance. Ten incarnations witnessed. Countless interventions attempted.
+Literal truth. Weeks of supernatural surveillance. Ten incarnations witnessed. Countless interventions attempted.
 
 ### What He Hears
 

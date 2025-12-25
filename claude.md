@@ -31,7 +31,7 @@ A literary novel following one soul’s journey toward enlightenment across ten 
 
 - Historical chapter (Silas's past life) → Lilith chapter (her contemporary pursuit)
 - Both timelines move forward: his past lives progress chronologically (300,000 years); her tracking intensifies over ~8-10 weeks, using integrated prose that holds Manchester and historical periods simultaneously
-- Time jump of 1 year between Chapter 21 and Chapter 1
+- Time jump of several weeks to months between Chapter 21 and Chapter 1
 - This creates parallel momentum toward their convergence in Chapter 22
 
 -----
@@ -195,11 +195,10 @@ A rival bodhisattva, very close to Buddhahood, who believes only one Buddha can 
   - Races through all ten historical lives
   - Each intervention fails and sharpens her attachment
   - Realizes she must meet him in the present (Ch 21)
-- **Time Jump (1 year):** Between Ch 21 and Ch 1
-  - Locates Silas in present-day Manchester
-  - Engineers their meeting
-  - Develops intimate relationship
+- **Time Jump (weeks to months):** Between Ch 21 and Ch 1
+  - Relationship deepens to established lovers
   - Rebuilds composure over tracking fever
+  - Intimacy becomes both tactic and genuine feeling
 - **Chapter 1:** Established lovers; composure as performance over desperation
 
 **Her Arc Across Act II:**
@@ -240,11 +239,9 @@ Act II's structure creates different temporal experiences for the two timelines:
 - Compressed fever of discovery, intervention, failure, escalation
 
 **The Time Jump:**
-- Between Chapter 21 and Chapter 1: 1 year
+- Between Chapter 21 and Chapter 1: several weeks to months
 - During this gap:
-  - Lilith locates Silas in present-day Manchester
-  - Engineers their meeting
-  - Develops intimate relationship
+  - Relationship deepens (initial contact happens in Ch 21)
   - Rebuilds composure over tracking fever
   - Relationship becomes both tactic and genuine feeling
 
@@ -489,8 +486,7 @@ The agent must NOT independently create or modify:
 - Lilith's powers or constraints beyond what's documented
 - The integrated prose technique mechanics for Lilith chapters (established in lilith-refactor.md)
 - Lilith's timeline compression (8-10 weeks tracking period is fixed)
-- The time jump between Ch 21 and Ch 1 (1 year)
-- How exactly Lilith locates Silas in Ch 21 (documented when Ch 21 is developed)
+- The time jump between Ch 21 and Ch 1 (weeks to months)
 - Fetter progression or breaking sequence
 - New chapters or structural changes
 - Recognition markers (until defined by author)

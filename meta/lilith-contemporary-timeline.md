@@ -7,7 +7,7 @@
 - **Age in Chapter 1:** 35
 - **Profession:** Psychiatrist (NHS, Manchester)
 - **Location:** Manchester, UK (primarily Fallowfield flat)
-- **Spiritual status:** Non-Returner (has broken 5 of 10 fetters)
+- **Spiritual status:** Non-Returner (has broken 9 of 10 fetters)
 
 ---
 
@@ -51,7 +51,7 @@ Lilith discovers Silas's karmic thread and races through all ten historical live
 
 ## Cosmic Capability (Constant)
 
-Lilith has full cosmic power from Chapter 3 onwards. She is a near-Buddha who has broken 5 of 10 fetters.
+Lilith has full cosmic power from Chapter 3 onwards. She is a near-Buddha who has broken 9 of 10 fetters.
 
 **Capabilities:**
 - Full temporal perception (can access any point on Silas's karmic thread)

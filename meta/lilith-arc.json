@@ -6,20 +6,24 @@
     "cosmic_constraint": "Only one fully enlightened Buddha can exist in any given world-system at a time; if Silas achieves Buddhahood first, Lilith's eons of work are nullified"
   },
   "spiritual_status": {
-    "description": "Non-Returner (has broken 5 of 10 fetters)",
+    "description": "Non-Returner (has broken 9 of 10 fetters)",
     "current_fetter": "Attachment to being 'the one who achieves Buddhahood'",
     "fetters_broken": [
       "self_illusion (sakkāya-diṭṭhi)",
       "doubt (vicikicchā)",
       "rites_rituals (sīlabbata-parāmāsa)",
       "sensual_desire (kāma-rāga)",
-      "ill_will (vyāpāda)"
+      "ill_will (vyāpāda)",
+      "desire_for_fine_material_existence (rūpa-rāga)",
+      "desire_for_immaterial_existence (arūpa-rāga)",
+      "restlessness (uddhacca)",
+      "ignorance (avijjā)"
     ],
     "final_fetter": {
       "name": "Conceit (māna) — specifically attachment to being 'the one'",
       "manifestation": "She must be the one who achieves Buddhahood in this world-system; desperate to prevent Silas from achieving it first"
     },
-    "note": "As a Non-Returner, she has broken the first five fetters. Her remaining obstacle is not ignorance in the abstract, but the specific form of conceit that manifests as attachment to being 'the one who achieves Buddhahood.'"
+    "note": "She has broken 9 of 10 fetters—the first five as a Non-Returner, plus four of the final five in her life as Lilith. Her remaining obstacle is the specific form of conceit that manifests as attachment to being 'the one who achieves Buddhahood.'"
   },
   "motivation": {
     "surface": "In her current incarnation as psychiatrist Lilith Azami, she may rationalize her actions as 'helping' Silas or 'testing' him",
@@ -346,7 +350,7 @@
   "key_questions_resolved": [
     "What is Lilith's true nature? A rival bodhisattva, very close to enlightenment, who sees Silas as an existential threat.",
     "Why does she oppose Silas's enlightenment specifically? The one-Buddha-per-world-system rule means his success nullifies her eons of work.",
-    "Does she have her own spiritual progression? Yes—she's a Non-Returner (has broken 5 of 10 fetters), which is why she can manipulate reality. But her attachment to achieving Buddhahood is itself the obstacle.",
+    "Does she have her own spiritual progression? Yes—she's a Non-Returner (has broken 9 of 10 fetters), which is why she can manipulate reality. But her attachment to achieving Buddhahood is itself the obstacle.",
     "What drives her arc? Not power growth, but intensification of her final fetter—attachment to being 'the one'.",
     "What is the timeline? 8-10 weeks of tracking (Chapters 3-21), 6-12 month gap, then Chapter 1.",
     "What is her age? 34 during tracking (Chapters 3-21), 35 in Chapter 1.",

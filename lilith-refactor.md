@@ -573,9 +573,9 @@ A test scene demonstrating the integrated prose technique was created during thi
 - **Completed:**
   - CLAUDE.md revision (December 2025)
   - lilith-chapter-manifest.json creation (December 2025) — comprehensive manifest with all 10 chapter specifications, integrated prose technique, fetter intensification schedule, Maitreya foreshadowing distribution
-  - lilith-arc.json complete overhaul (December 2025) — removed power_progression, awareness_access_progression, professional_decline; added spiritual_status (Non-Returner, 5 fetters broken), cosmic_capability, timeline (age 34 during tracking, age 35 in Ch 1), fetter_intensification_arc; updated arc_summary, key_questions_resolved, maitreya_foreshadowing
+  - lilith-arc.json complete overhaul (December 2025) — removed power_progression, awareness_access_progression, professional_decline; added spiritual_status (Non-Returner, 9 fetters broken), cosmic_capability, timeline (age 34 during tracking, age 35 in Ch 1), fetter_intensification_arc; updated arc_summary, key_questions_resolved, maitreya_foreshadowing
   - scene-manifest.json revision (December 2025) — updated all Lilith chapter ages from 28 to 34; updated Chapter 1 Lilith entry with 8-10 weeks timeline; updated all historical chapter Lilith entries to use cosmic_capability instead of powers; fixed Chapter 21 from "femme fatale" to "MINIMAL PRESENCE"; updated Chapter 22 function to reference 8-10 weeks tracking
-  - lilith-chapter-manifest.json update (December 2025) — standardized fetter count to "5 of 10 fetters" (Non-Returner status)
+  - lilith-chapter-manifest.json update (December 2025) — standardized fetter count to "9 of 10 fetters" (Non-Returner who has broken 4 of final 5 fetters in her life as Lilith)
   - **Phase 2 (December 2025):**
     - lilith-style-rules.md moved to /reference/ folder
     - style-rules.md updated — added "Integrated (Lilith)" row to genre tables; replaced outdated Lilith checklist with pointer to lilith-style-rules.md; updated historical chapter checklist to reference cosmic capability
