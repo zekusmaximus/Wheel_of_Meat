@@ -13,7 +13,7 @@
 
 ## Lilith's Status This Chapter
 
-- **Spiritual Level:** Non-Returner (5 of 10 fetters broken)
+- **Spiritual Level:** Non-Returner (9 of 10 fetters broken)
 - **Cosmic Capability:** Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power
 - **Position in Arc:** First deliberate intervention; moving from observer to actor
 

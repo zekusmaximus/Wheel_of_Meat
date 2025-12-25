@@ -2647,8 +2647,8 @@
         "historical": {
           "period": "19th century",
           "location": "China (Taiping Rebellion)",
-          "year": "~1855",
-          "avatar": "Taiping rebel"
+          "year": "1862-1864",
+          "avatar": "Wei Shufen"
         },
         "integration_technique": "Chaotic, violence bleeding through, conviction fractured\u2014chaos in dual keys"
       },
@@ -2892,9 +2892,9 @@
         },
         "historical": {
           "period": "1930s noir",
-          "location": "American city",
-          "year": "~1935",
-          "avatar": "Detective"
+          "location": "Los Angeles, California",
+          "year": "1938",
+          "avatar": "Jack Malone"
         },
         "integration_technique": "Atmospheric, cigarette smoke and rain, failure repeated\u2014noir atmosphere bleeding across timelines"
       },
@@ -2953,16 +2953,15 @@
         }
       ],
       "fetter_beat": {
-        "moment": "The pivot decision\u2014attachment crystallizing into final gambit: 'I will become the thing he cannot transcend'",
-        "shown_through": "Decision to abandon historical interventions, trace thread to present, meet him in flesh"
+        "moment": "The pivot decision—attachment crystallizing into final gambit: 'I will become the thing he cannot transcend'",
+        "shown_through": "Simultaneous action: catastrophic historical failure (Jack's death with all perfections complete) WHILE making Silas's acquaintance in present-day Manchester"
       },
       "chapter_ending": {
-        "realization": "Cannot stop him from historical interventions\u2014pattern is clear, all ten backfire",
-        "traces_thread_forward": "Follows karmic thread from 1930s to present-day Manchester",
-        "discovery": "Finds Silas Pahlavan, philosophy professor, approaching stream-entry\u2014living now",
-        "decision": "Will meet him in the flesh, make him love her, become the thing he cannot transcend",
-        "final_beat": "On the threshold of the final gambit\u2014tracking corner one last time, thread glowing forward to present",
-        "does_NOT_show": "No relationship with present-day Silas yet\u2014hasn't contacted him, hasn't met him, this is the decision to do so"
+        "realization": "Cannot stop him from historical interventions—pattern is clear, all ten backfire",
+        "simultaneous_structure": "Tracks Jack Malone's death WHILE making Silas's acquaintance in present-day Manchester",
+        "final_beat": "Initial contact with Silas established; tracking corner packed away or relocated; intimacy strategy begins",
+        "shows": "Initial acquaintance—possibly setting up her new flat near campus, first meeting, the pull toward him becoming action",
+        "does_NOT_show": "No established relationship—that develops in the gap between this chapter and Chapter 1"
       },
       "time_jump_note": "Weeks to months pass between end of this chapter and Chapter 1. STRUCTURAL NOTE: Lilith locates Silas in Chapter 19. Chapter 21 is SIMULTANEOUS—she tracks Jack Malone's final life WHILE making Silas's acquaintance in present-day Manchester. The time jump covers only relationship deepening, not initial meeting. During gap (OFF-PAGE): relationship deepens to established lovers, rebuilds composure over tracking fever. The relationship becomes both tactic and (complicating) genuine feeling. Chapter 1 shows the result.",
       "maitreya_foreshadowing": [
@@ -2979,7 +2978,7 @@
       "word_target": 3500,
       "scenes": [],
       "status": "needs_complete_reconception",
-      "critical_note": "This chapter MUST NOT show any content of established relationship with present-day Silas. That relationship happens in the gap between this chapter and Chapter 1. This chapter ends with the DECISION to meet him, not the result of having met him."
+      "critical_note": "This chapter shows INITIAL CONTACT with Silas—making his acquaintance while simultaneously tracking Jack Malone's death. The established, intimate relationship develops in the gap between this chapter and Chapter 1. Two timelines: Manchester present (meeting Silas, possibly setting up new flat near campus) + 1938 LA (Jack Malone's death, catastrophic backfire)."
     },
     {
       "chapter": 22,
