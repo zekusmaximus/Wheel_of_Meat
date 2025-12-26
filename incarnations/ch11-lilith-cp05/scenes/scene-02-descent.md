@@ -26,7 +26,7 @@ The shock of embodiment arrived first—weight where weight had been theoretical
 
 The meat noticed things.
 
-The linen of her robe settled against shoulders that had not felt fabric in longer than she could calculate. Her feet registered the cool stone of the church floor—morning, before the sun reached its height, the architecture still holding yesterday's temperature. The scribes glanced at her and registered appropriate deference: dark robe, composed features, the particular stillness of someone who carried authority without requiring it to be spoken.
+The linen of her robe settled against shoulders that had not felt fabric in longer than she could calculate. Her feet registered the cool stone of the church floor—morning, before the sun reached its height, the architecture still holding yesterday's temperature. The scribes glanced at her and registered appropriate deference: dark robe, composed features, the stillness of someone who carried authority without requiring it to be spoken.
 
 *I am Theodora,* she told herself. *Church dignitary. Observer. Strategic asset.*
 

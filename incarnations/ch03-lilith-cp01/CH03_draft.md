@@ -68,7 +68,7 @@ The radiator clanked as it cooled. The fluorescent tubes hummed. Lilith carried 
 
 ## III. The Discovery of Ka
 
-The flat held the particular silence of late hours: the refrigerator cycling off, distant traffic reduced to a bass hum beneath the rain. Lilith had drawn the curtains against the streetlight’s amber intrusion and lit a single lamp in the corner, its glow reaching just far enough to show the outline of her own crossed legs on the bare floor.
+The flat held its late-hour silence: the refrigerator cycling off, distant traffic reduced to a bass hum beneath the rain. Lilith had drawn the curtains against the streetlight’s amber intrusion and lit a single lamp in the corner, its glow reaching just far enough to show the outline of her own crossed legs on the bare floor.
 
 The tea on the side table had gone cold an hour ago. She did not remember making it.
 

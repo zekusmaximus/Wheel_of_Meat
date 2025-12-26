@@ -22,7 +22,7 @@ Heat arrived before image. The pressure of Egyptian midday, thick and visible, s
 
 She was observing him in his cell. Four paces by three. Reed mat for sleeping, water jug for thirst, rough wooden cross for focus. Palm fronds piled in the corner, the material for his daily work: split, twist, weave, pull tight. Baskets accumulating in the space beneath the window—evidence of years, of discipline, of a routine so ingrained it had become invisible to the man who performed it.
 
-His hands moved through the weaving with the particular attention of someone who had made thousands of baskets and would make thousands more. The rhythm was meditative, or it was meant to be. But she could feel something else beneath the motion—a precision that served a purpose the baskets did not require.
+His hands moved through the weaving with the attention of someone who had made thousands of baskets and would make thousands more. The rhythm was meditative, or it was meant to be. But she could feel something else beneath the motion—a precision that served a purpose the baskets did not require.
 
 *He cannot abide stillness. The weaving is his anchor.*
 
@@ -38,7 +38,7 @@ The advice landed in the young monk like rain on parched stone—gratitude flood
 
 She recognized the warmth.
 
-Philon had carried it when students gathered around him in the agora. Chandra had carried it when the Emperor's ministers sought his counsel. The particular satisfaction of being needed, of having words that mattered, of holding what others lacked.
+Philon had carried it when students gathered around him in the agora. Chandra had carried it when the Emperor's ministers sought his counsel. The satisfaction of being needed, of having words that mattered, of holding what others lacked.
 
 *He is nearer than I expected.*
 
@@ -87,7 +87,7 @@ The shock of embodiment arrived first—weight where weight had been theoretical
 
 The meat noticed things.
 
-The linen of her robe settled against shoulders that had not felt fabric in longer than she could calculate. Her feet registered the cool stone of the church floor—morning, before the sun reached its height, the architecture still holding yesterday's temperature. The scribes glanced at her and registered appropriate deference: dark robe, composed features, the particular stillness of someone who carried authority without requiring it to be spoken.
+The linen of her robe settled against shoulders that had not felt fabric in longer than she could calculate. Her feet registered the cool stone of the church floor—morning, before the sun reached its height, the architecture still holding yesterday's temperature. The scribes glanced at her and registered appropriate deference: dark robe, composed features, the stillness of someone who carried authority without requiring it to be spoken.
 
 *I am Theodora,* she told herself. *Church dignitary. Observer. Strategic asset.*
 
@@ -156,7 +156,7 @@ The observation arrived with the particular clarity she had cultivated across fo
 
 The warmth was always the same. The warmth was always fatal.
 
-In her flat—no, in the Theodora-body she inhabited—she felt his pleasure register as physical sensation. Not her pleasure. His. But the body translated it anyway: the spreading heat through the chest, the loosening of tension she had not known she was holding, the particular satisfaction of being needed.
+In her flat—no, in the Theodora-body she inhabited—she felt his pleasure register as physical sensation. Not her pleasure. His. But the body translated it anyway: the spreading heat through the chest, the loosening of tension she had not known she was holding, the satisfaction of being needed.
 
 *The vessel is affecting perception,* she filed. *Prolonged manifestation creates noise.*
 
@@ -182,7 +182,7 @@ The words arrived in Theophanes's mouth as if he had thought of them himself. He
 
 Macarius's hands trembled.
 
-Just for a moment. A flutter she would have missed if she had not been watching with the particular attention of a body that was also a consciousness threaded through time. His fingers, stilled from their eternal basket-weaving, twitched against the coarse fabric of his robe.
+Just for a moment. A flutter she would have missed if she had not been watching with the attention of a body that was also a consciousness threaded through time. His fingers, stilled from their eternal basket-weaving, twitched against the coarse fabric of his robe.
 
 *He knows.* The recognition flashed. *Somewhere beneath the discipline, he knows what he is doing.*
 
@@ -192,7 +192,7 @@ Days passed. The delegation extended their visit. There was more wisdom to recor
 
 She remained.
 
-In her flat—the awareness of it peripheral, ghostly, barely present—the tea had dried completely. The crystallized remnants sat in the cup like evidence of time she had not tracked. How many days? Manchester registered only as cold and stillness and the position she had maintained in her tracking corner. The Theodora-body was more real now than her own.
+In her flat—the awareness of it peripheral, ghostly, barely present—the light had shifted completely. The grey afternoon sat in the window like evidence of time she had not tracked. How many days? Manchester registered only as cold and stillness and the position she had maintained in her tracking corner. The Theodora-body was more real now than her own.
 
 *Research requires proximity,* she repeated. *Thoroughness requires presence. Strategy demands extended observation.*
 
@@ -231,7 +231,7 @@ And she felt him *feeding*.
 
 The warmth in his chest intensified with each attentive face. His voice found its rhythm—the rhythm of a rhetoric teacher, the rhythm of a man who had spent decades in classrooms before the desert claimed him. He had not forgotten how to hold an audience. He had only convinced himself that holding them for God was different from holding them for himself.
 
-*The rancid-honey taste.* She could feel it on his tongue now, bleeding through the vessel's perception. The sweetness of attention. The sourness of wanting it too much. The particular flavor of gratification that had been building since the delegation arrived.
+*The rancid-honey taste.* She could feel it on his tongue now, bleeding through the vessel's perception. The sweetness of attention. The sourness of wanting it too much. The flavor of gratification that had been building since the delegation arrived.
 
 The speech continued. The monks absorbed every word. The scribes wrote without looking up.
 

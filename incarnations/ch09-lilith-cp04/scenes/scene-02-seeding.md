@@ -2,7 +2,7 @@
 
 ---
 
-The praetor's office smelled of old ink and older ambition. She was inside it now—not observing from distance but pressed against the membrane of the moment, feeling the dust motes hang in morning light, the scrolls packed into honeycombed shelving, the particular weight of accumulated civic anxiety that made the air itself feel documented.
+The praetor's office smelled of old ink and older ambition. She was inside it now—not observing from distance but pressed against the membrane of the moment, feeling the dust motes hang in morning light, the scrolls packed into honeycombed shelving, the weight of accumulated civic anxiety that made the air itself feel documented.
 
 Verinus stood before a table scarred by generations of stylus work. Fresh papyrus lay between him and a freedman whose face had been carved by bureaucratic disappointment into permanent grievance. Somewhere in the back rooms, a clerk was coughing.
 
@@ -44,7 +44,7 @@ If she could fracture his certainty early, destabilize the framework he trusted,
 
 That was the theory. That was the refinement she had developed since Philon.
 
-The headache pulsed once and began to recede. Her tea had gone cold again—or still, she could not say which. The light through her window suggested afternoon, but afternoon of which day? The documentation gaps had grown.
+The headache pulsed once and began to recede. Her posture had stiffened—or always been stiff, she could not say which. The light through her window suggested afternoon, but afternoon of which day? The documentation gaps had grown.
 
 She opened her laptop, fingers finding keys with the same automatic precision that Verinus's fingers found his stylus. Notes. She needed notes. The clinical language would anchor her, would remind her that this was research, that the hunger in her chest was simply engagement with a problem, that the satisfaction settling into her muscles was the natural reward of precision successfully deployed.
 
@@ -66,7 +66,7 @@ This time she was only seeding doubt.
 
 The distinction felt important. She did not ask why she needed it to feel important. She leaned deeper into the thread instead, feeling for the next pressure point, already certain that precision was the answer.
 
-Her headache had faded entirely. Her hands were steady on the keys. The hunger beneath her sternum had not diminished, but she had learned to ignore it—had filed it with the documentation gaps and the cold tea and all the other observations she was making and not attending to.
+Her headache had faded entirely. Her hands were steady on the keys. The hunger beneath her sternum had not diminished, but she had learned to ignore it—had filed it with the documentation gaps and the stiff shoulders and all the other observations she was making and not attending to.
 
 Rome waited in the thread. Verinus was reading the contradictory testimonies, his stylus gripped too tight in his hand, his certainty beginning to tremble.
 

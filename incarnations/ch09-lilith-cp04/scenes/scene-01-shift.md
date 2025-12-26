@@ -4,7 +4,7 @@
 
 The smell changed first.
 
-Pyres gave way to papyrus. The sweet-rot of Athenian plague—bodies stacked and burning, fat rendering into smoke—thinned and cooled and became something else: lamp oil, old ink, the particular mustiness of scrolls stored too long in rooms where men believed certainty was possible. The temperature shifted with the smell, fever-heat receding into the controlled warmth of a brazier, of clay lamps guttering in bronze holders, of a space designed for thinking rather than dying.
+Pyres gave way to papyrus. The sweet-rot of Athenian plague—bodies stacked and burning, fat rendering into smoke—thinned and cooled and became something else: lamp oil, old ink, the mustiness of scrolls stored too long in rooms where men believed certainty was possible. The temperature shifted with the smell, fever-heat receding into the controlled warmth of a brazier, of clay lamps guttering in bronze holders, of a space designed for thinking rather than dying.
 
 In her flat, the transition registered as absence. The plague-stench she had carried from Philon's thread finally released her, and the nothing that replaced it felt like cold water on burned skin.
 
@@ -12,13 +12,13 @@ She opened her eyes. Manchester held its December silence—radiator ticking, ra
 
 The new thread hummed at the edge of perception, and she leaned toward it.
 
-Different from Philon. Different from Chandra's ledgers, different from Ka's primal hunger. This consciousness carried weight she could not immediately name—procedural, exacting, structured like the Roman law it served. She felt the shape of it pressing against her awareness with the particular density of minds that could not rest until disorder became order, until contradictions resolved into coherent narrative, until the messy truths of human testimony aligned into something a man could trust.
+Different from Philon. Different from Chandra's ledgers, different from Ka's primal hunger. This consciousness carried weight she could not immediately name—procedural, exacting, structured like the Roman law it served. She felt the shape of it pressing against her awareness with the density of minds that could not rest until disorder became order, until contradictions resolved into coherent narrative, until the messy truths of human testimony aligned into something a man could trust.
 
 *Verinus.*
 
 Bronze arrived before image. The smooth weight of a stylus in a palm, warm from extended grip. The metal gleamed in her awareness—polished, obsessively maintained, the kind of object that carried meaning beyond function. She felt his fingers find it automatically, felt the compulsion that preceded the action.
 
-She was observing him in a bathhouse. Steam rose from heated water in slow coils, catching lamplight, threading between bodies that moved with the practiced indifference of men who bathed here every dawn. Two citizens argued about grain ships that had arrived at hours neither could verify, and across the pool Verinus stood watching them disagree with the particular attention of someone cataloguing errors he could never correct.
+She was observing him in a bathhouse. Steam rose from heated water in slow coils, catching lamplight, threading between bodies that moved with the practiced indifference of men who bathed here every dawn. Two citizens argued about grain ships that had arrived at hours neither could verify, and across the pool Verinus stood watching them disagree with the attention of someone cataloguing errors he could never correct.
 
 His hand moved to the stylus at his belt. The bronze met his fingers like an anchor—familiar, orderly, unchanged. He began to clean it with a cloth he carried for exactly this purpose, the motion small and rhythmic and utterly insufficient to the contradiction he was witnessing.
 
@@ -48,7 +48,7 @@ The observation filed itself with the others. She leaned closer, feeling the sha
 
 She could work with that.
 
-The rain against her window had shifted—harder now, or softer. She could not say which. The tea beside her laptop held its cold film. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
+The rain against her window had shifted—harder now, or softer. She could not say which. The laptop screen had dimmed to sleep mode, unnoticed. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
 
 *I see what went wrong with Philon. I'll correct.*
 

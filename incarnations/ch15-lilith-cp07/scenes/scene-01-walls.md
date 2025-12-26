@@ -32,7 +32,7 @@ The walls pressed. Toledo walls, Manchester walls, the walls of her own construc
 
 The fit was the problem.
 
-She reached for the thread and the thread was already there—incense-thick, blood-warm, carrying the particular flavour of persecution that tasted the same in any century.
+She reached for the thread and the thread was already there—incense-thick, blood-warm, carrying the flavour of persecution that tasted the same in any century.
 
 She followed. The walls came with her.
 

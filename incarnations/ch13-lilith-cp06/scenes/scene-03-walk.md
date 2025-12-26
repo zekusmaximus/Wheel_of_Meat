@@ -4,7 +4,7 @@ She needed air.
 
 The realization arrived as body-knowledge, bypassing the consciousness that should have intervened: her legs moving before her mind could question, jacket on, door opening, November cold against skin that had been warmth-wrapped for days she couldn't count precisely.
 
-Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the particular smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
+Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
 
 Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the particular appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
 

@@ -4,7 +4,7 @@
 
 Philosophers were arguing in a portico.
 
-The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the particular hunger of a man seeking ground that would not shift beneath him.
+The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the hunger of a man seeking ground that would not shift beneath him.
 
 She let herself sink deeper into the thread.
 
@@ -32,7 +32,7 @@ She had come to observe. She had come to watch his certainty tremble.
 
 She was there.
 
-The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cold tea, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
+The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
 
 Dark-haired. Still. Watching.
 
@@ -46,7 +46,7 @@ She did not smile. She did not look away. She simply watched, the way she had wa
 
 But something was different.
 
-The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the particular quality of his breath when the younger philosopher's words struck home.
+The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the quality of his breath when the younger philosopher's words struck home.
 
 *"Consider the testimony of witnesses,"* the younger man was saying. *"Three people observe a death. Each tells a different story. The investigator examines their accounts with perfect discipline. He seeks the point where their stories converge. But what if there is no such point? What if each witness perceived accurately, within the limits of their perception, and the accounts cannot be reconciled because reality itself is already fractured?"*
 
@@ -86,4 +86,4 @@ The thought surfaced with a strangeness she could not place. It did not feel lik
 
 It felt like something else—something she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
 
-The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the tea grew colder, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
+The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the radiator had stopped ticking, and the boundary between watching and being watched had blurred in a way she would not let herself remember.

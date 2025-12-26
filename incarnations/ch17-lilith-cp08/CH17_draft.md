@@ -62,7 +62,7 @@ One more push toward the fortress she would convince him was wisdom.
 
 # Scene 3: The Companionship
 
-Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the tea on Lilith's desk—as the philosophical conversation deepened toward its intended destination.
+Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the grey light pooling unnoticed on her desk—as the philosophical conversation deepened toward its intended destination.
 
 "The merchant saw Protestant riders," Jean said, and his voice carried the measured weight of a man presenting evidence for examination rather than conviction. "The farmer saw Catholic soldiers. The servant heard Protestant anger. Each testimony internally consistent. Each mutually exclusive."
 
@@ -110,7 +110,7 @@ Jean's hands closed around the document. Through Marguerite's eyes, Lilith watch
 
 The perfect trap.
 
-In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. Cold tea forgotten. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence—both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
+In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. The rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence—both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
 
 The letter established Protestant conspiracy. If genuine. If included in the report.
 
@@ -144,7 +144,7 @@ Jean set down his wine cup. His face held the particular stillness of a man conf
 
 "Is it? Or is it the only honest response to a situation that permits no honest conclusion?"
 
-Manchester receded to body-echo: grey light on closed eyelids, cold tea forgotten hours ago, fingers resting near laptop keys that waited for the next round of research. Lilith's awareness narrowed to the print shop, to Marguerite's mouth forming the words, to Jean's resistance crumbling under the precision of his own doubt.
+Manchester receded to body-echo: grey light on closed eyelids, posture unchanged for hours, fingers resting near laptop keys that waited for the next round of research. Lilith's awareness narrowed to the print shop, to Marguerite's mouth forming the words, to Jean's resistance crumbling under the precision of his own doubt.
 
 *This is it. He's going to accept. Submit nothing. The fortress will hold.*
 
@@ -188,7 +188,7 @@ Through Marguerite's eyes: shock. Through Marguerite's mouth: "And if you are wr
 
 "Then I will have acted honestly about what I did not know." Jean gathered the letter back into his case. His hands were steady now, his posture certain in a way it had not been since the investigation began. "That is not the same as manufacturing false certainty. It is accepting that truthfulness does not require omniscience."
 
-Manchester returned in a crash of sensation: her hands tight around the cold mug, jaw clenched until teeth ached, the laptop glowing with a university page she had not meant to keep open. The flatness of her expression cracking into something she could not name and refused to examine.
+Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, the laptop glowing with a university page she had not meant to keep open. The flatness of her expression cracking into something she could not name and refused to examine.
 
 No.
 
@@ -206,7 +206,7 @@ Clarified. The intellectual precision that should have been hers, deployed again
 
 He left.
 
-And in Manchester, Lilith sat in the grey light of almost-morning with cold tea and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that eight interventions had produced eight backfires, and the pattern was structural.
+And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that eight interventions had produced eight backfires, and the pattern was structural.
 
 The method was sound.
 
@@ -238,7 +238,7 @@ The lesson crystallized bright and terrible in his fading awareness: *If I can d
 
 Hunger. The familiar hunger that preceded karmic transition, that pulled consciousness toward its next expression. Not backward into the life that was ending, but forward into something else. Somewhere ahead—a different century, a different cause—that question would find its answer.
 
-Manchester crept back around her: grey light, cold tea, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
+Manchester crept back around her: grey light, stiff limbs, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
 
 Eight interventions. Eight backfires.
 
@@ -254,7 +254,7 @@ She filed the sensation and reached for the laptop.
 
 Grey Manchester light filtered through curtains she had not opened in days.
 
-The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The particular claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
+The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
 
 Lilith set down the cold tea she had been holding without drinking and poured a fresh cup. This one would also go cold. She knew this with the same certainty she knew Jean de Langon was dead and the lesson was learned and the backfire was complete.
 
