@@ -16,7 +16,7 @@ But Lilith's awareness had pulled back from the thread now, settling into her fl
 
 *The backfires are structural.*
 
-The recognition arrived as body-knowledge, as the particular settling of weight into her chair. Not failure requiring correction. Not imprecision requiring refinement. The mechanism itself. Opposition accelerated what she opposed because opposition was contact, and contact was intimacy, and intimacy was—
+The recognition arrived as body-knowledge, as the settling of weight into her chair. Not failure requiring correction. Not imprecision requiring refinement. The mechanism itself. Opposition accelerated what she opposed because opposition was contact, and contact was intimacy, and intimacy was—
 
 She stopped the thought before it completed.
 

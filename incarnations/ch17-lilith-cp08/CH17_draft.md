@@ -254,7 +254,7 @@ She filed the sensation and reached for the laptop.
 
 Grey Manchester light filtered through curtains she had not opened in days.
 
-The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The particular claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
+The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
 
 Lilith set down the cold tea she had been holding without drinking and poured a fresh cup. This one would also go cold. She knew this with the same certainty she knew Jean de Langon was dead and the lesson was learned and the backfire was complete.
 

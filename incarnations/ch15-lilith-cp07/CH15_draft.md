@@ -34,7 +34,7 @@ The walls pressed. Toledo walls, Manchester walls, the walls of her own construc
 
 The fit was the problem.
 
-She reached for the thread and the thread was already there—incense-thick, blood-warm, carrying the particular flavour of persecution that tasted the same in any century.
+She reached for the thread and the thread was already there—incense-thick, blood-warm, carrying the flavour of persecution that tasted the same in any century.
 
 She followed. The walls came with her.
 
@@ -56,7 +56,7 @@ But Lilith's awareness had pulled back from the thread now, settling into her fl
 
 *The backfires are structural.*
 
-The recognition arrived as body-knowledge, as the particular settling of weight into her chair. Not failure requiring correction. Not imprecision requiring refinement. The mechanism itself. Opposition accelerated what she opposed because opposition was contact, and contact was intimacy, and intimacy was—
+The recognition arrived as body-knowledge, as the settling of weight into her chair. Not failure requiring correction. Not imprecision requiring refinement. The mechanism itself. Opposition accelerated what she opposed because opposition was contact, and contact was intimacy, and intimacy was—
 
 She stopped the thought before it completed.
 

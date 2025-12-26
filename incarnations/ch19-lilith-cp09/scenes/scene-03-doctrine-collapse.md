@@ -20,7 +20,7 @@ The dysentery outbreak started three days later.
 
 Fifty cases in Wei's ward. No medicine. No clean water. The latrines had overflowed and the wells were contaminated and the disease spread through the West Ward like fire through paper, reducing people who were already meat and bone to something less—bodies that voided themselves of what little substance remained, that dehydrated into husks, that died with their mouths open and their eyes fixed on nothing.
 
-Wei worked. Boiled rags for compresses. Used ash to pack wounds. Held basins while people retched. The smell saturated everything—shit and rot and the particular sourness of systems failing. In Manchester the rain brought its own smell through the window Lilith had cracked open: petrichor and diesel, urban autumn, the scent of nothing dying because nothing here was that close to death yet.
+Wei worked. Boiled rags for compresses. Used ash to pack wounds. Held basins while people retched. The smell saturated everything—shit and rot and the sourness of systems failing. In Manchester the rain brought its own smell through the window Lilith had cracked open: petrichor and diesel, urban autumn, the scent of nothing dying because nothing here was that close to death yet.
 
 But the pressure in her chest built anyway.
 

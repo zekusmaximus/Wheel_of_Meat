@@ -58,7 +58,7 @@ They killed him first.
 
 Spear through the chest—quick thrust, professional, the soldier who did it had done it before and knew the angle. Wei felt the pressure before pain, the wrongness of foreign object in the architecture of his body, the wetness spreading, the legs giving way.
 
-He fell. Back hit stone. Ceiling visible above him—temple beams, dust motes in slanted light, smoke drifting through open doors. The smell was incense and blood and the particular sourness of bodies voiding under stress. Sound was screaming—the wounded being killed, the soldiers working methodically through the room—and his own breathing, wet and labored and failing.
+He fell. Back hit stone. Ceiling visible above him—temple beams, dust motes in slanted light, smoke drifting through open doors. The smell was incense and blood and the sourness of bodies voiding under stress. Sound was screaming—the wounded being killed, the soldiers working methodically through the room—and his own breathing, wet and labored and failing.
 
 The boy whose hand he'd been holding screamed. Cut off mid-syllable.
 

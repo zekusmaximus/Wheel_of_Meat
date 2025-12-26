@@ -4,7 +4,7 @@
 
 Philosophers were arguing in a portico.
 
-The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the particular hunger of a man seeking ground that would not shift beneath him.
+The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the hunger of a man seeking ground that would not shift beneath him.
 
 She let herself sink deeper into the thread.
 
@@ -46,7 +46,7 @@ She did not smile. She did not look away. She simply watched, the way she had wa
 
 But something was different.
 
-The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the particular quality of his breath when the younger philosopher's words struck home.
+The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the quality of his breath when the younger philosopher's words struck home.
 
 *"Consider the testimony of witnesses,"* the younger man was saying. *"Three people observe a death. Each tells a different story. The investigator examines their accounts with perfect discipline. He seeks the point where their stories converge. But what if there is no such point? What if each witness perceived accurately, within the limits of their perception, and the accounts cannot be reconciled because reality itself is already fractured?"*
 

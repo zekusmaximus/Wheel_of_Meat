@@ -22,7 +22,7 @@ Heat arrived before image. The pressure of Egyptian midday, thick and visible, s
 
 She was observing him in his cell. Four paces by three. Reed mat for sleeping, water jug for thirst, rough wooden cross for focus. Palm fronds piled in the corner, the material for his daily work: split, twist, weave, pull tight. Baskets accumulating in the space beneath the window—evidence of years, of discipline, of a routine so ingrained it had become invisible to the man who performed it.
 
-His hands moved through the weaving with the particular attention of someone who had made thousands of baskets and would make thousands more. The rhythm was meditative, or it was meant to be. But she could feel something else beneath the motion—a precision that served a purpose the baskets did not require.
+His hands moved through the weaving with the attention of someone who had made thousands of baskets and would make thousands more. The rhythm was meditative, or it was meant to be. But she could feel something else beneath the motion—a precision that served a purpose the baskets did not require.
 
 *He cannot abide stillness. The weaving is his anchor.*
 
@@ -38,7 +38,7 @@ The advice landed in the young monk like rain on parched stone—gratitude flood
 
 She recognized the warmth.
 
-Philon had carried it when students gathered around him in the agora. Chandra had carried it when the Emperor's ministers sought his counsel. The particular satisfaction of being needed, of having words that mattered, of holding what others lacked.
+Philon had carried it when students gathered around him in the agora. Chandra had carried it when the Emperor's ministers sought his counsel. The satisfaction of being needed, of having words that mattered, of holding what others lacked.
 
 *He is nearer than I expected.*
 

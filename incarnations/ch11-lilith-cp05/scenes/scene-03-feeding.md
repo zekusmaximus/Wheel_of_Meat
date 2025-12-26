@@ -12,11 +12,11 @@ She felt the shift first as posture—the subtle adjustment of a body that belie
 
 *He is warming to this.*
 
-The observation arrived with the particular clarity she had cultivated across four iterations. Ka warming to the meat he would not share. Chandra warming to the counsel that made him indispensable. Philon warming to the students who gathered in the plague-stink to hear him teach. Verinus warming to the cases where his precision proved correct.
+The observation arrived with the clarity she had cultivated across four iterations. Ka warming to the meat he would not share. Chandra warming to the counsel that made him indispensable. Philon warming to the students who gathered in the plague-stink to hear him teach. Verinus warming to the cases where his precision proved correct.
 
 The warmth was always the same. The warmth was always fatal.
 
-In her flat—no, in the Theodora-body she inhabited—she felt his pleasure register as physical sensation. Not her pleasure. His. But the body translated it anyway: the spreading heat through the chest, the loosening of tension she had not known she was holding, the particular satisfaction of being needed.
+In her flat—no, in the Theodora-body she inhabited—she felt his pleasure register as physical sensation. Not her pleasure. His. But the body translated it anyway: the spreading heat through the chest, the loosening of tension she had not known she was holding, the satisfaction of being needed.
 
 *The vessel is affecting perception,* she filed. *Prolonged manifestation creates noise.*
 
@@ -42,7 +42,7 @@ The words arrived in Theophanes's mouth as if he had thought of them himself. He
 
 Macarius's hands trembled.
 
-Just for a moment. A flutter she would have missed if she had not been watching with the particular attention of a body that was also a consciousness threaded through time. His fingers, stilled from their eternal basket-weaving, twitched against the coarse fabric of his robe.
+Just for a moment. A flutter she would have missed if she had not been watching with the attention of a body that was also a consciousness threaded through time. His fingers, stilled from their eternal basket-weaving, twitched against the coarse fabric of his robe.
 
 *He knows.* The recognition flashed. *Somewhere beneath the discipline, he knows what he is doing.*
 

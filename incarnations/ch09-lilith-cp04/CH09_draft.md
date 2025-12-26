@@ -6,7 +6,7 @@
 
 The smell changed first.
 
-Pyres gave way to papyrus. The sweet-rot of Athenian plague—bodies stacked and burning, fat rendering into smoke—thinned and cooled and became something else: lamp oil, old ink, the particular mustiness of scrolls stored too long in rooms where men believed certainty was possible. The temperature shifted with the smell, fever-heat receding into the controlled warmth of a brazier, of clay lamps guttering in bronze holders, of a space designed for thinking rather than dying.
+Pyres gave way to papyrus. The sweet-rot of Athenian plague—bodies stacked and burning, fat rendering into smoke—thinned and cooled and became something else: lamp oil, old ink, the mustiness of scrolls stored too long in rooms where men believed certainty was possible. The temperature shifted with the smell, fever-heat receding into the controlled warmth of a brazier, of clay lamps guttering in bronze holders, of a space designed for thinking rather than dying.
 
 In her flat, the transition registered as absence. The plague-stench she had carried from Philon's thread finally released her, and the nothing that replaced it felt like cold water on burned skin.
 
@@ -14,13 +14,13 @@ She opened her eyes. Manchester held its December silence—radiator ticking, ra
 
 The new thread hummed at the edge of perception, and she leaned toward it.
 
-Different from Philon. Different from Chandra's ledgers, different from Ka's primal hunger. This consciousness carried weight she could not immediately name—procedural, exacting, structured like the Roman law it served. She felt the shape of it pressing against her awareness with the particular density of minds that could not rest until disorder became order, until contradictions resolved into coherent narrative, until the messy truths of human testimony aligned into something a man could trust.
+Different from Philon. Different from Chandra's ledgers, different from Ka's primal hunger. This consciousness carried weight she could not immediately name—procedural, exacting, structured like the Roman law it served. She felt the shape of it pressing against her awareness with the density of minds that could not rest until disorder became order, until contradictions resolved into coherent narrative, until the messy truths of human testimony aligned into something a man could trust.
 
 *Verinus.*
 
 Bronze arrived before image. The smooth weight of a stylus in a palm, warm from extended grip. The metal gleamed in her awareness—polished, obsessively maintained, the kind of object that carried meaning beyond function. She felt his fingers find it automatically, felt the compulsion that preceded the action.
 
-She was observing him in a bathhouse. Steam rose from heated water in slow coils, catching lamplight, threading between bodies that moved with the practiced indifference of men who bathed here every dawn. Two citizens argued about grain ships that had arrived at hours neither could verify, and across the pool Verinus stood watching them disagree with the particular attention of someone cataloguing errors he could never correct.
+She was observing him in a bathhouse. Steam rose from heated water in slow coils, catching lamplight, threading between bodies that moved with the practiced indifference of men who bathed here every dawn. Two citizens argued about grain ships that had arrived at hours neither could verify, and across the pool Verinus stood watching them disagree with the attention of someone cataloguing errors he could never correct.
 
 His hand moved to the stylus at his belt. The bronze met his fingers like an anchor—familiar, orderly, unchanged. He began to clean it with a cloth he carried for exactly this purpose, the motion small and rhythmic and utterly insufficient to the contradiction he was witnessing.
 
@@ -66,7 +66,7 @@ Both of them were cleaning their tools against a disorder that would not be clea
 
 ## II
 
-The praetor's office smelled of old ink and older ambition. She was inside it now—not observing from distance but pressed against the membrane of the moment, feeling the dust motes hang in morning light, the scrolls packed into honeycombed shelving, the particular weight of accumulated civic anxiety that made the air itself feel documented.
+The praetor's office smelled of old ink and older ambition. She was inside it now—not observing from distance but pressed against the membrane of the moment, feeling the dust motes hang in morning light, the scrolls packed into honeycombed shelving, the weight of accumulated civic anxiety that made the air itself feel documented.
 
 Verinus stood before a table scarred by generations of stylus work. Fresh papyrus lay between him and a freedman whose face had been carved by bureaucratic disappointment into permanent grievance. Somewhere in the back rooms, a clerk was coughing.
 
@@ -142,7 +142,7 @@ She watched. She waited. She told herself that watching and waiting were enough.
 
 Philosophers were arguing in a portico.
 
-The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the particular hunger of a man seeking ground that would not shift beneath him.
+The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the hunger of a man seeking ground that would not shift beneath him.
 
 She let herself sink deeper into the thread.
 
@@ -184,7 +184,7 @@ She did not smile. She did not look away. She simply watched, the way she had wa
 
 But something was different.
 
-The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the particular quality of his breath when the younger philosopher's words struck home.
+The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the quality of his breath when the younger philosopher's words struck home.
 
 *"Consider the testimony of witnesses,"* the younger man was saying. *"Three people observe a death. Each tells a different story. The investigator examines their accounts with perfect discipline. He seeks the point where their stories converge. But what if there is no such point? What if each witness perceived accurately, within the limits of their perception, and the accounts cannot be reconciled because reality itself is already fractured?"*
 
@@ -246,7 +246,7 @@ But the choosing had a purpose. Her choosing had a purpose. She was directing hi
 
 The butcher and the merchant were arguing in the Forum Boarium.
 
-She had triggered it hours ago—or days, or minutes, time moved strangely now—a small nudge in the probability space where commercial resentment lived. The butcher's awning. The merchant's cart. The particular volume of Roman grievance that could block traffic for longer than rational calculation would suggest.
+She had triggered it hours ago—or days, or minutes, time moved strangely now—a small nudge in the probability space where commercial resentment lived. The butcher's awning. The merchant's cart. The volume of Roman grievance that could block traffic for longer than rational calculation would suggest.
 
 Verinus was trying to reach the praetor's office. A witness was waiting—the cook, finally willing to speak, carrying information that might reconcile the impossible timeline. Every moment of delay gave her time to reshape memory, gave uncertainty time to erode certainty, gave the investigation one more push toward incoherence.
 
@@ -296,7 +296,7 @@ Not hard—she had learned the value of precision—but steady, focused, weighte
 
 The words came too loud, too fast. Something had been loosened that could not be contained. In the tribunal chamber, the praetor's face went grey. In her flat—she was in her flat again, wasn't she?—her hands gripped the chair arms and she watched the machinery complete its turning.
 
-Verinus was exiled. The sentence came within hours, delivered with the particular efficiency of Roman political revenge. *Relegatio*—removal from Rome, stranding in some coastal province, the end of everything he had built over forty years of careful service.
+Verinus was exiled. The sentence came within hours, delivered with the efficiency of Roman political revenge. *Relegatio*—removal from Rome, stranding in some coastal province, the end of everything he had built over forty years of careful service.
 
 The senator meant to break him. She had meant to break him. A man marooned without certainty, without structure, without the investigation that had given his life meaning—such a man should collapse into cynicism, should learn that virtue was arbitrary and power was the only truth.
 
@@ -318,7 +318,7 @@ The chamber emptied. Marcus walked away with grief in his spine. Verinus gathere
 
 She watched him go.
 
-In Manchester, something cold moved through her chest. The tea beside her laptop had developed ice. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the particular emptiness of a space where something had been let go.
+In Manchester, something cold moved through her chest. The tea beside her laptop had developed ice. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the emptiness of a space where something had been let go.
 
 He was supposed to break. He was not supposed to choose.
 

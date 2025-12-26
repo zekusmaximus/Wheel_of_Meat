@@ -18,7 +18,7 @@ But the choosing had a purpose. Her choosing had a purpose. She was directing hi
 
 The butcher and the merchant were arguing in the Forum Boarium.
 
-She had triggered it hours ago—or days, or minutes, time moved strangely now—a small nudge in the probability space where commercial resentment lived. The butcher's awning. The merchant's cart. The particular volume of Roman grievance that could block traffic for longer than rational calculation would suggest.
+She had triggered it hours ago—or days, or minutes, time moved strangely now—a small nudge in the probability space where commercial resentment lived. The butcher's awning. The merchant's cart. The volume of Roman grievance that could block traffic for longer than rational calculation would suggest.
 
 Verinus was trying to reach the praetor's office. A witness was waiting—the cook, finally willing to speak, carrying information that might reconcile the impossible timeline. Every moment of delay gave her time to reshape memory, gave uncertainty time to erode certainty, gave the investigation one more push toward incoherence.
 
@@ -68,7 +68,7 @@ Not hard—she had learned the value of precision—but steady, focused, weighte
 
 The words came too loud, too fast. Something had been loosened that could not be contained. In the tribunal chamber, the praetor's face went grey. In her flat—she was in her flat again, wasn't she?—her hands gripped the chair arms and she watched the machinery complete its turning.
 
-Verinus was exiled. The sentence came within hours, delivered with the particular efficiency of Roman political revenge. *Relegatio*—removal from Rome, stranding in some coastal province, the end of everything he had built over forty years of careful service.
+Verinus was exiled. The sentence came within hours, delivered with the efficiency of Roman political revenge. *Relegatio*—removal from Rome, stranding in some coastal province, the end of everything he had built over forty years of careful service.
 
 The senator meant to break him. She had meant to break him. A man marooned without certainty, without structure, without the investigation that had given his life meaning—such a man should collapse into cynicism, should learn that virtue was arbitrary and power was the only truth.
 
@@ -90,7 +90,7 @@ The chamber emptied. Marcus walked away with grief in his spine. Verinus gathere
 
 She watched him go.
 
-In Manchester, something cold moved through her chest. The tea beside her laptop had developed ice. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the particular emptiness of a space where something had been let go.
+In Manchester, something cold moved through her chest. The tea beside her laptop had developed ice. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the emptiness of a space where something had been let go.
 
 He was supposed to break. He was not supposed to choose.
 

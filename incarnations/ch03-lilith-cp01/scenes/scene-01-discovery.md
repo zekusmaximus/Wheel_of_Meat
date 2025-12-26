@@ -8,7 +8,7 @@ The kettle screamed and the wind screamed, steam rising from the spout as white-
 
 She had not meant to find this.
 
-The flat held its particular silence: radiator ticking, rain against the window, the distant arterial hum of Oxford Road at two in the morning. But beneath this silence another pressed—the silence of a world before language, before cities, before the concept of silence itself. She had been reaching for her own patterns, the familiar threads of the Alexandria physician and the Crimean nurse and the washerwoman whose memories surfaced only in the smell of lye. Instead she had found something else.
+The flat held its silence: radiator ticking, rain against the window, the distant arterial hum of Oxford Road at two in the morning. But beneath this silence another pressed—the silence of a world before language, before cities, before the concept of silence itself. She had been reaching for her own patterns, the familiar threads of the Alexandria physician and the Crimean nurse and the washerwoman whose memories surfaced only in the smell of lye. Instead she had found something else.
 
 Someone else.
 
