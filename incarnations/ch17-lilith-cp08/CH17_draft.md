@@ -206,7 +206,7 @@ Clarified. The intellectual precision that should have been hers, deployed again
 
 He left.
 
-And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that eight interventions had produced eight backfires, and the pattern was structural.
+And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that numerous interventions had produced as many backfires, and the pattern was structural.
 
 The method was sound.
 
@@ -240,7 +240,7 @@ Hunger. The familiar hunger that preceded karmic transition, that pulled conscio
 
 Manchester crept back around her: grey light, stiff limbs, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
 
-Eight interventions. Eight backfires.
+Intervention after intervention. Backfire after backfire.
 
 The precision itself had created the friction that forged his breakthrough.
 
@@ -258,7 +258,7 @@ The flat felt smaller than it was—not physically, but perceptually. Walls pres
 
 Lilith set down the cold tea she had been holding without drinking and poured a fresh cup. This one would also go cold. She knew this with the same certainty she knew Jean de Langon was dead and the lesson was learned and the backfire was complete.
 
-Eight interventions. Eight structural failures.
+Numerous interventions. All structural failures.
 
 Her fingers moved across laptop keys. The University of Manchester philosophy department page gave way to faculty listings. Course schedules. Campus maps showing buildings she had memorized without acknowledging why.
 
