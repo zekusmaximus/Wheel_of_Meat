@@ -2976,8 +2976,45 @@
       ],
       "function": "Final historical intervention fails despite full power; realization historical approach cannot work; the pivot that sets up Chapter 1; end of compressed 8-10 week tracking period; decision to pursue intimacy strategy",
       "word_target": 3500,
-      "scenes": [],
-      "status": "needs_complete_reconception",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Loose Weave",
+          "file": "scene-01-loose-weave.md",
+          "word_count": 520,
+          "status": "drafted"
+        },
+        {
+          "section": "II",
+          "title": "Tightening",
+          "file": "scene-02-tightening.md",
+          "word_count": 680,
+          "status": "drafted"
+        },
+        {
+          "section": "III",
+          "title": "The Flood",
+          "file": "scene-03-the-flood.md",
+          "word_count": 850,
+          "status": "drafted"
+        },
+        {
+          "section": "IV",
+          "title": "Death/Sighting - The Superposition",
+          "file": "scene-04-death-sighting.md",
+          "word_count": 900,
+          "status": "drafted"
+        },
+        {
+          "section": "V",
+          "title": "The Pivot",
+          "file": "scene-05-the-pivot.md",
+          "word_count": 750,
+          "status": "drafted"
+        }
+      ],
+      "total_word_count": 3700,
+      "status": "drafted",
       "critical_note": "This chapter shows INITIAL CONTACT with Silas—making his acquaintance while simultaneously tracking Jack Malone's death. The established, intimate relationship develops in the gap between this chapter and Chapter 1. Two timelines: Manchester present (meeting Silas, possibly setting up new flat near campus) + 1938 LA (Jack Malone's death, catastrophic backfire)."
     },
     {
