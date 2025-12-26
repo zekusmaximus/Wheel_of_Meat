@@ -12,7 +12,7 @@ Jean set down his wine cup. His face held the particular stillness of a man conf
 
 "Is it? Or is it the only honest response to a situation that permits no honest conclusion?"
 
-Manchester receded to body-echo: grey light on closed eyelids, cold tea forgotten hours ago, fingers resting near laptop keys that waited for the next round of research. Lilith's awareness narrowed to the print shop, to Marguerite's mouth forming the words, to Jean's resistance crumbling under the precision of his own doubt.
+Manchester receded to body-echo: grey light on closed eyelids, posture unchanged for hours, fingers resting near laptop keys that waited for the next round of research. Lilith's awareness narrowed to the print shop, to Marguerite's mouth forming the words, to Jean's resistance crumbling under the precision of his own doubt.
 
 *This is it. He's going to accept. Submit nothing. The fortress will hold.*
 

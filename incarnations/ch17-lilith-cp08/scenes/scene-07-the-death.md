@@ -22,7 +22,7 @@ The lesson crystallized bright and terrible in his fading awareness: *If I can d
 
 Hunger. The familiar hunger that preceded karmic transition, that pulled consciousness toward its next expression. Not backward into the life that was ending, but forward into something else. Somewhere ahead—a different century, a different cause—that question would find its answer.
 
-Manchester crept back around her: grey light, cold tea, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
+Manchester crept back around her: grey light, stiff limbs, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
 
 Eight interventions. Eight backfires.
 

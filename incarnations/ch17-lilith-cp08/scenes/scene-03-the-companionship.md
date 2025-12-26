@@ -1,6 +1,6 @@
 # Scene 3: The Companionship
 
-Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the tea on Lilith's desk—as the philosophical conversation deepened toward its intended destination.
+Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the grey light pooling unnoticed on her desk—as the philosophical conversation deepened toward its intended destination.
 
 "The merchant saw Protestant riders," Jean said, and his voice carried the measured weight of a man presenting evidence for examination rather than conviction. "The farmer saw Catholic soldiers. The servant heard Protestant anger. Each testimony internally consistent. Each mutually exclusive."
 
