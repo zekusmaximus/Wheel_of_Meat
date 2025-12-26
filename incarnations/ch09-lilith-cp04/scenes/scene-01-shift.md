@@ -48,7 +48,7 @@ The observation filed itself with the others. She leaned closer, feeling the sha
 
 She could work with that.
 
-The rain against her window had shifted—harder now, or softer. She could not say which. The tea beside her laptop held its cold film. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
+The rain against her window had shifted—harder now, or softer. She could not say which. The laptop screen had dimmed to sleep mode, unnoticed. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
 
 *I see what went wrong with Philon. I'll correct.*
 

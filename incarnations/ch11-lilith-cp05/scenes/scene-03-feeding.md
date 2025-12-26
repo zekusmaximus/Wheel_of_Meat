@@ -52,7 +52,7 @@ Days passed. The delegation extended their visit. There was more wisdom to recor
 
 She remained.
 
-In her flat—the awareness of it peripheral, ghostly, barely present—the tea had dried completely. The crystallized remnants sat in the cup like evidence of time she had not tracked. How many days? Manchester registered only as cold and stillness and the position she had maintained in her tracking corner. The Theodora-body was more real now than her own.
+In her flat—the awareness of it peripheral, ghostly, barely present—the light had shifted completely. The grey afternoon sat in the window like evidence of time she had not tracked. How many days? Manchester registered only as cold and stillness and the position she had maintained in her tracking corner. The Theodora-body was more real now than her own.
 
 *Research requires proximity,* she repeated. *Thoroughness requires presence. Strategy demands extended observation.*
 

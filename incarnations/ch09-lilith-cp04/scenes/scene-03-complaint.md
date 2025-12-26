@@ -32,7 +32,7 @@ She had come to observe. She had come to watch his certainty tremble.
 
 She was there.
 
-The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cold tea, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
+The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
 
 Dark-haired. Still. Watching.
 
@@ -86,4 +86,4 @@ The thought surfaced with a strangeness she could not place. It did not feel lik
 
 It felt like something else—something she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
 
-The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the tea grew colder, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
+The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the radiator had stopped ticking, and the boundary between watching and being watched had blurred in a way she would not let herself remember.

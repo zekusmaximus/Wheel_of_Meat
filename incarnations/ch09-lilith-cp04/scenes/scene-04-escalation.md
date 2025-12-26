@@ -90,7 +90,7 @@ The chamber emptied. Marcus walked away with grief in his spine. Verinus gathere
 
 She watched him go.
 
-In Manchester, something cold moved through her chest. The tea beside her laptop had developed ice. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the emptiness of a space where something had been let go.
+In Manchester, something cold moved through her chest. Her breath had gone shallow in the cold flat. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the emptiness of a space where something had been let go.
 
 He was supposed to break. He was not supposed to choose.
 

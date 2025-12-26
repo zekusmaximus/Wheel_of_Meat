@@ -50,7 +50,7 @@ The observation filed itself with the others. She leaned closer, feeling the sha
 
 She could work with that.
 
-The rain against her window had shifted—harder now, or softer. She could not say which. The tea beside her laptop held its cold film. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
+The rain against her window had shifted—harder now, or softer. She could not say which. The laptop screen had dimmed to sleep mode, unnoticed. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
 
 *I see what went wrong with Philon. I'll correct.*
 
@@ -108,7 +108,7 @@ If she could fracture his certainty early, destabilize the framework he trusted,
 
 That was the theory. That was the refinement she had developed since Philon.
 
-The headache pulsed once and began to recede. Her tea had gone cold again—or still, she could not say which. The light through her window suggested afternoon, but afternoon of which day? The documentation gaps had grown.
+The headache pulsed once and began to recede. Her posture had stiffened—or always been stiff, she could not say which. The light through her window suggested afternoon, but afternoon of which day? The documentation gaps had grown.
 
 She opened her laptop, fingers finding keys with the same automatic precision that Verinus's fingers found his stylus. Notes. She needed notes. The clinical language would anchor her, would remind her that this was research, that the hunger in her chest was simply engagement with a problem, that the satisfaction settling into her muscles was the natural reward of precision successfully deployed.
 
@@ -130,7 +130,7 @@ This time she was only seeding doubt.
 
 The distinction felt important. She did not ask why she needed it to feel important. She leaned deeper into the thread instead, feeling for the next pressure point, already certain that precision was the answer.
 
-Her headache had faded entirely. Her hands were steady on the keys. The hunger beneath her sternum had not diminished, but she had learned to ignore it—had filed it with the documentation gaps and the cold tea and all the other observations she was making and not attending to.
+Her headache had faded entirely. Her hands were steady on the keys. The hunger beneath her sternum had not diminished, but she had learned to ignore it—had filed it with the documentation gaps and the stiff shoulders and all the other observations she was making and not attending to.
 
 Rome waited in the thread. Verinus was reading the contradictory testimonies, his stylus gripped too tight in his hand, his certainty beginning to tremble.
 
@@ -170,7 +170,7 @@ She had come to observe. She had come to watch his certainty tremble.
 
 She was there.
 
-The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cold tea, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
+The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
 
 Dark-haired. Still. Watching.
 
@@ -224,7 +224,7 @@ The thought surfaced with a strangeness she could not place. It did not feel lik
 
 It felt like something else—something she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
 
-The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the tea grew colder, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
+The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the radiator had stopped ticking, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
 
 ---
 
@@ -318,7 +318,7 @@ The chamber emptied. Marcus walked away with grief in his spine. Verinus gathere
 
 She watched him go.
 
-In Manchester, something cold moved through her chest. The tea beside her laptop had developed ice. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the emptiness of a space where something had been let go.
+In Manchester, something cold moved through her chest. Her breath had gone shallow in the cold flat. The radiator had stopped ticking. The flat held a silence that felt less like stillness and more like absence—the emptiness of a space where something had been let go.
 
 He was supposed to break. He was not supposed to choose.
 
