@@ -3046,8 +3046,82 @@
         "rites_rituals"
       ],
       "word_target": 10000,
-      "scenes": [],
-      "status": "outlined"
+      "total_word_count": 9338,
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Chain",
+          "file": "scene-01-the-chain.md",
+          "word_count": 2400,
+          "function": "Stream-entry moment; chain of three bodies; Lilith's recognition",
+          "status": "drafted"
+        },
+        {
+          "section": "II",
+          "title": "The Aftermath",
+          "file": "scene-02-aftermath.md",
+          "word_count": 800,
+          "function": "Processing on rooftop; cracked masks; professional reassertion",
+          "status": "drafted"
+        },
+        {
+          "section": "III",
+          "title": "Paramedics Arrive",
+          "file": "scene-03-paramedics.md",
+          "word_count": 600,
+          "function": "Institutional intervention; wordless exchange; Lilith departs",
+          "status": "drafted"
+        },
+        {
+          "section": "IV",
+          "title": "Silas Alone on Rooftop",
+          "file": "scene-04-silas-alone.md",
+          "word_count": 800,
+          "function": "Internal processing; helper identity absent; first past-life flickers",
+          "status": "drafted"
+        },
+        {
+          "section": "V",
+          "title": "Silas Wakes at Home",
+          "file": "scene-05-wakes-home.md",
+          "word_count": 1100,
+          "function": "Morning after; stream-entry as new baseline; ordinary made luminous",
+          "status": "drafted"
+        },
+        {
+          "section": "VI",
+          "title": "Past Lives Flow",
+          "file": "scene-06-past-lives.md",
+          "word_count": 1500,
+          "function": "Ten lives flowing; genres dissolving; wheel visible",
+          "status": "drafted"
+        },
+        {
+          "section": "VII",
+          "title": "He Sees Her",
+          "file": "scene-07-he-sees-her.md",
+          "word_count": 1000,
+          "function": "Recognition of Lilith's face across all lives; mystery deepens",
+          "status": "drafted"
+        },
+        {
+          "section": "VIII",
+          "title": "The Connection Sensed",
+          "file": "scene-08-connection-sensed.md",
+          "word_count": 750,
+          "function": "Sensing Lilith despite separation; boundary dissolution",
+          "status": "drafted"
+        },
+        {
+          "section": "IX",
+          "title": "The Door Opens",
+          "file": "scene-09-door-opens.md",
+          "word_count": 900,
+          "function": "Chapter ending; threshold crossed; forward momentum into Act IV",
+          "status": "drafted"
+        }
+      ],
+      "status": "drafted"
     },
     {
       "chapter": 23,
