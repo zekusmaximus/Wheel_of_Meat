@@ -28,7 +28,7 @@ She stopped. The thought was inadmissible. She had tracked ten incarnations now.
 
 *What if I focused on my own liberation?*
 
-The second thought arrived harder. Sharper. She was so close. One fetter remaining. If she couldn't stop him—
+The second thought arrived harder. Sharper. She was so close. One knot remaining. If she couldn't stop him—
 
 She filed the thought before it completed. Strategy. Refinement. The pattern required adjustment, not abandonment.
 

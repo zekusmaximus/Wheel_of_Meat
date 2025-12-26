@@ -26,7 +26,7 @@ She could feel it still. The comfort of conviction.
 
 *I need to focus on my own escape.*
 
-The thought surfaced without permission. She was close—one fetter remaining, the same threshold he approached from a different angle. If every intervention accelerated him, perhaps acceleration was not the variable requiring adjustment. Perhaps the answer was not better opposition but parallel motion.
+The thought surfaced without permission. She was close—one knot remaining, the same threshold he approached from a different angle. If every intervention accelerated him, perhaps acceleration was not the variable requiring adjustment. Perhaps the answer was not better opposition but parallel motion.
 
 Racing rather than blocking.
 

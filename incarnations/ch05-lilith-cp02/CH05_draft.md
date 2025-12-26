@@ -174,4 +174,4 @@ The phrase settled into her like a promise. She filed the hesitation she had fel
 
 She leaned toward the next thread.
 
-The flat emptied behind her, and the tea grew cold, and somewhere in the pattern of her own consciousness a fetter tightened without her notice.
+The flat emptied behind her, and the tea grew cold, and somewhere in the pattern of her own consciousness a knot tightened without her notice.

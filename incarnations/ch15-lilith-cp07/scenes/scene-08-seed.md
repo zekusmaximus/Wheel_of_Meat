@@ -18,7 +18,7 @@ The recognition was not new. But it was *real* now—visceral, somatic, written 
 
 The wheel was real. She had felt it turn. She had felt the centuries of her own circling press against the centuries of his, two threads spiraling toward the same threshold from different angles.
 
-She was close. One fetter remaining.
+She was close. One knot remaining.
 
 So was he. And he was closing faster.
 
