@@ -178,7 +178,7 @@ The trying was not nothing.
 
 I felt something loosen in my chest. Not the broken ribs, not the collapsing lungs. Something else. A chain I'd been carrying so long I'd forgotten it was there. The need to be the one who fixed things, saved things, made the difference—a grip I'd held so tight my fingers had gone numb.
 
-The fetter of identity. The belief that there was a "me" separate from the trying, a self that needed to be preserved and protected and proven right.
+The chain of identity. The belief that there was a "me" separate from the trying, a self that needed to be preserved and protected and proven right.
 
 It was loosening. Almost breaking. One more push, one more life, and it would snap.
 

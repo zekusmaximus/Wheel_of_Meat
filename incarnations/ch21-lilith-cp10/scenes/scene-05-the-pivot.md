@@ -60,7 +60,7 @@ She thought: This time. This time I'll be close enough.
 
 The reader knows what she cannot see: this is the moment she binds herself.
 
-The intimacy strategy that will be the most powerful accelerant of all. The binding that will bind her, not him. The approach that will become need that will become the final fetter made flesh, made relationship, made the thing she must release before the threshold can open.
+The intimacy strategy that will be the most powerful accelerant of all. The binding that will bind her, not him. The approach that will become need that will become the final bind made flesh, made relationship, made the thing she must release before the threshold can open.
 
 But she doesn't see it. Can't see it. The blind spot is perfect, protected by the very competence that lets her see everyone else's attachments while remaining invisible to her own.
 

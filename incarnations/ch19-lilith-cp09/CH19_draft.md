@@ -600,7 +600,7 @@ Somewhere beneath her sustained competence, beneath the clinical precision that 
 
 Not seeking him. Or not only seeking him.
 
-Seeking the thing that remained. The obstacle she hadn't identified. The final fetter that kept her on this side of the threshold she'd been approaching for longer than she could remember.
+Seeking the thing that remained. The obstacle she hadn't identified. The final knot that kept her on this side of the threshold she'd been approaching for longer than she could remember.
 
 She knew the question: *What am I still grasping?*
 
@@ -616,7 +616,7 @@ The blind spot was perfect. Complete. Protected by the very competence that made
 
 Could not turn that sight toward herself.
 
-Could not see that the nine interventions were grasping. That the tracking was grasping. That the race was grasping. That standing outside his building with certainty she needed to meet him, needed to bind him, needed to prevent his achievement was the final fetter made flesh, made strategy, made the thing she'd been seeking without recognizing it was already found.
+Could not see that the nine interventions were grasping. That the tracking was grasping. That the race was grasping. That standing outside his building with certainty she needed to meet him, needed to bind him, needed to prevent his achievement was the final bind made flesh, made strategy, made the thing she'd been seeking without recognizing it was already found.
 
 *It must be something else,* she thought. *I haven't found it yet.*
 

@@ -1,4 +1,4 @@
-# Scene V: The Fetter Beat + Forward
+# Scene V: The Knot Beat + Forward
 
 *The pull toward him is tactical.*
 
@@ -20,7 +20,7 @@ Her hands were still warm. The flat still arranged. Through the window, Manchest
 
 *What if I focused on my own liberation?*
 
-The thought returned. Louder now. She was so close—one fetter remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him—if every intervention only accelerated what she intended to slow—
+The thought returned. Louder now. She was so close—one knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him—if every intervention only accelerated what she intended to slow—
 
 *No.*
 

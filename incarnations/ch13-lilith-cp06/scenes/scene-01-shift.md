@@ -12,7 +12,7 @@ Rain against the window. Rain against shōji screens. Both sounds meaning autumn
 
 She had never liked autumn. She understood now—watching him understand, feeling him feel—that autumn was the only honest season. Everything else was pretending not to die.
 
-*Another man imprisoned*, she thought, and the thought should have been satisfaction. Another consciousness that could not witness without grasping. Another fetter she could sharpen.
+*Another man imprisoned*, she thought, and the thought should have been satisfaction. Another consciousness that could not witness without grasping. Another snare she could sharpen.
 
 But she was noticing the light on her wall—late-afternoon Manchester light, filtering through clouds into something softer than the grey it should have been—and the noticing felt less like observation and more like want.
 
