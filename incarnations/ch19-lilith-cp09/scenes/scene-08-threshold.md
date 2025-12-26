@@ -48,7 +48,7 @@ She knew the question: *What am I still grasping?*
 
 Had sat with it during the positioning, during the job application, during the quiet moments in her flat when the tracking paused and she was left with only herself and the awareness that something was preventing completion, something was holding her back, something she needed to release before the final threshold could be crossed.
 
-She could articulate it theoretically. Could state with precision: "Attachment to achieving Buddhahood is itself an obstacle. The grasping for enlightenment becomes the thing preventing enlightenment. Classic trap."
+She could articulate it theoretically. Could state with precision: "Attachment to crossing the threshold is itself an obstacle. The grasping for completion becomes the thing preventing completion. Classic trap."
 
 Could say the words. Could understand the framework. Could teach it to students if asked.
 
