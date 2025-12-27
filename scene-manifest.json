@@ -3197,27 +3197,99 @@
       "id": "ch24-future-prophet",
       "title": "The Prophet",
       "type": "cosmic",
-      "genre": "Science Fiction",
+      "genre": "Biopunk/Cyberpunk with spiritual overtones",
       "setting": {
         "period": "Future",
         "location": "Earth",
-        "year": "Speculative future"
+        "year": "+2,000-5,000 years"
       },
-      "pov": "Silas (elevated consciousness)",
-      "silas": {
-        "status": "Once-returner progress"
-      },
-      "lilith": {
-        "powers": "Cosmic scale\u2014can affect larger systems and timelines",
-        "strategy": "Race intensifies; technological temptations\u2014what if completion could be achieved through technology?"
+      "pov": "Merged/fluid\u2014alternating during birth, increasingly unified",
+      "avatars": {
+        "silex": {
+          "name": "Silex",
+          "status": "Once-returner (three fetters broken)",
+          "role": "Heretic within The Eternal Synthesis"
+        },
+        "lith": {
+          "name": "Lith",
+          "status": "Non-returner (nine fetters broken)",
+          "role": "Heretic within The Eternal Synthesis",
+          "final_fetter": "Attachment to being the one who achieves"
+        }
       },
       "lesson": {
-        "theme": "Technology and transcendence",
-        "development": "Further weakening of sensual desire and ill-will"
+        "theme": "Return to embodiment; counterfeit vs genuine spirituality; Ka bookend",
+        "development": "All fetters weakening; competition phase ends; Maitreya foreshadowing intensifies"
       },
-      "word_target": 8000,
-      "scenes": [],
-      "status": "needs_development"
+      "word_target": 9000,
+      "word_count": 8360,
+      "scenes": [
+        {
+          "id": "scene-01-condensation",
+          "title": "Condensation",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-01-condensation.md",
+          "word_count": 1100,
+          "status": "drafted",
+          "pov": "Alternating Silex/Lith"
+        },
+        {
+          "id": "scene-02-formation",
+          "title": "Formation",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-02-formation.md",
+          "word_count": 950,
+          "status": "drafted",
+          "pov": "Silex primary, Lith bleeding through"
+        },
+        {
+          "id": "scene-03-heresy",
+          "title": "Heresy Emerges",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-03-heresy.md",
+          "word_count": 1050,
+          "status": "drafted",
+          "pov": "Lith primary, Silex bleeding through"
+        },
+        {
+          "id": "scene-04-recognition",
+          "title": "Recognition",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-04-recognition.md",
+          "word_count": 1500,
+          "status": "drafted",
+          "pov": "Beginning to merge"
+        },
+        {
+          "id": "scene-05-working",
+          "title": "Working Together",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-05-working.md",
+          "word_count": 1150,
+          "status": "drafted",
+          "pov": "Increasingly unified"
+        },
+        {
+          "id": "scene-06-response",
+          "title": "The World's Response",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-06-response.md",
+          "word_count": 1000,
+          "status": "drafted",
+          "pov": "Unified"
+        },
+        {
+          "id": "scene-07-death-approaches",
+          "title": "Death Approaches",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md",
+          "word_count": 1150,
+          "status": "drafted",
+          "pov": "Unified"
+        },
+        {
+          "id": "scene-08-death-yearning",
+          "title": "Death and Yearning",
+          "file": "incarnations/ch24-future-prophet/scenes/scene-08-death-yearning.md",
+          "word_count": 1000,
+          "status": "drafted",
+          "pov": "Fully merged"
+        }
+      ],
+      "status": "drafted"
     },
     {
       "chapter": 25,
