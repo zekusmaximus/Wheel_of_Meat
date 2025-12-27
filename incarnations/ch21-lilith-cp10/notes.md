@@ -337,7 +337,7 @@ The gap between Ch 21 and Ch 1 is weeks to months. In that gap:
 >
 > He turned, and for a moment—recognition that flickered and failed to catch. Rain. Another city. A passerby.
 >
-> "Dr. Blackwood." He took her hand. "I look forward to working together."
+> "Dr. Azami." He took her hand. "I look forward to working together."
 >
 > *Finally,* she thought. *Finally close enough.*
 

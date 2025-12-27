@@ -73,7 +73,7 @@ STRUCTURAL VERIFICATION
 
 ```
 CONTINUITY CHECK
-- Character names: Verified (Lilith Blackwood, Silas Pahlavan/Azami, Jack Malone)
+- Character names: Verified (Lilith Azami, Silas Pahlavan/Azami, Jack Malone)
 - Setting details: Verified (Manchester faculty reception, LA 1938, Buick Roadmaster)
 - Lilith consistency: Verified (widow's peak, dark strand, pale green crescent in left eye)
 - Prior scene alignment: Verified (continues from Ch 19's positioning complete, job secured)

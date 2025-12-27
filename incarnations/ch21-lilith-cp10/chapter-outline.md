@@ -360,7 +360,7 @@ He turns. Sees her.
 
 He takes her hand.
 
-> "Dr. Blackwood." His grip was warm. Certain. "I look forward to working together."
+> "Dr. Azami." His grip was warm. Certain. "I look forward to working together."
 
 **Her interiority:**
 > *Finally.*
