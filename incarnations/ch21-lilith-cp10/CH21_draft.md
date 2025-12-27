@@ -290,7 +290,7 @@ For a moment—recognition that flickered and failed to catch. Something in his 
 
 He blinked, and it was gone.
 
-"Dr. Blackwood." He took her hand. His grip was warm. Certain. "I look forward to working together."
+"Dr. Azami." He took her hand. His grip was warm. Certain. "I look forward to working together."
 
 The handshake held. Longer than professional. Something passing between their palms that neither of them named—recognition, connection, the specific electricity of two souls approaching the same threshold from opposite directions.
 
@@ -328,7 +328,7 @@ And somewhere beneath the strategy, beneath the calculation, beneath everything 
 
 The reception continued. The rain continued.
 
-And Lilith Blackwood, near-Buddha, master of temporal perception, architect of ten failed interventions, stood three feet from the soul she'd been tracking across centuries and began the work that would finally—finally—show her what she could not see.
+And Lilith Azami, near-Buddha, master of temporal perception, architect of ten failed interventions, stood three feet from the soul she'd been tracking across centuries and began the work that would finally—finally—show her what she could not see.
 
 The work continued.
 
