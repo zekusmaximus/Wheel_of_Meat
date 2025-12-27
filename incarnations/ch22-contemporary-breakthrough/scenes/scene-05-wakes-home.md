@@ -13,7 +13,7 @@ Silas opened his eyes to a ceiling he recognized—the familiar cracks and shado
 
 The clock on his bedside table read 8:47.
 
-He lay still, letting the facts assemble themselves. The rooftop. Stewart. Lilith. The reaching, the gap, the chain of three bodies. All of it present, immediate, but somehow distant too—information from a night that belonged to a configuration of self that no longer quite applied.
+He lay still, letting the facts assemble themselves. The rooftop. Stewart. Lilith. The reaching, the absence, three bodies linked. All of it present, immediate, but somehow distant too—information from a night that belonged to a configuration of self that no longer quite applied.
 
 Through the window, he could hear the ordinary sounds of morning: traffic on the street below, students talking as they walked toward campus, a cyclist's bell. The city continuing its patterns. The world unchanged.
 
@@ -39,9 +39,7 @@ Silas watched them without the familiar weight of professorial concern. There wa
 
 The worry wasn't there.
 
-Not absent the way it would be if he were depressed or empty—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the compulsion that had always accompanied that concern, the helper's need to do something, fix something, be the one who made the difference—that need had been replaced by something simpler.
-
-He could care without needing to rescue. He could feel for them without that feeling requiring action.
+Not absent the way it would be if he were depressed or empty—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the old compulsion was gone. He could care without needing to intervene. He could feel for them without that feeling demanding action.
 
 The absence was strange. Like discovering a roommate who'd always been there had moved out, leaving the apartment quieter but more spacious.
 

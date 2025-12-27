@@ -7,7 +7,7 @@
 
 ---
 
-The lives were still present—ten threads humming at the edge of awareness like strings recently plucked—when Silas noticed the pattern he'd missed before.
+The lives were still present—threads beyond counting humming at the edge of awareness like strings recently plucked—when Silas noticed the pattern he'd missed before.
 
 She had been in all of them.
 
@@ -21,7 +21,7 @@ Outside Philon's quarantine, where plague victims were isolated to die alone—s
 
 In Rome, at Verinus's shoulder during the investigation that led to failure. In the Egyptian desert, visiting Macarius with questions that had made the hermit's silence feel like fraud. In Heian Japan, a court lady whose aesthetic refinement had matched his own insufficiency. In the Inquisition's shadow, somewhere in the crowd of witnesses at his trial. In France, where Jean's skepticism had drawn enemies from every faction. In Taiping China, moving through Wei's battlefields with purpose she never disclosed. In Los Angeles, across the desk from Jack, a client whose case he'd never solved.
 
-Ten lives. Ten deaths. Ten times the same face watching him fail to learn what he should have learned.
+Life after life. Death after death. Always the same face watching him fail to learn what he should have learned.
 
 The widow's peak with the darker strand falling to the left. The left eye with its pale-green crescent, catching light in ways that didn't quite match the illumination available. The particular quality of her attention—not judging exactly, not gloating, but something more patient. More inevitable.
 
@@ -53,11 +53,11 @@ She was the one variable that never varied.
 
 Silas sat down. His legs needed to sit, and the body that was still his obeyed the need without requiring a decision about it. The green outside the window continued its morning. Students continued walking past. The world continued not knowing what it didn't know.
 
-He should be frightened. Some part of him noted this—the appropriate response to discovering that one's lover had been present across one's reincarnation history would be, presumably, alarm. But the fear didn't arrive. The helper identity that would have generated fear about being manipulated, about needing to protect himself, about making sense of the threat—that identity was absent. What remained was curiosity. Wonder, even.
+He should be frightened. Some part of him noted this—the appropriate response to discovering that one's lover had been present across one's reincarnation history would be, presumably, alarm. But the fear didn't arrive. The old Silas would have generated fear about being manipulated, would have needed to protect himself, to make sense of the threat. But that Silas wasn't here anymore. What remained was curiosity. Wonder, even.
 
 They were connected.
 
-The connection ran deeper than he'd imagined, through more time than he could comprehend. She'd been watching him across ten lives and presumably would have watched more if there were more to watch. The question wasn't whether they were linked—that was obvious now—but what the linking meant.
+The connection ran deeper than he'd imagined, through more time than he could comprehend. She'd been watching him across lifetimes—more than he could count, more than he could fathom. The question wasn't whether they were linked—that was obvious now—but what the linking meant.
 
 *What are we to each other?*
 

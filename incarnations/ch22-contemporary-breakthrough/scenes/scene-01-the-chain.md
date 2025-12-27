@@ -37,6 +37,8 @@ The chain held. Weight redistributed across the three of them—Lilith pulling b
 
 Lilith made a sound. Not words—something beneath words, torn from her chest. Her arms tightened around Silas, and he felt her body shaking against his back, tremors running through her that had nothing to do with exertion. She was pulling, and he was anchored by her pulling, and Stewart was anchored by him, and for a moment that stretched past measurement, they existed as a single organism of interlocked grip.
 
+But the tremors weren't collapse—they were recalibration. Something she had held as certainty for longer than this body could remember was rearranging itself, and her nervous system registered the shift before her mind could name it. She was still Lilith. Still capable. Still the anchor that kept them from falling. But the axis of everything she understood had just rotated, and the shaking was the machinery adjusting to a new orientation.
+
 Stewart's free hand found the barrier wall. His fingers scraped concrete, found purchase. Silas pulled, Lilith pulled, and Stewart's body rose—over the barrier's edge, back onto the rooftop, back into the world of surfaces and breath and continuing.
 
 They collapsed together. Three bodies in a heap on the rain-slick rooftop, breathing the same air, tangled in the same web of limbs and gasping lungs.
@@ -47,17 +49,15 @@ For a long moment, no one spoke.
 
 The mist hung in the air around them, catching what light the city offered, transforming the rooftop into something between places. Silas lay on his back, staring up at nothing, his chest heaving, and the strangeness of what had just happened—not the rescue, but the other thing, the gap—settled into him like cold water finding the lowest point of a vessel.
 
-He was still here. He was still Silas. But the certainty of being Silas had a new quality to it—thin, provisional, assembled from parts that could have been assembled differently. The harness he'd felt around his chest in Chapter One, the compulsion to be the one who saves—where had it gone? He searched for it and found only smooth space where the need had been.
-
-The helper identity absent.
+He was still here. He was still Silas. But the certainty of being Silas had a new quality to it—thin, provisional, assembled from parts that could have been assembled differently. The harness he'd felt around his chest all day, the compulsion to be the one who saves—where had it gone? He searched for it and found only smooth space where the need had been.
 
 Not suppressed—he hadn't overcome it through effort or realization. It simply wasn't there anymore, like a coat that had slipped off without his noticing. He'd reached for Stewart, yes. But the reaching hadn't been *his*. It had been reaching, occurring without an owner, action without actor.
 
 Beside him, Stewart was curled on his side, hands pressed against the concrete, breathing in short gasps. Past Stewart, Lilith was pulling herself to sitting, and when Silas looked at her face, he saw something he'd never seen there before.
 
-Her mask was cracked.
+Her mask had shifted.
 
-Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the fissures that she'd never let him see—something that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.
+Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. Something that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.
 
 She'd felt it too. He knew this with the same certainty that he knew his own absence in the moment of reaching. When she'd grabbed him, when her arms had locked around his body to anchor him to the rooftop—she'd felt what he'd felt. The boundary between her action and his dissolving. Her grasping becoming his reaching becoming Stewart's being reached for, all of it one gesture wearing three faces.
 
@@ -87,9 +87,9 @@ She saw him seeing it.
 
 Her eyes flicked to Silas, and something passed between them—not accusation, not shame, but recognition. She knew. In the moment when she'd grabbed him, in the moment when their three bodies had become one chain, she'd felt what he'd felt. The boundary between self and other dissolving. The competition she'd been running, the race she'd thought she was in—
 
-But her seeing wasn't releasing. Her hands still reached toward Stewart, the professional role reasserting itself even as the mask cracked. She knew, and she couldn't stop reaching anyway.
+But seeing wasn't the same as releasing. Her hands still reached toward Stewart, the professional role reasserting itself even as something fundamental shifted beneath it. She knew, and she couldn't stop reaching anyway.
 
-Silas felt compassion rise in him, and the compassion was strange too—unmodulated by the need to act on it, untethered from the compulsion to fix. He could simply feel for Lilith without requiring that feeling to make him do anything. The helper identity absent; the capacity for care remaining.
+Silas felt compassion rise in him, and the compassion was strange too—unmodulated by the need to act on it, untethered from the compulsion to fix. He could simply feel for Lilith without requiring that feeling to make him do anything. The urgency gone; the care remaining.
 
 This was what came after.
 
@@ -113,7 +113,7 @@ What?
 
 He searched for the word and couldn't find it. Not relief, not joy, not peace exactly. Those words all required someone to feel them, and in the moment of the gap, there had been no one there to feel. What remained afterward was more like clarity. The wheel on which he'd been turning—the wheel of meat, of bodies, of lives spent grasping and releasing and grasping again—was still there. Still turning. But he could see it now. Could feel its motion without being fully subject to its momentum.
 
-This was what Stewart had been looking for without knowing it. And this was what Lilith couldn't see, despite seeing everything else. The release that came not from stopping the wheel but from recognizing that the one who'd been riding it had been a convenient fiction all along.
+This was what Stewart had been reaching for without knowing how to reach. And this was what Lilith couldn't yet see, despite seeing everything else. The wheel kept turning—but the one who'd believed himself trapped on it had thinned enough to watch its motion without being thrown by it.
 
 Lilith's voice cut through his reverie: "They're on their way."
 
@@ -143,6 +143,6 @@ He'd glimpsed them all afternoon: blood in his mouth from a fight he couldn't re
 
 There were more lives to see. More deaths to remember. More of the wheel to understand.
 
-But for now, there was only this rooftop, and Stewart's shell-shocked breathing, and Lilith's cracked mask, and the sound of help approaching from below.
+But for now, there was only this rooftop, and Stewart's shell-shocked breathing, and whatever had shifted in Lilith, and the sound of help approaching from below.
 
 And the strange, unprecedented lightness of a burden he hadn't known he was carrying until it was gone.
