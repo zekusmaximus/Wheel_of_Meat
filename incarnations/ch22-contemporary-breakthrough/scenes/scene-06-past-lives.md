@@ -33,7 +33,7 @@ Philon. Athens now, the white columns and plague-stench, the impossible choice b
 
 *Wisdom is understanding context. Martyrdom is choosing self-image over service.*
 
-Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The helper identity beginning to form—and beginning, even then, to obscure the very wisdom it sought.
+Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the particular blindness of those who need to be needed.
 
 And the woman. The same face, different clothes, watching from outside the quarantine chamber. How had she gotten there? Why was she always watching?
 
@@ -65,11 +65,11 @@ Jack. Los Angeles, 1938. Rain on noir streets—different rain, same lesson. The
 
 *Some problems are not yours to solve. The world does not need you to be its savior.*
 
-Ten lives. Ten lessons. Ten deaths that had carried something forward, grain by grain, until this morning, this window, this moment where Silas stood watching Manchester unfold and felt the entire pattern at once.
+Life after life. Lesson after lesson. Death after death, each one carrying something forward, grain by grain, until this morning, this window, this moment where Silas stood watching Manchester unfold and felt the entire pattern at once.
 
 The genres dissolved.
 
-Each life had been its own story—survival horror, political thriller, Greek tragedy, Roman mystery, spiritual drama, Gothic romance, Inquisition nightmare, philosophical comedy, war epic, noir. Ten ways of telling a journey that was always the same journey, ten costumes for a soul that was working out the same knots across 300,000 years.
+Each life had worn its own shape—the terror of isolation, the weight of politics, the slow poison of philosophy, the loneliness of investigation, the silence of the desert, the ache of beauty, the patience of accusation, the wit that couldn't save itself, the conviction that burned everything, the rain that never stopped falling. Different shapes for the same soul, working out the same knots across time beyond measuring.
 
 The wheel became visible. Not metaphor—structure. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing—that one had thinned enough to perceive the ride.
 
@@ -79,6 +79,6 @@ The thought arrived with the force of revelation. Not a single life without her 
 
 Why? Who was she? What connected her to every turn of the wheel he'd made?
 
-Questions for later. For now, the lives settled into pattern, ten threads woven into the rope that was this present moment. The past becoming present, the present becoming continuous with everything that came before.
+Questions for later. For now, the lives settled into pattern, threads beyond counting woven into the rope that was this present moment. The past becoming present, the present becoming continuous with everything that came before.
 
 Silas breathed. The wheel turned. And the seeing that had always been there—boundless, aware—continued doing what it had never stopped doing, even when the one looking through its eyes had believed himself to be separate from the looking.

@@ -23,19 +23,17 @@ But his body wasn't ready to move. Something was still settling—not the adrena
 
 The mantra surfaced unbidden, and he examined it from this new vantage. The words were the same words he'd repeated in practice, whispered during lectures, offered to students who asked about contemplative technique. But they sounded different now. Hollow, not with emptiness but with the obviousness of what they were—a description, not a destination. He'd been using the mantra like a map, tracing its contours with his finger, when the territory it described was everywhere he looked.
 
-The helper identity absent.
-
 He tested this again, searching for the familiar weight of it. The compulsion to intervene, to guide, to be the one who made the difference. It had driven him onto this rooftop, had propelled him across the barrier after a falling student. That much was clear. But in the moment of the reaching—
 
-Nothing had been driving. There had been no self at the controls, no identity executing the movement. Just the reaching itself, and the gap where the one who reached should have been.
+Nothing had been driving. There had been no self at the controls, no one executing the movement. Just the reaching itself, and the absence where the one who reached should have been.
 
-Strange, how its absence could be so tangible. Like removing a stone from a wall and discovering the wall had never needed it.
+Strange, how the absence could be so tangible. Like discovering a weight you'd carried so long you'd forgotten it was there—and now it was simply gone.
 
 Below, an ambulance departed with lights but no siren—Stewart stable enough for quiet transport, the emergency becoming procedure. Silas watched its red taillights merge with traffic, carrying Lilith and their student and whatever version of events would be told in waiting rooms and hospitals.
 
 Lilith.
 
-Her face on the rooftop, the mask cracking. Her arms around him, pulling him back from the edge. The moment when her grasping had become indistinguishable from his reaching, when three bodies had operated as a single system of survival.
+Her face on the rooftop, something shifting beneath the composure. Her arms around him, pulling him back from the edge. The moment when her grasping had become indistinguishable from his reaching, when three bodies had operated as a single system of survival.
 
 She'd felt it too. He was as certain of this as he was of his own breathing. In the instant of the chain, the boundary between them had dissolved—not as metaphor, not as philosophy, but as experienced fact. She had been inside his action the way he had been inside her anchoring. The distinction between rescuer and anchor and rescued had been a convenience of description, not a truth of experience.
 
@@ -45,7 +43,7 @@ What had she seen? The connection? The dissolution? Her own face across all his 
 
 He didn't know. Couldn't know, not from here, not from this moment of standing alone on a rooftop that felt less solid than it had an hour ago.
 
-But he would learn. The certainty of this was unprecedented—not driven by the helper's need to understand so he could fix, but by something simpler. They were connected. They had been connected before tonight, before his scattered memories of other lives, before whatever it was she'd been doing watching him all these months. And the connection would reveal itself, in time, whether either of them pursued it or not.
+But he would learn. The certainty of this was unprecedented—not driven by the old compulsion to understand so he could fix, but by something simpler. They were connected. They had been connected before tonight, before his scattered memories of other lives, before whatever it was she'd been doing watching him all these months. And the connection would reveal itself, in time, whether either of them pursued it or not.
 
 Doors were opening in his mind. Past lives, he understood now, though the understanding offered no details. Lives he'd lived, lessons he'd learned, deaths that had carried something forward into this moment. They waited like guests arriving for a party, polite and patient, queuing at entrances he hadn't known existed.
 

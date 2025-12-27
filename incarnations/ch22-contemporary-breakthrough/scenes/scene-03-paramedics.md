@@ -17,11 +17,21 @@ Two paramedics came through first, a man and woman in their forties moving with 
 
 The paramedics moved to Stewart, running through their protocols. Blood pressure. Pulse. Pupil response. The young man responded minimally—following the pen light with his eyes, allowing the blood pressure cuff, but offering no words, no resistance, no sign that he understood what was happening.
 
-Lilith watched them work and felt the gap between her professional presence and her internal state widening. Here was the clinical frame she knew: patient in crisis, intervention in progress, handoff to emergency services. Standard procedure. Checkboxes she could tick without engaging the parts of herself that were still shaking.
+Silas watched from the periphery, and something strange settled through him. The old Silas would have hovered closer. Would have offered observations, context, the kind of helpful interjections that made him feel useful in crisis. He knew the protocols. He knew the questions to ask. He knew how to make himself indispensable.
 
-But the parts were still shaking. No protocol for that.
+But the urge wasn't there. He simply watched—present, attentive, but without the familiar pressure to insert himself into the machinery of rescue. The paramedics knew their work. Stewart was in capable hands. There was nothing Silas needed to add, and the recognition of that was its own kind of relief.
 
-Silas stood apart, near the barrier wall but not too near, his hands at his sides. The security officer approached him, asking questions—Lilith caught fragments, *professor*, *were you here when*, *do you need medical attention*—and Silas answered in that same quiet, open tone she'd heard from him since the chain had formed. As if the questions were arriving from a great distance and he was receiving them without urgency.
+The security officer approached him with a clipboard and a set of questions that couldn't possibly capture what had happened. "Professor Pahlavan? Can you walk me through what you witnessed tonight?"
+
+Silas answered accurately: the rooftop, the student, the moment of reaching. Each word technically true. Each word missing the thing that had actually occurred—the gap, the absence, the dissolution of everything he'd believed himself to be in the instant of action. The officer wrote notes in a cramped hand, checking boxes on a form designed for a world where events could be contained by paperwork.
+
+"Did the student jump, or did he fall?"
+
+"He stumbled. He was turning toward me when he lost his balance."
+
+The officer nodded, satisfied with an answer that fit categories. Silas felt the distance between the documentation and the experience like weather—present, undeniable, impossible to explain to someone who hadn't been inside it.
+
+Lilith was answering her own questions now, her voice carrying the clinical precision that had always been her armor. But he could see the gap in her too—the space between the professional presentation and whatever was churning beneath it. She moved through the protocol efficiently, but her hands hadn't stopped trembling, and once, when she thought no one was watching, she pressed her palm flat against her chest as if checking that something was still there.
 
 The paramedics lifted Stewart onto a stretcher. His eyes drifted toward Lilith as they strapped him in, and for a moment she thought he might speak—might voice whatever he'd been reaching for on the edge, the realization that had taken him past the barrier. But his lips remained closed, and his gaze moved past her, focusing on nothing.
 
