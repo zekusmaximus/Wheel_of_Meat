@@ -78,7 +78,7 @@ And somewhere beneath the strategy, beneath the calculation, beneath everything 
 
 The reception continued. The rain continued.
 
-And Lilith Azami, near-Buddha, master of temporal perception, architect of ten failed interventions, stood three feet from the soul she'd been tracking across centuries and began the work that would finally—finally—show her what she could not see.
+And Lilith Azami, master of temporal perception, architect of countless intrusions, stood three feet from the soul she'd been tracking across centuries and began the work that would finally show her what she could not see.
 
 The work continued.
 
