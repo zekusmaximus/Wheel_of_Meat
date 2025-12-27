@@ -3147,8 +3147,50 @@
         "development": "Beginning to weaken higher fetters"
       },
       "word_target": 7000,
-      "scenes": [],
-      "status": "needs_development"
+      "total_word_count": 7100,
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Arrival",
+          "file": "scene-01-arrival.md",
+          "word_count": 1300,
+          "function": "Synesthetic arrival in Deva Realm; body absence as relief; post-stream-entry baseline",
+          "status": "drafted"
+        },
+        {
+          "section": "II",
+          "title": "The Garden of Delights",
+          "file": "scene-02-garden-of-delights.md",
+          "word_count": 1400,
+          "function": "Encounter with deva beings; sensual desire fetter weakening; recognition of stillness trap",
+          "status": "drafted"
+        },
+        {
+          "section": "III",
+          "title": "The Other Thread",
+          "file": "scene-03-the-other-thread.md",
+          "word_count": 1600,
+          "function": "Lilith encounter; boundary-flicker Maitreya foreshadowing; her intervention backfires",
+          "status": "drafted"
+        },
+        {
+          "section": "IV",
+          "title": "Ill-Will Dissolves",
+          "file": "scene-04-ill-will-dissolves.md",
+          "word_count": 1200,
+          "function": "Fifth fetter weakening; past lives montage; nothing to resist",
+          "status": "drafted"
+        },
+        {
+          "section": "V",
+          "title": "The Threshold Forward",
+          "file": "scene-05-threshold-forward.md",
+          "word_count": 1600,
+          "function": "Recognition of incompleteness; Lilith's final offer backfires; transition toward future Earth",
+          "status": "drafted"
+        }
+      ],
+      "status": "drafted"
     },
     {
       "chapter": 24,
