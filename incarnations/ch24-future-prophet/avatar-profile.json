@@ -1,31 +1,87 @@
 {
   "chapter_id": "ch24-future-prophet",
-  "avatar": {
-    "name": "[TBD]",
-    "occupation": "[TBD]",
-    "status": "[TBD]"
+  "avatars": {
+    "silex": {
+      "name": "Silex",
+      "name_etymology": "Latin 'silex' meaning flint—primal element in high-tech setting; echoes Ka's era at humanity's dawn",
+      "soul_thread": "Silas-derivative",
+      "status": "Once-Returner (three fetters broken at stream-entry)",
+      "occupation": "Heretic within The Eternal Synthesis",
+      "physical": {
+        "appearance": "Engineered body with standard enhancements; specific features TBD",
+        "recognition_markers": "Behavioral: patience and observation persisting through technological substrate"
+      },
+      "psychology": {
+        "core_flaw_manifestation": "DISSOLVED—helper identity left behind at stream-entry (Ch 22)",
+        "new_quality": "Authentic seeing that naturally disrupts counterfeit—not trying to fix, simply being genuine",
+        "strengths": [
+          "Clarity from Deva Realm experience persisting through embodiment",
+          "Access to past lives—can perceive the counterfeit nature",
+          "Once-returner insight operating through technological substrate"
+        ],
+        "weaknesses": [
+          "Remaining fetters still present (weakening)",
+          "Faint urge to teach before fully ready"
+        ]
+      },
+      "fetter_status": {
+        "broken": ["self_illusion", "doubt", "rites_rituals"],
+        "weakened": ["sensual_desire", "ill_will"],
+        "weakening_this_chapter": ["desire_fine_material", "desire_immaterial", "conceit", "restlessness"],
+        "root_condition": "ignorance (thinning)"
+      }
+    },
+    "lith": {
+      "name": "Lith",
+      "name_etymology": "Greek 'lithos' meaning stone—pairs with Silex as primal elements; echoes Lilith",
+      "soul_thread": "Lilith-derivative",
+      "status": "Non-Returner (nine fetters broken)",
+      "occupation": "Heretic within The Eternal Synthesis",
+      "physical": {
+        "appearance": "Same face constants persisting despite technological modification",
+        "recognition_markers": {
+          "canonical": "Widow's peak with darker strand falling left; left eye with pale-green crescent at 11-1 o'clock position",
+          "this_chapter": "Unaltered despite fashion's preference for geometric hairlines; the crescent visible despite ocular enhancements"
+        }
+      },
+      "psychology": {
+        "final_fetter": "Attachment to being 'the one who achieves Buddhahood'—wrestling with it, beginning to see it",
+        "relationship_to_silex": "No longer intervening against him; attraction acknowledged as genuine; working alongside",
+        "strengths": [
+          "Near-enlightenment reads as prophetic",
+          "Access to past lives",
+          "Nine fetters already broken"
+        ],
+        "weaknesses": [
+          "Final fetter preventing completion",
+          "Still wrestling with the need to 'be first'"
+        ]
+      },
+      "fetter_status": {
+        "broken": ["self_illusion", "doubt", "rites_rituals", "sensual_desire", "ill_will", "desire_fine_material", "desire_immaterial", "conceit", "restlessness"],
+        "final_fetter": "Subtle attachment to being the one who achieves completion",
+        "this_chapter": "Wrestling with it, beginning to see it through proximity to Silex"
+      }
+    }
   },
-  "physical": {
-    "appearance": "[TBD]",
-    "recognition_marker": "[TBD]"
-  },
-  "psychology": {
-    "core_flaw_manifestation": "[TBD - how compulsive helping shows in this life]",
-    "fatal_flaw": "[TBD]",
-    "strengths": [],
-    "weaknesses": []
+  "shared_elements": {
+    "relationship": "No more interventions; competition phase over; attraction acknowledged; working together as heretics",
+    "counterfeit_tradition": "The Eternal Synthesis",
+    "key_insight": "They know it is NOT eternal synthesis—they are approaching the ACTUAL synthesis",
+    "maitreya_foreshadowing": "Technology allows merged awareness; soul bond tightening; boundaries dissolving"
   },
   "chapter_arc": {
-    "opening_state": "[TBD]",
-    "inciting_incident": "[TBD]",
-    "climax": "[TBD]",
-    "closing_state": "[TBD]"
+    "opening_state": "Condensing from Deva Realm into engineered bodies",
+    "inciting_incident": "Recognition of each other across the technological landscape",
+    "climax": "Death together—natural terminus of extended life; peaceful acceptance",
+    "closing_state": "Both yearning for breakthrough, union, turning—seeds planted for Ch 25/26"
   },
-  "lesson_development": {
-    "perfection_or_fetter": "[TBD]",
-    "what_learned": "[TBD]",
-    "what_failed": "[TBD]",
-    "death_seeds_next": "[TBD]"
+  "death_sequence": {
+    "together": true,
+    "cause": "Natural terminus of extended life—not violence, not martyrdom",
+    "mood": "Peaceful acceptance—they have transcended dramatic roles",
+    "karmic_bridge": "Dying together plants the seed for merging; the thread between them visible as single thread",
+    "yearning": "Manifestation that can complete what remains; breakthrough; union; turning the genuine wheel"
   },
-  "notes": "[TBD]"
+  "notes": "Silex and Lith as primal-element naming mirrors Ka's era (flint and stone) at humanity's sunset. They have access to past lives and can perceive the counterfeit nature of The Eternal Synthesis."
 }

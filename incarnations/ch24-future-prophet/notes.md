@@ -23,7 +23,7 @@ This chapter establishes:
 | **Genre** | Biopunk/Cyberpunk with spiritual overtones |
 | **Tonal Models** | Philip K. Dick, William Gibson |
 | **Word Target** | ~9,000 words |
-| **POV** | Both avatars (TBD: alternating or merged) |
+| **POV** | Merged/fluid—alternating during birth, increasingly unified |
 | **Setting** | Earth, +2,000-5,000 years future |
 | **Time Span** | One lifetime (compressed) |
 | **Scene Count** | 6-8 scenes |
@@ -84,7 +84,9 @@ Chapter 24 opens with both consciousnesses condensing toward **engineered birth*
 - Institutions that simulate purpose without providing it
 - The "vacuous spiritual life overtaken by technology"
 
-### The Counterfeit Dharma
+### The Counterfeit Dharma: The Eternal Synthesis
+
+**Name:** The Eternal Synthesis—ironic because Silex and Lith know it is NOT eternal synthesis; they are approaching the *actual* synthesis. They still have access to their past lives, can perceive the counterfeit nature.
 
 **How it manifests (without Buddhist terminology):**
 - Ritualized practices emptied of meaning—forms preserved, essence lost
@@ -104,9 +106,9 @@ Chapter 24 opens with both consciousnesses condensing toward **engineered birth*
 
 ## The Two Prophets
 
-### Avatar 1: Silas-derivative
+### Avatar 1: Silex
 
-**Name options:** Syl, Silex, Cylas, Silvan, Sol [TBD with author]
+**Name:** Silex (Latin: "flint"—primal element in high-tech setting; echoes Ka's era)
 
 **Status entering:**
 - Once-returner: Three fetters broken (stream-entry), sensual desire and ill-will weakened
@@ -126,9 +128,9 @@ Chapter 24 opens with both consciousnesses condensing toward **engineered birth*
 - The faint awakening desire to point toward truth (not as compulsion, but as natural function)
 - Finding Lilith—recognition across the counterfeit landscape
 
-### Avatar 2: Lilith-derivative
+### Avatar 2: Lith
 
-**Name options:** Lyth, Lethys, Lilura, Lily, Lith [TBD with author]
+**Name:** Lith (Greek: "stone"—pairs with Silex as primal elements; echoes Lilith)
 
 **Status entering:**
 - Non-Returner: Nine fetters broken
@@ -269,7 +271,11 @@ Both consciousnesses condense into designed embodiment. The contrast with Ka's p
 
 ### Climax: Death Sequence
 
-**Both die, nearly simultaneously.**
+**Both die together—physically present with each other.**
+
+**Cause:** Natural terminus of extended life. Not violence, not martyrdom. They have transcended the need to play dramatic roles. The enhanced bodies simply... reach their limit. Even in this world where death has been pushed back centuries, it arrives. The wheel's grip persisting.
+
+**Mood:** Peaceful acceptance. Not resignation—completion of this phase. They've done what they could here; the turning isn't meant for this life.
 
 Their final yearning—like Ka's:
 - Not for escape, but for manifestation that can complete what remains
@@ -278,8 +284,9 @@ Their final yearning—like Ka's:
 
 **Karmic bridge:**
 - What they yearn for at death shapes where they go next
-- The pull toward strange flesh (Ch 25) or toward completion (Ch 26)
+- The pull toward strange flesh (Ch 25) and toward completion (Ch 26)
 - The thread between them now visible as single thread
+- Dying together, they plant the seed for merging
 
 ---
 
@@ -311,11 +318,11 @@ Even in biopunk register:
 *Opening—engineered birth:*
 > The awareness that had floated in the Deva Realm's harmonics found itself condensing—not falling but thickening—into something that had mass, that had location, that had the particular density of designed flesh. There was a body again. Not the one left behind in Manchester, not any of the ten that had carried this consciousness across 300,000 years. Something new. Something manufactured.
 
-*Counterfeit world:*
-> The temple's neural-sync hummed at frequencies calibrated for bliss, and the congregants floated in programmed serenity, their modified amygdalae firing precisely on schedule. The liturgy proceeded through its phases—purification, elevation, release—each state chemically guaranteed. Somewhere beneath the prescribed tranquility, Syl felt the absence of what should have been there: the not-knowing. The risk. The genuine uncertainty that transformation required.
+*Counterfeit world (The Eternal Synthesis):*
+> The temple's neural-sync hummed at frequencies calibrated for bliss, and the congregants floated in programmed serenity, their modified amygdalae firing precisely on schedule. The liturgy proceeded through its phases—purification, elevation, release—each state chemically guaranteed. Somewhere beneath the prescribed tranquility, Silex felt the absence of what should have been there: the not-knowing. The risk. The genuine uncertainty that transformation required.
 
-*Finding Lilith:*
-> She wore the standard modifications—dermal luminescence, ocular enhancement, the subtle architectural adjustments that passed for beauty in this era—but beneath the designed surface, something persisted. The widow's peak, unaltered despite fashion's preference for geometric hairlines. The left eye's particular depth, where a crescent of pale green caught the light at an angle no designer would have chosen. He knew this face. He had known it across configurations beyond counting.
+*Finding Lith:*
+> She wore the standard modifications—dermal luminescence, ocular enhancement, the subtle architectural adjustments that passed for beauty in this era—but beneath the designed surface, something persisted. The widow's peak, unaltered despite fashion's preference for geometric hairlines. The left eye's particular depth, where a crescent of pale green caught the light at an angle no designer would have chosen. Silex knew this face. He had known it across configurations beyond counting.
 
 ---
 
@@ -391,27 +398,28 @@ Even in biopunk register:
 
 ---
 
-## Open Questions for Author
+## Author Decisions (Confirmed)
 
 ### Names
-1. **Silas-derivative:** Options include Syl, Silex, Cylas, Silvan, Sol. Preference?
-2. **Lilith-derivative:** Options include Lyth, Lethys, Lilura, Lily, Lith. Preference?
-3. Should they have institutional/counterfeit names that get shed for true names?
+- **Silex** (Silas-derivative): Latin "flint"—primal element
+- **Lith** (Lilith-derivative): Greek "stone"—pairs with Silex
+- Primal-element naming echoes Ka's era at humanity's dawn
 
 ### POV Structure
-1. Alternating POV between the two prophets?
-2. Merged/fluid POV reflecting their growing unity?
-3. Primary Silas-POV with Lilith sections?
+- **Merged/fluid POV** reflecting their growing unity
+- Alternating during birth scene, increasingly unified as chapter progresses
+- Mirrors their approaching synthesis
 
-### Specific World-Building
-1. What is the counterfeit tradition called? (Needs non-Buddhist name)
-2. What technology enables the merged-awareness experiences?
-3. How do they die? (Disease that technology couldn't solve? Violence? Choice? Age?)
+### World-Building
+- **The Eternal Synthesis**: Counterfeit tradition name (ironic—they know it's NOT)
+- They have access to past lives, can perceive the emptiness
+- Technology enables merged-awareness experiences (TBD specific mechanism)
 
 ### Death Scene
-1. Do they die together (physically present) or simultaneously but apart?
-2. Is the death violent, peaceful, or something else?
-3. What specifically do they yearn for at death?
+- **Together**: Physically present with each other
+- **Natural terminus**: Extended life simply ends—not violence, not martyrdom
+- **Peaceful acceptance**: They've transcended dramatic roles
+- The wheel's grip persists even in this enhanced world
 
 ---
 
@@ -446,4 +454,4 @@ Even in biopunk register:
 
 **End of Chapter 24 Development Notes**
 
-*Next step: Author decisions on names, POV, world-building specifics.*
+*All major decisions confirmed. Next steps: period-rules.md development, scene-level outline, drafting.*
