@@ -330,13 +330,13 @@ Understanding arrived in fragments, in the arithmetic she'd imposed revealing it
 
 And by breaking it, she had purified it.
 
-True adhiṭṭhāna. The tenth perfection. Completed not in spite of her intervention but because of it.
+The last door opened. The final lock broken. Completed not in spite of her intervention but because of it.
 
 Every historical attempt—Chandra's betrayal, Philon's isolation, Verinus's contradictions, all nine backfires—had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
 
-All ten perfections. Accelerated. Achieved.
+Every lesson. Every quality she'd tried to break—forged instead. Complete.
 
-The next life would be stream-entry.
+The next life would be the breaking point. The chains she felt in her own architecture—he would shed them. Perhaps permanently.
 
 She sat in her flat, hunched over the ache in her chest that had no wound to show for it, and understood: the race had narrowed. Whatever time she'd thought she had was gone. He was approaching the threshold faster than she'd calculated, and the approaching was her doing, and the only thing left was the pivot she should have made years ago.
 
@@ -428,9 +428,9 @@ She could do this. She was good at this. Clinical work, student mental health, t
 
 But first she needed to know: how close was he?
 
-The thread showed her present location, showed her he was alive, showed her the pull was real. It did not show her spiritual status. Did not show her how near to stream-entry, how many weeks or months remained, whether the ten perfections Wei had achieved would carry forward immediately or whether there would be delay, breathing room, time to position before the final threshold was crossed.
+The thread showed her present location, showed her he was alive, showed her the pull was real. It did not show her how close. Did not show her whether he had weeks or months, whether Wei's final achievement would manifest immediately or whether there would be delay, time to position before he crossed.
 
-She would need to track backward one life. Not Wei—the life immediately prior to now. The one that would tell her where he was in the process, how the perfections were manifesting, whether she had time or whether time had already run out.
+She would need to track backward one life. Not Wei—the life immediately prior to now. The one that would tell her where he was in the process, how close to crossing, whether she had time or whether time had already run out.
 
 The detective. Los Angeles. 1930s. Jack Malone.
 
@@ -572,7 +572,7 @@ He was inside. Third floor. Close enough that the pull had weight, had texture, 
 
 But she didn't know how close he was to the threshold.
 
-The thread showed her present location. Did not show her spiritual status. Did not reveal whether the ten perfections Wei had achieved would manifest immediately in this life or whether there would be lag, breathing room, time to position before stream-entry became inevitable.
+The thread showed her present location. Did not show her spiritual status. Did not reveal whether the weight she'd felt in Wei's final moment—the completeness, the release—would manifest immediately in this life or whether there would be lag, breathing room, time before he crossed where she could not follow.
 
 She needed to know. Needed data. Needed to track Jack Malone—the detective, Los Angeles, 1938—while simultaneously making Silas's acquaintance. The parallel tracking would give her what historical intervention had failed to provide: precise assessment of where he was in the process, how much time remained, whether the race she felt in the architecture was measured in months or weeks or days.
 
@@ -658,7 +658,7 @@ But her body knew what her mind refused: she was walking toward him the way wate
 
 It was recognition she could not yet recognize.
 
-It was Maitreya seeking Maitreya.
+It was water seeking water. Ocean calling to ocean. The same vastness in two vessels, reaching toward reunion.
 
 It was the pattern larger than her awareness could hold, moving toward its resolution.
 

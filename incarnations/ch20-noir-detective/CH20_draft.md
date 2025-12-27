@@ -1235,7 +1235,7 @@ The rain kept falling.
 
 And somewhere else—somewhere that had no name, no location, no existence in any geography the living could map—something stirred.
 
-A momentum that had been building for millennia. A pattern that had been waiting for completion. Ten lessons, learned through ten lifetimes of failure. Ten perfections, purified by ten kinds of fire.
+A momentum that had been building for millennia. A pattern that had been waiting for completion. Lifetimes of failure that were also preparation. Fires that had refined instead of destroyed.
 
 And now, finally: the urge that would carry forward into the next life. The certainty that the trying mattered. The readiness to break the chains that remained.
 
