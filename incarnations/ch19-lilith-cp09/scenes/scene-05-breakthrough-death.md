@@ -100,13 +100,13 @@ Understanding arrived in fragments, in the arithmetic she'd imposed revealing it
 
 And by breaking it, she had purified it.
 
-True adhiṭṭhāna. The tenth perfection. Completed not in spite of her intervention but because of it.
+The last door opened. The final lock broken. Completed not in spite of her intervention but because of it.
 
 Every historical attempt—Chandra's betrayal, Philon's isolation, Verinus's contradictions, all nine backfires—had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
 
-All ten perfections. Accelerated. Achieved.
+Every lesson. Every quality she'd tried to break—forged instead. Complete.
 
-The next life would be stream-entry.
+The next life would be the breaking point. The chains she felt in her own architecture—he would shed them. Perhaps permanently.
 
 She sat in her flat, hunched over the ache in her chest that had no wound to show for it, and understood: the race had narrowed. Whatever time she'd thought she had was gone. He was approaching the threshold faster than she'd calculated, and the approaching was her doing, and the only thing left was the pivot she should have made years ago.
 

@@ -80,11 +80,11 @@ Minimal presence. Maximal presence. It didn't matter.
 
 Everything she did accelerated him. Made the lessons clearer. Purified what she meant to poison. Jack dying with that phrase in his mind—the trying is not nothing—while she watched from the edge of the alley, while she approached from across the reception room, while both gestures revealed the same truth she could not see.
 
-All ten perfections. Complete.
+Complete. Every door she'd tried to lock—opened from inside.
 
 She had made the futility visible. She had ensured every case Jack worked failed. She had accelerated his failures the way she'd accelerated Wei's, the way she'd accelerated all of them, and every time the acceleration became the lesson, became the purification, became the exact thing she was trying to prevent.
 
-The thread continued. He was HERE. Stream-entry imminent.
+The thread continued. He was HERE. She could feel how close—the weight of it pressing against her own architecture, the door about to open.
 
 Historical intervention: impossible.
 

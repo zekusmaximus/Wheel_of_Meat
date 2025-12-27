@@ -74,9 +74,9 @@ She could do this. She was good at this. Clinical work, student mental health, t
 
 But first she needed to know: how close was he?
 
-The thread showed her present location, showed her he was alive, showed her the pull was real. It did not show her spiritual status. Did not show her how near to stream-entry, how many weeks or months remained, whether the ten perfections Wei had achieved would carry forward immediately or whether there would be delay, breathing room, time to position before the final threshold was crossed.
+The thread showed her present location, showed her he was alive, showed her the pull was real. It did not show her how close. Did not show her whether he had weeks or months, whether Wei's final achievement would manifest immediately or whether there would be delay, time to position before he crossed.
 
-She would need to track backward one life. Not Wei—the life immediately prior to now. The one that would tell her where he was in the process, how the perfections were manifesting, whether she had time or whether time had already run out.
+She would need to track backward one life. Not Wei—the life immediately prior to now. The one that would tell her where he was in the process, how close to crossing, whether she had time or whether time had already run out.
 
 The detective. Los Angeles. 1930s. Jack Malone.
 

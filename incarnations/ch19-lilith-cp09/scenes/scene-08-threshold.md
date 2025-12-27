@@ -14,7 +14,7 @@ He was inside. Third floor. Close enough that the pull had weight, had texture, 
 
 But she didn't know how close he was to the threshold.
 
-The thread showed her present location. Did not show her spiritual status. Did not reveal whether the ten perfections Wei had achieved would manifest immediately in this life or whether there would be lag, breathing room, time to position before stream-entry became inevitable.
+The thread showed her present location. Did not show her spiritual status. Did not reveal whether the weight she'd felt in Wei's final moment—the completeness, the release—would manifest immediately in this life or whether there would be lag, breathing room, time before he crossed where she could not follow.
 
 She needed to know. Needed data. Needed to track Jack Malone—the detective, Los Angeles, 1938—while simultaneously making Silas's acquaintance. The parallel tracking would give her what historical intervention had failed to provide: precise assessment of where he was in the process, how much time remained, whether the race she felt in the architecture was measured in months or weeks or days.
 
@@ -100,7 +100,7 @@ But her body knew what her mind refused: she was walking toward him the way wate
 
 It was recognition she could not yet recognize.
 
-It was Maitreya seeking Maitreya.
+It was water seeking water. Ocean calling to ocean. The same vastness in two vessels, reaching toward reunion.
 
 It was the pattern larger than her awareness could hold, moving toward its resolution.
 
