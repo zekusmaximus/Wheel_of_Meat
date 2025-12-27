@@ -72,6 +72,7 @@
 - **Paradox/koan construction:** Statements that undermine themselves
 - **Neologisms sparingly:** Coin new words only when necessary
 - **No Buddhist terminology:** Deva Realm experienced, never named
+- **Dharma irrelevant to audience:** No teaching or dharma-transmission occurs in this realm. The deva beings are content, not instructing; Silas observes but receives no guidance. The lessons emerge from his own perception, not external transmission.
 
 ---
 
@@ -121,6 +122,7 @@
 - **Parallel construction:** Contrast his movement with deva stillness
 - **Undermining clause:** Every observation of perfection complicated
 - **Meat/body theme:** The pleasure is refined but still reflects old flesh-patterns
+- **Phantom-body correlates:** Maintain sensory anchoring by giving pleasures embodied analogues—warmth without skin, sweetness without tongue, pressure without muscle. The Deva Realm's bliss registers through memory of flesh, not abstraction.
 
 ---
 
@@ -153,6 +155,14 @@
 - Her suffering. Her attachment. The fetter that binds her: *she needs to be the one*
 - The tragedy: she is so close, far more advanced than him
 - But her very grasping at the goal prevents reaching it
+
+### Lilith's Reinterpretation (Post-Chapter 22)
+- She has not suppressed her rooftop recognition; she has reinterpreted it
+- If they were "never separate," then her achieving first = them both achieving
+- The merger becomes her new goal, but on her terms: she will be the one who completes it
+- This reinterpretation allows her to continue pursuing while acknowledging connection
+- Her attachment has shifted from "stop him" to "arrive first so we arrive together correctly"
+- The grasping remains; only its object has transformed
 
 ### The Boundary-Flicker (Maitreya Foreshadowing)
 - A moment where he looks at her and sees *himself*
