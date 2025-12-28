@@ -1,7 +1,3 @@
-# Scene 04: Recognition
-
----
-
 They found each other in a space the system couldn't reach.
 
 Not off-grid—nothing was truly off-grid in a world where the network extended into every corner of designed existence—but liminal. A zone between monitoring subroutines, a gap in the attention that The Eternal Synthesis paid to its participants. The coordinates had circulated through channels the system didn't track: locations where consciousnesses flagged as atypical could meet without triggering intervention protocols.

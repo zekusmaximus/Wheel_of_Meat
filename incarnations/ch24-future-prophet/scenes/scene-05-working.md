@@ -1,7 +1,3 @@
-# Scene 05: Working Together
-
----
-
 Years passed. Their bodies aged.
 
 Not quickly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural networks showed faint degradation patterns. Lith's synthetic components required occasional maintenance. The designed flesh, whatever its substrate, remained flesh: temporary, conditional, subject to the laws that governed all material things.

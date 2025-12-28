@@ -1,5 +1,3 @@
-# Scene V: The Knot Beat + Forward
-
 *The pull toward him is tactical.*
 
 The words arranged themselves with the precision of a diagnosis. She had walked to the university because tracking required contemporary grounding. She had felt the Attendant's desire for recognition because vessel mechanics created perception noise. She noticed beauty in Manchester because the Heian period had saturated her awareness and adjustment took time.

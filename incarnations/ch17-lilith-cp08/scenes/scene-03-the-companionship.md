@@ -1,5 +1,3 @@
-# Scene 3: The Companionship
-
 Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the grey light pooling unnoticed on her desk—as the philosophical conversation deepened toward its intended destination.
 
 "The merchant saw Protestant riders," Jean said, and his voice carried the measured weight of a man presenting evidence for examination rather than conviction. "The farmer saw Catholic soldiers. The servant heard Protestant anger. Each testimony internally consistent. Each mutually exclusive."
@@ -33,4 +31,3 @@ Jean touched his thumb to his index finger. The counting gesture that had become
 He was close. The fortress walls were rising higher. Soon he would be safely sealed behind intellectual honesty so pure it became intellectual cowardice.
 
 One more push. Just one more.
-

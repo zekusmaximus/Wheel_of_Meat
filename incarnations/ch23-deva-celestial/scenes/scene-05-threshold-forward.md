@@ -1,12 +1,3 @@
-# Scene 05: The Threshold Forward
-
-**Chapter:** ch23-deva-celestial
-**Section:** V. The Threshold Forward
-**Word Target:** ~1,500
-**Status:** Draft
-
----
-
 The realm's quality was changing.
 
 Not in its substance—the light-frequencies still sang, the deva beings still radiated their patient welcome, the structures of pure intention still flowed through space that wasn't space. But the awareness that moved through it registered a new texture: edge. Threshold. The sense of having traveled far enough through to glimpse what lay beyond.

@@ -1,5 +1,3 @@
-# Scene VII: The Positioning
-
 The application form sat in front of her—two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
 
 She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.

@@ -1,7 +1,3 @@
-# Scene I: The Shift from Smoke to Paper
-
----
-
 The smell changed first.
 
 Pyres gave way to papyrus. The sweet-rot of Athenian plague—bodies stacked and burning, fat rendering into smoke—thinned and cooled and became something else: lamp oil, old ink, the mustiness of scrolls stored too long in rooms where men believed certainty was possible. The temperature shifted with the smell, fever-heat receding into the controlled warmth of a brazier, of clay lamps guttering in bronze holders, of a space designed for thinking rather than dying.

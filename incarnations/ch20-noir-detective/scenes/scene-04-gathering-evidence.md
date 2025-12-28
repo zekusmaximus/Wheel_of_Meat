@@ -1,17 +1,3 @@
-# Scene 4: Gathering Evidence
-
-February came in gray and wet.
-
-The rain started on the first of the month and didn't quit. Not the heavy downpours that would come later—just a constant drizzle, a fine mist that worked its way into everything: clothes, buildings, bones. The streets of Los Angeles turned slick and treacherous. The gutters ran brown with mud from the hills. Angels Flight's cables groaned and creaked in the damp, and the old Victorian mansions on Bunker Hill seemed to sag a little more each day, as if the weight of the water was finally too much for them to bear.
-
-I worked through it. Rode the funicular down each morning with my collar turned up and my hat pulled low. Interviewed witnesses in coffee shops and back rooms and once, memorably, in a mausoleum at Hollywood Forever Cemetery, where an accountant named Williams—his hands shaking so badly he couldn't light his own cigarette—had insisted we meet because "the dead don't talk."
-
-The case was building. I could feel it taking shape, layer by layer, like sediment accumulating at the bottom of a river. Each witness added something. Each document confirmed another connection. The web of corruption that ran through Los Angeles—from City Hall to the police to the gambling ships anchored off the coast—was becoming visible, if you knew where to look.
-
-But the more I uncovered, the more I noticed things going wrong.
-
----
-
 The first sign was Doyle, the clerk from the assessor's office. He'd been my most reliable source—a man whose hands never stopped moving, but committed. He'd given me two depositions, each one more damning than the last. We had a third meeting scheduled for the second week of February, at a diner on Figueroa where the coffee was terrible and the booths were private.
 
 He didn't show.

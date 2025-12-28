@@ -1,7 +1,3 @@
-# Scene 7: The Healer's Burden
-
----
-
 The guard came three days after the interrogation—or what Diego believed was three days, time having dissolved into cycles of meals and darkness and waiting for pain that had not yet come but whose promise hung over every waking moment like storm clouds that refused to break.
 
 "Physician." The guard's voice carried neither sympathy nor cruelty, only the flat utility of someone delivering information. "Your services are required."

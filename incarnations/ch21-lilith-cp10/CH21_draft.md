@@ -1,7 +1,3 @@
-# Chapter 21: The Pivot
-
-## Movement 1: Loose Weave
-
 Rain on two cities. She felt it in her skin before she heard it on the windows.
 
 The faculty reception hummed with the particular violence of small talk—clinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray—and across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions that had backfired into exactly what she'd tried to prevent.
@@ -32,9 +28,6 @@ Both held. Both true. Both bleeding through the membrane of her attention like t
 
 And the wheel turned, carrying her toward the moment she'd been building toward since she first recognized his thread in Ka's desperate isolation, since she first understood that someone was approaching the threshold at the same rate she was, since the race began and she started running and found she could not stop.
 
----
-
-## Movement 2: Tightening
 
 She spotted Silas across the reception room. Philosophy faculty cluster near the windows—rain still falling behind them, the gray light making everything look underwater, submerged. He was talking to a colleague, gesturing with one hand while the other held a wine glass he hadn't drunk from. The gesture was familiar. The patience in it. The certainty that didn't announce itself.
 
@@ -78,9 +71,6 @@ The rain continued in both cities. The pursuit continued in both centuries.
 
 And the wheel turned, carrying her closer.
 
----
-
-## Movement 3: The Flood
 
 She was close enough now. Could hear his voice.
 
@@ -136,9 +126,6 @@ Whose heart?
 
 The question dissolved before she could answer it. She stepped forward into the space the colleague had vacated, and the rain continued in both cities, and the wheel turned beneath her feet, and she did not see what she was becoming in the act of becoming it.
 
----
-
-## Movement 4: Death/Sighting — The Superposition
 
 March 1938. Rain in the alley behind Jack's boarding house.
 
@@ -246,9 +233,6 @@ She stood very still. Let the pain move through her. Let the realization settle.
 
 Then she crossed the last few feet of distance and extended her hand.
 
----
-
-## Movement 5: The Pivot
 
 If I can't stop him, I'll bind him.
 
@@ -335,7 +319,3 @@ The work continued.
 The wheel turned.
 
 And neither of them knew they were already home.
-
----
-
-**Word Count: ~3,700**

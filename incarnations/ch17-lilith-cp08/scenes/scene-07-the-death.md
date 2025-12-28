@@ -1,5 +1,3 @@
-# Scene 7: The Death
-
 The road west of Bordeaux ran through oak forest thick enough to swallow sound, and Jean de Langon died there in the gathering dark.
 
 Lilith watched through temporal perception—not through Marguerite's eyes now; the widow had served her purpose and was left behind in her print shop, setting type for pamphlets that would not change the world. Through something older, something that preceded vessels and names and individual faces. Through the awareness that had tracked him since Ka crouched in firelight three hundred thousand years before.
@@ -33,4 +31,3 @@ Something in her chest—not grief, she could not afford grief—pulled toward h
 The race. The stakes. Strategic necessity.
 
 She filed the sensation and reached for the laptop.
-

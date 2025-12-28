@@ -1,7 +1,3 @@
-# Scene 5: The Source
-
----
-
 Time lost meaning in the cell. Meals arrived through the grate's slot—bread hard enough to crack teeth, water that tasted of iron and something organic Diego's mind refused to examine. Twice a day, he thought, though the thin grey light from the high window never changed enough to mark dawn from dusk with certainty. He counted meals instead. Seven. Or eight. Perhaps nine. The numbers slipped away from him like water through fingers, leaving only the thickness of isolation, the weight of silence broken only by distant sounds—footsteps in corridors, voices too muffled to parse into words, occasionally screaming that cut off abruptly in ways Diego's physician's mind understood but refused to fully acknowledge.
 
 He had not been interrogated. No inquisitor had come. No questions asked. The waiting was its own persuasion, he understood—the slow erosion of certainty, the grinding pressure of solitude designed to make any human contact, even interrogation, seem preferable to continued isolation.

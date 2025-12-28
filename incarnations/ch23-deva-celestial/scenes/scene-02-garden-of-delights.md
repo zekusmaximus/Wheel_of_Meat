@@ -1,12 +1,3 @@
-# Scene 02: The Garden of Delights
-
-**Chapter:** ch23-deva-celestial
-**Section:** II. The Garden of Delights
-**Word Target:** ~1,400
-**Status:** Draft
-
----
-
 Movement here was remembering where you wanted to be.
 
 The realm shifted—or the awareness shifted through the realm—and something that functioned like distance collapsed into arrival. A new zone manifested: concentrated beauty, pleasure-frequencies saturating the space until the space itself became the pleasure, until there was no distinction between perceiving beauty and being beauty perceived.

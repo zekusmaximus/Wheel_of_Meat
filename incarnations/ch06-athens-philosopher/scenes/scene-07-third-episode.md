@@ -1,12 +1,3 @@
-# Scene 07: Third Episode—Martyrdom
-
-**Chapter:** ch06-athens-philosopher
-**Section:** VII. Third Episode
-**Word count:** ~1,520
-**Status:** Draft
-
----
-
 The night came without mercy, thick with smoke and the sounds of the dying city. Through the single window of the small room, Philon could see the glow of funeral pyres painting the darkness orange, their flames the only light in a city that had forgotten how to live. The woman on the pallet had not spoken again since her single word—*water*—but her breathing continued, ragged and shallow, proof that somewhere within the wreckage of her body, something still fought.
 
 He had closed the door. Barred it. The others in the outer room—three women and two men who might yet recover, who had a chance if they received care through the night—would have to wait. He had left them water, clean cloths, the herbs that might ease their fevers. It was not enough. He knew it was not enough.

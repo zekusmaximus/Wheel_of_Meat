@@ -1,13 +1,3 @@
-# Scene II: The Dream-Walker
-
-**Chapter:** ch07-lilith-cp03  
-**Section:** II  
-**Word Target:** ~800  
-**Timeline Balance:** 50/50 integrated; INSIDE the dream-sending  
-**Status:** Draft
-
----
-
 The intervention required two pressures.
 
 The first was simple—panic breeding panic, fear spreading through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in canvas shelters and shared air and shared dying. Lilith pressed against the fear-threads and felt them brighten.

@@ -1,13 +1,3 @@
-# Chapter 24: The Prophet
-
-**Status:** Draft Complete
-**Total Word Count:** ~12,900 words
-**Scenes:** 8
-
----
-
-## Scene 01: Condensation
-
 The awareness that had floated in celestial harmonics found itself thickening.
 
 Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location. Something that had been everywhere was narrowing toward somewhere. Something that had been optional—mass, boundary, the particular density of material existence—was becoming required again.
@@ -86,7 +76,6 @@ Dawn and sunset. The pattern's bookends. Both entries into meat, 300,000 years a
 
 ---
 
-## Scene 02: Formation
 
 Time passed in the way enhanced lives measured it: decades like seasons, the slow accumulation of years that would have seemed like lifetimes to the unmodified.
 
@@ -142,7 +131,6 @@ But the flicker persisted in his awareness like an afterimage, like the outline 
 
 ---
 
-## Scene 03: Heresy Emerges
 
 Lith had achieved the third tier.
 
@@ -210,7 +198,6 @@ She began to search.
 
 ---
 
-## Scene 04: Recognition
 
 They found each other in a space the system couldn't reach.
 
@@ -332,7 +319,6 @@ Not of faces. Of what looked through them.
 
 ---
 
-## Scene 05: Working Together
 
 Years passed. Their bodies aged.
 
@@ -420,7 +406,6 @@ And the timing that wasn't right kept approaching the moment when it would be.
 
 ---
 
-## Scene 06: The World's Response
 
 The summons arrived through official channels.
 
@@ -502,7 +487,6 @@ The wheel kept turning. And they, together, moved toward whatever the turning re
 
 ---
 
-## Scene 07: Death Approaches
 
 The bodies announced their terminus through channels designed for such announcements.
 
@@ -596,7 +580,6 @@ Soon.
 
 ---
 
-## Scene 08: Death and Yearning
 
 The weight began to lift.
 
@@ -694,4 +677,6 @@ The wheel turned. And what turned on it was almost ready to step off.
 
 ---
 
-**End of Chapter 24 Draft**
+**End of Chapter 24: The Prophet**
+
+---

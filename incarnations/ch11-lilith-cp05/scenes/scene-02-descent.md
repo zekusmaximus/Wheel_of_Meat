@@ -1,7 +1,3 @@
-# Scene II: The Descent into Vessel
-
----
-
 The delegation formed without her intention.
 
 She had been watching Macarius for—how long? Days blurred in the tracking, each one identical to the one before: the heat, the weaving, the silence that pressed. Time moved differently in his cell. Nothing changed. Nothing *needed* to change. The discipline he had constructed was so complete that observation felt like watching a photograph try to breathe.

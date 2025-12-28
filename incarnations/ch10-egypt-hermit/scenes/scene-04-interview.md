@@ -1,5 +1,3 @@
-# Scene IV: The Interview
-
 The delegation returned with the morning sun.
 
 Macarius had not slept. The hours of darkness had passed in prayer—or what passed for prayer when the words moved through a mind too agitated to hold them. He had knelt until his knees screamed, sat until his back cramped, lay on the reed mat and stared at the darkness above him until the darkness seemed to stare back. When dawn came, it found him arranged in his customary posture, hands open on his knees, but the arrangement was a performance for an audience that had not yet arrived.

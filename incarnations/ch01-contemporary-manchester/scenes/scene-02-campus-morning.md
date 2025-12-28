@@ -1,12 +1,3 @@
-# Scene 02: Campus Morning
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** II. Campus Morning
-**Word count:** ~400
-**Status:** Draft
-
----
-
 Mornings in Manchester were a different story, especially following on the heels of behind schedule nights. Memories of the restaurant and what followed crowded Lilith's mind as she made her way across campus in the early light. It reflected off the modern additions to the historic buildings, onto her face and the empty pathways awaiting the morning rush.
 
 Silas walked towards her, heading to his office in the Arthur Lewis Building, seeming to avert his gaze when she came into view. When he seemed not to notice her, hesitation in her stride suggested her mention of his past lives the night before might have been a mistake. Lilith narrowed her eyes as if preparing to feel Silas out as a student barreled past her, almost nudging her out of his way.

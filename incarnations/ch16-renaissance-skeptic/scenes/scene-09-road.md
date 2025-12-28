@@ -1,5 +1,3 @@
-# Scene 9: The Road
-
 Jean left Bordeaux at dusk. The gate guards examined his papers with the careful attention of men who knew warrants might follow any traveler, but his letter of passage from the Parlement was still valid—would remain valid until someone with authority revoked it. By then, Jean intended to be across the provincial boundary into territory where Guyenne's factional feuds held less immediate weight.
 
 His horse was the same animal that had carried him through the investigation. Steady, not fast. The kind of mount that served for travel rather than escape. Jean had considered acquiring a faster horse, then rejected the idea. He was not fleeing. He was moving toward whatever came next with the same methodical certainty he brought to everything else.

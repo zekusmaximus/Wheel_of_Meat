@@ -1,7 +1,3 @@
-# Scene 9: The Fire
-
----
-
 They came for him at dawn.
 
 No warning, no summons, but Diego had known. The pattern was clear enough—prisoners who did not confess fully were processed through interrogation, through examination of increasing rigor, and finally through to reconciliation or relaxation to secular authorities. Diego had provided partial confession but refused to name others. The Holy Office's patience, infinite in theory, had limits in practice. The auto-de-fé had been scheduled. His name was on the list.

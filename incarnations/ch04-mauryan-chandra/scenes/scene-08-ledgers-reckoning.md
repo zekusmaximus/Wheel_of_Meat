@@ -1,12 +1,3 @@
-# Scene 08: The Ledger's Reckoning
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** VIII. The Ledger's Reckoning
-**Word count:** ~3,600
-**Status:** Draft
-
----
-
 The sky had turned the color of old bronze, the smoke filtering the afternoon sun into something that belonged to neither day nor night. Chandra lay in the dirt and watched it darken by degrees, his body's surrender now complete enough that pain had become simply another form of presence—constant, familiar, almost companionable in its refusal to abandon him.
 
 The compound had fallen silent. The fire had consumed what it could consume and settled into embers that sent thin columns of smoke spiraling upward like offerings no one had requested. The guards and laborers had departed, their tasks completed or abandoned, leaving the destruction to cool without witness.

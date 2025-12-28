@@ -1,7 +1,3 @@
-# Scene 5: Collapse of Coherence
-
----
-
 The streets of Rome were choked with afternoon traffic—carts laden with amphorae, litters bearing the wealthy, slaves carrying burdens that bent their backs toward the cobblestones. Verinus walked quickly, Marcus struggling to keep pace, both of them threading through the chaos toward the praetor's office where a fourth witness had finally agreed to speak.
 
 The cook. Varro's cook, who had been absent the night of the death and had refused every summons until now. She had information, the message said. Something she had remembered.

@@ -1,12 +1,3 @@
-# Scene 01: The Sunset
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** I. Opening
-**Word count:** ~850
-**Status:** Draft
-
----
-
 The sunset painted warning colors across Lilith's skin as she sat on the edge of the bed, her silhouette a dark promise against the dying light. Silas dozed behind her, his breath shallow and uneven. He remained unaware or uncaring that their game of metaphysical pillow talk was about to become, as it always was and always would be, terrifyingly real.
 
 "Do you know how many lives you've lived to reach this place? How many times you screamed coming out of a bloody womb? How many times you died cold and alone?" Her voice a silken caress, a sharp glint in her eyes. She ran her fingers along his back, and he stirred, his muscles protesting with a dull ache as he rolled over to face her, eyelids heavy. The humid room smelled of sweat and perfume. The chatter and traffic of the city rode the warm breeze through the open window.

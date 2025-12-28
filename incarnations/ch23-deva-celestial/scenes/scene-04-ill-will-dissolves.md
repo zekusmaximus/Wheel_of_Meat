@@ -1,12 +1,3 @@
-# Scene 04: Ill-Will Dissolves
-
-**Chapter:** ch23-deva-celestial
-**Section:** IV. Ill-Will Dissolves
-**Word Target:** ~1,200
-**Status:** Draft
-
----
-
 Something had shifted in the encounter.
 
 Not the realm—the realm continued its harmonics, its light-frequencies, its patient availability to whatever chose to move through it. The shift was subtler: an orientation adjusted, an angle changed, a question answered without anyone asking it.

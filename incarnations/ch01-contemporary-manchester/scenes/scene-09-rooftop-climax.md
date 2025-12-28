@@ -1,12 +1,3 @@
-# Scene 09: The Rooftop
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** IX. The Rooftop
-**Word count:** ~3,800
-**Status:** Draft
-
----
-
 Stewart turned at the sound of the door, and in the city's ambient glow, Silas could see he wasn't the same young man who'd stripped in the lecture hall that morning. The desperation was gone. In its place, something worse—a terrible clarity that settled across his features like frost.
 
 "Professor Phalavan." The words carried no surprise, no distress. An observation, nothing more. "I thought they might send you."

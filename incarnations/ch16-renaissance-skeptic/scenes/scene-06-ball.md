@@ -1,5 +1,3 @@
-# Scene 6: The Ball
-
 The ball was held at the residence of Antoine de Pibrac, a nobleman whose wealth derived from wine and whose survival derived from hosting gatherings where both factions could meet under the fiction of social courtesy. Jean arrived as evening settled into full dark, his best doublet brushed clean and his sword worn as much for fashion as function. A man did not attend such events unarmed. Neither did he draw steel unless he wished never to be invited again.
 
 The great hall glittered with candles that cost more than most families spent on food in a season. Musicians played in the gallery. Guests moved in patterns of approach and avoidance choreographed by faction loyalty and social rank. Jean recognized faces from both sides: Catholic League supporters in one cluster, Protestant commanders in another, and between them the politiques who attempted to serve neither faction enough to provoke the other.

@@ -1,12 +1,3 @@
-# Scene 02: The Recognition
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement II. The Chain Returns
-**Word Target:** ~2,500
-**Status:** Draft
-
----
-
 Days passed. Or weeks—the distinction mattered less here, where time moved to rhythms older than clocks.
 
 We learned the language. Not studied it—let it seep in through repetition, through context, through the patience of the villagers who pointed at things and named them, waited for us to echo, nodded at approximations and smiled at success. The sounds that had been noise became words, became sentences, became the medium of thought in this place and time.

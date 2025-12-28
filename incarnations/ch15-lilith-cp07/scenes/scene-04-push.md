@@ -1,7 +1,3 @@
-# Scene 4: The Push
-
----
-
 The intervention was not Sor Catalina. Sor Catalina was memory—completed action, archived certainty. The intervention was happening now, from this flat, through capabilities that did not require vessels.
 
 Lilith reached.

@@ -1,12 +1,3 @@
-# Scene 04: The Hallway
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** IV. The Hallway
-**Word count:** ~850
-**Status:** Draft
-
----
-
 It was a moment that neither had forgotten when they bumped into each other in the empty academic hallway a little while later. The afternoon shadows played through the stained glass windows as they met. Dark wood paneling covered the wall behind the bench where they turned to sit. Lilith drew close to Silas, placing her hand on his knee.
 
 "How's Stewart?" She could hear the genuine concern in his voice.

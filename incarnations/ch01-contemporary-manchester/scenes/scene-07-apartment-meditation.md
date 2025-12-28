@@ -1,12 +1,3 @@
-# Scene 07: The Meditation
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** VII. The Meditation
-**Word count:** ~700
-**Status:** Draft
-
----
-
 Silas tried Lilith's practice when they returned to her apartment, while she insisted on drying her hair. His affirmation continued to run in his mind, as if given new depth since his recent revelations. The noise of the hair dryer permeated the room despite the torrential downfall and occasional rumble of thunder outside.
 
 Watching him as she finished up, Lilith sat in a chair across from him. The slight smell of wet hair lingered. His posture was impeccable, his concentration complete. The moment seemed to stretch as she closed her eyes and appeared to slip into a practice of her own. The lights in the room became impossibly bright, yet neither of them noticed.

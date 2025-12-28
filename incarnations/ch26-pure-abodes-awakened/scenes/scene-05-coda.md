@@ -1,12 +1,3 @@
-# Scene 05: Coda
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement V. Morning Continues
-**Word Target:** ~2,000
-**Status:** Draft
-
----
-
 Morning.
 
 Light touched skin through a window that faced east—not warning but welcome, not the dying of day but its birth. The small house at the village's edge held the particular quiet of places recently woken, dust motes drifting in the slanting rays, the bed empty now but still holding the warmth of the body that had rested there.

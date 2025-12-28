@@ -1,7 +1,3 @@
-# Scene I: The Shift to Silence
-
----
-
 The ink faded first.
 
 Rome's particular density—papyrus and bronze and the weight of accumulating contradictions—thinned and opened into something else: sand, stone, an emptiness so complete it registered as texture. The procedural rhythm of investigation gave way to a stillness she could feel pressing against her awareness like held breath. Heat replaced the brazier's controlled warmth, not the fever-heat of Athens's plague but something drier, more deliberate—sun cooking stone that had been cooking for decades, for centuries, for as long as men had chosen to suffer here and called the suffering holy.

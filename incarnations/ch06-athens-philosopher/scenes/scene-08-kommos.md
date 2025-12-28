@@ -1,12 +1,3 @@
-# Scene 08: Kommos—The Broken Realization
-
-**Chapter:** ch06-athens-philosopher
-**Section:** VIII. Kommos
-**Word count:** ~1,010
-**Status:** Draft
-
----
-
 He worked through that first day with the fever already building behind his eyes—a pressure that made the light too sharp, the sounds too near. The five patients in the outer room needed water, needed their dressings changed, needed the simple presence of someone who had not fled. He gave them what he could. His hands moved through the familiar motions: cloth wrung, fever checked, pulse counted. The work itself was steady, even if the man performing it was not.
 
 By evening, he could no longer lift the water basin.

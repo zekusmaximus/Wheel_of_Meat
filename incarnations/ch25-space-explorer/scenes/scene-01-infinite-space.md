@@ -1,7 +1,3 @@
-# Scene 01: Infinite Space — "The Shock of No-Body"
-
----
-
 No weight.
 
 No edge. No surface against which to—

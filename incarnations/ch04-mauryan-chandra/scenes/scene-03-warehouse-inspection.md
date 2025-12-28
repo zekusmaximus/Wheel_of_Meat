@@ -1,12 +1,3 @@
-# Scene 03: Warehouse Inspection
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** III. Warehouse Inspection
-**Word count:** ~2,400
-**Status:** Draft
-
----
-
 The granary complex sprawled along the riverbank like a creature built for consumption—twelve warehouses arranged in staggered rows, their brick foundations rising from the alluvial mud, their thatch roofs sloping toward drainage channels that carried monsoon water back to the Ganges. I stood at the main gate as the morning sun climbed toward its zenith, my wounded arm aching beneath fresh bandages, and counted the structures by capacity. Forty thousand measures total storage, assuming standard packing density. Enough grain to feed the district for three months, or to fund a conspiracy large enough to warrant killing a Dharma-Mahāmātra.
 
 The guards at the gate had examined my authority documents with the particular slowness of men accustomed to delaying visitors until their superiors could be notified. I had waited, watching the activity within the compound—laborers carrying sacks between buildings, clerks moving with palm-leaf bundles clutched against their chests, a supervisor gesturing emphatically at a cart driver who had positioned his vehicle in some unacceptable manner. The rhythms were familiar. I had spent twelve years in similar compounds before accepting the emperor's service, learning to read the flow of goods and people the way other men learned to read faces.

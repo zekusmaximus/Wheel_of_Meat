@@ -1,12 +1,3 @@
-# Scene 03: The Other Thread
-
-**Chapter:** ch23-deva-celestial
-**Section:** III. The Other Thread
-**Word Target:** ~1,600
-**Status:** Draft
-
----
-
 He felt her before he saw her.
 
 The sensation arrived without a nervous system to receive it—a particular frequency cutting through the realm's harmonics, familiar in a way that predated memory. Not the deva beings' luminous welcome. Something sharper. Something that knew him specifically, had known him across configurations he was only beginning to remember.

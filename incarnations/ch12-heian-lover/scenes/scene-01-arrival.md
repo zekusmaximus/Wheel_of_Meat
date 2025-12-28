@@ -1,7 +1,3 @@
-# Scene I: The Arrival
-
----
-
 The scent of pine smoke and stale perfume hung beneath the eaves of the Kujō mansion, heavy as the brocade curtains drawn against the autumn chill. In the northern gallery, a dozen courtiers recited verses about chrysanthemums, each poem more exquisite than the last, each voice pitched to suggest depths of feeling that Fujiwara no Kaoru could not, despite his reputation, bring himself to counterfeit.
 
 He sat apart from the circle, his robes—autumn colors, browns bleeding into faded gold—arranged with deliberate carelessness over the cypress boards. A sake cup warmed his palm. His thumb traced its rim, again and again, a habit he could not remember acquiring.

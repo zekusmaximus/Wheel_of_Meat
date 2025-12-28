@@ -1,5 +1,3 @@
-# Scene 7: The Temptation
-
 Jean returned to the print shop well after dark. The streets of Bordeaux were dangerous at this hour, but danger had become a constant companion, and Jean no longer weighed the risks of movement against the risks of stillness. Both would kill him if he miscalculated.
 
 Marguerite answered his knock herself. She held a candle that carved her face into planes of light and shadow, and for a moment Jean saw something in her expression that seemed older than the face that wore it—a weariness beyond years, a patience that suggested time moved differently for her than for other people.

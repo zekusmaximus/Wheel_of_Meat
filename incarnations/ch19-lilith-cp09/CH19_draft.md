@@ -1,5 +1,3 @@
-# Scene I: Rain and Dust
-
 Rain drummed Manchester windows and dust rose from Tianjing's broken walls—two species of violence held in the same awareness, the same breath. Lilith sat in her Fallowfield flat, Week 8 or 9 of tracking (she'd stopped counting days when the pursuit became fever), and felt the autumn cold seep through cheap walls while smoke from artillery fires seeped through centuries. The sound was rain and also artillery. The silence was her flat's emptiness and also the weighted quiet before massacre. Both true. Both present. Both bleeding through the membrane of her attention like temperature through glass.
 
 Tea sat beside her, gone cold. The film on its surface might have formed an hour ago or this morning—she could not have said which. Outside her window, leaves fell from trees that had not existed when Wei Shufen first lifted a scalpel, first wrapped bandages around wounds that would kill anyway, first began the compulsive counting that mirrored her own. Autumn in Manchester. The slow dying of the year. In Tianjing, it was summer 1862, then winter 1863, then spring 1864—two years compressed into her sustained attention, a siege she'd been watching for days that had lasted for the besieged across seasons they'd measured in starvation and hope's slow erosion.
@@ -38,7 +36,6 @@ Rain on windows. Dust from walls. The sound of both kinds of violence, held.
 
 She watched. She waited. The wheel turned, and neither of them knew they were already caught in it.
 
-# Scene II: The Curse Spreads
 
 Precision required timing.
 
@@ -106,7 +103,6 @@ The curse spread. The numbers inverted. The rain continued.
 
 And neither of them could stop.
 
-# Scene III: The Doctrine Collapse
 
 The bowl sat in Wei's hands and the wrongness of it registered across timelines as smell before understanding: green and rot together, vegetation that had given up being food and become only fiber, only bulk, only the pretense of sustenance.
 
@@ -178,7 +174,6 @@ Both held in the same awareness, the same breath.
 
 And beneath it all, the pressure in her chest that had no source she could name, no explanation she would accept, no resolution except the one approaching that she could not yet see.
 
-# Scene IV: The Pause
 
 The third day of Wei's paralysis arrived like the others: artillery at dawn, smoke rising, the siege grinding forward with the inevitability of stone wearing smooth under water. Two days he'd sat idle. Two days he'd refused patients. Two days Lilith had watched and called it success while the pressure in her chest refused to dissipate.
 
@@ -228,7 +223,6 @@ Outside, artillery continued. Rain continued. The siege ground forward.
 
 And Wei began to work.
 
-# Scene V: The Breakthrough and Death
 
 "It doesn't matter if I'm cursed," Wei said to no one, to the child, to the empty alcove where gods used to sit. "You're bleeding now. And I can stop that."
 
@@ -352,7 +346,6 @@ Never examined.
 
 The work continued.
 
-# Scene VI: Tracing Forward
 
 The thread continued.
 
@@ -462,7 +455,6 @@ Not examined. Not yet. Not ever.
 
 The work continued.
 
-# Scene VII: The Positioning
 
 The application form sat in front of her—two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
 
@@ -556,7 +548,6 @@ But she did not see it. Walked toward the parking lot where her car waited, walk
 
 And the race continued, and the wheel turned, and the pattern she'd been living without seeing moved toward its resolution.
 
-# Scene VIII: The Threshold
 
 She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now—direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
 

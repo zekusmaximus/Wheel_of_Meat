@@ -1,7 +1,3 @@
-# Scene 3: First Testimonies—The Human Noise Floor
-
----
-
 Varro's study smelled of old papyrus and lamp oil gone rancid. Scrolls filled every surface—stacked on shelves, piled on the floor, spread across the writing desk where the philosophus had died. The afternoon light came thin through a single high window, catching dust that hung in the air like a held breath. Someone had cleaned the desk since the death, but the wood still bore a dark stain where the wine had spilled, and nothing could remove the sense of interrupted thought that clung to the room.
 
 Verinus stood in the center of the chaos and felt something in his chest constrict.

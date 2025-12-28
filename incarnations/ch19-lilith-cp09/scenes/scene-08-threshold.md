@@ -1,5 +1,3 @@
-# Scene VIII: The Threshold
-
 She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now—direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
 
 Philosophy department. Humanities building. Third floor, west wing. Office hours Tuesday and Thursday afternoons. Undergraduate seminars on ethics, graduate course on metaphysics. The details accumulated without effort, without search, just attention following the thread that had brought her across centuries, across nine historical interventions, across the many deaths she'd watched until the watching had become the only thing she knew how to do.

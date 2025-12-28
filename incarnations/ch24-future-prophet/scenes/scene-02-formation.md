@@ -1,7 +1,3 @@
-# Scene 02: Formation
-
----
-
 Time passed in the way enhanced lives measured it: decades like seasons, the slow accumulation of years that would have seemed like lifetimes to the unmodified.
 
 Silex grew. The word applied, though growth here meant optimization curves and developmental milestones, neural pathway formation tracked by metrics that left nothing to chance. The Eternal Synthesis's educational protocols guided consciousness toward approved patterns—this posture for stillness, this breathing rhythm for calm, this sequence of internal gestures for the states they called transcendence.

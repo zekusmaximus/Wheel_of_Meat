@@ -1,12 +1,3 @@
-# Scene 07: Learning Together
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** VII. Learning Together
-**Word count:** ~900
-**Status:** Draft
-
----
-
 Alpha male points where sun dies. Points to far herd. Big-nose beasts. Dangerous prey. Tribe needs food. Cold time comes. Ka looks at spear. Broken now. No use. Alpha male gives Ka new spear. Strong spear. Sharp point. Wood smooth-cool in Ka's hand. Ka looks at tribe. At big-nose beasts. Together. Ka makes small head move. Small move. Big change.
 
 Tribe hunts. Together. Like dogs. Like water flowing. Around big-nose beast. Making it go where they want. Ka hunts with them. Not alone now. New feeling. Not weak. Not strong. Part of something. Ka learns. Tribe moves as one. Sign-moves. Call-sounds. Hand-talks. Silent speaking. Ka follows. Learns. Watches how they work together. Each hunter doing part. Like strong net with many ties.

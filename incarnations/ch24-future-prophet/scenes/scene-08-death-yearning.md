@@ -1,7 +1,3 @@
-# Scene 08: Death and Yearning
-
----
-
 The weight began to lift.
 
 Not metaphor—though metaphor was all that remained when direct description failed. The bodies that had housed them, designed to specification, optimized for longevity, the final containers they would wear in any configuration like this one, released their grip on what they had been containing. The meat let go of the consciousness. The consciousness let go of the meat.

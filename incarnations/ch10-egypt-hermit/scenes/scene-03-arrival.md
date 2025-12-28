@@ -1,5 +1,3 @@
-# Scene III: The Arrival
-
 The disruption began with sound.
 
 Macarius was arranging the finished baskets for the village trip when he heard it—voices, multiple voices, carrying across the sand. Not the single approach of a young monk seeking counsel, nor the familiar shuffle of old Didymus bringing oil. This was something larger. Something plural. The sound of it was wrong for the desert, too crowded, too full of intention.

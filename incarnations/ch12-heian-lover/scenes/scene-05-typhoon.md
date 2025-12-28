@@ -1,7 +1,3 @@
-# Scene V: The Typhoon
-
----
-
 The storm came from the south, moving faster than the messengers who tried to warn the capital. By the time Kaoru heard the first crash of thunder from his chambers in the Rokujō district, the sky had already turned the color of a bruise—purple-black, swollen with a violence that the city's elegant architecture had never been built to withstand.
 
 He should stay inside. The prudent move, the courtier's move, the move that any reasonable man would make when wind began to tear tiles from rooftops. His servants had already secured the shutters. His ox had been led to the covered stables. There was nothing required of him except to wait.

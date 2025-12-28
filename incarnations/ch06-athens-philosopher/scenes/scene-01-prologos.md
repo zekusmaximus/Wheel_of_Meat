@@ -1,12 +1,3 @@
-# Scene 01: Prologos—The City Before Collapse
-
-**Chapter:** ch06-athens-philosopher
-**Section:** I. Prologos
-**Word count:** ~1,400
-**Status:** Draft
-
----
-
 Dawn broke over Athens like a promise the city had not yet learned to doubt. The marble of the Parthenon caught the first light and held it, gleaming above the Agora with a confidence that seemed permanent, though nothing in the world of men ever was. The marketplace stirred before the sun cleared the eastern hills—vendors arranging amphoras of oil, stacking loaves of barley bread, unrolling lengths of linen dyed saffron and indigo. The air smelled of fresh-baked grain and animal dung, wood smoke and the salt carried inland from Piraeus. A good morning in a great city, or so it appeared to those who had not yet learned what was coming.
 
 Philon of Kephissia moved through the Agora with the measured pace of a man who had long since stopped hurrying. He was lean in the way of those who forget to eat, his chiton hanging loose at the shoulders, the dark wool faded from too many washings. Sun and sleepless nights had carved lines into his face that made him look older than his years, though his hands remained steady—callused at the fingertips, stained faintly with the residue of poultices and tinctures. He carried a leather satchel slung across one shoulder, its weight familiar and unremarkable.

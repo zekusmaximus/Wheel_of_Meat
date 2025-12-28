@@ -1,7 +1,3 @@
-# Scene III: The Complaint
-
----
-
 Philosophers were arguing in a portico.
 
 The sound reached her before the image—voices layered like sediment, each assertion complicated by counter-assertion, each certainty undermined by the certainty that followed. She felt Verinus approaching before she saw him, his consciousness pressing toward the debate with the hunger of a man seeking ground that would not shift beneath him.

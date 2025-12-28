@@ -1,7 +1,3 @@
-# Scene 8: The Release
-
----
-
 Night came, though in the cell night and day were distinguished only by subtle shifts in the grey light that seeped through the high window—darker grey, lighter grey, the prison's own twilight that never truly lifted or settled but simply existed as permanent condition. Diego lay on the straw pallet, his body too exhausted to sleep, his mind too active to rest. The hatred pulsed beneath his breastbone with each heartbeat—steady, persistent, almost comforting in its constancy.
 
 He examined it the way he would examine a wound. What was it made of? Where had it taken root? The physician's diagnostic approach applied to the condition of his own interior state, as though cataloging symptoms might reveal treatment or at least understanding.

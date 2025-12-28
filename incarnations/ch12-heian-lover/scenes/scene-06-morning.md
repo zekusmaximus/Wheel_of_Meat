@@ -1,7 +1,3 @@
-# Scene VI: The Morning
-
----
-
 The storm passed sometime in the hours before dawn. Kaoru did not notice. He had stopped noticing things that did not involve the weight in his arms, the cold that had seeped through his robes and into his bones, the shallow rhythm of his own breathing—each inhale a negotiation with lungs that no longer wanted to cooperate.
 
 Lady Hotaru had grown cold long ago. He knew this the way he knew the color of the sky or the sound of his own name—as a fact that existed independent of his feelings about it. Her body had stiffened, then relaxed again, settling into a stillness that no living person could have held. He had not set her down. He did not intend to.
@@ -72,7 +68,7 @@ Somewhere far away, in a time that had not yet happened, a man would be accused 
 
 And he would not know why he was so certain that truth was worth more than comfort.
 
-But he would be certain. 
+But he would be certain.
 
 And that certainty would begin here, in the mud, in the morning, in the arms of a man who had finally learned what beauty required.
 

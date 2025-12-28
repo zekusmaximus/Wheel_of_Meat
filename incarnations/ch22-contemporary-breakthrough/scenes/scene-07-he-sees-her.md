@@ -1,12 +1,3 @@
-# Scene 07: He Sees Her
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** VII. He Sees Her
-**Word Target:** ~1,000
-**Status:** Draft
-
----
-
 The lives were still present—threads beyond counting humming at the edge of awareness like strings recently plucked—when Silas noticed the pattern he'd missed before.
 
 She had been in all of them.

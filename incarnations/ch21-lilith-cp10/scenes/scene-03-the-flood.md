@@ -1,5 +1,3 @@
-# Scene 3: The Flood
-
 She was close enough now. Could hear his voice.
 
 Silas stood at the edge of the philosophy cluster, discussing something with a colleague—contemplative practice, therapeutic intervention, the intersection of meditation traditions and clinical work. His voice: measured, warm, certain in a way that didn't announce itself. The same certainty she'd heard in Jack's voice on a phone call she'd been close enough to overhear.

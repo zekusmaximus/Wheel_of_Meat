@@ -1,12 +1,3 @@
-# Scene 02: The Aftermath
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** II. The Aftermath
-**Word Target:** ~800
-**Status:** Draft
-
----
-
 The paramedics would arrive in minutes. Lilith knew this the way she knew her own breathing—the cadence of emergency response, the distance from the nearest station, the time it took to navigate campus.
 
 Minutes. To become who she needed to be again.

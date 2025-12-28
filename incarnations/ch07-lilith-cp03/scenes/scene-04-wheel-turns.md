@@ -1,13 +1,3 @@
-# Scene IV: The Wheel Turns
-
-**Chapter:** ch07-lilith-cp03  
-**Section:** IV  
-**Word Target:** ~900  
-**Timeline Balance:** 80/20 Historical-dominant → surfaces to Manchester  
-**Status:** Draft
-
----
-
 The slave woman died three hours before dawn.
 
 Lilith felt the moment as a loosening—not in herself, but in the thread, in the tension that had held the woman's consciousness to failing flesh. Philon sat beside the body in the darkness of his small room, his hands still on skin that was already cooling, and the fever's heat finally released into the air where it would find new hosts, new bodies, new meat to consume.

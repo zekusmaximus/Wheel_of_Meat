@@ -1,7 +1,3 @@
-# Scene 4: Stoic Debate & Lilith Cameo
-
----
-
 The Portico of Octavia was crowded despite the hour. Citizens and students had gathered in the long colonnade, their shadows stretching across the marble floor as the afternoon light slanted through the columns. At the center of the crowd, two men in philosopher's dress faced each other like wrestlers before a match—though their weapons were not fists but premises, and their arena was the uncertain terrain of the human soul.
 
 Verinus stood at the crowd's edge, arms folded across his chest. He had come here on impulse, seeking clarity where the Varro case offered none. Philosophy had always anchored him—the Stoic certainty that reason could illuminate any darkness, that virtue was knowledge and knowledge was attainable. He needed that certainty now.

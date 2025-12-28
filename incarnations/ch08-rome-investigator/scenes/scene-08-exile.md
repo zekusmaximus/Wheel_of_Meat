@@ -1,7 +1,3 @@
-# Scene 8: Exile—The Quiet Unraveling
-
----
-
 The olive grove stretched down the hillside toward the sea, its silver-green leaves catching the late autumn light. Verinus stood among the trees, watching the freedman—a quiet Sicilian named Servius—harvest the last of the season's fruit. The rhythm of the work was hypnotic: hands reaching, olives falling into the basket, the soft thud of fruit against woven reed.
 
 He had been here three months. The journey from Rome had taken two weeks by ship, and he had spent the first month simply learning the shape of his exile—the small stone house with its single hearth, the grove that provided his livelihood, the fishing village an hour's walk down the coastal road where he could buy bread and wine and the occasional letter from the mainland.

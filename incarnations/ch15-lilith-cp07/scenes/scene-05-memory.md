@@ -1,7 +1,3 @@
-# Scene 5: The Memory
-
----
-
 The flat was too small.
 
 She rose from the chair and the rising did not help—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as Diego's cell, as every enclosure she had tracked and tracked toward.

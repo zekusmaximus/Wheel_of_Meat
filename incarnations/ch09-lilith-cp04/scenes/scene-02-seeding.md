@@ -1,7 +1,3 @@
-# Scene II: The Seeding
-
----
-
 The praetor's office smelled of old ink and older ambition. She was inside it now—not observing from distance but pressed against the membrane of the moment, feeling the dust motes hang in morning light, the scrolls packed into honeycombed shelving, the weight of accumulated civic anxiety that made the air itself feel documented.
 
 Verinus stood before a table scarred by generations of stylus work. Fresh papyrus lay between him and a freedman whose face had been carved by bureaucratic disappointment into permanent grievance. Somewhere in the back rooms, a clerk was coughing.

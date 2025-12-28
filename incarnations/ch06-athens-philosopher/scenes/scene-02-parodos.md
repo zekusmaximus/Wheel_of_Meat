@@ -1,12 +1,3 @@
-# Scene 02: Parodos—The First Breach
-
-**Chapter:** ch06-athens-philosopher
-**Section:** II. Parodos
-**Word count:** ~900
-**Status:** Draft
-
----
-
 The collapse came three days later.
 
 Philon had continued his work in the interval, treating the ailments that required no explanation—a child with an infected insect bite, a potter whose hand had slipped against the wheel, a woman whose pregnancy sat wrong in her body and would not settle. Each case he approached with the same unhurried attention, though beneath his calm he felt the tightening that comes before a storm. The rumors from Piraeus had multiplied, as rumors do, growing darker with each retelling. Sailors staggering from ships. Bodies left on the docks. Fever that burned so hot it cracked the lips and left the afflicted begging for water they could not keep down.

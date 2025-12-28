@@ -1,7 +1,3 @@
-# Chapter 13: The Beauty of Frozen Things
-
-## I.
-
 The silence changed texture before it changed temperature. Desert stillness—the hermit's practiced void—dissolved into something softer, something that carried scent instead of emptiness, and Lilith felt the shift in her flat as a loosening she hadn't asked for. The radiator clicked. Moonlight replaced lamplight, or perhaps the lamp had been moon all along, filtering through rice-paper screens that her walls became in the corner of her awareness where Manchester was always also somewhere else.
 
 Beauty. She had not expected beauty.
@@ -28,11 +24,8 @@ The thread hummed. Silk and paper and moonlight. A different shape of attachment
 
 She followed.
 
----
 
-## II.
-
-She had been closer than she'd ever been. The memory surfaced in her hands before her mind could intercept it—the weight of lacquer trays, the texture of silk sleeves brushing doorframes, the particular ache of knees pressed against wooden floors for hours of arranged stillness.
+She had been closer than she'd ever been. The memory surfaced in her hands before her mind could intercept it—the weight of lacquer trays, the texture of silk sleeves brushing doorframes, the ache of knees pressed against wooden floors for hours of arranged stillness.
 
 The Attendant had been hers. A vessel she had worn like a garment, and the garment had left creases.
 
@@ -68,15 +61,12 @@ The purpose. She held the word steady. *Tactical*. *Positioning*. *Strategy*.
 
 The walls remained sound. For now.
 
----
-
-## III.
 
 She needed air.
 
 The realization arrived as body-knowledge, bypassing the consciousness that should have intervened: her legs moving before her mind could question, jacket on, door opening, November cold against skin that had been warmth-wrapped for days she couldn't count precisely.
 
-Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the particular smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
+Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
 
 Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the particular appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
 
@@ -128,9 +118,6 @@ The filing was perfect. The walls were sound.
 
 But she could still feel the November cold on her skin, and something beneath strategy—beneath the walls, beneath the filing—hummed at the same frequency as the thread she followed.
 
----
-
-## IV.
 
 The frozen spring had been her finest work.
 
@@ -184,9 +171,6 @@ The filing was familiar. The walls were familiar.
 
 But the warmth in her hands would not explain itself as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
 
----
-
-## V.
 
 *The pull toward him is tactical.*
 

@@ -1,7 +1,3 @@
-# Scene IV: The Gathering
-
----
-
 The monks assembled at dawn.
 
 Fifty of them, perhaps more—she stopped counting when the pattern became clear. They gathered in a natural depression between dunes, the sand shaped by wind into a crude amphitheater. The rising sun threw Macarius's shadow long across the assembled brothers, and somewhere in the crowd a young monk wept silently at the proximity of holiness.

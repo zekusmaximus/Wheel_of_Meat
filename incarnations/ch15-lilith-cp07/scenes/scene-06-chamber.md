@@ -1,7 +1,3 @@
-# Scene 6: The Chamber
-
----
-
 Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste—frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
 
 She stood in the corner as she had stood in that corner, weeks of standing, watching, the sustained presence that Sor Catalina called prayer and that Lilith called something else. Something she did not name.

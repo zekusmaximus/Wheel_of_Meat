@@ -1,12 +1,3 @@
-# Scene 08: The Drive
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** VIII. The Drive
-**Word count:** ~2,800
-**Status:** Draft
-
----
-
 The rain had turned torrential by the time they reached the car, each drop shattering against the pavement like tiny failures of the sky to contain itself. Lilith's key fob chirped twice before the locks released, and she was already sliding behind the wheel when Silas pulled the passenger door open, his clothes heavy with water that had found every seam and gap.
 
 "Stewart checked himself out." She turned the ignition, the engine catching on the second try. "A security guard spotted him entering the Henry Royce Institute twenty minutes ago."

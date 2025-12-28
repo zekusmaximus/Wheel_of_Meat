@@ -1,7 +1,3 @@
-# Scene I: The Shift to Silence
-
----
-
 The ink faded first.
 
 Rome's particular density—papyrus and bronze and the weight of accumulating contradictions—thinned and opened into something else: sand, stone, an emptiness so complete it registered as texture. The procedural rhythm of investigation gave way to a stillness she could feel pressing against her awareness like held breath. Heat replaced the brazier's controlled warmth, not the fever-heat of Athens's plague but something drier, more deliberate—sun cooking stone that had been cooking for decades, for centuries, for as long as men had chosen to suffer here and called the suffering holy.
@@ -59,9 +55,7 @@ The palm fiber split under Macarius's practiced hands. In Manchester, her own ha
 Both of them were holding themselves in containments they called holy, and neither of them saw the bars.
 
 ---
-# Scene II: The Descent into Vessel
 
----
 
 The delegation formed without her intention.
 
@@ -138,9 +132,7 @@ She could not stop watching. The stillness called to something in her own stilln
 The names were walls. The fascination flowed beneath them, unnamed.
 
 ---
-# Scene III: The Feeding
 
----
 
 Days passed. She remained.
 
@@ -152,7 +144,7 @@ She felt the shift first as posture—the subtle adjustment of a body that belie
 
 *He is warming to this.*
 
-The observation arrived with the particular clarity she had cultivated across four iterations. Ka warming to the meat he would not share. Chandra warming to the counsel that made him indispensable. Philon warming to the students who gathered in the plague-stink to hear him teach. Verinus warming to the cases where his precision proved correct.
+The observation arrived with the clarity she had cultivated across four iterations. Ka warming to the meat he would not share. Chandra warming to the counsel that made him indispensable. Philon warming to the students who gathered in the plague-stink to hear him teach. Verinus warming to the cases where his precision proved correct.
 
 The warmth was always the same. The warmth was always fatal.
 
@@ -209,9 +201,7 @@ She did not see her own attachment to certainty, her own grasping at being the o
 The mirror was everywhere. She kept her eyes on him.
 
 ---
-# Scene IV: The Gathering
 
----
 
 The monks assembled at dawn.
 
@@ -231,7 +221,7 @@ And she felt him *feeding*.
 
 The warmth in his chest intensified with each attentive face. His voice found its rhythm—the rhythm of a rhetoric teacher, the rhythm of a man who had spent decades in classrooms before the desert claimed him. He had not forgotten how to hold an audience. He had only convinced himself that holding them for God was different from holding them for himself.
 
-*The rancid-honey taste.* She could feel it on his tongue now, bleeding through the vessel's perception. The sweetness of attention. The sourness of wanting it too much. The flavor of gratification that had been building since the delegation arrived.
+*The rancid-honey taste.* She could feel it on his tongue now, bleeding through the vessel's perception. The sweetness of attention. The sourness of wanting it too much. The particular flavor of gratification that had been building since the delegation arrived.
 
 The speech continued. The monks absorbed every word. The scribes wrote without looking up.
 
@@ -292,9 +282,7 @@ The question surfaced before she could suppress it:
 *Why did I hesitate?*
 
 ---
-# Scene V: The Backfire
 
----
 
 She traced him forward.
 

@@ -1,7 +1,3 @@
-# Scene 3: The Knock
-
----
-
 The silence woke him.
 
 Diego lay in darkness, his body rigid beneath wool blankets that suddenly felt too heavy, too confining, like burial shrouds already arranged. Beside him, Inés's breathing continued its steady rhythm—in, out, in, out—but beyond their chamber's walls, beyond the shuttered window and the narrow street outside, the city had gone quiet in a way that was not natural, not right.

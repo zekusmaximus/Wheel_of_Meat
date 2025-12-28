@@ -1,7 +1,3 @@
-# Scene III: The Stagnant Garden
-
----
-
 The ninth month came, and the leaves did not fall.
 
 Kaoru noticed it first as an absence of color. The maple along the western corridor should have burned crimson by now—every estate in the capital wore autumn like a new robe, the aristocracy timing their poetry gatherings to catch the peak of each tree's transformation. But here, in the garden of the Seiryō Pavilion, the maple remained stubbornly green. Its leaves hung motionless in air that did not move.

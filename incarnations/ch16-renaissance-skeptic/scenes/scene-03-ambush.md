@@ -1,5 +1,3 @@
-# Scene 3: The Ambush
-
 The road between market towns ran through oak forest thick enough to muffle sound and channel sight into the narrow corridor of packed earth that passed for passage. Jean rode with his hand loose on his reins and his attention spread across the middle distance—not staring at any one shadow, but holding all of them in peripheral awareness. A man learned this, traveling alone through country where factions maintained order only within sight of their own walls.
 
 His shoulder ached. The rain had passed but left the air heavy with the promise of more, and old wounds remembered weather before the sky did.

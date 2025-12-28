@@ -1,12 +1,3 @@
-# Scene 05: Cat Attack
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** V. Cat Attack
-**Word count:** ~1,000
-**Status:** Draft
-
----
-
 Ka turns from setting sun. Cold wind bites back. Goes back to cave. Cave smells wrong now. Tribe smell stronger. Fear smell. Change smell. Weak smell. Ka cannot take air in. Too thick. Ka leaves again. Needs air. Needs hunt. Needs alone. Away from pressing tribe smell. Needs big plains. Needs hunt alone. To feel big again. To feel strong again.
 
 Ka waits. No moving. Spear gripped tight. Something watches. Feeling crawls on Ka's skin. No sound. No moving. But Ka knows. Ka looks at trees, dark shadows, twisted branches like grabbing hands. Looks at rocks, sharp edges against dying light. Nothing. But watching feeling stays. Makes skin prickle. Wind changes, brings dog smell again. Stronger now. Closer. Smell like pack animal but stronger. Death smell.

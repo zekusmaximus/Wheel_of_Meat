@@ -1,7 +1,3 @@
-# Scene 2: The Pattern
-
----
-
 She had not intended to count. But the pattern was counting itself—intervention after intervention, backfire after backfire, the same mechanism repeating with precision that mocked precision.
 
 Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had crystallized wisdom. Verinus's contradictions had taught humility. Macarius's pride had become its own mirror. Kaoru's frozen beauty had melted.

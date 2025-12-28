@@ -1,7 +1,3 @@
-# Scene V: The Backfire
-
----
-
 She traced him forward.
 
 The gathering dissolved—monks dispersing, Theophanes conferring with the elderly priest, scribes closing tablets inscribed with wisdom and one strange silence they would interpret as holy mystery. The delegation left Scetis that afternoon, their camels laden with recorded insight, their understanding incomplete.

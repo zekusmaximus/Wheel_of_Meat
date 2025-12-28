@@ -1,7 +1,3 @@
-# Scene 7: The Fire
-
----
-
 Morning broke over the plaza and the plaza was full.
 
 Lilith stood at the crowd's edge—grey habit, folded hands, the posture of prayer that Sor Catalina had believed was prayer. Citizens lined the route. Merchants and nobles and peasants with children on their shoulders, come to witness God's justice made visible in flesh and fire.

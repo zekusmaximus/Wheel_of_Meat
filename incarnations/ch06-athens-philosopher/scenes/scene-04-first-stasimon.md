@@ -1,12 +1,3 @@
-# Scene 04: First Stasimon—The City's Lament
-
-**Chapter:** ch06-athens-philosopher
-**Section:** IV. First Stasimon
-**Word count:** ~500
-**Status:** Draft
-
----
-
 The pyres burned without ceasing.
 
 By day they sent columns of greasy smoke into the summer sky, obscuring the marble face of Athena atop the Acropolis. By night they glowed like scattered embers across the city, their light orange and constant, a mockery of the hearth fires that had once meant home. The smell of burning was everywhere now—not the clean smell of cooking meat or the sacred fragrance of sacrifice, but something else. Something that caught in the throat and would not leave.
@@ -28,4 +19,3 @@ The Parthenon remained. White and perfect against the smoke-darkened sky, its co
 Athens was burning its dead in the streets, and the gods looked on, and said nothing.
 
 The smoke rose. The pyres burned. And somewhere in the city, a physician worked on.
-

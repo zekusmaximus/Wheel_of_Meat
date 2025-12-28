@@ -1,12 +1,3 @@
-# Scene 02: Strange Hunters
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** II. Strange Hunters
-**Word count:** ~1,100
-**Status:** Draft
-
----
-
 Ka watches cave mouth. Strange hunters in valley. Move like one big animal. Not wolf. Not bear. Not cat. Something new. Fur like night sky after sun goes. Eyes like fire in dark. They hunt. But hunt different. Not like Ka. Not like tribe. Like wolves - strong ones on outside, weak ones inside circle.
 
 They smell ground. Find trail. Big one leads. Back marked with fighting scars. Eyes like ice chunks. Makes throat sounds. Others listen. They move. Like one breath. One heart. Long-tooth cat leaves different marks now. Drags kill higher up rock-places. Follows cold. Elk runs. Young elk. Afraid. Hunters chase. Fast. Quiet.

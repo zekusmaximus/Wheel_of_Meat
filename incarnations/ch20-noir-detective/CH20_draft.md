@@ -1,240 +1,8 @@
-# Scene 1: The Hangover
-
-I woke with the taste of failure in my mouth.
-
-The rye had gone sour sometime during the night, mixing with the copper aftertaste of the blood I'd bitten from my cheek while sleeping. My tongue found the wound—small, raw, already scabbing. Another dreamless night of grinding my teeth through whatever my mind was trying to forget.
-
-Gray light leaked through the gap in the curtains. Morning, probably. The radiator had quit again, leaving the room cold enough that my breath made small ghosts in the air above the pillow. I watched them rise and dissolve, postponing the moment when I'd have to swing my legs over the edge of the Murphy bed and face another day of being Jack Malone, private investigator, thirty-eight years old and running out of reasons to keep the title.
-
-The ceiling had a new crack. Water damage from the storms last week, working its way through the old Victorian bones of this Bunker Hill boarding house. Mrs. Patterson would want someone to look at it. She wouldn't pay to have it fixed. The crack would spread, and eventually the ceiling would come down, and that would be that. Everything in this city was rotting from the inside out. You just had to decide how long you wanted to watch.
-
-I sat up.
-
-The room came into focus in pieces: the hot plate on the dresser with yesterday's coffee still in the pot, a skin of oil floating on top; the single wooden chair with my trousers draped over it, wrinkled beyond what any iron could fix; the washstand with its chipped basin and the mirror above it, which I made a point of not looking into before noon. The mirror showed things a man didn't need to see at this hour. How the gray had spread from his temples into the hair above his ears. How the lines around his eyes had stopped being character and started being age. How he looked, more and more, like his father had looked in the last years—hollow and waiting.
-
-I rubbed my jaw, feeling the stubble rasp against my palm. Two days' growth, maybe three. I'd stopped counting.
-
-The smell hit me when I stood: yesterday's cigarettes, the rye I'd spilled on the floor beside the bed, the general funk of a room that hadn't seen fresh air since Roosevelt's first term. Through it all, coming up from the street three floors below, the wet concrete smell that meant the rain had stopped overnight. Los Angeles in January. The city couldn't decide if it wanted to drown or burn.
-
-I crossed to the window and pulled back the curtain.
-
-Bunker Hill spread out below me in the early light, beautiful in the way a corpse is beautiful before it starts to rot. The old Victorian mansions climbed the slope like monuments to dead money, their painted ladies now carved up into boarding rooms and flophouses for people who couldn't afford the flatlands. Angels Flight sat halfway down the hill, its two orange cars frozen on their tracks, waiting for the first fare of the day. Beyond that, downtown Los Angeles gleamed in the distance—the Eastern Columbia Building, the City Hall tower, the movie palaces along Broadway. From up here, you couldn't see the breadlines. Couldn't smell the desperation that hung over Fifth Street like fog. Couldn't hear the police sirens that had become as common as birdsong in a city that had sold its soul to the Combination and called it progress.
-
-I turned away from the window.
-
-The newspaper was still on the floor where I'd thrown it last night, and for a moment I saw the headline again without having to pick it up: RAYMOND BOMBING WITNESS RECANTS. Two weeks since someone had wired a car bomb to former detective Harry Raymond's Buick, and the city was already forgetting. The witnesses who'd identified the cops involved were changing their stories. The investigation was going nowhere. Captain Earle Kynette and his Spy Squad would walk, and everyone who mattered would learn the lesson: don't investigate the Combination unless you want to die in a ball of fire.
-
-I'd known Harry. Not well—we'd crossed paths a few times when I was still on the force, back when I thought being a good cop meant something. He'd been building a case against Mayor Shaw's machine, documenting the payoffs, the protection rackets, the straight line that ran from City Hall to the mob. Now he was in a hospital bed learning to breathe around the shrapnel in his lungs, and the men who'd tried to kill him were still drawing their city paychecks.
-
-Twelve dollars.
-
-That was what I had. Twelve dollars in the coffee can on top of the icebox, and rent due in three days. Six dollars a week for this palace of rot and radiator failure. Mrs. Patterson had already extended me once, after the Henderson divorce fell through. She wasn't the extending type.
-
-I found my shirt on the floor, pulled it on, decided the tie could wait. The Colt Detective Special went into the shoulder holster—force of habit, though I hadn't fired it in anger since quitting the department two years ago. The trench coat covered the gun and most of the wrinkles. The fedora covered my hair, which had given up any pretense of cooperation.
-
-The coffee was cold and bitter, but I drank it anyway, standing at the window, watching Angels Flight start its first run of the day. Five cents to ride down the hill to my office. Five cents more to ride back up tonight, if I could find five cents and a reason to come back.
-
-Six months.
-
-That's how long it had been since a case went right. The Delacroix missing person—found the man, turns out he didn't want to be found, turned out his wife didn't want him found once she saw what he'd been doing, turned out nobody wanted to pay me once the truth came out. The Kimball blackmail job—identified the blackmailer, client decided to pay instead of prosecute, blackmailer walked with the money and a smile. The Fontaine insurance fraud—had the proof, DA's office sat on it, eventually lost the file, case dismissed. One after another, month after month. Good work going nowhere. Results that turned to ash the moment I tried to hold them.
-
-I'd started to think it was me. That I'd lost whatever edge I'd had as a cop. That the drink was finally catching up, or the sleepless nights, or just the accumulation of years in a city that ground down anyone who tried to stay clean.
-
-What I didn't know—what I couldn't have known—was that none of it was accident. Somewhere, someone was making sure my cases failed. Making sure the witnesses recanted and the evidence disappeared and the clients backed out. Setting me up for something I couldn't see coming.
-
-But that's not how it felt that January morning. That morning, standing in my cold room with bad coffee and twelve dollars and a headline about a good cop who'd gotten too close to the truth, it just felt like Los Angeles. It just felt like being Jack Malone.
-
-I rinsed the coffee cup, left it in the basin, and headed for the door.
-
-Angels Flight was running by the time I reached the top of the incline. The car named Sinai was waiting, its wooden benches empty except for an old Mexican woman with a basket of tamales she was probably taking down to sell on Spring Street. I dropped my nickel in the slot and took a seat near the front, watching the city rise up to meet me as we descended.
-
-The woman was praying quietly, her lips moving over words I couldn't hear. Rosary beads clicked between her fingers, small and worn. She looked at me once, saw what I was—the rumpled coat, the unshaven face, the exhaustion that had become permanent—and went back to her prayers. I didn't blame her. If I believed in anything worth praying to, I'd have been doing the same.
-
-The car reached the bottom of the hill, and I stepped out onto Hill Street, into the morning light and the sound of traffic and the smell of exhaust mixing with bacon from the diner across the way. My office was four blocks north, on the second floor of a building that had been grand once and was now merely standing. The elevator hadn't worked since Hoover was president. The stairs creaked in places that changed week to week, the building settling into its own slow collapse.
-
-The frosted glass door still said JACK MALONE – PRIVATE INVESTIGATIONS, which was optimistic of it. I unlocked the door and stepped inside, and that's when I saw them.
-
-Two men, waiting.
-
-They rose from the client chairs as I entered, and everything about them said trouble. Good suits—too good for Bunker Hill—and the careful, watchful manner of men who were used to being careful and watchful. The older one was fifty, maybe, with silver hair and the kind of tan you get from country club golf, not honest labor. The younger one was thirty, carrying a briefcase like it contained something that might explode.
-
-"Mr. Malone." The older one extended his hand. His grip was firm, practiced. "I apologize for letting ourselves in. Your door was unlocked."
-
-It hadn't been. I always locked it. But I wasn't going to argue with men in suits that cost more than my monthly rent.
-
-"What can I do for you gentlemen?"
-
-They looked at each other. The younger one set his briefcase on my desk, unopened.
-
-"We'd like to hire you," the older one said. "To do something very dangerous, for very good money."
-
-Outside, the sounds of the city continued—cars and streetcars and the distant wail of a siren, someone else's emergency, someone else's problem. I looked at the briefcase, then at the two men who'd come with it.
-
-Rent was due in three days. Twelve dollars wouldn't cover it.
-
-I should have told them no.
-
-"I'm listening," I said.
-
----
-
 **Word count: ~1,650**
-# Scene 2: The Offer
 
-I hung my coat on the rack by the door and crossed to my desk, taking my time. The Venetian blinds were crooked—someone had touched them—and the filing cabinet drawer wasn't quite closed, a quarter inch of gap that hadn't been there yesterday. These men had been through my things. Not finding anything, because there was nothing to find, but looking.
-
-"Sit down," I said, settling into my own chair. It squeaked, as it always did, a sound that had become so familiar I barely noticed it anymore. "And tell me why two men who could afford lawyers are slumming in a Bunker Hill detective agency."
-
-The older one smiled, but not with his eyes. He took the chair across from me, folding one leg over the other with the ease of a man who'd never worried about creasing his trousers. The younger one remained standing by the window, the briefcase back in his hands.
-
-"My name is Vernon Shaw." The older one let the name hang there, watching for a reaction. "And before you ask—no, not that Shaw. A distant relation, and not a proud one."
-
-Mayor Frank Shaw. The Combination's pet politician, the man who'd turned Los Angeles into a vending machine where every service had its price and the machine was always broken. I kept my face blank.
-
-"Go on."
-
-"I'm part of a... concerned citizens' group." Vernon Shaw chose his words like a man picking through broken glass. "We believe the current city administration has exceeded the bounds of acceptable corruption. The Raymond bombing was the final straw. We're organizing a recall effort, Mr. Malone. Signatures are being gathered as we speak."
-
-I'd heard the rumors. Half the reform-minded people in Los Angeles had heard them. A recall petition against a sitting mayor—the first in American history for a city this size. It sounded noble. It also sounded suicidal.
-
-"You want to take down Frank Shaw," I said. "With petitions."
-
-"With evidence." Vernon leaned forward, and for the first time I saw something behind the country club polish—his jaw tight, a vein pulsing at his temple. "The petition gets us on the ballot. But to win the recall, we need to show the public exactly what's been happening. The payoffs, the protection rackets, the Spy Squad operations. We need documentation that the newspapers can print and the voters can see."
-
-"You need someone to do what Harry Raymond was doing. Before someone wired his car."
-
-The younger man flinched. Vernon didn't.
-
-"We're aware of the risks, Mr. Malone. That's why we're coming to you instead of one of the large agencies. You have a reputation for honesty. For not being buyable. For having left the LAPD rather than participate in cover-ups." He paused. "We did our research."
-
-I thought about the twelve dollars in my coffee can. About the rent due in three days. About six months of failed cases and the slow grinding certainty that I was becoming irrelevant.
-
-"You know what happened to Raymond," I said. "You know what happens to anyone who gets too close to the Combination. Why would I be any different?"
-
-"Because you're already close." Vernon nodded at the filing cabinet with its gap-drawer, the blinds that had been touched. "Your name is on a list, Mr. Malone. The Spy Squad has been monitoring you since you left the force. Probably before. Captain Kynette considers ex-cops who didn't take the buyout to be potential whistleblowers. You're already in danger. The only question is whether you want to be in danger for nothing or for something."
-
-I rubbed my jaw, feeling the stubble catch against my palm. It was a habit I'd picked up somewhere—couldn't remember when—this gesture of thinking, of buying time when time was the only thing I had to spend.
-
-"What exactly do you want me to do?"
-
-The younger man stepped forward and set the briefcase on my desk. He clicked it open. Inside: a manila folder, thick with papers, and underneath it, banded stacks of bills. More money than I'd seen in one place since I'd quit the force.
-
-"Retainer," Vernon said. "Two hundred dollars. Twenty-five a day plus expenses after that, for as long as the investigation takes. The folder contains what we already have—names, dates, suspicious transactions. We need someone to verify, to add to it, to build the kind of case that can't be buried. Someone who knows how the police work, how the courts work, how the Combination protects itself."
-
-I didn't touch the money. Not yet.
-
-"Who else knows about this? Your 'concerned citizens' group?"
-
-"A dozen people. Business owners, mostly. A few ministers. One or two sympathetic journalists. All of them have families, reputations, reasons not to be identified publicly until we're ready. If this fails, the Combination will destroy them."
-
-"And if it fails, I'll be dead."
-
-Vernon Shaw met my eyes. "Yes. Probably. Is that a reason not to try?"
-
-Outside, I could hear the streetcar rattling past on Hill Street, the clang of its bell mixing with the rumble of automobiles and the distant sound of construction somewhere downtown. The city going about its business, buying and selling and making deals and pretending none of it was built on a foundation of blood and graft.
-
-I thought about Harry Raymond, lying in a hospital bed, his lungs full of shrapnel.
-
-I thought about the headline that morning: WITNESS RECANTS.
-
-I thought about the twelve dollars in my coffee can, and the six months of failed cases, and the slow certainty that I was disappearing into irrelevance.
-
-And underneath all of that, somewhere deeper than I could name, I thought about the simple fact that someone had to give a damn. Someone had to look at the rot and say it was rot, even if saying it got you killed. Someone had to try.
-
-I didn't know where that thought came from—that compulsion to keep pushing against walls that wouldn't move. It felt older than me, older than this life, like an echo from somewhere I couldn't remember. But it was there, and it was strong, and it was the only thing that had ever felt like truth.
-
-"You know what you're asking," I said. "You're asking me to paint a target on my chest and walk through a shooting gallery."
-
-"We're asking you to help us take back our city."
-
-"Same thing."
-
-I looked at the money in the briefcase. At the folder full of names and dates and promises. At Vernon Shaw with his country club tan and his hard-set jaw, and the younger man who was probably someone's son or brother, standing there with white knuckles on the briefcase handle and sweat beading at his hairline.
-
-I should have said no. Every instinct I'd developed in sixteen years as a cop and two years as a private detective was screaming that this was how men died—with good intentions and bad odds and a file full of evidence that would never see the light of day.
-
-Instead, I reached into the briefcase and pulled out the folder.
-
-"Tell me about these names."
-
-Vernon Shaw exhaled—relief, or maybe just the release of tension he'd been holding since he walked in. The younger man's shoulders dropped an inch.
-
-"The first section covers the payoff structure," Vernon began, leaning forward. "Shaw—Mayor Shaw—operates through intermediaries. His brother Joe handles most of the direct collections. Chief Davis provides the enforcement arm through the Spy Squad and the Gun Squad. The money flows up through a series of front businesses, mostly bars and gambling operations that are technically illegal but operate openly under police protection."
-
-I opened the folder and started reading. Names I recognized, some of them. Aldermen and police captains and businessmen who showed up in the society pages with their wives at charity events. Numbers beside the names—payments, mostly, regular as clockwork. Five hundred here, a thousand there. Small amounts that added up to a fortune.
-
-"This is circumstantial," I said. "Accounting records can be explained away. You need testimony."
-
-"We have names." Vernon pointed to a page near the back. "People who've seen things, done things, want to talk. They're scared, obviously. The Raymond bombing made them more scared. But some of them are willing, if they can be assured of protection."
-
-I looked at the list. A dozen names, with addresses and occupations. A city clerk. A police secretary. A bartender at one of the Combination's protected joints. Small people, caught in a big machine, hoping someone would help them get out.
-
-"You want me to interview these people. Get their statements on record."
-
-"Document everything. Build the case. When we have enough—when it's airtight—we go to the newspapers. Not the Times, they're in Shaw's pocket. But there are reform papers, out-of-town stringers who'd love to break this story. Once it's public, once the voters can see what's been happening, the recall becomes a matter of civic duty."
-
-"And until then, I'm the only one connecting you to any of this."
-
-"Yes."
-
-I closed the folder. Looked at the money again. Two hundred dollars. More than three months' rent. More than I'd made in the last two months combined.
-
-"The witness list," I said. "Some of these people are going to get cold feet once I start asking questions. Some of them are going to be compromised—Combination plants, or people who'll run to the cops the moment I leave. You understand that?"
-
-"We understand."
-
-"And when the Spy Squad figures out what I'm doing—and they will figure it out—they're going to come for me. They might come for your concerned citizens too. Are your ministers and businessmen ready for that?"
-
-Vernon Shaw's jaw tightened. "We're prepared for casualties. We've all made peace with what this might cost."
-
-It was the right answer, and it was probably a lie. Nobody was ever really prepared for casualties. Not until the casualties happened.
-
-But he believed he meant it. That was something.
-
-I picked up the folder and slid it into my desk drawer. Then I reached into the briefcase and took out the money—all of it, the banded stacks of twenties and tens and fives.
-
-"I'll need a week to work through the initial list," I said. "Longer if people start disappearing or changing their stories. You'll hear from me when I have something concrete."
-
-Vernon Shaw stood, extending his hand again. "Thank you, Mr. Malone. You won't regret this."
-
-I shook his hand. The younger man gathered the empty briefcase and followed Vernon to the door.
-
-"Mr. Shaw." They both turned. I was still sitting at my desk, the folder in the drawer, the money in my hand. "You should know why I'm taking this case."
-
-"I assumed it was the money."
-
-"The money helps." I set the bills down on the desk. "But the truth is, someone has to give a damn. Even if it doesn't matter. Even if it gets me killed. Someone has to look at the rot and call it rot. I quit the force because I couldn't stomach being part of the cover-up. This is the same thing. Just a different angle."
-
-Vernon Shaw studied me for a long moment. Whatever he saw seemed to satisfy him.
-
-"That's exactly what we were hoping to hear," he said. "Good luck, Mr. Malone."
-
-They left. The frosted glass door swung shut behind them, and I was alone in my office with two hundred dollars and a list of names and the growing certainty that I'd just signed my own death warrant.
-
-But somewhere beneath the certainty—beneath the fear and the pragmatic calculation—there was something else. Something that felt almost like relief. Six months of failed cases, and now I had a case that mattered. A case worth failing at.
-
-I put the money in the safe, locked the drawer with the folder inside, and lit a cigarette.
-
-Outside, the city kept moving. The Combination kept operating. The corruption kept flowing through Los Angeles like blood through a body too sick to heal.
-
-But somewhere, a clock was ticking. And I was finally doing something worth dying for.
-
----
 
 **Word count: ~2,100**
-# Scene 3: First Blood
 
-The first week went better than I had any right to expect.
-
-I started with the soft targets—the clerk, the bartender, the secretary. People who worked at the edges of the Combination's operations, who saw enough to be useful but weren't important enough to be protected. The clerk, a thin-faced little man named Doyle who worked in the assessor's office and couldn't stop drumming his fingers on the table, gave me a two-hour deposition about property transfers that had gone through his desk without proper documentation. The bartender—Muñoz, at a place called The Blue Parrot on Main Street—confirmed protection payments that matched the numbers in Vernon Shaw's folder. The secretary, Helen Marsh, had worked in Chief Davis's outer office for three years before transferring to a safer posting in the Parks Department. She knew things. She wanted to tell them.
-
-I wrote everything down. Names, dates, amounts. The web of connections between City Hall and the police and the gambling operations and the floating casinos anchored off Santa Monica. Each interview confirmed something from the folder, added something new, pointed me toward another thread I hadn't known existed.
-
-By the end of the week, I had enough material to fill a second folder. Enough to make the recall case stronger. Enough to make me a legitimate threat.
-
-And that's when the other case walked through my door.
-
----
 
 Her name was Margaret Sinclair, and she was the wrong kind of beautiful for a detective agency on Bunker Hill. Blonde hair waved like they did it in the pictures, a face that belonged on a movie poster, and clothes that cost more than my monthly rent. She sat in the client chair and twisted her gloves in her hands, and everything about her screamed money looking for trouble.
 
@@ -377,19 +145,7 @@ Even when giving a damn got people killed.
 ---
 
 **Word count: ~2,300**
-# Scene 4: Gathering Evidence
 
-February came in gray and wet.
-
-The rain started on the first of the month and didn't quit. Not the heavy downpours that would come later—just a constant drizzle, a fine mist that worked its way into everything: clothes, buildings, bones. The streets of Los Angeles turned slick and treacherous. The gutters ran brown with mud from the hills. Angels Flight's cables groaned and creaked in the damp, and the old Victorian mansions on Bunker Hill seemed to sag a little more each day, as if the weight of the water was finally too much for them to bear.
-
-I worked through it. Rode the funicular down each morning with my collar turned up and my hat pulled low. Interviewed witnesses in coffee shops and back rooms and once, memorably, in a mausoleum at Hollywood Forever Cemetery, where an accountant named Williams—his hands shaking so badly he couldn't light his own cigarette—had insisted we meet because "the dead don't talk."
-
-The case was building. I could feel it taking shape, layer by layer, like sediment accumulating at the bottom of a river. Each witness added something. Each document confirmed another connection. The web of corruption that ran through Los Angeles—from City Hall to the police to the gambling ships anchored off the coast—was becoming visible, if you knew where to look.
-
-But the more I uncovered, the more I noticed things going wrong.
-
----
 
 The first sign was Doyle, the clerk from the assessor's office. He'd been my most reliable source—a man whose hands never stopped moving, but committed. He'd given me two depositions, each one more damning than the last. We had a third meeting scheduled for the second week of February, at a diner on Figueroa where the coffee was terrible and the booths were private.
 
@@ -510,45 +266,7 @@ Even when giving a damn might get you killed.
 ---
 
 **Word count: ~1,900**
-# Scene 5: The Pattern Emerges
 
-The arrests started in the third week of February.
-
-They came for me on a Tuesday, two plainclothes detectives from Central Division who didn't bother showing badges until we were already in the back of their unmarked car. The charge was vagrancy—a bullshit catch-all the LAPD used when they wanted to hold someone without actually having to prove anything.
-
-"You're making a mistake," I said.
-
-The bigger of the two detectives—a thick-necked Irishman named Burke, who I'd worked with briefly back when I was on the force—backhanded me across the mouth. The taste of blood, copper and warm, filled my mouth.
-
-"The mistake was yours, Malone. Sticking your nose where it doesn't belong."
-
-They held me for eighteen hours. No phone call, no lawyer, no explanation beyond Burke's assertion that I was "a known troublemaker" who needed to learn his place. They put me in a holding cell with three drunks and a man who'd been picked up for public indecency, and they left me there while the hours crawled past.
-
-The interrogation came at midnight.
-
-Captain Earle Kynette himself conducted it—the head of the Spy Squad, the man whose unit had wired Harry Raymond's car and nearly killed him. Kynette was slim, dark-haired, with the kind of flat eyes that made you think of a snake deciding whether you were worth the effort of biting.
-
-"You've been busy, Malone." He sat across from me in the interrogation room, the single bare bulb throwing harsh shadows across his face. "Talking to people. Writing things down. Making copies of documents that don't belong to you."
-
-"I'm a private investigator. Investigating is what I do."
-
-"What you're doing is interfering with the efficient operation of city government." He smiled, the expression carrying no warmth. "That's a crime, Malone. Maybe not one that's written down in any law book, but it's a crime all the same."
-
-I said nothing. There was nothing to say.
-
-Kynette leaned forward. "I'm going to give you some advice, because I'm a reasonable man. Walk away. Whatever case you think you're building, whatever evidence you think you have—let it go. Take a vacation. Go somewhere nice, somewhere far away, and stay there until the recall election is over. Do that, and nothing happens to you. Keep going, and..."
-
-He spread his hands, the gesture carrying a world of implied violence.
-
-"I've heard this speech before," I said. "Harry Raymond heard it too. He didn't listen, and someone put a bomb in his car."
-
-"Harry Raymond was a stubborn man." Kynette's smile didn't waver. "Stubborn men don't live long in this town."
-
-They released me at dawn, without charges, without explanation. I walked out of the station into gray morning light and rain that had started sometime during the night. My suit was wrinkled, my face was bruised where Burke had hit me, and my mouth tasted like old blood and bad coffee.
-
-But I was alive. And I wasn't going to quit.
-
----
 
 While I'd been in custody, someone had visited my office.
 
@@ -655,53 +373,7 @@ Even if it meant dying for nothing.
 ---
 
 **Word count: ~1,800**
-# Scene 6: Blackmail and Betrayal
 
-The blackmail case found me three days after the warning note.
-
-I was sitting in my office, trying to reconstruct the corruption file from memory, when the door opened and a man walked in who reeked of money and desperation in equal measure. His suit was silk, his shoes were Italian leather, and his hands were shaking so badly he had to clamp them together to keep me from seeing.
-
-"I need your help." He sat without being invited, his bulk settling into the client chair like a load of wet sand. "Someone is threatening to ruin me."
-
-His name was Howard Brennan. Real estate developer, country club member, the kind of man who usually wouldn't set foot in a Bunker Hill walkup unless he was slumming or in trouble. He was clearly in trouble.
-
-"What kind of ruin?" I asked.
-
-"There's a woman." He said it like a confession, which I suppose it was. "I've been seeing her for... for some time. My wife doesn't know. Can't know. And now someone has photographs. They're demanding ten thousand dollars, or they send copies to my wife, my business partners, the newspapers."
-
-Ten thousand dollars. More money than I'd seen in my life. More money than most people in this city would earn in a decade.
-
-"When's the deadline?"
-
-"Three days. They gave me a week, and I've spent four of it trying to figure out what to do." His eyes were red-rimmed, bloodshot. The eyes of a man who hadn't slept since this started. "I could pay it—I have the money—but they'll just come back for more. They always do. I need someone to find out who's behind this. Someone to make it stop."
-
-I should have refused. The corruption case was crumbling around me, and taking on another job would spread me too thin. But Howard Brennan was sitting in my office with money in his pocket, and my rent was due, and the cynical part of me whispered that an ordinary blackmail case might go right in a way the corruption case couldn't.
-
-"Five hundred dollars," I said. "Retainer against expenses. And I'll need everything you have—the photographs, the demand letter, any contact you've had with the blackmailer."
-
-He paid in cash, counting out fifty-dollar bills with fingers that still trembled. The photographs were in an envelope inside his coat—three of them, grainy but clear enough, showing Brennan and a dark-haired woman in what was unmistakably a hotel room. The demand letter was typed, no signature, postmarked from downtown Los Angeles.
-
-I studied the photographs while Brennan watched, his face cycling through shades of shame and fear.
-
-"The woman," I said. "Who is she?"
-
-"Her name is Gloria. Gloria Dane. She's... she works at a club downtown. I've been seeing her for about six months."
-
-"Does she know about the blackmail?"
-
-"I don't know. I haven't talked to her since the letter came. I've been too scared to..." He trailed off, unable to finish the sentence.
-
-I put the photographs back in the envelope. "I'll look into it. Don't contact Gloria, don't try to investigate on your own, and for God's sake don't pay the blackmailer. If they think you'll pay once, they'll never stop."
-
-Brennan nodded, the motion jerky, automatic. He stood, adjusted his silk tie with unsteady hands, and walked to the door.
-
-"Mr. Malone." He turned back, his face a study in barely controlled panic. "If you can't stop this... if they release those photographs..."
-
-"I understand."
-
-He left. I sat at my desk and looked at the envelope full of photographs and thought about how many ways this could go wrong.
-
----
 
 Gloria Dane worked at a place called The Velvet Room, a nightclub on South Main that catered to businessmen who wanted discretion with their drinks. I went there that night, paid the cover charge, and found a table near the stage where a four-piece band was playing something slow and smoky.
 
@@ -848,21 +520,7 @@ Even when you were the one who was going to die.
 ---
 
 **Word count: ~2,400**
-# Scene 7: The Flood
 
-The rain started on February 27th, and it didn't stop.
-
-I woke to the sound of water—not the gentle drip of a leak or the steady patter of a normal storm, but a roar. A wall of sound that pressed against the windows of my boarding room like something alive and hungry. I pulled back the curtain and looked out at a city dissolving.
-
-The streets had become rivers. Bunker Hill's Victorian mansions seemed to sag under the weight of water pouring from their gutters, streaming down their walls, pooling around their foundations. Angels Flight had shut down—I could see the cables hanging slack, the orange cars frozen on their tracks. Below, where downtown should have been visible, there was only gray. Gray sky, gray rain, gray water rushing through streets that had never been designed to handle this much.
-
-I dressed and went downstairs. The landlady, Mrs. Patterson, was standing in the lobby with a bucket in each hand, trying to catch the water coming through a hole in the ceiling.
-
-"It's the end times," she said without looking at me. "The Lord is washing this city clean."
-
-I didn't argue. Looking at the water streaming past the windows, it was hard to say she was wrong.
-
----
 
 The flood lasted five days.
 
@@ -1005,31 +663,7 @@ Just because the trying was not nothing.
 ---
 
 **Word count: ~1,950**
-# Scene 8: The Car
 
-March came in cold.
-
-The flood had passed, but the rain hadn't stopped entirely—just settled into a steady drizzle that made everything feel gray and exhausted. The city was cleaning up, hauling away debris, rebuilding bridges, pretending that everything was going to be fine. The newspapers were full of stories about resilience and recovery. The Combination was back to business as usual.
-
-And I was running out of time.
-
-The murder charge hadn't gone away. Burke kept calling me in for "follow-up questions," each session a little more aggressive than the last. The circumstantial evidence was piling up, not because I was guilty, but because someone was making sure the pile grew. Witnesses I'd never met were coming forward to place me near Novak's studio. A gun dealer claimed I'd bought a replacement .38 two days before the killing. Lies, all of it, but the kind of lies that could put a man in San Quentin.
-
-I kept working anyway.
-
-Vernon Shaw's reporter had started sniffing around the corruption story. Nothing published yet, but noise was being made. Phone calls to city officials. Requests for records. The kind of activity that made powerful people sweat.
-
-And the Combination was sweating. I could feel it in the way Burke looked at me, in the silence that fell when I walked into certain bars, in the way my neighbors at the boarding house had started avoiding eye contact. Something was coming. Something bigger than a murder charge.
-
-I knew what it was. Had known since Raymond's car exploded in January. When you got too close to the Combination, when you became too much of a threat, they didn't bother with courts and charges. They went straight to the simplest solution.
-
-A bomb. A bullet. A body in an alley, written off as robbery or accident or one more casualty of a violent city.
-
-I was going to die. Probably soon. Probably before the recall election could change anything.
-
-But I wasn't going to quit.
-
----
 
 The last two weeks of my life were strangely peaceful.
 

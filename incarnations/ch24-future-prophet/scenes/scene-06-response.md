@@ -1,7 +1,3 @@
-# Scene 06: The World's Response
-
----
-
 The summons arrived through official channels.
 
 Not the informal links they had been using, the frequencies that slipped through monitoring gaps—this was the system itself, addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation.

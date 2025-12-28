@@ -1,12 +1,3 @@
-# Scene 01: Arrival
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement I. Morning in the Healed World
-**Word Target:** ~2,000
-**Status:** Draft
-
----
-
 The face resolved slowly—features separating from the blur of light and color like something surfacing from deep water. An old woman's face. Lines carved by decades of weather, of laughter, of grief. Dark eyes that held curiosity without urgency. A mouth shaping sounds that washed over new ears without meaning.
 
 We blinked. The light hurt, and the hurting was strange—sensation pressing in from outside, demanding response, after so long without outside or inside. We blinked again, slower, letting the shapes sharpen.
@@ -117,14 +108,6 @@ The last morning that would matter.
 
 ---
 
-# Scene 02: The Recognition
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement II. The Chain Returns
-**Word Target:** ~2,500
-**Status:** Draft
-
----
 
 Days passed. Or weeks—the distinction mattered less here, where time moved to rhythms older than clocks.
 
@@ -272,14 +255,6 @@ And whatever was walking no longer knew itself as "we."
 
 ---
 
-# Scene 03: Under the Tree
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement III. The Completion
-**Word Target:** ~2,500
-**Status:** Draft
-
----
 
 The tree.
 
@@ -423,14 +398,6 @@ Ready for what came next.
 
 ---
 
-# Scene 04: The Teaching
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement IV. Words Arising
-**Word Target:** ~3,000
-**Status:** Draft
-
----
 
 They gathered.
 
@@ -532,7 +499,7 @@ A woman's breath caught slightly, released. The story touched something in her t
 
 ---
 
-The teaching paused. Not ended—teaching does not end, only speaking pauses. But completed, the way a cup fills to the brim and can hold no more without spilling.
+The teaching paused. Not ended—rested. The way water rests in a pool before continuing downstream.
 
 "The trying is not nothing."
 
@@ -612,14 +579,6 @@ And yet: continuing.
 
 ---
 
-# Scene 05: Coda
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement V. Morning Continues
-**Word Target:** ~2,000
-**Status:** Draft
-
----
 
 Morning.
 

@@ -1,12 +1,3 @@
-# Scene 08: The Hoarding Death
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** VIII. Death & Seeding
-**Word count:** ~1,400
-**Status:** Draft
-
----
-
 Cold time comes. Wind cries like hurt prey. White-ground falls soft. Silent like cat-feet. World white now. Like old bones. Cold bites deep. Like wolf teeth in flesh. Hunt hard now. Prey hides. Under white-ground blanket. Tribe hungry. Ka smells hungry on them. Sharp smell. Bad smell. Ka remembers old ways. Hunt alone. Keep all kill. Lone wolf way. Now, Ka hunts with tribe. Together. New way. Ka still strong hunter. But now, Ka shares. Sees cubs shake-cold. Small bodies press close for warm. Breath makes sky-smoke in cold air. Mothers weak now. Faces pulled tight. Eyes empty. Ka gives meat. Feels, good. Warm grows in chest. Not fire warm. Deeper. Sun warm. Feeling spreads. Melts ice around Ka's heart.
 
 Many suns pass. Hunts good. Tribe strong. Cave has much meat. More meat than ever before. Safe feeling. Strong feeling. But something new grows in Ka. Tight chest feeling. Not fear. Not cold. Something else. Want-to-keep feeling. Ka looks at meat pile. Mine. Ka touches meat. Cold-smooth under fingers. Ka starts sleeping near meat pile. Guards like mother guards cubs. Others look at Ka. Not-understanding looks. Question looks. Ka makes throat-warning sound. Others move back. Eyes big with, fear? Respect? Ka not care.

@@ -34,7 +34,6 @@ The tea beside her had developed a film. She could not have said whether it was 
 
 She did not move to make fresh tea. She did not check the time. She leaned closer to the thread, and something in her recognized the tension around Devaka as leverage.
 
----
 
 ## II
 
@@ -86,7 +85,6 @@ The rain continued against the window. Chandra continued his work, unaware that 
 
 And Lilith sat in her flat with steadier hands and a headache and the first intimation that observation was no longer enough.
 
----
 
 ## III
 
@@ -132,7 +130,6 @@ Some part of her registered: *It worked.*
 
 Some part of her did not examine what *worked* meant, or why the satisfaction felt like hunger.
 
----
 
 ## IV
 

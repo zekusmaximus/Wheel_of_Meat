@@ -1,7 +1,3 @@
-# Scene 03: Heresy Emerges
-
----
-
 Lith had achieved the third tier.
 
 The certification hung in her neural archive alongside a thousand other data points—age, genetic optimization scores, cognitive enhancement metrics, the full accounting of a consciousness successfully integrated into the system. By the standards that The Eternal Synthesis measured, she was exemplary. Her progression through the levels had been faster than average. Her responses to the protocols had been noted for their depth. Her contributions to the collective understanding had earned recognition from instructors who rarely recognized anything.

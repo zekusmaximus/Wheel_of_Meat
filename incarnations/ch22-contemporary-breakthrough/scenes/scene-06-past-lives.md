@@ -1,12 +1,3 @@
-# Scene 06: Past Lives Flow
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** VI. Past Lives Flow
-**Word Target:** ~1,500
-**Status:** Draft
-
----
-
 He was standing at the window when the lives began to open.
 
 Not intruding—that was the difference from before. Yesterday's fragmentary flashes had been violent, disconnected, shards of glass catching light at painful angles. Blood in his mouth from a fight he couldn't place. A woman's face resolving from static. Words in languages he'd never learned. They had come like wounds, tearing through his ordinary experience without permission.

@@ -1,12 +1,3 @@
-# Scene 04: The Dog Pack
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** IV. The Dog Pack
-**Word count:** ~1,400
-**Status:** Draft
-
----
-
 Tribe like pack dogs. Always fight. Always show teeth. Always want. Never enough. Ka like mountain cat. Quiet. Strong. Alone. Free. But new hunters, together. Why? Question claws Ka's mind like thorn. Together they strong. Like strong vine wrapped many times. Why? Ka pushes thought away. No. Alone is strong. Like lone wolf. But, gazelle, how fast they kill, how all work together, Small doubt grows like winter ice.
 
 Hunters spread out. Like black water on dry ground. Moving stain. Circle gazelle. Tight circle. Closing like trap. No escape place. Hunters share one mind. Kill. Fast. Clean. No waste. Ka watches. Together. Strange power. Scary power. Ka holds spear tight. Feels smooth wood on rough hand. Knows this thing. Good thing. Hunter. Ka kill many. Alone. Always. But hunters make ice grow in Ka's mind. Like cold wind. Make spine shiver. Can Ka live through this new way? This together way?

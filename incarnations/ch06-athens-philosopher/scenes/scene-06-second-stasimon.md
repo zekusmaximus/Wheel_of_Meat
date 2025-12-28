@@ -1,12 +1,3 @@
-# Scene 06: Second Stasimon—The Cost of the Choice
-
-**Chapter:** ch06-athens-philosopher
-**Section:** VI. Second Stasimon
-**Word count:** ~520
-**Status:** Draft
-
----
-
 The smell had become a presence—thick, sweetish, inescapable. It seeped through cloth pressed to mouths, through shuttered windows, through the incense burning in temples where priests no longer gathered. The unburied dead lay in doorways and against walls, in the shadows of stoas where philosophers had once debated the nature of the good. Flies gathered in clouds that darkened the light.
 
 In the Agora, a litter passed through the abandoned stalls. The bearers moved slowly, their faces covered, their backs bent beneath a canopy of fine linen. Within the litter sat a man whose name had once meant Athens itself—Pericles, first citizen, the voice that had promised glory and delivered war. His robes hung loose on a frame the fever had already begun to hollow. His eyes, still sharp beneath their shadowed lids, watched the city he had shaped slide toward dissolution.

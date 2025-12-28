@@ -1,7 +1,3 @@
-# Scene 1: The Walls
-
----
-
 The walls had moved closer while she wasn't looking. Her flat—still arranged, still holding its careful beauty from weeks she couldn't count precisely—pressed inward as autumn pressed against Toledo's narrow streets, as persecution pressed against converso households where shutters closed too quickly when shadows passed. She reached for her tea and found it cold, found stone cold beneath sandals she was not wearing, found the grey Manchester light indistinguishable from the grey Toledo dusk that seeped through gaps in wooden doors.
 
 Week six. Or seven. The counting had become imprecise.

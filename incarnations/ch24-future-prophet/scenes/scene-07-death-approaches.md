@@ -1,7 +1,3 @@
-# Scene 07: Death Approaches
-
----
-
 The bodies announced their terminus through channels designed for such announcements.
 
 Not disease—disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limits. The designed flesh, for all its durability, followed the same trajectory as every material thing: decay, degradation, the gradual failure of systems that had been built to last but not to last forever.

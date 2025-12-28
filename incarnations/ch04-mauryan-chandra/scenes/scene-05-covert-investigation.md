@@ -1,12 +1,3 @@
-# Scene 05: The Covert Investigation
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** V. The Covert Investigation
-**Word count:** ~3,400
-**Status:** Draft
-
----
-
 The weeks wore the mask of routine.
 
 Chandra filed reports, attended meetings, performed the duties expected of a Rājuka whose investigation had concluded successfully. The Pradeshika commended his efficiency in public and assigned him to other matters—boundary disputes, taxation appeals, the endless administrative friction that accumulated in any district of the empire. He accepted each assignment with appropriate diligence, completed each task with appropriate thoroughness, and gave no outward sign that his attention remained fixed on the thirteen thousand measures that haunted his sleepless nights.

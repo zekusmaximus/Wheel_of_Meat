@@ -1,5 +1,3 @@
-# Scene 1: One More Method
-
 One more method, and the fortress would fall.
 
 Her tea had gone cold three hours ago. Lilith did not pour a fresh cup—would pour a fresh cup, eventually, when the tracking cycle demanded she anchor herself in Manchester's physical present long enough to feel her own fingers against ceramic—but for now the cold was appropriate. The cold matched the calculation. The cold matched the precision she was about to deploy.
@@ -29,4 +27,3 @@ The philosophy department page still glowed. Lilith did not glance at it. The la
 One more method. Intellectual approach for intellectual fortress.
 
 This one would work.
-

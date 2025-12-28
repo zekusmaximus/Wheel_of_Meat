@@ -1,5 +1,3 @@
-# Scene II: The Curse Spreads
-
 Precision required timing.
 
 The Qing artillery would fire at dawn—she'd felt the probability crystallizing, the decision made by commanders studying maps in tents outside the walls—and the evacuees Wei had sent to the "safe" village would be sleeping when the shells arrived. She leaned into the moment, adjusted nothing directly, only weighted the circumstances: a scout delayed by dysentery, a report filed an hour late, the artillery officer's choice to fire early rather than wait for full light.

@@ -1,7 +1,3 @@
-# Scene III: The Feeding
-
----
-
 Days passed. She remained.
 
 The interviews took longer than the delegation had planned. Theophanes's questions multiplied—the regimen of prayer, the nature of temptation, the relationship between body and spirit that the desert fathers had cultivated through decades of deprivation. Macarius answered each question with the careful economy of a man who had chosen his words for fifteen years and saw no reason to spend them recklessly now.

@@ -1,5 +1,3 @@
-# Scene 2: The Vessel
-
 The print shop smelled of ink and metal, and Lilith felt both—the chemical tang through Marguerite Viret's awareness, the cold lamp-glow through her own eyes in the Fallowfield flat. The same precision work: words arranged into meaning, letters set into type, arguments constructed with the care of someone who understood that each component bore weight.
 
 Marguerite's face held the markers Lilith had worn in every life she could remember wearing faces at all: the widow's peak sharp and pronounced, the single darker strand falling forward over the left temple, the pale-green crescent in the iris of the left eye visible when candlelight struck at the right angle. The printer's widow was late thirties, educated, connected to the intellectual networks that survived between factions because skepticism served everyone's purpose equally.
@@ -27,4 +25,3 @@ Jean's finger-touching sequence began: thumb to index. Counting the possibilitie
 Good. The trap was setting. The method was working.
 
 One more push toward the fortress she would convince him was wisdom.
-

@@ -1,5 +1,3 @@
-# Scene VII: The Tasting
-
 They wanted a public teaching.
 
 The request came on the seventh day, carried by Theophanes himself with Theodora once again at the edge of his entourage. A gathering of monks—the archdeacon explained—had assembled at the meeting place near Nitria. They had heard of the interview. They wished to receive teaching directly from Abba Macarius, to witness the wisdom that the bishop sought to preserve.

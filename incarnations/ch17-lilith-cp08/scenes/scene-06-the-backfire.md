@@ -1,5 +1,3 @@
-# Scene 6: The Backfire
-
 "You offer me a fortress," Jean said. "The same fortress I have inhabited my entire career."
 
 The words landed like a blade finding gap between plates.
@@ -39,4 +37,3 @@ The method was sound.
 The method would work next time.
 
 One more approach. There had to be one more approach.
-

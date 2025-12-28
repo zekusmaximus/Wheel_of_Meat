@@ -1,7 +1,3 @@
-# Scene 1: The Baths and the First Contempt
-
----
-
 Steam rose from the *caldarium* in slow coils, threading between bodies that moved through the water with the practiced indifference of men who bathed here every dawn. The marble walls sweated condensation; oil lamps guttered in their bronze holders, their light thin and unconvincing against the grey seeping through high windows. Verinus stood at the pool's edge, the water lapping at his shins, and listened to two citizens ruin his morning.
 
 "The grain ships arrived at the third hour," one was saying, a thick-necked man whose voice echoed off the vaulted ceiling. "I saw them myself from the Subura."
@@ -61,10 +57,7 @@ He followed Marcus toward the changing rooms, but something in him lingered at t
 A strange thought, and he dismissed it.
 
 The praetor's scrolls were waiting.
----
-# Scene 2: The Case Is Assigned
 
----
 
 The praetor's office smelled of old ink and older ambition. Scrolls lined the walls in honeycombed shelving, each pigeonhole stuffed with the accumulated anxieties of Roman civic life: property disputes, inheritance claims, accusations of fraud and theft and moral turpitude. Dust motes drifted through the slant of morning light from the high windows, and somewhere in the back rooms a clerk was coughing—a dry, persistent sound that had become as familiar to Verinus as his own breathing.
 
@@ -147,10 +140,7 @@ Marcus sighed, but he was already moving toward the door. "The philosophus will 
 Behind them, in the back room, the clerk was still coughing. A small sound, easily overlooked. The kind of distraction that might cause a man to write *temperate* when he meant *intemperate*, and thereby change the meaning of everything that followed.
 
 Verinus did not look back.
----
-# Scene 3: First Testimonies—The Human Noise Floor
 
----
 
 Varro's study smelled of old papyrus and lamp oil gone rancid. Scrolls filled every surface—stacked on shelves, piled on the floor, spread across the writing desk where the philosophus had died. The afternoon light came thin through a single high window, catching dust that hung in the air like a held breath. Someone had cleaned the desk since the death, but the wood still bore a dark stain where the wine had spilled, and nothing could remove the sense of interrupted thought that clung to the room.
 
@@ -309,10 +299,7 @@ Verinus did not answer. Outside, the afternoon light was failing, the dust settl
 He would find it. He would make it coherent.
 
 That was what he did.
----
-# Scene 4: Stoic Debate & Lilith Cameo
 
----
 
 The Portico of Octavia was crowded despite the hour. Citizens and students had gathered in the long colonnade, their shadows stretching across the marble floor as the afternoon light slanted through the columns. At the center of the crowd, two men in philosopher's dress faced each other like wrestlers before a match—though their weapons were not fists but premises, and their arena was the uncertain terrain of the human soul.
 
@@ -385,10 +372,7 @@ A strange thought, and he could not dismiss it.
 They left the portico together, the philosophers' voices fading behind them. But something had changed. The foundation Verinus had always trusted—the certainty that reason would reveal truth, that discipline would yield clarity—had cracked.
 
 He could still feel it shifting beneath his feet.
----
-# Scene 5: Collapse of Coherence
 
----
 
 The streets of Rome were choked with afternoon traffic—carts laden with amphorae, litters bearing the wealthy, slaves carrying burdens that bent their backs toward the cobblestones. Verinus walked quickly, Marcus struggling to keep pace, both of them threading through the chaos toward the praetor's office where a fourth witness had finally agreed to speak.
 
@@ -491,10 +475,7 @@ He left without another word, and Verinus stood alone in the office, surrounded 
 The case would not resolve. The fragments would not align.
 
 And somewhere beneath his ribs, something that had been tightly held for forty years was beginning to loosen.
----
-# Scene 6: The Vulnerable Witness
 
----
 
 The courtyard was quiet in the late afternoon light. A small fountain burbled at its center, the sound soft and continuous, and ivy climbed the walls in patterns that seemed almost deliberate. It was the kind of place where difficult conversations were meant to happen—private, enclosed, far from the noise of the street.
 
@@ -579,10 +560,7 @@ But when they finally left the courtyard—Demetrius sent back to the kitchen wi
 Something had cracked. Something had opened.
 
 He did not yet know what would grow in the space it left behind.
----
-# Scene 7: The Compassionate Judgment
 
----
 
 The tribunal chamber was smaller than Verinus had expected. A private adjudication room rather than the public space he had imagined—the praetor's way of containing whatever embarrassment might emerge from the Varro case. The walls were bare except for a single fresco of Justitia, her scales tipped slightly to the left by some long-ago painter's error or intention. The morning light came through a narrow window, falling across the table where Verinus had spread his notes.
 
@@ -689,10 +667,7 @@ He had chosen compassion.
 He had lost everything.
 
 And somewhere beneath the loss, something that had been tightly held for forty years had finally, irrevocably, let go.
----
-# Scene 8: Exile—The Quiet Unraveling
 
----
 
 The olive grove stretched down the hillside toward the sea, its silver-green leaves catching the late autumn light. Verinus stood among the trees, watching the freedman—a quiet Sicilian named Servius—harvest the last of the season's fruit. The rhythm of the work was hypnotic: hands reaching, olives falling into the basket, the soft thud of fruit against woven reed.
 
@@ -751,10 +726,7 @@ Verinus gathered the notes and the letter and the stylus and walked slowly back 
 There was something in the stillness that was not quite humility. But he could not see it. Not yet.
 
 He slept well that night. For the first time since Rome, he dreamed of nothing at all.
----
-# Scene 9: Death—The Final Letting Go
 
----
 
 The grove was quiet in the late afternoon light. Servius had gone to the village market; the cook was visiting family in the hills. Verinus sat alone at his table, the familiar weight of age pressing downward through his shoulders, his spine, his hands resting on the worn wood.
 

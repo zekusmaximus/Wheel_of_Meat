@@ -1,7 +1,3 @@
-# Scene 03: Nothingness — "What Remains When Everything Goes"
-
----
-
 The consciousness dissolved.
 
 No. Unsay. The consciousness did not dissolve. Consciousness was not thing to dissolve. Rather: the taking of consciousness as object ended. The focus that had focused on the knowing that knew itself knowing released its focus. What remained was not consciousness. What remained was the absence of the object that consciousness had been.

@@ -1,7 +1,3 @@
-# Scene 8: The Seed
-
----
-
 Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked because the life she was tracking had just burned her strategy to ash.
 
 Lilith opened her eyes. Manchester reasserted itself—rain against glass, radiator clicking, the arranged objects that she had placed without remembering the placing.

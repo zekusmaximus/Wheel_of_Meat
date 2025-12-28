@@ -1,13 +1,3 @@
-# Scene III: The Compulsion
-
-**Chapter:** ch07-lilith-cp03  
-**Section:** III  
-**Word Target:** ~700  
-**Timeline Balance:** 40/60 Historical-leading  
-**Status:** Draft
-
----
-
 Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the particular certainty of a man who has made peace with abandonment.
 
 The dream had worked. The smell of burning clung to him still.

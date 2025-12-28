@@ -1,12 +1,3 @@
-# Scene 06: Tribe Saves Ka
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** VI. Tribe Saves Ka
-**Word count:** ~1,000
-**Status:** Draft
-
----
-
 Ka thinks about tribe. About sharing food. Hunting together. New ways. Ka always alone. Strong alone. But now alone feels cold. Empty like dry stream. Ka looks at setting sun. Feels wind. Cold wind. Lonely wind. Hears nothing. No birds. No prey. No tribe sounds. Just alone. Word echoes inside. Empty sound. Ka remembers fire warmth. Voice sounds. Even alpha male's rough laugh. Something pulls in chest. Want-feeling?
 
 Ka thinks about dogs. Together-strong. Pack-strong. Ka remembers tribe. Sharing-ways. Helping-ways. Ka remembers alpha male sharing meat. New thing. Breaking of old ways. Or, strength Ka never saw before? Ka remembers young hunters offering food. Kind eyes. Why? Why give good things to Ka who turns away? Ka pushes thoughts down. Alone. Always alone. But ice wall in chest cracks small. Something different grows. Not-sure feeling. Want-to-know feeling. Need feeling. Hunters. Dogs. Tribe. Two different ways. Both live. Both strong. Ka's way, dying?

@@ -1,12 +1,3 @@
-# Scene 05: Silas Wakes at Home
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** V. Silas Wakes at Home
-**Word Target:** ~1,200
-**Status:** Draft
-
----
-
 Morning light pressed against his eyelids.
 
 Silas opened his eyes to a ceiling he recognized—the familiar cracks and shadows of his bedroom in the faculty housing complex, the way the plaster caught the particular grey-gold of Manchester morning through curtains he never fully closed. He was in his bed. He was wearing yesterday's clothes, rumpled and still faintly damp. He had no memory of the drive home.

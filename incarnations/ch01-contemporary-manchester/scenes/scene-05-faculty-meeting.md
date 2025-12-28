@@ -1,12 +1,3 @@
-# Scene 05: The Faculty Meeting
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** V. The Faculty Meeting
-**Word count:** ~1,000
-**Status:** Draft
-
----
-
 The heat was unabated that afternoon in the committee room, the University never having retrofitted the building it was in with air conditioning. Faculty shuffled into the formal space, dragging heavy wooden chairs over the carpeting to make space at the giant oak conference table that dominated the room. The Dean nodded as Silas and Lilith entered the room. "Great job with Mr. Sheldon this morning, you two. From what I gather, your teamwork averted what could have been quite the crisis."
 
 "Thank you, sir." Silas beamed with what may have been mistaken for pride if the faculty weren't so aware of his boundless humility. He smiled at Lilith with a warm confidence, meaning to share in the praise with her, but she frowned.

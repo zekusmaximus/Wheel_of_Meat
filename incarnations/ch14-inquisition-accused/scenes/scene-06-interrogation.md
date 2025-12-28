@@ -1,7 +1,3 @@
-# Scene 6: The Interrogation
-
----
-
 They came for him after the evening meal—or what Diego had learned to recognize as evening by the pattern of sounds beyond his cell, the shift in the thin light, the rhythm of the prison settling into night's particular silence. Two guards, neither speaking, leading him through corridors he had not seen before, deeper into the prison's heart where the air grew thicker and the walls wept moisture that caught torchlight and gleamed like something organic.
 
 The interrogation chamber was larger than Diego expected and smaller than his dread had imagined. A table stood at the room's center, lit by candles arranged in a careful circle—too many candles, their combined light bright and shadowless and somehow more terrible than darkness would have been. Behind the table sat three men in the black robes of the Holy Office, their faces half-hidden by hoods drawn forward, their hands folded with the stillness of those accustomed to waiting.

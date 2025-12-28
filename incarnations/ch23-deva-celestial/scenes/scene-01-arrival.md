@@ -1,12 +1,3 @@
-# Scene 01: Arrival
-
-**Chapter:** ch23-deva-celestial
-**Section:** I. Arrival
-**Word Target:** ~1,300
-**Status:** Draft
-
----
-
 The light tasted like arrival.
 
 Or: arrival wore the quality of light—the distinction had collapsed into something truer than either, a synesthesia that wasn't confusion but clarity, the way water isn't confused about being wet. What had been called Silas registered this without organs, perceived without the machinery of perception, and the absence of eyes made seeing more, not less.

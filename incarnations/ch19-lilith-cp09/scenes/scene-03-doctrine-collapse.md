@@ -1,5 +1,3 @@
-# Scene III: The Doctrine Collapse
-
 The bowl sat in Wei's hands and the wrongness of it registered across timelines as smell before understanding: green and rot together, vegetation that had given up being food and become only fiber, only bulk, only the pretense of sustenance.
 
 Manna.

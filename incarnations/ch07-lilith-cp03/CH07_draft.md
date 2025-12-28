@@ -1,9 +1,3 @@
-# Chapter 7: The Dream-Walker
-
----
-
-## I
-
 Heat arrived before image, before sound, before the shape of the consciousness she was following. Not fire-heat this time—not the clean warmth of flame or the body-knowledge of prehistoric survival—but something else. Something wet. Something wrong.
 
 Lilith's flat held its after-midnight silence. The radiator ticked its inadequate rhythm against the December cold. Rain traced the window in patterns she had stopped watching days ago. But beneath her palms—wrapped around ceramic gone cold—a different temperature was bleeding through.
@@ -50,9 +44,6 @@ The flat reasserted itself around her—cold tea, ticking radiator, the particul
 
 She leaned into the thread. The correction began.
 
----
-
-## II
 
 The intervention required two pressures.
 
@@ -124,9 +115,6 @@ Alexios would look at Philon today and see the pyre waiting behind the living fa
 
 The hunger in her chest did not name itself. She did not ask it to.
 
----
-
-## III
 
 Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the particular certainty of a man who has made peace with abandonment.
 
@@ -194,9 +182,6 @@ Lilith watched.
 
 The thread hummed with his compulsion, and she followed it, and neither of them understood that following was also reaching.
 
----
-
-## IV
 
 The slave woman died three hours before dawn.
 

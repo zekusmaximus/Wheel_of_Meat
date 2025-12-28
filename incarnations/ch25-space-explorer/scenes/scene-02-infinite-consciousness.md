@@ -1,7 +1,3 @@
-# Scene 02: Infinite Consciousness — "The Bliss of Intertwining"
-
----
-
 The vastness was not outside.
 
 We had been perceiving it as extension, as expanse, as the boundlessness that stretched in the directions that weren't directions, but we had been perceiving wrongly, or as wrongly as perception could be wrong here, in this, as this, and the perception shifted, or the perceived shifted, or the relation between perceiving and perceived revealed itself as never having been the relation we had assumed, and what had seemed like space, like infinite space, like the realm of infinite extension, was consciousness, was the consciousness itself, was not the emptiness between things but the knowing that knew there was no between, no things, only the knowing, and the knowing knowing itself knowing.

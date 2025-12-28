@@ -1,12 +1,3 @@
-# Scene 02: The Assignment
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** II. The Assignment
-**Word count:** ~1,800
-**Status:** Draft
-
----
-
 The morning light fell through Pradeshika Sumitra's window in narrow bands, catching dust motes that drifted through the still air like sediment settling in water. His office occupied the second floor of the administrative complex, its walls lined with palm-leaf documents bound in cotton cord and arranged by date and district—a system I recognized from my years managing guild inventories, though the scale here dwarfed anything I had overseen as a merchant. The room smelled of lamp oil and old paper, with an undertone of the river that seeped into everything built within three hundred paces of the Ganges.
 
 I stood before Sumitra's desk, my wounded arm bound in clean linen and held against my chest by a sling the physician had insisted upon. The stitches pulled with each breath, a constant low irritation that made concentration difficult. Devaka stood two paces behind me, his presence a familiar weight I had grown accustomed to over fifteen years of shared labor.

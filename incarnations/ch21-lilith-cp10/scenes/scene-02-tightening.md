@@ -1,5 +1,3 @@
-# Scene 2: Tightening
-
 She spotted Silas across the reception room. Philosophy faculty cluster near the windows—rain still falling behind them, the gray light making everything look underwater, submerged. He was talking to a colleague, gesturing with one hand while the other held a wine glass he hadn't drunk from. The gesture was familiar. The patience in it. The certainty that didn't announce itself.
 
 She began navigating through the crowd. Casual. Deliberate. The calculations felt automatic now—where to stand, when to move, how to appear incidental while closing distance with the precision of a scope zeroing. A thousand years of practice distilled into footwork. A thousand lives watched, tracked, intervened upon, and now this: the final approach.

@@ -1,7 +1,3 @@
-# Scene V: The Backfire
-
----
-
 She traced forward.
 
 The exile unspooled through months she did not mark: merchant ships carrying Verinus across the sea, a coastal province receiving him without fanfare, an olive grove becoming the frame of his remaining years. She watched from the thread as the procedural investigator became something else—something slower, quieter, weathered by salt air and silence into shapes she had not intended.

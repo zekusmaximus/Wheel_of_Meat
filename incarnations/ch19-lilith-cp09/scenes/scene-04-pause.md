@@ -1,5 +1,3 @@
-# Scene IV: The Pause
-
 The third day of Wei's paralysis arrived like the others: artillery at dawn, smoke rising, the siege grinding forward with the inevitability of stone wearing smooth under water. Two days he'd sat idle. Two days he'd refused patients. Two days Lilith had watched and called it success while the pressure in her chest refused to dissipate.
 
 This is it, she thought. The pattern worked. Futility visible. Determination breaking.

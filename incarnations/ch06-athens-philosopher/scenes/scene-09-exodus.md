@@ -1,7 +1,3 @@
-# Scene IX: Exodus—Death & Seeding
-
----
-
 The dying took longer than Philon expected.
 
 He had watched so many others slip away—some in hours, some in days, some with the abrupt violence of flame consuming tinder. He had imagined his own passage would follow one of those patterns: fever's fire, or sudden collapse, or the gradual dimming he'd seen in the very old. Instead, he lingered in a gray space where the body refused to finish what it had started, clinging to function even as function failed.

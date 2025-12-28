@@ -1,5 +1,3 @@
-# Scene IX: The Pendulum
-
 Time passed. He did not count it.
 
 The delegation had returned to Alexandria, taking their tablets and scribes and the woman whose eyes had held something he still could not name. The young monks continued to visit, but Macarius sent them away without words. The pilgrims found an empty threshold. The merchants left their gifts untouched. Even Paphnutius, persistent as hope, eventually stopped coming.

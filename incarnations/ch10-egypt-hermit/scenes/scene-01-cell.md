@@ -1,5 +1,3 @@
-# Scene I: The Cell
-
 The first fly arrived with the sun.
 
 Macarius heard it before he saw it—a low drone circling the water jug, investigating. The heat was already thick, pressing against the mud-brick walls of his cell like something with weight. He counted the fly's orbits. Three, four. Then it landed on the lip of the jug, and he watched its legs test the clay's rough edge, the way its body trembled with the effort of stillness.

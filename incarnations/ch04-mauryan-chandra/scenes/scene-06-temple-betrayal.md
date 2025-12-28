@@ -1,12 +1,3 @@
-# Scene 06: The Temple Betrayal
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** VI. The Temple Betrayal
-**Word count:** ~2,200
-**Status:** Draft
-
----
-
 The temple passage smelled of incense and damp stone, the air thick with the accumulated prayers of generations. Brother Ananda had led them through a concealed entrance behind the main shrine, down narrow stairs carved into the rock foundation of the palace complex, into tunnels that predated the current structures by centuries. His robes whispered against the stone as he walked, the sound barely audible above the distant drip of water seeping through rock.
 
 Chandra moved carefully in the darkness, one hand trailing along the wall for guidance, the other clutching the leather satchel containing the evidence he had spent seventeen nights assembling. The palm leaves pressed against his hip with each step—twenty-three thousand measures documented in columns of figures that would mean nothing to the guards above and everything to the Dharma-Mahāmātra waiting in his sequestered quarters.

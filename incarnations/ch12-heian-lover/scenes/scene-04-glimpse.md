@@ -1,7 +1,3 @@
-# Scene IV: The Glimpse
-
----
-
 The lamp went out.
 
 Kaoru had been walking the corridor toward the entrance, his mind still caught in the web of Hotaru's voice—the weak one tonight, the one that forgot what it was saying mid-sentence and trailed off into silences that lasted too long. The incense had been particularly heavy, and his chest ached with each breath. He was thinking of nothing except the clean air waiting beyond the gates when the darkness swallowed him.

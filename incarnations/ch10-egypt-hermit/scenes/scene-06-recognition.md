@@ -1,5 +1,3 @@
-# Scene VI: The Recognition Spreads
-
 Days passed, and the pattern broke.
 
 The delegation remained camped by the well. Macarius saw them from a distance when he went to draw water—the flash of white linen among the brown robes of the monks who had begun to gather, the shape of Theophanes moving among them with the easy authority of an ambassador. Theodora he rarely saw; she kept to the periphery, silent, present in the way a shadow is present.

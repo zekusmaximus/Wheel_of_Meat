@@ -39,69 +39,21 @@ chapter_dirs = {
 }
 
 def find_draft_file(chapter_num, chapter_dir):
-    """Find the draft markdown file for a chapter."""
+    """Find the standardized draft markdown file for a chapter."""
     dir_path = chapters_dir / chapter_dir
     padded_num = str(chapter_num).zfill(2)
+    
+    file_path = dir_path / f"CH{padded_num}_draft.md"
+    if file_path.exists():
+        return file_path
 
-    # Try different naming patterns
-    patterns = [
-        f"CH{padded_num}_draft.md",
-        f"CH{padded_num}-draft.md",
-        f"ch{padded_num}-draft.md",
-        f"ch{padded_num}_draft.md",
-        f"CH{padded_num}_draft_v2.md",
-    ]
-
-    for pattern in patterns:
-        file_path = dir_path / pattern
-        if file_path.exists():
-            return file_path
-
-    raise FileNotFoundError(f"Could not find draft file for chapter {chapter_num} in {dir_path}")
+    raise FileNotFoundError(f"Could not find standardized draft file for chapter {chapter_num} in {dir_path}")
 
 def extract_narrative(file_path):
-    """Extract narrative text from chapter file, removing titles and metadata."""
+    """Extract narrative text from the already standardized chapter file."""
     with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    # Handle the specific duplicate in CH01 if it's that file
-    if "CH01-draft.md" in str(file_path):
-        # We know lines 75-84 are repeated in 85-94 in the version we saw.
-        # But instead of hardcoding lines, let's look for the specific repeated block.
-        # However, a general strategy is safer.
-        pass
-
-    lines = content.split('\n')
-    narrative_lines = []
-    skip_title = True
-
-    for line in lines:
-        # Skip title lines
-        if skip_title and (re.match(r'^#+\s+Chapter\s+', line, re.IGNORECASE) or
-                          re.match(r'^#+\s+Complete Chapter', line, re.IGNORECASE)):
-            continue
-
-        # First non-title/non-empty line marks end of title section
-        if skip_title and line.strip() and not re.match(r'^#+', line):
-            skip_title = False
-
-        if not skip_title:
-            # Skip technical metadata
-            if re.match(r'^\*\*Word Target:\*\*', line, re.IGNORECASE) or \
-               re.match(r'^\*\*Status:\*\*', line, re.IGNORECASE) or \
-               re.match(r'^Ready for your review', line, re.IGNORECASE) or \
-               re.match(r'^Prepared by:', line, re.IGNORECASE):
-                continue
-            narrative_lines.append(line)
-
-    # Convert lines back to string and clean up
-    text = '\n'.join(narrative_lines).strip()
-
-    # Remove trailing metadata sections (Word Count, etc.)
-    text = re.sub(r'\n*---\s*\n\*\*Word Count.*$', '', text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r'\n*---\s*\n+$', '', text)
-
-    return text.strip()
+        # Our standardized drafts are already clean of metadata and scene titles.
+        return f.read().strip()
 
 # Chapter names mapping
 chapter_names = [

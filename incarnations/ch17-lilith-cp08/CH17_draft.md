@@ -1,5 +1,3 @@
-# Scene 1: One More Method
-
 One more method, and the fortress would fall.
 
 Her tea had gone cold three hours ago. Lilith did not pour a fresh cup—would pour a fresh cup, eventually, when the tracking cycle demanded she anchor herself in Manchester's physical present long enough to feel her own fingers against ceramic—but for now the cold was appropriate. The cold matched the calculation. The cold matched the precision she was about to deploy.
@@ -30,7 +28,6 @@ One more method. Intellectual approach for intellectual fortress.
 
 This one would work.
 
-# Scene 2: The Vessel
 
 The print shop smelled of ink and metal, and Lilith felt both—the chemical tang through Marguerite Viret's awareness, the cold lamp-glow through her own eyes in the Fallowfield flat. The same precision work: words arranged into meaning, letters set into type, arguments constructed with the care of someone who understood that each component bore weight.
 
@@ -60,7 +57,6 @@ Good. The trap was setting. The method was working.
 
 One more push toward the fortress she would convince him was wisdom.
 
-# Scene 3: The Companionship
 
 Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the grey light pooling unnoticed on her desk—as the philosophical conversation deepened toward its intended destination.
 
@@ -96,7 +92,6 @@ He was close. The fortress walls were rising higher. Soon he would be safely sea
 
 One more push. Just one more.
 
-# Scene 4: The Letter
 
 The letter appeared in Marguerite's archives the way evidence always appeared when Lilith directed an investigation's path: naturally, inevitably, as if the document had been waiting since 1588 to be found at precisely the moment that would do maximum damage.
 
@@ -130,7 +125,6 @@ Something flickered. The thought did not complete. A question she had not meant 
 
 She filed it under strategic assessment and continued positioning the trap.
 
-# Scene 5: The Temptation
 
 The print shop at midnight held the particular intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
 
@@ -172,7 +166,6 @@ Then he looked up.
 
 And something in his face had changed.
 
-# Scene 6: The Backfire
 
 "You offer me a fortress," Jean said. "The same fortress I have inhabited my entire career."
 
@@ -206,7 +199,7 @@ Clarified. The intellectual precision that should have been hers, deployed again
 
 He left.
 
-And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that numerous interventions had produced as many backfires, and the pattern was structural.
+And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that eight interventions had produced eight backfires, and the pattern was structural.
 
 The method was sound.
 
@@ -214,7 +207,6 @@ The method would work next time.
 
 One more approach. There had to be one more approach.
 
-# Scene 7: The Death
 
 The road west of Bordeaux ran through oak forest thick enough to swallow sound, and Jean de Langon died there in the gathering dark.
 
@@ -240,7 +232,7 @@ Hunger. The familiar hunger that preceded karmic transition, that pulled conscio
 
 Manchester crept back around her: grey light, stiff limbs, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
 
-Intervention after intervention. Backfire after backfire.
+Eight interventions. Eight backfires.
 
 The precision itself had created the friction that forged his breakthrough.
 
@@ -250,15 +242,14 @@ The race. The stakes. Strategic necessity.
 
 She filed the sensation and reached for the laptop.
 
-# Scene 8: One More
 
 Grey Manchester light filtered through curtains she had not opened in days.
 
-The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
+The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The particular claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
 
 Lilith set down the cold tea she had been holding without drinking and poured a fresh cup. This one would also go cold. She knew this with the same certainty she knew Jean de Langon was dead and the lesson was learned and the backfire was complete.
 
-Numerous interventions. All structural failures.
+Eight interventions. Eight structural failures.
 
 Her fingers moved across laptop keys. The University of Manchester philosophy department page gave way to faculty listings. Course schedules. Campus maps showing buildings she had memorized without acknowledging why.
 
@@ -297,4 +288,3 @@ Grey light. Cold tea. The university page glowing with information she would use
 Already strategizing. Always strategizing. One more.
 
 The wheel turned.
-

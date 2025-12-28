@@ -1,7 +1,3 @@
-# Scene 01: Infinite Space — "The Shock of No-Body"
-
----
-
 No weight.
 
 No edge. No surface against which to—
@@ -282,9 +278,6 @@ Home—if home was the word—for as long as home could hold us.
 
 ---
 
-# Scene 02: Infinite Consciousness — "The Bliss of Intertwining"
-
----
 
 The vastness was not outside.
 
@@ -520,9 +513,6 @@ And the bliss, for all its bliss, could not quite drown out the calling.
 
 ---
 
-# Scene 03: Nothingness — "What Remains When Everything Goes"
-
----
 
 The consciousness dissolved.
 
@@ -970,9 +960,6 @@ Almost.
 
 ---
 
-# Scene 04: Neither-Perception-Nor-Non-Perception — "The Threshold"
-
----
 
 and the nothing thinned, or the nothing did not thin but became something that could not be called thin because thin required thick and thick had dissolved, and what remained was neither perceiving nor not-perceiving, was neither knowing nor not-knowing, was the membrane between being and not-being stretched so fine that the distinction became meaningless, and we were on the membrane, were the membrane, were the stretching itself that stretched between what was and what was not and could not determine which side was which because sides had dissolved along with everything that required sides,
 
@@ -1059,6 +1046,7 @@ Something that was about to—
 **End of Scene 04: Neither-Perception-Nor-Non-Perception**
 
 ---
+
 
 # Coda: The Pull and Re-embodiment — "The Wheel, Visible"
 

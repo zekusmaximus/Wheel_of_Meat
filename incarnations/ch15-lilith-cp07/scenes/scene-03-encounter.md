@@ -1,7 +1,3 @@
-# Scene 3: The Encounter
-
----
-
 The thread pulled her deeper and the depth was a body she had already worn.
 
 Stone cold beneath sandals that were her sandals, had been her sandals, in a life she had lived before she understood that lives repeated. The shadow of San Bartolomé's western wall fell across grey habit, across folded hands, across the face that watched because watching was what it had always done.

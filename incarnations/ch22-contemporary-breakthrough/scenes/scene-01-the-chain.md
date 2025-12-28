@@ -1,12 +1,3 @@
-# Scene 01: The Chain
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** I. The Chain
-**Word Target:** ~2,500
-**Status:** Draft
-
----
-
 Their fingers touched.
 
 The distance closed in that fractured instant between heartbeats—Stewart's hand reaching back toward the rooftop he'd stumbled past, Silas's hand reaching forward over the barrier's edge, the gap between them collapsing from inches to nothing. Skin met skin. Palm pressed against fingers. The city lights wheeled below them, indifferent to the axis on which everything turned.

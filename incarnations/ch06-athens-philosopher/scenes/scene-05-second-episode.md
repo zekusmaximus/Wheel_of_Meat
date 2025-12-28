@@ -1,12 +1,3 @@
-# Scene 05: Second Episode—The Impossible Choice
-
-**Chapter:** ch06-athens-philosopher
-**Section:** V. Second Episode
-**Word count:** ~1,800
-**Status:** Draft
-
----
-
 The magistrate came at dawn, when the smoke from the pyres lay thickest over the city.
 
 Philon heard him before he saw him—the particular cadence of official sandals on stone, deliberate and measured, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.
@@ -130,4 +121,3 @@ He did not know her name. He would never learn it. But he carried her toward his
 The gate stood empty behind him. Alexios was gone. The magistrate was gone. The healthy had fled or hidden, and the sick lay where they fell.
 
 Philon walked on, the woman in his arms, the smoke closing around them like a shroud.
-

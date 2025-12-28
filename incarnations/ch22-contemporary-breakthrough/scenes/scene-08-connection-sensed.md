@@ -1,12 +1,3 @@
-# Scene 08: The Connection Sensed
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** VIII. The Connection Sensed
-**Word Target:** ~800
-**Status:** Draft
-
----
-
 Lilith wasn't here.
 
 The thought arrived with the flat factuality of morning—she was at the hospital with Stewart, navigating the institutional aftermath of a psychiatric patient's rooftop crisis. Meetings with supervisors. Documentation. The paperwork of crisis contained. She would be busy for hours.

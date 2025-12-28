@@ -1,12 +1,3 @@
-# Scene 04: The Teaching
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement IV. Words Arising
-**Word Target:** ~3,000
-**Status:** Draft
-
----
-
 They gathered.
 
 Not because something called them—nothing called, nothing announced, no word spread through the village that something was about to happen. But they gathered anyway, the way they gathered when decisions needed making, the way they gathered when a story wanted telling. Something in the quality of the morning had shifted, and bodies that were sensitive to such shifts found themselves moving toward the tree without quite knowing why.

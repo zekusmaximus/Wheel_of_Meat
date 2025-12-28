@@ -1,5 +1,3 @@
-# Scene 8: One More
-
 Grey Manchester light filtered through curtains she had not opened in days.
 
 The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The particular claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
@@ -45,4 +43,3 @@ Grey light. Cold tea. The university page glowing with information she would use
 Already strategizing. Always strategizing. One more.
 
 The wheel turned.
-

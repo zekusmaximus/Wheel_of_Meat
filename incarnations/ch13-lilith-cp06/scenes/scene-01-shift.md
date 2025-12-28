@@ -1,5 +1,3 @@
-# Scene I: The Shift to Beauty
-
 The silence changed texture before it changed temperature. Desert stillness—the hermit's practiced void—dissolved into something softer, something that carried scent instead of emptiness, and Lilith felt the shift in her flat as a loosening she hadn't asked for. The radiator clicked. Moonlight replaced lamplight, or perhaps the lamp had been moon all along, filtering through rice-paper screens that her walls became in the corner of her awareness where Manchester was always also somewhere else.
 
 Beauty. She had not expected beauty.

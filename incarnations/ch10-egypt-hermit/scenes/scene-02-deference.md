@@ -1,5 +1,3 @@
-# Scene II: The Deference
-
 The young monk came at the hour when shadows began to stretch.
 
 Macarius heard the footsteps before the figure appeared—careful steps, deliberate, the gait of someone approaching a threshold they were not certain they had permission to cross. He did not look up from the basket he was mending. The palm fiber had split in the weaving, and he was repairing the weakness with patient, even strokes.

@@ -1,5 +1,3 @@
-# Scene V: The Breakthrough and Death
-
 "It doesn't matter if I'm cursed," Wei said to no one, to the child, to the empty alcove where gods used to sit. "You're bleeding now. And I can stop that."
 
 The words arrived in Lilith's awareness with the weight of revelation she hadn't intended, hadn't wanted, couldn't prevent. She felt the pattern shift beneath her sustained intervention the way someone feels ice crack underfoot—the recognition of wrong outcome arriving too late to change trajectory.

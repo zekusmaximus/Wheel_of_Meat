@@ -1,12 +1,3 @@
-# Scene 04: Silas Alone on Rooftop
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** IV. Silas Alone on Rooftop
-**Word Target:** ~800
-**Status:** Draft
-
----
-
 The door closed behind them, and silence reclaimed the rooftop.
 
 Silas stood where they'd left him, near the barrier but not touching it, his body turned toward the city spread below. The mist had nearly dissolved now, leaving the air clean and cold with the particular clarity that follows heavy rain. Manchester's lights stretched to every horizon—the university buildings, the city center's glow, the distant suburbs fading into darkness.

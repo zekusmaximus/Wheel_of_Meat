@@ -1,5 +1,3 @@
-# Scene VI: Tracing Forward
-
 The thread continued.
 
 Wei's last thought—*I will try again*—became seed, became pattern, became the karmic momentum that pulled consciousness forward through death and the between-space and into whatever form awaited. Lilith followed it. Had to follow it. The compulsion that had driven her through Tianjing's siege drove her now through the tracking, through the tracing, through the need to know where the pattern surfaced next and whether she had time to prevent it or whether the wheel had already turned past the point where prevention was possible.

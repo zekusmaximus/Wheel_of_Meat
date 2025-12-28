@@ -1,37 +1,3 @@
-# Scene 5: The Manna
-
-The bowl sat in Wei's hands, and inside it was the end of faith.
-
-Weeds. That was the truth of it, stripped of theology and proclamation. Grass clippings from the palace gardens, roots that might have been edible in spring but had been dug up in desperation, leaves from plants Wei did not recognize and would not feed to livestock. All of it wilted, browning, mixed with water into a green-tinged slurry that smelled of rot and earth.
-
-The decree had arrived three days ago, carried by runners through the city with the urgent formality of divine revelation:
-
-*"The Heavenly Father provides manna, as He did for the Israelites in the wilderness. Eat the sweet dew from the palace gardens, which is the food of heaven. God will sustain the faithful. Trust in His provision."*
-
-Sweet dew. Manna. The food of heaven.
-
-Wei stared at the bowl and saw weeds.
-
-Around him, in the temple courtyard, civilians choked it down. They had no choice. The rice rations had been cut to nearly nothing—a handful per family per week, supplemented now with this. Some added water to make it easier to swallow. Others ate it dry, gagging on the fibrous mass. Children cried and refused until their parents forced it into their mouths. The elderly ate in silence, their faces expressionless, beyond complaint.
-
-Wei had not eaten yet. He held the bowl and tried to reconcile the decree with the evidence.
-
-*This is not God's provision,* he thought. *This is a man lying to himself while his people starve.*
-
-The thought was sharp, clean, final. Not doubt—dismissal. Wei had questioned doctrine before, had felt the gap between promise and reality widen over the months. But this was different. This was the moment the gap became unbridgeable, the moment when continuing to believe required a willful blindness Wei could no longer summon.
-
-Hong Xiuquan was not speaking for God. He was speaking from madness or desperation or both, and calling it divine will.
-
-Wei lifted the bowl to his lips and forced himself to taste it.
-
-Bitter. Earthy. Wrong in a way that had nothing to do with flavor and everything to do with the body's instinctive rejection of what should not be consumed. He swallowed anyway, felt the slimy mass slide down his throat, and set the bowl aside.
-
-The manna would not sustain them. It would sicken them. And some of them would die.
-
-He stood and walked toward the Holy Treasury distribution point.
-
----
-
 The line stretched for blocks.
 
 Wei stood to the side and watched as the treasury official—a thin man in a yellow sash, his face gaunt with the same starvation he was supposed to prevent—distributed the day's rations. Rice for a few. Manna for most. The arithmetic was brutal and visible.

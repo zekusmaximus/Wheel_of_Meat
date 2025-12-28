@@ -1,5 +1,3 @@
-# Scene 4: The Letter
-
 The letter appeared in Marguerite's archives the way evidence always appeared when Lilith directed an investigation's path: naturally, inevitably, as if the document had been waiting since 1588 to be found at precisely the moment that would do maximum damage.
 
 She did not forge it. The letter was genuine—authentic Protestant correspondence, written by an angry commander to a moderate he considered traitor. The signature was illegible because the writer had made it illegible, had understood even in his fury that putting his name clearly to threats was unwise. The content was convenient because the content was *real*: there had been men who saw de Ségur as obstacle, who had discussed removing obstacles with the language men used when they meant violence.
@@ -31,4 +29,3 @@ Lilith felt the certainty crystallize: *This will work. The letter's ambiguity w
 Something flickered. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
 
 She filed it under strategic assessment and continued positioning the trap.
-

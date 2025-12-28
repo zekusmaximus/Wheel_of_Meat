@@ -1,12 +1,3 @@
-# Scene 01: Blood Wake
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** I. Blood Wake
-**Word count:** ~1,000
-**Status:** Draft
-
----
-
 Ka wake to blood taste. Tongue blood. Teeth bite in sleep. Body knows bad coming before mind knows. Cave dark. No light. Air wrong on skin. Wrong smell in nose. Ground remembers feet different now. Used to drink feet in wet season. Now feet stay on top, like walking on frozen water. Wind carries dying grass smell. Fear smell. Wrong bird sound. Neck hair stiff like big hunt time. Belly tight like long hunger time.
 
 Tribe sleep in cave pile. Bodies touch like wolf pups. Safe sounds. Breathing together. Meat dream warm. Strong hunters close. Cave walls weep more water now. Like sky-water stuck in stone. Ka sleep alone near cave mouth. Cave mouth breathes different wind. Used to breathe warm. Now breathes like ice-time. Always alone. Something in Ka's chest. Like ice wall.

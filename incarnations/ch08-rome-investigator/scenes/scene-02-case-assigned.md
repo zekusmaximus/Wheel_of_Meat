@@ -1,7 +1,3 @@
-# Scene 2: The Case Is Assigned
-
----
-
 The praetor's office smelled of old ink and older ambition. Scrolls lined the walls in honeycombed shelving, each pigeonhole stuffed with the accumulated anxieties of Roman civic life: property disputes, inheritance claims, accusations of fraud and theft and moral turpitude. Dust motes drifted through the slant of morning light from the high windows, and somewhere in the back rooms a clerk was coughing—a dry, persistent sound that had become as familiar to Verinus as his own breathing.
 
 He stood before the praetor's secretary, a lean freedman named Gnaeus whose face had been carved by decades of bureaucratic disappointment into an expression of permanent mild grievance. Between them, on a table scarred by generations of stylus work, lay three scrolls.

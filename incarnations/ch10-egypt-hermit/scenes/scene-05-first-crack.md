@@ -1,5 +1,3 @@
-# Scene V: The First Crack
-
 The delegation had retired to their camp by the communal well.
 
 Macarius could hear them—faintly, carried on the evening wind, the murmur of conversation and the occasional burst of something that might have been laughter. The sound was wrong for the desert. It belonged to cities, to courtyards, to the lecture halls of Alexandria where men gathered to exchange ideas as if ideas were currency.
@@ -40,7 +38,7 @@ He noticed it first as a physical sensation—a warmth in his chest, spreading o
 
 The interview replayed itself without his permission.
 
-*You are generous, Abba.* 
+*You are generous, Abba.*
 
 Theophanes's voice, sincere in a way that bureaucratic voices rarely were. The scribes bending over their tablets, writing furiously. The elderly priest nodding with gentle encouragement. And the questions—so well-chosen, so precisely aimed at the heart of what he knew. As if they had been designed not merely to extract information but to *display* it, the way a jeweler displays a gem to best catch the light.
 

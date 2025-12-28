@@ -1,12 +1,3 @@
-# Scene 01: Arrival
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement I. Morning in the Healed World
-**Word Target:** ~2,000
-**Status:** Draft
-
----
-
 The face resolved slowly—features separating from the blur of light and color like something surfacing from deep water. An old woman's face. Lines carved by decades of weather, of laughter, of grief. Dark eyes that held curiosity without urgency. A mouth shaping sounds that washed over new ears without meaning.
 
 We blinked. The light hurt, and the hurting was strange—sensation pressing in from outside, demanding response, after so long without outside or inside. We blinked again, slower, letting the shapes sharpen.

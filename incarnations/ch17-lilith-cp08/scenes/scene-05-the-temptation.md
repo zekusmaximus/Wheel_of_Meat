@@ -1,5 +1,3 @@
-# Scene 5: The Temptation
-
 The print shop at midnight held the particular intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
 
 Jean had come to her—Lilith felt that satisfaction pulse through both timelines—had sought out philosophical conversation at an hour when most men sought only their beds. His fortress was crumbling. His tools had failed. All that remained was the final push toward paralysis.
@@ -39,4 +37,3 @@ Jean touched his fingers one final time. Thumb to index. The gesture that had be
 Then he looked up.
 
 And something in his face had changed.
-

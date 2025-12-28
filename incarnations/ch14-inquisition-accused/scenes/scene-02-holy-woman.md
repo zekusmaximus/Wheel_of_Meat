@@ -1,7 +1,3 @@
-# Scene 2: The Holy Woman
-
----
-
 Evening came early in autumn, the sun sliding behind Toledo's western walls and leaving the streets in premature dusk. Diego walked through the converso quarter with his medical bag against his side, its leather strap cutting a familiar groove into his shoulder. The narrow lanes smelled of cooking fires and waste, of lives compressed into too-small spaces where neighbors knew too much about each other and silence was the only privacy anyone possessed.
 
 He had not gone to Tomás's house. Inés's warning had been clear, and caution had served him well through forty-three years of performing safety. But the unease sat in his chest like undigested bread, heavy and sour, and so he walked instead—past the shuttered shops, past the fountain where women gathered to wash clothes and exchange whispers, past the church of San Bartolomé where he would attend Mass tomorrow morning as he did every Sunday, his presence noted, his devotion documented by the eyes that never stopped watching.

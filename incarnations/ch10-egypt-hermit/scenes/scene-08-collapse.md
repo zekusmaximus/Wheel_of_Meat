@@ -1,5 +1,3 @@
-# Scene VIII: The Collapse
-
 The cell was dark when he returned to it.
 
 He did not light a lamp. The darkness was appropriate. The darkness was, for once, what he actually deserved.

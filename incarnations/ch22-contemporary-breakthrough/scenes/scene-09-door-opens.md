@@ -1,12 +1,3 @@
-# Scene 09: The Door Opens
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** IX. The Door Opens (Ending)
-**Word Target:** ~1,000
-**Status:** Draft
-
----
-
 The morning ripened toward noon, and everything settled.
 
 Not concluded—settled. The way sediment settles after turbulence, revealing the water's clarity. The elements that had been swirling through his consciousness were still there, but they'd found their places. The rooftop. The reaching. The absence where he should have been. The lives flowing through. Her face constant across all of them. The thread that connected them now.

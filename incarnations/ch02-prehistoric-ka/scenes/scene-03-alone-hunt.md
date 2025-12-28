@@ -1,12 +1,3 @@
-# Scene 03: Alone Hunt
-
-**Chapter:** ch02-prehistoric-ka
-**Section:** III. Alone Hunt
-**Word count:** ~1,200
-**Status:** Draft
-
----
-
 Cave feels small now. Walls press close. Squeeze breath from Ka. Air thick with tribe smell. Too much. Smell of sweat and fear and too many bodies. Like fur wrap too tight. Other hunters make sleep sounds. Deep sounds. Talk in sleep. Dream of meat and warm. Safe in tribe pile. Ka cannot sleep. Ka sees hunters move as one. Over and over in Ka's head. Like shadows dancing on cave wall. Shows how different they are. How strong. How together. Ka feels small. Like small-fast-prey when sky-bird shadow comes. Weak. Seen. Easy to kill.
 
 Ka pushes fear down deep. Ka big. Ka strong. Words feel empty. Like dead leaves in wind. Cave walls press closer. Tribe smell chokes. Ka needs air. Needs hunt. Needs alone. Away from tribe pile smell. Needs sky above. Wind on face. Hunt alone. Ka leaves cave. No look back. Not want to see tribe body pile. Their touching limbs. Their shared breath sounds.

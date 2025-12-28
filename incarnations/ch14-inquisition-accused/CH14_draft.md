@@ -1,7 +1,3 @@
-# Scene 1: The Performance of Safety
-
----
-
 The compound smelled of ground cloves and something bitter Diego could not name, though he had ground these ingredients a hundred times before. His mortar sat on the consultation room's table, its stone bowl stained brown from years of work. Afternoon light slanted through the shuttered window, striping the table in bands of gold and shadow that shifted with the autumn wind outside.
 
 Diego touched his thumb to his index finger, then his middle finger, then his ring finger, then his smallest finger. The sequence steadied his hands as he measured the powder—two parts clove, one part willow bark, a half-part of dried gentian. The merchant would arrive within the hour. Don Cristóbal de Silva, whose gout had troubled him through three winters and who paid well for relief, though never quite enough to forget that Diego was converso and therefore useful only as long as his usefulness outweighed his heritage.
@@ -86,9 +82,7 @@ It was the only promise he could offer, and they both knew it was worth nothing 
 **Undermining clauses:** Present throughout (useful/suspect, warmth/distance, steady hands/inner trembling)
 **Environmental metaphor:** Striped light (visibility/concealment), open door (transparency/vulnerability), closed shutters (danger approaching)
 **Sor Catalina mentioned:** Plants reader awareness before first appearance
-# Scene 2: The Holy Woman
 
----
 
 Evening came early in autumn, the sun sliding behind Toledo's western walls and leaving the streets in premature dusk. Diego walked through the converso quarter with his medical bag against his side, its leather strap cutting a familiar groove into his shoulder. The narrow lanes smelled of cooking fires and waste, of lives compressed into too-small spaces where neighbors knew too much about each other and silence was the only privacy anyone possessed.
 
@@ -191,9 +185,7 @@ The woman in grey watched him. She had always been watching. And somewhere in th
 **Undermining clauses:** Present throughout (gentle/terrible, stillness of prayer/interior conversation, know her/don't know her)
 **Environmental metaphor:** Premature dusk, shadows gathering, compressed spaces, watching church
 **Reader recognition:** Physical description matches Lilith's established appearance; Diego feels instinctive unease without understanding why
-# Scene 3: The Knock
 
----
 
 The silence woke him.
 
@@ -302,9 +294,7 @@ Like the first sound of a new world where all his careful usefulness meant nothi
 **Environmental metaphor:** Absolute silence as neighborhood holding breath; closed shutters as willful blindness; dawn breaking on end of life
 **Hatred seed:** Planted explicitly—"seed from which hatred might grow"
 **Sor Catalina:** Glimpsed watching (Tomás at window—setting up betrayal revelation)
-# Scene 4: The Processing
 
----
 
 They took him to a room that smelled of ink and parchment and something else—something organic and sour that Diego's physician's nose identified as fear-sweat absorbed into stone over decades of use. A table stood against one wall, its surface scarred with the marks of countless pens and stained dark in places where ink had spilled and never been cleaned. Behind the table sat a man in the black robes of the Holy Office, his face narrow and bloodless, his hands moving across parchment with the mechanical precision of someone who had written the same words so many times they required no thought.
 
@@ -411,9 +401,7 @@ The physician who had spent decades learning to heal could do nothing for himsel
 **Environmental metaphor:** Cell as coffin; walls pressing close; permanent twilight
 **Procedural horror:** Bureaucratic meticulous documentation; property confiscation; cataloguing of a life
 **Physician's observation:** Diego still cataloguing symptoms in other prisoners even in his own terror
-# Scene 5: The Source
 
----
 
 Time lost meaning in the cell. Meals arrived through the grate's slot—bread hard enough to crack teeth, water that tasted of iron and something organic Diego's mind refused to examine. Twice a day, he thought, though the thin grey light from the high window never changed enough to mark dawn from dusk with certainty. He counted meals instead. Seven. Or eight. Perhaps nine. The numbers slipped away from him like water through fingers, leaving only the thickness of isolation, the weight of silence broken only by distant sounds—footsteps in corridors, voices too muffled to parse into words, occasionally screaming that cut off abruptly in ways Diego's physician's mind understood but refused to fully acknowledge.
 
@@ -549,9 +537,7 @@ He closed his eyes and let it burn.
 **Hatred crystallizes:** Moves from seed to full presence; Diego examines it clinically
 **Human cruelty:** Tomás's visit is his own need; the revelation is complete; no supernatural frame needed
 **Echo of Devaka (Ch 4):** Long-trusted friend who guided to destruction—escalated to sacred betrayal
-# Scene 6: The Interrogation
 
----
 
 They came for him after the evening meal—or what Diego had learned to recognize as evening by the pattern of sounds beyond his cell, the shift in the thin light, the rhythm of the prison settling into night's particular silence. Two guards, neither speaking, leading him through corridors he had not seen before, deeper into the prison's heart where the air grew thicker and the walls wept moisture that caught torchlight and gleamed like something organic.
 
@@ -697,9 +683,7 @@ He held it close and waited for tomorrow's suffering to begin.
 **Interrogation trap:** Every answer leads to guilt; partial truth is no truth
 **Hatred deepens:** Now includes the system, Sor Catalina, and the inquisitors—not just Tomás
 **Constraint maintained:** Sor Catalina does not speak to Diego, only watches
-# Scene 7: The Healer's Burden
 
----
 
 The guard came three days after the interrogation—or what Diego believed was three days, time having dissolved into cycles of meals and darkness and waiting for pain that had not yet come but whose promise hung over every waking moment like storm clouds that refused to break.
 
@@ -811,9 +795,7 @@ He held it close and waited for the next summons, the next broken body, the next
 **Self-hatred emerges:** The physician who cannot stop healing; compulsion woven too deep
 **Compulsive helping flaw:** Diego's core flaw fully revealed—he cannot refuse to heal even when healing serves evil
 **Meat theme deepens:** "He was meat, and his meat's particular skills were useful"
-# Scene 8: The Release
 
----
 
 Night came, though in the cell night and day were distinguished only by subtle shifts in the grey light that seeped through the high window—darker grey, lighter grey, the prison's own twilight that never truly lifted or settled but simply existed as permanent condition. Diego lay on the straw pallet, his body too exhausted to sleep, his mind too active to rest. The hatred pulsed beneath his breastbone with each heartbeat—steady, persistent, almost comforting in its constancy.
 
@@ -942,9 +924,7 @@ The stars turned overhead, cold and countless, and bore witness to nothing excep
 **Physician's diagnostic approach:** Examining hatred as wound; observing symptoms; finding treatment in release
 **Space opens:** Between the Diego who feels and the Diego who observes—the key shift
 **Seeds next life:** "What else might be questioned?" → Renaissance skeptic's radical doubt without bitterness
-# Scene 9: The Fire
 
----
 
 They came for him at dawn.
 

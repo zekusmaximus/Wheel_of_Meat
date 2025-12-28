@@ -1,7 +1,3 @@
-# Scene II: The Voice Behind the Screen
-
----
-
 The Attendant led him through corridors that smelled of dust and plum, always plum, until the fragrance thickened into something almost physical. By the time she slid open the panel to the eastern gallery, Kaoru's throat burned with it.
 
 "Please wait here." She bowed, the movement fluid despite the rawness of her hands. "The Lady will speak with you presently."

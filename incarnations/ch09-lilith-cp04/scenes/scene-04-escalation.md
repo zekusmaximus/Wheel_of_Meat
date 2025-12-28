@@ -1,7 +1,3 @@
-# Scene IV: The Escalation
-
----
-
 The contradictions mounted without her help.
 
 She watched from the thread as testimony piled on testimony: the cook who heard voices at the third hour of night, the neighbor who heard them hours earlier, the servant who claimed to have heard nothing at all. The young kitchen worker who wept in a courtyard and said the philosopher had wept too—alone in his study, after the woman left, weeping in a way that factual precision could not measure.

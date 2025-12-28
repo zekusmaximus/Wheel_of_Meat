@@ -1,17 +1,3 @@
-# Scene 3: First Blood
-
-The first week went better than I had any right to expect.
-
-I started with the soft targets—the clerk, the bartender, the secretary. People who worked at the edges of the Combination's operations, who saw enough to be useful but weren't important enough to be protected. The clerk, a thin-faced little man named Doyle who worked in the assessor's office and couldn't stop drumming his fingers on the table, gave me a two-hour deposition about property transfers that had gone through his desk without proper documentation. The bartender—Muñoz, at a place called The Blue Parrot on Main Street—confirmed protection payments that matched the numbers in Vernon Shaw's folder. The secretary, Helen Marsh, had worked in Chief Davis's outer office for three years before transferring to a safer posting in the Parks Department. She knew things. She wanted to tell them.
-
-I wrote everything down. Names, dates, amounts. The web of connections between City Hall and the police and the gambling operations and the floating casinos anchored off Santa Monica. Each interview confirmed something from the folder, added something new, pointed me toward another thread I hadn't known existed.
-
-By the end of the week, I had enough material to fill a second folder. Enough to make the recall case stronger. Enough to make me a legitimate threat.
-
-And that's when the other case walked through my door.
-
----
-
 Her name was Margaret Sinclair, and she was the wrong kind of beautiful for a detective agency on Bunker Hill. Blonde hair waved like they did it in the pictures, a face that belonged on a movie poster, and clothes that cost more than my monthly rent. She sat in the client chair and twisted her gloves in her hands, and everything about her screamed money looking for trouble.
 
 "My husband," she said. "Frank. He's been missing for three days."

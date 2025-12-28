@@ -1,5 +1,3 @@
-# Scene II: The Attendant's Residue
-
 She had been closer than she'd ever been. The memory surfaced in her hands before her mind could intercept it—the weight of lacquer trays, the texture of silk sleeves brushing doorframes, the ache of knees pressed against wooden floors for hours of arranged stillness.
 
 The Attendant had been hers. A vessel she had worn like a garment, and the garment had left creases.

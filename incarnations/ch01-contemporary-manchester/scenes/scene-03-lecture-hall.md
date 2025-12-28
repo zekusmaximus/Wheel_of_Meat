@@ -1,12 +1,3 @@
-# Scene 03: The Lecture Hall
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** III. The Lecture Hall
-**Word count:** ~1,100
-**Status:** Draft
-
----
-
 That business continued later in the morning in the lecture hall, where Silas collected assignments and began the unit of his course on Eastern philosophy. "Today we are leaving behind the objective, linear thinking we have been looking at in this course so far for the subjective, cyclical explorations of Eastern philosophy."
 
 The long windows of the hall sent the morning light into his eyes. He shaded them to look out at the students packed into the tiers of seats, rising away from him, as their attention did the longer he spoke. He caught Stewart's glare from near the top of the hall, unable to tell if it was one of anger, disappointment or resignation. Turning to the whiteboard, he wrote 'TAT TVAM ASI' in quick, squeaky strokes.

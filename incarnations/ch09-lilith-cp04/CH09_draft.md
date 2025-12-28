@@ -1,9 +1,3 @@
-# Chapter 9: The Complaint
-
----
-
-## I
-
 The smell changed first.
 
 Pyres gave way to papyrus. The sweet-rot of Athenian plague—bodies stacked and burning, fat rendering into smoke—thinned and cooled and became something else: lamp oil, old ink, the mustiness of scrolls stored too long in rooms where men believed certainty was possible. The temperature shifted with the smell, fever-heat receding into the controlled warmth of a brazier, of clay lamps guttering in bronze holders, of a space designed for thinking rather than dying.
@@ -62,9 +56,6 @@ The stylus gleamed in Verinus's hand. In Manchester, the laptop hummed beneath h
 
 Both of them were cleaning their tools against a disorder that would not be cleaned.
 
----
-
-## II
 
 The praetor's office smelled of old ink and older ambition. She was inside it now—not observing from distance but pressed against the membrane of the moment, feeling the dust motes hang in morning light, the scrolls packed into honeycombed shelving, the weight of accumulated civic anxiety that made the air itself feel documented.
 
@@ -136,9 +127,6 @@ Rome waited in the thread. Verinus was reading the contradictory testimonies, hi
 
 She watched. She waited. She told herself that watching and waiting were enough.
 
----
-
-## III
 
 Philosophers were arguing in a portico.
 
@@ -226,9 +214,6 @@ It felt like something else—something she pressed down immediately, filed with
 
 The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the radiator had stopped ticking, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
 
----
-
-## IV
 
 The contradictions mounted without her help.
 
@@ -324,9 +309,6 @@ He was supposed to break. He was not supposed to choose.
 
 But he had chosen. And the choosing had not looked like breaking.
 
----
-
-## V
 
 She traced forward.
 

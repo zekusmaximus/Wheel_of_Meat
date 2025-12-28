@@ -1,29 +1,3 @@
-# Scene 8: The Car
-
-March came in cold.
-
-The flood had passed, but the rain hadn't stopped entirely—just settled into a steady drizzle that made everything feel gray and exhausted. The city was cleaning up, hauling away debris, rebuilding bridges, pretending that everything was going to be fine. The newspapers were full of stories about resilience and recovery. The Combination was back to business as usual.
-
-And I was running out of time.
-
-The murder charge hadn't gone away. Burke kept calling me in for "follow-up questions," each session a little more aggressive than the last. The circumstantial evidence was piling up, not because I was guilty, but because someone was making sure the pile grew. Witnesses I'd never met were coming forward to place me near Novak's studio. A gun dealer claimed I'd bought a replacement .38 two days before the killing. Lies, all of it, but the kind of lies that could put a man in San Quentin.
-
-I kept working anyway.
-
-Vernon Shaw's reporter had started sniffing around the corruption story. Nothing published yet, but noise was being made. Phone calls to city officials. Requests for records. The kind of activity that made powerful people sweat.
-
-And the Combination was sweating. I could feel it in the way Burke looked at me, in the silence that fell when I walked into certain bars, in the way my neighbors at the boarding house had started avoiding eye contact. Something was coming. Something bigger than a murder charge.
-
-I knew what it was. Had known since Raymond's car exploded in January. When you got too close to the Combination, when you became too much of a threat, they didn't bother with courts and charges. They went straight to the simplest solution.
-
-A bomb. A bullet. A body in an alley, written off as robbery or accident or one more casualty of a violent city.
-
-I was going to die. Probably soon. Probably before the recall election could change anything.
-
-But I wasn't going to quit.
-
----
-
 The last two weeks of my life were strangely peaceful.
 
 Not calm, exactly—there was still work to do, still witnesses to track down, still pages of notes to transcribe and pass along to Shaw's network. But beneath the activity, beneath the fear and the exhaustion, there was something else. A kind of settled certainty that I couldn't quite name.

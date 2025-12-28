@@ -1,13 +1,3 @@
-# Scene I: The Thread Shifts
-
-**Chapter:** ch07-lilith-cp03  
-**Section:** I  
-**Word Target:** ~600  
-**Timeline Balance:** 60/40 Manchester-leading  
-**Status:** Draft
-
----
-
 Heat arrived before image, before sound, before the shape of the consciousness she was following. Not fire-heat this time—not the clean warmth of flame or the body-knowledge of prehistoric survival—but something else. Something wet. Something wrong.
 
 Lilith's flat held its after-midnight silence. The radiator ticked its inadequate rhythm against the December cold. Rain traced the window in patterns she had stopped watching days ago. But beneath her palms—wrapped around ceramic gone cold—a different temperature was bleeding through.

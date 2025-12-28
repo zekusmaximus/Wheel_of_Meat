@@ -1,12 +1,3 @@
-# Scene 03: First Episode—The Flood
-
-**Chapter:** ch06-athens-philosopher
-**Section:** III. First Episode
-**Word count:** ~1,500
-**Status:** Draft
-
----
-
 The city changed within a fortnight.
 
 What had been rumor became fact, and what had been one man collapsed in the Agora became dozens, then scores, then numbers that Philon stopped trying to count. The dead accumulated faster than the living could carry them. The Long Walls—those great stone corridors connecting Athens to the sea—had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in makeshift shelters of canvas and salvaged timber. They had come seeking protection behind the city's defenses. They found, instead, the perfect conditions for plague.

@@ -1,5 +1,3 @@
-# Scene 8: The Report
-
 Jean sat at his desk as dawn broke over Bordeaux. The candle had burned down to a stub. His hand ached from hours of writing. Before him lay the report—ten pages of careful script, an accounting that would satisfy no one and might condemn him.
 
 He read it through one final time.

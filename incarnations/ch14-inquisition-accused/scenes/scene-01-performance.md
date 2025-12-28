@@ -1,7 +1,3 @@
-# Scene 1: The Performance of Safety
-
----
-
 The compound smelled of ground cloves and something bitter Diego could not name, though he had ground these ingredients a hundred times before. His mortar sat on the consultation room's table, its stone bowl stained brown from years of work. Afternoon light slanted through the shuttered window, striping the table in bands of gold and shadow that shifted with the autumn wind outside.
 
 Diego touched his thumb to his index finger, then his middle finger, then his ring finger, then his smallest finger. The sequence steadied his hands as he measured the powder—two parts clove, one part willow bark, a half-part of dried gentian. The merchant would arrive within the hour. Don Cristóbal de Silva, whose gout had troubled him through three winters and who paid well for relief, though never quite enough to forget that Diego was converso and therefore useful only as long as his usefulness outweighed his heritage.

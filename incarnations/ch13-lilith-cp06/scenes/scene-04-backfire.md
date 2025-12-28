@@ -1,5 +1,3 @@
-# Scene IV: The Backfire
-
 The frozen spring had been her finest work.
 
 She traced forward through moments she had already witnessed: the Attendant maintaining impossible perfection, Lady Hotaru wrapped in beauty that could not decay, Kaoru returning again and again to a pavilion where autumn never came within the walls.

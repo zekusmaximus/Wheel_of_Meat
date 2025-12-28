@@ -1,5 +1,3 @@
-# Scene 1: The Assignment
-
 The magistrate's chambers smelled of old parchment and wet stone—the scent of institutional permanence threatened by the season's rains. Jean de Langon stood before Bernard de Lacaze's desk and watched candlelight carve the older man's face into planes of judgment and exhaustion. Outside, Bordeaux settled into evening. Inside, the document between them held more danger than any sword Jean had carried on the road.
 
 "Henri de Ségur," de Lacaze said. The name alone was sufficient. Everyone in Guyenne knew what it meant when a Protestant notable died on the road between factions.

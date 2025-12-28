@@ -1,5 +1,3 @@
-# Scene 4: Death/Sighting
-
 March 1938. Rain in the alley behind Jack's boarding house.
 
 The Buick Roadmaster sat in its usual spot—black paint beaded with water, chrome dulled by weeks of neglect while Jack worked the case that was killing him. He walked toward it with his coat pulled tight, one more day of trying, one more morning of choosing to continue when continuation was insane. The letter in his pocket. The gun in his shoulder holster. The certainty settling through him that today was the day, though he couldn't have said how he knew.

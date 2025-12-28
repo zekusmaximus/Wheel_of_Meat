@@ -1,19 +1,3 @@
-# Scene 7: The Flood
-
-The rain started on February 27th, and it didn't stop.
-
-I woke to the sound of water—not the gentle drip of a leak or the steady patter of a normal storm, but a roar. A wall of sound that pressed against the windows of my boarding room like something alive and hungry. I pulled back the curtain and looked out at a city dissolving.
-
-The streets had become rivers. Bunker Hill's Victorian mansions seemed to sag under the weight of water pouring from their gutters, streaming down their walls, pooling around their foundations. Angels Flight had shut down—I could see the cables hanging slack, the orange cars frozen on their tracks. Below, where downtown should have been visible, there was only gray. Gray sky, gray rain, gray water rushing through streets that had never been designed to handle this much.
-
-I dressed and went downstairs. The landlady, Mrs. Patterson, was standing in the lobby with a bucket in each hand, trying to catch the water coming through a hole in the ceiling.
-
-"It's the end times," she said without looking at me. "The Lord is washing this city clean."
-
-I didn't argue. Looking at the water streaming past the windows, it was hard to say she was wrong.
-
----
-
 The flood lasted five days.
 
 By the end of the first day, the LA River had jumped its banks. The concrete channels that were supposed to contain it proved useless against the volume of water pouring down from the mountains. Whole neighborhoods were underwater. Bridges collapsed—I heard the news on the radio, station after station reporting the same disasters: Lankershim Bridge, gone. Owensmouth, gone. Half a dozen rail lines washed out, telegraph poles down, roads impassable.

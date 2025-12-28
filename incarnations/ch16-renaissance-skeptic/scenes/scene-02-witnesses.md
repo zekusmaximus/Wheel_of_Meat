@@ -1,5 +1,3 @@
-# Scene 2: The Witnesses
-
 The inn called itself the Rose and Crown, a name that claimed neutrality through royal appeal while the rose itself might signify Lancaster or simply the vine that grew over the stable door. Jean had learned to read such ambiguities. In 1588, survival often depended on symbols that could mean whatever the armed observer required them to mean.
 
 He sat in the common room and listened to Martin Dufour describe the murder. The merchant was a thick man gone soft in his middle years, prosperous enough to travel with goods but not wealthy enough to avoid the roads. His hands moved as he spoke, sketching shapes in the air as if the gestures might lend his words additional substance.

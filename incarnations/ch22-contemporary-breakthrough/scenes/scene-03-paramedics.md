@@ -1,12 +1,3 @@
-# Scene 03: Paramedics Arrive
-
-**Chapter:** ch22-contemporary-breakthrough
-**Section:** III. Paramedics Arrive
-**Word Target:** ~600
-**Status:** Draft
-
----
-
 The emergency door banged open on floodlights and high-visibility jackets.
 
 Two paramedics came through first, a man and woman in their forties moving with the practiced efficiency of people who'd seen everything and expected worse. Behind them, a campus security officer with a radio crackling questions he couldn't answer.

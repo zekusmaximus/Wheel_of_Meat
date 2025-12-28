@@ -1,5 +1,3 @@
-# Scene 1: The Assignment
-
 The magistrate's chambers smelled of old parchment and wet stone—the scent of institutional permanence threatened by the season's rains. Jean de Langon stood before Bernard de Lacaze's desk and watched candlelight carve the older man's face into planes of judgment and exhaustion. Outside, Bordeaux settled into evening. Inside, the document between them held more danger than any sword Jean had carried on the road.
 
 "Henri de Ségur," de Lacaze said. The name alone was sufficient. Everyone in Guyenne knew what it meant when a Protestant notable died on the road between factions.
@@ -57,7 +55,7 @@ He turned toward the city gate. The investigation had already begun, whether he 
 Behind him, a light still burned in the magistrate's window. Ahead, the road stretched dark into the countryside where a man had died and where the story of his death waited to be gathered, weighed, and delivered to those who would use it however they required.
 
 Jean touched his fingers to his thumb one final time—counting, measuring, testing the weight of a thing he could not yet see—and rode through the gate into the gathering dark.
-# Scene 2: The Witnesses
+
 
 The inn called itself the Rose and Crown, a name that claimed neutrality through royal appeal while the rose itself might signify Lancaster or simply the vine that grew over the stable door. Jean had learned to read such ambiguities. In 1588, survival often depended on symbols that could mean whatever the armed observer required them to mean.
 
@@ -156,7 +154,7 @@ But tonight, for the first time in his career, Jean understood with cold clarity
 He lit a candle against the gathering dark and began writing his preliminary report. The merchant claims Protestant riders. The farmer claims Catholic soldiers. The servant claims factional conflict within Protestant ranks. Each account plausible. Each account unverifiable.
 
 The pen scratched. The candle burned. And Jean felt the first small crack in the fortress of doubt he had mistaken for wisdom.
-# Scene 3: The Ambush
+
 
 The road between market towns ran through oak forest thick enough to muffle sound and channel sight into the narrow corridor of packed earth that passed for passage. Jean rode with his hand loose on his reins and his attention spread across the middle distance—not staring at any one shadow, but holding all of them in peripheral awareness. A man learned this, traveling alone through country where factions maintained order only within sight of their own walls.
 
@@ -231,7 +229,7 @@ The question was no longer whether he could discover the truth about Henri de S�
 The question was whether he would survive the attempt.
 
 Jean touched his fingers one more time—counting, measuring, testing the weight of a fortress he had thought secure—and felt the first stone in that fortress shift beneath his hand.
-# Scene 4: The Printer's Widow
+
 
 The print shop smelled of ink and metal—the tang of letters in their cases, the oil on the press mechanism, the chemical residue of whatever solvents kept the type clean enough to serve. Jean stood in the doorway and let his eyes adjust to the interior dimness. Afternoon light filtered through windows too small for the work they illuminated, falling in dusty shafts across tables covered in pages and proofs.
 
@@ -324,7 +322,7 @@ What do you do with contradictions that cannot be resolved?
 And beneath it, the more dangerous question she had planted:
 
 What if honesty means admitting you cannot know?
-# Scene 5: The Document
+
 
 Jean returned to Marguerite's print shop three days after the ambush. His ribs had settled from sharp pain to dull ache, and his shoulder moved with only occasional reminders of torn tissue. The bruises would fade. The questions would not.
 
@@ -451,7 +449,7 @@ Jean finally set the letter aside and tried to sleep. But even in darkness, the 
 If I cannot verify, can I conclude?
 
 And if I cannot conclude, what am I doing here at all?
-# Scene 6: The Ball
+
 
 The ball was held at the residence of Antoine de Pibrac, a nobleman whose wealth derived from wine and whose survival derived from hosting gatherings where both factions could meet under the fiction of social courtesy. Jean arrived as evening settled into full dark, his best doublet brushed clean and his sword worn as much for fashion as function. A man did not attend such events unarmed. Neither did he draw steel unless he wished never to be invited again.
 
@@ -560,7 +558,7 @@ Four days to decide whether honest uncertainty was wisdom or cowardice.
 Jean touched his fingers one more time and felt the gesture empty of meaning. He was not weighing evidence. He was counting the days until he would have to choose between truth he could not verify and conclusions he could not honestly claim.
 
 The ball glittered behind him. The road stretched dark ahead. And Jean de Langon stood between them, neutral, thorough, and utterly alone.
-# Scene 7: The Temptation
+
 
 Jean returned to the print shop well after dark. The streets of Bordeaux were dangerous at this hour, but danger had become a constant companion, and Jean no longer weighed the risks of movement against the risks of stillness. Both would kill him if he miscalculated.
 
@@ -679,7 +677,7 @@ Jean touched his fingers one final time and felt the gesture settle into somethi
 Behind him, a light still burned in the print shop's upper window. A silhouette stood there, watchful and still.
 
 Jean did not look back. He had a report to write.
-# Scene 8: The Report
+
 
 Jean sat at his desk as dawn broke over Bordeaux. The candle had burned down to a stub. His hand ached from hours of writing. Before him lay the report—ten pages of careful script, an accounting that would satisfy no one and might condemn him.
 
@@ -797,7 +795,7 @@ But it was true.
 Jean shouldered his bag and walked out of the inn into the morning light. The road waited. So did whatever came next.
 
 He was ready for both.
-# Scene 9: The Road
+
 
 Jean left Bordeaux at dusk. The gate guards examined his papers with the careful attention of men who knew warrants might follow any traveler, but his letter of passage from the Parlement was still valid—would remain valid until someone with authority revoked it. By then, Jean intended to be across the provincial boundary into territory where Guyenne's factional feuds held less immediate weight.
 

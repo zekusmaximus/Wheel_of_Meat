@@ -1,5 +1,3 @@
-# Scene 5: The Document
-
 Jean returned to Marguerite's print shop three days after the ambush. His ribs had settled from sharp pain to dull ache, and his shoulder moved with only occasional reminders of torn tissue. The bruises would fade. The questions would not.
 
 Marguerite received him in the same back room where she kept her archives—correspondence, manuscripts, documents that had passed through the shop over the years of her husband's operation and her own continuation of the trade. She gestured to a table stacked with folders.

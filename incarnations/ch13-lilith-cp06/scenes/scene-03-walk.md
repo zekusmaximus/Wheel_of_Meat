@@ -1,5 +1,3 @@
-# Scene III: The University Walk
-
 She needed air.
 
 The realization arrived as body-knowledge, bypassing the consciousness that should have intervened: her legs moving before her mind could question, jacket on, door opening, November cold against skin that had been warmth-wrapped for days she couldn't count precisely.

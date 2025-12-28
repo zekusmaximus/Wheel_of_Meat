@@ -1,12 +1,3 @@
-# Scene 03: Under the Tree
-
-**Chapter:** ch26-the-awakened
-**Section:** Movement III. The Completion
-**Word Target:** ~2,500
-**Status:** Draft
-
----
-
 The tree.
 
 Larger than it had seemed from the village—the trunk so wide that four people holding hands could not have circled it, the bark furrowed and gray with age, with weather, with centuries of standing in one place while everything around it changed. The roots surfaced and dove like the coils of something vast moving just beneath the earth, creating hollows and rises in the ground that shaped where bodies naturally settled.

@@ -1,12 +1,3 @@
-# Scene 01: The Pillar Ceremony
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** I. The Pillar Ceremony
-**Word count:** ~2,400
-**Status:** Draft
-
----
-
 The pillar stood forty-seven feet—one thousand measures of sandstone, three months' skilled labor, eight hundred karshapanas for material, five hundred for carving. I had totaled these costs before the Brahmin finished his first sentence of the emperor's edict.
 
 Sandalwood smoke drifted across the square in thick ribbons, sweet and cloying, mixing with the sharper smell of elephant dung from the ceremonial beasts stationed at the corners of the gathering. Five hundred bodies pressed against each other in the morning heat, their cotton dhotis already darkening with sweat beneath the arms and across the backs. I counted them by section—a merchant's habit I had never lost, though I had surrendered the title three years before when I accepted the emperor's service. Two hundred in the eastern quarter, nearest the river. One hundred fifty in the north, where the shade of the old fig tree drew those too old or too young to stand in full sun. The remainder scattered along the western approach, many of them newly arrived from the outer districts, their rougher weave marking them as clearly as the dust still coating their feet.

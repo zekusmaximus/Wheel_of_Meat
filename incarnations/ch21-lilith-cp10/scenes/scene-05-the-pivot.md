@@ -1,5 +1,3 @@
-# Scene 5: The Pivot
-
 If I can't stop him, I'll bind him.
 
 The decision crystallized in the space between heartbeats, between the ache in her chest and the face before her, between the burning car in Los Angeles and the rain against Manchester windows. Historical intervention: impossible. The pattern was clear. Every attempt a backfire. Every transformation achieved precisely because she'd tried to prevent it.

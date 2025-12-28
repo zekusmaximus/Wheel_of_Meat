@@ -1,12 +1,3 @@
-# Scene 06: University Green
-
-**Chapter:** ch01-contemporary-manchester
-**Section:** VI. University Green
-**Word count:** ~1,000
-**Status:** Draft
-
----
-
 Silas was reciting his affirmation, currently aloud, when he bumped into Lilith later that evening, walking through University Green. They were the only two around in the twilight as dark clouds obscured the sunset, threatening rain.
 
 "Quite the show at the meeting today." Stopping in front of him Lilith waved her hand, dismissing his statement. He persisted. "I didn't know you were so passionate about student evaluations."

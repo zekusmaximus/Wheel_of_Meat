@@ -1,7 +1,3 @@
-# Scene 01: Condensation
-
----
-
 The awareness that had floated in celestial harmonics found itself thickening.
 
 Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location. Something that had been everywhere was narrowing toward somewhere. Something that had been optional—mass, boundary, the particular density of material existence—was becoming required again.

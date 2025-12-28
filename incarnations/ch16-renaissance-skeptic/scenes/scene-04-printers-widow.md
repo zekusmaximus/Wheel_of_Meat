@@ -1,5 +1,3 @@
-# Scene 4: The Printer's Widow
-
 The print shop smelled of ink and metal—the tang of letters in their cases, the oil on the press mechanism, the chemical residue of whatever solvents kept the type clean enough to serve. Jean stood in the doorway and let his eyes adjust to the interior dimness. Afternoon light filtered through windows too small for the work they illuminated, falling in dusty shafts across tables covered in pages and proofs.
 
 "Monsieur de Langon." The voice came from the back of the shop, where a woman stood beside a compositor's desk. She set down her work—a page of set type, Jean saw, dense with text—and moved forward with the economy of someone accustomed to navigating the shop's narrow aisles. "I wondered when the Parlement would send someone."

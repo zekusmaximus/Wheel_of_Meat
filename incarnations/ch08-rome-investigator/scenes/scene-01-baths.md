@@ -1,7 +1,3 @@
-# Scene 1: The Baths and the First Contempt
-
----
-
 Steam rose from the *caldarium* in slow coils, threading between bodies that moved through the water with the practiced indifference of men who bathed here every dawn. The marble walls sweated condensation; oil lamps guttered in their bronze holders, their light thin and unconvincing against the grey seeping through high windows. Verinus stood at the pool's edge, the water lapping at his shins, and listened to two citizens ruin his morning.
 
 "The grain ships arrived at the third hour," one was saying, a thick-necked man whose voice echoed off the vaulted ceiling. "I saw them myself from the Subura."

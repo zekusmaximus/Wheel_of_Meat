@@ -1,7 +1,3 @@
-# Scene 9: Death—The Final Letting Go
-
----
-
 The grove was quiet in the late afternoon light. Servius had gone to the village market; the cook was visiting family in the hills. Verinus sat alone at his table, the familiar weight of age pressing downward through his shoulders, his spine, his hands resting on the worn wood.
 
 The testimonies were spread before him. He had not put them away. The servant's account, the student's, the neighbor's, the cook's—contradictory, unresolved, uncorrected. The stylus lay across them, tarnished and unclean. He had stopped that ritual entirely. The contradictions remained because he had learned they must remain.

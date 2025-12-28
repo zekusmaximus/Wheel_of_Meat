@@ -1,12 +1,3 @@
-# Scene 07: The Fire
-
-**Chapter:** ch04-mauryan-chandra
-**Section:** VII. The Fire
-**Word count:** ~3,200
-**Status:** Draft
-
----
-
 The morning light fell across the granary complex like an accusation. Chandra stood at the main gate as the sun climbed toward its zenith, his wounded arm aching beneath fresh bandages, and counted the structures by capacity—twelve warehouses arranged in staggered rows, their brick foundations rising from the alluvial mud, their thatch roofs sloping toward drainage channels that carried monsoon water back to the Ganges. Forty thousand measures total storage. Enough grain to feed the district for three months, or to fund a conspiracy large enough to warrant killing a Dharma-Mahāmātra.
 
 The guards waited in formation behind him, their spears catching the light in disciplined rows. Twenty men, as Sumitra had promised, equipped for the arrest of dangerous criminals. At their head stood a captain Chandra did not recognize—a hard-faced man whose posture suggested experience with operations more violent than administrative enforcement.

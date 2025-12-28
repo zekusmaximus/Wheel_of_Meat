@@ -1,7 +1,3 @@
-# Scene 4: The Processing
-
----
-
 They took him to a room that smelled of ink and parchment and something else—something organic and sour that Diego's physician's nose identified as fear-sweat absorbed into stone over decades of use. A table stood against one wall, its surface scarred with the marks of countless pens and stained dark in places where ink had spilled and never been cleaned. Behind the table sat a man in the black robes of the Holy Office, his face narrow and bloodless, his hands moving across parchment with the mechanical precision of someone who had written the same words so many times they required no thought.
 
 A scribe. Not an inquisitor. Diego felt the distinction settle in his chest—a small relief that shamed him even as he grasped at it. The scribe was only recording information, only creating the file that would contain Diego's existence reduced to questions and answers, accusations and denials, the administrative framework within which his guilt would be established and his punishment determined.

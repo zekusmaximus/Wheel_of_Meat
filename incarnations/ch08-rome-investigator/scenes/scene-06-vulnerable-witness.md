@@ -1,7 +1,3 @@
-# Scene 6: The Vulnerable Witness
-
----
-
 The courtyard was quiet in the late afternoon light. A small fountain burbled at its center, the sound soft and continuous, and ivy climbed the walls in patterns that seemed almost deliberate. It was the kind of place where difficult conversations were meant to happen—private, enclosed, far from the noise of the street.
 
 Marcus had returned an hour after their quarrel, saying nothing about what had passed between them. He had simply appeared in the doorway of the praetor's office and said, "There is another witness. A boy. He worked in Varro's kitchen."

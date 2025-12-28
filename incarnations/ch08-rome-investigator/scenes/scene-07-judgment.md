@@ -1,7 +1,3 @@
-# Scene 7: The Compassionate Judgment
-
----
-
 The tribunal chamber was smaller than Verinus had expected. A private adjudication room rather than the public space he had imagined—the praetor's way of containing whatever embarrassment might emerge from the Varro case. The walls were bare except for a single fresco of Justitia, her scales tipped slightly to the left by some long-ago painter's error or intention. The morning light came through a narrow window, falling across the table where Verinus had spread his notes.
 
 Senator Publius Cornelius Scipio sat across from him, flanked by two attendants whose presence seemed designed to remind everyone of his rank. He was older than Verinus had pictured—perhaps sixty, with the weathered face of a man who had survived Roman politics by knowing when to strike and when to wait. His eyes moved across the documents with the practiced patience of someone who had read a thousand such reports and found them all wanting.

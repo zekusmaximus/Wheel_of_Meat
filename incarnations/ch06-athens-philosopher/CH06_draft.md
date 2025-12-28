@@ -1,12 +1,3 @@
-# Scene 01: Prologos—The City Before Collapse
-
-**Chapter:** ch06-athens-philosopher
-**Section:** I. Prologos
-**Word count:** ~1,400
-**Status:** Draft
-
----
-
 Dawn broke over Athens like a promise the city had not yet learned to doubt. The marble of the Parthenon caught the first light and held it, gleaming above the Agora with a confidence that seemed permanent, though nothing in the world of men ever was. The marketplace stirred before the sun cleared the eastern hills—vendors arranging amphoras of oil, stacking loaves of barley bread, unrolling lengths of linen dyed saffron and indigo. The air smelled of fresh-baked grain and animal dung, wood smoke and the salt carried inland from Piraeus. A good morning in a great city, or so it appeared to those who had not yet learned what was coming.
 
 Philon of Kephissia moved through the Agora with the measured pace of a man who had long since stopped hurrying. He was lean in the way of those who forget to eat, his chiton hanging loose at the shoulders, the dark wool faded from too many washings. Sun and sleepless nights had carved lines into his face that made him look older than his years, though his hands remained steady—callused at the fingertips, stained faintly with the residue of poultices and tinctures. He carried a leather satchel slung across one shoulder, its weight familiar and unremarkable.
@@ -82,15 +73,7 @@ The morning's promise had already begun to curdle into something else, though no
 Philon knew better. He had always known better.
 
 He stood in the doorway and watched, and did not move.
----
-# Scene 02: Parodos—The First Breach
 
-**Chapter:** ch06-athens-philosopher
-**Section:** II. Parodos
-**Word count:** ~900
-**Status:** Draft
-
----
 
 The collapse came three days later.
 
@@ -143,15 +126,7 @@ Philon did not answer. He did not know how to.
 The man beneath his hands had stopped shaking. His breath came in shallow gasps, each one weaker than the last. Above them, the Parthenon gleamed in the sunlight, beautiful and indifferent, and the crowd stood at the edges of the empty circle, watching a physician touch what no one else would touch.
 
 The door that Philon had sworn never to close had opened. He stepped through it without looking back.
----
-# Scene 03: First Episode—The Flood
 
-**Chapter:** ch06-athens-philosopher
-**Section:** III. First Episode
-**Word count:** ~1,500
-**Status:** Draft
-
----
 
 The city changed within a fortnight.
 
@@ -236,15 +211,7 @@ But Philon watched him, as he watched everyone. And he saw what the young man wa
 He saw it. He understood it. And still he could not make himself believe it.
 
 Outside, the pyres burned on. The smoke rose. And within the Long Walls, the plague continued its patient work—indifferent to oaths, indifferent to status, indifferent to the desperate arithmetic of survival that would undo them all.
----
-# Scene 04: First Stasimon—The City's Lament
 
-**Chapter:** ch06-athens-philosopher
-**Section:** IV. First Stasimon
-**Word count:** ~500
-**Status:** Draft
-
----
 
 The pyres burned without ceasing.
 
@@ -267,15 +234,7 @@ The Parthenon remained. White and perfect against the smoke-darkened sky, its co
 Athens was burning its dead in the streets, and the gods looked on, and said nothing.
 
 The smoke rose. The pyres burned. And somewhere in the city, a physician worked on.
----
-# Scene 05: Second Episode—The Impossible Choice
 
-**Chapter:** ch06-athens-philosopher
-**Section:** V. Second Episode
-**Word count:** ~1,800
-**Status:** Draft
-
----
 
 The magistrate came at dawn, when the smoke from the pyres lay thickest over the city.
 
@@ -400,15 +359,7 @@ He did not know her name. He would never learn it. But he carried her toward his
 The gate stood empty behind him. Alexios was gone. The magistrate was gone. The healthy had fled or hidden, and the sick lay where they fell.
 
 Philon walked on, the woman in his arms, the smoke closing around them like a shroud.
----
-# Scene 06: Second Stasimon—The Cost of the Choice
 
-**Chapter:** ch06-athens-philosopher
-**Section:** VI. Second Stasimon
-**Word count:** ~520
-**Status:** Draft
-
----
 
 The smell had become a presence—thick, sweetish, inescapable. It seeped through cloth pressed to mouths, through shuttered windows, through the incense burning in temples where priests no longer gathered. The unburied dead lay in doorways and against walls, in the shadows of stoas where philosophers had once debated the nature of the good. Flies gathered in clouds that darkened the light.
 
@@ -443,15 +394,7 @@ The arithmetic did not matter. The numbers did not heal. The only truth he had e
 He set down the cup. The doubt retreated, not defeated but suppressed—a wound sutured shut without healing, waiting beneath the surface.
 
 Outside, the pyres burned on, and the smell of the city's dead settled over Athens like a second darkness.
----
-# Scene 07: Third Episode—Martyrdom
 
-**Chapter:** ch06-athens-philosopher
-**Section:** VII. Third Episode
-**Word count:** ~1,520
-**Status:** Draft
-
----
 
 The night came without mercy, thick with smoke and the sounds of the dying city. Through the single window of the small room, Philon could see the glow of funeral pyres painting the darkness orange, their flames the only light in a city that had forgotten how to live. The woman on the pallet had not spoken again since her single word—*water*—but her breathing continued, ragged and shallow, proof that somewhere within the wreckage of her body, something still fought.
 
@@ -536,15 +479,7 @@ He lowered his hand. Looked at it in the darkness, though there was nothing to s
 Outside, the first gray light of morning was beginning to seep through the smoke. The pyres had burned down during the night, but they would be rebuilt, would be burning again by noon. There was always more fuel. There were always more dead.
 
 Philon opened the door and walked into the outer room, where the living still waited.
----
-# Scene 08: Kommos—The Broken Realization
 
-**Chapter:** ch06-athens-philosopher
-**Section:** VIII. Kommos
-**Word count:** ~1,010
-**Status:** Draft
-
----
 
 He worked through that first day with the fever already building behind his eyes—a pressure that made the light too sharp, the sounds too near. The five patients in the outer room needed water, needed their dressings changed, needed the simple presence of someone who had not fled. He gave them what he could. His hands moved through the familiar motions: cloth wrung, fever checked, pulse counted. The work itself was steady, even if the man performing it was not.
 
@@ -615,10 +550,7 @@ If anything came next.
 The light in the room was very gentle now. The sounds of the city had grown distant. Somewhere, the living still needed help, and he could no longer give it.
 
 Philon closed his eyes.
----
-# Scene IX: Exodus—Death & Seeding
 
----
 
 The dying took longer than Philon expected.
 
@@ -679,5 +611,3 @@ Somewhere, the living reached for the dying, and the dying reached back, and the
 The wheel turned.
 
 The hunger remained.
-
-
