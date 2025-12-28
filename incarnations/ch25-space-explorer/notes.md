@@ -671,8 +671,8 @@ These become the texture of the bleeding-through paragraph.
 ## Next Steps
 
 1. ✅ Notes updated with brainstorm decisions
-2. ⏳ Create `chapter-25-style-rules.md` (four realm sections + coda)
-3. ⏳ Adapt `avatar-profile.json` for formless beings
+2. ✅ Create `chapter-25-style-rules.md` (four realm sections + coda)
+3. ✅ Adapt `avatar-profile.json` for formless beings
 4. ⏳ Mine previous chapters for mundane bleeding-through details
 5. ⏳ Draft Scene 1: Infinite Space
 6. ⏳ Draft Scene 2: Infinite Consciousness
