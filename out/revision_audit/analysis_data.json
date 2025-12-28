@@ -1,0 +1,403 @@
+{
+  "total_words": 216594,
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Contemporary Manchester",
+      "type": "Manchester",
+      "pov": "Silas/Lilith",
+      "word_count": 7895,
+      "tics": {
+        "particular": 0,
+        "something": 41,
+        "not_x_y_pattern": 1,
+        "em_dashes": 45
+      },
+      "abstraction_density": -5.83
+    },
+    {
+      "chapter": 2,
+      "name": "Prehistoric Ka",
+      "type": "Historical",
+      "pov": "Ka",
+      "word_count": 5058,
+      "tics": {
+        "particular": 0,
+        "something": 19,
+        "not_x_y_pattern": 1,
+        "em_dashes": 0
+      },
+      "abstraction_density": -31.63
+    },
+    {
+      "chapter": 3,
+      "name": "Lilith CP01",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3049,
+      "tics": {
+        "particular": 2,
+        "something": 16,
+        "not_x_y_pattern": 1,
+        "em_dashes": 41
+      },
+      "abstraction_density": -6.23
+    },
+    {
+      "chapter": 4,
+      "name": "Mauryan Chandra",
+      "type": "Historical",
+      "pov": "Chandra",
+      "word_count": 19676,
+      "tics": {
+        "particular": 22,
+        "something": 52,
+        "not_x_y_pattern": 6,
+        "em_dashes": 167
+      },
+      "abstraction_density": -2.29
+    },
+    {
+      "chapter": 5,
+      "name": "Lilith CP02",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 2673,
+      "tics": {
+        "particular": 6,
+        "something": 21,
+        "not_x_y_pattern": 2,
+        "em_dashes": 43
+      },
+      "abstraction_density": -4.12
+    },
+    {
+      "chapter": 6,
+      "name": "Athens Philosopher (Philon)",
+      "type": "Historical",
+      "pov": "Philon",
+      "word_count": 10202,
+      "tics": {
+        "particular": 3,
+        "something": 33,
+        "not_x_y_pattern": 1,
+        "em_dashes": 116
+      },
+      "abstraction_density": -8.14
+    },
+    {
+      "chapter": 7,
+      "name": "Lilith CP03",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3221,
+      "tics": {
+        "particular": 9,
+        "something": 9,
+        "not_x_y_pattern": 1,
+        "em_dashes": 51
+      },
+      "abstraction_density": -10.56
+    },
+    {
+      "chapter": 8,
+      "name": "Rome Investigator (Verinus)",
+      "type": "Historical",
+      "pov": "Verinus",
+      "word_count": 9405,
+      "tics": {
+        "particular": 1,
+        "something": 36,
+        "not_x_y_pattern": 3,
+        "em_dashes": 123
+      },
+      "abstraction_density": -3.4
+    },
+    {
+      "chapter": 9,
+      "name": "Lilith CP04",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 5998,
+      "tics": {
+        "particular": 2,
+        "something": 31,
+        "not_x_y_pattern": 5,
+        "em_dashes": 110
+      },
+      "abstraction_density": -5.17
+    },
+    {
+      "chapter": 10,
+      "name": "Egypt Hermit (Macarius)",
+      "type": "Historical",
+      "pov": "Macarius",
+      "word_count": 13777,
+      "tics": {
+        "particular": 7,
+        "something": 78,
+        "not_x_y_pattern": 1,
+        "em_dashes": 169
+      },
+      "abstraction_density": -0.22
+    },
+    {
+      "chapter": 11,
+      "name": "Lilith CP05",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 4883,
+      "tics": {
+        "particular": 5,
+        "something": 35,
+        "not_x_y_pattern": 1,
+        "em_dashes": 77
+      },
+      "abstraction_density": 2.05
+    },
+    {
+      "chapter": 12,
+      "name": "Heian Lover (Kaoru)",
+      "type": "Historical",
+      "pov": "Kaoru",
+      "word_count": 8460,
+      "tics": {
+        "particular": 0,
+        "something": 62,
+        "not_x_y_pattern": 9,
+        "em_dashes": 152
+      },
+      "abstraction_density": -8.27
+    },
+    {
+      "chapter": 13,
+      "name": "Lilith CP06",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 2714,
+      "tics": {
+        "particular": 4,
+        "something": 18,
+        "not_x_y_pattern": 0,
+        "em_dashes": 55
+      },
+      "abstraction_density": 5.53
+    },
+    {
+      "chapter": 14,
+      "name": "Inquisition Accused (Diego)",
+      "type": "Historical",
+      "pov": "Diego de Lucena",
+      "word_count": 18641,
+      "tics": {
+        "particular": 10,
+        "something": 52,
+        "not_x_y_pattern": 8,
+        "em_dashes": 230
+      },
+      "abstraction_density": -0.11
+    },
+    {
+      "chapter": 15,
+      "name": "Lilith CP07",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 4711,
+      "tics": {
+        "particular": 5,
+        "something": 25,
+        "not_x_y_pattern": 6,
+        "em_dashes": 73
+      },
+      "abstraction_density": -10.19
+    },
+    {
+      "chapter": 16,
+      "name": "Renaissance Skeptic",
+      "type": "Historical",
+      "pov": "Unknown",
+      "word_count": 13725,
+      "tics": {
+        "particular": 0,
+        "something": 20,
+        "not_x_y_pattern": 2,
+        "em_dashes": 117
+      },
+      "abstraction_density": -4.23
+    },
+    {
+      "chapter": 17,
+      "name": "Lilith CP08",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3546,
+      "tics": {
+        "particular": 4,
+        "something": 14,
+        "not_x_y_pattern": 1,
+        "em_dashes": 53
+      },
+      "abstraction_density": 0.85
+    },
+    {
+      "chapter": 18,
+      "name": "Taiping Rebel",
+      "type": "Historical",
+      "pov": "Unknown",
+      "word_count": 6512,
+      "tics": {
+        "particular": 0,
+        "something": 11,
+        "not_x_y_pattern": 2,
+        "em_dashes": 69
+      },
+      "abstraction_density": -9.21
+    },
+    {
+      "chapter": 19,
+      "name": "Lilith CP09",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 10011,
+      "tics": {
+        "particular": 3,
+        "something": 30,
+        "not_x_y_pattern": 1,
+        "em_dashes": 128
+      },
+      "abstraction_density": 4.69
+    },
+    {
+      "chapter": 20,
+      "name": "Noir Detective (Malone)",
+      "type": "Historical",
+      "pov": "Jack Malone",
+      "word_count": 11144,
+      "tics": {
+        "particular": 0,
+        "something": 52,
+        "not_x_y_pattern": 3,
+        "em_dashes": 99
+      },
+      "abstraction_density": -6.64
+    },
+    {
+      "chapter": 21,
+      "name": "Lilith CP10",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3738,
+      "tics": {
+        "particular": 2,
+        "something": 24,
+        "not_x_y_pattern": 1,
+        "em_dashes": 94
+      },
+      "abstraction_density": -5.89
+    },
+    {
+      "chapter": 22,
+      "name": "Contemporary Breakthrough",
+      "type": "Manchester",
+      "pov": "Silas",
+      "word_count": 9748,
+      "tics": {
+        "particular": 7,
+        "something": 55,
+        "not_x_y_pattern": 11,
+        "em_dashes": 129
+      },
+      "abstraction_density": -5.95
+    },
+    {
+      "chapter": 23,
+      "name": "Deva Celestial",
+      "type": "Historical/Metaphysical",
+      "pov": "Devaka",
+      "word_count": 6813,
+      "tics": {
+        "particular": 5,
+        "something": 58,
+        "not_x_y_pattern": 5,
+        "em_dashes": 108
+      },
+      "abstraction_density": 11.01
+    },
+    {
+      "chapter": 24,
+      "name": "Future Prophet",
+      "type": "Historical/Future",
+      "pov": "Unknown",
+      "word_count": 8650,
+      "tics": {
+        "particular": 8,
+        "something": 60,
+        "not_x_y_pattern": 11,
+        "em_dashes": 141
+      },
+      "abstraction_density": 9.48
+    },
+    {
+      "chapter": 25,
+      "name": "Space Explorer / Formless Realms",
+      "type": "Metaphysical",
+      "pov": "Merged",
+      "word_count": 11880,
+      "tics": {
+        "particular": 0,
+        "something": 125,
+        "not_x_y_pattern": 11,
+        "em_dashes": 294
+      },
+      "abstraction_density": 13.72
+    },
+    {
+      "chapter": 26,
+      "name": "Pure Abodes Awakened",
+      "type": "Climax",
+      "pov": "Silas/Merged",
+      "word_count": 10464,
+      "tics": {
+        "particular": 9,
+        "something": 74,
+        "not_x_y_pattern": 24,
+        "em_dashes": 200
+      },
+      "abstraction_density": 5.06
+    }
+  ],
+  "pivotal_moments": {
+    "devaka_betrayal": [
+      "nst his ears like physical pressure. The darkness lasted longer than he expected. Long enough for doubt to reassert itself, for the suspicions he had suppressed to surface again with renewed force. Devaka had led him through passages known only to a select few, into a location where his presence cou",
+      "age led to his imprisonment. He did not resist. Resistance would accomplish nothing except to provide justification for harsher treatment. The last thing he saw before the darkness swallowed him was Devaka's face, illuminated by the lamp he still held. His expression had settled into something Chand",
+      "d, needed to learn that trust was a vulnerability, needed to understand that his reformist certainty would destroy him if it continued to make allies of enemies. She was helping him. This pressure on Devaka would accelerate a betrayal that was already forming, would crystallize a lesson he needed to",
+      "rship. \"I haven't spoken to him in years, but\u2026 the debt was significant. He might remember.\" \"Would he help us?\" The question hung between them, freighted with everything that remained unspoken\u2014the betrayal Devaka had confessed to, the trust that confession had shattered, the uncertain ground on whi",
+      "uppressed to surface again with renewed force. Devaka had led him through passages known only to a select few, into a location where his presence could not be explained by any legitimate business. If betrayal was intended, this would be the moment\u2014isolated, disoriented, unable to find his way back w",
+      "and a headache and the first intimation that observation was no longer enough. ## III She traced forward. The thread unspooled through time with a momentum she had not created but had shaped, the betrayal she had influenced now playing out in the inevitable sequence of consequence following cause. D"
+    ],
+    "lilith_first_intervention": [
+      "pattern persisted. Became undeniable. Twelve of fifteen patients tracked, dead within weeks. The arithmetic inverting: more lost than saved, and all of them\u2014every single one\u2014passing through his hands first. This intervention will work. The phrase settled through her like sediment, like certainty, li"
+    ],
+    "lilith_car_confession": [
+      "e need to believe that competence might armor him against a world that wanted his blood regardless of his skill. He was meat now. Meat to be processed, examined, persuaded through the application of carefully documented pain to confess sins he might or might not have committed, to name names he migh",
+      "ork was thorough, documented, justified by testimony and confession extracted through proper channels. \"Diego de Lucena, physician, convicted of heresy and judaizing practices.\" The official's voice carried across the plaza, flat and formal. \"Having confessed to lighting Sabbath candles, observing J",
+      "not know what she was or why her presence made his body respond with dread his mind could not explain. But he released her too. Whatever she was, whatever purpose she served, it was not his burden to carry into death. A priest approached to hear final confession, offer final rites. Diego accepted th",
+      "er on the wheel. Thunder followed, close enough to shake the car's windows in their frames. \"Lilith.\" Her name came out different than he intended, weighted with a question he hadn't formulated. \"I didn't find you by accident, Silas.\" The words hung between them, suspended in the space the wipers co",
+      "eartbeats, they were driving blind. \"It means exactly what it sounds like.\" Her voice cracked on the final word, a fissure in the clinical precision she'd maintained since the phone call. \"I've been watching you for a very long time. Longer than you know. Longer than you can know.\" The University ap",
+      "here on the rooftop, grabbing him as he grabbed Stewart, her arms around his waist as his arms reached over the barrier, the chain forming through her intervention as much as through his. *I've been watching you for a very long time. Longer than you know.* He understood now what she'd meant. And the"
+    ],
+    "lilith_final_resistance": [
+      "r blocking\" had... dissolved wasn't quite right. Revealed itself as optional. The Lilith who raced against him was also the Lilith who flickered into him, who shared his awareness for that moment of merged perception, who was somehow part of a pattern larger than either of them separately perceived.",
+      "world. Through something older, something that preceded vessels and names and individual faces. Through the awareness that had tracked him since Ka crouched in firelight three hundred thousand years before. Six riders emerged from the trees. Catholic and Protestant working together, united only in t",
+      "lay\u2014the pronoun reasserting itself with the body\u2014in something that resembled a cradle if cradles were built from polymer and synthetic tissue, if cradles monitored heart rhythms that had never beaten before, if cradles existed in facilities where emergence was scheduled, quality-controlled, document"
+    ],
+    "stewart_rooftop_fall": [
+      "d, and the perceiver returned to find itself already in the middle of holding on. The chain held. Weight redistributed across the three of them\u2014Lilith pulling back, Silas braced against the barrier, Stewart's body dangling over the edge but no longer falling. The physics reorganized itself around su",
+      "se glimpses began to cohere, edges softening from intrusion into invitation. There were more lives to see. More deaths to remember. More of the wheel to understand. But for now, there was only this rooftop, and Stewart's shell-shocked breathing, and whatever had shifted in Lilith, and the sound of h",
+      "s wearing yesterday's clothes, rumpled and still faintly damp. He had no memory of the drive home. The clock on his bedside table read 8:47. He lay still, letting the facts assemble themselves. The rooftop. Stewart. Lilith. The reaching, the absence, three bodies linked. All of it present, immediate",
+      "hen Ka hoarded the meat. She'd been there when Chandra saved ledgers instead of children. She'd been there when Philon chose martyrdom over the wisdom of surviving. And now she'd been there on the rooftop, grabbing him as he grabbed Stewart, her arms around his waist as his arms reached over the bar",
+      "si.\" Stewart's hand left the barrier. He turned toward Silas\u2014toward connection, it seemed, toward the recognition of their shared unreality. \"That thou\u2014\" But the turn carried him. His foot found the barrier's base, and what had been a pivot became a stumble, and what had been a stumble became gravit",
+      "ed on schedule, slotting the unexplainable into categories that felt thinner than they'd ever felt before. She'd had her arms around Silas. She'd felt his weight shift forward as he reached over the barrier, felt the moment when gravity should have claimed both of them and somehow hadn't. And in tha"
+    ]
+  }
+}
