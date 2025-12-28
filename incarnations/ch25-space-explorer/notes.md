@@ -1,6 +1,6 @@
 # Chapter 25: The Explorer — Development Notes
 
-**Status:** Brainstorming Complete / Awaiting Experimental Prose Research
+**Status:** Brainstorming Complete / Ready for Drafting
 **Working Title:** "The Explorer"
 **Alternate Titles Under Consideration:** "The Formless," "The Boundless," "Neither Perception Nor Non-Perception"
 
@@ -337,56 +337,302 @@ The Pull is the mechanism: they don't die out of the formless realm—they're *c
 
 ---
 
-## Open Questions (Pending Research)
+## Open Questions — RESOLVED
 
-### Literary/Prose
-
-1. What experimental techniques best serve dissolved identity?
-2. How to render timelessness without boring the reader?
-3. What punctuation/formatting experiments might work? (e.g., absence of periods, white space, fragmentation)
-4. How much syntactic fracturing before readability collapses?
-
-### Structural
-
-1. How many scenes? Four (one per realm) seems natural, but may need more/fewer
-2. Approximate word count? Ch24 was ~12,900 words. Should this be shorter (more compressed/abstract) or similar?
-3. How long should each movement be? Equal, or weighted toward the end?
-
-### Phenomenological
-
-1. How to differentiate the four realms experientially, not just conceptually?
-2. What "happens" when there are no events, no bodies, no conflict?
-3. How to make "infinite space" feel different from "infinite consciousness"?
-
-### Character/Relationship
-
-1. How much of Lilith's interiority is accessible in "we" perspective?
-2. Should there be moments of her perspective specifically, or is everything merged?
-3. How to show her fetter without making her "the problem"?
+*All questions from the initial brainstorm have been addressed. See "Confirmed Decisions" section below for resolutions.*
 
 ---
 
-## Confirmed Decisions
+## Confirmed Decisions (Updated December 2024)
 
-1. **Setting:** The four formless realms, progressed through sequentially
-2. **POV:** "We" with "I" fractures at transition points
-3. **Time:** Aeons compressed, rendered as timelessness
-4. **Structure:** Four movements mapping to four realms and four emotional centers
-5. **The Pull:** Not their yearning—the Dharma's yearning for them
-6. **The Bleeding-Through:** Past incarnations surfacing during the Pull, near chapter's end
-7. **Lilith's Fetter:** Visible by end, not dissolved until Ch26
-8. **Prose:** Most experimental chapter; syntax breaking, neologisms possible
-9. **Non-Returner Attainment:** Achieved in this chapter
+### Core Structure
+
+1. **Setting:** The four formless realms, progressed through sequentially, ending with re-embodiment
+2. **POV:** "We" with "I" fractures occurring *within* all realms, intensifying throughout
+3. **Time:** Aeons compressed, rendered as timelessness via Fosse/Simon techniques
+4. **Scene Count:** Five scenes—four realms + Coda (The Pull/Re-embodiment)
+5. **Chapter Ending:** The "Meat Cage"—re-embodiment happens at end of Ch25 so Ch26 can open in a quaint village
+6. **Word Count:** Variable based on phenomenological needs (~12,000-13,000 total)
+7. **Drafting Order:** Sequential, one scene at a time
+
+### The Two Frameworks Reconciled
+
+The chapter integrates two structural frameworks:
+
+**Framework 1: The Four Realms (Phenomenological)**
+- Infinite Space → Infinite Consciousness → Nothingness → Neither/Nor
+- Each realm as distinct experiential territory
+
+**Framework 2: The Four Phases (Narrative Arc)**
+- Ocean of "We" → The Glitch → The Pull → The Meat Cage
+
+**Integration:**
+| Scene | Realm | Phase | Function |
+|-------|-------|-------|----------|
+| 1 | Infinite Space | Ocean (establishing) | The shock of no-body; finding each other; establishing "we" |
+| 2 | Infinite Consciousness | Ocean (deepening) + Glitch (emerging) | Bliss of intertwining; first glitches surface |
+| 3 | Nothingness | Glitch (intensifying) | Stripping reveals fractures; fetter becomes visible |
+| 4 | Neither/Nor | Stillest point | The threshold; silence; near-cessation |
+| Coda | The Pull + Meat Cage | Rupture + Re-embodiment | The Dharma calls; bleeding-through; landing in body |
+
+### Literary Toolkit Decisions
+
+| Realm | Primary Technique | Secondary Technique |
+|-------|------------------|---------------------|
+| Infinite Space | Michaux (seismographic) | Lispector (recursive, neutral) |
+| Infinite Consciousness | Woolf (hydrodynamic "we") | Kristof (clinical detachment) |
+| Nothingness | Beckett (syntactic starvation) | Apophatic theology (unsaying) |
+| Neither/Nor | Sarraute (tropisms) | Fosse (slow prose, no periods) |
+| The Pull/Coda | Parataxis (short, punchy) | Somatic shock (grounding) |
+
+### Visual Architecture
+
+- **Approach:** CONTRAST—the four realms are visually relatively standard; The Pull shatters the architecture
+- **No actual asemic text**—only described asemic experience ("Glyphs that meant nothing and everything")
+- **No font variations**—must be e-reader and audiobook friendly
+- **White space:** Increases subtly through realms, then may break open in Coda
+
+### Pronoun & Voice Decisions
+
+- **Primary:** "We" perspective throughout
+- **"I" Fractures:** Happen *within* all realms (not just at transitions), intensifying as chapter progresses
+- **Whose "I"?:** *Ours*—the "we" remembering its duality, not specifically Lilith's or Silex's
+- **Lilith's Fetter:** Manifests as the *last* "I" fracture that won't settle—visible by end, not dissolved until Ch26
+
+### The Pull Decisions
+
+- **Nature:** Transcends push/pull dichotomy—neither falling nor ascending, neither internal nor external
+- **Emotional Register:** Neither terrifying nor peaceful—reminiscent of both, beyond duality
+- **Onset:** Begins faintly even in early realms, the Dharma's need tugging at the edges
+- **Mechanism:** Not their yearning—*liberation is yearning for them*
+
+### The Bleeding-Through
+
+- **Content:** ALL past lives (we will mine old chapters for mundane, specific details)
+- **Structure:** Single compressed paragraph with NO periods—a beautiful, horrible crash
+- **Placement:** During The Pull, as momentum toward the climax
+- **Effect:** The wheel visible from outside—this is the CLIMAX of the chapter
+
+### The Meat Theme
+
+This experimental chapter emphasizes: **MEAT is not just FLESH—it is all attachment and ignorance.**
+
+- The formless realms are still meat (subtle clinging is still the wheel)
+- Seeing the wheel from outside reveals this
+- The absence of flesh doesn't mean absence of entanglement
+- The return to body is not punishment but completion
+
+### Non-Returner Attainment
+
+- **When:** Achieved during Scene 4 (Neither/Nor) through *seeing* clearly
+- **Sensual desire broken:** Recognizing attachment to even formless bliss is still craving
+- **Ill will broken:** Recognizing resistance to even dissolution is still aversion
+- **What remains visible:** The five higher fetters, especially Lilith's competition-fetter
 
 ---
 
-## Next Steps
+## Scene-by-Scene Outline
 
-1. **Author research:** Experimental prose forms for rendering formless consciousness
-2. **Build avatar-profile.json:** Adapted for formless beings (may need structural modification)
-3. **Build period-rules.md:** Phenomenology cards for each realm
-4. **Define scene structure:** Based on literary technique decisions
-5. **Draft outline:** Scene-by-scene beats
+### Scene 1: Infinite Space — "The Shock of No-Body"
+**~2,500-3,000 words**
+
+**Opening:** The transition from Ch24's death. No body. No location. The designed flesh of the transhuman era is gone.
+
+**Emotional Arc:** Disorientation → Orientation → Relief
+
+**Beats:**
+1. The absence of sensation (yet something like sensation)
+2. Vastness without landmark—"I am not I anymore"
+3. Finding each other—the thread visible as pure connection
+4. Establishing the "we"—settling into the merged perspective
+5. The first faint tug (The Pull beginning, almost imperceptible)
+
+**Prose Approach:**
+- Michaux's seismographic syntax for the initial disorientation
+- Staccato repetition: "No weight. No edge. No—"
+- Lispector's recursive spiraling as they find equilibrium
+- Establish the "we" voice that will carry through
+
+**"I" Glitches:** 1-2 brief fractures—the shock of separation-memory
+
+**Key Image:** The thread between them, visible now without mediation
+
+**Ends on:** The "we" stabilized, the vastness accepted, a subtle sense of something... calling?
+
+---
+
+### Scene 2: Infinite Consciousness — "The Bliss of Intertwining"
+**~3,000-3,500 words**
+
+**Opening:** Space recognized as consciousness. The vastness is not "out there"—it is the knowing itself.
+
+**Emotional Arc:** Bliss → Recursion → First Cracks
+
+**Beats:**
+1. The joy of awareness aware of itself
+2. Aeons compressed—time becoming vertical (Fosse technique)
+3. The intertwining: harder to distinguish "my" thought from "your" thought
+4. Memories of embodied existence as "distant echoes from denser realms"
+5. The subtle trap: attachment to the bliss itself (not yet recognized)
+6. The Pull strengthening—a direction that isn't direction
+7. First significant "I" glitches—one perceives the other perceiving
+
+**Prose Approach:**
+- Woolf's hydrodynamic flow—thoughts bleeding into each other
+- Kristof's clinical detachment for observations about the state
+- Long, flowing sentences (approaching Fosse's comma-only style)
+- The "we" voice at its most unified
+
+**"I" Glitches:** 3-4 fractures—recursion implying separateness ("I saw you seeing me")
+
+**Key Image:** Consciousness folding back on itself, a Möbius strip of awareness
+
+**Ends on:** Something underneath the bliss—a subtle wrongness, a question not yet formed
+
+---
+
+### Scene 3: Nothingness — "What Remains When Everything Goes"
+**~2,500-3,000 words**
+
+**Opening:** The stripping away of even consciousness as object. Dwelling in not-thereness.
+
+**Emotional Arc:** Emptying → Recognition → Seeing the Fetter
+
+**Beats:**
+1. The absence revealing what's still clinging
+2. The intuition of impermanence penetrating even this almost-eternal state
+3. Recognition: even this pleasure is craving; even resistance to dissolution is aversion
+4. The five higher fetters becoming visible (stripped of coarser coverings)
+5. Lilith's fetter surfacing—the "I" that won't quite release
+6. The Pull now undeniable—something calling from... somewhere
+7. The approach of non-returner attainment through clear seeing
+
+**Prose Approach:**
+- Beckett's syntactic starvation—sentences losing verbs, adjectives stripped
+- Apophatic language: "Not light. Not dark. The absence of the possibility of—"
+- Shorter sentences, more gaps
+- "Worsening" technique: correcting toward less ("Say awareness. No. Unsay.")
+
+**"I" Glitches:** Intensified—the "I" that fears dissolution, the competition surfacing
+
+**Key Image:** A void that is not empty but pregnant—the silence before sound
+
+**Ends on:** The fetter visible, acknowledged. Sensual desire and ill will breaking. The Pull stronger.
+
+---
+
+### Scene 4: Neither-Perception-Nor-Non-Perception — "The Threshold"
+**~2,000-2,500 words**
+
+**Opening:** The subtlest state. Even perceiving and not-perceiving become meaningless.
+
+**Emotional Arc:** Stillness → The Edge → The Intrusion
+
+**Beats:**
+1. The most refined state—language breaking down
+2. Non-returner attainment: seeing so clearly that clinging isn't sustained
+3. The "we" approaching unity but Lilith's fetter creating the final shimmer
+4. Perfect stillness—the nunc stans, the standing now
+5. Then: something intrudes. A direction. A weight. Something calling.
+
+**Prose Approach:**
+- Sarraute's tropisms—pre-linguistic flutters, sub-atomic movements
+- Fosse's slow prose—no periods, comma-only, incantatory
+- Described asemic experience: "Glyphs that meant nothing and everything"
+- The longest silences (white space at maximum before the rupture)
+
+**"I" Glitches:** Nearly gone—but Lilith's fetter as the last flicker
+
+**Key Image:** The threshold itself—a membrane between what they were and what they're becoming
+
+**Ends on:** The rupture. The Pull breaking through. The chapter pivots.
+
+---
+
+### Coda: The Pull and Re-embodiment — "The Wheel, Visible"
+**~2,500-3,000 words**
+
+**Opening:** The stillness shattered. Something reaching. Not their yearning—the yearning for them.
+
+**Emotional Arc:** Rupture → Cascade → Crash → Body
+
+**Beats:**
+1. The Pull manifesting: a direction not spatial, a weight not gravity
+2. THE BLEEDING-THROUGH: One compressed, period-less paragraph
+   - Ka in the cold. Chandra at the ledger. All incarnations surfacing.
+   - Bodies upon bodies. Meat upon meat.
+   - Not memory—recognition. The wheel visible from outside.
+3. **THE CLIMAX:** Seeing the wheel as pattern, not prison
+   - The recognition that it needs them
+   - The Dharma's yearning for a Tathagata to arise
+4. The descent—neither falling nor chosen
+5. The Meat Cage: re-embodiment
+   - Paratactic syntax: short, punchy, sensory
+   - Gravity as oppression
+   - The return of cold, weight, boundary
+   - Grounding in body: sight, touch, sound
+6. Opening eyes on a new world
+
+**Prose Approach:**
+- Visual architecture may shatter here (contrast approach)
+- Shift from hypotaxis to parataxis at re-embodiment
+- The bleeding-through paragraph as experimental peak
+- Somatic grounding at the end: 5-4-3-2-1 technique
+
+**"I"/"We" Status:** The question becomes moot—they are becoming something else
+
+**Key Image:** The wheel of meat visible from outside; then the shock of a new body
+
+**Ends on:** Eyes opening. A village. Morning light. Ready for Chapter 26.
+
+---
+
+## Technical Notes for Drafting
+
+### Style-Rules for This Chapter
+
+A dedicated `chapter-25-style-rules.md` is required with:
+- Section 1: Infinite Space rules
+- Section 2: Infinite Consciousness rules
+- Section 3: Nothingness rules
+- Section 4: Neither/Nor rules
+- Coda: The Pull/Re-embodiment rules
+
+### Avatar Profile Adaptation
+
+Traditional avatar-profile structure doesn't apply. Need:
+- What persists without body
+- What the "we" perceives itself as in each realm
+- How Lilith's markers might manifest as memory-traces or abstract patterns
+- The transformation from "avatars" to "what they're becoming"
+
+### Mundane Details for Bleeding-Through
+
+Before drafting Coda, mine previous chapters for specific, mundane sensory details:
+- Ka: the cold of the cave floor, the smell of old blood
+- Chandra: the scratch of the ledger pen, the weight of coins
+- Sophos: the dust of the agora, hemlock's bitter taste
+- Marcus: the iron smell of the arena, ink on fingers
+- etc.
+
+These become the texture of the bleeding-through paragraph.
+
+---
+
+## Research Documents Integrated
+
+### Primary Research: "The Architecture of the Formless"
+- Phenomenological foundations (Husserl, time-consciousness)
+- Literary toolkit: Michaux, Woolf, Kristof, Beckett, Sarraute, Cage
+- Realm-by-realm technique mapping
+- Vertical time and slow prose (Simon, Fosse, Krasznahorkai)
+
+### Secondary Research: "Architectural Dissolution and Somatic Re-Entry"
+- Visual architecture (Mallarmé, asemic writing, concrete poetry)
+- The "we"/"I" mechanics (Woolf, Kristof, Saunders, Beckett)
+- The four-phase structure (Ocean → Glitch → Pull → Meat Cage)
+- Somatic shock and grounding techniques
+- Hypotaxis vs. parataxis
 
 ---
 
@@ -406,6 +652,35 @@ The Pull is the mechanism: they don't die out of the formless realm—they're *c
 - reference/style-rules.md
 - incarnations/ch24-future-prophet/ch24-draft.md
 
+### Literary Models
+- Henri Michaux: *Miserable Miracle*, *Infinite Turbulence*
+- Virginia Woolf: *The Waves*
+- Agota Kristof: *The Notebook*
+- Samuel Beckett: *The Unnamable*, *Worstward Ho*, *Ping*
+- Clarice Lispector: *The Passion According to G.H.*
+- Nathalie Sarraute: *Tropisms*
+- Jon Fosse: *Septology*
+- Claude Simon: *The Grass*, *The Flanders Road*
+- László Krasznahorkai: *Satantango*
+- George Saunders: *Lincoln in the Bardo*
+- John Cage: *Lecture on Nothing*, Mesostics
+- Stéphane Mallarmé: *Un Coup de Dés*
+
 ---
 
-*Last updated: December 2024 — Initial brainstorm complete*
+## Next Steps
+
+1. ✅ Notes updated with brainstorm decisions
+2. ✅ Create `chapter-25-style-rules.md` (four realm sections + coda)
+3. ✅ Adapt `avatar-profile.json` for formless beings
+4. ✅ Mine previous chapters for mundane bleeding-through details (see `outline.md`)
+5. ⏳ Draft Scene 1: Infinite Space
+6. ⏳ Draft Scene 2: Infinite Consciousness
+7. ⏳ Draft Scene 3: Nothingness
+8. ⏳ Draft Scene 4: Neither/Nor
+9. ⏳ Draft Coda: The Pull and Re-embodiment
+10. ⏳ Revision pass for consistency
+
+---
+
+*Last updated: December 2024 — Brainstorming complete, outline finalized*

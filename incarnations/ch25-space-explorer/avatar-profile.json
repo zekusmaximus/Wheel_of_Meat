@@ -1,31 +1,374 @@
 {
   "chapter_id": "ch25-space-explorer",
-  "avatar": {
-    "name": "[TBD]",
-    "occupation": "[TBD]",
-    "status": "[TBD]"
+  "chapter_title": "The Explorer",
+
+  "structural_note": "This chapter has no traditional avatars. The two souls from Ch24 (Silex/Lith) have merged into a collective 'we' navigating the formless realms. The profile tracks what persists, what dissolves, and what emerges across five sections.",
+
+  "entering_state": {
+    "from_chapter": "ch24-future-prophet",
+    "transition": "Death together in engineered bodies; yearning for completion, union, turning",
+    "silex_status": "Once-Returner approaching Non-Returner",
+    "lith_status": "Non-Returner with final fetter (competition) becoming visible",
+    "relationship": "Boundaries dissolved; thread visible as single thread; approaching merger"
   },
-  "physical": {
-    "appearance": "[TBD]",
-    "recognition_marker": "[TBD]"
+
+  "the_we": {
+    "nature": "Two consciousnesses merged into collective perspective",
+    "primary_voice": "First-person plural throughout",
+    "fracture_pattern": "'I' emerges as rupture, not norm; intensifies through realms",
+    "whose_fractures": "Ours—the 'we' remembering its duality, not specifically one or the other",
+    "liliths_fetter_role": "Manifests as the LAST 'I' fracture that won't settle"
   },
-  "psychology": {
-    "core_flaw_manifestation": "[TBD - how compulsive helping shows in this life]",
-    "fatal_flaw": "[TBD]",
-    "strengths": [],
-    "weaknesses": []
+
+  "realm_profiles": {
+
+    "realm_1_infinite_space": {
+      "realm_name": "Ākāsānañcāyatana",
+      "english": "Infinite Space",
+      "scene_title": "The Shock of No-Body",
+
+      "what_we_are": {
+        "description": "A locus of perception in boundless extension",
+        "form": "None—pure vastness, awareness without container",
+        "substance": "Vectors and vibrations rather than fixed point",
+        "metaphor": "Evaporation and condensation; phase-change of identity"
+      },
+
+      "what_persists": {
+        "the_thread": "The connection between them, now visible as pure relation without mediation",
+        "body_echoes": "Faint tremors of embodiment—phantom weight, ghost-edges",
+        "recognition_capacity": "The ability to know each other in the formless",
+        "the_fetter": "Dormant but present—Lilith's need to be first, invisible in the vastness"
+      },
+
+      "what_dissolves": {
+        "physical_form": "Completely—no body, no location, no senses as such",
+        "temporal_sequence": "Beginnings of dissolution—'now' becomes ambiguous",
+        "separation": "The boundary between them evaporating",
+        "identity_specifics": "Names, histories, particular characteristics"
+      },
+
+      "liliths_markers": {
+        "canonical_face": "Does not manifest—no face, no body",
+        "widows_peak": "Might flicker as memory-trace in 'I' fractures",
+        "green_crescent": "Absent—but may surface as abstract color-pattern in glitches",
+        "manifestation_mode": "Pure memory, quickly dissolved back into 'we'"
+      },
+
+      "the_pull_presence": {
+        "intensity": "Faintest",
+        "manifestation": "A slight asymmetry in the vastness; a sense of orientation where there should be none",
+        "recognition": "Not yet recognized as The Pull; just... something"
+      },
+
+      "i_fractures": {
+        "count": "1-2",
+        "character": "Brief, startling—shock of separation-memory",
+        "content": "Body-echoes, flashes of specific incarnation",
+        "resolution": "Quick return to 'we' feels like relief"
+      }
+    },
+
+    "realm_2_infinite_consciousness": {
+      "realm_name": "Viññāṇañcāyatana",
+      "english": "Infinite Consciousness",
+      "scene_title": "The Bliss of Intertwining",
+
+      "what_we_are": {
+        "description": "Awareness aware of awareness; the knowing knowing itself",
+        "form": "Consciousness as substance, not container",
+        "substance": "Recursive self-perception; a Möbius strip of awareness",
+        "metaphor": "Waves that know themselves as water; foam on the same sea"
+      },
+
+      "what_persists": {
+        "the_thread": "Now indistinguishable from the consciousness itself—we ARE the connection",
+        "body_echoes": "Distant memories, 'echoes from denser realms'",
+        "recognition_capacity": "Deepened into unity—recognizing becomes being",
+        "the_fetter": "Still hidden within the bliss; the attachment to the state itself emerging"
+      },
+
+      "what_dissolves": {
+        "subject_object": "The distinction between observer and observed collapses",
+        "your_thought_my_thought": "Harder to distinguish; thoughts bleed without attribution",
+        "temporal_sequence": "Fully dissolved—aeons as moments, moments as aeons",
+        "the_trap_visibility": "Pleasure of formlessness not yet recognized as attachment"
+      },
+
+      "liliths_markers": {
+        "canonical_face": "Does not manifest",
+        "widows_peak": "Gone",
+        "green_crescent": "Might surface as color-frequency in the consciousness-field",
+        "manifestation_mode": "Abstract pattern rather than physical feature; interference in the field"
+      },
+
+      "the_pull_presence": {
+        "intensity": "Strengthening",
+        "manifestation": "A direction that isn't direction; something beneath the bliss",
+        "recognition": "Beginning to sense that the vastness has... a lean"
+      },
+
+      "i_fractures": {
+        "count": "3-4",
+        "character": "More significant; occur when recursion implies separateness",
+        "content": "'I saw you seeing me'—the moment of seeing the seeing",
+        "resolution": "Healing but leaving trace; something revealed"
+      },
+
+      "the_subtle_trap": {
+        "nature": "Attachment to the bliss itself",
+        "visibility": "Not yet recognized",
+        "manifestation": "The thought 'we could remain' arising without being seen as clinging"
+      }
+    },
+
+    "realm_3_nothingness": {
+      "realm_name": "Ākiñcaññāyatana",
+      "english": "Nothingness",
+      "scene_title": "What Remains When Everything Goes",
+
+      "what_we_are": {
+        "description": "The absence perceiving absence; dwelling in not-thereness",
+        "form": "Not-form; the void as subject",
+        "substance": "Negation as presence; 'there is nothing' as experience",
+        "metaphor": "Pregnant silence; the space between heartbeats stretched infinite"
+      },
+
+      "what_persists": {
+        "the_thread": "Vestigial—almost invisible, but still tethering",
+        "body_echoes": "Gone—only the fetter remains as echo",
+        "recognition_capacity": "Recognition of what we are NOT, not what we are",
+        "the_fetter": "NOW VISIBLE—Lilith's competition surfacing as the last attachment"
+      },
+
+      "what_dissolves": {
+        "consciousness_as_object": "Even awareness is no longer taken as object—only its absence",
+        "pleasure": "The bliss of Realm 2 seen as another form of craving",
+        "resistance": "Aversion to dissolution visible as the last ill will",
+        "concealment": "Everything that was hiding the fetters stripped away"
+      },
+
+      "liliths_markers": {
+        "canonical_face": "Does not manifest",
+        "widows_peak": "Gone",
+        "green_crescent": "Gone",
+        "manifestation_mode": "The fetter itself is the marker now—competition IS her signature"
+      },
+
+      "the_pull_presence": {
+        "intensity": "Undeniable",
+        "manifestation": "Weight in weightlessness; calling from placelessness",
+        "recognition": "First real awareness that something is... summoning"
+      },
+
+      "i_fractures": {
+        "count": "Intensified",
+        "character": "The 'I' that fears dissolution; the competition surfacing",
+        "content": "'I wanted to be first into the nothing'—Lilith's fetter naked",
+        "resolution": "Does not fully resolve; the fetter visible, acknowledged"
+      },
+
+      "fetter_visibility": {
+        "sensual_desire": "Seen clearly—even attachment to formless bliss is craving",
+        "ill_will": "Seen clearly—even resistance to dissolution is aversion",
+        "competition_fetter": "Fully visible for the first time—the 'I' that wants to achieve first"
+      },
+
+      "non_returner_approach": {
+        "status": "Approaching through clear seeing",
+        "mechanism": "The seeing itself is the breaking",
+        "remaining": "Five higher fetters visible, especially competition"
+      }
+    },
+
+    "realm_4_neither_nor": {
+      "realm_name": "Nevasaññānāsaññāyatana",
+      "english": "Neither-Perception-Nor-Non-Perception",
+      "scene_title": "The Threshold",
+
+      "what_we_are": {
+        "description": "The threshold between being and non-being; consciousness so refined it barely exists",
+        "form": "Neither form nor formlessness; neither perceiving nor not-perceiving",
+        "substance": "The membrane; the edge; pure potentiality",
+        "metaphor": "The last breath before diving; the pause between notes"
+      },
+
+      "what_persists": {
+        "the_thread": "Transformed—no longer connecting two, but holding what-is-becoming",
+        "body_echoes": "None",
+        "recognition_capacity": "Beyond recognition; pre-categorical awareness",
+        "the_fetter": "The last shimmer—Lilith's 'I' as final flicker before unity"
+      },
+
+      "what_dissolves": {
+        "perception_itself": "Even the category of perceiving becomes meaningless",
+        "language": "Words fail; only tropisms and pre-linguistic flutters",
+        "time": "Not flowing, not stopped—the distinction meaningless",
+        "almost_everything": "Only the fetter and The Pull remain as 'something'"
+      },
+
+      "liliths_markers": {
+        "canonical_face": "Impossible here",
+        "widows_peak": "Impossible here",
+        "green_crescent": "Impossible here",
+        "manifestation_mode": "The fetter-shimmer—the one strand that won't fully dissolve"
+      },
+
+      "the_pull_presence": {
+        "intensity": "Intrusive—about to rupture",
+        "manifestation": "A direction. A weight. Something calling.",
+        "recognition": "The rupture point—section ends with The Pull breaking through"
+      },
+
+      "i_fractures": {
+        "count": "Nearly none",
+        "character": "Only Lilith's fetter as the last flicker",
+        "content": "The need to be first, even here, even now",
+        "resolution": "Visible but not dissolved (that's Ch26's work)"
+      },
+
+      "non_returner_attainment": {
+        "status": "Achieved in this realm",
+        "mechanism": "Seeing so clearly that clinging simply isn't sustained",
+        "sensual_desire": "Broken—attachment to even this state recognized as craving",
+        "ill_will": "Broken—resistance to even dissolution recognized as aversion",
+        "what_remains": "Five higher fetters visible, especially conceit (the 'I' that persists)"
+      },
+
+      "pre_pull_state": {
+        "stillness": "Perfect—the nunc stans, the standing now",
+        "perception": "Approaching asemic—glyphs that mean nothing and everything",
+        "tension": "Maximum—the membrane about to break"
+      }
+    },
+
+    "coda_the_pull": {
+      "section_name": "The Pull and Re-embodiment",
+      "scene_title": "The Wheel, Visible",
+
+      "what_we_are": {
+        "description": "That which is being called; that which the Dharma yearns for",
+        "form": "Transitional—neither formless nor formed",
+        "substance": "Pure potentiality condensing toward manifestation",
+        "metaphor": "The seed of Maitreya; the Buddha-to-be"
+      },
+
+      "the_pull_nature": {
+        "source": "The Dharma's need for a Tathagata to arise",
+        "direction": "Not spatial—a 'there' that is not a place",
+        "character": "Neither terrifying nor peaceful; reminiscent of both; beyond duality",
+        "mechanism": "Not their yearning—liberation yearning FOR them"
+      },
+
+      "the_bleeding_through": {
+        "nature": "All past lives surfacing simultaneously",
+        "format": "Single compressed paragraph, NO periods",
+        "content": "Mundane sensory details from each incarnation",
+        "effect": "The wheel visible from outside—pattern, not prison"
+      },
+
+      "past_lives_present": {
+        "ka": "The cold of the cave floor, the smell of old blood, the hunger",
+        "chandra": "The scratch of the ledger pen, the weight of coins, lamp oil smoke",
+        "sophos": "Agora dust, hemlock taste, the crowd's murmur",
+        "marcus": "Arena iron, ink on fingers, the stoic's ring",
+        "note": "Full list to be mined from previous chapter drafts before writing"
+      },
+
+      "the_climax": {
+        "moment": "Seeing the wheel as pattern, not prison",
+        "recognition": "It needs them—for all beings still caught",
+        "inversion": "They stopped yearning; so they can be yearned for",
+        "maitreya_seed": "The Dharma reaching for what they're becoming"
+      },
+
+      "re_embodiment": {
+        "nature": "The Meat Cage—return to body",
+        "sensory_return": "Cold first, then weight, then surface, then sight",
+        "gravity": "Oppressive—after weightlessness, weight is violence",
+        "grounding": "5-4-3-2-1 technique: sight, touch, sound, smell, taste"
+      },
+
+      "what_we_become": {
+        "status": "Non-returners with visible higher fetters",
+        "identity": "Neither one nor two—something else emerging",
+        "fetter_status": "Competition fetter visible but not dissolved (Ch26 work)",
+        "maitreya_proximity": "Closer than ever; the actual synthesis approaching"
+      },
+
+      "new_body": {
+        "location": "A village; morning light",
+        "nature": "To be established in Chapter 26",
+        "transition": "Eyes opening—the last time they'll need to"
+      }
+    }
   },
+
+  "fetter_progression": {
+    "entering_chapter": {
+      "silex_broken": ["self_illusion", "doubt", "rites_rituals"],
+      "silex_weakened": ["sensual_desire", "ill_will"],
+      "lith_broken": ["self_illusion", "doubt", "rites_rituals", "sensual_desire", "ill_will", "desire_fine_material", "desire_immaterial", "conceit", "restlessness"],
+      "lith_final_fetter": "Subtle attachment to being the one who achieves completion"
+    },
+
+    "by_realm_1": {
+      "status": "Fetters dormant—vastness obscures",
+      "visibility": "None—too much space to see the clinging"
+    },
+
+    "by_realm_2": {
+      "status": "The trap forming—attachment to bliss unrecognized",
+      "visibility": "Beginning—the recursion reveals separateness"
+    },
+
+    "by_realm_3": {
+      "status": "All fetters visible in the stripping",
+      "visibility": "Full—Lilith's competition fetter surfacing naked",
+      "breaking": "Sensual desire and ill will seen clearly, breaking"
+    },
+
+    "by_realm_4": {
+      "status": "Non-returner attainment achieved",
+      "broken": ["sensual_desire", "ill_will"],
+      "visible_remaining": ["desire_fine_material", "desire_immaterial", "conceit", "restlessness", "ignorance"],
+      "liliths_fetter": "The last shimmer—visible but not dissolved"
+    },
+
+    "exiting_chapter": {
+      "broken": ["self_illusion", "doubt", "rites_rituals", "sensual_desire", "ill_will"],
+      "visible_not_broken": ["desire_fine_material", "desire_immaterial", "conceit", "restlessness", "ignorance"],
+      "liliths_fetter_status": "Fully visible, ready to dissolve in Ch26",
+      "ready_for": "Maitreya merger; final awakening"
+    }
+  },
+
+  "the_thread_evolution": {
+    "ch24": "Visible as single thread between engineered bodies",
+    "realm_1": "Visible as pure connection without mediation",
+    "realm_2": "Indistinguishable from consciousness itself—we ARE the connection",
+    "realm_3": "Vestigial—almost invisible in the nothingness",
+    "realm_4": "Transformed—no longer connecting two, but holding what-is-becoming",
+    "coda": "The thread IS what they're becoming; the seed of merger"
+  },
+
+  "maitreya_foreshadowing": {
+    "ch24_seeds": "Technology allowed merged awareness; soul bond tightening",
+    "realm_progression": "The 'we' becoming not-two-not-one",
+    "the_pull": "The Dharma reaching for a Buddha to arise",
+    "climax_moment": "Seeing the wheel = seeing they're needed for all beings",
+    "ch26_setup": "Two becoming one; the actual synthesis the counterfeit couldn't provide"
+  },
+
   "chapter_arc": {
-    "opening_state": "[TBD]",
-    "inciting_incident": "[TBD]",
-    "climax": "[TBD]",
-    "closing_state": "[TBD]"
+    "opening_state": "Two consciousnesses arriving in formless realm after Ch24 death",
+    "realm_1_state": "Disorientation → establishing the 'we'",
+    "realm_2_state": "Bliss of intertwining → first cracks appearing",
+    "realm_3_state": "Stripping → fetters visible → non-returner approaching",
+    "realm_4_state": "Threshold → non-returner attainment → The Pull intrudes",
+    "coda_state": "The Pull → bleeding-through → wheel visible → re-embodiment",
+    "closing_state": "Eyes opening in village; ready for Chapter 26; Maitreya approaching"
   },
-  "lesson_development": {
-    "perfection_or_fetter": "[TBD]",
-    "what_learned": "[TBD]",
-    "what_failed": "[TBD]",
-    "death_seeds_next": "[TBD]"
-  },
-  "notes": "[TBD]"
+
+  "notes": "This profile tracks transformation across five sections rather than static character traits. Traditional avatar categories (name, occupation, appearance) do not apply to formless beings. The 'character' is the WE—the merged perspective—and its evolution toward what they're becoming: the seed of Maitreya."
 }
