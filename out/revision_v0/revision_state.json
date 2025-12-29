@@ -1,0 +1,406 @@
+{
+  "baseline": {
+    "total_words": 216594,
+    "generated_date": "2025-12-29",
+    "source_file": "WOM_Manuscript_full.md"
+  },
+  "word_counts_by_type": {
+    "Manchester": 17643,
+    "Historical": 116600,
+    "Lilith": 44544,
+    "Historical/Metaphysical": 6813,
+    "Historical/Future": 8650,
+    "Metaphysical": 11880,
+    "Climax": 10464
+  },
+  "chapter_map": {
+    "1": {
+      "name": "Contemporary Manchester",
+      "type": "Manchester",
+      "pov": "Silas/Lilith",
+      "word_count": 7895,
+      "abstraction_density": -5.83,
+      "tics": {
+        "particular": 0,
+        "something": 41,
+        "not_x_y_pattern": 1,
+        "em_dashes": 45
+      }
+    },
+    "2": {
+      "name": "Prehistoric Ka",
+      "type": "Historical",
+      "pov": "Ka",
+      "word_count": 5058,
+      "abstraction_density": -31.63,
+      "tics": {
+        "particular": 0,
+        "something": 19,
+        "not_x_y_pattern": 1,
+        "em_dashes": 0
+      }
+    },
+    "3": {
+      "name": "Lilith CP01",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3049,
+      "abstraction_density": -6.23,
+      "tics": {
+        "particular": 2,
+        "something": 16,
+        "not_x_y_pattern": 1,
+        "em_dashes": 41
+      }
+    },
+    "4": {
+      "name": "Mauryan Chandra",
+      "type": "Historical",
+      "pov": "Chandra",
+      "word_count": 19676,
+      "abstraction_density": -2.29,
+      "tics": {
+        "particular": 22,
+        "something": 52,
+        "not_x_y_pattern": 6,
+        "em_dashes": 167
+      }
+    },
+    "5": {
+      "name": "Lilith CP02",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 2673,
+      "abstraction_density": -4.12,
+      "tics": {
+        "particular": 6,
+        "something": 21,
+        "not_x_y_pattern": 2,
+        "em_dashes": 43
+      }
+    },
+    "6": {
+      "name": "Athens Philosopher (Philon)",
+      "type": "Historical",
+      "pov": "Philon",
+      "word_count": 10202,
+      "abstraction_density": -8.14,
+      "tics": {
+        "particular": 3,
+        "something": 33,
+        "not_x_y_pattern": 1,
+        "em_dashes": 116
+      }
+    },
+    "7": {
+      "name": "Lilith CP03",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3221,
+      "abstraction_density": -10.56,
+      "tics": {
+        "particular": 9,
+        "something": 9,
+        "not_x_y_pattern": 1,
+        "em_dashes": 51
+      }
+    },
+    "8": {
+      "name": "Rome Investigator (Verinus)",
+      "type": "Historical",
+      "pov": "Verinus",
+      "word_count": 9405,
+      "abstraction_density": -3.4,
+      "tics": {
+        "particular": 1,
+        "something": 36,
+        "not_x_y_pattern": 3,
+        "em_dashes": 123
+      }
+    },
+    "9": {
+      "name": "Lilith CP04",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 5998,
+      "abstraction_density": -5.17,
+      "tics": {
+        "particular": 2,
+        "something": 31,
+        "not_x_y_pattern": 5,
+        "em_dashes": 110
+      }
+    },
+    "10": {
+      "name": "Egypt Hermit (Macarius)",
+      "type": "Historical",
+      "pov": "Macarius",
+      "word_count": 13777,
+      "abstraction_density": -0.22,
+      "tics": {
+        "particular": 7,
+        "something": 78,
+        "not_x_y_pattern": 1,
+        "em_dashes": 169
+      }
+    },
+    "11": {
+      "name": "Lilith CP05",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 4883,
+      "abstraction_density": 2.05,
+      "tics": {
+        "particular": 5,
+        "something": 35,
+        "not_x_y_pattern": 1,
+        "em_dashes": 77
+      }
+    },
+    "12": {
+      "name": "Heian Lover (Kaoru)",
+      "type": "Historical",
+      "pov": "Kaoru",
+      "word_count": 8460,
+      "abstraction_density": -8.27,
+      "tics": {
+        "particular": 0,
+        "something": 62,
+        "not_x_y_pattern": 9,
+        "em_dashes": 152
+      }
+    },
+    "13": {
+      "name": "Lilith CP06",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 2714,
+      "abstraction_density": 5.53,
+      "tics": {
+        "particular": 4,
+        "something": 18,
+        "not_x_y_pattern": 0,
+        "em_dashes": 55
+      }
+    },
+    "14": {
+      "name": "Inquisition Accused (Diego)",
+      "type": "Historical",
+      "pov": "Diego de Lucena",
+      "word_count": 18641,
+      "abstraction_density": -0.11,
+      "tics": {
+        "particular": 10,
+        "something": 52,
+        "not_x_y_pattern": 8,
+        "em_dashes": 230
+      }
+    },
+    "15": {
+      "name": "Lilith CP07",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 4711,
+      "abstraction_density": -10.19,
+      "tics": {
+        "particular": 5,
+        "something": 25,
+        "not_x_y_pattern": 6,
+        "em_dashes": 73
+      }
+    },
+    "16": {
+      "name": "Renaissance Skeptic",
+      "type": "Historical",
+      "pov": "Unknown",
+      "word_count": 13725,
+      "abstraction_density": -4.23,
+      "tics": {
+        "particular": 0,
+        "something": 20,
+        "not_x_y_pattern": 2,
+        "em_dashes": 117
+      }
+    },
+    "17": {
+      "name": "Lilith CP08",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3546,
+      "abstraction_density": 0.85,
+      "tics": {
+        "particular": 4,
+        "something": 14,
+        "not_x_y_pattern": 1,
+        "em_dashes": 53
+      }
+    },
+    "18": {
+      "name": "Taiping Rebel",
+      "type": "Historical",
+      "pov": "Unknown",
+      "word_count": 6512,
+      "abstraction_density": -9.21,
+      "tics": {
+        "particular": 0,
+        "something": 11,
+        "not_x_y_pattern": 2,
+        "em_dashes": 69
+      }
+    },
+    "19": {
+      "name": "Lilith CP09",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 10011,
+      "abstraction_density": 4.69,
+      "tics": {
+        "particular": 3,
+        "something": 30,
+        "not_x_y_pattern": 1,
+        "em_dashes": 128
+      }
+    },
+    "20": {
+      "name": "Noir Detective (Malone)",
+      "type": "Historical",
+      "pov": "Jack Malone",
+      "word_count": 11144,
+      "abstraction_density": -6.64,
+      "tics": {
+        "particular": 0,
+        "something": 52,
+        "not_x_y_pattern": 3,
+        "em_dashes": 99
+      }
+    },
+    "21": {
+      "name": "Lilith CP10",
+      "type": "Lilith",
+      "pov": "Lilith",
+      "word_count": 3738,
+      "abstraction_density": -5.89,
+      "tics": {
+        "particular": 2,
+        "something": 24,
+        "not_x_y_pattern": 1,
+        "em_dashes": 94
+      }
+    },
+    "22": {
+      "name": "Contemporary Breakthrough",
+      "type": "Manchester",
+      "pov": "Silas",
+      "word_count": 9748,
+      "abstraction_density": -5.95,
+      "tics": {
+        "particular": 7,
+        "something": 55,
+        "not_x_y_pattern": 11,
+        "em_dashes": 129
+      }
+    },
+    "23": {
+      "name": "Deva Celestial",
+      "type": "Historical/Metaphysical",
+      "pov": "Devaka",
+      "word_count": 6813,
+      "abstraction_density": 11.01,
+      "tics": {
+        "particular": 5,
+        "something": 58,
+        "not_x_y_pattern": 5,
+        "em_dashes": 108
+      }
+    },
+    "24": {
+      "name": "Future Prophet",
+      "type": "Historical/Future",
+      "pov": "Unknown",
+      "word_count": 8650,
+      "abstraction_density": 9.48,
+      "tics": {
+        "particular": 8,
+        "something": 60,
+        "not_x_y_pattern": 11,
+        "em_dashes": 141
+      }
+    },
+    "25": {
+      "name": "Space Explorer / Formless Realms",
+      "type": "Metaphysical",
+      "pov": "Merged",
+      "word_count": 11880,
+      "abstraction_density": 13.72,
+      "tics": {
+        "particular": 0,
+        "something": 125,
+        "not_x_y_pattern": 11,
+        "em_dashes": 294
+      }
+    },
+    "26": {
+      "name": "Pure Abodes Awakened",
+      "type": "Climax",
+      "pov": "Silas/Merged",
+      "word_count": 10464,
+      "abstraction_density": 5.06,
+      "tics": {
+        "particular": 9,
+        "something": 74,
+        "not_x_y_pattern": 24,
+        "em_dashes": 200
+      }
+    }
+  },
+  "tic_totals": {
+    "particular": 114,
+    "something": 1051,
+    "not_x_y_pattern": 118,
+    "em_dashes": 2884
+  },
+  "tic_densities": {
+    "particular": 5.26,
+    "something": 48.52,
+    "not_x_y_pattern": 5.45,
+    "em_dashes": 133.15
+  },
+  "constraints": {
+    "C1_final_words": {
+      "min": 110000,
+      "max": 130000,
+      "target": 120000
+    },
+    "C2_manchester_pct": {
+      "min": 0.4,
+      "max": 0.5
+    },
+    "C3_net_cut": {
+      "min": 80000,
+      "max": 100000
+    },
+    "C4_incarnations_cut": {
+      "min": 3,
+      "max": 4
+    },
+    "C5_pivotal_scenes": {
+      "min": 3
+    },
+    "C6_reflective_reduction": {
+      "min": 0.3,
+      "max": 0.4
+    },
+    "C7_tic_reduction": {
+      "target": 0.5
+    }
+  },
+  "percentages_by_type": {
+    "Manchester": 8.15,
+    "Historical": 53.83,
+    "Lilith": 20.57,
+    "Historical/Metaphysical": 3.15,
+    "Historical/Future": 3.99,
+    "Metaphysical": 5.48,
+    "Climax": 4.83
+  }
+}
