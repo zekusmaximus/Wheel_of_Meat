@@ -6,11 +6,11 @@ He learned the forms. Everyone learned the forms. The ceremonies of purification
 
 Silex could not.
 
-Not that he refused—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration. He simply... missed. The prescribed serenity settled over his surface like a film on water, never penetrating to whatever lay beneath. He performed the postures and felt nothing. He breathed at the specified frequencies and remained unchanged. He passed through the ceremonies and emerged on the other side with the same quiet wrongness that had been present from emergence.
+He didn't refuse—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration. He simply... missed. The prescribed serenity settled over his surface like a film on water, never penetrating to whatever lay beneath. He performed the postures and felt nothing. He breathed at the specified frequencies and remained unchanged. He passed through the ceremonies and emerged on the other side with the same quiet wrongness that had been present from emergence.
 
 *Something is absent.*
 
-The thought surfaced repeatedly across the decades of his formation. Not something wrong with him—though the system would have preferred that explanation, would have offered treatments for deviation, solutions for anomaly. Something wrong with the offering itself. The forms were empty. The rituals were husks. The ancient teachings that The Eternal Synthesis preserved in its archives, translated and annotated and cross-referenced until they collapsed under the weight of interpretation—they had lost whatever had made them worth preserving.
+The thought surfaced repeatedly across the decades of his formation. Something wrong with the offering itself rather than with him—though the system would have preferred the reverse, would have offered treatments for deviation, solutions for anomaly. The forms were empty. The rituals were husks. The ancient teachings that The Eternal Synthesis preserved in its archives, translated and annotated and cross-referenced until they collapsed under the weight of interpretation—they had lost whatever had made them worth preserving.
 
 He reached for genuine stillness and found only the chemically-guaranteed calm that the neural protocols provided. Bliss-states on demand, serenity without uncertainty, peace as product rather than discovery. The not-knowing that transformation required—the risk, the vulnerability, the genuine encounter with what couldn't be predicted—the system had engineered it away. Removed the difficulty. Solved the problem of seeking by eliminating the need to seek.
 
@@ -22,7 +22,7 @@ The phrase appeared in his file—he had access to his file, everyone had access
 
 The recognition carried no resentment. How could they think otherwise? The protocols worked for everyone else. The calibrated frequencies produced the intended states in consciousness after consciousness, life after life, the vast machinery of spiritual development grinding forward with the reliability of any well-designed system. If one component failed to respond, the problem obviously lay with the component.
 
-But something persisted beneath the prescribed calm that covered his surface.
+But beneath the prescribed calm that covered his surface, a quality persisted.
 
 Past lives surfaced—not as memory, which would have required mechanisms for storing and retrieving what had never been recorded, but as knowing. He had been something before. Many things. The clarity that the Deva Realm had burned into whatever he was continued to operate here, perceiving through the fog of technology, registering the counterfeit nature of what the system offered as genuine.
 
@@ -46,7 +46,7 @@ Or: he felt the nothing that had been there all along, the hollow core that the 
 
 The thought lasted only a moment. The congregation dispersed. The ceremony concluded. The systems recorded his achievement and updated his status and moved on to the next scheduled accomplishment.
 
-But the flicker persisted in his awareness like an afterimage, like the outline of something glimpsed too quickly to identify, like a question forming without words:
+But the flicker persisted in his awareness like an afterimage, like an outline glimpsed too quickly to identify, like a question forming without words:
 
 *Who else is looking through the hollow?*
 
