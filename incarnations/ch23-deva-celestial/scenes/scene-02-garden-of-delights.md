@@ -1,12 +1,12 @@
 Movement here was remembering where you wanted to be.
 
-The realm shifted—or the awareness shifted through the realm—and something that functioned like distance collapsed into arrival. A new zone manifested: concentrated beauty, pleasure-frequencies saturating the space until the space itself became the pleasure, until there was no distinction between perceiving beauty and being beauty perceived.
+The realm shifted—or the awareness shifted through the realm—and what functioned like distance collapsed into arrival. A new zone manifested: concentrated beauty, pleasure-frequencies saturating the space until the space itself became the pleasure, until there was no distinction between perceiving beauty and being beauty perceived.
 
 Garden was the wrong word, but the wrong word pointed at something. Structures that might have been trees if trees could sing their own growth. Currents that might have been water if water could carry meaning instead of sediment. Light that didn't fall from any source but arose from the nature of things here, illumination as fundamental property rather than phenomenon.
 
 The deva beings were already present.
 
-Not approaching—they didn't need to approach, the way you don't need to approach your own thoughts. They were simply *there* when attention turned toward them: ancient consciousnesses, luminous and vast, inhabiting this realm with the ease of residents who had forgotten any other way of being.
+Already there—they didn't need to approach, the way you don't need to approach your own thoughts. They were simply *there* when attention turned toward them: ancient consciousnesses, luminous and vast, inhabiting this realm with the ease of residents who had forgotten any other way of being.
 
 Their welcome came without words. Attention was greeting. Presence was hospitality. They turned toward what had been Silas the way starlight turns toward space—naturally, without intention, simply radiating what they were toward what he was.
 
@@ -20,7 +20,7 @@ His response carried the same unmediated quality. No vocal cords shaped it. No a
 
 The question held no pressure. The deva beings wanted nothing—that was immediately apparent. They had transcended wanting so long ago that want itself had become incomprehensible to them, a primitive mechanism belonging to realms where scarcity existed. Their question was observation rather than invitation: you are here; this is where you will be; is that not so?
 
-Something in the awareness that had been Silas registered the temptation before recognizing it as temptation.
+The awareness that had been Silas registered the temptation before recognizing it as temptation.
 
 The pleasure was extraordinary. Frequencies that would have overwhelmed a nervous system if nervous systems existed here, satisfaction that bypassed the usual machinery of reward and consequence. Phantom memory of sugar on a tongue, of warmth after cold, of relief after pain—all of it intensified beyond any earthly parallel, distilled to essence, experienced without the organs that usually mediated such experience.
 
@@ -42,7 +42,7 @@ The pleasure saturated awareness without triggering the grip. Beauty entered wit
 
 Attraction without grasping.
 
-He could feel the shift happening—the fourth fetter, sensual desire, loosening its ancient hold. Not through effort. Not through the careful cultivation of detachment that spiritual practice had tried to teach. Simply through being in a realm where grasping had no object, where the thing you would have grabbed was already everywhere, already inseparable from the awareness that perceived it.
+He could feel the shift happening—the fourth fetter, sensual desire, loosening its ancient hold. Without effort. Without the careful cultivation of detachment that spiritual practice had tried to teach. Simply through being in a realm where grasping had no object, where the thing you would have grabbed was already everywhere, already inseparable from the awareness that perceived it.
 
 The deva beings had mastered this. Or: they had stopped needing to master it, because the problem had dissolved rather than been solved. They rested in the pleasure without the pleasure owning them, content without the contentment creating new craving for its own continuation.
 
@@ -56,7 +56,7 @@ The garden hummed with its frequencies. The deva beings radiated their welcome. 
 
 The stillness was the trap.
 
-Not obvious—nothing about the realm suggested wrongness or danger. But the awareness that had traveled through ten lives of learning could perceive what the deva beings had lost: momentum. The perfection of their rest had calcified into permanence. They had transcended wanting, and in transcending wanting, had lost the capacity for change.
+Subtle—nothing about the realm suggested wrongness or danger. But the awareness that had traveled through ten lives of learning could perceive what the deva beings had lost: momentum. The perfection of their rest had calcified into permanence. They had transcended wanting, and in transcending wanting, had lost the capacity for change.
 
 Bliss, extended infinitely, became its own prison. The bars were made of satisfaction.
 
@@ -66,9 +66,9 @@ The thought carried something that ached without an aching one—information abo
 
 Even this was conditioned. Even perfect pleasure arose from conditions and would end when those conditions shifted. Nothing in any realm persisted unchanged; the only question was whether awareness moved with the changes or pretended they weren't happening.
 
-The awareness that had been Silas felt something loosen.
+The awareness that had been Silas felt another loosening.
 
-Not the grasping at pleasure—that had already loosened. Something else: the grasping at spiritual achievement. The subtle pride of progress. *I have reached the deva realm; I am beyond ordinary consciousness; look how far I've come.* That, too, was a kind of wanting, a kind of clinging, a kind of weight that could be set down.
+The grasping at pleasure had already loosened. Now came the grasping at spiritual achievement. The subtle pride of progress. *I have reached the deva realm; I am beyond ordinary consciousness; look how far I've come.* That, too, was a kind of wanting, a kind of clinging, a kind of weight that could be set down.
 
 The garden continued its beauty. The deva beings continued their welcome. Nothing about the realm changed.
 
@@ -84,8 +84,8 @@ The garden receded—or the awareness moved on—and the deva beings watched wit
 
 Most would choose to rest. Most did.
 
-But something incomplete pulled the awareness forward. Something that wasn't dissatisfaction with the garden, wasn't rejection of the pleasure, wasn't the old grasping wearing new clothes.
+But incompleteness pulled the awareness forward. What wasn't dissatisfaction with the garden, wasn't rejection of the pleasure, wasn't the old grasping wearing new clothes.
 
-Something truer than comfort. Something that knew the turning had to complete itself, and this beautiful stillness was not completion.
+What was truer than comfort. What knew the turning had to complete itself, and this beautiful stillness was not completion.
 
 ---
