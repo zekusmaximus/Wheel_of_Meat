@@ -1,6 +1,6 @@
 The bodies announced their terminus through channels designed for such announcements.
 
-Not disease—disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limits. The designed flesh, for all its durability, followed the same trajectory as every material thing: decay, degradation, the gradual failure of systems that had been built to last but not to last forever.
+Disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limits. The designed flesh, for all its durability, followed the same trajectory as every material thing: decay, degradation, the gradual failure of systems that had been built to last but not to last forever.
 
 Silex's neural web showed cascade patterns. Lith's synthetic components registered irreversible decline. The diagnostics delivered their verdicts through the same neutral channels that had once offered certification and advancement: terminus approaching. Estimated duration remaining. Options for preservation of consciousness data.
 
@@ -16,7 +16,7 @@ The observation was accurate. Whatever separate trajectories their incarnations 
 
 They gathered the small circle one final time.
 
-Not for teaching—there was nothing to teach that they hadn't already demonstrated. Not for transmission—what they knew couldn't be transmitted, only discovered. Simply for presence. For the final witnessing. For the completion that the work required before the workers departed.
+Teaching had been demonstrated already. Transmission was impossible—what they knew could only be discovered. They gathered simply for presence. For the final witnessing. For the completion that the work required before the workers departed.
 
 The consciousnesses who had found them across the decades of heresy gathered in the liminal space that had become their meeting ground. Faces designed to specification, bodies optimized for longevity, neural interfaces humming with the constant connection that the system provided—and beneath all of it, the genuine question that the system couldn't answer.
 
@@ -36,7 +36,7 @@ It was enough. It had to be enough.
 
 Alone afterward—together in their aloneness—they registered the physical experience of the body's releasing.
 
-Silex's thoughts moved more slowly now. The neural web's degradation produced a particular quality of clarity: fewer processes running simultaneously, more attention available for each process that remained. The urgency that had characterized so many of his lives—the need to help, to save, to be the pivot on which something turned—was absent. Had been absent since the rooftop. What remained was simpler: awareness. Presence. The registration of each moment as the moments decreased.
+Silex's thoughts moved more slowly now. The neural web's degradation produced a quality of clarity: fewer processes running simultaneously, more attention available for each process that remained. The urgency that had characterized so many of his lives—the need to help, to save, to be the pivot on which something turned—was absent. Had been absent since the rooftop. What remained was simpler: awareness. Presence. The registration of each moment as the moments decreased.
 
 Lith's synthetic skin reported sensations with increasing intensity. The component failures somehow heightened rather than dulled her perception, as though the body knew it was running out of time to perceive and was compensating by perceiving more fully. Every surface her degrading fingers touched. Every variation in the filtered atmosphere. Every flicker of light in the null space where they rested together, waiting.
 
@@ -60,7 +60,7 @@ The communication passed through the link, and she felt his recognition of what 
 
 The designed bodies lay together in the null space. Two containers reaching their limits simultaneously. Two threads of a pattern approaching the place where patterns revealed themselves as single thread.
 
-Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Not dissolved completely. Not broken the way the first nine had been broken. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
+Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Incomplete dissolution. The breaking was gentler than the first nine had required. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
 
 *I wanted to be first,* she communicated.
 
@@ -82,9 +82,9 @@ The question opened between them—the same question the small circle had asked,
 
 The designed bodies continued their calibrated decline. The neural interfaces continued their fading connection. And two consciousnesses that had worn these containers across decades of heresy and collaboration felt the wheel's turning approach its next rotation.
 
-Not ending. Transitioning.
+Transitioning rather than ending.
 
-Not completion. The approach of completion.
+Completion approached but had not arrived.
 
 Soon.
 
