@@ -36,11 +36,11 @@ But beneath the filing, something else stirred. The silence that this work had b
 
 *Someone to know.*
 
-The need surfaced before she could suppress it. Not confession—not yet—but the first intimation of what confession might offer. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
+The need surfaced before she could suppress it. The first intimation of confession—before she was ready, but present. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
 
 She cut off the thought. Too soon. Too raw. The backfire was still fresh.
 
-But the direction was forming. Not opposition. Not distance. Not the methods that had failed for seven incarnations.
+But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that seven incarnations of failure had finally taught her to abandon.
 
 Something else. Something closer. Something that felt less like strategy and more like—
 
@@ -48,7 +48,7 @@ She did not finish the sentence.
 
 She set down the cold tea. Rose from the chair. The walls were still too close, but something had shifted.
 
-Direction. Not decision. Not yet.
+Direction rather than decision. Too soon for commitment.
 
 But direction was enough. Direction was the seed of what would grow.
 
