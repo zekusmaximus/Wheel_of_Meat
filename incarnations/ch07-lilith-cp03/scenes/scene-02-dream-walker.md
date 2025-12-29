@@ -1,6 +1,6 @@
 The intervention required two pressures.
 
-The first was simple—panic breeding panic, fear spreading through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in canvas shelters and shared air and shared dying. Lilith pressed against the fear-threads and felt them brighten.
+The first was simple—panic breeding panic, the spread of fear through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in canvas shelters and shared air and shared dying. Lilith pressed against the fear-threads and felt them brighten.
 
 *Persian ships,* the whisper moved through the city. *Poison in the water. Disease from the east.*
 
@@ -10,11 +10,11 @@ The rumor would isolate Philon. Metics turned away from fountains; physicians wi
 
 The second pressure required intimacy.
 
-She found Alexios in the hour before dawn, when sleep ran deepest and dreams spoke loudest. The young man slept in a modest room near the Agora—alone now, though once this bed had held another. His consciousness hummed with exhaustion and suppressed grief and the particular rawness of loyalty still unsure which way to break.
+She found Alexios in the hour before dawn, when sleep ran deepest and dreams spoke loudest. The young man slept in a modest room near the Agora—alone now, though once this bed had held another. His consciousness hummed with exhaustion and suppressed grief and the rawness of loyalty still unsure which way to break.
 
 Lilith pressed in.
 
-Not possession. Not control. Something subtler—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She shaped it.
+Something subtler than possession or control—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She shaped it.
 
 *Look,* she whispered without words. *See what is coming.*
 
@@ -48,7 +48,7 @@ The logic was sound. The logic was what he already half-believed. She only weigh
 
 *Eleusis has physicians. Eleusis has work that needs doing. The road is passable if you leave within the day.*
 
-The dream shifted. Philon's body on the pyre became ash, became smoke, became the particular gray that would color the sky for months. Alexios watched it rise—his teacher becoming air, becoming nothing, becoming the lesson he would carry.
+The dream shifted. Philon's body on the pyre became ash, became smoke, became the gray that would color the sky for months. Alexios watched it rise—his teacher becoming air, becoming nothing, becoming the lesson he would carry.
 
 *Remember the smell,* Lilith whispered. *Remember it every time you look at him.*
 
