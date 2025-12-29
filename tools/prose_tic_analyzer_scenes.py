@@ -26,6 +26,9 @@ BASE_DIR = Path(__file__).parent.parent.resolve()
 CHAPTERS_DIR = BASE_DIR / "incarnations"
 OUTPUT_DIR = BASE_DIR / "out" / "prose_tic_analysis_scenes"
 
+# Skip these chapters (experimental prose)
+SKIP_CHAPTERS = {2, 25}  # Ch.2: The First Flame, Ch.25: The Explorer
+
 # Chapter metadata
 CHAPTERS = [
     (1, "ch01-contemporary-manchester", "The Awakening"),
@@ -727,6 +730,11 @@ def main():
     analyses = []
 
     for chapter_num, dir_name, title in CHAPTERS:
+        # Skip experimental prose chapters
+        if chapter_num in SKIP_CHAPTERS:
+            print(f"  [{chapter_num:02d}/26] {title} - SKIPPED (experimental prose)")
+            continue
+
         analysis = analyze_chapter(chapter_num, dir_name, title)
         if analysis:
             analyses.append(analysis)
