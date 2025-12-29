@@ -6,11 +6,11 @@ Steam rose from the *caldarium* in slow coils, threading between bodies that mov
 
 "The markets open at second hour."
 
-"Not during the festival of—"
+"During the festival, they—"
 
 Verinus reached for the bronze stylus at his belt. His fingers found the familiar weight, the slight warmth from his body, and he began to clean it. The motion was small, precise: a cloth he carried for this purpose, drawn across the metal in measured strokes. Neither man was correct. The grain ships had arrived at the fourth hour—he had read the harbormaster's report himself three days ago, filed in the praetor's office alongside seventeen other documents these men would never see and could not have understood if they had.
 
-The stylus gleamed. The contradiction remained, but something in his chest loosened fractionally.
+The stylus gleamed. The contradiction remained, but his chest loosened fractionally.
 
 "Verinus." A hand clapped his shoulder, and he turned to find Marcus Cassianus Priscus grinning at him, water beading in his dark beard. "You're cleaning that thing again. What offense has the morning committed?"
 
@@ -36,9 +36,9 @@ Marcus laughed, a sound that carried no mockery, only the resignation of long fa
 
 Verinus did not answer. Across the pool, near the entrance to the *frigidarium*, a group of students had gathered—young men from one of the philosophical schools, their conversation animated and their gestures theatrical. Among them stood a woman, dark-haired, her stillness conspicuous against their motion. She was watching him.
 
-Not the students. Not Marcus. Him.
+Him specifically. Neither the students nor Marcus.
 
-Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, not long enough to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
+Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, too brief to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
 
 "Who was that?" Marcus had surfaced, was following Verinus's sightline.
 
