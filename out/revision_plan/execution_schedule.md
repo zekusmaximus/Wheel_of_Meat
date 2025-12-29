@@ -1,518 +1,393 @@
-# Execution Schedule — *The Wheel of Meat* Revision
+# Execution Schedule — *The Wheel of Meat* Revision (v2)
 
-**Prepared:** December 2025
+**Prepared:** December 2025 (v2 revision)
 **Target Submission:** April 2026
 **Timeline:** 16-20 weeks
 
 ---
 
-## Overview
+## Why v1 Failed
 
-| Phase | Weeks | Focus | Primary Output |
-|-------|-------|-------|----------------|
-| 1: Structural Decisions | 1-2 | Finalize cuts, plan expansion | Decision documents |
-| 2: Major Structural Revision | 3-8 | Cut incarnations, write Manchester | Revised manuscript draft |
-| 3: Scene-Level Revision | 9-12 | Dramatize pivots, strengthen transitions | Polished scenes |
-| 4: Line-Edit Pass | 13-16 | Tic reduction, prose tightening | Clean manuscript |
-| 5: Polish & Review | 17-20 | Beta read, final adjustments | Submission draft |
+The v1 schedule was based on flawed math: claiming "Manchester expansion of 15-20k" would achieve 40-50% Manchester. It would not. At a target of 120,000 words, 40% Manchester requires 48,000 words—not the ~33,000 that v1's expansion would produce. Additionally, v1 lacked explicit verification gates to catch this error before execution began.
+
+## What Changed in v2
+
+- **Gate system:** Three explicit verification gates with pass/fail criteria
+- **Manchester target corrected:** 50,000 words (41.7% of 120k), requiring +32,357 new content
+- **Each week specifies:** chapters touched, word targets (add/cut), verification step
+- **Recompute totals:** After every structural move, totals are verified via manuscript_analyzer.py
 
 ---
 
-## Phase 1: Structural Decisions (Weeks 1-2)
+## GATED EXECUTION MODEL
 
-### Week 1: Cut Decisions and Mapping
+### GATE 1: TOC + Word Budget Verified
 
-**Outputs:**
-- [ ] Final decision: which 4 incarnations to cut (recommendation: Philon, Verinus, Macarius, Kaoru)
-- [ ] Map of what content from cut chapters must be preserved (references, thematic threads)
-- [ ] Updated table of contents with revised chapter numbers
-- [ ] Word count targets per remaining chapter
+**Trigger:** End of Week 2
+**Pass Criteria:**
+- [ ] Final TOC locked (14-20 chapters per chosen option)
+- [ ] Per-chapter word budgets sum to 120,000 (or 115,000 for Option B)
+- [ ] Manchester chapters sum to 50,000+ (41.7%+)
+- [ ] All cut decisions documented
+
+**Fail Action:** Do not proceed to Phase 2 until math verified.
+
+### GATE 2: Post-Cut Continuity Pass Complete
+
+**Trigger:** End of Week 6
+**Pass Criteria:**
+- [ ] All cut chapters removed from manuscript
+- [ ] No broken references (character names, events, objects from cut chapters)
+- [ ] Lilith chapters revised to reference cut incarnations as brief mentions
+- [ ] manuscript_analyzer.py run confirms word count: ~158,000 → ~110,000 after compressions
+
+**Fail Action:** Continuity issues must be resolved before new content written.
+
+### GATE 3: Manchester Share Verified at 40-50%
+
+**Trigger:** End of Week 10
+**Pass Criteria:**
+- [ ] Run manuscript_analyzer.py on current draft
+- [ ] Manchester section total: ≥48,000 words
+- [ ] Manchester %: 40-50% of current total
+- [ ] All new scenes integrated and smoothed
+
+**Fail Action:** Additional Manchester content required; do not proceed to line-edit.
+
+---
+
+## Phase Overview
+
+| Phase | Weeks | Focus | Verification |
+|-------|-------|-------|--------------|
+| 1: Planning & Gates | 1-2 | Finalize structure, verify math | GATE 1 |
+| 2: Structural Cuts | 3-6 | Remove chapters, compress retained | GATE 2 |
+| 3: Manchester Expansion | 7-10 | Write new scenes, integrate | GATE 3 |
+| 4: Scene-Level Polish | 11-13 | Dramatizations, character arcs | Quality check |
+| 5: Line-Edit Pass | 14-16 | Tic reduction, prose tightening | Tic counts |
+| 6: Final Polish | 17-20 | Beta read, submission prep | Final verification |
+
+---
+
+## PHASE 1: Planning & Gates (Weeks 1-2)
+
+### Week 1: Structure Decision
+
+**Chapters Touched:** None (planning only)
+**Word Targets:** N/A
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Read cut chapters, note essential content | 4 |
-| 2 | Identify thematic threads that need preservation | 3 |
-| 3 | Draft revised TOC | 2 |
-| 4 | Set chapter word targets | 2 |
-| 5 | Document decisions | 2 |
+- [ ] Confirm Option A or B
+- [ ] Document cut decisions with rationale
+- [ ] Map thematic threads from cut chapters to preserved references
+- [ ] Create per-chapter word budget spreadsheet
 
-**Definition of Done:**
-- Decision document approved by author
-- Clear list of what transfers to Lilith chapters
-- Revised TOC ready for implementation
+**Verification:** Draft TOC with budgets; sum equals target
 
----
+### Week 2: Scene Planning
 
-### Week 2: Manchester Expansion Planning
-
-**Outputs:**
-- [ ] Detailed outline for each new Manchester scene (11 scenes total)
-- [ ] Character notes for new content (Silas's voice, Lilith's tells)
-- [ ] Research on Manchester locations, university setting details
-- [ ] Scene order and integration points finalized
+**Chapters Touched:** None (planning only)
+**Word Targets:** N/A
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Outline FL-1, FL-2, FL-3 (falling in love scenes) | 4 |
-| 2 | Outline SR-1, SR-2 (Stewart resolution) | 3 |
-| 3 | Outline RC-1, RC-2 (Silas resistance) | 3 |
-| 4 | Outline BT-1 through BT-4 (bridging transitions) | 2 |
-| 5 | Integration planning, location research | 3 |
+- [ ] Finalize Manchester scene outlines (all FL, SR, RC, BT scenes)
+- [ ] Complete character voice notes
+- [ ] Research Manchester locations for authenticity
+- [ ] Mark integration points in manuscript
 
-**Definition of Done:**
-- All 11 new scenes have beat-by-beat outlines
-- Integration points marked in manuscript
-- Character voice notes ready
+**Verification:** Scene inventory complete; GATE 1 checklist passed
+
+**GATE 1 CHECK:** ☐ TOC verified ☐ Budgets sum correctly ☐ Manchester 41.7%+
 
 ---
 
-## Phase 2: Major Structural Revision (Weeks 3-8)
+## PHASE 2: Structural Cuts (Weeks 3-6)
 
-### Week 3: Cut Incarnations
+### Week 3: Cut Four Incarnations
 
-**Outputs:**
-- [ ] Chapters 6, 7, 8, 9, 10, 11, 12, 13 removed from manuscript
-- [ ] Lilith chapters revised to incorporate cut content as brief references
-- [ ] Chapter numbering updated throughout
-- [ ] Continuity check: no broken references
+**Chapters Touched:** 6, 7, 8, 9, 10, 11, 12, 13 (removed)
+**Word Targets:**
+- Cut: 58,660 words
+- Running total: 216,594 → 157,934
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Remove Ch 6-7 (Philon/Athens), update references | 4 |
-| 2 | Remove Ch 8-9 (Verinus/Rome), update references | 4 |
-| 3 | Remove Ch 10-11 (Macarius/Egypt), update references | 4 |
-| 4 | Remove Ch 12-13 (Kaoru/Heian), update references | 4 |
-| 5 | Continuity pass, renumber chapters | 4 |
+- [ ] Remove Ch 6 (Philon) + Ch 7 (CP03)
+- [ ] Remove Ch 8 (Verinus) + Ch 9 (CP04)
+- [ ] Remove Ch 10 (Macarius) + Ch 11 (CP05)
+- [ ] Remove Ch 12 (Kaoru) + Ch 13 (CP06)
+- [ ] Update chapter numbering
 
-**Word Count Progress:**
-- Starting: 216,594
-- After cuts: ~158,000
-- Target: ~115,000
+**Verification:** Run manuscript_analyzer.py → confirm ~158,000 words
 
-**Definition of Done:**
-- Clean manuscript with 4 fewer incarnation sequences
-- No orphaned references
-- Lilith chapters contain brief acknowledgment of cut incarnations
+### Week 4: Compress Retained Incarnations (Part 1)
 
----
-
-### Week 4: Write Manchester Scenes (Part 1)
-
-**Outputs:**
-- [ ] FL-1: The Walnut (first date) — 2,500 words
-- [ ] FL-2: Lilith's flat (intimacy) — 3,000 words
-- [ ] FL-3: Campus walk (routine) — 2,000 words
+**Chapters Touched:** 4 (Chandra), 14 (Diego)
+**Word Targets:**
+- Ch 4: 19,676 → 7,500 (cut 12,176)
+- Ch 14: 18,641 → 7,500 (cut 11,141)
+- Running total: 157,934 → 134,617
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Draft FL-1 (first half) | 4 |
-| 2 | Draft FL-1 (second half), first revision | 4 |
-| 3 | Draft FL-2 (first half) | 4 |
-| 4 | Draft FL-2 (second half), first revision | 4 |
-| 5 | Draft FL-3, first revision | 4 |
+- [ ] Focus Chandra on betrayal arc only
+- [ ] Add dramatized Devaka betrayal scene (+1,500)
+- [ ] Focus Diego on essential horror arc
+- [ ] Remove pre-arrest elaboration
 
-**Definition of Done:**
-- 3 complete falling-in-love scenes
-- First revision complete on each
-- Total: ~7,500 new words
+**Verification:** Chapter word counts verified
 
----
+### Week 5: Compress Retained Incarnations (Part 2)
 
-### Week 5: Write Manchester Scenes (Part 2)
-
-**Outputs:**
-- [ ] SR-1: Hospital visit — 2,500 words
-- [ ] SR-2: Stewart departure — 2,000 words
-- [ ] RC-1: Ellen therapy session — 2,500 words
-- [ ] RC-2: After flashback — 2,000 words
+**Chapters Touched:** 16 (Renaissance), 18 (Taiping), 20 (Malone)
+**Word Targets:**
+- Ch 16: 13,725 → 5,000 (cut 8,725)
+- Ch 18: 6,512 → 4,000 (cut 2,512)
+- Ch 20: 11,144 → 6,000 (cut 5,144)
+- Running total: 134,617 → 118,236
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Draft SR-1 | 4 |
-| 2 | Draft SR-2, first revision of SR-1/SR-2 | 4 |
-| 3 | Draft RC-1 | 4 |
-| 4 | Draft RC-2, first revision of RC-1/RC-2 | 4 |
-| 5 | Polish all four scenes | 4 |
+- [ ] Compress Renaissance skeptic passages
+- [ ] Tighten Taiping collective scenes
+- [ ] Cut Malone funeral scene
+- [ ] Remove Doyle witness (3 → 2)
 
-**Definition of Done:**
-- 4 complete scenes (Stewart resolution + Silas resistance)
-- First revision complete on each
-- Total: ~9,000 new words
+**Verification:** Chapter word counts verified
 
----
+### Week 6: Compress Lilith + Meta/Climax
 
-### Week 6: Write Bridging Transitions + Integrate
-
-**Outputs:**
-- [ ] BT-1 through BT-4 (bridging scenes) — 2,750 words total
-- [ ] All new Manchester scenes integrated into manuscript
-- [ ] Chapter 1 expanded with falling-in-love and resistance scenes
-- [ ] Chapter 22 expanded with Stewart resolution
+**Chapters Touched:** 3, 5, 15, 17, 19, 21, 23, 24, 25, 26
+**Word Targets:**
+- Lilith: 27,728 → 12,000 (cut 15,728)
+- Meta/Climax: 37,807 → 23,000 (cut 14,807)
+- Running total: 118,236 → 87,701
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Draft all 4 bridging transitions | 4 |
-| 2 | Integrate FL scenes into Chapter 1 | 4 |
-| 3 | Integrate RC scenes into Chapter 1 | 3 |
-| 4 | Integrate SR scenes into Chapter 22 | 3 |
-| 5 | Insert bridging transitions, continuity check | 4 |
+- [ ] Merge Lilith chapters: 10 → 4
+- [ ] Add brief shards for cut incarnations
+- [ ] Compress Deva, Future, Formless, Climax
+- [ ] Combine Formless stages 2-3
+- [ ] Full continuity pass
 
-**Word Count Progress:**
-- After cuts: ~158,000
-- New Manchester: +19,250
-- Current: ~177,250
-- Target: ~115,000
-- Remaining to cut: ~62,250
+**Verification:** Run manuscript_analyzer.py → confirm ~87,000-88,000 words
 
-**Definition of Done:**
-- All new content integrated
-- Manuscript reads continuously
-- No structural gaps
+**GATE 2 CHECK:** ☐ All cuts complete ☐ No broken references ☐ Word count verified
 
 ---
 
-### Week 7: Dramatize Pivotal Moments
+## PHASE 3: Manchester Expansion (Weeks 7-10)
 
-**Outputs:**
-- [ ] Devaka betrayal scene — 1,350 words (new)
-- [ ] Lilith first intervention — 1,000 words (expanded)
-- [ ] Car confession enhancement — 250 words (revision)
-- [ ] Lilith final resistance — 500 words (expanded)
-- [ ] Stewart fall suspended time — 75 words (revision)
+### Week 7: Write Falling-in-Love Scenes
+
+**Chapters Touched:** 1 (expanding)
+**Word Targets:**
+- FL-1 (Walnut): +2,500
+- FL-2 (Flat): +3,000
+- FL-3 (Campus): +2,000
+- Running total: 87,701 → 95,201
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Draft Devaka betrayal scene | 5 |
-| 2 | Draft Lilith first intervention | 4 |
-| 3 | Revise car confession, Stewart fall | 3 |
-| 4 | Expand Lilith final resistance | 4 |
-| 5 | Integrate all, check continuity | 4 |
+- [ ] Draft FL-1: first date at The Walnut
+- [ ] Draft FL-2: intimacy at Lilith's flat
+- [ ] Draft FL-3: campus morning routine
+- [ ] First revision pass on all three
 
-**Definition of Done:**
-- All 5 pivotal moments addressed
-- New scenes integrated
-- Revisions complete
+**Verification:** Scene word counts; voice consistency check
 
----
+### Week 8: Write Stewart + Silas Scenes
 
-### Week 8: Compress Retained Incarnations
-
-**Outputs:**
-- [ ] Chandra (Ch 4): 19,676 → 12,000 words
-- [ ] Diego (Ch 14): 18,641 → 12,000 words
-- [ ] Renaissance (Ch 16): 13,725 → 8,000 words
-- [ ] Malone (Ch 20): 11,144 → 8,000 words (includes funeral cut, witness compress)
-- [ ] Formless Realms (Ch 25): 11,880 → 10,000 words
+**Chapters Touched:** 1 (expanding), 22 (expanding)
+**Word Targets:**
+- SR-1 (Hospital): +2,500
+- SR-2 (Departure): +2,000
+- RC-1 (Ellen): +2,500
+- RC-2 (Flashback): +2,000
+- Running total: 95,201 → 104,201
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Compress Chandra chapter | 5 |
-| 2 | Compress Diego chapter | 5 |
-| 3 | Compress Renaissance chapter | 4 |
-| 4 | Compress Malone chapter (cut funeral, compress witnesses) | 4 |
-| 5 | Compress Formless Realms (combine stages 2-3) | 4 |
+- [ ] Draft SR-1: hospital visit
+- [ ] Draft SR-2: Stewart's departure
+- [ ] Draft RC-1: Ellen therapy session
+- [ ] Draft RC-2: night flashback
+- [ ] First revision pass
 
-**Word Count Progress:**
-- Before compressions: ~177,250
-- Compressions: -26,366
-- Current: ~150,884
-- Target: ~115,000
-- Remaining to cut: ~35,884
+**Verification:** Scene word counts; character arc check
 
-**Definition of Done:**
-- All retained incarnations within word caps
-- Funeral scene removed
-- Witness sequence = 2 witnesses
-- Formless realms = 3 stages (from 4)
+### Week 9: Write Bridging + Pivots
 
----
-
-## Phase 3: Scene-Level Revision (Weeks 9-12)
-
-### Week 9: Lilith Chapter Consolidation
-
-**Outputs:**
-- [ ] 10 Lilith chapters → 5 combined chapters
-- [ ] Each combined chapter: 4,000-5,000 words
-- [ ] Total Lilith: 44,544 → ~22,000
+**Chapters Touched:** Distributed (5, 8, 12, 15 in new TOC)
+**Word Targets:**
+- BT-1 through BT-4: +4,000
+- Car confession expansion: +300
+- Stewart suspended time: +100
+- Running total: 104,201 → 108,601
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Combine CP01-02 | 4 |
-| 2 | Combine CP03-04-05 (adapt for cut incarnations) | 5 |
-| 3 | Combine CP06-07 | 4 |
-| 4 | Combine CP08-09 | 4 |
-| 5 | Revise CP10, overall continuity | 3 |
+- [ ] Draft BT-1: after Chandra anchor
+- [ ] Draft BT-2: after Diego anchor
+- [ ] Draft BT-3: after Renaissance anchor
+- [ ] Draft BT-4: after Malone anchor
+- [ ] Revise car confession (add pressure)
+- [ ] Expand Stewart fall moment
 
-**Word Count Progress:**
-- Before Lilith cuts: ~150,884
-- Lilith compression: -22,544
-- Current: ~128,340
-- Target: ~115,000
-- Remaining to cut: ~13,340
+**Verification:** Bridging scenes distributed; pivots integrated
 
-**Definition of Done:**
-- 5 Lilith chapters instead of 10
-- Smooth transitions between combined sections
-- All cut incarnation content preserved as brief references
+### Week 10: Integration + Lilith Resistance
 
----
-
-### Week 10: Transition Strengthening
-
-**Outputs:**
-- [ ] All chapter transitions reviewed and smoothed
-- [ ] Historical-to-Lilith transitions feel organic
-- [ ] Lilith-to-historical transitions properly set up
-- [ ] Manchester returns feel grounded
+**Chapters Touched:** 1, 22, 24
+**Word Targets:**
+- Remaining Manchester content: +8,000
+- Lilith final resistance expansion: +500
+- Existing content enhancement: +3,000
+- Running total: 108,601 → 120,101
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Review all chapter endings | 3 |
-| 2 | Strengthen weak transitions (identify in read-through) | 4 |
-| 3 | Ensure bridging transitions work | 3 |
-| 4 | Check Manchester-to-historical flow | 4 |
-| 5 | Final transition polish | 3 |
+- [ ] Integrate all new scenes into manuscript
+- [ ] Smooth transitions between old and new
+- [ ] Expand Lilith final resistance (Ch 24)
+- [ ] First full read-through of Manchester chapters
+- [ ] Trim 100 words to hit 120,000 target
 
-**Definition of Done:**
-- No jarring chapter transitions
-- Reader can follow timeline clearly
-- Manchester anchoring effective
+**Verification:** Run manuscript_analyzer.py → confirm ~120,000 words
+
+**GATE 3 CHECK:** ☐ Manchester ≥48,000 ☐ Manchester % ≥40% ☐ All scenes integrated
 
 ---
+
+## PHASE 4: Scene-Level Polish (Weeks 11-13)
 
 ### Week 11: Silas Arc Strengthening
 
-**Outputs:**
-- [ ] Silas has visible wants in first 3 chapters
-- [ ] Silas resistance is dramatized throughout
-- [ ] Character arc visible: passive → struggling → accepting
-- [ ] Emotional stakes clear for reader
+**Chapters Touched:** 1, 22, 24, 26
+**Word Targets:** Net neutral (revisions only)
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Review all Silas content, identify weak spots | 4 |
-| 2 | Revise Ch 1 Silas interiority | 4 |
-| 3 | Revise Ch 22 Silas arc | 4 |
-| 4 | Ensure resistance shows throughout | 3 |
-| 5 | Final Silas pass | 3 |
+- [ ] Verify Silas visible wants in Ch 1
+- [ ] Check resistance arc through middle
+- [ ] Ensure pain visible before release
+- [ ] Silas character arc document complete
 
-**Definition of Done:**
-- Beta reader can articulate what Silas wants
-- Silas shows resistance before acceptance
-- Emotional payoff earned
-
----
+**Verification:** Beta reader test: "What does Silas want?"
 
 ### Week 12: Lilith Arc Strengthening
 
-**Outputs:**
-- [ ] Lilith's manipulation visible but sympathetic
-- [ ] Her genuine feeling for Silas apparent
-- [ ] First intervention shows cost
-- [ ] Final resistance feels like 300,000 years of competition
+**Chapters Touched:** L1-L4, 24, 26
+**Word Targets:** Net neutral (revisions only)
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Review all Lilith content, identify weak spots | 4 |
-| 2 | Strengthen first intervention (if kept or referenced) | 3 |
-| 3 | Ensure manipulation/genuine feeling balance | 4 |
-| 4 | Polish final resistance expansion | 3 |
-| 5 | Final Lilith pass | 3 |
+- [ ] Manipulation visible but sympathetic
+- [ ] Genuine feeling apparent
+- [ ] First intervention (shard) shows cost
+- [ ] Final resistance feels earned
 
-**Definition of Done:**
-- Lilith arc tragic and sympathetic
-- Manipulation clearly shown
-- Genuine emotion clearly shown
-- Climax resistance feels earned
+**Verification:** Lilith arc feels tragic
+
+### Week 13: Transition Polish
+
+**Chapters Touched:** All chapter endings/beginnings
+**Word Targets:** Net neutral
+
+**Tasks:**
+- [ ] Smooth all transitions
+- [ ] Manchester returns feel grounded
+- [ ] Historical-to-Lilith flow natural
+- [ ] Pacing assessment complete
+
+**Verification:** Full read-through; no jarring transitions
 
 ---
 
-## Phase 4: Line-Edit Pass (Weeks 13-16)
+## PHASE 5: Line-Edit Pass (Weeks 14-16)
 
-### Week 13: High-Priority Chapters (1-5)
+### Week 14: High-Priority Tic Chapters
 
-**Outputs:**
-- [ ] Ch 25 (Formless): tics reduced, prose grounded
-- [ ] Ch 26 (Pure Abodes): tics reduced, prose balanced
-- [ ] Ch 23 (Deva): abstraction grounded
-- [ ] Ch 24 (Future): abstraction grounded
-- [ ] Ch 14 (Diego): em-dashes reduced
+**Chapters Touched:** 25, 26, 24, 23, 22
+**Word Targets:** Net reduction ~2,000 (reflective cuts)
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Line-edit Ch 25 | 5 |
-| 2 | Line-edit Ch 26 | 4 |
-| 3 | Line-edit Ch 23 | 3 |
-| 4 | Line-edit Ch 24 | 4 |
-| 5 | Line-edit Ch 14 | 4 |
+- [ ] Ch 25: "something" 125 → 40; em-dashes 294 → 90
+- [ ] Ch 26: "not X—Y" 24 → 8; "something" 74 → 25
+- [ ] Ch 24: Ground post-scarcity abstraction
+- [ ] Ch 23: Ground celestial abstraction
+- [ ] Ch 22: Clean new Manchester content
 
-**Definition of Done:**
-- "Something" reduced by 50% in these chapters
-- Em-dashes varied with other punctuation
-- Abstract passages have sensory anchors
+**Verification:** Tic counts per chapter
+
+### Week 15: Remaining Chapters
+
+**Chapters Touched:** 4, 14, 1, remaining
+**Word Targets:** Net reduction ~1,500 (reflective cuts)
+
+**Tasks:**
+- [ ] Ch 4: "particular" 22 → 11; em-dashes reduced
+- [ ] Ch 14: Em-dashes 230 → 80
+- [ ] Ch 1: Clean new content
+- [ ] All other chapters: general tic pass
+
+**Verification:** Manuscript-wide tic report
+
+### Week 16: Reflective Elaboration
+
+**Chapters Touched:** All
+**Word Targets:** Final trim to 118,000-120,000
+
+**Tasks:**
+- [ ] Full pass for explanatory paragraphs
+- [ ] Cut 30-40% of identified reflective elaboration
+- [ ] Add Ka-register moments (5+)
+- [ ] Final word count verification
+
+**Verification:** Run manuscript_analyzer.py → confirm final count
 
 ---
 
-### Week 14: High-Priority Chapters (6-10)
-
-**Outputs:**
-- [ ] Ch 4 (Chandra): "particular" reduced, em-dashes varied
-- [ ] Ch 10 (Macarius): if retained, cleaned; if cut, skip
-- [ ] Ch 22 (Contemporary): not-x-y patterns converted
-- [ ] Ch 19 (Lilith CP09): abstraction grounded
-- [ ] Ch 12 (Kaoru): if retained, cleaned; if cut, skip
-
-**Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Line-edit Ch 4 | 5 |
-| 2 | Line-edit Ch 22 | 4 |
-| 3 | Line-edit Ch 19 | 4 |
-| 4 | Line-edit remaining high-priority | 4 |
-| 5 | Review progress, adjust remaining schedule | 3 |
-
----
-
-### Week 15: Medium-Priority Chapters
-
-**Outputs:**
-- [ ] All remaining chapters line-edited
-- [ ] Ka-register moments added to 5+ chapters
-- [ ] Reflective elaboration cut by 30-40%
-
-**Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Line-edit Ch 1, Ch 2 | 4 |
-| 2 | Line-edit Ch 3, Ch 5 | 3 |
-| 3 | Line-edit remaining Lilith chapters | 4 |
-| 4 | Line-edit remaining historical chapters | 4 |
-| 5 | Insert Ka-register moments throughout | 3 |
-
----
-
-### Week 16: Reflective Elaboration Pass
-
-**Outputs:**
-- [ ] All "The narrator explains what we just saw" passages identified and cut
-- [ ] Redundant paragraphs removed
-- [ ] 30-40% reflective elaboration reduction achieved
-
-**Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1-2 | Full manuscript read-through, flag redundant passages | 8 |
-| 3-4 | Cut flagged passages, smooth transitions | 8 |
-| 5 | Verify word count, final tic count | 4 |
-
-**Word Count Target:**
-- After reflective cuts: ~115,000-120,000 words
-
-**Definition of Done:**
-- Final word count within target range
-- Tic counts reduced by 50%
-- No paragraph with >2 em-dashes
-- Reflective elaboration measurably reduced
-
----
-
-## Phase 5: Polish & Review (Weeks 17-20)
+## PHASE 6: Final Polish (Weeks 17-20)
 
 ### Week 17: Full Read-Through
 
-**Outputs:**
-- [ ] Complete manuscript read in 2-3 sessions
-- [ ] Continuity errors flagged
-- [ ] Remaining rough spots identified
-- [ ] Pacing assessment complete
+**Tasks:**
+- [ ] Read manuscript in 2-3 sessions
+- [ ] Flag remaining issues
+- [ ] Pacing assessment
+- [ ] Create fix list
+
+### Week 18: Fix Pass
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Read Ch 1-6 | 4 |
-| 2 | Read Ch 7-12 | 4 |
-| 3 | Read Ch 13-16 (revised structure) | 4 |
-| 4 | Flag issues, create fix list | 3 |
-| 5 | Pacing assessment, note slow spots | 3 |
+- [ ] Address flagged issues
+- [ ] Final continuity check
+- [ ] Last tic cleanup
 
----
-
-### Week 18: Fix Flagged Issues
-
-**Outputs:**
-- [ ] All continuity errors fixed
-- [ ] Rough spots smoothed
-- [ ] Pacing issues addressed
+### Week 19: Beta Feedback
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1-3 | Fix flagged issues | 12 |
-| 4-5 | Verify fixes, second pass on problem areas | 8 |
+- [ ] Send to 2-3 beta readers
+- [ ] Collect feedback
+- [ ] Prioritize fixes
 
----
-
-### Week 19: Beta Reader Feedback
-
-**Outputs:**
-- [ ] Manuscript sent to 2-3 beta readers
-- [ ] Feedback collected
-- [ ] Priority fixes identified
+### Week 20: Submission
 
 **Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1 | Prepare manuscript for beta | 2 |
-| 2-4 | Wait for feedback (other work) | — |
-| 5 | Collect and prioritize feedback | 4 |
-
----
-
-### Week 20: Final Adjustments & Submission
-
-**Outputs:**
-- [ ] Beta feedback addressed
+- [ ] Address priority beta feedback
 - [ ] Final proofread
-- [ ] Manuscript formatted for submission
-- [ ] Cover letter prepared
-- [ ] SUBMISSION TO EDITOR
-
-**Tasks:**
-| Day | Task | Hours |
-|-----|------|-------|
-| 1-2 | Address priority beta feedback | 8 |
-| 3 | Final proofread | 4 |
-| 4 | Format manuscript, prepare cover letter | 4 |
-| 5 | SUBMIT | 1 |
+- [ ] Format manuscript
+- [ ] Prepare cover letter
+- [ ] **SUBMIT**
 
 ---
 
-## Summary: Key Milestones
+## Final Verification Checklist
 
-| Week | Milestone | Verification |
-|------|-----------|--------------|
-| 2 | Structural decisions finalized | Decision document signed off |
-| 3 | Cut incarnations removed | Word count: ~158,000 |
-| 6 | Manchester expansion complete | 19,000+ new words integrated |
-| 8 | Incarnation compressions done | Word count: ~130,000 |
-| 9 | Lilith chapters consolidated | Word count: ~115,000 |
-| 12 | Scene-level revision complete | Character arcs visible |
-| 16 | Line-edit pass complete | Tics reduced 50% |
-| 20 | SUBMISSION | Final word count: 110,000-120,000 |
+**Before Submission:**
+
+| Constraint | Target | Actual | ✓ |
+|------------|--------|--------|---|
+| Final word count | 110,000-130,000 | _____ | ☐ |
+| Manchester % | 40-50% | ___% | ☐ |
+| Net cut | 80,000-100,000 | _____ | ☐ |
+| Incarnations cut | 3-4 | 4 | ☐ |
+| Pivotal dramatizations | ≥3 | 5 | ☐ |
+| "particular" | ≤44 | _____ | ☐ |
+| "something" | ≤465 | _____ | ☐ |
+| "not X—Y" | ≤52 | _____ | ☐ |
 
 ---
 
@@ -520,28 +395,12 @@
 
 | Risk | Mitigation |
 |------|------------|
-| Cuts create continuity gaps | Week 3 includes continuity check; references preserved in Lilith chapters |
-| New Manchester content feels disconnected | Detailed outlines in Week 2; voice consistency notes |
-| Line-edit takes longer than planned | Buffer in Weeks 17-20; prioritize highest-tic chapters |
-| Beta feedback requires major changes | Week 19-20 focused on beta; buffer for rewrites if needed |
-| Word count still too high | Reflective elaboration cuts have high potential; can extend if needed |
+| Manchester content underdelivers | Gate 3 catches before line-edit |
+| Cuts create continuity gaps | Gate 2 requires full pass |
+| Word count drift | Weekly verification steps |
+| Beta feedback requires major changes | Week 19-20 buffer |
+| Schedule slippage | Gates force no proceeding without verification |
 
 ---
 
-## Definition of Done: Final Manuscript
-
-- [ ] Word count: 110,000-120,000
-- [ ] Manchester frame: 35-40% of manuscript
-- [ ] Incarnations: 6-7 (from 12)
-- [ ] Silas: visible wants, resistance, cost, release
-- [ ] Lilith: manipulation visible, genuine feeling visible, tragic arc
-- [ ] Pivotal moments: 5 key scenes dramatized
-- [ ] Stewart: resolved (not disappeared)
-- [ ] Tics: "particular" <50, "something" <500, not-x-y <60
-- [ ] Em-dashes: no paragraph >2; varied punctuation
-- [ ] Abstraction: sensory anchoring throughout
-- [ ] Reflective elaboration: 30-40% reduction
-
----
-
-*Execution schedule prepared December 2025*
+*Execution schedule prepared December 2025 (v2)*
