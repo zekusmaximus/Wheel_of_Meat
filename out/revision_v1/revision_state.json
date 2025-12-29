@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "generated": "2025-12-29",
+    "source_baseline": "/out/revision_audit/analysis_data.json",
+    "baseline_total_words": 216594
+  },
+  "chosen_budget": "C",
+  "budget_description": "Balanced - 125,000 final, 91,594 net cut, 40% Manchester",
+  "constraints": {
+    "C1_final_words": {
+      "min": 110000,
+      "max": 130000,
+      "target": 125000
+    },
+    "C2_net_cut": {
+      "min": 80000,
+      "max": 100000,
+      "target": 91594
+    },
+    "C3_incarnations_cut": {
+      "min": 3,
+      "max": 4,
+      "target": 4
+    },
+    "C4_manchester_percent": {
+      "min": 40.0,
+      "max": 50.0,
+      "target": 40.0
+    },
+    "C5_pivotal_scenes": {
+      "min": 3,
+      "verification": "manual"
+    },
+    "C6_reflective_reduction": {
+      "min_percent": 30,
+      "max_percent": 40,
+      "verification": "manual"
+    },
+    "C7_tic_density_max_percent_of_baseline": 50
+  },
+  "chapter_targets": [
+    {"orig_chapter": 1, "new_chapter": 1, "name": "Contemporary Manchester", "type": "Manchester", "current": 7895, "target": 25000, "action": "EXPAND"},
+    {"orig_chapter": 2, "new_chapter": 2, "name": "Prehistoric Ka", "type": "Historical", "current": 5058, "target": 4000, "action": "COMPRESS"},
+    {"orig_chapter": 3, "new_chapter": 3, "name": "Lilith CP01", "type": "Lilith", "current": 3049, "target": 2000, "action": "COMPRESS"},
+    {"orig_chapter": 4, "new_chapter": 4, "name": "Mauryan Chandra", "type": "Historical", "current": 19676, "target": 10000, "action": "COMPRESS"},
+    {"orig_chapter": 5, "new_chapter": 5, "name": "Lilith CP02", "type": "Lilith", "current": 2673, "target": 2000, "action": "COMPRESS"},
+    {"orig_chapter": 6, "new_chapter": null, "name": "Athens Philosopher (Philon)", "type": "Historical", "current": 10202, "target": 0, "action": "CUT"},
+    {"orig_chapter": 7, "new_chapter": 6, "name": "Lilith CP03", "type": "Lilith", "current": 3221, "target": 500, "action": "COMPRESS"},
+    {"orig_chapter": 8, "new_chapter": null, "name": "Rome Investigator (Verinus)", "type": "Historical", "current": 9405, "target": 0, "action": "CUT"},
+    {"orig_chapter": 9, "new_chapter": 7, "name": "Lilith CP04", "type": "Lilith", "current": 5998, "target": 500, "action": "COMPRESS"},
+    {"orig_chapter": 10, "new_chapter": null, "name": "Egypt Hermit (Macarius)", "type": "Historical", "current": 13777, "target": 0, "action": "CUT"},
+    {"orig_chapter": 11, "new_chapter": 8, "name": "Lilith CP05", "type": "Lilith", "current": 4883, "target": 500, "action": "COMPRESS"},
+    {"orig_chapter": 12, "new_chapter": null, "name": "Heian Lover (Kaoru)", "type": "Historical", "current": 8460, "target": 0, "action": "CUT"},
+    {"orig_chapter": 13, "new_chapter": 9, "name": "Lilith CP06", "type": "Lilith", "current": 2714, "target": 500, "action": "COMPRESS"},
+    {"orig_chapter": 14, "new_chapter": 10, "name": "Inquisition Accused (Diego)", "type": "Historical", "current": 18641, "target": 10000, "action": "COMPRESS"},
+    {"orig_chapter": 15, "new_chapter": 11, "name": "Lilith CP07", "type": "Lilith", "current": 4711, "target": 2500, "action": "COMPRESS"},
+    {"orig_chapter": 16, "new_chapter": 12, "name": "Renaissance Skeptic", "type": "Historical", "current": 13725, "target": 7000, "action": "COMPRESS"},
+    {"orig_chapter": 17, "new_chapter": 13, "name": "Lilith CP08", "type": "Lilith", "current": 3546, "target": 2000, "action": "COMPRESS"},
+    {"orig_chapter": 18, "new_chapter": 14, "name": "Taiping Rebel", "type": "Historical", "current": 6512, "target": 4500, "action": "COMPRESS"},
+    {"orig_chapter": 19, "new_chapter": 15, "name": "Lilith CP09", "type": "Lilith", "current": 10011, "target": 2500, "action": "COMPRESS"},
+    {"orig_chapter": 20, "new_chapter": 16, "name": "Noir Detective (Malone)", "type": "Historical", "current": 11144, "target": 4500, "action": "COMPRESS"},
+    {"orig_chapter": 21, "new_chapter": 17, "name": "Lilith CP10", "type": "Lilith", "current": 3738, "target": 2000, "action": "COMPRESS"},
+    {"orig_chapter": 22, "new_chapter": 18, "name": "Contemporary Breakthrough", "type": "Manchester", "current": 9748, "target": 25000, "action": "EXPAND"},
+    {"orig_chapter": 23, "new_chapter": 19, "name": "Deva Celestial", "type": "Historical/Metaphysical", "current": 6813, "target": 5000, "action": "COMPRESS"},
+    {"orig_chapter": 24, "new_chapter": 20, "name": "Future Prophet", "type": "Historical/Future", "current": 8650, "target": 5000, "action": "COMPRESS"},
+    {"orig_chapter": 25, "new_chapter": 21, "name": "Space Explorer / Formless Realms", "type": "Metaphysical", "current": 11880, "target": 5000, "action": "COMPRESS"},
+    {"orig_chapter": 26, "new_chapter": 22, "name": "Pure Abodes Awakened", "type": "Climax", "current": 10464, "target": 5000, "action": "COMPRESS"}
+  ],
+  "expected_final_metrics": {
+    "total_words": 125000,
+    "net_cut": 91594,
+    "chapter_count": 22,
+    "manchester_words": 50000,
+    "manchester_percent": 40.0,
+    "composition": {
+      "Manchester": {"chapters": 2, "words": 50000, "percent": 40.0},
+      "Historical": {"chapters": 6, "words": 40000, "percent": 32.0},
+      "Lilith": {"chapters": 10, "words": 15000, "percent": 12.0},
+      "Historical/Metaphysical": {"chapters": 1, "words": 5000, "percent": 4.0},
+      "Historical/Future": {"chapters": 1, "words": 5000, "percent": 4.0},
+      "Metaphysical": {"chapters": 1, "words": 5000, "percent": 4.0},
+      "Climax": {"chapters": 1, "words": 5000, "percent": 4.0}
+    }
+  },
+  "cut_chapters": [
+    {"orig_chapter": 6, "name": "Athens Philosopher (Philon)", "words": 10202},
+    {"orig_chapter": 8, "name": "Rome Investigator (Verinus)", "words": 9405},
+    {"orig_chapter": 10, "name": "Egypt Hermit (Macarius)", "words": 13777},
+    {"orig_chapter": 12, "name": "Heian Lover (Kaoru)", "words": 8460}
+  ],
+  "gross_operations": {
+    "gross_cut": 123951,
+    "gross_add": 32357,
+    "net_cut": 91594
+  },
+  "tic_baselines": {
+    "particular": {"count": 114, "density_per_10k": 5.26},
+    "something": {"count": 1051, "density_per_10k": 48.52},
+    "not_x_y_pattern": {"count": 118, "density_per_10k": 5.45},
+    "em_dashes": {"count": 2883, "density_per_10k": 133.13}
+  },
+  "tic_targets": {
+    "particular": {"max_density_per_10k": 2.63},
+    "something": {"max_density_per_10k": 24.26},
+    "not_x_y_pattern": {"max_density_per_10k": 2.73},
+    "em_dashes": {"max_density_per_10k": 66.57}
+  },
+  "schedule": {
+    "total_weeks": 16,
+    "phases": [
+      {"phase": "I", "weeks": "1-2", "focus": "Incarnation Cuts", "net_delta": -41844},
+      {"phase": "II", "weeks": "3-4", "focus": "Manchester Ch1 Expansion", "net_delta": 17105},
+      {"phase": "III", "weeks": "5-8", "focus": "Historical Compression Part 1", "net_delta": -26100},
+      {"phase": "IV", "weeks": "9-10", "focus": "Historical + Lilith Fragments", "net_delta": -23472},
+      {"phase": "V", "weeks": "11-12", "focus": "Lilith Compression", "net_delta": -14728},
+      {"phase": "VI", "weeks": "13-14", "focus": "Final Sequence + Manchester Ch22", "net_delta": -2555},
+      {"phase": "VII", "weeks": "15-16", "focus": "Line Edit (NET-0)", "net_delta": 0}
+    ],
+    "gates": ["G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8"]
+  },
+  "dramatizations": {
+    "net_word_change": 0,
+    "scenes": [
+      {"name": "Devaka's betrayal", "location": "Ch4/Ch5", "type": "NET-0 rewrite"},
+      {"name": "Stewart rooftop fall", "location": "Ch22", "type": "NET-0 rewrite"},
+      {"name": "Lilith's first intervention", "location": "Ch5", "type": "NET-0 rewrite"}
+    ]
+  }
+}
