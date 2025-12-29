@@ -1,6 +1,6 @@
 ## III
 
-The white-ground fell harder now. Ka could not see the tribe's fire anymore—the storm had eaten everything, had turned the world to white and wind and the particular silence that came before dying.
+The white-ground fell harder now. Ka had lost sight of the tribe's fire—the storm had eaten everything, had turned the world to white and wind and the silence that came before dying.
 
 Lilith felt the cold in her own joints, a phantom seeping that had nothing to do with Manchester's February damp. Her body remembered caves it had never inhabited, storms it had never survived. Or perhaps this was his body, his dying, bleeding through the thread she had followed too deep.
 
@@ -12,7 +12,7 @@ The knowing arrived without words, without language, without the structures of t
 
 *Need to know,* his dying insisted. *Need to understand giving. Need to—*
 
-The hunger transformed in the moment of his dying. Not meat anymore. Not territory, not dominance, not the alone-way that had brought him here to this cave with his frozen prize. Something else now, something that burned through the cold, through the failing flesh, through the boundary between this life and whatever came next.
+The hunger transformed in the moment of his dying. Beyond meat, beyond territory, beyond dominance, beyond the alone-way that had brought him here to this cave with his frozen prize. Something else now, something that burned through the cold, through the failing flesh, through the boundary between this life and whatever came next.
 
 *Burning need to know giving. Spreads through Ka's cold body like dawn spreads across sky.*
 
