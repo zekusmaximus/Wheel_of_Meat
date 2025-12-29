@@ -2,7 +2,7 @@ The collapse came three days later.
 
 Philon had continued his work in the interval, treating the ailments that required no explanation—a child with an infected insect bite, a potter whose hand had slipped against the wheel, a woman whose pregnancy sat wrong in her body and would not settle. Each case he approached with the same unhurried attention, though beneath his calm he felt the tightening that comes before a storm. The rumors from Piraeus had multiplied, as rumors do, growing darker with each retelling. Sailors staggering from ships. Bodies left on the docks. Fever that burned so hot it cracked the lips and left the afflicted begging for water they could not keep down.
 
-Alexios had stopped asking whether the stories were true. He had begun, instead, to watch the patients who came to the clinic with a wariness that had not been there before—searching their faces for signs of something more than ordinary illness, flinching slightly when they coughed or sneezed. Philon had noticed but said nothing. Fear was not unreasonable. Fear, in the right measure, could keep a man alive.
+Alexios had stopped asking whether the stories were true. He had begun, instead, to watch the patients who came to the clinic with new wariness—searching their faces for signs of something more than ordinary illness, flinching slightly when they coughed or sneezed. Philon had noticed but said nothing. Fear was not unreasonable. Fear, in the right measure, could keep a man alive.
 
 It was late morning when the scream cut across the Agora.
 
@@ -12,9 +12,9 @@ Philon was repacking his satchel, organizing the herbs and linen strips he had u
 
 They moved together through the crowd, which was already beginning to shift and churn like water disturbed by a thrown stone. The vendors had stopped calling their prices. The arguments in the shade of the stoas had fallen silent. Everyone was looking in the same direction, and as Philon drew closer he saw why.
 
-A man lay crumpled on the paving stones near the fish sellers' stalls. He had fallen in the middle of the walkway, his body twisted at an angle that suggested he had not even tried to catch himself. His chiton was soaked with sweat, though the morning was not especially warm, and his skin—visible where the fabric had ridden up—was flushed a dark, angry red. Even from a distance, Philon could see the tremors running through him, the involuntary shuddering of muscles that had lost their connection to will.
+A man lay crumpled on the paving stones near the fish sellers' stalls. He had fallen in the middle of the walkway, his body twisted at an angle that suggested he had not even tried to catch himself. His chiton was soaked with sweat despite the mild morning, and his skin—visible where the fabric had ridden up—was flushed a dark, angry red. Even from a distance, Philon could see the tremors running through him, the involuntary shuddering of muscles that had lost their connection to will.
 
-The crowd had opened around him like a wound. A ring of emptiness, three paces wide, separated the fallen man from the nearest onlookers. No one moved toward him. No one spoke to him. They only watched, their faces bearing the particular expression of people who have glimpsed something they do not wish to understand.
+The crowd had opened around him like a wound. A ring of emptiness, three paces wide, separated the fallen man from the nearest onlookers. No one moved toward him. No one spoke to him. They only watched, their faces bearing the expression of people who have glimpsed something they do not wish to understand.
 
 The man cried out again—not words, just sound, the raw vocalization of someone whose fever had burned away the capacity for speech. He tried to lift his head and failed. His hands clawed weakly at the stones beneath him.
 
@@ -36,9 +36,9 @@ They stood frozen. Watching. Waiting to see what he would do.
 
 No one moved.
 
-"Now," he added, and something in the word finally broke the paralysis. A young vendor hurried toward the nearest fountain. Two older men who had been standing together exchanged a glance and then moved, reluctantly, to fetch a carrying frame from one of the market stalls.
+"Now," he added, and the force of the word finally broke the paralysis. A young vendor hurried toward the nearest fountain. Two older men who had been standing together exchanged a glance and then moved, reluctantly, to fetch a carrying frame from one of the market stalls.
 
-Footsteps approached from behind. Philon did not turn, but he felt the presence settle beside him—Alexios, kneeling on the plague victim's other side, his hands already reaching for the waterskin he carried.
+Footsteps approached from behind. Philon kept his attention on the patient but felt the presence settle beside him—Alexios, kneeling on the plague victim's other side, his hands already reaching for the waterskin he carried.
 
 "One life," Philon said quietly, almost to himself. "One life is worth the effort."
 
