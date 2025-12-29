@@ -1,0 +1,36 @@
+================================================================================
+PROSE TIC ANALYSIS - SUMMARY
+================================================================================
+
+Ch   Title                             Words   Tics  Density
+--------------------------------------------------------------------------------
+1    The Awakening                     7,672      9     1.17
+2    The First Flame                   4,843     20     4.13
+3    Lilith's Watch I                  2,972     12     4.04
+4    The Mauryan Empire               19,213     51     2.65
+5    Lilith's Watch II                 2,598     20     7.70
+6    The Philosopher                  10,002     20     2.00
+7    Lilith's Watch III                3,118     16     5.13
+8    The Investigator                  9,155     26     2.84
+9    Lilith's Watch IV                 5,813     22     3.78
+10   The Desert Hermit                13,522     24     1.77
+11   Lilith's Watch V                  4,755     15     3.15
+12   The Lover                         8,246     34     4.12
+13   Lilith's Watch VI                 2,618     13     4.97
+14   The Accused                      18,039     48     2.66
+15   Lilith's Watch VII                4,556     23     5.05
+16   The Skeptic                      13,500     16     1.19
+17   Lilith's Watch VIII               3,433     16     4.66
+18   The Rebel                         6,334     11     1.74
+19   Lilith's Watch IX                 9,659     14     1.45
+20   The Detective                    10,696     24     2.24
+21   Lilith's Watch X                  3,595     12     3.34
+22   The Breakthrough                  9,353     33     3.53
+23   The Celestial Realm               6,554     40     6.10
+24   The Prophet                       8,313     49     5.89
+25   The Explorer                     11,632     71     6.10
+26   The Awakened                     10,182     96     9.43
+--------------------------------------------------------------------------------
+TOTAL                                210,373    735     3.49
+
+================================================================================
