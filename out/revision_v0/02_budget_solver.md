@@ -1,15 +1,22 @@
 # Budget Solver
 
-## Baseline Data
+## Baseline Data (Source: analysis_data.json verified 2025-12-29)
 
-| Metric | Value |
-|--------|-------|
-| Current total words | 216,594 |
-| Current Manchester words | 17,643 |
-| Current Manchester % | 8.15% |
-| Target final | 120,000 (range: 110,000–130,000) |
-| Required net cut | 96,594 (range: 86,594–106,594) |
-| Required Manchester % | 40–50% |
+**Formula basis for all calculations below:**
+```
+Baseline total = 216,594 words (verified by manuscript analyzer)
+Manchester baseline = Ch1 (7,895) + Ch22 (9,748) = 17,643 words
+Cut candidates = Ch6 Philon (10,202) + Ch8 Verinus (9,405) + Ch10 Macarius (13,777) + Ch12 Kaoru (8,460) = 41,844 words
+```
+
+| Metric | Value | Derivation |
+|--------|-------|------------|
+| Current total words | 216,594 | From analyzer |
+| Current Manchester words | 17,643 | 7,895 + 9,748 |
+| Current Manchester % | 8.15% | 17,643 / 216,594 |
+| Target final | 120,000 (range: 110,000–130,000) | C1 constraint |
+| Required net cut | 96,594 (range: 86,594–106,594) | 216,594 - 120,000 |
+| Required Manchester % | 40–50% | C2 constraint |
 
 ---
 
@@ -419,22 +426,65 @@ Cut 4 incarnations but target higher final word count (125,000) to reduce net cu
 
 ---
 
-## Final Verification
+## Final Verification (Arithmetic Proof)
+
+**Step-by-step calculation from baseline:**
 
 ```
-Manchester expansion:   +32,357
-Historical compression: -35,856
-Lilith compression:     -28,044
-Final seq compression:  -19,207
-Incarnation cuts:       -41,844
-─────────────────────────────────
-Net change:             -92,594
+Starting baseline:                              216,594
 
-Current:     216,594
-Net change:  -92,594
-─────────────────────────────────
-Final:       124,000 ✓
+Operations:
+  CUT Ch6 Philon:                               -10,202
+  CUT Ch8 Verinus:                               -9,405
+  CUT Ch10 Macarius:                            -13,777
+  CUT Ch12 Kaoru:                                -8,460
+  Subtotal after incarnation cuts:              174,750
 
-Manchester %: 50,000 / 124,000 = 40.32% ✓
-Net cut:      92,594 (within 80,000–100,000) ✓
+  COMPRESS Ch2 (Ka): 5,058 → 4,200               -858
+  COMPRESS Ch4 (Chandra): 19,676 → 11,000       -8,676
+  COMPRESS Ch14 (Diego): 18,641 → 10,000        -8,641
+  COMPRESS Ch16 (Renaissance): 13,725 → 5,500   -8,225
+  COMPRESS Ch18 (Taiping): 6,512 → 4,000        -2,512
+  COMPRESS Ch20 (Malone): 11,144 → 4,200        -6,944
+  COMPRESS Ch23 (Deva): 6,813 → 4,600           -2,213
+  COMPRESS Ch24 (Future): 8,650 → 4,600         -4,050
+  COMPRESS Ch25 (Formless): 11,880 → 4,800      -7,080
+  COMPRESS Ch26 (Climax): 10,464 → 4,600        -5,864
+  Subtotal historical/final compression:        -55,063
+
+  COMPRESS Lilith CP01 (Ch3): 3,049 → 2,000     -1,049
+  COMPRESS Lilith CP02 (Ch5): 2,673 → 1,800      -873
+  CONVERT Lilith CP03 (Ch7): 3,221 → 450        -2,771
+  CONVERT Lilith CP04 (Ch9): 5,998 → 650        -5,348
+  CONVERT Lilith CP05 (Ch11): 4,883 → 650       -4,233
+  CONVERT Lilith CP06 (Ch13): 2,714 → 450       -2,264
+  COMPRESS Lilith CP07 (Ch15): 4,711 → 3,000    -1,711
+  COMPRESS Lilith CP08 (Ch17): 3,546 → 2,200    -1,346
+  COMPRESS Lilith CP09 (Ch19): 10,011 → 4,200   -5,811
+  COMPRESS Lilith CP10 (Ch21): 3,738 → 1,100    -2,638
+  Subtotal Lilith compression:                  -28,044
+
+  EXPAND Ch1 (Manchester): 7,895 → 25,000      +17,105
+  EXPAND Ch22 (Manchester): 9,748 → 25,000     +15,252
+  Subtotal Manchester expansion:                +32,357
+
+─────────────────────────────────────────────────────
+Total change:                                   -92,594
+
+Baseline:                                       216,594
+Total change:                                   -92,594
+─────────────────────────────────────────────────────
+FINAL TOTAL:                                    124,000 ✓
+
+Manchester verification:
+  Ch1 target: 25,000
+  Ch22 target: 25,000
+  Manchester total: 50,000
+  Manchester %: 50,000 / 124,000 = 40.32% ✓
+
+Constraint verification:
+  C1 (Final total): 124,000 ∈ [110,000, 130,000] ✓
+  C2 (Manchester %): 40.32% ∈ [40%, 50%] ✓
+  C3 (Net cut): 92,594 ∈ [80,000, 100,000] ✓
+  C4 (Incarnations cut): 4 ∈ [3, 4] ✓
 ```

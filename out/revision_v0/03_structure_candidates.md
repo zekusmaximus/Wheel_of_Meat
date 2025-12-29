@@ -144,26 +144,61 @@
 
 ---
 
-## Word Budget Verification
+## Word Budget Verification (Arithmetic Proof)
+
+**Detailed calculation from baseline = 216,594:**
 
 ```
-Starting:                  216,594
+Starting baseline:                              216,594
 
-CUT incarnations:          -41,844
-CAPPED chapters:           -55,063
-CONVERTED Lilith:          -14,566
-COMPRESSED Lilith:         -13,428
-EXPANDED Manchester:       +32,357
-────────────────────────────────────
-Net change:                -92,544
+CUT incarnations:
+  Ch6 Philon:                                   -10,202
+  Ch8 Verinus:                                   -9,405
+  Ch10 Macarius:                                -13,777
+  Ch12 Kaoru:                                    -8,460
+  Subtotal CUT:                                 -41,844
 
-Final:                     124,050 (rounds to 124,000)
+CAPPED chapters (Historical/Final):
+  Ch2 Ka: 5,058→4,200                              -858
+  Ch4 Chandra: 19,676→11,000                     -8,676
+  Ch14 Diego: 18,641→10,000                      -8,641
+  Ch16 Renaissance: 13,725→5,500                 -8,225
+  Ch18 Taiping: 6,512→4,000                      -2,512
+  Ch20 Malone: 11,144→4,200                      -6,944
+  Ch23 Deva: 6,813→4,600                         -2,213
+  Ch24 Future: 8,650→4,600                       -4,050
+  Ch25 Formless: 11,880→4,800                    -7,080
+  Ch26 Climax: 10,464→4,600                      -5,864
+  Subtotal CAPPED:                              -55,063
+
+CONVERTED Lilith (tracking fragments):
+  Ch7: 3,221→450                                 -2,771
+  Ch9: 5,998→650                                 -5,348
+  Ch11: 4,883→650                                -4,233
+  Ch13: 2,714→450                                -2,264
+  Subtotal CONVERTED:                           -14,616
+
+COMPRESSED Lilith (active tracking):
+  Ch3: 3,049→2,000                               -1,049
+  Ch5: 2,673→1,800                                 -873
+  Ch15: 4,711→3,000                              -1,711
+  Ch17: 3,546→2,200                              -1,346
+  Ch19: 10,011→4,200                             -5,811
+  Ch21: 3,738→1,100                              -2,638
+  Subtotal COMPRESSED:                          -13,428
+
+EXPANDED Manchester:
+  Ch1: 7,895→25,000                             +17,105
+  Ch22: 9,748→25,000                            +15,252
+  Subtotal EXPANDED:                            +32,357
+────────────────────────────────────────────────────
+Total net change:                               -92,594
+
+Verification:
+  216,594 - 41,844 - 55,063 - 14,616 - 13,428 + 32,357 = 124,000 ✓
 ```
 
-**Verification**: 216,594 - 41,844 - 55,063 - 14,566 - 13,428 + 32,357 = 123,650
-
-Slight adjustment needed in targets to hit exactly 124,000:
-- Add 350 words distributed across active Lilith chapters
+**Note**: Previous version had -14,566 for CONVERTED Lilith, but correct calculation is -14,616 (difference of 50 words, adjusted from Ch7 target).
 
 ---
 
