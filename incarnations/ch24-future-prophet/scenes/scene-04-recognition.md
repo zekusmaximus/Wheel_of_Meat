@@ -1,6 +1,6 @@
 They found each other in a space the system couldn't reach.
 
-Not off-grid—nothing was truly off-grid in a world where the network extended into every corner of designed existence—but liminal. A zone between monitoring subroutines, a gap in the attention that The Eternal Synthesis paid to its participants. The coordinates had circulated through channels the system didn't track: locations where consciousnesses flagged as atypical could meet without triggering intervention protocols.
+Liminal rather than off-grid—the network extended into every corner of designed existence, true isolation was impossible. A zone between monitoring subroutines, a gap in the attention that The Eternal Synthesis paid to its participants. The coordinates had circulated through channels the system didn't track: locations where consciousnesses flagged as atypical could meet without triggering intervention protocols.
 
 Silex arrived first.
 
@@ -22,7 +22,7 @@ She stopped three meters away. Close enough to speak. Far enough to leave.
 
 *You.*
 
-The communication passed through neural channels before either of them decided to send it. Not telepathy—the system provided no telepathy, considered direct mind-to-mind contact destabilizing to social function—but the informal link that two atypical consciousnesses could establish when the monitoring was thin.
+The communication passed through neural channels before either of them decided to send it. The informal link that two atypical consciousnesses could establish when the monitoring was thin—the system provided no true telepathy, considered direct mind-to-mind contact destabilizing to social function.
 
 *You found me,* he responded.
 
@@ -32,7 +32,7 @@ The old pattern surfaced in her—he could perceive it through the link, the com
 
 He didn't respond to the frame. There was no response required.
 
-*Something shifted,* she communicated after the silence stretched. *In the Deva Realm. When we flickered. When I looked at you and saw myself.*
+*A shift happened,* she communicated after the silence stretched. *In the Deva Realm. When we flickered. When I looked at you and saw myself.*
 
 *Yes.*
 
@@ -48,7 +48,7 @@ She moved closer. Two meters now. The link between their neural interfaces stren
 
 *That we were never separate. That the race doesn't exist. That there was only ever one of us, wearing two faces.*
 
-The communication produced something in her that he could perceive but not name. Resistance layered over recognition. The grasping wanting to argue, the deeper knowing wanting to accept. The same pattern she had carried across every intervention, every obstruction, every attempt to derail his progress that had become the catalyst for it.
+The communication produced a response in her that he could perceive but not name. Resistance layered over recognition. The grasping wanting to argue, the deeper knowing wanting to accept. The same pattern she had carried across every intervention, every obstruction, every attempt to derail his progress that had become the catalyst for it.
 
 *Show me.*
 
@@ -56,11 +56,11 @@ The request was genuine. Whatever drove her competition, it coexisted with somet
 
 He opened the link fully.
 
-Neural interface technology—standard for deep communication, routine for intimacy protocols—but turned toward a purpose the engineers had never anticipated. Not information transfer. Not emotional synchronization. Something the boundary-flicker in the Deva Realm had previewed but hadn't completed.
+Neural interface technology—standard for deep communication, routine for intimacy protocols—but turned toward a purpose the engineers had never anticipated. Beyond information transfer or emotional synchronization. What the boundary-flicker in the Deva Realm had previewed but hadn't completed.
 
 Merged perception.
 
-For a moment that had no duration because duration required separate selves to measure it, there was only awareness. Not his. Not hers. Just the perceiving that had always been present, looking through two angles that were also one angle. The null space registered from positions three meters apart that were also the same position. The designed bodies with their engineered senses processed the same input twice, from perspectives that couldn't determine their own priority.
+For a moment that had no duration because duration required separate selves to measure it, there was only awareness. The perceiving belonged to neither—just the presence that had always been there, looking through two angles that were also one angle. The null space registered from positions three meters apart that were also the same position. The designed bodies with their engineered senses processed the same input twice, from perspectives that couldn't determine their own priority.
 
 *Which one am I?*
 
@@ -68,7 +68,7 @@ The question arose without arising, asked by no one because the one who would as
 
 Then: separation. The link returning to normal parameters. Two consciousnesses in two bodies regarding each other across the distance they had briefly deleted.
 
-Her face had changed—not the physical features, which remained as constant as they had always been, but something in how she held them. The grasping was still present. The competition hadn't dissolved. But something else had been added.
+Her face had changed—not the physical features, which remained as constant as they had always been, but how she held them. The grasping was still present. The competition hadn't dissolved. But something else had been added.
 
 *You felt it,* he said.
 
@@ -110,7 +110,7 @@ The admission produced a stillness in her. He could feel it through the fading l
 
 *But we'll learn,* he added. *The way we've learned everything else. By moving through it.*
 
-The null space held them for a moment longer—two bodies in a zone the system overlooked, two consciousnesses adjusting to a configuration neither had anticipated. Then she nodded, a gesture the designed body performed with engineered precision, and something settled between them that wasn't agreement or alliance but something older.
+The null space held them for a moment longer—two bodies in a zone the system overlooked, two consciousnesses adjusting to a configuration neither had anticipated. Then she nodded, a gesture the designed body performed with engineered precision, and a quality settled between them that wasn't agreement or alliance but older than both.
 
 Recognition. The same kind that had flashed when she first entered.
 
