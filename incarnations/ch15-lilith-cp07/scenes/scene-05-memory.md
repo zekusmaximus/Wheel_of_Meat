@@ -1,6 +1,6 @@
 The flat was too small.
 
-She rose from the chair and the rising did not help—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as Diego's cell, as every enclosure she had tracked and tracked toward.
+She rose from the chair but found no relief—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as Diego's cell, as every enclosure she had tracked and tracked toward.
 
 *Open.*
 
@@ -8,7 +8,7 @@ The word arrived before the memory: Gothic verticals. Victorian gravity softened
 
 She had walked there. Days ago, or weeks—time had become imprecise in the tracking haze. Her body had known where to go when her mind refused to examine the destination. She had stood in the rain outside buildings where he would be, *was*, present tense, and she had felt—
 
-The feeling dissolved before she could name it.
+She lost it before she could name it.
 
 *He is there.*
 
