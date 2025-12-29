@@ -26,9 +26,9 @@ The thought filed itself. Strategy required refinement. She had been too indirec
 
 But beneath the filing, something else stirred. The warmth. The walk. The memory of standing in rain outside philosophy faculty, feeling something that exceeded strategy.
 
-She had walked to where he would be. Not the historical consciousness—*him*. The present-day him. The one she had not yet met.
+She had walked to where he would be. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
 
-The thread hummed forward. Not toward Heian anymore—that branch complete, Kaoru dissolved into the pattern that continued—but toward Spain. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
+The thread hummed forward. Toward Spain rather than Heian—that branch complete, Kaoru dissolved into the pattern that continued. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
 
 Different cage. Different beauty. Different attachment requiring different intervention.
 
@@ -48,7 +48,7 @@ She followed.
 
 She did not ask why following felt more like falling than hunting.
 
-She did not notice that she had already begun thinking of him as *him*—not the thread, not the soul, not the consciousness requiring intervention—but *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
+She failed to notice that she had already begun thinking of him as *him*—the thread redefined, the soul personalized, the consciousness requiring intervention transformed into *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
 
 The flat held its beauty. The light held its softness. The cold ceramic in her hands warmed exactly as ceramic warmed, exactly as lacquer warmed, exactly as the objects of beauty always warmed when held too long.
 
