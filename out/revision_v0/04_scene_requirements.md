@@ -10,12 +10,14 @@ The editor letter identifies 5 key moments currently summarized that require ful
 
 ### Current Status: Summary/Tell
 
-**Location**: Chapter 4 (Mauryan Chandra), Chapter 5 (Lilith CP02)
+**Location**: Chapter 5 (Lilith CP02), line ~1895; Chapter 4 (Mauryan Chandra), line ~1307+
 
-**Current text** (≤25 words):
-> "The betrayal would proceed. The lesson would be taught." (Ch 5, line ~1895)
+**Current text** (≤25 words, verified in manuscript):
+> "The betrayal would proceed. The lesson would be taught." (Ch 5, WOM_Manuscript_full.md:1895)
 
-> "The last thing he saw before the darkness swallowed him was Devaka's face..." (Ch 4, line ~1434)
+> "...the betrayal Devaka had confessed to, the trust that confession had shattered..." (Ch 4, WOM_Manuscript_full.md:1307)
+
+**Verified**: Scene is referenced but NOT dramatized. The moment of Devaka actually delivering information to conspirators is narrated in summary, not shown.
 
 ### Problem
 We see Chandra's suspicions, we see him walking into the trap, we see his capture—but we never see Devaka actually deliver the information to the conspirators. The moment of betrayal itself is narrated in summary.
@@ -50,10 +52,15 @@ Lilith's tracking passage (Ch 5) must show her observing THIS scene, not just it
 
 ### Current Status: Partially Dramatized but Unclear
 
-**Location**: Chapter 5 (Lilith CP02), referenced throughout
+**Location**: Chapter 5 (Lilith CP02), line 1893 (verified in manuscript)
 
-**Current text** (≤25 words):
-> "She felt her own presence inside the shift. Participant. Not witness." (Ch 5, line ~1893)
+**Current text** (≤25 words, verified in manuscript):
+> "Participant. Not witness." (WOM_Manuscript_full.md:1893)
+
+**Full context quote**:
+> "The fear-thread blazed white under her focus. The loyalty-thread dimmed—not extinguished, but weakened, starved of the attention that might have sustained it. Something shifted in the pattern of Devaka's choosing, and she felt her own presence inside the shift. Participant. Not witness."
+
+**Verified**: Scene exists but transition from observation to manipulation could be more explicit.
 
 ### Problem
 We see Lilith affect Devaka's fear-thread, but the transition from observation to manipulation is subtle. The editor asks: "When does observation become intervention?" This moment should be pivotal.
@@ -89,10 +96,17 @@ This scene establishes the pattern she will repeat for 300,000 years. The phrase
 
 ### Current Status: Described but Compressed
 
-**Location**: Chapter 22 (Contemporary Breakthrough)
+**Location**: Chapter 22 (Contemporary Breakthrough), line 363-369 (verified in manuscript)
 
-**Current text** (≤25 words):
-> "But the turn carried him. His foot found the barrier's base, and what had been a pivot became a stumble, and what had been a stumble became gravity..." (line ~365)
+**Current text** (≤25 words, verified in manuscript):
+> "Tat tvam asi." Stewart's hand left the barrier. He turned toward Silas—toward connection..." (WOM_Manuscript_full.md:363)
+
+**Full context quote**:
+> "Tat tvam asi." Stewart's hand left the barrier. He turned toward Silas—toward connection, it seemed, toward the recognition of their shared unreality. "That thou—"
+
+> The distance between them collapsed—fifteen feet, ten, five—and time stretched in the way time stretches only at the threshold of irreversible things." (WOM_Manuscript_full.md:369)
+
+**Verified**: Scene exists but editor requests "one more sentence of suspended time" before gravity takes hold.
 
 ### Problem
 The editor requests "one more sentence of suspended time" before gravity takes hold. The moment is pivotal—it catalyzes Silas's awakening and creates the chain with Lilith—but it happens too quickly for its weight.
@@ -142,10 +156,17 @@ The scene must land back in the physical—rain on faces, cold metal, Stewart's 
 
 ### Current Status: Partially Dramatized
 
-**Location**: Chapter 22 (Contemporary Breakthrough)
+**Location**: Chapter 22 (Contemporary Breakthrough), line 202-210 (verified in manuscript)
 
-**Current text** (≤25 words):
-> "I didn't find you by accident, Silas." ... "I've been watching you for a very long time. Longer than you know. Longer than you can know."
+**Current text** (≤25 words, verified in manuscript):
+> "I didn't find you by accident, Silas." (WOM_Manuscript_full.md:202)
+
+**Full context quote**:
+> "I didn't find you by accident, Silas."
+> The words hung between them, suspended in the space the wipers couldn't clear...
+> "I've been watching you for a very long time. Longer than you know. Longer than you can know." (WOM_Manuscript_full.md:210)
+
+**Verified**: Scene exists but needs expansion per editor feedback.
 
 ### Problem
 The editor notes the confession feels "narratively forced"—why confess now? The scene needs internal logic and Silas needs to react with genuine human pain before release.
