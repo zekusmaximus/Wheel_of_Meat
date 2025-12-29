@@ -4,7 +4,7 @@ Marguerite's face held the markers Lilith had worn in every life she could remem
 
 And Marguerite genuinely believed what she was about to say.
 
-That was the elegance of the method. Not possession—Lilith did not become the widow, did not override her consciousness or speak with her mouth as if puppeting empty flesh. She pushed *through*. Amplified what was already there. Marguerite Viret had typeset Montaigne's Essays letter by letter, had absorbed the arguments about the unreliability of testimony and the limitations of human knowledge simply by arranging the words across hundreds of pages. Her skepticism was earned. Her philosophy was genuinely hers.
+That was the elegance of the method. Amplification rather than possession—Lilith never became the widow, never overrode her consciousness or spoke with her mouth as if puppeting empty flesh. She pushed *through*. Amplified what was already there. Marguerite Viret had typeset Montaigne's Essays letter by letter, had absorbed the arguments about the unreliability of testimony and the limitations of human knowledge simply by arranging the words across hundreds of pages. Her skepticism was earned. Her philosophy was genuinely hers.
 
 Lilith simply ensured the philosophy reached its intended target.
 
@@ -12,13 +12,13 @@ Lilith simply ensured the philosophy reached its intended target.
 
 The words came from Marguerite's mouth with the conviction of decades: "I believe truth exists. I do not believe it can be reliably accessed through human testimony."
 
-And in Manchester, Lilith felt the satisfaction of precision deployed. The arguments were working. Jean de Langon stood in the print shop with pamphlets in his hands and doubt in his posture, and he was *listening*. Not to manipulation—to ideas he had already considered, articulated by someone who voiced them better than he could voice them himself.
+And in Manchester, Lilith felt the satisfaction of precision deployed. The arguments were working. Jean de Langon stood in the print shop with pamphlets in his hands and doubt in his posture, and he was *listening*. To ideas he had already considered, articulated by someone who voiced them better than he could voice them himself.
 
 The seduction of being understood.
 
 Cold tea on her desk. Cold metal type under Marguerite's fingers. Both women working with letters, with words, with the precise arrangement of meaning to produce specific effects.
 
-The difference—the one Lilith did not let herself consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
+The difference—the one Lilith refused to consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
 
 Jean's finger-touching sequence began: thumb to index. Counting the possibilities. Weighing the implications.
 
