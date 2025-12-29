@@ -1,4 +1,4 @@
-Heat arrived before image, before sound, before the shape of the consciousness she was following. Not fire-heat this time—not the clean warmth of flame or the body-knowledge of prehistoric survival—but something else. Something wet. Something wrong.
+Heat arrived before image, before sound, before the shape of the consciousness she was following. Different from fire-heat, from the clean warmth of flame or the body-knowledge of prehistoric survival. Something wet. Something wrong.
 
 Lilith's flat held its after-midnight silence. The radiator ticked its inadequate rhythm against the December cold. Rain traced the window in patterns she had stopped watching days ago. But beneath her palms—wrapped around ceramic gone cold—a different temperature was bleeding through.
 
@@ -8,7 +8,7 @@ The thread she followed had shifted. Chandra's administrative precision had rece
 
 She closed her eyes. The flat disappeared, became peripheral, became body-echo.
 
-Athens materialized through sensation before it took visual form. The heat was everywhere—not summer heat, not fire heat, but the particular burning that came from inside bodies that were failing. She could feel it radiating from skin that should not feel so hot, pressing against palms that she recognized as her own and not her own.
+Athens materialized through sensation before it took visual form. The heat was everywhere—not summer heat, not fire heat, but the burning that came from inside bodies that were failing. She could feel it radiating from skin that should not feel so hot, pressing against palms that she recognized as her own and not her own.
 
 *Philon.*
 
@@ -16,7 +16,7 @@ The name surfaced with context Chandra's ledgers could never have held. A physic
 
 She felt what his hands felt before she understood it.
 
-Rough-smooth. Raised texture against fingertips. Heat radiating through thin skin, through the particular porousness of flesh beginning to fail. The sensation translated across epochs as pressure against her own palms—something there that should not be there, something growing beneath the surface.
+Rough-smooth. Raised texture against fingertips. Heat radiating through thin skin, through the porousness of flesh beginning to fail. The sensation translated across epochs as pressure against her own palms—something there that should not be there, something growing beneath the surface.
 
 Pustules.
 
@@ -40,6 +40,6 @@ She would not make the same mistake with Philon.
 
 *I'll correct.*
 
-The flat reasserted itself around her—cold tea, ticking radiator, the particular silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
+The flat reasserted itself around her—cold tea, ticking radiator, the silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
 
 She leaned into the thread. The correction began.
