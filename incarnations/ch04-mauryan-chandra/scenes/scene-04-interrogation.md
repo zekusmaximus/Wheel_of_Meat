@@ -24,7 +24,7 @@ He departed, his footsteps fading into the corridor's darkness, leaving Chandra 
 
 The discrepancy revealed itself an hour later.
 
-Chandra had not intended to continue working. His arm ached beneath its bandages, his eyes burned from hours of reading by inadequate light, and the satisfaction of Vikram's confession should have been sufficient to carry him toward sleep. But something nagged at him—a splinter in his thoughts that would not dislodge—and he found himself reaching for the bundle of documents he had set aside days before.
+Chandra had not intended to continue working. His arm ached beneath its bandages, his eyes burned from hours of reading by inadequate light, and the satisfaction of Vikram's confession should have been sufficient to carry him toward sleep. But an unease nagged at him—a splinter in his thoughts that refused to dislodge—and he found himself reaching for the bundle of documents he had set aside days before.
 
 Nagasena's preliminary audit. The report that had prompted the Dharma-Mahāmātra's investigation, that had drawn an assassin's blade, that had started everything Chandra now found himself concluding.
 
@@ -68,7 +68,7 @@ He let the alternative hang unfinished.
 
 "Or Vikram was offered up deliberately." Chandra completed the thought, speaking the suspicion that had crystallized during his sleepless night. "A sacrifice to satisfy the investigation without exposing the larger operation."
 
-Devaka's fingers stopped their tapping. His face held an expression Chandra could not immediately read—not quite agreement, not quite denial, something more complicated that seemed to shift beneath the surface of his features.
+Devaka's fingers stopped their tapping. His face held an expression Chandra could not immediately read—something complicated that seemed to shift beneath the surface of his features, partaking of both agreement and denial without settling on either.
 
 "If that's true, then continuing the investigation through official channels would be… inadvisable." His voice had dropped, though they were alone. "Whoever designed such a sacrifice would have prepared for the possibility of further inquiry. The channels would be watched. The evidence would be protected."
 
@@ -126,7 +126,7 @@ The conspiracy had not merely stolen grain. It had woven itself into the fabric 
 
 Chandra sat in the darkness of his quarters, the moonlight falling across documents that represented a truth too small to satisfy and too complete to question, and made a decision that would determine everything that followed.
 
-He would look. Not officially, not through channels that had been designed to fail, but privately—using his own access, his own skills, his own merchant's instinct for numbers that did not add correctly. He would find where the thirteen thousand measures had gone, would trace the channels that Vikram's sacrifice had been meant to conceal, would uncover the architecture of a conspiracy that had operated for years beneath the administration's unseeing gaze.
+He would look. Privately rather than officially, using his own access rather than channels that had been designed to fail—his own skills, his own merchant's instinct for numbers that did not add correctly. He would find where the thirteen thousand measures had gone, would trace the channels that Vikram's sacrifice had been meant to conceal, would uncover the architecture of a conspiracy that had operated for years beneath the administration's unseeing gaze.
 
 The ledger did not balance. It had never balanced.
 
