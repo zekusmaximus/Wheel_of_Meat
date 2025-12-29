@@ -1,6 +1,6 @@
 Morning light pressed against his eyelids.
 
-Silas opened his eyes to a ceiling he recognized—the familiar cracks and shadows of his bedroom in the faculty housing complex, the way the plaster caught the particular grey-gold of Manchester morning through curtains he never fully closed. He was in his bed. He was wearing yesterday's clothes, rumpled and still faintly damp. He had no memory of the drive home.
+Silas opened his eyes to a ceiling he recognized—the familiar cracks and shadows of his bedroom in the faculty housing complex, the way the plaster caught the grey-gold of Manchester morning through curtains he never fully closed. He was in his bed. He was wearing yesterday's clothes, rumpled and still faintly damp. He had no memory of the drive home.
 
 The clock on his bedside table read 8:47.
 
@@ -18,19 +18,19 @@ The mantra surfaced automatically, and he watched it rise like a bubble through 
 
 He sat up.
 
-The movement felt different. Not in his body—his body moved as it had always moved, subject to the same stiffness and physical memory. But the *one* who moved, the Silas who had always been so firmly located behind his eyes, driving the machine of himself through the world—that one was present only as a kind of playing. A useful fiction he was continuing to inhabit because the world was organized to require such fictions.
+The movement felt different. His body moved as it had always moved, subject to the same stiffness and physical memory. But the *one* who moved, the Silas who had always been so firmly located behind his eyes, driving the machine of himself through the world—that one was present only as a kind of playing. A useful fiction he was continuing to inhabit because the world was organized to require such fictions.
 
 The sheets tangled around his legs. He untangled them, swung his feet to the hardwood floor, registered the cold through his socks. His hands braced against the mattress and pushed him upright. Simple actions. Actions that had required no transformation to continue performing. The doing went on; the doer was revealed as optional.
 
 He walked to the window.
 
-The faculty housing complex looked out over a green space between buildings, trees and benches and a path that led toward the main campus. This morning, the green sparkled with the aftermath of the storm—droplets on leaves, puddles in the grass, the particular clean brightness that followed heavy rain. Students moved along the path with the distracted urgency of people who'd overslept.
+The faculty housing complex looked out over a green space between buildings, trees and benches and a path that led toward the main campus. This morning, the green sparkled with the aftermath of the storm—droplets on leaves, puddles in the grass, the clean brightness that followed heavy rain. Students moved along the path with the distracted urgency of people who'd overslept.
 
 Silas watched them without the familiar weight of professorial concern. There was a young woman rushing with coffee in one hand and a laptop case in the other. There was a cluster of students arguing about something, their voices too distant to distinguish but their gestures clear. There were all the currents of university life that he'd navigated for years, worrying about grade appeals and curriculum committees and who among these passing figures might be on the edge of something they couldn't handle.
 
 The worry wasn't there.
 
-Not absent the way it would be if he were depressed or empty—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the old compulsion was gone. He could care without needing to intervene. He could feel for them without that feeling demanding action.
+Present in a different way—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the old compulsion was gone. He could care without needing to intervene. He could feel for them without that feeling demanding action.
 
 The absence was strange. Like discovering a roommate who'd always been there had moved out, leaving the apartment quieter but more spacious.
 
@@ -48,6 +48,6 @@ But there was no hurry. The morning could continue a while longer. The apple was
 
 Somewhere in the city, Lilith was with Stewart. He could feel her absence like a note held after the singer has stopped, a resonance in the space where her presence would have been. They were connected. They had been connected before he understood what connecting meant, and the connection would not dissolve just because they were in separate buildings, separate contexts, separate investigations.
 
-He would see her again. This certainty felt different from the wanting that would normally accompany such knowledge. Not desire, exactly. Not need. Something more like recognition, the way you recognize your own face in a photograph.
+He would see her again. This certainty felt different from the wanting that would normally accompany such knowledge. Recognition rather than desire or need, the way you recognize your own face in a photograph.
 
 For now: toast crumbs on his fingers. Coffee cooling. The green outside the window. And the new texture of his experience, humming quietly where the old urgencies used to live.
