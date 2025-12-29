@@ -8,7 +8,7 @@ She could feel the absence beneath her achievements the way she could feel the f
 
 Past lives surfaced with increasing frequency now.
 
-Not memory—never memory—but the kind of knowing that operated below the level of recall. Faces. Moments. The texture of other bodies in other eras: a widow's veil in a burning city, the particular weight of court robes, the smell of plague and the sound of flames. And one face recurring, male, patient, with the quality of observation that she had been observing across configurations beyond counting.
+Knowing rather than memory—the kind that operated below the level of recall. Faces. Moments. The texture of other bodies in other eras: a widow's veil in a burning city, the weight of court robes, the smell of plague and the sound of flames. And one face recurring, male, patient, with the quality of observation that she had been observing across configurations beyond counting.
 
 *Him.*
 
@@ -22,15 +22,15 @@ Nine broken, one remaining—she could perceive the mathematics of it the way sh
 
 The thought surfaced automatically whenever she touched the edge of the remaining work. Before him. Before anyone. The one who completes. The one whose completion counts.
 
-Something in the Deva Realm had shown her the absurdity of this—the boundary-flicker, the moment of merged perception, the glimpse of something larger than either of them separately. But showing was not changing. The glimpse had faded. The grasping had resumed. And here, in flesh again, the old pattern ran like a subroutine she couldn't debug.
+The Deva Realm had shown her the absurdity of this—the boundary-flicker, the moment of merged perception, the glimpse of what was larger than either of them separately. But showing was not changing. The glimpse had faded. The grasping had resumed. And here, in flesh again, the old pattern ran like a subroutine she couldn't debug.
 
 She began to speak differently.
 
-Not deliberately—deliberation would have triggered the system's deviation-detection protocols. The change emerged naturally from the wrongness she perceived, the hollow core she couldn't stop seeing. When the liturgy claimed transformation, her voice carried the faintest question. When the ceremonies performed transcendence, her presence suggested that performance was not the same as arrival. When the other Adepts accepted the prescribed serenity as genuine, her attention was elsewhere, reaching for something the protocols couldn't provide.
+Without deliberation—that would have triggered the system's deviation-detection protocols. The change emerged naturally from the wrongness she perceived, the hollow core she couldn't stop seeing. When the liturgy claimed transformation, her voice carried the faintest question. When the ceremonies performed transcendence, her presence suggested that performance was not the same as arrival. When the other Adepts accepted the prescribed serenity as genuine, her attention was elsewhere, reaching for something the protocols couldn't provide.
 
 The congregation rippled when she spoke.
 
-Nothing dramatic—The Eternal Synthesis didn't permit drama, had engineered drama out of the spiritual life centuries ago. But the ripple was real. Other consciousnesses in their designed bodies registering something in her words that didn't match the calibrated frequencies, something that suggested the system's offerings might not be everything they claimed to be.
+The response was subtle—The Eternal Synthesis didn't permit drama, had engineered drama out of the spiritual life centuries ago. But the ripple was real. Other consciousnesses in their designed bodies registering something in her words that didn't match the calibrated frequencies, something that suggested the system's offerings might not be everything they claimed to be.
 
 *She shows irregular enlightenment patterns.*
 
@@ -42,7 +42,7 @@ As if the patterns could be regular. As if the breaking-through that the ancient
 
 The hierarchy offered recalibration.
 
-Not punishment—The Eternal Synthesis didn't punish, had moved beyond the primitive mechanics of reward and consequence. Simply support. Assistance. The opportunity to align her atypical patterns with the norms that made the system function. Her instructors, genuinely concerned in their prescribed way, suggested additional protocols, refined techniques, the specialized attention that her obvious gifts deserved.
+Support rather than punishment—The Eternal Synthesis didn't punish, had moved beyond the primitive mechanics of reward and consequence. Assistance. The opportunity to align her atypical patterns with the norms that made the system function. Her instructors, genuinely concerned in their prescribed way, suggested additional protocols, refined techniques, the specialized attention that her obvious gifts deserved.
 
 *We want you to reach your full potential,* they communicated through the neural channels. *The Synthesis provides optimal pathways for consciousnesses of your caliber.*
 
@@ -52,7 +52,7 @@ The refusal registered in her file alongside the atypical patterns and the irreg
 
 And then she found him.
 
-Not physically—physical finding would come later. Through the network, through the archives, through the vast documentation that The Eternal Synthesis maintained on all its participants. A file flagged with the same phrases that flagged her own: atypical development. Irregular patterns. Potential for contribution to research.
+Through the network first—physical finding would come later. Through the archives, through the vast documentation that The Eternal Synthesis maintained on all its participants. A file flagged with the same phrases that flagged her own: atypical development. Irregular patterns. Potential for contribution to research.
 
 *Silex.*
 
