@@ -22,17 +22,17 @@ What I found there was worse than flooding.
 
 Everything was gone.
 
-Not destroyed—gone. The filing cabinets stood open and empty. The desk drawers had been pulled out and dumped. My safe, the one they'd already cracked once, had been hauled away entirely, leaving only scrape marks on the floor where it had stood.
+Gone rather than destroyed. The filing cabinets stood open and empty. The desk drawers had been pulled out and dumped. My safe, the one they'd already cracked once, had been hauled away entirely, leaving only scrape marks on the floor where it had stood.
 
 I stood in the empty room and felt something shift inside me.
 
-Not anger. Not despair. Something deeper. A kind of clarity that came from having lost everything there was to lose.
+Something deeper than anger or despair. A kind of clarity that came from having lost everything there was to lose.
 
 They had taken it all. The evidence I'd rebuilt, the notes I'd hidden, even the letter I'd written documenting the case—everything. The flood had given them perfect cover. While the city was drowning, they'd come for the last scraps of what I'd built, and they'd erased me as thoroughly as if I'd never existed.
 
 I sat down in my chair—the one piece of furniture they'd left, maybe as a joke—and pulled out my notebook. The one I'd kept in my coat pocket, the one that was still damp from the rain but readable.
 
-It contained maybe a fifth of what I'd known. Names, dates, fragments. Not enough to make a case. Not enough to bring down anyone.
+It contained maybe a fifth of what I'd known. Names, dates, fragments. Insufficient to make a case or bring down anyone.
 
 But it was something.
 
@@ -52,7 +52,7 @@ A long pause. "The petition is due in two weeks. We have the signatures. But wit
 
 "Is that safe for you? After everything that's happened?"
 
-I thought about the murder charge still hanging over my head. About the death threats, the ransacked office, the pattern of destruction that had followed me for months. About the certainty, growing stronger every day, that I was not going to survive to see the recall election.
+I thought about the murder charge still hanging over my head. About the death threats, the ransacked office, the pattern of destruction that had followed me for months. About my growing certainty that I was not going to survive to see the recall election.
 
 "Safe doesn't matter anymore," I said. "What matters is getting the information out there before they silence everyone who knows it."
 
@@ -92,7 +92,7 @@ His home was in Hancock Park, a sprawling Spanish Revival that had survived the 
 
 We sat in his study and I told him everything I remembered. The payoff structures. The witness statements. The connections between City Hall and the police and the gambling ships. He wrote it down in careful longhand, asking questions when my memory faltered, filling in gaps from his own knowledge.
 
-By the end, we had maybe twenty pages. Not a case. Not proof. But a map of the corruption, detailed enough that anyone who wanted to follow it could.
+By the end, we had maybe twenty pages. A map of the corruption rather than a case or proof, but detailed enough that anyone who wanted to follow it could.
 
 "What will you do with it?" I asked.
 
@@ -130,9 +130,9 @@ But I knew they were watching. I knew they were waiting.
 
 And I knew, with a certainty that went beyond logic or self-preservation, that I wasn't going to stop.
 
-Not because I thought I could win. Not because I believed in justice or redemption or any of the noble abstractions that men used to justify dying.
+I didn't think I could win. I didn't believe in justice or redemption or any of the noble abstractions that men used to justify dying.
 
-Just because someone had to try.
+But someone had to try.
 
 Just because the trying was not nothing.
 
