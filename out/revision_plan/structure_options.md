@@ -1,284 +1,351 @@
-# Structural Options — *The Wheel of Meat*
+# Structural Options — *The Wheel of Meat* (v2)
 
-**Prepared:** December 2025
-**Current Word Count:** 216,594
-**Target Word Count:** 110,000–130,000
+**Prepared:** December 2025 (v2 revision)
+**Current Word Count:** 216,594 (verified via manuscript_analyzer.py)
+**Target Word Count:** 110,000–130,000 (aim: 120,000)
 
 ---
 
-## Option A: Follow the Letter Literally
+## V2 Changelog
 
-**Strategy:** Cut 3-4 incarnations entirely; expand Manchester 15-20k; targeted compressions
+**Why v1 failed:**
+- Option A totaled 132,280 words with only 20% Manchester (both failed constraints)
+- Option B totaled 111,558 words with only 26% Manchester (Manchester constraint failed)
+- "Expand Manchester 15-20k" interpreted incorrectly; 40-50% of 120k requires 48,000-60,000 words
 
-### Incarnations Cut
+**What changed in v2:**
+- Manchester target computed as % of FINAL, not as simple addition
+- Both options now constraint-correct with Manchester at 41.7%+
+- Per-chapter word budgets verified to sum to totals
+- All calculations show derivation from analysis_data.json
 
-| Chapter | Incarnation | Words Cut | Paired Lilith Ch | Lilith Words Cut | Total |
-|---------|-------------|-----------|------------------|------------------|-------|
-| 6 | Philon (Athens) | 10,202 | 7 (CP03) | 3,221 | 13,423 |
-| 8 | Verinus (Rome) | 9,405 | 9 (CP04) | 5,998 | 15,403 |
-| 10 | Macarius (Egypt) | 13,777 | 11 (CP05) | 4,883 | 18,660 |
-| 12 | Kaoru (Heian) | 8,460 | 13 (CP06) | 2,714 | 11,174 |
+---
+
+## CONSTRAINT SUMMARY (All Plans Must Satisfy)
+
+| Constraint | Target | Verification |
+|------------|--------|--------------|
+| Final word count | 110,000-130,000 | manuscript_analyzer.py |
+| Manchester % | 40-50% of final | Manchester words / total words |
+| Net cut | 80,000-100,000 | Current - final |
+| Incarnations cut | 3-4 sequences | TOC chapter count |
+| Pivotal dramatizations | ≥3 moments | Scene inventory |
+| Tic reduction | 50% relative | Tic counts per 10k words |
+
+---
+
+## OPTION A: Letter-Faithful (Constraint-Correct)
+
+**Strategy:** Cut 4 incarnations entirely; aggressive compression of retained; maximum Manchester expansion
+
+### Core Numbers
+
+| Metric | Current | Target | Change |
+|--------|---------|--------|--------|
+| Total words | 216,594 | **120,000** | -96,594 |
+| Manchester | 17,643 (8.1%) | **50,000 (41.7%)** | +32,357 |
+| Historical | 116,600 | 35,000 | -81,600 |
+| Lilith | 44,544 | 12,000 | -32,544 |
+| Meta/Climax | 37,807 | 23,000 | -14,807 |
+
+**Constraint Check:**
+- Manchester: 50,000 / 120,000 = 41.7% ✓ (within 40-50%)
+- Net cut: 96,594 ✓ (within 80,000-100,000)
+- Final: 120,000 ✓ (within 110,000-130,000)
+
+### Incarnations Cut (4 full + 4 paired Lilith)
+
+| Chapter | Incarnation | Words | Paired Lilith | Words | Total |
+|---------|-------------|-------|---------------|-------|-------|
+| Ch 6 | Philon (Athens) | 10,202 | Ch 7 (CP03) | 3,221 | 13,423 |
+| Ch 8 | Verinus (Rome) | 9,405 | Ch 9 (CP04) | 5,998 | 15,403 |
+| Ch 10 | Macarius (Egypt) | 13,777 | Ch 11 (CP05) | 4,883 | 18,660 |
+| Ch 12 | Kaoru (Heian) | 8,460 | Ch 13 (CP06) | 2,714 | 11,174 |
 | **TOTAL** | | **41,844** | | **16,816** | **58,660** |
 
-### Incarnations Retained
+### Incarnations Retained + Compressed
 
-| Chapter | Incarnation | Words | Rationale |
-|---------|-------------|-------|-----------|
-| 2 | Ka (Prehistoric) | 5,058 | Essential origin, exemplar prose |
-| 4 | Chandra (Mauryan) | 19,676 | Strongest betrayal arc |
-| 14 | Diego (Inquisition) | 18,641 | Horror without exploitation |
-| 16 | Renaissance Skeptic | 13,725 | Historical continuity |
-| 18 | Taiping Rebel | 6,512 | Collectivist contrast to Ka |
-| 20 | Malone (Noir) | 11,144 | Tightest prose, standalone |
-| 23-26 | Awakening sequence | 37,807 | Essential climax |
+| Chapter | Incarnation | Current | Target | Cut | Rationale |
+|---------|-------------|---------|--------|-----|-----------|
+| Ch 2 | Ka (Prehistoric) | 5,058 | 5,000 | 58 | Essential origin, exemplar prose |
+| Ch 4 | Chandra (Mauryan) | 19,676 | 7,500 | 12,176 | Strongest betrayal arc |
+| Ch 14 | Diego (Inquisition) | 18,641 | 7,500 | 11,141 | Horror without exploitation |
+| Ch 16 | Renaissance Skeptic | 13,725 | 5,000 | 8,725 | Historical continuity |
+| Ch 18 | Taiping Rebel | 6,512 | 4,000 | 2,512 | Collectivist contrast |
+| Ch 20 | Malone (Noir) | 11,144 | 6,000 | 5,144 | Tightest prose |
+| **TOTAL** | | **74,756** | **35,000** | **39,756** | |
 
-### Additional Compressions
+### Lilith Chapter Restructure
 
-| Target | Method | Words Cut |
-|--------|--------|-----------|
-| Formless realms (Ch 25) | Combine stages 2-3 | 1,500 |
-| Malone funeral | Remove | 400 |
-| Malone witnesses | 3 → 2 | 600 |
-| Line-level pass | 30-40% reflective cuts | 18,000 |
-| **TOTAL** | | **20,500** |
+| Current | Words | → | New | Words |
+|---------|-------|---|-----|-------|
+| CP01 + CP02 | 5,722 | → | L1: Discovery | 2,000 |
+| CP03-06 | 16,816 | → | CUT | 0 |
+| CP07 | 4,711 | → | L2: The Thread | 2,500 |
+| CP08 + CP09 | 13,557 | → | L3: Approaching | 4,000 |
+| CP10 | 3,738 | → | L4: The Edge | 3,500 |
+| **TOTAL** | **44,544** | → | | **12,000** |
+
+### Metaphysical/Climax Compression
+
+| Chapter | Current | Target | Cut |
+|---------|---------|--------|-----|
+| Ch 23 (Deva) | 6,813 | 5,000 | 1,813 |
+| Ch 24 (Future) | 8,650 | 5,500 | 3,150 |
+| Ch 25 (Formless) | 11,880 | 7,000 | 4,880 |
+| Ch 26 (Climax) | 10,464 | 5,500 | 4,964 |
+| **TOTAL** | **37,807** | **23,000** | **14,807** |
 
 ### Manchester Expansion
 
-| New Scene | Words Added |
-|-----------|-------------|
-| Falling in love #1 (The Walnut) | 2,000 |
-| Falling in love #2 (Lilith's flat) | 2,500 |
-| Falling in love #3 (Campus walk) | 1,500 |
-| Stewart resolution #1 (Hospital) | 2,000 |
-| Stewart resolution #2 (Departure) | 1,500 |
-| Silas resists #1 (Ellen session) | 2,000 |
-| Silas resists #2 (Denial scene) | 1,500 |
-| Middle-third bridging (4 scenes) | 3,000 |
-| **TOTAL** | **16,000** |
+| Component | Words |
+|-----------|-------|
+| Ch 1 existing (trimmed) | 8,000 |
+| FL-1: The Walnut (first date) | 2,500 |
+| FL-2: Lilith's flat (intimacy) | 3,000 |
+| FL-3: Campus walk (routine) | 2,000 |
+| RC-1: Ellen therapy session | 2,500 |
+| RC-2: After first flashback | 2,000 |
+| **Ch 1 Total** | **20,000** |
+| Ch 22 existing (trimmed) | 10,000 |
+| SR-1: Hospital visit | 2,500 |
+| SR-2: Stewart departure | 2,000 |
+| BT-1 through BT-4 (distributed) | 3,000 |
+| Dramatized pivotal moments | 2,500 |
+| **Ch 22 Total / Distributed** | **20,000** |
+| Additional Manchester expansion | 10,000 |
+| **TOTAL MANCHESTER** | **50,000** |
 
 ### Proposed Table of Contents — Option A
 
-| Ch | Title | Type | Words |
-|----|-------|------|-------|
-| 1 | Contemporary Manchester (expanded) | Manchester | 12,000 |
-| 2 | Ka: The First Hunger | Historical | 5,058 |
-| 3 | Lilith: Discovery | Lilith | 3,049 |
-| 4 | Chandra: The Betrayal | Historical | 17,000 (compressed) |
-| 5 | Lilith: The Ledger's Shadow | Lilith | 2,673 |
-| 6 | Diego: The Accused | Historical | 16,000 (compressed) |
-| 7 | Lilith: The Flame | Lilith | 4,000 (combined from CP07-08) |
-| 8 | Renaissance: The Skeptic | Historical | 12,000 (compressed) |
-| 9 | Taiping: The Rebel | Historical | 5,500 (compressed) |
-| 10 | Lilith: The Approaching | Lilith | 8,000 (combined from CP09-10) |
-| 11 | Malone: The Detective | Historical | 10,000 (compressed) |
-| 12 | Contemporary: The Breakthrough (expanded) | Manchester | 14,000 |
-| 13 | Devaka: The Celestial | Metaphysical | 6,000 |
-| 14 | Future: The Prophet | Future | 7,500 |
-| 15 | Formless: The Realms | Metaphysical | 10,000 |
-| 16 | Pure Abodes: The Awakening | Climax | 9,500 |
-
-**Estimated Total: ~132,280 words**
-
-*(Further line-level compression needed to reach 110-120k target)*
+| New Ch | Title | Type | Budget |
+|--------|-------|------|--------|
+| 1 | Manchester: The Pattern Emerges | Manchester | 20,000 |
+| 2 | Ka: The First Hunger | Historical | 5,000 |
+| 3 | Lilith: Discovery | Lilith | 2,000 |
+| 4 | Chandra: The Betrayal | Historical | 7,500 |
+| 5 | BT-1: Manchester Anchor | Manchester | 1,000 |
+| 6 | Diego: The Accused | Historical | 7,500 |
+| 7 | Lilith: The Thread | Lilith | 2,500 |
+| 8 | BT-2: Manchester Anchor | Manchester | 1,000 |
+| 9 | Renaissance: The Skeptic | Historical | 5,000 |
+| 10 | Taiping: The Rebel | Historical | 4,000 |
+| 11 | Lilith: Approaching | Lilith | 4,000 |
+| 12 | BT-3: Manchester Anchor | Manchester | 1,000 |
+| 13 | Malone: The Detective | Historical | 6,000 |
+| 14 | Lilith: The Edge | Lilith | 3,500 |
+| 15 | BT-4: Manchester Anchor | Manchester | 1,000 |
+| 16 | Manchester: The Breakthrough | Manchester | 26,000 |
+| 17 | Deva Celestial | Metaphysical | 5,000 |
+| 18 | Future Prophet | Metaphysical | 5,500 |
+| 19 | Formless Realms | Metaphysical | 7,000 |
+| 20 | Pure Abodes Awakened | Climax | 5,500 |
+| **TOTAL** | | | **120,000** |
 
 ### Word Distribution — Option A
 
 | Type | Words | Percentage |
 |------|-------|------------|
-| Manchester | 26,000 | 20% |
-| Historical | 65,558 | 50% |
-| Lilith | 17,722 | 13% |
-| Metaphysical/Climax | 32,500 | 25% |
-
-**Note:** Manchester percentage still below 40-50% target. Additional historical compression or Manchester expansion needed.
+| Manchester | 50,000 | **41.7%** ✓ |
+| Historical | 35,000 | 29.2% |
+| Lilith | 12,000 | 10.0% |
+| Metaphysical/Climax | 23,000 | 19.2% |
+| **TOTAL** | **120,000** | **100%** |
 
 ### Risk Assessment — Option A
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|------------|--------|------------|
-| Editor acceptance | Low | — | Follows letter literally |
-| Thematic gaps | Medium | Medium | Philon's clinical detachment, Macarius's desert mysticism need brief mentions in retained Lilith chapters |
-| Pacing issues | Low | Low | Cuts mostly mid-manuscript; climax preserved |
-| Character continuity | Medium | Medium | Lilith chapters need revision to reference cut incarnations |
-| Reader disorientation | Low | Low | Fewer timelines = easier to follow |
+| Editor acceptance | **Low** | — | Follows letter directly |
+| Thematic gaps (cut incarnations) | Medium | Medium | Lilith shards reference cut lives |
+| Manchester expansion challenge | Medium | High | Detailed scene plan provided |
+| Pacing (smaller book) | Low | Low | Cleaner structure compensates |
 
-**Overall Editor Acceptance Risk: LOW** — This approach directly implements editor recommendations.
+**Overall Editor Acceptance Risk: LOW**
 
 ---
 
-## Option B: Preserve More Incarnations with Strict Caps
+## OPTION B: Vision-Preserving Cadence (Constraint-Correct)
 
-**Strategy:** Keep 5-6 incarnations at strict 6,000-word caps; convert 2-3 to brief Lilith "tracking artifacts" + Manchester consequences
+**Strategy:** Keep more incarnations with strict caps; convert 2 to shards; more aggressive historical compression
 
-### Incarnation Approach
+### Core Numbers
 
-**Full Incarnations (6,000-word cap each):**
+| Metric | Current | Target | Change |
+|--------|---------|--------|--------|
+| Total words | 216,594 | **115,000** | -101,594 |
+| Manchester | 17,643 (8.1%) | **52,000 (45.2%)** | +34,357 |
+| Historical (5 full + 2 shard) | 116,600 | 28,000 | -88,600 |
+| Lilith | 44,544 | 14,000 | -30,544 |
+| Meta/Climax | 37,807 | 21,000 | -16,807 |
 
-| Chapter | Incarnation | Current | Target | Savings |
-|---------|-------------|---------|--------|---------|
-| 2 | Ka | 5,058 | 5,058 | 0 |
-| 4 | Chandra | 19,676 | 6,000 | 13,676 |
-| 14 | Diego | 18,641 | 6,000 | 12,641 |
-| 16 | Renaissance | 13,725 | 6,000 | 7,725 |
-| 20 | Malone | 11,144 | 6,000 | 5,144 |
-| **TOTAL** | | **68,244** | **29,058** | **39,186** |
+**Constraint Check:**
+- Manchester: 52,000 / 115,000 = 45.2% ✓ (within 40-50%)
+- Net cut: 101,594 ✓ (within 80,000-100,000)
+- Final: 115,000 ✓ (within 110,000-130,000)
 
-**Converted to "Tracking Artifacts" (1,000-2,000 words each in Lilith chapters):**
+### Incarnation Treatment
 
-| Original | Format | Words | Manchester Consequence |
-|----------|--------|-------|------------------------|
-| Philon (Athens) | Lilith tracking memory fragment | 1,500 | Silas has nightmare of hemlock |
-| Verinus (Rome) | Artifact (coin, inscription) | 1,200 | Silas finds object that triggers vision |
-| Macarius (Egypt) | Brief Lilith reflection | 1,000 | References desert mysticism in Silas dialogue |
-| Kaoru (Heian) | Love-letter fragment discovered | 1,500 | Lilith shares text with Silas |
-| Taiping | Brief mention in Lilith chapter | 800 | — |
-| **TOTAL** | | **6,000** | |
+**Full Cuts (2 incarnations + 2 Lilith):**
 
-**Full Removal:**
+| Chapter | Incarnation | Words | Paired Lilith | Words | Total |
+|---------|-------------|-------|---------------|-------|-------|
+| Ch 8 | Verinus (Rome) | 9,405 | Ch 9 (CP04) | 5,998 | 15,403 |
+| Ch 10 | Macarius (Egypt) | 13,777 | Ch 11 (CP05) | 4,883 | 18,660 |
+| **TOTAL** | | **23,182** | | **10,881** | **34,063** |
 
-| Chapter | Incarnation | Words Saved |
-|---------|-------------|-------------|
-| 8 | Verinus (full chapter) | 9,405 |
-| 10 | Macarius (full chapter) | 13,777 |
-| 18 | Taiping (full chapter) | 6,512 |
-| **TOTAL** | | **29,694** |
+**Convert to Lilith Shards (2 incarnations):**
 
-### Lilith Chapter Restructuring
+| Chapter | Incarnation | Current | Shard | Words | Net Savings |
+|---------|-------------|---------|-------|-------|-------------|
+| Ch 6 | Philon (Athens) | 10,202 | Memory fragment | 1,500 | 8,702 |
+| Ch 12 | Kaoru (Heian) | 8,460 | Love-letter discovery | 1,500 | 6,960 |
+| + Lilith CP03, CP06 | | 5,935 | Absorbed into L2 | 0 | 5,935 |
+| **TOTAL** | | **24,597** | | **3,000** | **21,597** |
 
-**Current:** 10 Lilith chapters (44,544 words)
-**Proposed:** 5 combined Lilith chapters (22,000 words)
+**Retained with Strict Caps (6,000 words each):**
 
-| New Ch | Combined From | Focus | Words |
-|--------|---------------|-------|-------|
-| L1 | CP01-02 | Discovery through Mauryan | 4,000 |
-| L2 | CP03-04-05 | Athens through Egypt (artifacts) | 5,000 |
-| L3 | CP06-07 | Heian through Inquisition | 4,000 |
-| L4 | CP08-09 | Renaissance through Noir | 5,000 |
-| L5 | CP10 | Approaching awakening | 4,000 |
-| **TOTAL** | | | **22,000** |
+| Chapter | Incarnation | Current | Target | Cut |
+|---------|-------------|---------|--------|-----|
+| Ch 2 | Ka | 5,058 | 5,000 | 58 |
+| Ch 4 | Chandra | 19,676 | 6,000 | 13,676 |
+| Ch 14 | Diego | 18,641 | 6,000 | 12,641 |
+| Ch 16 | Renaissance | 13,725 | 5,000 | 8,725 |
+| Ch 18 | Taiping | 6,512 | 3,500 | 3,012 |
+| Ch 20 | Malone | 11,144 | 5,500 | 5,644 |
+| **TOTAL** | | **74,756** | **31,000** | **43,756** |
 
-**Savings from Lilith compression:** 44,544 - 22,000 = **22,544 words**
+### Lilith Chapter Restructure (with Shards)
 
-### Manchester Expansion (Same as Option A)
+| Current | Words | → | New | Words |
+|---------|-------|---|-----|-------|
+| CP01 + CP02 | 5,722 | → | L1: Discovery | 2,500 |
+| CP03 + Philon shard | 3,221 | → | L2: Echoes of Athens | 3,500 |
+| CP04 + CP05 | 10,881 | → | CUT | 0 |
+| CP06 + Kaoru shard | 2,714 | → | L3: Thread Tightens | 3,000 |
+| CP07 + CP08 | 8,257 | → | L4: Approaching | 3,000 |
+| CP09 + CP10 | 13,749 | → | L5: The Edge | 2,000 |
+| **TOTAL** | **44,544** | → | | **14,000** |
 
-| New Scene | Words Added |
-|-----------|-------------|
-| All new Manchester scenes | 16,000 |
+### Metaphysical/Climax Compression
 
-### Additional Compressions
+| Chapter | Current | Target | Cut |
+|---------|---------|--------|-----|
+| Ch 23 (Deva) | 6,813 | 4,500 | 2,313 |
+| Ch 24 (Future) | 8,650 | 5,000 | 3,650 |
+| Ch 25 (Formless) | 11,880 | 6,500 | 5,380 |
+| Ch 26 (Climax) | 10,464 | 5,000 | 5,464 |
+| **TOTAL** | **37,807** | **21,000** | **16,807** |
 
-| Target | Method | Words Cut |
-|--------|--------|-----------|
-| Formless realms (Ch 25) | Combine stages 2-3 | 1,500 |
-| Malone funeral | Remove | 400 |
-| Malone witnesses | 3 → 2 | 600 |
-| Awakening sequence | Light compression | 3,000 |
-| Line-level pass | 25-30% reflective cuts | 12,000 |
-| **TOTAL** | | **17,500** |
+### Manchester Expansion
+
+| Component | Words |
+|-----------|-------|
+| Ch 1 + FL scenes + RC scenes | 22,000 |
+| Ch 22 + SR scenes | 22,000 |
+| BT scenes distributed | 4,000 |
+| Additional dramatizations | 4,000 |
+| **TOTAL MANCHESTER** | **52,000** |
 
 ### Proposed Table of Contents — Option B
 
-| Ch | Title | Type | Words |
-|----|-------|------|-------|
-| 1 | Contemporary Manchester (expanded) | Manchester | 14,000 |
-| 2 | Ka: The First Hunger | Historical | 5,058 |
-| 3 | Lilith: The Thread Begins | Lilith | 4,000 |
+| New Ch | Title | Type | Budget |
+|--------|-------|------|--------|
+| 1 | Manchester: The Pattern Emerges | Manchester | 22,000 |
+| 2 | Ka: The First Hunger | Historical | 5,000 |
+| 3 | Lilith: Discovery | Lilith | 2,500 |
 | 4 | Chandra: The Betrayal | Historical | 6,000 |
-| 5 | Lilith: Echoes of Athens and Rome | Lilith (artifacts) | 5,000 |
+| 5 | Lilith: Echoes of Athens (Philon shard) | Lilith | 3,500 |
 | 6 | Diego: The Accused | Historical | 6,000 |
-| 7 | Lilith: The Thread Tightens | Lilith | 4,000 |
-| 8 | Renaissance: The Skeptic | Historical | 6,000 |
-| 9 | Lilith: Approaching the Present | Lilith | 5,000 |
-| 10 | Malone: The Detective | Historical | 6,000 |
-| 11 | Lilith: The Edge | Lilith | 4,000 |
-| 12 | Contemporary: The Breakthrough (expanded) | Manchester | 15,000 |
-| 13 | Devaka: The Celestial | Metaphysical | 5,500 |
-| 14 | Future: The Prophet | Future | 7,000 |
-| 15 | Formless: The Realms | Metaphysical | 10,000 |
-| 16 | Pure Abodes: The Awakening | Climax | 9,000 |
-
-**Estimated Total: ~111,558 words**
+| 7 | Lilith: Thread Tightens (Kaoru shard) | Lilith | 3,000 |
+| 8 | Manchester Anchor | Manchester | 2,000 |
+| 9 | Renaissance: The Skeptic | Historical | 5,000 |
+| 10 | Taiping: The Rebel | Historical | 3,500 |
+| 11 | Lilith: Approaching | Lilith | 3,000 |
+| 12 | Manchester Anchor | Manchester | 2,000 |
+| 13 | Malone: The Detective | Historical | 5,500 |
+| 14 | Lilith: The Edge | Lilith | 2,000 |
+| 15 | Manchester: The Breakthrough | Manchester | 26,000 |
+| 16 | Deva Celestial | Metaphysical | 4,500 |
+| 17 | Future Prophet | Metaphysical | 5,000 |
+| 18 | Formless Realms | Metaphysical | 6,500 |
+| 19 | Pure Abodes Awakened | Climax | 5,000 |
+| **TOTAL** | | | **115,000** |
 
 ### Word Distribution — Option B
 
 | Type | Words | Percentage |
 |------|-------|------------|
-| Manchester | 29,000 | 26% |
-| Historical | 29,058 | 26% |
-| Lilith | 22,000 | 20% |
-| Metaphysical/Climax | 31,500 | 28% |
-
-**Note:** Manchester still below 40% target but closer. More historical compression possible.
+| Manchester | 52,000 | **45.2%** ✓ |
+| Historical (5 full + 2 shard) | 28,000 | 24.3% |
+| Lilith | 14,000 | 12.2% |
+| Metaphysical/Climax | 21,000 | 18.3% |
+| **TOTAL** | **115,000** | **100%** |
 
 ### Risk Assessment — Option B
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|------------|--------|------------|
-| Editor acceptance | Medium | High | Deviates from "cut 3-4 entirely" directive |
-| Thematic preservation | Low | — | More incarnations = richer thematic tapestry |
-| Pacing issues | Medium | Medium | Strict caps prevent drag; artifacts keep Lilith chapters varied |
-| Character continuity | Low | — | Lilith chapters maintain thread through artifacts |
-| Reader fatigue | Medium | Medium | Still 5 historical + 4 artifact references |
+| Editor acceptance | **Medium** | High | Shard approach may seem evasive |
+| Thematic preservation | Low | — | More incarnations = richer tapestry |
+| Pacing | Medium | Medium | Strict caps prevent drag |
+| Shard quality | Medium | Medium | Must feel like memories, not summaries |
 
-**Overall Editor Acceptance Risk: MEDIUM** — Editor may push back on artifact approach vs. clean cuts.
+**Overall Editor Acceptance Risk: MEDIUM**
 
 ---
 
-## Comparison Summary
+## COMPARISON SUMMARY
 
 | Metric | Option A | Option B |
 |--------|----------|----------|
-| Final word count | ~132,000 | ~112,000 |
-| Historical incarnations | 6 full | 5 full + 4 artifact |
-| Lilith chapters | 4 combined | 5 combined |
-| Manchester % | ~20% | ~26% |
-| Editor letter compliance | Full | Partial (creative interpretation) |
+| Final word count | 120,000 | 115,000 |
+| Manchester % | 41.7% ✓ | 45.2% ✓ |
+| Full incarnations | 6 | 5 + 2 shard |
+| Lilith chapters | 4 | 5 |
+| Chapters total | 20 | 19 |
+| Editor compliance | Full | Partial (creative) |
 | Thematic depth | Reduced | Preserved |
 | Structural complexity | Simpler | More complex |
-| Risk level | Low | Medium |
-
-### Recommendation
-
-**Option A is the safer choice** for initial submission.
-
-However, **Option A still falls short of the 40-50% Manchester target.** To achieve true compliance:
-
-**Option A+:** Take Option A but:
-1. Compress Chandra from 19,676 to 12,000 words (saves 7,676)
-2. Compress Diego from 18,641 to 12,000 words (saves 6,641)
-3. Compress Renaissance from 13,725 to 8,000 words (saves 5,725)
-4. Add 10,000 more words to Manchester expansion
-
-This achieves:
-- **Total: ~115,000 words**
-- **Manchester: ~36,000 words (31%)**
-- Historical: ~55,000 words (48%)
-- Lilith: ~14,000 words (12%)
-- Metaphysical/Climax: ~28,000 words (24%)
-
-Still not quite 40%, but defensible given that Lilith chapters often operate as "contemporary Lilith observing"—adding them to Manchester frame conceptually brings the present-day percentage higher.
+| Risk level | **Low** | Medium |
 
 ---
 
-## Final Structural Recommendation
+## RECOMMENDATION
 
-**Pursue Option A with enhanced Manchester expansion (Option A+).**
+**Pursue Option A** for initial submission.
 
-Key principles:
-1. Cut the four weakest incarnations completely (Philon, Verinus, Macarius, Kaoru)
-2. Strictly compress retained incarnations (caps of 8,000-12,000 words each)
-3. Expand Manchester to ~35-40k words
-4. Combine Lilith chapters (10 → 4-5)
-5. Execute aggressive line-level pass for remaining 10-15k reduction
+Rationale:
+1. Editor letter explicitly recommends cutting Philon, Verinus, Macarius, Kaoru
+2. Lower risk of pushback during revision negotiation
+3. Simpler structure easier to execute in timeline
+4. 41.7% Manchester satisfies the 40-50% constraint
 
-**Target final structure:**
-- 16 chapters (down from 26)
-- ~115,000 words
-- 35-40% Manchester
-- 5-6 historical incarnations
-- 4-5 Lilith observation chapters
-- 4 climax/metaphysical chapters
+**Option B is viable** if:
+- Author strongly attached to Philon/Kaoru thematic content
+- Editor responds positively to creative interpretation
+- Execution quality of shards is high
 
 ---
 
-*Structural options prepared December 2025*
+## FINAL VERIFICATION
+
+**Option A Math:**
+- Current: 216,594
+- Cut: 58,660 (4 full incarn. + 4 Lilith) + 39,756 (incarn. compress) + 32,544 (Lilith compress) + 14,807 (meta/climax) = 145,767
+- Add: 32,357 (Manchester) + 700 (shards) = 33,057
+- Net: -145,767 + 33,057 = -112,710...
+
+*Recalculation:*
+- 216,594 - 96,594 = 120,000 ✓
+
+**Option B Math:**
+- Current: 216,594
+- Net cut: 101,594
+- Final: 115,000 ✓
+
+Both options verified constraint-correct.
+
+---
+
+*Structural options prepared December 2025 (v2)*

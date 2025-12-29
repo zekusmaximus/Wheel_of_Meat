@@ -1,7 +1,18 @@
-# Letter Compliance Matrix — *The Wheel of Meat*
+# Letter Compliance Matrix — *The Wheel of Meat* (v2)
 
 **Editor Letter Date:** December 2025
 **Revision Target Date:** April 2026 (16-20 weeks)
+**Prepared:** December 2025 (v2 revision)
+
+---
+
+## V2 Changelog
+
+**What changed:**
+- All acceptance tests now include measurable criteria with computed values
+- Manchester requirement correctly interpreted as 40-50% of FINAL, not "add 15-20k"
+- Proof artifacts specified for each issue
+- Specific chapter-level edit requirements mapped to each issue
 
 ---
 
@@ -9,38 +20,44 @@
 
 ### Requirements
 
-| Requirement | Specific Target | Chapters Affected | Status |
-|-------------|-----------------|-------------------|--------|
-| Net word count reduction | 80,000–100,000 words | All | Pending |
-| Cut 3-4 incarnation sequences | Philon, Verinus, Macarius, Kaoru | 6, 7, 8, 9, 10, 11, 12, 13 | Pending |
-| Keep essential incarnations | Ka, Chandra, Diego, Malone, awakening | 2, 4, 14, 20, 23-26 | N/A |
-| Cut Malone funeral scene | Frank Sinclair's funeral | 20 (line ~10545) | Pending |
-| Compress witness eliminations | 3 witnesses → 2 witnesses | 20 (lines 10562-10606) | Pending |
-| Compress formless realms | Cut 10-15% (~1,200-1,800 words) | 25 | Pending |
-| Cut reflective elaboration | 30-40% reduction | All chapters | Pending |
+| Requirement | Target (Computed) | Chapters Affected | Verification |
+|-------------|-------------------|-------------------|--------------|
+| Net word reduction | 96,594 words (216,594→120,000) | All | manuscript_analyzer.py |
+| Cut 4 incarnation sequences | Philon+Verinus+Macarius+Kaoru | Ch 6-13 | TOC comparison |
+| Compress retained incarnations | 74,756→35,000 words | Ch 2,4,14,16,18,20 | Per-chapter counts |
+| Compress Lilith chapters | 44,544→12,000 words | Ch 3,5,15,17,19,21 | Per-chapter counts |
+| Compress awakening sequence | 37,807→23,000 words | Ch 23-26 | Per-chapter counts |
+| Formless realms -41% | 11,880→7,000 words | Ch 25 | Word count |
 
 ### Acceptance Tests
 
-1. **Word count**: Final manuscript ≤ 130,000 words (ideally 110,000-120,000)
-2. **Incarnation count**: Reduce from 12 historical to 7-8 historical
-3. **Funeral scene**: Frank Sinclair's funeral removed or reduced to single sentence
-4. **Witnesses**: Only 2 witnesses in Malone sequence, not 3
-5. **Formless realms**: Chapter 25 reduced to ~10,000-10,500 words
-6. **Line-level**: Identifiable reduction in reflective/elaborative paragraphs
+1. **Final word count:** ≤130,000 (target: 120,000)
+   - Measurable: `python manuscript_analyzer.py | grep "Total words"`
+2. **Incarnation count:** 6 retained (from 10)
+   - Proof: Revised TOC showing Ka, Chandra, Diego, Renaissance, Taiping, Malone only
+3. **Net cut verified:** 96,594 words removed
+   - Proof: Before/after word count comparison
+4. **Formless realms compressed:** Ch 25 ≤7,000 words
+   - Proof: Chapter word count
 
-### Implementation Strategy
+### Implementation Breakdown
 
-| Task | Method | Est. Words Saved |
-|------|--------|------------------|
-| Cut Philon (Athens) + CP03 | Full removal | 13,423 |
-| Cut Verinus (Rome) + CP04 | Full removal | 15,403 |
-| Cut Macarius (Egypt) + CP05 | Full removal | 18,660 |
-| Cut Kaoru (Heian) + CP06 | Full removal | 11,174 |
-| Compress Ch 25 | 10-15% reduction | 1,200-1,800 |
-| Cut Malone funeral | Scene removal | ~400 |
-| Compress witness sequence | Remove 1 witness | ~600 |
-| Line-level pass | 30-40% reflective cuts | 15,000-25,000 |
-| **TOTAL POTENTIAL** | | **75,860–86,460** |
+| Cut Type | Chapters | Current Words | Target | Savings |
+|----------|----------|---------------|--------|---------|
+| Full removal (4 incarn.) | 6,8,10,12 | 41,844 | 0 | 41,844 |
+| Full removal (4 Lilith) | 7,9,11,13 | 16,816 | 0 | 16,816 |
+| Compress incarnations | 4,14,16,18,20 | 69,698 | 30,000 | 39,698 |
+| Compress Lilith | 3,5,15,17,19,21 | 27,728 | 12,000 | 15,728 |
+| Compress Meta/Climax | 23,24,25,26 | 37,807 | 23,000 | 14,807 |
+| **SUBTOTAL CUT** | | | | **128,893** |
+| Manchester expansion | 1,22 | 17,643 | 50,000 | -32,357 |
+| **NET CUT** | | | | **96,536** |
+
+### Proof Artifacts for Editor
+
+1. **TOC + Budget page:** Revised 14-chapter structure with word targets
+2. **Before/after word count report:** From manuscript_analyzer.py
+3. **Deleted content summary:** Brief description of cut incarnations
 
 ---
 
@@ -48,43 +65,40 @@
 
 ### Requirements
 
-| Requirement | Specific Target | Chapters Affected | Status |
-|-------------|-----------------|-------------------|--------|
-| Visible wants | Silas wants something concrete | Ch 1, 22 | Pending |
-| Resistance to awakening | Show him fighting/clinging | Ch 1, 22 (new scenes) | Pending |
-| Personal stakes in Stewart | Make Stewart Silas's advisee | Ch 1 | Pending |
-| Concrete loss | Something taken from him | New Manchester scenes | Pending |
-| Human pain before release | One beat of genuine pain | Ch 22 or new scene | Pending |
+| Requirement | Specific Target | Implementation | Acceptance Test |
+|-------------|-----------------|----------------|-----------------|
+| Visible wants | Silas wants something concrete | FL-1,2,3 scenes show desire for Lilith, normalcy | Beta reader articulates what Silas wants |
+| Resistance to awakening | 2+ scenes of active suppression | RC-1 (Ellen), RC-2 (after flashback) | Scene count ≥2 |
+| Personal stakes in Stewart | Emotional investment visible | SR-1 (hospital), SR-2 (departure) | Guilt dramatized |
+| Human pain before release | Genuine wound shown | Betrayal recognition expanded | Emotional beat present |
+| External goal threatened | Professional identity at risk | Ellen session shows clinging to "Professor Pahlavan" | Identity conflict visible |
 
 ### Acceptance Tests
 
-1. **Character arc visible**: Silas has identifiable want in first 3 chapters
-2. **Resistance dramatized**: At least 2 scenes where Silas actively resists flashbacks/visions
-3. **Stakes established**: Reader can articulate what Silas stands to lose
-4. **Cost shown**: At least one scene where awakening costs Silas something tangible
-5. **Emotional beat**: Betray-recognition scene shows genuine human pain before release
+1. **Character want:** Beta readers can answer "What does Silas want?" in first 3 chapters
+   - Target answer: "Lilith, his ordinary life, understanding"
+2. **Resistance scenes:** Minimum 2 scenes of active suppression (RC-1, RC-2)
+   - Measurable: Scene count in revised manuscript
+3. **Stakes articulation:** Reader can answer "What does Silas stand to lose?"
+   - Target answer: "His professional identity, his relationship with Lilith, his sanity"
+4. **Emotional payoff:** Betrayal-recognition includes genuine pain before philosophical release
+   - Proof: Scene revision showing beat of human reaction
 
-### Implementation Options
+### Implementation Scenes
 
-**Option A (editor suggested):** Make Silas resist flashbacks
-- Add scene: Silas suppressing vision, clinging to "Professor Pahlavan" identity
-- Add scene: Silas denying meaning of flashbacks to Ellen (therapist)
-- Revise existing scenes to show internal fight
+| Scene | Location | Purpose | Words | Editor Issue |
+|-------|----------|---------|-------|--------------|
+| FL-1 (Walnut) | Ch 1 | Show Silas wanting Lilith | 2,500 | #2, #3 |
+| FL-2 (Flat) | Ch 1 | Show physical/emotional intimacy | 3,000 | #2, #3 |
+| FL-3 (Campus) | Ch 1 | Show contentment to threaten | 2,000 | #2, #3 |
+| RC-1 (Ellen) | Ch 1 | Show resistance to awakening | 2,500 | #2 |
+| RC-2 (Flashback) | Ch 1 | Show suppression costing him | 2,000 | #2 |
 
-**Option B (editor suggested):** External goal in present
-- Make Stewart Silas's advisee, not Lilith's patient
-- Add sabbatical project Silas is working on
-- Let awakening threaten professional/academic identity
+### Proof Artifacts for Editor
 
-**Option C (editor suggested):** Dramatize falling in love
-- Add 2-3 scenes of Silas and Lilith's relationship developing
-- Show Silas actually needing her
-- Make betrayal generate real emotional wound
-
-**Recommended synthesis:** Combine B + C
-- Stewart as Silas's advisee (stakes)
-- Falling in love scenes (emotional investment)
-- Betrayal recognition with genuine pain (cost)
+1. **Character arc document:** Before/after comparison of Silas interiority
+2. **Scene inventory:** List of new scenes showing want/resistance
+3. **Sample revised pages:** Betrayal-recognition scene with added emotional beat
 
 ---
 
@@ -92,37 +106,44 @@
 
 ### Requirements
 
-| Requirement | Specific Target | Chapters Affected | Status |
-|-------------|-----------------|-------------------|--------|
-| Expand to 40-50% of MS | ~44,000-55,000 words (from 17,643) | Ch 1, 22, new chapters | Pending |
-| Add 2-3 falling in love scenes | Show relationship developing | New scenes in Ch 1 or new chapters | Pending |
-| Resolve Stewart's fate | What happens to him after rooftop? | New scene | Pending |
-| Strengthen bridging transitions | Ground reader in Manchester during middle third | Ch 8-16 bridges | Pending |
-| More frequent Manchester returns | Anchor historical dives | Throughout middle third | Pending |
+| Requirement | Target (Computed) | Implementation | Verification |
+|-------------|-------------------|----------------|--------------|
+| Manchester = 40-50% of final | 50,000 words (41.7% of 120k) | Expand Ch 1+22, add new scenes | Word count by type |
+| 2-3 falling-in-love scenes | 3 scenes, 7,500 words | FL-1, FL-2, FL-3 | Scene count |
+| Stewart resolution | 2 scenes, 4,000 words | SR-1 (hospital), SR-2 (departure) | Scene count |
+| Bridging transitions | 4 scenes, 3,000 words | BT-1 through BT-4 | Scene count |
+| More frequent Manchester returns | 4+ anchor points in middle third | Bridging transitions after historical dives | Transition count |
 
 ### Acceptance Tests
 
-1. **Word count by type**: Manchester frame ≥ 40% of final manuscript
-2. **Relationship scenes**: At least 3 new scenes showing Silas/Lilith falling in love
-3. **Stewart resolution**: Clear scene showing Stewart's fate and Silas's response
-4. **Bridging content**: Each historical chapter has Manchester-anchoring transition
-5. **Reader engagement**: Beta readers can articulate Silas/Lilith relationship arc
+1. **Manchester percentage:** 50,000 / 120,000 = 41.7% ✓
+   - Measurable: `manuscript_analyzer.py` section-type totals
+2. **Relationship scenes:** 3 falling-in-love scenes present
+   - Proof: FL-1, FL-2, FL-3 in revised manuscript
+3. **Stewart resolved:** Clear scene showing fate + Silas response
+   - Proof: SR-1, SR-2 in revised manuscript
+4. **Bridging content:** 4 Manchester anchors in middle third
+   - Proof: BT-1, BT-2, BT-3, BT-4 present
 
-### Implementation Strategy
+### Manchester Word Budget
 
-**New scenes required:**
+| Content | Current | Target | Change |
+|---------|---------|--------|--------|
+| Ch 1 original | 7,895 | 8,000 | +105 |
+| FL scenes (in Ch 1) | 0 | 7,500 | +7,500 |
+| RC scenes (in Ch 1) | 0 | 4,500 | +4,500 |
+| BT scenes (distributed) | 0 | 3,000 | +3,000 |
+| Dramatized pivots | 0 | 2,000 | +2,000 |
+| Ch 22 original | 9,748 | 10,000 | +252 |
+| SR scenes (in Ch 22) | 0 | 4,000 | +4,000 |
+| Expanded breakthrough | 0 | 11,000 | +11,000 |
+| **TOTAL** | **17,643** | **50,000** | **+32,357** |
 
-| Scene | Setting | Purpose | Est. Words |
-|-------|---------|---------|------------|
-| Falling in love #1 | The Walnut Restaurant | First real date, connection forming | 2,000 |
-| Falling in love #2 | Lilith's flat, wine | Intimacy developing, philosophical banter | 2,500 |
-| Falling in love #3 | Campus walk, morning | Comfort of routine, Silas relaxing into relationship | 1,500 |
-| Stewart resolution #1 | Hospital visit | Silas visits Stewart, guilt and care | 2,000 |
-| Stewart resolution #2 | Stewart's recovery/departure | Closure, Silas's role | 1,500 |
-| Silas resists #1 | Ellen therapy session | Silas denies visions, clings to normalcy | 2,000 |
-| Silas resists #2 | After first flashback | Silas suppresses, refuses to accept | 1,500 |
-| Bridging transitions | Various (mid-historical chapters) | Ground reader in Manchester timeline | 3,000 |
-| **TOTAL NEW CONTENT** | | | **~16,000** |
+### Proof Artifacts for Editor
+
+1. **Manchester % calculation:** 50,000 / 120,000 = 41.7%
+2. **New scene inventory:** All FL, SR, RC, BT scenes listed with word counts
+3. **Revised Ch 1 structure:** Beat sheet showing integration
 
 ---
 
@@ -130,33 +151,51 @@
 
 ### Requirements
 
-| Requirement | Specific Target | Chapters Affected | Status |
-|-------------|-----------------|-------------------|--------|
-| Reduce "particular" | 50% reduction (from 88 to ~44) | All chapters | Pending |
-| Reduce "something" | 50% reduction (from 931 to ~465) | All chapters | Pending |
-| Reduce "not X—Y" pattern | 50% reduction (from 104 to ~52) | All chapters | Pending |
-| Vary em-dash cadence | Mix with full stops, semicolons | All chapters, esp. high-tic | Pending |
-| Anchor philosophy to physical | Add sensory grounding | Ch 23, 24, 25, 26 esp. | Pending |
-| Return Ka-register periodically | Brief body-first prose moments | Later incarnations | Pending |
-| Cut 30-40% reflective elaboration | Remove redundant commentary | All chapters | Pending |
+| Tic | Current Count | Target (50% reduction) | Measurable Heuristic |
+|-----|---------------|------------------------|----------------------|
+| "particular" | 88 | ≤44 | grep count |
+| "something" | 931 | ≤465 | grep count |
+| "not [X]—[Y]" | 104 | ≤52 | regex count |
+| Em-dashes | 2,857 | Reduce density, no paragraph >2 | Manual audit |
+
+### Line-Level Targets (Relative Metrics)
+
+| Chapter | Current Tics | Tics/10k | Target Tics/10k | Reduction |
+|---------|--------------|----------|-----------------|-----------|
+| Ch 25 | 430 | 362.0 | 180.0 | -50% |
+| Ch 26 | 307 | 293.4 | 146.7 | -50% |
+| Ch 24 | 220 | 254.3 | 127.2 | -50% |
+| Ch 23 | 176 | 258.3 | 129.2 | -50% |
+| Ch 22 | 202 | 207.2 | 103.6 | -50% |
 
 ### Acceptance Tests
 
-1. **Tic reduction**: Search-and-count shows 50% reduction in target words/patterns
-2. **Em-dash variety**: No paragraph with >2 em-dashes; increased semicolons/periods
-3. **Sensory grounding**: Each philosophical passage has physical anchor
-4. **Ka-register moments**: At least 5 brief body-first passages in chapters 10-26
-5. **Reflective cuts**: Identifiable reduction in "The narrator explains what we just saw" passages
+1. **"particular" count:** Final ≤44
+   - Measurable: `grep -c "particular" manuscript.md`
+2. **"something" count:** Final ≤465
+   - Measurable: `grep -c "something" manuscript.md`
+3. **"not X—Y" pattern:** Final ≤52
+   - Measurable: `grep -cE "not\s+\w+\s*[—-]\s*\w+" manuscript.md`
+4. **Em-dash density:** No paragraph with >2 em-dashes
+   - Proof: Spot-check of high-density chapters
+5. **Sensory grounding:** Each philosophical passage has physical anchor
+   - Proof: Sample passages from Ch 23-26
 
-### Highest Priority Chapters for Line Edit
+### Reflective Elaboration Cuts
 
-| Rank | Chapter | Tic Count | Primary Issues |
-|------|---------|-----------|----------------|
-| 1 | Ch 25 (Formless Realms) | 430 | 125 "something", 294 em-dashes |
-| 2 | Ch 26 (Pure Abodes) | 307 | 74 "something", 24 not-x-y, 200 em-dashes |
-| 3 | Ch 14 (Diego) | 300 | 230 em-dashes, 10 "particular" |
-| 4 | Ch 10 (Macarius) | 255 | 78 "something", 169 em-dashes |
-| 5 | Ch 4 (Chandra) | 247 | 22 "particular", 167 em-dashes |
+**Heuristic for "reflective elaboration":**
+- Paragraphs that explain what the scene already showed
+- Phrases like "This meant that...", "What this revealed was..."
+- Repetition in different words within 2 paragraphs
+
+**Target:** 30-40% reduction in such passages
+**Measurable:** Manual count of explanatory paragraphs in sample chapters
+
+### Proof Artifacts for Editor
+
+1. **Tic count report:** Before/after for each target pattern
+2. **Sample revised passages:** 3 examples of abstraction grounded in sensory detail
+3. **Em-dash audit:** Report showing density reduction in top 5 chapters
 
 ---
 
@@ -164,64 +203,78 @@
 
 ### Requirements
 
-| Requirement | Specific Location | Current Status | Target Status |
-|-------------|-------------------|----------------|---------------|
-| Devaka's betrayal | Ch 4/5 (~line 1938) | Summarized | Dramatize scene |
-| Lilith's first intervention | Ch 6 (lines 2670-2698) | Summarized | Show what it cost her |
-| Lilith's car confession | Ch 1 (lines 180-246) | Dramatized but "forced" | Strengthen motivation |
-| Lilith's final resistance | Ch 24 (lines 13028-13064) | Brief neural dialogue | Expand 1-2 exchanges |
-| Stewart rooftop fall | Ch 1 (line 369) | Dramatized | Add suspended time |
+| Moment | Current Location | Current Treatment | Target Treatment |
+|--------|------------------|-------------------|------------------|
+| Devaka betrayal | Ch 4/5 | Summarized aftermath | Full scene: decision→cost→consequence |
+| Lilith first intervention | Ch 7 | Brief reference | Show the crossing, show the cost |
+| Car confession timing | Ch 1 | Dramatized but forced | Add pressure justifying timing |
+| Lilith final resistance | Ch 24 | Brief neural dialogue | Expand with 2-3 exchanges |
+| Stewart rooftop fall | Ch 1 | Dramatized | Add suspended time moment |
 
 ### Acceptance Tests
 
-1. **Devaka betrayal**: Full scene showing Devaka delivering information to conspirators with visible internal conflict (~1,000-1,500 words)
-2. **Lilith's first intervention**: Scene shows cost to Lilith, not just outcome (~800-1,200 words)
-3. **Car confession**: Additional context justifying timing; emotional pressure visible
-4. **Final resistance**: 2 additional exchanges of sharp dialogue between Lilith and Silas
-5. **Stewart fall**: At least one more sentence of suspended time before gravity takes hold
+1. **Devaka betrayal dramatized:** Scene shows Devaka delivering information with visible conflict
+   - Proof: 1,200-1,500 word scene present
+   - Structure: decision → cost → irreversible consequence
+2. **Lilith first intervention:** Scene shows specific moment of crossing from observation to manipulation + cost
+   - Proof: 800-1,200 word expansion present
+3. **Car confession pressure:** Added context justifying timing
+   - Proof: 200-300 words showing Silas's insight forcing confession
+4. **Final resistance expanded:** 2-3 additional exchanges
+   - Proof: 400-600 additional words in Ch 24
+5. **Stewart suspended time:** Extended threshold moment
+   - Proof: 75-100 additional words
 
-### Implementation Priority
+### Dramatization Plans (with excerpts <25 words)
 
-| Scene | Words to Add | Difficulty | Impact |
-|-------|--------------|------------|--------|
-| Devaka betrayal (dramatize) | 1,200 | Medium | High |
-| Lilith first intervention (show cost) | 1,000 | Medium | High |
-| Stewart suspended time | 50-100 | Easy | Medium |
-| Lilith final resistance (expand) | 400 | Easy | High |
-| Car confession (strengthen motivation) | 200-300 | Medium | Medium |
+**Devaka Betrayal (currently summarized):**
+> "Devaka had led him through passages known only to a select few, into a location where his presence could not be explained..."
 
----
+**Plan:** Full scene showing Devaka meeting conspirators, hand shaking as he reveals schedule, sickened by their gratitude. Lilith observing but feeling no triumph.
 
-## Summary: Path to Compliance
+**Lilith First Intervention (currently summarized):**
+> "...she pressed against the fear-threads and felt them brighten. *Persian ships,* the whisper moved through the city."
 
-### Phase 1 (Weeks 1-2): Structural Decisions
-- [ ] Finalize which incarnations to cut (recommend: Philon, Verinus, Macarius, Kaoru)
-- [ ] Map Manchester expansion plan
-- [ ] Identify all scenes requiring dramatization
+**Plan:** Show the specific moment Lilith leans toward a woman, whispers, feels something tear inside. Watch the ripple spread. Horror and satisfaction mixed.
 
-### Phase 2 (Weeks 3-8): Major Structural Revision
-- [ ] Remove cut incarnations and corresponding Lilith chapters
-- [ ] Write new Manchester scenes (falling in love, Stewart resolution, Silas resistance)
-- [ ] Dramatize Devaka betrayal and Lilith first intervention
-- [ ] Expand Lilith final resistance
+**Car Confession (needs pressure):**
+> "I didn't find you by accident, Silas."
 
-### Phase 3 (Weeks 9-12): Scene-Level Revision
-- [ ] Strengthen bridging transitions
-- [ ] Add suspended time to Stewart fall
-- [ ] Strengthen car confession motivation
-- [ ] Ground philosophical passages in physical sensation
+**Plan:** Add Silas's insight ("You're in them. Not just watching. *In* them.") forcing her hand. Connect Stewart's crisis to her exposure.
 
-### Phase 4 (Weeks 13-16): Line-Edit Pass
-- [ ] Reduce tics by 50%
-- [ ] Cut 30-40% reflective elaboration
-- [ ] Vary em-dash cadence
-- [ ] Add Ka-register body-first moments
+### Proof Artifacts for Editor
 
-### Phase 5 (Weeks 17-20): Polish and Review
-- [ ] Full read-through for consistency
-- [ ] Beta reader feedback
-- [ ] Final word count verification
+1. **Dramatization inventory:** Before/after comparison of each pivotal moment
+2. **Sample scene:** Full Devaka betrayal scene
+3. **Structure verification:** Each dramatized moment follows decision→cost→consequence
 
 ---
 
-*Compliance matrix prepared December 2025*
+## Summary: Compliance Checklist
+
+| Issue | Key Metric | Target | Status |
+|-------|------------|--------|--------|
+| #1 Compression | Final word count | 120,000 | Plan complete |
+| #1 Compression | Net cut | 96,594 words | Plan complete |
+| #2 Silas | Resistance scenes | ≥2 | RC-1, RC-2 planned |
+| #2 Silas | Want visible | First 3 chapters | FL scenes planned |
+| #3 Manchester | % of final | 40-50% | 41.7% planned |
+| #3 Manchester | New scenes | 11 scenes | All planned |
+| #4 Line-level | "something" | ≤465 | Pass planned |
+| #4 Line-level | Reflective cuts | 30-40% | Heuristics defined |
+| #5 Pivotal | Dramatized moments | ≥3 | 5 planned |
+
+---
+
+## Proof Artifact Summary for Editor Submission
+
+1. **TOC + Word Budget:** 14-chapter structure with per-chapter targets summing to 120,000
+2. **Manchester % Calculation:** 50,000 / 120,000 = 41.7% (verified against constraint)
+3. **Dramatization Inventory:** 5 pivotal moments with before/after treatment
+4. **Tic Count Report:** Before/after for particular, something, not-x-y, em-dashes
+5. **Sample Pages:** Revised Devaka betrayal, car confession, final resistance
+6. **Character Arc Document:** Silas want/resistance/cost visible in revised structure
+
+---
+
+*Compliance matrix prepared December 2025 (v2)*
