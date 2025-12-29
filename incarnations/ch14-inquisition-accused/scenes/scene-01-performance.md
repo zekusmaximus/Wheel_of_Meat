@@ -8,7 +8,7 @@ Diego pressed the pestle against the mortar's curve. The powder released its sce
 
 A shadow crossed the threshold.
 
-"Physician." Don Cristóbal's voice carried the particular warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old Christian merchant and New Christian tradesman. "I trust you have prepared the remedy."
+"Physician." Don Cristóbal's voice carried the warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old Christian merchant and New Christian tradesman. "I trust you have prepared the remedy."
 
 "As always, Don Cristóbal." Diego set down the pestle and touched his fingers together in sequence once more—index, middle, ring, smallest—before reaching for a cloth to wrap the prepared compound. The gesture was automatic, a physician's habit of checking his steadiness before handling medicines. Or that was how he explained it to himself. "The formula that has served you well these past months. Mix one measure in warmed wine, morning and evening. The inflammation should ease within the week."
 
@@ -36,7 +36,7 @@ His wife Inés appeared in the doorway instead, her face pale beneath her veil.
 
 "Diego." She kept her voice low. "Tomás's son has been arrested."
 
-The room did not spin. The walls did not close. Diego's hands touched the table's edge and remained there, steady as always, while something beneath his ribs—something he had learned not to name—went very still.
+The room did not spin. The walls did not close. Diego's hands touched the table's edge and remained there, steady as always, while the unnamed thing beneath his ribs went very still.
 
 "What charges?"
 
@@ -50,11 +50,11 @@ She did not need to finish. If they questioned Rafael, they would ask about his 
 
 Something cold moved through Diego's chest—not fear, because fear was not permitted, but a cousin to fear, a shadow-feeling he could not quite dismiss. Sor Catalina. The beata known throughout Toledo for her visions and her counsel. A holy woman sought by nobles and peasants alike, who spoke with the certainty of one who believed herself an instrument of God's will.
 
-Diego had seen her in the streets. Dark hair beneath her veil, a particular stillness in how she moved, eyes that seemed to look through the surface of things to some truth beneath. He had never liked her. Could not say why. The dislike had no rational source—she had never spoken to him, never acknowledged his existence. But something about her face made his skin tighten, made the breath catch in his throat as though he stood at the edge of some precipice he could not see.
+Diego had seen her in the streets. Dark hair beneath her veil, a stillness in how she moved, eyes that seemed to look through the surface of things to some truth beneath. He had never liked her. Could not say why. The dislike had no rational source—she had never spoken to him, never acknowledged his existence. But her face made his skin tighten, made the breath catch in his throat as though he stood at the edge of some precipice he could not see.
 
 "What would Sor Catalina want with Tomás?"
 
-"She counsels those in distress." Inés's voice carried an edge Diego recognized—the particular wariness that came from living always on guard, always watching, always aware that survival meant reading the spaces between words. "They say she helps people confess their burdens. That the Holy Office values her guidance."
+"She counsels those in distress." Inés's voice carried an edge Diego recognized—the wariness that came from living always on guard, always watching, always aware that survival meant reading the spaces between words. "They say she helps people confess their burdens. That the Holy Office values her guidance."
 
 The brazier hissed. A log settled, sending up a small shower of sparks that died before they reached the floor.
 
