@@ -2,17 +2,17 @@ The walls had moved closer while she wasn't looking. Her flat—still arranged, 
 
 Week six. Or seven. The counting had become imprecise.
 
-Lilith carried the cup to the sink and the motion was also Sor Catalina moving through the converso quarter—grey habit against grey walls, certainty against uncertainty, the particular stillness of a holy woman whose visions required no justification. She felt the weight of that habit across her shoulders, felt the smooth grain of rosary beads against her palm, felt the conviction that had filled her centuries ago: *confession cleanses. The Holy Office is mercy made visible.*
+Lilith carried the cup to the sink and the motion was also Sor Catalina moving through the converso quarter—grey habit against grey walls, certainty against uncertainty, the stillness of a holy woman whose visions required no justification. She felt the weight of that habit across her shoulders, felt the smooth grain of rosary beads against her palm, felt the conviction that had filled her centuries ago: *confession cleanses. The Holy Office is mercy made visible.*
 
-The conviction arrived as memory. As something she had genuinely believed in that body, in that time, with that name she had answered to.
+The conviction arrived as memory. As genuine belief in that body, in that time, with that name she had answered to.
 
 She set the cup in the sink. Water ran cold over ceramic.
 
-In Toledo, evening gathered in the streets like accusation. Windows watching windows. Neighbours cataloguing neighbours. The particular architecture of suspicion that made every gesture significant, every silence evidence, every prayer potentially the wrong prayer spoken to the wrong god. Diego de Lucena walked through these streets—she could feel him walking, feel his medical bag against his hip, feel the performance of safety he had practiced for forty-three years—and she felt something else too.
+In Toledo, evening gathered in the streets like accusation. Windows watching windows. Neighbours cataloguing neighbours. The architecture of suspicion that made every gesture significant, every silence evidence, every prayer potentially the wrong prayer spoken to the wrong god. Diego de Lucena walked through these streets—she could feel him walking, feel his medical bag against his hip, feel the performance of safety he had practiced for forty-three years—and she felt recognition.
 
 His body had recoiled from her.
 
-Not Diego—not exactly. The man whose thread she tracked. He had felt Sor Catalina's presence and recoiled without knowing why. Something in her face, in her stillness, in the way her eyes looked through surfaces to the secrets beneath.
+Diego—the man whose thread she tracked. He had felt Sor Catalina's presence and recoiled without knowing why. Her face, her stillness, the way her eyes looked through surfaces to the secrets beneath.
 
 *My face*, she thought.
 
