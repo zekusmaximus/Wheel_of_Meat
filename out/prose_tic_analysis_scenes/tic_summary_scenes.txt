@@ -22,12 +22,12 @@ CHAPTER 3: Lilith's Watch I
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-discovery                            732      3     4.10
-scene-02-hoarding                             916      4     4.37
-scene-03-ka-death                             565      3     5.31
+scene-01-discovery                            730      0     0.00
+scene-02-hoarding                             913      0     0.00
+scene-03-ka-death                             563      0     0.00
 scene-04-thread-forward                       759      2     2.64
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               2,972     12     4.04
+CHAPTER TOTAL                               2,965      2     0.67
 
 CHAPTER 4: The Mauryan Empire
 ------------------------------------------------------------------------------------------
@@ -35,32 +35,32 @@ Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-pillar-ceremony                    2,648      6     2.27
 scene-02-assignment                         1,566      2     1.28
-scene-03-warehouse-inspection               2,244      4     1.78
-scene-04-interrogation                      2,099      4     1.91
-scene-05-covert-investigation               2,538      6     2.36
+scene-03-warehouse-inspection               2,240      0     0.00
+scene-04-interrogation                      2,095      0     0.00
+scene-05-covert-investigation               2,522      0     0.00
 scene-06-temple-betrayal                    1,853      5     2.70
 scene-07-the-fire                           2,869     10     3.49
 scene-08-ledgers-reckoning                  3,396     14     4.12
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              19,213     51     2.65
+CHAPTER TOTAL                              19,189     37     1.93
 
 CHAPTER 5: Lilith's Watch II
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-ledger-bleeds                        629      6     9.54
-scene-02-intervention                         774      7     9.04
-scene-03-watching                             627      3     4.78
-scene-04-rationalization                      568      4     7.04
+scene-01-ledger-bleeds                        622      0     0.00
+scene-02-intervention                         759      0     0.00
+scene-03-watching                             627      0     0.00
+scene-04-rationalization                      567      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               2,598     20     7.70
+CHAPTER TOTAL                               2,575      0     0.00
 
 CHAPTER 6: The Philosopher
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-prologos                           1,688      0     0.00
-scene-02-parodos                              937      5     5.34
+scene-02-parodos                              930      0     0.00
 scene-03-first-episode                      1,583      3     1.90
 scene-04-first-stasimon                       491      0     0.00
 scene-05-second-episode                     1,716      5     2.91
@@ -69,24 +69,24 @@ scene-07-third-episode                      1,315      2     1.52
 scene-08-kommos                             1,042      2     1.92
 scene-09-exodus                               732      2     2.73
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              10,002     20     2.00
+CHAPTER TOTAL                               9,995     15     1.50
 
 CHAPTER 7: Lilith's Watch III
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-thread-shifts                        580      4     6.90
-scene-02-dream-walker                         815      4     4.91
-scene-03-compulsion                           705      5     7.09
+scene-01-thread-shifts                        575      0     0.00
+scene-02-dream-walker                         815      0     0.00
+scene-03-compulsion                           698      0     0.00
 scene-04-wheel-turns                        1,018      3     2.95
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               3,118     16     5.13
+CHAPTER TOTAL                               3,106      3     0.97
 
 CHAPTER 8: The Investigator
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-baths                                754      5     6.63
+scene-01-baths                                751      1     1.33
 scene-02-case-assigned                        924      1     1.08
 scene-03-testimonies                        1,372      3     2.19
 scene-04-stoic-debate                       1,000      2     2.00
@@ -96,7 +96,7 @@ scene-07-judgment                           1,399      5     3.57
 scene-08-exile                                994      3     3.02
 scene-09-death                                642      2     3.12
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               9,155     26     2.84
+CHAPTER TOTAL                               9,152     22     2.40
 
 CHAPTER 9: Lilith's Watch IV
 ------------------------------------------------------------------------------------------
@@ -104,11 +104,11 @@ Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-shift                                993      3     3.02
 scene-02-seeding                            1,051      3     2.85
-scene-03-complaint                          1,192      9     7.55
-scene-04-escalation                         1,313      4     3.05
+scene-03-complaint                          1,181      4     3.39
+scene-04-escalation                         1,305      0     0.00
 scene-05-backfire                           1,264      3     2.37
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               5,813     22     3.78
+CHAPTER TOTAL                               5,794     13     2.24
 
 CHAPTER 10: The Desert Hermit
 ------------------------------------------------------------------------------------------
@@ -118,25 +118,25 @@ scene-01-cell                               1,218      1     0.82
 scene-02-deference                          1,362      3     2.20
 scene-03-arrival                            1,498      2     1.34
 scene-04-interview                          1,641      0     0.00
-scene-05-first-crack                        1,326      5     3.77
-scene-06-recognition                        1,360      5     3.68
+scene-05-first-crack                        1,320      0     0.00
+scene-06-recognition                        1,359      0     0.00
 scene-07-tasting                            1,755      3     1.71
 scene-08-collapse                           1,549      1     0.65
-scene-09-death                              1,813      4     2.21
+scene-09-death                              1,815      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              13,522     24     1.77
+CHAPTER TOTAL                              13,517     10     0.74
 
 CHAPTER 11: Lilith's Watch V
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-shift                                987      3     3.04
-scene-02-descent                              989      5     5.06
-scene-03-feeding                              848      3     3.54
+scene-02-descent                              987      0     0.00
+scene-03-feeding                              842      0     0.00
 scene-04-gathering                            925      3     3.24
 scene-05-backfire                           1,006      1     0.99
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               4,755     15     3.15
+CHAPTER TOTAL                               4,747      7     1.47
 
 CHAPTER 12: The Lover
 ------------------------------------------------------------------------------------------
@@ -145,11 +145,11 @@ Scene                                       Words   Tics  Density
 scene-01-arrival                            1,398      7     5.01
 scene-02-voice-behind-screen                1,199      3     2.50
 scene-03-stagnant-garden                    1,384      3     2.17
-scene-04-glimpse                            1,180      4     3.39
-scene-05-typhoon                            1,745     10     5.73
+scene-04-glimpse                            1,183      0     0.00
+scene-05-typhoon                            1,731      1     0.58
 scene-06-morning                            1,340      7     5.22
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               8,246     34     4.12
+CHAPTER TOTAL                               8,235     21     2.55
 
 CHAPTER 13: Lilith's Watch VI
 ------------------------------------------------------------------------------------------
@@ -157,19 +157,19 @@ Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-shift                                416      1     2.40
 scene-02-residue                              514      1     1.95
-scene-03-walk                                 597      3     5.03
-scene-04-backfire                             547      5     9.14
-scene-05-the-knot                             544      3     5.51
+scene-03-walk                                 594      0     0.00
+scene-04-backfire                             541      0     0.00
+scene-05-the-knot                             547      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               2,618     13     4.97
+CHAPTER TOTAL                               2,612      2     0.77
 
 CHAPTER 14: The Accused
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-performance                        1,500      4     2.67
+scene-01-performance                        1,492      0     0.00
 scene-02-holy-woman                         1,784      7     3.92
-scene-03-knock                              2,067      6     2.90
+scene-03-knock                              2,062      0     0.00
 scene-04-processing                         1,604      1     0.62
 scene-05-source                             2,101      5     2.38
 scene-06-interrogation                      2,451      7     2.86
@@ -177,22 +177,22 @@ scene-07-healers-burden                     1,996      1     0.50
 scene-08-release                            2,276      9     3.95
 scene-09-fire                               2,260      8     3.54
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              18,039     48     2.66
+CHAPTER TOTAL                              18,026     38     2.11
 
 CHAPTER 15: Lilith's Watch VII
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-walls                                567      5     8.82
+scene-01-walls                                553      1     1.81
 scene-02-pattern                              454      1     2.20
 scene-03-encounter                            627      2     3.19
 scene-04-push                                 510      2     3.92
-scene-05-memory                               342      2     5.85
+scene-05-memory                               340      0     0.00
 scene-06-chamber                              439      2     4.56
-scene-07-fire                               1,002      4     3.99
-scene-08-seed                                 615      5     8.13
+scene-07-fire                               1,003      0     0.00
+scene-08-seed                                 627      2     3.19
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               4,556     23     5.05
+CHAPTER TOTAL                               4,553     10     2.20
 
 CHAPTER 16: The Skeptic
 ------------------------------------------------------------------------------------------
@@ -204,26 +204,26 @@ scene-03-ambush                             1,186      1     0.84
 scene-04-printers-widow                     1,487      3     2.02
 scene-05-document                           1,558      0     0.00
 scene-06-ball                               1,646      1     0.61
-scene-07-temptation                         1,751      4     2.28
+scene-07-temptation                         1,744      1     0.57
 scene-08-report                             1,475      3     2.03
 scene-09-road                               1,754      2     1.14
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              13,500     16     1.19
+CHAPTER TOTAL                              13,493     13     0.96
 
 CHAPTER 17: Lilith's Watch VIII
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-one-more-method                      417      2     4.80
-scene-02-the-vessel                           408      3     7.35
+scene-02-the-vessel                           404      0     0.00
 scene-03-the-companionship                    394      0     0.00
-scene-04-the-letter                           432      3     6.94
-scene-05-the-temptation                       450      3     6.67
+scene-04-the-letter                           431      0     0.00
+scene-05-the-temptation                       446      0     0.00
 scene-06-the-backfire                         420      0     0.00
-scene-07-the-death                            425      3     7.06
+scene-07-the-death                            426      1     2.35
 scene-08-one-more                             487      2     4.11
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               3,433     16     4.66
+CHAPTER TOTAL                               3,425      5     1.46
 
 CHAPTER 18: The Rebel
 ------------------------------------------------------------------------------------------
@@ -246,14 +246,14 @@ Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-rain-and-dust                        898      0     0.00
 scene-02-curse-spreads                      1,095      1     0.91
-scene-03-doctrine-collapse                  1,099      4     3.64
+scene-03-doctrine-collapse                  1,091      0     0.00
 scene-04-pause                                644      0     0.00
 scene-05-breakthrough-death                 1,450      2     1.38
 scene-06-tracing-forward                    1,379      3     2.18
 scene-07-positioning                        1,426      1     0.70
 scene-08-threshold                          1,668      3     1.80
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               9,659     14     1.45
+CHAPTER TOTAL                               9,651     10     1.04
 
 CHAPTER 20: The Detective
 ------------------------------------------------------------------------------------------
@@ -265,10 +265,10 @@ scene-03-first-blood                        1,957      3     1.53
 scene-04-gathering-evidence                 1,642      2     1.22
 scene-05-the-pattern-emerges                1,222      3     2.45
 scene-06-blackmail-and-betrayal             1,736      1     0.58
-scene-07-the-flood                          1,642      6     3.65
+scene-07-the-flood                          1,636      0     0.00
 scene-08-the-car                            2,497      9     3.60
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              10,696     24     2.24
+CHAPTER TOTAL                              10,690     18     1.68
 
 CHAPTER 21: Lilith's Watch X
 ------------------------------------------------------------------------------------------
@@ -277,10 +277,10 @@ Scene                                       Words   Tics  Density
 scene-01-loose-weave                          544      1     1.84
 scene-02-tightening                           628      1     1.59
 scene-03-the-flood                            667      1     1.50
-scene-04-death-sighting                       887      7     7.89
+scene-04-death-sighting                       878      4     4.56
 scene-05-the-pivot                            869      2     2.30
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               3,595     12     3.34
+CHAPTER TOTAL                               3,586      9     2.51
 
 CHAPTER 22: The Breakthrough
 ------------------------------------------------------------------------------------------
@@ -290,53 +290,53 @@ scene-01-the-chain                          2,325     11     4.73
 scene-02-aftermath                            787      0     0.00
 scene-03-paramedics                           737      1     1.36
 scene-04-silas-alone                          872      3     3.44
-scene-05-wakes-home                         1,020      5     4.90
-scene-06-past-lives                         1,189      5     4.21
+scene-05-wakes-home                         1,004      0     0.00
+scene-06-past-lives                         1,180      0     0.00
 scene-07-he-sees-her                        1,004      2     1.99
 scene-08-connection-sensed                    669      2     2.99
-scene-09-door-opens                           750      4     5.33
+scene-09-door-opens                           755      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               9,353     33     3.53
+CHAPTER TOTAL                               9,333     19     2.04
 
 CHAPTER 23: The Celestial Realm
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-arrival                            1,098      4     3.64
-scene-02-garden-of-delights                 1,245      9     7.23
+scene-02-garden-of-delights                 1,236      4     3.24
 scene-03-the-other-thread                   1,587      8     5.04
-scene-04-ill-will-dissolves                 1,131     11     9.73
+scene-04-ill-will-dissolves                 1,083      0     0.00
 scene-05-threshold-forward                  1,493      8     5.36
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               6,554     40     6.10
+CHAPTER TOTAL                               6,497     24     3.69
 
 CHAPTER 24: The Prophet
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-condensation                       1,196      9     7.53
-scene-02-formation                            894      4     4.47
-scene-03-heresy                               926      7     7.56
-scene-04-recognition                        1,416      8     5.65
-scene-05-working                            1,002      6     5.99
-scene-06-response                             901      4     4.44
-scene-07-death-approaches                   1,056      8     7.58
+scene-01-condensation                       1,177      4     3.40
+scene-02-formation                            891      0     0.00
+scene-03-heresy                               923      1     1.08
+scene-04-recognition                        1,414      0     0.00
+scene-05-working                            1,004      0     0.00
+scene-06-response                             892      0     0.00
+scene-07-death-approaches                   1,048      3     2.86
 scene-08-death-yearning                       922      3     3.25
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               8,313     49     5.89
+CHAPTER TOTAL                               8,271     11     1.33
 
 CHAPTER 26: The Awakened
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-arrival                            1,929     17     8.81
-scene-02-recognition                        2,113     15     7.10
-scene-03-under-the-tree                     2,104     19     9.03
-scene-04-teaching                           2,391     31    12.97
-scene-05-coda                               1,645     14     8.51
+scene-01-arrival                            1,868      0     0.00
+scene-02-recognition                        2,055      1     0.49
+scene-03-under-the-tree                     2,024      0     0.00
+scene-04-teaching                           2,204      0     0.00
+scene-05-coda                               1,606      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              10,182     96     9.43
+CHAPTER TOTAL                               9,757      1     0.10
 
 ==========================================================================================
-MANUSCRIPT TOTAL                          193,898    644     3.32
+MANUSCRIPT TOTAL                          193,175    310     1.60
 ==========================================================================================
