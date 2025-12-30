@@ -68,7 +68,7 @@ He let the alternative hang unfinished.
 
 "Or Vikram was offered up deliberately." Chandra completed the thought, speaking the suspicion that had crystallized during his sleepless night. "A sacrifice to satisfy the investigation without exposing the larger operation."
 
-Devaka's fingers stopped their tapping. His face held an expression Chandra could not immediately read—something complicated that seemed to shift beneath the surface of his features, partaking of both agreement and denial without settling on either.
+Devaka's fingers stopped their tapping. His face held an expression that shifted beneath the surface—recognition mixed with reluctance, partaking of both agreement and denial without settling on either.
 
 "If that's true, then continuing the investigation through official channels would be… inadvisable." His voice had dropped, though they were alone. "Whoever designed such a sacrifice would have prepared for the possibility of further inquiry. The channels would be watched. The evidence would be protected."
 

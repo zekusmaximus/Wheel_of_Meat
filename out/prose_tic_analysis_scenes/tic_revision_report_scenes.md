@@ -7,35 +7,35 @@
 
 - **Total chapters analyzed:** 24
 - **Total scenes analyzed:** 167
-- **Total word count:** 193,898
-- **Total tics identified:** 644
-- **Average tic density:** 3.32 per 1,000 words
+- **Total word count:** 193,175
+- **Total tics identified:** 310
+- **Average tic density:** 1.60 per 1,000 words
 
 ### Tic Distribution
 
-- **not_x_pattern:** 364 instances (56.5%)
-- **something_construction:** 162 instances (25.2%)
-- **particular:** 91 instances (14.1%)
-- **abstract_noun_action:** 26 instances (4.0%)
-- **em_dash_excess:** 1 instances (0.2%)
+- **not_x_pattern:** 170 instances (54.8%)
+- **something_construction:** 82 instances (26.5%)
+- **particular:** 38 instances (12.3%)
+- **abstract_noun_action:** 19 instances (6.1%)
+- **em_dash_excess:** 1 instances (0.3%)
 
 ### Scenes Requiring Most Attention (by tic density)
 
-1. **Ch.26 (The Awakened)** - `scene-04-teaching` - 31 tics (13.0 per 1K words)
-2. **Ch.23 (The Celestial Realm)** - `scene-04-ill-will-dissolves` - 11 tics (9.7 per 1K words)
-3. **Ch.5 (Lilith's Watch II)** - `scene-01-ledger-bleeds` - 6 tics (9.5 per 1K words)
-4. **Ch.13 (Lilith's Watch VI)** - `scene-04-backfire` - 5 tics (9.1 per 1K words)
-5. **Ch.5 (Lilith's Watch II)** - `scene-02-intervention` - 7 tics (9.0 per 1K words)
-6. **Ch.26 (The Awakened)** - `scene-03-under-the-tree` - 19 tics (9.0 per 1K words)
-7. **Ch.15 (Lilith's Watch VII)** - `scene-01-walls` - 5 tics (8.8 per 1K words)
-8. **Ch.26 (The Awakened)** - `scene-01-arrival` - 17 tics (8.8 per 1K words)
-9. **Ch.26 (The Awakened)** - `scene-05-coda` - 14 tics (8.5 per 1K words)
-10. **Ch.15 (Lilith's Watch VII)** - `scene-08-seed` - 5 tics (8.1 per 1K words)
-11. **Ch.21 (Lilith's Watch X)** - `scene-04-death-sighting` - 7 tics (7.9 per 1K words)
-12. **Ch.24 (The Prophet)** - `scene-07-death-approaches` - 8 tics (7.6 per 1K words)
-13. **Ch.24 (The Prophet)** - `scene-03-heresy` - 7 tics (7.6 per 1K words)
-14. **Ch.9 (Lilith's Watch IV)** - `scene-03-complaint` - 9 tics (7.6 per 1K words)
-15. **Ch.24 (The Prophet)** - `scene-01-condensation` - 9 tics (7.5 per 1K words)
+1. **Ch.23 (The Celestial Realm)** - `scene-05-threshold-forward` - 8 tics (5.4 per 1K words)
+2. **Ch.12 (The Lover)** - `scene-06-morning` - 7 tics (5.2 per 1K words)
+3. **Ch.23 (The Celestial Realm)** - `scene-03-the-other-thread` - 8 tics (5.0 per 1K words)
+4. **Ch.12 (The Lover)** - `scene-01-arrival` - 7 tics (5.0 per 1K words)
+5. **Ch.17 (Lilith's Watch VIII)** - `scene-01-one-more-method` - 2 tics (4.8 per 1K words)
+6. **Ch.22 (The Breakthrough)** - `scene-01-the-chain` - 11 tics (4.7 per 1K words)
+7. **Ch.15 (Lilith's Watch VII)** - `scene-06-chamber` - 2 tics (4.6 per 1K words)
+8. **Ch.21 (Lilith's Watch X)** - `scene-04-death-sighting` - 4 tics (4.6 per 1K words)
+9. **Ch.4 (The Mauryan Empire)** - `scene-08-ledgers-reckoning` - 14 tics (4.1 per 1K words)
+10. **Ch.17 (Lilith's Watch VIII)** - `scene-08-one-more` - 2 tics (4.1 per 1K words)
+11. **Ch.14 (The Accused)** - `scene-08-release` - 9 tics (4.0 per 1K words)
+12. **Ch.14 (The Accused)** - `scene-02-holy-woman` - 7 tics (3.9 per 1K words)
+13. **Ch.15 (Lilith's Watch VII)** - `scene-04-push` - 2 tics (3.9 per 1K words)
+14. **Ch.23 (The Celestial Realm)** - `scene-01-arrival` - 4 tics (3.6 per 1K words)
+15. **Ch.20 (The Detective)** - `scene-08-the-car` - 9 tics (3.6 per 1K words)
 
 ---
 
@@ -140,115 +140,7 @@
 
 ## Chapter 3: Lilith's Watch I
 
-**Total scenes:** 4 | **Word count:** 2,972 | **Total tics:** 12 | **Density:** 4.04 per 1K words
-
-### Scene: `scene-01-discovery`
-
-**File:** `incarnations/ch03-lilith-cp01/scenes/scene-01-discovery.md`
-**Word count:** 732 | **Tics:** 3 | **Density:** 4.10
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 19:**
-> The name surfaced from the thread itself, from whatever connection she had made with this ancient pattern. Not a name as she understood names—he had no word for himself, no concept of the self as sepa
-
-**Revision proposals:**
-- `Not a name as she understood names—he had no word for himself, no concept of the self as separable from body and action` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 29:**
-> Ka's awareness bled into hers in fragments: the smell of smoke and game blood, the ache in joints from sleeping on stone, the particular loneliness of watching others share warmth while choosing to re
-
-**Revision proposals:**
-- `the particular loneliness` → `the loneliness`
-  - *Remove unnecessary intensifier*
-- `the particular loneliness` → `the [specific descriptor] loneliness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 15:**
-> The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him—bodies touching like wolf pups, breath mixing in the dark. He di
-
-**Revision proposals:**
-- `Something in his chest` → `[specific quality] in the chest`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-02-hoarding`
-
-**File:** `incarnations/ch03-lilith-cp01/scenes/scene-02-hoarding.md`
-**Word count:** 916 | **Tics:** 4 | **Density:** 4.37
-
-#### Abstract nouns performing physical actions (1 instances)
-
-**Line 47:**
-> The thought dissolved before it finished. She returned to observation. Filed the slippage under fatigue. Did not look at it again.
-
-**Revision proposals:**
-- `thought dissolved` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'thought' performing physical action 'dissolved'*
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 21:**
-> She could see it. She could not reach through time to change it—that was not how this worked, not yet, not quite—but she could see the pattern of his mistake as clearly as if she were reading his char
-
-**Revision proposals:**
-- `not reach through time to change it—that was not how this worked, not yet, not quite—but she could see the pattern of his mistake as clearly as if she were reading his chart` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 27:**
-> Ka was calculating how long this flesh would last if eaten slowly, if hidden from others who might smell it, if the alone-way proved stronger than the together-way. His fingers—blackening now at the t
-
-**Revision proposals:**
-- `not yet noticed—curled tighter around the haunch` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 39:**
-> Lilith's phone buzzed—a text from the department, something about tomorrow's case conference, the ordinary machinery of a life she was forgetting to live. She did not look at it. She did not move from
-
-**Revision proposals:**
-- `something about tomorrow` → `[specific quality] about the tomorrow`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-03-ka-death`
-
-**File:** `incarnations/ch03-lilith-cp01/scenes/scene-03-ka-death.md`
-**Word count:** 565 | **Tics:** 3 | **Density:** 5.31
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 3:**
-> The white-ground fell harder now. Ka could not see the tribe's fire anymore—the storm had eaten everything, had turned the world to white and wind and the particular silence that came before dying.
-
-**Revision proposals:**
-- `not see the tribe's fire anymore—the storm had eaten everything, had turned the world to white and wind and the particular silence that came before dying` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 15:**
-> The hunger transformed in the moment of his dying. Not meat anymore. Not territory, not dominance, not the alone-way that had brought him here to this cave with his frozen prize. Something else now, s
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 3:**
-> The white-ground fell harder now. Ka could not see the tribe's fire anymore—the storm had eaten everything, had turned the world to white and wind and the particular silence that came before dying.
-
-**Revision proposals:**
-- `the particular silence` → `the silence`
-  - *Remove unnecessary intensifier*
-- `the particular silence` → `the [specific descriptor] silence`
-  - *Replace with concrete descriptor*
-
+**Total scenes:** 4 | **Word count:** 2,965 | **Total tics:** 2 | **Density:** 0.67 per 1K words
 
 ### Scene: `scene-04-thread-forward`
 
@@ -276,7 +168,7 @@
 
 ## Chapter 4: The Mauryan Empire
 
-**Total scenes:** 8 | **Word count:** 19,213 | **Total tics:** 51 | **Density:** 2.65 per 1K words
+**Total scenes:** 8 | **Word count:** 19,189 | **Total tics:** 37 | **Density:** 1.93 per 1K words
 
 ### Scene: `scene-01-pillar-ceremony`
 
@@ -360,138 +252,6 @@
 **Revision proposals:**
 - `something in the motion` → `[specific quality] in the motion`
   - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-03-warehouse-inspection`
-
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-03-warehouse-inspection.md`
-**Word count:** 2,244 | **Tics:** 4 | **Density:** 1.78
-
-#### "The particular [noun]" usage (4 instances)
-
-**Line 3:**
-> The guards at the gate had examined my authority documents with the particular slowness of men accustomed to delaying visitors until their superiors could be notified. I had waited, watching the activ
-
-**Revision proposals:**
-- `the particular slowness` → `the slowness`
-  - *Remove unnecessary intensifier*
-- `the particular slowness` → `the [specific descriptor] slowness`
-  - *Replace with concrete descriptor*
-
-**Line 15:**
-> I had grown up with these smells. My father had managed a smaller granary in the eastern provinces, and my earliest memories involved the particular quality of light filtering through thatch gaps onto
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-**Line 19:**
-> The warehouse keeper emerged as we approached, a heavyset man with the particular pallor of someone who spent his days in dim storage spaces. His name, according to Devaka's personnel records, was Vik
-
-**Revision proposals:**
-- `the particular pallor` → `the pallor`
-  - *Remove unnecessary intensifier*
-- `the particular pallor` → `the [specific descriptor] pallor`
-  - *Replace with concrete descriptor*
-
-**Line 75:**
-> I should have felt vindication. Instead, I felt the particular emptiness that always followed a successful negotiation—the hollow recognition that winning required someone else to lose, and that the l
-
-**Revision proposals:**
-- `the particular emptiness` → `the emptiness`
-  - *Remove unnecessary intensifier*
-- `the particular emptiness` → `the [specific descriptor] emptiness`
-  - *Replace with concrete descriptor*
-
-
-### Scene: `scene-04-interrogation`
-
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-04-interrogation.md`
-**Word count:** 2,099 | **Tics:** 4 | **Density:** 1.91
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 27:**
-> Chandra had not intended to continue working. His arm ached beneath its bandages, his eyes burned from hours of reading by inadequate light, and the satisfaction of Vikram's confession should have bee
-
-**Revision proposals:**
-- `not dislodge—and he found himself reaching for the bundle of documents he had set aside days before` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 71:**
-> Devaka's fingers stopped their tapping. His face held an expression Chandra could not immediately read—not quite agreement, not quite denial, something more complicated that seemed to shift beneath th
-
-**Revision proposals:**
-- `not immediately read—not quite agreement, not quite denial, something more complicated that seemed to shift beneath the surface of his features` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 129:**
-> He would look. Not officially, not through channels that had been designed to fail, but privately—using his own access, his own skills, his own merchant's instinct for numbers that did not add correct
-
-**Revision proposals:**
-- `Not officially, not through channels that had been designed to fail, but privately—using his own access, his own skills, his own merchant's instinct for numbers that did not add correctly` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 27:**
-> Chandra had not intended to continue working. His arm ached beneath its bandages, his eyes burned from hours of reading by inadequate light, and the satisfaction of Vikram's confession should have bee
-
-**Revision proposals:**
-- `something nagged` → `[name the thing] nagged`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-05-covert-investigation`
-
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-05-covert-investigation.md`
-**Word count:** 2,538 | **Tics:** 6 | **Density:** 2.36
-
-#### "Not X" repetition patterns (6 instances)
-
-**Line 9:**
-> He told no one what he was doing. Not Devaka, whose parallel inquiries had reported nothing and whose loyalty remained a question Chandra could not answer. Not the Pradeshika, who had celebrated the c
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 3 sentences starting with 'Not'*
-
-**Line 27:**
-> Not dramatically different—the discrepancies were subtle, distributed across dozens of collection points, each one small enough to fall within acceptable parameters for transportation loss. A measure 
-
-**Revision proposals:**
-- `Not dramatically different—the discrepancies were subtle, distributed across dozens of collection points, each one small enough to fall within acceptable parameters for transportation loss` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 35:**
-> The figure sat on the palm leaf before him like a weight too heavy to lift. Twenty-three thousand measures diverted over eighteen months through a system so distributed that no single point of failure
-
-**Revision proposals:**
-- `Not a conspiracy within the administration—a conspiracy that was the administration, woven into the fabric of collection and transport and storage until theft and governance became indistinguishable` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 49:**
-> He understood now why Nagasena had been marked for death. The Dharma-Mahāmātra's audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's tru
-
-**Revision proposals:**
-- `not punishment for discovering theft—it was the system defending itself against revelation` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 59:**
-> Chandra did not know how long he had been there—the investigation had consumed his attention so completely that a regiment could have marched past his door without drawing his notice. Devaka's face wa
-
-**Revision proposals:**
-- `not know how long he had been there—the investigation had consumed his attention so completely that a regiment could have marched past his door without drawing his notice` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 91:**
-> "Then you become a problem requiring solution." Devaka's voice carried no threat, only the weary recitation of facts he wished were otherwise. "Not immediately—they'll wait for an opportunity that loo
-
-**Revision proposals:**
-- `Not immediately—they'll wait for an opportunity that looks like accident or illness or simple misfortune` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
 
 
 ### Scene: `scene-06-temple-betrayal`
@@ -763,260 +523,15 @@
 
 ## Chapter 5: Lilith's Watch II
 
-**Total scenes:** 4 | **Word count:** 2,598 | **Total tics:** 20 | **Density:** 7.70 per 1K words
+**Total scenes:** 4 | **Word count:** 2,575 | **Total tics:** 0 | **Density:** 0.00 per 1K words
 
-### Scene: `scene-01-ledger-bleeds`
-
-**File:** `incarnations/ch05-lilith-cp02/scenes/scene-01-ledger-bleeds.md`
-**Word count:** 629 | **Tics:** 6 | **Density:** 9.54
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 23:**
-> The thread she followed was old in a different way than Ka's. Not temporal depth but architectural complexity—a consciousness that had learned to build systems, to see patterns in aggregate, to miss t
-
-**Revision proposals:**
-- `Not temporal depth but architectural complexity—a consciousness that had learned to build systems, to see patterns in aggregate, to miss the individual in favor of the sum` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (3 instances)
-
-**Line 9:**
-> Lilith's tea had gone cold beside her laptop. The flat held its after-midnight silence—radiator ticking, the distant arterial hum of Wilmslow Road, the particular emptiness of a space no one visited. 
-
-**Revision proposals:**
-- `the particular emptiness` → `the emptiness`
-  - *Remove unnecessary intensifier*
-- `the particular emptiness` → `the [specific descriptor] emptiness`
-  - *Replace with concrete descriptor*
-
-**Line 13:**
-> The rain shifted against her window, harder now, and in the shift she felt another rhythm: monsoon season pressing against terracotta roofs, water finding channels carved by centuries of similar press
-
-**Revision proposals:**
-- `the particular sound` → `the sound`
-  - *Remove unnecessary intensifier*
-- `the particular sound` → `the [specific descriptor] sound`
-  - *Replace with concrete descriptor*
-
-**Line 17:**
-> The name surfaced from the thread itself, dense with context Ka's prehistoric consciousness could never have held. An administrator in the Mauryan administration, former merchant, a man who had traded
-
-**Revision proposals:**
-- `the particular disease` → `the disease`
-  - *Remove unnecessary intensifier*
-- `the particular disease` → `the [specific descriptor] disease`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 19:**
-> Calculating. The word echoed strangely. She knew something about calculation.
-
-**Revision proposals:**
-- `something about calculation` → `[specific quality] about the calculation`
-  - *Replace 'something' with specific descriptor*
-
-**Line 35:**
-> She did not move to make fresh tea. She did not check the time. She leaned closer to the thread, and something in her recognized the tension around Devaka as leverage.
-
-**Revision proposals:**
-- `something in her recognized` → `[specific quality] in the recognized`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-02-intervention`
-
-**File:** `incarnations/ch05-lilith-cp02/scenes/scene-02-intervention.md`
-**Word count:** 774 | **Tics:** 7 | **Density:** 9.04
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 21:**
-> Not conscience—she had no objection to intervention, not in principle. Not doubt about the outcome—Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand t
-
-**Revision proposals:**
-- `Not conscience—she had no objection to intervention, not in principle` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 21:**
-> Not conscience—she had no objection to intervention, not in principle. Not doubt about the outcome—Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand t
-
-**Revision proposals:**
-- `Not doubt about the outcome—Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand that his reformist certainty would destroy him if it continued to make allies of enemies` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 21:**
-> Not conscience—she had no objection to intervention, not in principle. Not doubt about the outcome—Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand t
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 7:**
-> She leaned closer to observe. Her body remained in the flat—rain against windows, cold tea beside her laptop, the particular stillness of a space held too long—but her attention pressed against the me
-
-**Revision proposals:**
-- `the particular stillness` → `the stillness`
-  - *Remove unnecessary intensifier*
-- `the particular stillness` → `the [specific descriptor] stillness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (3 instances)
-
-**Line 13:**
-> The discovery stopped her. In the flat her hands tightened on the arms of her chair, the sensation registering across both frames—her fingers on worn fabric, Chandra's stylus pausing mid-character as 
-
-**Revision proposals:**
-- `something in the air` → `[specific quality] in the air`
-  - *Replace 'something' with specific descriptor*
-
-**Line 31:**
-> The fear-thread blazed white under her focus. The loyalty-thread dimmed—not extinguished, but weakened, starved of the attention that might have sustained it. Something shifted in the pattern of Devak
-
-**Revision proposals:**
-- `Something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 45:**
-> Her headache bloomed belatedly, pressing against her temples with the cost of proximity. Her breath had quickened without her notice. Something like hunger moved in her chest—unfamiliar and unnamed, a
-
-**Revision proposals:**
-- `Something like hunger moved in her chest—unfamiliar and unnamed` → `hunger moved in her chest—unfamiliar and unnamed`
-  - *Consider naming it directly instead of 'something like'*
-
-
-### Scene: `scene-03-watching`
-
-**File:** `incarnations/ch05-lilith-cp02/scenes/scene-03-watching.md`
-**Word count:** 627 | **Tics:** 3 | **Density:** 4.78
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 15:**
-> Chandra noticed some of it. The thread vibrated with his subliminal recognition—the splinter in his thoughts that would not dislodge—but his ledger-mind translated suspicion into alternate hypotheses,
-
-**Revision proposals:**
-- `not dislodge—but his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 29:**
-> Stone walls pressed close in the torchlight. The smell of incense masked the sharper smell of fear. Chandra's face—she saw it through his own awareness, reflected in the polished surface of a ceremoni
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 9:**
-> Chandra's investigation proceeded with the particular efficiency of a man who trusted his methods. She watched him examine grain weights, uncover the substitution scheme, confront the warehouse keeper
-
-**Revision proposals:**
-- `the particular efficiency` → `the efficiency`
-  - *Remove unnecessary intensifier*
-- `the particular efficiency` → `the [specific descriptor] efficiency`
-  - *Replace with concrete descriptor*
-
-
-### Scene: `scene-04-rationalization`
-
-**File:** `incarnations/ch05-lilith-cp02/scenes/scene-04-rationalization.md`
-**Word count:** 568 | **Tics:** 4 | **Density:** 7.04
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 11:**
-> In the chaos of the fire, in the smoke and screaming and the particular clarity that catastrophe sometimes granted, she felt the pattern of his consciousness *turn*. Not away from calculation—he could
-
-**Revision proposals:**
-- `Not away from calculation—he could never be fully free of that, the numbers were woven too deeply into his framework—but toward something the numbers could not hold` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 23:**
-> In Manchester, hours had passed again. The light through her window had shifted from amber to grey to something approaching dark. Fresh tea sat beside her, untouched, its steam long since dissipated. 
-
-**Revision proposals:**
-- `not noticed straining—shoulders from gripping the chair, neck from holding still too long, temples from the headache that had not fully released` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 11:**
-> In the chaos of the fire, in the smoke and screaming and the particular clarity that catastrophe sometimes granted, she felt the pattern of his consciousness *turn*. Not away from calculation—he could
-
-**Revision proposals:**
-- `the particular clarity` → `the clarity`
-  - *Remove unnecessary intensifier*
-- `the particular clarity` → `the [specific descriptor] clarity`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 9:**
-> Then something shifted.
-
-**Revision proposals:**
-- `something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
+✓ No tics detected in this chapter.
 
 ---
 
 ## Chapter 6: The Philosopher
 
-**Total scenes:** 9 | **Word count:** 10,002 | **Total tics:** 20 | **Density:** 2.00 per 1K words
-
-### Scene: `scene-02-parodos`
-
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-02-parodos.md`
-**Word count:** 937 | **Tics:** 5 | **Density:** 5.34
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 5:**
-> Alexios had stopped asking whether the stories were true. He had begun, instead, to watch the patients who came to the clinic with a wariness that had not been there before—searching their faces for s
-
-**Revision proposals:**
-- `not been there before—searching their faces for signs of something more than ordinary illness, flinching slightly when they coughed or sneezed` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 15:**
-> A man lay crumpled on the paving stones near the fish sellers' stalls. He had fallen in the middle of the walkway, his body twisted at an angle that suggested he had not even tried to catch himself. H
-
-**Revision proposals:**
-- `not especially warm, and his skin—visible where the fabric had ridden up—was flushed a dark, angry red` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 41:**
-> Footsteps approached from behind. Philon did not turn, but he felt the presence settle beside him—Alexios, kneeling on the plague victim's other side, his hands already reaching for the waterskin he c
-
-**Revision proposals:**
-- `not turn, but he felt the presence settle beside him—Alexios, kneeling on the plague victim's other side, his hands already reaching for the waterskin he carried` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 17:**
-> The crowd had opened around him like a wound. A ring of emptiness, three paces wide, separated the fallen man from the nearest onlookers. No one moved toward him. No one spoke to him. They only watche
-
-**Revision proposals:**
-- `the particular expression` → `the expression`
-  - *Remove unnecessary intensifier*
-- `the particular expression` → `the [specific descriptor] expression`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 39:**
-> "Now," he added, and something in the word finally broke the paralysis. A young vendor hurried toward the nearest fountain. Two older men who had been standing together exchanged a glance and then mov
-
-**Revision proposals:**
-- `something in the word` → `[specific quality] in the word`
-  - *Replace 'something' with specific descriptor*
-
+**Total scenes:** 9 | **Word count:** 9,995 | **Total tics:** 15 | **Density:** 1.50 per 1K words
 
 ### Scene: `scene-03-first-episode`
 
@@ -1187,146 +702,7 @@
 
 ## Chapter 7: Lilith's Watch III
 
-**Total scenes:** 4 | **Word count:** 3,118 | **Total tics:** 16 | **Density:** 5.13 per 1K words
-
-### Scene: `scene-01-thread-shifts`
-
-**File:** `incarnations/ch07-lilith-cp03/scenes/scene-01-thread-shifts.md`
-**Word count:** 580 | **Tics:** 4 | **Density:** 6.90
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 1:**
-> Heat arrived before image, before sound, before the shape of the consciousness she was following. Not fire-heat this time—not the clean warmth of flame or the body-knowledge of prehistoric survival—bu
-
-**Revision proposals:**
-- `Not fire-heat this time—not the clean warmth of flame or the body-knowledge of prehistoric survival—but something else` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (3 instances)
-
-**Line 11:**
-> Athens materialized through sensation before it took visual form. The heat was everywhere—not summer heat, not fire heat, but the particular burning that came from inside bodies that were failing. She
-
-**Revision proposals:**
-- `the particular burning` → `the burning`
-  - *Remove unnecessary intensifier*
-- `the particular burning` → `the [specific descriptor] burning`
-  - *Replace with concrete descriptor*
-
-**Line 19:**
-> Rough-smooth. Raised texture against fingertips. Heat radiating through thin skin, through the particular porousness of flesh beginning to fail. The sensation translated across epochs as pressure agai
-
-**Revision proposals:**
-- `the particular porousness` → `the porousness`
-  - *Remove unnecessary intensifier*
-- `the particular porousness` → `the [specific descriptor] porousness`
-  - *Replace with concrete descriptor*
-
-**Line 43:**
-> The flat reasserted itself around her—cold tea, ticking radiator, the particular silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under
-
-**Revision proposals:**
-- `the particular silence` → `the silence`
-  - *Remove unnecessary intensifier*
-- `the particular silence` → `the [specific descriptor] silence`
-  - *Replace with concrete descriptor*
-
-
-### Scene: `scene-02-dream-walker`
-
-**File:** `incarnations/ch07-lilith-cp03/scenes/scene-02-dream-walker.md`
-**Word count:** 815 | **Tics:** 4 | **Density:** 4.91
-
-#### Abstract nouns performing physical actions (1 instances)
-
-**Line 3:**
-> The first was simple—panic breeding panic, fear spreading through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded toge
-
-**Revision proposals:**
-- `fear spreading` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'fear' performing physical action 'spreading'*
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 17:**
-> Not possession. Not control. Something subtler—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She sh
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 13:**
-> She found Alexios in the hour before dawn, when sleep ran deepest and dreams spoke loudest. The young man slept in a modest room near the Agora—alone now, though once this bed had held another. His co
-
-**Revision proposals:**
-- `the particular rawness` → `the rawness`
-  - *Remove unnecessary intensifier*
-- `the particular rawness` → `the [specific descriptor] rawness`
-  - *Replace with concrete descriptor*
-
-**Line 51:**
-> The dream shifted. Philon's body on the pyre became ash, became smoke, became the particular gray that would color the sky for months. Alexios watched it rise—his teacher becoming air, becoming nothin
-
-**Revision proposals:**
-- `the particular gray` → `the gray`
-  - *Remove unnecessary intensifier*
-- `the particular gray` → `the [specific descriptor] gray`
-  - *Replace with concrete descriptor*
-
-
-### Scene: `scene-03-compulsion`
-
-**File:** `incarnations/ch07-lilith-cp03/scenes/scene-03-compulsion.md`
-**Word count:** 705 | **Tics:** 5 | **Density:** 7.09
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 19:**
-> *Don't,* Lilith thought, though the word carried no power. She was observing now, not intervening. The isolation she had engineered was meant to create despair, not to create this—this reaching, this 
-
-**Revision proposals:**
-- `not to create this—this reaching, this compulsion, this movement toward a dying woman no one else would touch` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 59:**
-> She did not see that her own hands—cold around ceramic gone cold—were performing the same gesture. Reaching. Holding. Unable to release.
-
-**Revision proposals:**
-- `not see that her own hands—cold around ceramic gone cold—were performing the same gesture` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (3 instances)
-
-**Line 1:**
-> Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the particular certainty of a man who has made peace with abando
-
-**Revision proposals:**
-- `the particular certainty` → `the certainty`
-  - *Remove unnecessary intensifier*
-- `the particular certainty` → `the [specific descriptor] certainty`
-  - *Replace with concrete descriptor*
-
-**Line 13:**
-> Lilith felt the impact before she understood it—knees striking stone, the particular sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears
-
-**Revision proposals:**
-- `the particular sound` → `the sound`
-  - *Remove unnecessary intensifier*
-- `the particular sound` → `the [specific descriptor] sound`
-  - *Replace with concrete descriptor*
-
-**Line 35:**
-> Lilith's own knees pressed against something—the worn fabric of her armchair, the particular give of cushioning she had stopped noticing years ago. The sensation doubled: stone beneath his legs, fabri
-
-**Revision proposals:**
-- `the particular give` → `the give`
-  - *Remove unnecessary intensifier*
-- `the particular give` → `the [specific descriptor] give`
-  - *Replace with concrete descriptor*
-
+**Total scenes:** 4 | **Word count:** 3,106 | **Total tics:** 3 | **Density:** 0.97 per 1K words
 
 ### Scene: `scene-04-wheel-turns`
 
@@ -1367,44 +743,14 @@
 
 ## Chapter 8: The Investigator
 
-**Total scenes:** 9 | **Word count:** 9,155 | **Total tics:** 26 | **Density:** 2.84 per 1K words
+**Total scenes:** 9 | **Word count:** 9,152 | **Total tics:** 22 | **Density:** 2.40 per 1K words
 
 ### Scene: `scene-01-baths`
 
 **File:** `incarnations/ch08-rome-investigator/scenes/scene-01-baths.md`
-**Word count:** 754 | **Tics:** 5 | **Density:** 6.63
+**Word count:** 751 | **Tics:** 1 | **Density:** 1.33
 
-#### "Not X" repetition patterns (3 instances)
-
-**Line 9:**
-> "Not during the festival of—"
-
-**Revision proposals:**
-- `Not during the festival of—"` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 39:**
-> Not the students. Not Marcus. Him.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 41:**
-> Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, not long enough to demand acknowledgment—an
-
-**Revision proposals:**
-- `not long enough to demand acknowledgment—and then turned away, following the students through the archway into the cold room` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 13:**
-> The stylus gleamed. The contradiction remained, but something in his chest loosened fractionally.
-
-**Revision proposals:**
-- `something in his chest` → `[specific quality] in the chest`
-  - *Replace 'something' with specific descriptor*
+#### Vague "something" constructions (1 instances)
 
 **Line 55:**
 > He followed Marcus toward the changing rooms, but something in him lingered at the pool's edge, watching the archway where the dark-haired woman had disappeared. She had looked at him as if she knew h
@@ -1641,7 +987,7 @@
 
 ## Chapter 9: Lilith's Watch IV
 
-**Total scenes:** 5 | **Word count:** 5,813 | **Total tics:** 22 | **Density:** 3.78 per 1K words
+**Total scenes:** 5 | **Word count:** 5,794 | **Total tics:** 13 | **Density:** 2.24 per 1K words
 
 ### Scene: `scene-01-shift`
 
@@ -1708,116 +1054,41 @@
 ### Scene: `scene-03-complaint`
 
 **File:** `incarnations/ch09-lilith-cp04/scenes/scene-03-complaint.md`
-**Word count:** 1,192 | **Tics:** 9 | **Density:** 7.55
+**Word count:** 1,181 | **Tics:** 4 | **Density:** 3.39
 
 #### Abstract nouns performing physical actions (1 instances)
 
-**Line 49:**
+**Line 47:**
 > Verinus's hand tightened on his stylus. She felt his certainty shatter and reform, shatter and reform, the process of a man rebuilding his foundations in real-time.
 
 **Revision proposals:**
 - `certainty shatter` → `[Rephrase with human subject or concrete imagery]`
   - *Abstract noun 'certainty' performing physical action 'shatter'*
 
-#### "Not X" repetition patterns (3 instances)
+#### "Not X" repetition patterns (2 instances)
 
 **Line 63:**
-> Not physically—Marcia's body still stood at the portico's edge—but the merged sensation had released her, and she was back in Manchester, gasping in her armchair, her hands cold around cold ceramic, h
-
-**Revision proposals:**
-- `Not physically—Marcia's body still stood at the portico's edge—but the merged sensation had released her, and she was back in Manchester, gasping in her armchair, her hands cold around cold ceramic, her breath coming hard` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 65:**
-> The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Something warm had settled in her chest that was not satisfaction exactly—that was not anything sh
+> The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Warmth had settled in her chest that was not satisfaction exactly—that was not anything she could 
 
 **Revision proposals:**
 - `not satisfaction exactly—that was not anything she could name or file or document` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-**Line 69:**
-> He had looked at her—not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and something in the looking had felt like being known. The philosophers' arguments still echoed: incompatible
+**Line 67:**
+> He had looked at her—not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and the looking had felt like being known. The philosophers' arguments still echoed: incompatible conclusions,
 
 **Revision proposals:**
-- `not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and something in the looking had felt like being known` → `[Rephrase without 'Not X—Y' structure]`
+- `not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and the looking had felt like being known` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (1 instances)
+#### Vague "something" constructions (1 instances)
 
-**Line 31:**
-> The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches a
-
-**Revision proposals:**
-- `the particular weight` → `the weight`
-  - *Remove unnecessary intensifier*
-- `the particular weight` → `the [specific descriptor] weight`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (4 instances)
-
-**Line 13:**
-> Something trembled in Verinus's chest. She felt it as if it were her own—the soft collapse of an assumption long held, the first crack in a structure that had seemed unbreakable.
-
-**Revision proposals:**
-- `Something trembled` → `[name the thing] trembled`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 55:**
-> The philosophers argued about whether truth could be singular. She was arguing with herself about whether strategy could be perfected. The frustration in his chest matched the frustration in her chest
-
-**Revision proposals:**
-- `something in her that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
-**Line 69:**
-> He had looked at her—not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and something in the looking had felt like being known. The philosophers' arguments still echoed: incompatible
-
-**Revision proposals:**
-- `something in the looking` → `[specific quality] in the looking`
-  - *Replace 'something' with specific descriptor*
-
-**Line 73:**
+**Line 71:**
 > The question did not have an answer. She did not want an answer. She closed her eyes, feeling the thread hum forward through time, feeling the investigation continue, feeling Verinus walk out of the p
 
 **Revision proposals:**
 - `something cracked` → `[name the thing] cracked`
   - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-04-escalation`
-
-**File:** `incarnations/ch09-lilith-cp04/scenes/scene-04-escalation.md`
-**Word count:** 1,313 | **Tics:** 4 | **Density:** 3.05
-
-#### "Not X" repetition patterns (4 instances)
-
-**Line 45:**
-> His voice was steady. His certainty had not returned—she could feel that it had not, could feel the cracks running through every sentence—but something else had taken its place. Something she could no
-
-**Revision proposals:**
-- `not returned—she could feel that it had not, could feel the cracks running through every sentence—but something else had taken its place` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 55:**
-> *"Philo is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."*
-
-**Revision proposals:**
-- `not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 61:**
-> Not hard—she had learned the value of precision—but steady, focused, weighted. The senator's irritation had been genuine; she only amplified it. The offense had been real; she only sharpened it. The r
-
-**Revision proposals:**
-- `Not hard—she had learned the value of precision—but steady, focused, weighted` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 85:**
-> The chamber emptied. Marcus walked away with grief in his spine. Verinus gathered his notes—the contradictory testimonies, the impossible timelines, the evidence that had not resolved—and carried them
-
-**Revision proposals:**
-- `not resolved—and carried them with him toward the exile she had engineered` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
 
 
 ### Scene: `scene-05-backfire`
@@ -1857,7 +1128,7 @@
 
 ## Chapter 10: The Desert Hermit
 
-**Total scenes:** 9 | **Word count:** 13,522 | **Total tics:** 24 | **Density:** 1.77 per 1K words
+**Total scenes:** 9 | **Word count:** 13,517 | **Total tics:** 10 | **Density:** 0.74 per 1K words
 
 ### Scene: `scene-01-cell`
 
@@ -1931,108 +1202,6 @@
   - *Replace with concrete descriptor*
 
 
-### Scene: `scene-05-first-crack`
-
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-05-first-crack.md`
-**Word count:** 1,326 | **Tics:** 5 | **Density:** 3.77
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 19:**
-> Her stillness had been more disturbing than Theophanes's words. She had stood against the wall and watched, and her watching had been—what? Macarius searched for the word and could not find it. Not ho
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 85:**
-> Beneath them, the warmth continued to pulse. The body continued to remember the pleasure of praise. And somewhere in the center of him, in the place where prayer was supposed to live, a question had t
-
-**Revision proposals:**
-- `not quite articulate—a question about what, exactly, he had been cultivating in this cell for fifteen years` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 13:**
-> Theophanes's voice lingered in the corners like smoke. The scrape of stylus on wax, the rustle of fine linen, the particular quality of attention that the archdeacon brought to his questions—all of th
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-**Line 67:**
-> The realization struck like cold water. This was not new. This warmth, this rightness, this subtle pleasure at being recognized—it had been present for years. Decades, perhaps. It had been present eve
-
-**Revision proposals:**
-- `the particular reverence` → `the reverence`
-  - *Remove unnecessary intensifier*
-- `the particular reverence` → `the [specific descriptor] reverence`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 51:**
-> Something in his spine straightened, though he had not instructed it to straighten. His chin lifted slightly. The posture was wrong—not the posture of prayer but the posture of a man receiving somethi
-
-**Revision proposals:**
-- `Something in his spine` → `[specific quality] in the spine`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-06-recognition`
-
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-06-recognition.md`
-**Word count:** 1,360 | **Tics:** 5 | **Density:** 3.68
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 15:**
-> Visitors came at times when visitors should not have come. A monk from Kellia, ancient and half-blind, arrived seeking a blessing. A merchant from the Nile valley appeared with supplies that had not b
-
-**Revision proposals:**
-- `not monks—tracked him down and prostrated themselves in the sand outside his cell, asking only to be in his presence` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 23:**
-> He had not composed such a phrase, had he? It had arrived fully formed, as if from outside himself, ready for delivery. And yet it was his. He recognized its shape, its rhythm, the particular compress
-
-**Revision proposals:**
-- `the particular compression` → `the compression`
-  - *Remove unnecessary intensifier*
-- `the particular compression` → `the [specific descriptor] compression`
-  - *Replace with concrete descriptor*
-
-**Line 29:**
-> The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had fl
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 43:**
-> Something in him resisted the praise. Or rather, something in him resisted the ease with which he accepted the praise, the way it settled into his body like water into parched earth. He was too thirst
-
-**Revision proposals:**
-- `Something in him` → `[specific quality] in the him`
-  - *Replace 'something' with specific descriptor*
-
-**Line 43:**
-> Something in him resisted the praise. Or rather, something in him resisted the ease with which he accepted the praise, the way it settled into his body like water into parched earth. He was too thirst
-
-**Revision proposals:**
-- `something in him` → `[specific quality] in the him`
-  - *Replace 'something' with specific descriptor*
-
-
 ### Scene: `scene-07-tasting`
 
 **File:** `incarnations/ch10-egypt-hermit/scenes/scene-07-tasting.md`
@@ -2079,49 +1248,11 @@
   - *Line has 2 sentences starting with 'Not'*
 
 
-### Scene: `scene-09-death`
-
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-09-death.md`
-**Word count:** 1,813 | **Tics:** 4 | **Density:** 2.21
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 111:**
-> Not peace. Not theosis. Not the resolution he had hoped his death might bring.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 3 sentences starting with 'Not'*
-
-**Line 125:**
-> *In my next life,* something whispered—not a thought, not a prayer, just a dying wish that would carry forward as such wishes do—*let me be surrounded by beauty.*
-
-**Revision proposals:**
-- `not a thought, not a prayer, just a dying wish that would carry forward as such wishes do—*let me be surrounded by beauty` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 103:**
-> Something colored.
-
-**Revision proposals:**
-- `Something colored` → `[name the thing] colored`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 125:**
-> *In my next life,* something whispered—not a thought, not a prayer, just a dying wish that would carry forward as such wishes do—*let me be surrounded by beauty.*
-
-**Revision proposals:**
-- `something whispered` → `[name the thing] whispered`
-  - *Name the specific referent instead of using 'something'*
-
-
 ---
 
 ## Chapter 11: Lilith's Watch V
 
-**Total scenes:** 5 | **Word count:** 4,755 | **Total tics:** 15 | **Density:** 3.15 per 1K words
+**Total scenes:** 5 | **Word count:** 4,747 | **Total tics:** 7 | **Density:** 1.47 per 1K words
 
 ### Scene: `scene-01-shift`
 
@@ -2154,84 +1285,6 @@
   - *Remove unnecessary intensifier*
 - `the particular numbing` → `the [specific descriptor] numbing`
   - *Replace with concrete descriptor*
-
-
-### Scene: `scene-02-descent`
-
-**File:** `incarnations/ch11-lilith-cp05/scenes/scene-02-descent.md`
-**Word count:** 989 | **Tics:** 5 | **Density:** 5.06
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 47:**
-> Not thought—body-knowledge. A recognition that bypassed the cosmic frame and arrived direct: she had been here before. Not this cell. Not this century. But this *structure*. The chosen containment. Th
-
-**Revision proposals:**
-- `Not thought—body-knowledge` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 47:**
-> Not thought—body-knowledge. A recognition that bypassed the cosmic frame and arrived direct: she had been here before. Not this cell. Not this century. But this *structure*. The chosen containment. Th
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 3 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 55:**
-> Macarius's eyes found her. Dark, surrounded by weathered skin, carrying the particular patience of a man who had learned to wait for visitors to reveal their purpose. For a moment his gaze held on her
-
-**Revision proposals:**
-- `the particular patience` → `the patience`
-  - *Remove unnecessary intensifier*
-- `the particular patience` → `the [specific descriptor] patience`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 45:**
-> She stepped across the threshold and something flickered.
-
-**Revision proposals:**
-- `something flickered` → `[name the thing] flickered`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 69:**
-> She could not stop watching. The stillness called to something in her own stillness. The cell's blank walls reflected the flat's blank walls. His prayer-posture, when she had observed him at dawn, mat
-
-**Revision proposals:**
-- `something in her own` → `[specific quality] in the own`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-03-feeding`
-
-**File:** `incarnations/ch11-lilith-cp05/scenes/scene-03-feeding.md`
-**Word count:** 848 | **Tics:** 3 | **Density:** 3.54
-
-#### Vague "something" constructions (3 instances)
-
-**Line 29:**
-> She had been standing for hours. The position should have become unbearable—mortal bodies required movement, required adjustment, required the basic maintenance of muscles that cramped and joints that
-
-**Revision proposals:**
-- `something in that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
-**Line 57:**
-> She could not stop watching. She could not leave. Something in his stillness spoke to something in her stillness, and the speaking was not observation. The speaking was not strategic.
-
-**Revision proposals:**
-- `Something in his stillness` → `[specific quality] in the stillness`
-  - *Replace 'something' with specific descriptor*
-
-**Line 57:**
-> She could not stop watching. She could not leave. Something in his stillness spoke to something in her stillness, and the speaking was not observation. The speaking was not strategic.
-
-**Revision proposals:**
-- `something in her stillness` → `[specific quality] in the stillness`
-  - *Replace 'something' with specific descriptor*
 
 
 ### Scene: `scene-04-gathering`
@@ -2288,7 +1341,7 @@
 
 ## Chapter 12: The Lover
 
-**Total scenes:** 6 | **Word count:** 8,246 | **Total tics:** 34 | **Density:** 4.12 per 1K words
+**Total scenes:** 6 | **Word count:** 8,235 | **Total tics:** 21 | **Density:** 2.55 per 1K words
 
 ### Scene: `scene-01-arrival`
 
@@ -2407,121 +1460,18 @@
   - *Consider varying sentence structure*
 
 
-### Scene: `scene-04-glimpse`
-
-**File:** `incarnations/ch12-heian-lover/scenes/scene-04-glimpse.md`
-**Word count:** 1,180 | **Tics:** 4 | **Density:** 3.39
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 11:**
-> The Attendant. He wanted to see her before he left. Not for conversation—she rarely spoke more than the necessary courtesies—but to confirm something he could not name. To assure himself that she was 
-
-**Revision proposals:**
-- `Not for conversation—she rarely spoke more than the necessary courtesies—but to confirm something he could not name` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 17:**
-> The Attendant stood beside a wooden bucket, her hands at her sides. She was not moving. Not breathing, as far as he could tell—her chest neither rose nor fell beneath the plain robes she always wore. 
-
-**Revision proposals:**
-- `Not breathing, as far as he could tell—her chest neither rose nor fell beneath the plain robes she always wore` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 37:**
-> Kaoru could not move. His feet had rooted themselves to the floorboards. His hands hung at his sides, useless, trembling. Something in his chest had seized—not the cough, not the illness that had been
-
-**Revision proposals:**
-- `Something in his chest` → `[specific quality] in the chest`
-  - *Replace 'something' with specific descriptor*
-
-**Line 53:**
-> He understood, now. The house was not merely haunted. Something lived inside the Attendant—something that watched, that waited, that assessed visitors with eyes that did not belong in a human face. An
-
-**Revision proposals:**
-- `Something lived` → `[name the thing] lived`
-  - *Name the specific referent instead of using 'something'*
-
-
 ### Scene: `scene-05-typhoon`
 
 **File:** `incarnations/ch12-heian-lover/scenes/scene-05-typhoon.md`
-**Word count:** 1,745 | **Tics:** 10 | **Density:** 5.73
+**Word count:** 1,731 | **Tics:** 1 | **Density:** 0.58
 
-#### "Not X" repetition patterns (8 instances)
-
-**Line 15:**
-> No ox-cart would run tonight. He went on foot, keeping to the center of the avenues where the wind had less purchase, ducking into covered walkways when the gusts threatened to throw him off his feet.
-
-**Revision proposals:**
-- `not recognize—all the beauty stripped away, the bones of its architecture exposed and fragile` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 17:**
-> The Seiryō Pavilion's gates stood open. Not damaged—simply open, as though someone had forgotten to close them. Kaoru passed through without slowing and found himself on the white gravel path.
-
-**Revision proposals:**
-- `Not damaged—simply open, as though someone had forgotten to close them` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 27:**
-> "Stop!" she screamed. Not at him—at the storm itself. "This is not— you cannot— the arrangement—"
-
-**Revision proposals:**
-- `Not at him—at the storm itself` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 35:**
-> "You should not be here!" The voice flickered between registers, high and low, desperate and cold. "This was not— I was not finished— there was more time—"
-
-**Revision proposals:**
-- `not finished— there was more time—"` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 39:**
-> The Attendant screamed. Not words—something beyond language, a sound of grief so profound that it seemed to tear itself from her throat against her will. She fell to her knees in the wreckage, her han
-
-**Revision proposals:**
-- `Not words—something beyond language, a sound of grief so profound that it seemed to tear itself from her throat against her will` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 51:**
-> "Please—" Her voice was nothing like the one he had heard through the screen. Cracked, ruined, barely audible. "Please, I did not ask for— she told me it would be beautiful— she said the poet would lo
-
-**Revision proposals:**
-- `not ask for— she told me it would be beautiful— she said the poet would love me if I stayed still and let her speak—"` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 61:**
-> Not the illness that had been building for weeks—something older, something that had calcified around his heart without his knowing. The need for perfect beauty. The hunger for things that did not dec
-
-**Revision proposals:**
-- `Not the illness that had been building for weeks—something older, something that had calcified around his heart without his knowing` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 91:**
-> Kaoru remained where he was, cradling her body, surrounded by the ruins of the perfect house. He was shaking. Not from cold—from something else, something that felt like the loosening of chains he had
-
-**Revision proposals:**
-- `Not from cold—from something else, something that felt like the loosening of chains he had not known he wore` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
+#### Vague "something" constructions (1 instances)
 
 **Line 33:**
-> She turned. Her face was wild—not the clinical stillness he had seen in the service wing, but something worse, something shattered. The manic servant had collided with whatever watched behind her eyes
+> She turned. Her face was wild—the clinical stillness he had seen in the service wing was gone, replaced by something shattered. The manic servant had collided with whatever watched behind her eyes, an
 
 **Revision proposals:**
 - `something shattered` → `[name the thing] shattered`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 59:**
-> Something broke in Kaoru's chest.
-
-**Revision proposals:**
-- `Something broke` → `[name the thing] broke`
   - *Name the specific referent instead of using 'something'*
 
 
@@ -2590,7 +1540,7 @@
 
 ## Chapter 13: Lilith's Watch VI
 
-**Total scenes:** 5 | **Word count:** 2,618 | **Total tics:** 13 | **Density:** 4.97 per 1K words
+**Total scenes:** 5 | **Word count:** 2,612 | **Total tics:** 2 | **Density:** 0.77 per 1K words
 
 ### Scene: `scene-01-shift`
 
@@ -2624,168 +1574,11 @@
   - *Consider varying sentence structure*
 
 
-### Scene: `scene-03-walk`
-
-**File:** `incarnations/ch13-lilith-cp06/scenes/scene-03-walk.md`
-**Word count:** 597 | **Tics:** 3 | **Density:** 5.03
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 35:**
-> The walk back was slower. She noticed objects: a rusted bicycle lock, leaves collecting in a gutter, the way light pooled in windows where evening had begun to gather. Beauty everywhere, not because t
-
-**Revision proposals:**
-- `not because the Heian period had saturated her perception—she rejected that interpretation—but because perception was simply` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 7:**
-> Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the particular appreciation of things that would not stay. He 
-
-**Revision proposals:**
-- `the particular appreciation` → `the appreciation`
-  - *Remove unnecessary intensifier*
-- `the particular appreciation` → `the [specific descriptor] appreciation`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 43:**
-> The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where something in her had placed them while she wasn't counting days. The thread hummed—Kaoru moving towa
-
-**Revision proposals:**
-- `something in her had` → `[specific quality] in the had`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-04-backfire`
-
-**File:** `incarnations/ch13-lilith-cp06/scenes/scene-04-backfire.md`
-**Word count:** 547 | **Tics:** 5 | **Density:** 9.14
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 29:**
-> And then he had left. Not entrapped. Not bound. Released.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 51:**
-> But the warmth in her hands would not explain itself as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
-
-**Revision proposals:**
-- `not explain itself as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 43:**
-> She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the particular way that meant transmission rathe
-
-**Revision proposals:**
-- `the particular way` → `the way`
-  - *Remove unnecessary intensifier*
-- `the particular way` → `the [specific descriptor] way`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 23:**
-> The memory arrived as heat: his gaze finding hers—the vessel's gaze, but hers beneath—and something in that looking that was almost recognition.
-
-**Revision proposals:**
-- `something in that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
-**Line 45:**
-> Something in her chest that was not pain but adjacent.
-
-**Revision proposals:**
-- `Something in her chest` → `[specific quality] in the chest`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-05-the-knot`
-
-**File:** `incarnations/ch13-lilith-cp06/scenes/scene-05-the-knot.md`
-**Word count:** 544 | **Tics:** 3 | **Density:** 5.51
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 29:**
-> She had walked to where he would be. Not the historical consciousness—*him*. The present-day him. The one she had not yet met.
-
-**Revision proposals:**
-- `Not the historical consciousness—*him*` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 31:**
-> The thread hummed forward. Not toward Heian anymore—that branch complete, Kaoru dissolved into the pattern that continued—but toward Spain. The Inquisition. A converso priest named Diego de la Cruz, f
-
-**Revision proposals:**
-- `Not toward Heian anymore—that branch complete, Kaoru dissolved into the pattern that continued—but toward Spain` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 51:**
-> She did not notice that she had already begun thinking of him as *him*—not the thread, not the soul, not the consciousness requiring intervention—but *him*. A person. Present tense. Someone she had no
-
-**Revision proposals:**
-- `not notice that she had already begun thinking of him as *him*—not the thread, not the soul, not the consciousness requiring intervention—but *him*` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-
 ---
 
 ## Chapter 14: The Accused
 
-**Total scenes:** 9 | **Word count:** 18,039 | **Total tics:** 48 | **Density:** 2.66 per 1K words
-
-### Scene: `scene-01-performance`
-
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-01-performance.md`
-**Word count:** 1,500 | **Tics:** 4 | **Density:** 2.67
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 39:**
-> The room did not spin. The walls did not close. Diego's hands touched the table's edge and remained there, steady as always, while something beneath his ribs—something he had learned not to name—went 
-
-**Revision proposals:**
-- `not to name—went very still` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 11:**
-> "Physician." Don Cristóbal's voice carried the particular warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old 
-
-**Revision proposals:**
-- `the particular warmth` → `the warmth`
-  - *Remove unnecessary intensifier*
-- `the particular warmth` → `the [specific descriptor] warmth`
-  - *Replace with concrete descriptor*
-
-**Line 57:**
-> "She counsels those in distress." Inés's voice carried an edge Diego recognized—the particular wariness that came from living always on guard, always watching, always aware that survival meant reading
-
-**Revision proposals:**
-- `the particular wariness` → `the wariness`
-  - *Remove unnecessary intensifier*
-- `the particular wariness` → `the [specific descriptor] wariness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 53:**
-> Diego had seen her in the streets. Dark hair beneath her veil, a particular stillness in how she moved, eyes that seemed to look through the surface of things to some truth beneath. He had never liked
-
-**Revision proposals:**
-- `something about her face` → `[specific quality] about the face`
-  - *Replace 'something' with specific descriptor*
-
+**Total scenes:** 9 | **Word count:** 18,026 | **Total tics:** 38 | **Density:** 2.11 per 1K words
 
 ### Scene: `scene-02-holy-woman`
 
@@ -2843,58 +1636,6 @@
 
 **Revision proposals:**
 - `something flickered` → `[name the thing] flickered`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-03-knock`
-
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-03-knock.md`
-**Word count:** 2,067 | **Tics:** 6 | **Density:** 2.90
-
-#### "Not X" repetition patterns (5 instances)
-
-**Line 13:**
-> Not at a neighboring house. Not at Tomás's door across the lane. They stopped outside Diego's threshold, and in the moment before the knock came, he understood with absolute clarity that his life—the 
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 37:**
-> Diego could not answer. The words locked in his throat, too large to pass, too weighted with everything unsaid across twenty years of marriage lived in performance and fear. He touched his free hand t
-
-**Revision proposals:**
-- `not made sound for—and then drew back the bolt` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 59:**
-> One of the younger familiares stepped forward with a length of rope. Not chains—the Holy Office did not chain its prisoners through public streets, did not make spectacle of arrests. The restraint was
-
-**Revision proposals:**
-- `Not chains—the Holy Office did not chain its prisoners through public streets, did not make spectacle of arrests` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 71:**
-> The street remained empty as they walked. Not empty of people—Diego could feel the eyes behind every shutter, the held breath of neighbors who knew him, who had bought his medicines, who had shared th
-
-**Revision proposals:**
-- `Not empty of people—Diego could feel the eyes behind every shutter, the held breath of neighbors who knew him, who had bought his medicines, who had shared the same Quarter and the same fear and the same calculation that now kept them hidden lest association prove contagious` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 79:**
-> Something moved in Diego's chest. Not quite hatred—not yet—but the seed from which hatred might grow. The recognition that Tomás had chosen. That the choice might have been impossible, might have been
-
-**Revision proposals:**
-- `Not quite hatred—not yet—but the seed from which hatred might grow` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 79:**
-> Something moved in Diego's chest. Not quite hatred—not yet—but the seed from which hatred might grow. The recognition that Tomás had chosen. That the choice might have been impossible, might have been
-
-**Revision proposals:**
-- `Something moved` → `[name the thing] moved`
   - *Name the specific referent instead of using 'something'*
 
 
@@ -3181,12 +1922,12 @@
 
 ## Chapter 15: Lilith's Watch VII
 
-**Total scenes:** 8 | **Word count:** 4,556 | **Total tics:** 23 | **Density:** 5.05 per 1K words
+**Total scenes:** 8 | **Word count:** 4,553 | **Total tics:** 10 | **Density:** 2.20 per 1K words
 
 ### Scene: `scene-01-walls`
 
 **File:** `incarnations/ch15-lilith-cp07/scenes/scene-01-walls.md`
-**Word count:** 567 | **Tics:** 5 | **Density:** 8.82
+**Word count:** 553 | **Tics:** 1 | **Density:** 1.81
 
 #### Abstract nouns performing physical actions (1 instances)
 
@@ -3196,44 +1937,6 @@
 **Revision proposals:**
 - `thought dissolved` → `[Rephrase with human subject or concrete imagery]`
   - *Abstract noun 'thought' performing physical action 'dissolved'*
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 15:**
-> Not Diego—not exactly. The man whose thread she tracked. He had felt Sor Catalina's presence and recoiled without knowing why. Something in her face, in her stillness, in the way her eyes looked throu
-
-**Revision proposals:**
-- `Not Diego—not exactly` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 5:**
-> Lilith carried the cup to the sink and the motion was also Sor Catalina moving through the converso quarter—grey habit against grey walls, certainty against uncertainty, the particular stillness of a 
-
-**Revision proposals:**
-- `the particular stillness` → `the stillness`
-  - *Remove unnecessary intensifier*
-- `the particular stillness` → `the [specific descriptor] stillness`
-  - *Replace with concrete descriptor*
-
-**Line 11:**
-> In Toledo, evening gathered in the streets like accusation. Windows watching windows. Neighbours cataloguing neighbours. The particular architecture of suspicion that made every gesture significant, e
-
-**Revision proposals:**
-- `The particular architecture` → `The architecture`
-  - *Remove unnecessary intensifier*
-- `The particular architecture` → `the [specific descriptor] architecture`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 15:**
-> Not Diego—not exactly. The man whose thread she tracked. He had felt Sor Catalina's presence and recoiled without knowing why. Something in her face, in her stillness, in the way her eyes looked throu
-
-**Revision proposals:**
-- `Something in her face` → `[specific quality] in the face`
-  - *Replace 'something' with specific descriptor*
 
 
 ### Scene: `scene-02-pattern`
@@ -3299,30 +2002,6 @@
   - *Consider varying sentence structure*
 
 
-### Scene: `scene-05-memory`
-
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-05-memory.md`
-**Word count:** 342 | **Tics:** 2 | **Density:** 5.85
-
-#### Abstract nouns performing physical actions (1 instances)
-
-**Line 11:**
-> The feeling dissolved before she could name it.
-
-**Revision proposals:**
-- `feeling dissolved` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'feeling' performing physical action 'dissolved'*
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 3:**
-> She rose from the chair and the rising did not help—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's nar
-
-**Revision proposals:**
-- `not help—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as Diego's cell, as every enclosure she had tracked and tracked toward` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-
 ### Scene: `scene-06-chamber`
 
 **File:** `incarnations/ch15-lilith-cp07/scenes/scene-06-chamber.md`
@@ -3347,48 +2026,10 @@
   - *Replace 'something' with specific descriptor*
 
 
-### Scene: `scene-07-fire`
-
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-07-fire.md`
-**Word count:** 1,002 | **Tics:** 4 | **Density:** 3.99
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 45:**
-> The recognition was not his—he did not know her, could not name her, understood only that something about the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. 
-
-**Revision proposals:**
-- `not his—he did not know her, could not name her, understood only that something about the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 63:**
-> The sensation was unlike any backfire before. Not failure—something worse. Something that felt like loss wearing strategy's clothing.
-
-**Revision proposals:**
-- `Not failure—something worse` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 23:**
-> Diego looked at Tomás and the ember flickered in his eyes—rage, the poison she had planted—and then something shifted. His jaw loosened. His hands, bound to the stake, unclenched. The ember went out.
-
-**Revision proposals:**
-- `something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 45:**
-> The recognition was not his—he did not know her, could not name her, understood only that something about the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. 
-
-**Revision proposals:**
-- `something about the holy` → `[specific quality] about the holy`
-  - *Replace 'something' with specific descriptor*
-
-
 ### Scene: `scene-08-seed`
 
 **File:** `incarnations/ch15-lilith-cp07/scenes/scene-08-seed.md`
-**Word count:** 615 | **Tics:** 5 | **Density:** 8.13
+**Word count:** 627 | **Tics:** 2 | **Density:** 3.19
 
 #### Em-dash excess (>2 pairs per paragraph) (1 instances)
 
@@ -3399,28 +2040,7 @@
 - `[Multiple em-dash pairs in paragraph]` → `Convert some to periods or semicolons`
   - *Paragraph has 5 em-dashes (2 pairs). Consider varying punctuation.*
 
-#### "Not X" repetition patterns (4 instances)
-
-**Line 39:**
-> The need surfaced before she could suppress it. Not confession—not yet—but the first intimation of what confession might offer. Someone who understood. Someone who had been there. Someone who could se
-
-**Revision proposals:**
-- `Not confession—not yet—but the first intimation of what confession might offer` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 43:**
-> But the direction was forming. Not opposition. Not distance. Not the methods that had failed for seven incarnations.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 3 sentences starting with 'Not'*
-
-**Line 51:**
-> Direction. Not decision. Not yet.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
+#### "Not X" repetition patterns (1 instances)
 
 **Line 66:**
 > **Shift toward Ch 17 (subtle):** "Not the goal—the method"—intellectual approach beginning to form
@@ -3434,7 +2054,7 @@
 
 ## Chapter 16: The Skeptic
 
-**Total scenes:** 9 | **Word count:** 13,500 | **Total tics:** 16 | **Density:** 1.19 per 1K words
+**Total scenes:** 9 | **Word count:** 13,493 | **Total tics:** 13 | **Density:** 0.96 per 1K words
 
 ### Scene: `scene-01-assignment`
 
@@ -3530,39 +2150,16 @@
 ### Scene: `scene-07-temptation`
 
 **File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-07-temptation.md`
-**Word count:** 1,751 | **Tics:** 4 | **Density:** 2.28
+**Word count:** 1,744 | **Tics:** 1 | **Density:** 0.57
 
-#### "Not X" repetition patterns (2 instances)
-
-**Line 49:**
-> "Then the magistrate demands what cannot be honestly given." Marguerite's tone was patient, relentless. "You cannot manufacture certainty from insufficient evidence. To force a conclusion despite unce
-
-**Revision proposals:**
-- `not investigation—it is fiction dressed as fact` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
+#### "Not X" repetition patterns (1 instances)
 
 **Line 113:**
-> Jean touched his fingers one final time and felt the gesture settle into something other than fortress. Not measurement of certainty. Just recognition that some questions could be honestly answered wi
+> Jean touched his fingers one final time and felt the gesture settle into something other than fortress. Recognition rather than measurement of certainty. That some questions could be honestly answered
 
 **Revision proposals:**
 - `not know"—and that answering them that way was itself a form of action` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 3:**
-> Marguerite answered his knock herself. She held a candle that carved her face into planes of light and shadow, and for a moment Jean saw something in her expression that seemed older than the face tha
-
-**Revision proposals:**
-- `something in her expression` → `[specific quality] in the expression`
-  - *Replace 'something' with specific descriptor*
-
-**Line 81:**
-> Marguerite's expression did not change, but something in her stillness suggested Jean had surprised her. "Responsibility for what action?"
-
-**Revision proposals:**
-- `something in her stillness` → `[specific quality] in the stillness`
-  - *Replace 'something' with specific descriptor*
 
 
 ### Scene: `scene-08-report`
@@ -3622,7 +2219,7 @@
 
 ## Chapter 17: Lilith's Watch VIII
 
-**Total scenes:** 8 | **Word count:** 3,433 | **Total tics:** 16 | **Density:** 4.66 per 1K words
+**Total scenes:** 8 | **Word count:** 3,425 | **Total tics:** 5 | **Density:** 1.46 per 1K words
 
 ### Scene: `scene-01-one-more-method`
 
@@ -3646,130 +2243,19 @@
   - *Consider varying sentence structure*
 
 
-### Scene: `scene-02-the-vessel`
-
-**File:** `incarnations/ch17-lilith-cp08/scenes/scene-02-the-vessel.md`
-**Word count:** 408 | **Tics:** 3 | **Density:** 7.35
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 7:**
-> That was the elegance of the method. Not possession—Lilith did not become the widow, did not override her consciousness or speak with her mouth as if puppeting empty flesh. She pushed *through*. Ampli
-
-**Revision proposals:**
-- `Not possession—Lilith did not become the widow, did not override her consciousness or speak with her mouth as if puppeting empty flesh` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 15:**
-> And in Manchester, Lilith felt the satisfaction of precision deployed. The arguments were working. Jean de Langon stood in the print shop with pamphlets in his hands and doubt in his posture, and he w
-
-**Revision proposals:**
-- `Not to manipulation—to ideas he had already considered, articulated by someone who voiced them better than he could voice them himself` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 21:**
-> The difference—the one Lilith did not let herself consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
-
-**Revision proposals:**
-- `not let herself consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-
-### Scene: `scene-04-the-letter`
-
-**File:** `incarnations/ch17-lilith-cp08/scenes/scene-04-the-letter.md`
-**Word count:** 432 | **Tics:** 3 | **Density:** 6.94
-
-#### Abstract nouns performing physical actions (1 instances)
-
-**Line 27:**
-> Lilith felt the certainty crystallize: *This will work. The letter's ambiguity will paralyze him. One more push and—*
-
-**Revision proposals:**
-- `certainty crystallize` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'certainty' performing physical action 'crystallize'*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 7:**
-> "Nearly missed it," Marguerite murmured, and the words were her own—the widow's genuine observation at finding something misfiled. "Among other correspondence. The provenance is uncertain."
-
-**Revision proposals:**
-- `something misfiled` → `[name the thing] misfiled`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 29:**
-> Something flickered. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
-
-**Revision proposals:**
-- `Something flickered` → `[name the thing] flickered`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-05-the-temptation`
-
-**File:** `incarnations/ch17-lilith-cp08/scenes/scene-05-the-temptation.md`
-**Word count:** 450 | **Tics:** 3 | **Density:** 6.67
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 1:**
-> The print shop at midnight held the particular intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spo
-
-**Revision proposals:**
-- `the particular intimacy` → `the intimacy`
-  - *Remove unnecessary intensifier*
-- `the particular intimacy` → `the [specific descriptor] intimacy`
-  - *Replace with concrete descriptor*
-
-**Line 7:**
-> Jean set down his wine cup. His face held the particular stillness of a man confronting the logical endpoint of his own principles.
-
-**Revision proposals:**
-- `the particular stillness` → `the stillness`
-  - *Remove unnecessary intensifier*
-- `the particular stillness` → `the [specific descriptor] stillness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 39:**
-> And something in his face had changed.
-
-**Revision proposals:**
-- `something in his face` → `[specific quality] in the face`
-  - *Replace 'something' with specific descriptor*
-
-
 ### Scene: `scene-07-the-death`
 
 **File:** `incarnations/ch17-lilith-cp08/scenes/scene-07-the-death.md`
-**Word count:** 425 | **Tics:** 3 | **Density:** 7.06
+**Word count:** 426 | **Tics:** 1 | **Density:** 2.35
 
 #### "Not X" repetition patterns (1 instances)
 
 **Line 29:**
-> Something in her chest—not grief, she could not afford grief—pulled toward him. Toward continuing. Toward *what?*
+> A pull in her chest—she could not afford to call it grief—drew her toward him. Toward continuing. Toward *what?*
 
 **Revision proposals:**
-- `not grief, she could not afford grief—pulled toward him` → `[Rephrase without 'Not X—Y' structure]`
+- `not afford to call it grief—drew her toward him` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 15:**
-> Something tightened in Lilith's chest that she refused to name.
-
-**Revision proposals:**
-- `Something tightened` → `[name the thing] tightened`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 29:**
-> Something in her chest—not grief, she could not afford grief—pulled toward him. Toward continuing. Toward *what?*
-
-**Revision proposals:**
-- `Something in her chest` → `[specific quality] in the chest`
-  - *Replace 'something' with specific descriptor*
 
 
 ### Scene: `scene-08-one-more`
@@ -3921,7 +2407,7 @@
 
 ## Chapter 19: Lilith's Watch IX
 
-**Total scenes:** 8 | **Word count:** 9,659 | **Total tics:** 14 | **Density:** 1.45 per 1K words
+**Total scenes:** 8 | **Word count:** 9,651 | **Total tics:** 10 | **Density:** 1.04 per 1K words
 
 ### Scene: `scene-02-curse-spreads`
 
@@ -3938,48 +2424,6 @@
   - *Remove unnecessary intensifier*
 - `the particular scent` → `the [specific descriptor] scent`
   - *Replace with concrete descriptor*
-
-
-### Scene: `scene-03-doctrine-collapse`
-
-**File:** `incarnations/ch19-lilith-cp09/scenes/scene-03-doctrine-collapse.md`
-**Word count:** 1,099 | **Tics:** 4 | **Density:** 3.64
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 31:**
-> Wei felt nothing when the news came. The emptiness where faith had been was not new emptiness—it had been hollowing for months, for years, since the first time he'd watched someone he'd saved die for 
-
-**Revision proposals:**
-- `not new emptiness—it had been hollowing for months, for years, since the first time he'd watched someone he'd saved die for reasons he couldn't explain, since the pattern had become undeniable, since the whispers started and he'd begun to see himself as the curse rather than the cure` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 57:**
-> Not relevant. Not now.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 35:**
-> That night—June third, 1864, though he'd stopped tracking dates with the same precision he'd once tracked saved versus lost—Wei sat in the empty Buddha alcove of the converted temple. The idol had bee
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 35:**
-> That night—June third, 1864, though he'd stopped tracking dates with the same precision he'd once tracked saved versus lost—Wei sat in the empty Buddha alcove of the converted temple. The idol had bee
-
-**Revision proposals:**
-- `something sacred` → `[name the thing] sacred`
-  - *Name the specific referent instead of using 'something'*
 
 
 ### Scene: `scene-05-breakthrough-death`
@@ -4085,7 +2529,7 @@
 
 ## Chapter 20: The Detective
 
-**Total scenes:** 8 | **Word count:** 10,696 | **Total tics:** 24 | **Density:** 2.24 per 1K words
+**Total scenes:** 8 | **Word count:** 10,690 | **Total tics:** 18 | **Density:** 1.68 per 1K words
 
 ### Scene: `scene-03-first-blood`
 
@@ -4188,58 +2632,6 @@
   - *Consider varying sentence structure*
 
 
-### Scene: `scene-07-the-flood`
-
-**File:** `incarnations/ch20-noir-detective/scenes/scene-07-the-flood.md`
-**Word count:** 1,642 | **Tics:** 6 | **Density:** 3.65
-
-#### Abstract nouns performing physical actions (1 instances)
-
-**Line 55:**
-> I thought about the murder charge still hanging over my head. About the death threats, the ransacked office, the pattern of destruction that had followed me for months. About the certainty, growing st
-
-**Revision proposals:**
-- `certainty growing` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'certainty' performing physical action 'growing'*
-
-#### "Not X" repetition patterns (5 instances)
-
-**Line 25:**
-> Not destroyed—gone. The filing cabinets stood open and empty. The desk drawers had been pulled out and dumped. My safe, the one they'd already cracked once, had been hauled away entirely, leaving only
-
-**Revision proposals:**
-- `Not destroyed—gone` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 29:**
-> Not anger. Not despair. Something deeper. A kind of clarity that came from having lost everything there was to lose.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 35:**
-> It contained maybe a fifth of what I'd known. Names, dates, fragments. Not enough to make a case. Not enough to bring down anyone.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 95:**
-> By the end, we had maybe twenty pages. Not a case. Not proof. But a map of the corruption, detailed enough that anyone who wanted to follow it could.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 133:**
-> Not because I thought I could win. Not because I believed in justice or redemption or any of the noble abstractions that men used to justify dying.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-
 ### Scene: `scene-08-the-car`
 
 **File:** `incarnations/ch20-noir-detective/scenes/scene-08-the-car.md`
@@ -4317,7 +2709,7 @@
 
 ## Chapter 21: Lilith's Watch X
 
-**Total scenes:** 5 | **Word count:** 3,595 | **Total tics:** 12 | **Density:** 3.34 per 1K words
+**Total scenes:** 5 | **Word count:** 3,586 | **Total tics:** 9 | **Density:** 2.51 per 1K words
 
 ### Scene: `scene-01-loose-weave`
 
@@ -4369,7 +2761,7 @@
 ### Scene: `scene-04-death-sighting`
 
 **File:** `incarnations/ch21-lilith-cp10/scenes/scene-04-death-sighting.md`
-**Word count:** 887 | **Tics:** 7 | **Density:** 7.89
+**Word count:** 878 | **Tics:** 4 | **Density:** 4.56
 
 #### Abstract nouns performing physical actions (3 instances)
 
@@ -4403,33 +2795,6 @@
 - `not nothing—while she watched from the edge of the alley, while she approached from across the reception room, while both gestures revealed the same truth she could not see` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (1 instances)
-
-**Line 23:**
-> —the smell of wine, cologne, the particular staleness of institutional air—
-
-**Revision proposals:**
-- `the particular staleness` → `the staleness`
-  - *Remove unnecessary intensifier*
-- `the particular staleness` → `the [specific descriptor] staleness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 43:**
-> —something flickered in his expression, recognition that couldn't quite catch—
-
-**Revision proposals:**
-- `something flickered` → `[name the thing] flickered`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 45:**
-> —something flickered in her left eye, the pale green crescent—
-
-**Revision proposals:**
-- `something flickered` → `[name the thing] flickered`
-  - *Name the specific referent instead of using 'something'*
-
 
 ### Scene: `scene-05-the-pivot`
 
@@ -4459,7 +2824,7 @@
 
 ## Chapter 22: The Breakthrough
 
-**Total scenes:** 9 | **Word count:** 9,353 | **Total tics:** 33 | **Density:** 3.53 per 1K words
+**Total scenes:** 9 | **Word count:** 9,333 | **Total tics:** 19 | **Density:** 2.04 per 1K words
 
 ### Scene: `scene-01-the-chain`
 
@@ -4598,104 +2963,6 @@
   - *Replace with concrete descriptor*
 
 
-### Scene: `scene-05-wakes-home`
-
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-05-wakes-home.md`
-**Word count:** 1,020 | **Tics:** 5 | **Density:** 4.90
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 21:**
-> The movement felt different. Not in his body—his body moved as it had always moved, subject to the same stiffness and physical memory. But the *one* who moved, the Silas who had always been so firmly 
-
-**Revision proposals:**
-- `Not in his body—his body moved as it had always moved, subject to the same stiffness and physical memory` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 33:**
-> Not absent the way it would be if he were depressed or empty—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the old
-
-**Revision proposals:**
-- `Not absent the way it would be if he were depressed or empty—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 51:**
-> He would see her again. This certainty felt different from the wanting that would normally accompany such knowledge. Not desire, exactly. Not need. Something more like recognition, the way you recogni
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 3:**
-> Silas opened his eyes to a ceiling he recognized—the familiar cracks and shadows of his bedroom in the faculty housing complex, the way the plaster caught the particular grey-gold of Manchester mornin
-
-**Revision proposals:**
-- `the particular grey` → `the grey`
-  - *Remove unnecessary intensifier*
-- `the particular grey` → `the [specific descriptor] grey`
-  - *Replace with concrete descriptor*
-
-**Line 27:**
-> The faculty housing complex looked out over a green space between buildings, trees and benches and a path that led toward the main campus. This morning, the green sparkled with the aftermath of the st
-
-**Revision proposals:**
-- `the particular clean` → `the clean`
-  - *Remove unnecessary intensifier*
-- `the particular clean` → `the [specific descriptor] clean`
-  - *Replace with concrete descriptor*
-
-
-### Scene: `scene-06-past-lives`
-
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-06-past-lives.md`
-**Word count:** 1,189 | **Tics:** 5 | **Density:** 4.21
-
-#### "Not X" repetition patterns (3 instances)
-
-**Line 3:**
-> Not intruding—that was the difference from before. Yesterday's fragmentary flashes had been violent, disconnected, shards of glass catching light at painful angles. Blood in his mouth from a fight he 
-
-**Revision proposals:**
-- `Not intruding—that was the difference from before` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 65:**
-> The wheel became visible. Not metaphor—structure. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had 
-
-**Revision proposals:**
-- `Not metaphor—structure` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 69:**
-> The thought arrived with the force of revelation. Not a single life without her watching. Not a single death without her presence somewhere at its edge. The same face, the same widow's peak, the same 
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 27:**
-> Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the p
-
-**Revision proposals:**
-- `the particular blindness` → `the blindness`
-  - *Remove unnecessary intensifier*
-- `the particular blindness` → `the [specific descriptor] blindness`
-  - *Replace with concrete descriptor*
-
-**Line 39:**
-> Kaoru. Heian Japan, where beauty was theology and longing was devotional practice. The particular quality of morning light through shoji screens, the poetry written to women he'd met once, the wife he
-
-**Revision proposals:**
-- `The particular quality` → `The quality`
-  - *Remove unnecessary intensifier*
-- `The particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-
 ### Scene: `scene-07-he-sees-her`
 
 **File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-07-he-sees-her.md`
@@ -4744,47 +3011,11 @@
   - *Consider varying sentence structure*
 
 
-### Scene: `scene-09-door-opens`
-
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-09-door-opens.md`
-**Word count:** 750 | **Tics:** 4 | **Density:** 5.33
-
-#### "Not X" repetition patterns (4 instances)
-
-**Line 3:**
-> Not concluded—settled. The way sediment settles after turbulence, revealing the water's clarity. The elements that had been swirling through his consciousness were still there, but they'd found their 
-
-**Revision proposals:**
-- `Not concluded—settled` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 5:**
-> All of it present. All of it integrated. Not understood—that would take longer, maybe lifetimes—but integrated, the way a body integrates food into muscle and bone without understanding the chemistry.
-
-**Revision proposals:**
-- `Not understood—that would take longer, maybe lifetimes—but integrated, the way a body integrates food into muscle and bone without understanding the chemistry` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 9:**
-> The recognition came without announcement. His body had finished processing what his mind hadn't caught up with, and now it wanted motion. Not urgency—just readiness. The still point had held long eno
-
-**Revision proposals:**
-- `Not urgency—just readiness` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 25:**
-> He walked to his front door. Not driven, not urgent—just the body ready to move, to step outside, to continue the day that was unfolding. His hand found the doorknob, cool brass worn smooth by the han
-
-**Revision proposals:**
-- `Not driven, not urgent—just the body ready to move, to step outside, to continue the day that was unfolding` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-
 ---
 
 ## Chapter 23: The Celestial Realm
 
-**Total scenes:** 5 | **Word count:** 6,554 | **Total tics:** 40 | **Density:** 6.10 per 1K words
+**Total scenes:** 5 | **Word count:** 6,497 | **Total tics:** 24 | **Density:** 3.69 per 1K words
 
 ### Scene: `scene-01-arrival`
 
@@ -4831,7 +3062,7 @@
 ### Scene: `scene-02-garden-of-delights`
 
 **File:** `incarnations/ch23-deva-celestial/scenes/scene-02-garden-of-delights.md`
-**Word count:** 1,245 | **Tics:** 9 | **Density:** 7.23
+**Word count:** 1,236 | **Tics:** 4 | **Density:** 3.24
 
 #### Abstract nouns performing physical actions (2 instances)
 
@@ -4849,14 +3080,7 @@
 - `awareness moved` → `[Rephrase with human subject or concrete imagery]`
   - *Abstract noun 'awareness' performing physical action 'moved'*
 
-#### "Not X" repetition patterns (5 instances)
-
-**Line 9:**
-> Not approaching—they didn't need to approach, the way you don't need to approach your own thoughts. They were simply *there* when attention turned toward them: ancient consciousnesses, luminous and va
-
-**Revision proposals:**
-- `Not approaching—they didn't need to approach, the way you don't need to approach your own thoughts` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
+#### "Not X" repetition patterns (1 instances)
 
 **Line 29:**
 > The question arose naturally. The deva beings had been here for what might have been eons—time operated differently, was optional, could be compressed or extended by attention. They seemed content in 
@@ -4865,35 +3089,7 @@
 - `Multiple 'Not X' sentences` → `Vary sentence openings`
   - *Line has 3 sentences starting with 'Not'*
 
-**Line 45:**
-> He could feel the shift happening—the fourth fetter, sensual desire, loosening its ancient hold. Not through effort. Not through the careful cultivation of detachment that spiritual practice had tried
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 59:**
-> Not obvious—nothing about the realm suggested wrongness or danger. But the awareness that had traveled through ten lives of learning could perceive what the deva beings had lost: momentum. The perfect
-
-**Revision proposals:**
-- `Not obvious—nothing about the realm suggested wrongness or danger` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 71:**
-> Not the grasping at pleasure—that had already loosened. Something else: the grasping at spiritual achievement. The subtle pride of progress. *I have reached the deva realm; I am beyond ordinary consci
-
-**Revision proposals:**
-- `Not the grasping at pleasure—that had already loosened` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 23:**
-> Something in the awareness that had been Silas registered the temptation before recognizing it as temptation.
-
-**Revision proposals:**
-- `Something in the awareness` → `[specific quality] in the awareness`
-  - *Replace 'something' with specific descriptor*
+#### Vague "something" constructions (1 instances)
 
 **Line 81:**
 > The phantom sense of body—memory of weight, of solidity, of flesh—had been relief in its absence. But something in the absence called forward: *you will return.* The once-returner's trajectory implied
@@ -4975,93 +3171,6 @@
   - *Replace 'something' with specific descriptor*
 
 
-### Scene: `scene-04-ill-will-dissolves`
-
-**File:** `incarnations/ch23-deva-celestial/scenes/scene-04-ill-will-dissolves.md`
-**Word count:** 1,131 | **Tics:** 11 | **Density:** 9.73
-
-#### "Not X" repetition patterns (8 instances)
-
-**Line 3:**
-> Not the realm—the realm continued its harmonics, its light-frequencies, its patient availability to whatever chose to move through it. The shift was subtler: an orientation adjusted, an angle changed,
-
-**Revision proposals:**
-- `Not the realm—the realm continued its harmonics, its light-frequencies, its patient availability to whatever chose to move through it` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 29:**
-> Not because he'd suppressed it—suppression was just aversion with a different mask. Not because he'd cultivated equanimity through careful practice, building tolerance like muscle. The opposition simp
-
-**Revision proposals:**
-- `Not because he'd suppressed it—suppression was just aversion with a different mask` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 29:**
-> Not because he'd suppressed it—suppression was just aversion with a different mask. Not because he'd cultivated equanimity through careful practice, building tolerance like muscle. The opposition simp
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 39:**
-> The awareness rested in the question. Not searching for answer. Not demanding resolution. Simply present with the inquiry, curious about what would emerge.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 51:**
-> Not suppression. Not forced calm. Not the disciplined restraint of someone gritting through discomfort. The actual absence of the impulse to push back. The fetter loosening until it no longer gripped,
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 3 sentences starting with 'Not'*
-
-**Line 61:**
-> The wheel still turned. Even here, in a realm that seemed to have transcended turning, the wheel's momentum persisted in the one who had entered it. Not failure—momentum was how progress happened, how
-
-**Revision proposals:**
-- `Not failure—momentum was how progress happened, how one state led to the next, how the path could be walked at all` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 65:**
-> The awareness that had been Silas oriented toward it. Not with the old urgency that would have been another form of grasping. Not with resistance toward the comfortable realm being left. Simply with a
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 75:**
-> And something ahead—glimpsed, not seen—carried the quality of futures, of time, of the world he'd left when Manchester's morning opened into this.
-
-**Revision proposals:**
-- `not seen—carried the quality of futures, of time, of the world he'd left when Manchester's morning opened into this` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (3 instances)
-
-**Line 35:**
-> The insight landed with the force of something remembered rather than discovered. Of course there was no one to resist. Of course aversion was as empty as attraction, as optional as the body he'd set 
-
-**Revision proposals:**
-- `something remembered` → `[name the thing] remembered`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 53:**
-> The deva realm hummed with its patience. There was no hurry here—that remained true. But something else was becoming true alongside it: time beginning to matter again. Not the measured time of bodies 
-
-**Revision proposals:**
-- `something like duration` → `duration`
-  - *Consider naming it directly instead of 'something like'*
-
-**Line 53:**
-> The deva realm hummed with its patience. There was no hurry here—that remained true. But something else was becoming true alongside it: time beginning to matter again. Not the measured time of bodies 
-
-**Revision proposals:**
-- `something like sequence` → `sequence`
-  - *Consider naming it directly instead of 'something like'*
-
-
 ### Scene: `scene-05-threshold-forward`
 
 **File:** `incarnations/ch23-deva-celestial/scenes/scene-05-threshold-forward.md`
@@ -5132,28 +3241,14 @@
 
 ## Chapter 24: The Prophet
 
-**Total scenes:** 8 | **Word count:** 8,313 | **Total tics:** 49 | **Density:** 5.89 per 1K words
+**Total scenes:** 8 | **Word count:** 8,271 | **Total tics:** 11 | **Density:** 1.33 per 1K words
 
 ### Scene: `scene-01-condensation`
 
 **File:** `incarnations/ch24-future-prophet/scenes/scene-01-condensation.md`
-**Word count:** 1,196 | **Tics:** 9 | **Density:** 7.53
+**Word count:** 1,177 | **Tics:** 4 | **Density:** 3.40
 
-#### "Not X" repetition patterns (3 instances)
-
-**Line 3:**
-> Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location. Something that had been everywhere was narrowing toward somewhere
-
-**Revision proposals:**
-- `Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 37:**
-> Containment. After the Deva Realm's expansion, the sudden boundary of skin, the precise limit of where she ended and not-she began. She had shed this ten thousand times—the cramped sensation of flesh,
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
+#### "Not X" repetition patterns (1 instances)
 
 **Line 59:**
 > Two manufactured bodies drew first calibrated breaths. Two ancient consciousnesses adjusted to new containers, the weight of designed flesh pressing down on awareness that remembered weightlessness. N
@@ -5162,25 +3257,7 @@
 - `not yet, not consciously—but both registered something at the edge of perception` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (3 instances)
-
-**Line 3:**
-> Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location. Something that had been everywhere was narrowing toward somewhere
-
-**Revision proposals:**
-- `the particular density` → `the density`
-  - *Remove unnecessary intensifier*
-- `the particular density` → `the [specific descriptor] density`
-  - *Replace with concrete descriptor*
-
-**Line 21:**
-> Something in the absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the particular texture of a world. Only precision. Only the ste
-
-**Revision proposals:**
-- `the particular texture` → `the texture`
-  - *Remove unnecessary intensifier*
-- `the particular texture` → `the [specific descriptor] texture`
-  - *Replace with concrete descriptor*
+#### "The particular [noun]" usage (1 instances)
 
 **Line 45:**
 > Weight. The particular sensation of mass subject to gravity.
@@ -5191,14 +3268,7 @@
 - `The particular sensation` → `the [specific descriptor] sensation`
   - *Replace with concrete descriptor*
 
-#### Vague "something" constructions (3 instances)
-
-**Line 21:**
-> Something in the absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the particular texture of a world. Only precision. Only the ste
-
-**Revision proposals:**
-- `Something in the absence` → `[specific quality] in the absence`
-  - *Replace 'something' with specific descriptor*
+#### Vague "something" constructions (2 instances)
 
 **Line 27:**
 > The assessment arrived without judgment. Whatever the protocols offered, whatever serenity the calibrated frequencies tried to install, something in him perceived the absence beneath the offering. For
@@ -5215,313 +3285,30 @@
   - *Replace 'something' with specific descriptor*
 
 
-### Scene: `scene-02-formation`
-
-**File:** `incarnations/ch24-future-prophet/scenes/scene-02-formation.md`
-**Word count:** 894 | **Tics:** 4 | **Density:** 4.47
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 9:**
-> Not that he refused—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration. He simply... missed. The prescribed serenity settled over his
-
-**Revision proposals:**
-- `Not that he refused—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 13:**
-> The thought surfaced repeatedly across the decades of his formation. Not something wrong with him—though the system would have preferred that explanation, would have offered treatments for deviation, 
-
-**Revision proposals:**
-- `Not something wrong with him—though the system would have preferred that explanation, would have offered treatments for deviation, solutions for anomaly` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 25:**
-> But something persisted beneath the prescribed calm that covered his surface.
-
-**Revision proposals:**
-- `something persisted` → `[name the thing] persisted`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 49:**
-> But the flicker persisted in his awareness like an afterimage, like the outline of something glimpsed too quickly to identify, like a question forming without words:
-
-**Revision proposals:**
-- `something glimpsed` → `[name the thing] glimpsed`
-  - *Name the specific referent instead of using 'something'*
-
-
 ### Scene: `scene-03-heresy`
 
 **File:** `incarnations/ch24-future-prophet/scenes/scene-03-heresy.md`
-**Word count:** 926 | **Tics:** 7 | **Density:** 7.56
+**Word count:** 923 | **Tics:** 1 | **Density:** 1.08
 
-#### "Not X" repetition patterns (4 instances)
-
-**Line 11:**
-> Not memory—never memory—but the kind of knowing that operated below the level of recall. Faces. Moments. The texture of other bodies in other eras: a widow's veil in a burning city, the particular wei
-
-**Revision proposals:**
-- `Not memory—never memory—but the kind of knowing that operated below the level of recall` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 29:**
-> Not deliberately—deliberation would have triggered the system's deviation-detection protocols. The change emerged naturally from the wrongness she perceived, the hollow core she couldn't stop seeing. 
-
-**Revision proposals:**
-- `Not deliberately—deliberation would have triggered the system's deviation-detection protocols` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 45:**
-> Not punishment—The Eternal Synthesis didn't punish, had moved beyond the primitive mechanics of reward and consequence. Simply support. Assistance. The opportunity to align her atypical patterns with 
-
-**Revision proposals:**
-- `Not punishment—The Eternal Synthesis didn't punish, had moved beyond the primitive mechanics of reward and consequence` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 55:**
-> Not physically—physical finding would come later. Through the network, through the archives, through the vast documentation that The Eternal Synthesis maintained on all its participants. A file flagge
-
-**Revision proposals:**
-- `Not physically—physical finding would come later` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 11:**
-> Not memory—never memory—but the kind of knowing that operated below the level of recall. Faces. Moments. The texture of other bodies in other eras: a widow's veil in a burning city, the particular wei
-
-**Revision proposals:**
-- `the particular weight` → `the weight`
-  - *Remove unnecessary intensifier*
-- `the particular weight` → `the [specific descriptor] weight`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 25:**
-> Something in the Deva Realm had shown her the absurdity of this—the boundary-flicker, the moment of merged perception, the glimpse of something larger than either of them separately. But showing was n
-
-**Revision proposals:**
-- `Something in the Deva` → `[specific quality] in the Deva`
-  - *Replace 'something' with specific descriptor*
+#### Vague "something" constructions (1 instances)
 
 **Line 33:**
-> Nothing dramatic—The Eternal Synthesis didn't permit drama, had engineered drama out of the spiritual life centuries ago. But the ripple was real. Other consciousnesses in their designed bodies regist
+> The response was subtle—The Eternal Synthesis didn't permit drama, had engineered drama out of the spiritual life centuries ago. But the ripple was real. Other consciousnesses in their designed bodies
 
 **Revision proposals:**
 - `something in her words` → `[specific quality] in the words`
   - *Replace 'something' with specific descriptor*
 
 
-### Scene: `scene-04-recognition`
-
-**File:** `incarnations/ch24-future-prophet/scenes/scene-04-recognition.md`
-**Word count:** 1,416 | **Tics:** 8 | **Density:** 5.65
-
-#### "Not X" repetition patterns (4 instances)
-
-**Line 3:**
-> Not off-grid—nothing was truly off-grid in a world where the network extended into every corner of designed existence—but liminal. A zone between monitoring subroutines, a gap in the attention that Th
-
-**Revision proposals:**
-- `Not off-grid—nothing was truly off-grid in a world where the network extended into every corner of designed existence—but liminal` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 25:**
-> The communication passed through neural channels before either of them decided to send it. Not telepathy—the system provided no telepathy, considered direct mind-to-mind contact destabilizing to socia
-
-**Revision proposals:**
-- `Not telepathy—the system provided no telepathy, considered direct mind-to-mind contact destabilizing to social function—but the informal link that two atypical consciousnesses could establish when the monitoring was thin` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 59:**
-> Neural interface technology—standard for deep communication, routine for intimacy protocols—but turned toward a purpose the engineers had never anticipated. Not information transfer. Not emotional syn
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 63:**
-> For a moment that had no duration because duration required separate selves to measure it, there was only awareness. Not his. Not hers. Just the perceiving that had always been present, looking throug
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### Vague "something" constructions (4 instances)
-
-**Line 35:**
-> *Something shifted,* she communicated after the silence stretched. *In the Deva Realm. When we flickered. When I looked at you and saw myself.*
-
-**Revision proposals:**
-- `Something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 51:**
-> The communication produced something in her that he could perceive but not name. Resistance layered over recognition. The grasping wanting to argue, the deeper knowing wanting to accept. The same patt
-
-**Revision proposals:**
-- `something in her that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
-**Line 71:**
-> Her face had changed—not the physical features, which remained as constant as they had always been, but something in how she held them. The grasping was still present. The competition hadn't dissolved
-
-**Revision proposals:**
-- `something in how` → `[specific quality] in the how`
-  - *Replace 'something' with specific descriptor*
-
-**Line 113:**
-> The null space held them for a moment longer—two bodies in a zone the system overlooked, two consciousnesses adjusting to a configuration neither had anticipated. Then she nodded, a gesture the design
-
-**Revision proposals:**
-- `something settled` → `[name the thing] settled`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-05-working`
-
-**File:** `incarnations/ch24-future-prophet/scenes/scene-05-working.md`
-**Word count:** 1,002 | **Tics:** 6 | **Density:** 5.99
-
-#### "Not X" repetition patterns (4 instances)
-
-**Line 3:**
-> Not quickly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. 
-
-**Revision proposals:**
-- `Not quickly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 7:**
-> Not against The Eternal Synthesis—opposition would have been another form of the system's game, resistance that justified the institution's existence. Instead, they simply offered something different.
-
-**Revision proposals:**
-- `Not against The Eternal Synthesis—opposition would have been another form of the system's game, resistance that justified the institution's existence` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 31:**
-> She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness. *I still want more,* she admitted through the link. *I want to turn the wheel. Not plant seeds—t
-
-**Revision proposals:**
-- `Not plant seeds—turn it` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 39:**
-> The words—or the non-words, the meaning that passed through channels designed for other purposes—produced something in her that she couldn't name. Not peace, because peace would have required the gras
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 39:**
-> The words—or the non-words, the meaning that passed through channels designed for other purposes—produced something in her that she couldn't name. Not peace, because peace would have required the gras
-
-**Revision proposals:**
-- `something in her that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
-**Line 73:**
-> And beneath the work, beneath the years of collaboration, something shifted in the space between them.
-
-**Revision proposals:**
-- `something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-06-response`
-
-**File:** `incarnations/ch24-future-prophet/scenes/scene-06-response.md`
-**Word count:** 901 | **Tics:** 4 | **Density:** 4.44
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 3:**
-> Not the informal links they had been using, the frequencies that slipped through monitoring gaps—this was the system itself, addressing them by their designated identities, requesting their presence a
-
-**Revision proposals:**
-- `Not the informal links they had been using, the frequencies that slipped through monitoring gaps—this was the system itself, addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 57:**
-> Outside the facility—if "outside" meant anything in a world where architecture was network and network was everywhere—they paused. The enhanced bodies that had served them through this incarnation reg
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 33:**
-> Through the link, something passed between them that wasn't quite amusement but shared the quality of recognition—the system's blindness to what they were actually doing, what they actually were. It t
-
-**Revision proposals:**
-- `something passed` → `[name the thing] passed`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 45:**
-> Something in the facility's systems registered the exchange—the deviation from expected outcomes, the failure of the offered choices to produce compliance. Alerts would be generated. Reports would be 
-
-**Revision proposals:**
-- `Something in the facility` → `[specific quality] in the facility`
-  - *Replace 'something' with specific descriptor*
-
-
 ### Scene: `scene-07-death-approaches`
 
 **File:** `incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md`
-**Word count:** 1,056 | **Tics:** 8 | **Density:** 7.58
-
-#### "Not X" repetition patterns (5 instances)
-
-**Line 3:**
-> Not disease—disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limit
-
-**Revision proposals:**
-- `Not disease—disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 19:**
-> Not for teaching—there was nothing to teach that they hadn't already demonstrated. Not for transmission—what they knew couldn't be transmitted, only discovered. Simply for presence. For the final witn
-
-**Revision proposals:**
-- `Not for teaching—there was nothing to teach that they hadn't already demonstrated` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 19:**
-> Not for teaching—there was nothing to teach that they hadn't already demonstrated. Not for transmission—what they knew couldn't be transmitted, only discovered. Simply for presence. For the final witn
-
-**Revision proposals:**
-- `Not for transmission—what they knew couldn't be transmitted, only discovered` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 19:**
-> Not for teaching—there was nothing to teach that they hadn't already demonstrated. Not for transmission—what they knew couldn't be transmitted, only discovered. Simply for presence. For the final witn
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 63:**
-> Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Not dissolved completely. Not broken the way the first nine had been broken. But visible. Acknowledged. No longer the 
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
+**Word count:** 1,048 | **Tics:** 3 | **Density:** 2.86
 
 #### Vague "something" constructions (3 instances)
 
 **Line 39:**
-> Silex's thoughts moved more slowly now. The neural web's degradation produced a particular quality of clarity: fewer processes running simultaneously, more attention available for each process that re
+> Silex's thoughts moved more slowly now. The neural web's degradation produced a quality of clarity: fewer processes running simultaneously, more attention available for each process that remained. The
 
 **Revision proposals:**
 - `something turned` → `[name the thing] turned`
@@ -5535,7 +3322,7 @@
   - *Name the specific referent instead of using 'something'*
 
 **Line 63:**
-> Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Not dissolved completely. Not broken the way the first nine had been broken. But visible. Acknowledged. No longer the 
+> Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Incomplete dissolution. The breaking was gentler than the first nine had required. But visible. Acknowledged. No longe
 
 **Revision proposals:**
 - `Something loosened` → `[name the thing] loosened`
@@ -5577,754 +3364,21 @@
 
 ## Chapter 26: The Awakened
 
-**Total scenes:** 5 | **Word count:** 10,182 | **Total tics:** 96 | **Density:** 9.43 per 1K words
-
-### Scene: `scene-01-arrival`
-
-**File:** `incarnations/ch26-pure-abodes-awakened/scenes/scene-01-arrival.md`
-**Word count:** 1,929 | **Tics:** 17 | **Density:** 8.81
-
-#### "Not X" repetition patterns (9 instances)
-
-**Line 39:**
-> And beneath all of it: a hum. Not sound—sensation. Something in the quality of the light, in the way the air moved, in the faces that glanced toward us with curiosity but not fear. A hum of readiness.
-
-**Revision proposals:**
-- `Not sound—sensation` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 49:**
-> Memory surfaced. Not the bleeding-through of Chapter 25's dissolution, but gentler—textures rising without overwhelming. The warmth of the bread recalled the cave fire of Ka's people, the way they had
-
-**Revision proposals:**
-- `Not the bleeding-through of Chapter 25's dissolution, but gentler—textures rising without overwhelming` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 51:**
-> *Her* intensity, pressing against the edges of recall. The drive to understand, to act, to move forward. Not memory exactly, but presence—the way her pattern had woven into what we were becoming, lend
-
-**Revision proposals:**
-- `Not memory exactly, but presence—the way her pattern had woven into what we were becoming, lending urgency even to stillness` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 57:**
-> The knowing rose: this was the last body. Not because bodies would end—the wheel still turned, would always turn, beings incarnating and dying and incarnating again in the endless motion that the teac
-
-**Revision proposals:**
-- `Not because bodies would end—the wheel still turned, would always turn, beings incarnating and dying and incarnating again in the endless motion that the teaching would illuminate but not stop` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 59:**
-> The final incarnation. Not because of prophecy—the prophecy was just story, just the wheel's way of imagining its own completion. But because the conditions had finally aligned: the world healed enoug
-
-**Revision proposals:**
-- `Not because of prophecy—the prophecy was just story, just the wheel's way of imagining its own completion` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 85:**
-> Not hers—abandoned, or kept empty for visitors, or simply available in the way that shelter was available here without transaction, without exchange. A bed. A table. A window looking out at the tree, 
-
-**Revision proposals:**
-- `Not hers—abandoned, or kept empty for visitors, or simply available in the way that shelter was available here without transaction, without exchange` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 91:**
-> Sleep approached, and with it, the knowledge of what the morning would bring. Not the details—the details would arise as they arose—but the shape. A child would fall, or stumble, or reach for somethin
-
-**Revision proposals:**
-- `Not the details—the details would arise as they arose—but the shape` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 93:**
-> Not three. Not one.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 99:**
-> Both. Both would be seen. Both would dissolve. Not in sequence—her first, then him, or him reaching what she obstructed. Together. Simultaneously. The mutual seeing that would reveal the separation ha
-
-**Revision proposals:**
-- `Not in sequence—her first, then him, or him reaching what she obstructed` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 27:**
-> The old woman rose with us, patient, her hands ready to catch without grasping. The floor was solid beneath feet that remembered standing, remembered walking, remembered the particular grammar of bipe
-
-**Revision proposals:**
-- `the particular grammar` → `the grammar`
-  - *Remove unnecessary intensifier*
-- `the particular grammar` → `the [specific descriptor] grammar`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (7 instances)
-
-**Line 21:**
-> The room was small. Stone walls whitewashed to brightness, a single window, a door standing open to show green beyond. A fireplace where something simmered. Dried herbs hanging from hooks in the beams
-
-**Revision proposals:**
-- `something simmered` → `[name the thing] simmered`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 35:**
-> The air. We breathed it in and something loosened in the chest that had been tight since embodiment. The air was clean in a way that memory recognized from lives so old they predated the first cities—
-
-**Revision proposals:**
-- `something loosened` → `[name the thing] loosened`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 39:**
-> And beneath all of it: a hum. Not sound—sensation. Something in the quality of the light, in the way the air moved, in the faces that glanced toward us with curiosity but not fear. A hum of readiness.
-
-**Revision proposals:**
-- `Something in the quality` → `[specific quality] in the quality`
-  - *Replace 'something' with specific descriptor*
-
-**Line 39:**
-> And beneath all of it: a hum. Not sound—sensation. Something in the quality of the light, in the way the air moved, in the faces that glanced toward us with curiosity but not fear. A hum of readiness.
-
-**Revision proposals:**
-- `something about to` → `[specific quality] about the to`
-  - *Replace 'something' with specific descriptor*
-
-**Line 45:**
-> Her name was a sound we would learn—Mara, or something like it, shaped differently by this language's particular music. She gave us more water, gave us bread still warm from the communal oven, gave us
-
-**Revision proposals:**
-- `something like it` → `it`
-  - *Consider naming it directly instead of 'something like'*
-
-**Line 71:**
-> What they feared—if fear was the word—was something subtler. Something in the way they glanced at the large tree visible at the village's edge, ancient and enormous, its branches spreading wider than 
-
-**Revision proposals:**
-- `Something in the way` → `[specific quality] in the way`
-  - *Replace 'something' with specific descriptor*
-
-**Line 71:**
-> What they feared—if fear was the word—was something subtler. Something in the way they glanced at the large tree visible at the village's edge, ancient and enormous, its branches spreading wider than 
-
-**Revision proposals:**
-- `Something in the way` → `[specific quality] in the way`
-  - *Replace 'something' with specific descriptor*
-
+**Total scenes:** 5 | **Word count:** 9,757 | **Total tics:** 1 | **Density:** 0.10 per 1K words
 
 ### Scene: `scene-02-recognition`
 
 **File:** `incarnations/ch26-pure-abodes-awakened/scenes/scene-02-recognition.md`
-**Word count:** 2,113 | **Tics:** 15 | **Density:** 7.10
+**Word count:** 2,055 | **Tics:** 1 | **Density:** 0.49
 
-#### Abstract nouns performing physical actions (2 instances)
-
-**Line 83:**
-> The recognition moved through the merged consciousness like light through water, illuminating what had been dark. She was not the competitor. She was the necessary other half of a gesture that had wor
-
-**Revision proposals:**
-- `recognition moved` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'recognition' performing physical action 'moved'*
-
-**Line 95:**
-> The recognition moved through the merged consciousness like tide through sand, reshaping what had seemed solid. He was not the patient one. He was the necessary other half of a gesture that had worn t
-
-**Revision proposals:**
-- `recognition moved` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'recognition' performing physical action 'moved'*
-
-#### "Not X" repetition patterns (10 instances)
-
-**Line 3:**
-> We learned the language. Not studied it—let it seep in through repetition, through context, through the patience of the villagers who pointed at things and named them, waited for us to echo, nodded at
-
-**Revision proposals:**
-- `Not studied it—let it seep in through repetition, through context, through the patience of the villagers who pointed at things and named them, waited for us to echo, nodded at approximations and smiled at success` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 37:**
-> The toy rolled toward a stack of wood piled at the square's edge. Not dangerous—nothing dangerous, not really, not in this world where the sharp edges had been sanded away. But the girl reached for it
-
-**Revision proposals:**
-- `Not dangerous—nothing dangerous, not really, not in this world where the sharp edges had been sanded away` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 41:**
-> Not falling, exactly—the kind of near-fall that children experience daily, the body learning its limits through small overcorrections. She stumbled forward, arms pinwheeling, her center of gravity pas
-
-**Revision proposals:**
-- `Not falling, exactly—the kind of near-fall that children experience daily, the body learning its limits through small overcorrections` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 61:**
-> Not the specific pattern—not this child, this woman, this man—but the pattern beneath patterns, the shape that had appeared before. Rain on a rooftop. A city wheeling below. Three hands forming a chai
-
-**Revision proposals:**
-- `Not the specific pattern—not this child, this woman, this man—but the pattern beneath patterns, the shape that had appeared before` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 103:**
-> Not two becoming one. Not opposition resolving into unity. The framework itself dissolving—the framework that made "two" and "one" meaningful categories, that made "separation" and "unity" meaningful 
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 109:**
-> Not because it broke. Not because someone released. Because no one was counting. Because the "three" that had seemed to form the chain was a story told by a perspective that was itself part of the cha
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 111:**
-> Not three. Not one. Before number.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 129:**
-> Not because one had won and the other lost. Not because she had finally released so he could complete. But because the framework that made pronouns possible—the framework of separation, of self and ot
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
+#### "Not X" repetition patterns (1 instances)
 
 **Line 131:**
-> Something remained. Something that was not nothing—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible.
+> What remained was not absence—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible. But the one who walk
 
 **Revision proposals:**
-- `not nothing—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible` → `[Rephrase without 'Not X—Y' structure]`
+- `not absence—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
-
-**Line 135:**
-> Drawing. Not choosing to go—the choosing framework had thinned. But drawn, the way water is drawn toward lower ground, the way iron is drawn toward the north. Something completing its motion toward wh
-
-**Revision proposals:**
-- `Not choosing to go—the choosing framework had thinned` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (3 instances)
-
-**Line 11:**
-> The village had no leaders in the sense previous lives remembered. No councils, no elders with special authority, no structures of command. When something needed deciding, whoever cared gathered to di
-
-**Revision proposals:**
-- `something needed` → `[name the thing] needed`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 57:**
-> We had not been waiting for this moment, had not recognized what the morning would bring until it brought it. But now, watching the chain form and hold—the girl reaching for the toy, the woman reachin
-
-**Revision proposals:**
-- `something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 131:**
-> Something remained. Something that was not nothing—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible.
-
-**Revision proposals:**
-- `Something remained` → `[name the thing] remained`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-03-under-the-tree`
-
-**File:** `incarnations/ch26-pure-abodes-awakened/scenes/scene-03-under-the-tree.md`
-**Word count:** 2,104 | **Tics:** 19 | **Density:** 9.03
-
-#### "Not X" repetition patterns (16 instances)
-
-**Line 17:**
-> Not meditation—the word implied someone meditating, a practice pursued, a goal sought. This was simpler and more complete. The body sat. The breathing continued. Awareness rested on what arose without
-
-**Revision proposals:**
-- `Not meditation—the word implied someone meditating, a practice pursued, a goal sought` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 29:**
-> The fetter thinned. Not broken—there was no one to break it, no effort that could shatter what was already transparent. It simply became visible, and in becoming visible, lost its power to bind.
-
-**Revision proposals:**
-- `Not broken—there was no one to break it, no effort that could shatter what was already transparent` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 41:**
-> The memory released its grip. Not through effort—through the same clear seeing that had thinned the previous fetter. The formless realms were part of the journey, but they were not the destination. Th
-
-**Revision proposals:**
-- `Not through effort—through the same clear seeing that had thinned the previous fetter` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 49:**
-> The subtlest of the remaining fetters, the most difficult to see because it wore the clothing of humility. Not the gross pride of achievement—that had burned away long before, in lives that had learne
-
-**Revision proposals:**
-- `Not the gross pride of achievement—that had burned away long before, in lives that had learned through failure after failure that accomplishment was never owned` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 73:**
-> The running stopped. Not suppressed—unnecessary. When there's nowhere to get, there's no need to keep moving toward it. The spring uncoiled. The vibration stilled. Not into deadness—into presence. Int
-
-**Revision proposals:**
-- `Not suppressed—unnecessary` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 73:**
-> The running stopped. Not suppressed—unnecessary. When there's nowhere to get, there's no need to keep moving toward it. The spring uncoiled. The vibration stilled. Not into deadness—into presence. Int
-
-**Revision proposals:**
-- `Not into deadness—into presence` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 73:**
-> The running stopped. Not suppressed—unnecessary. When there's nowhere to get, there's no need to keep moving toward it. The spring uncoiled. The vibration stilled. Not into deadness—into presence. Int
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 81:**
-> What was ignorance? Not the absence of information—information had been abundant, across hundreds of lives, thousands of teachers, millions of words pointing toward what was already present. The ignor
-
-**Revision proposals:**
-- `Not the absence of information—information had been abundant, across hundreds of lives, thousands of teachers, millions of words pointing toward what was already present` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 115:**
-> Not as entity—there was no entity to be present. Not as achievement—achievement required someone to achieve and something to be achieved. But as... function. As what happens when what blocked teaching
-
-**Revision proposals:**
-- `Not as entity—there was no entity to be present` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 115:**
-> Not as entity—there was no entity to be present. Not as achievement—achievement required someone to achieve and something to be achieved. But as... function. As what happens when what blocked teaching
-
-**Revision proposals:**
-- `Not as achievement—achievement required someone to achieve and something to be achieved` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 115:**
-> Not as entity—there was no entity to be present. Not as achievement—achievement required someone to achieve and something to be achieved. But as... function. As what happens when what blocked teaching
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 117:**
-> Teaching could happen now. Not because there was a teacher. Because what had prevented teaching was gone. The clear seeing that had dissolved the fetters was not personal property—it had never been ow
-
-**Revision proposals:**
-- `not personal property—it had never been owned, never been the possession of a self that could claim it` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 121:**
-> Not to stop the turning. Not to liberate beings from a prison—the wheel was not a prison, it was what they were, what everything was. But to illuminate. To show the pattern from outside the pattern. T
-
-**Revision proposals:**
-- `Not to liberate beings from a prison—the wheel was not a prison, it was what they were, what everything was` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 121:**
-> Not to stop the turning. Not to liberate beings from a prison—the wheel was not a prison, it was what they were, what everything was. But to illuminate. To show the pattern from outside the pattern. T
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 129:**
-> They would gather. Not because something would call them—something simply would. The way the bread was baked each morning without schedule, the way the water was drawn without command. They would sens
-
-**Revision proposals:**
-- `Not because something would call them—something simply would` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 131:**
-> And words would arise. Not teachings prepared, not doctrine rehearsed—just what needed to be said, finding the mouths that could say it.
-
-**Revision proposals:**
-- `Not teachings prepared, not doctrine rehearsed—just what needed to be said, finding the mouths that could say it` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 5:**
-> The branches spread outward in a canopy that filtered the morning light into shifting patterns—not solid shade, but dappled, alive, the leaves moving in a wind too gentle to feel on the skin. The smel
-
-**Revision proposals:**
-- `the particular sweetness` → `the sweetness`
-  - *Remove unnecessary intensifier*
-- `the particular sweetness` → `the [specific descriptor] sweetness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 87:**
-> And in seeing itself—this was the strangest thing—it revealed itself as having never been substantial. Not something overcome, not something conquered, not something that had been there and was now go
-
-**Revision proposals:**
-- `something conquered` → `[name the thing] conquered`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 97:**
-> But something shifted. Something that had been almost-there for longer than counting could count stopped being almost and became simply—here.
-
-**Revision proposals:**
-- `something shifted` → `[name the thing] shifted`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-04-teaching`
-
-**File:** `incarnations/ch26-pure-abodes-awakened/scenes/scene-04-teaching.md`
-**Word count:** 2,391 | **Tics:** 31 | **Density:** 12.97
-
-#### "Not X" repetition patterns (23 instances)
-
-**Line 3:**
-> Not because something called them—nothing called, nothing announced, no word spread through the village that something was about to happen. But they gathered anyway, the way they gathered when decisio
-
-**Revision proposals:**
-- `Not because something called them—nothing called, nothing announced, no word spread through the village that something was about to happen` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 27:**
-> The words hung in the morning air, settling into minds that had not heard such words before but recognized them nonetheless—the way one recognizes a face from dreams, familiar though never seen.
-
-**Revision proposals:**
-- `not heard such words before but recognized them nonetheless—the way one recognizes a face from dreams, familiar though never seen` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 61:**
-> "It has always turned. Bodies wearing bodies, lives seeding lives, each death the womb of the next lesson. This is not punishment—there is no punisher, no judge weighing deeds on scales. This is not d
-
-**Revision proposals:**
-- `not punishment—there is no punisher, no judge weighing deeds on scales` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 61:**
-> "It has always turned. Bodies wearing bodies, lives seeding lives, each death the womb of the next lesson. This is not punishment—there is no punisher, no judge weighing deeds on scales. This is not d
-
-**Revision proposals:**
-- `not design—there is no designer, no architect drafting blueprints for suffering and release` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 65:**
-> "This is what happens when awareness forgets itself and must learn its way home. The forgetting is not a fall from grace—the forgetting is also awareness, playing a game it cannot lose because it is t
-
-**Revision proposals:**
-- `not a fall from grace—the forgetting is also awareness, playing a game it cannot lose because it is the game and the playing and the losing and the winning` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 65:**
-> "This is what happens when awareness forgets itself and must learn its way home. The forgetting is not a fall from grace—the forgetting is also awareness, playing a game it cannot lose because it is t
-
-**Revision proposals:**
-- `not achievement—the learning is also awareness, recognizing itself through the friction of seeming not to recognize` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 75:**
-> The words arose from somewhere that was not preparation, not memory—arose the way water arises from springs, because the pressure of what is underground seeks the surface.
-
-**Revision proposals:**
-- `not preparation, not memory—arose the way water arises from springs, because the pressure of what is underground seeks the surface` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 85:**
-> "Letting go is not escape—it is recognizing that holding was never necessary. Once, in a desert where nothing grew but silence, a body that had released everything found that everything remained, now 
-
-**Revision proposals:**
-- `not escape—it is recognizing that holding was never necessary` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 89:**
-> "What persists through persecution becomes harder than what caused it. Once, in a time when truth cost blood, a body that chose to speak anyway learned that the speaking was not his—it was the truth, 
-
-**Revision proposals:**
-- `not his—it was the truth, speaking itself through whatever mouth would open` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 97:**
-> "What reaches for another discovers there is no other to reach for. Once, in a time before memory, a heart that broke open for a stranger found that the stranger was not strange—that the boundary betw
-
-**Revision proposals:**
-- `not strange—that the boundary between hearts was the same drawing on glass, apparent only from certain angles, substantial only to those who didn't look closely` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 101:**
-> The teaching paused. Not ended—rested. The way water rests in a pool before continuing downstream.
-
-**Revision proposals:**
-- `Not ended—rested` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 111:**
-> "This too was necessary. Not the succeeding—the trying. Because the trying taught what succeeding never could: that there is no one trying. That the effort was the path, not toward something but as so
-
-**Revision proposals:**
-- `Not the succeeding—the trying` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 115:**
-> "Doubt is the doorway. Only the certain are truly lost. Once, in a time when faith demanded conformity, a mind that could not stop questioning learned that the questions were not obstacle—they were th
-
-**Revision proposals:**
-- `not stop questioning learned that the questions were not obstacle—they were the door through which the light entered` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 117:**
-> The threads continued, weaving into something that was not a tapestry but a net—a net that caught what it was meant to catch while allowing everything else to pass through.
-
-**Revision proposals:**
-- `not a tapestry but a net—a net that caught what it was meant to catch while allowing everything else to pass through` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 119:**
-> "Beauty is not the trap. Attachment is. Once, in a place where beauty was cultivated like a crop, an eye that loved what it saw learned that the loving was not the problem—only the holding. Beauty pas
-
-**Revision proposals:**
-- `not the problem—only the holding` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 135:**
-> "But it can be pointed to. The pointing is not the thing—the pointing is never the thing. But for those who look where the finger points rather than at the finger, what was always already there become
-
-**Revision proposals:**
-- `not the thing—the pointing is never the thing` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 137:**
-> A long pause. Not silence—presence. The quality of something about to be said that might be the most important thing yet said.
-
-**Revision proposals:**
-- `Not silence—presence` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 139:**
-> "Come. Sit. The wheel turns, and will continue turning. Bodies arise and pass, and will continue arising and passing. Wanting wants, and fearing fears, and grasping grasps. This is not changed by seei
-
-**Revision proposals:**
-- `not changed by seeing—only the relationship to it changes` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 141:**
-> The invitation was not to a place—it was to a way of being in whatever place one already was.
-
-**Revision proposals:**
-- `not to a place—it was to a way of being in whatever place one already was` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 143:**
-> "But the one who sees the wheel is not turned by it in the same way. The one who recognizes the wanting is not wanted by it in the same way. The seeing does not stop the motion—it illuminates it. And 
-
-**Revision proposals:**
-- `not stop the motion—it illuminates it` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 149:**
-> Not ended—teaching does not end, only speaking pauses. But completed, the way a cup fills to the brim and can hold no more without spilling.
-
-**Revision proposals:**
-- `Not ended—teaching does not end, only speaking pauses` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 151:**
-> The villagers sat in what the teaching had left behind. Not understanding—understanding would come later, in pieces, as the seeds planted found soil and water and time. But something had shifted. The 
-
-**Revision proposals:**
-- `Not understanding—understanding would come later, in pieces, as the seeds planted found soil and water and time` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 165:**
-> The body remained beneath the tree. Not waiting—waiting required expectation, and expectation had dissolved with the other grasping. But present. Available. As the tree was present, as the roots were 
-
-**Revision proposals:**
-- `Not waiting—waiting required expectation, and expectation had dissolved with the other grasping` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (2 instances)
-
-**Line 7:**
-> Others followed. The man who had been repairing the roof. The woman who had caught the child in the square. Children drifting from their games, pulled by curiosity and the strange gravity that childre
-
-**Revision proposals:**
-- `the particular silence` → `the silence`
-  - *Remove unnecessary intensifier*
-- `the particular silence` → `the [specific descriptor] silence`
-  - *Replace with concrete descriptor*
-
-**Line 153:**
-> The old woman—Mara—rose first. Her eyes held what words could not hold: recognition, gratitude, the knowledge that what she had sensed in the stranger was no longer hidden. She inclined her head, the 
-
-**Revision proposals:**
-- `the particular weight` → `the weight`
-  - *Remove unnecessary intensifier*
-- `the particular weight` → `the [specific descriptor] weight`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (6 instances)
-
-**Line 3:**
-> Not because something called them—nothing called, nothing announced, no word spread through the village that something was about to happen. But they gathered anyway, the way they gathered when decisio
-
-**Revision proposals:**
-- `something called` → `[name the thing] called`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 3:**
-> Not because something called them—nothing called, nothing announced, no word spread through the village that something was about to happen. But they gathered anyway, the way they gathered when decisio
-
-**Revision proposals:**
-- `Something in the quality` → `[specific quality] in the quality`
-  - *Replace 'something' with specific descriptor*
-
-**Line 35:**
-> The phrase stirred something in the listeners—not memory exactly, but resonance. As if the words pointed at something they had always known without knowing they knew it.
-
-**Revision proposals:**
-- `something in the listeners` → `[specific quality] in the listeners`
-  - *Replace 'something' with specific descriptor*
-
-**Line 95:**
-> A woman's breath caught slightly, released. The story touched something in her that she didn't know needed touching.
-
-**Revision proposals:**
-- `something in her that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
-**Line 137:**
-> A long pause. Not silence—presence. The quality of something about to be said that might be the most important thing yet said.
-
-**Revision proposals:**
-- `something about to` → `[specific quality] about the to`
-  - *Replace 'something' with specific descriptor*
-
-**Line 151:**
-> The villagers sat in what the teaching had left behind. Not understanding—understanding would come later, in pieces, as the seeds planted found soil and water and time. But something had shifted. The 
-
-**Revision proposals:**
-- `something satisfied` → `[name the thing] satisfied`
-  - *Name the specific referent instead of using 'something'*
-
-
-### Scene: `scene-05-coda`
-
-**File:** `incarnations/ch26-pure-abodes-awakened/scenes/scene-05-coda.md`
-**Word count:** 1,645 | **Tics:** 14 | **Density:** 8.51
-
-#### "Not X" repetition patterns (9 instances)
-
-**Line 36:**
-> The question dissolved in its own asking. Not because an answer had been found—answers were for questions that remained questions. But because the asker and the asked, the one who wanted and the wanti
-
-**Revision proposals:**
-- `Not because an answer had been found—answers were for questions that remained questions` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 50:**
-> Not escaped—illuminated. Not transcended—understood.
-
-**Revision proposals:**
-- `Not escaped—illuminated` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 50:**
-> Not escaped—illuminated. Not transcended—understood.
-
-**Revision proposals:**
-- `Not transcended—understood` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 50:**
-> Not escaped—illuminated. Not transcended—understood.
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 52:**
-> The wheel visible from outside the wheel. Not because outside existed—the wheel was all there was, was everything that could be, was the very consciousness that watched and the watching itself and the
-
-**Revision proposals:**
-- `Not because outside existed—the wheel was all there was, was everything that could be, was the very consciousness that watched and the watching itself and the watched` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 54:**
-> And seeing was what ended suffering. Not ending the wheel—the wheel couldn't end, was not the kind of thing that ending applied to. But ending the particular quality of suffering that came from not se
-
-**Revision proposals:**
-- `Not ending the wheel—the wheel couldn't end, was not the kind of thing that ending applied to` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 64:**
-> Not as event—the gathering under the tree had dispersed, the villagers returned to their lives, the words that had arisen already beginning to transform into memory and then into understanding and the
-
-**Revision proposals:**
-- `Not as event—the gathering under the tree had dispersed, the villagers returned to their lives, the words that had arisen already beginning to transform into memory and then into understanding and then into the particular shape of each listener's receiving` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 84:**
-> Not one—one still implied counting.
-
-**Revision proposals:**
-- `Not one—one still implied counting` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 85:**
-> Not nothing—nothing still implied something missing.
-
-**Revision proposals:**
-- `Not nothing—nothing still implied something missing` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (4 instances)
-
-**Line 3:**
-> Light touched skin through a window that faced east—not warning but welcome, not the dying of day but its birth. The small house at the village's edge held the particular quiet of places recently woke
-
-**Revision proposals:**
-- `the particular quiet` → `the quiet`
-  - *Remove unnecessary intensifier*
-- `the particular quiet` → `the [specific descriptor] quiet`
-  - *Replace with concrete descriptor*
-
-**Line 54:**
-> And seeing was what ended suffering. Not ending the wheel—the wheel couldn't end, was not the kind of thing that ending applied to. But ending the particular quality of suffering that came from not se
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-**Line 64:**
-> Not as event—the gathering under the tree had dispersed, the villagers returned to their lives, the words that had arisen already beginning to transform into memory and then into understanding and the
-
-**Revision proposals:**
-- `the particular shape` → `the shape`
-  - *Remove unnecessary intensifier*
-- `the particular shape` → `the [specific descriptor] shape`
-  - *Replace with concrete descriptor*
-
-**Line 68:**
-> Someone in the village was explaining something to someone else—the particular quality of attention that the gathering had brought, the words that had risen and what they might mean. The explaining wa
-
-**Revision proposals:**
-- `the particular quality` → `the quality`
-  - *Remove unnecessary intensifier*
-- `the particular quality` → `the [specific descriptor] quality`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 70:**
-> A child asked a question. The question was about something unrelated—about why birds flew and fish swam, about where the bread came from before the oven, about any of the ten thousand questions that c
-
-**Revision proposals:**
-- `something unrelated` → `[name the thing] unrelated`
-  - *Name the specific referent instead of using 'something'*
 
 
 ---
