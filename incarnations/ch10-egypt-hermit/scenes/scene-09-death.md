@@ -98,19 +98,17 @@ The fever leached color from his vision, but the memory of color burned brighter
 
 His hands moved. He did not instruct them to move; they moved on their own, the body's final reaching. They stretched toward the doorway where light was fading, toward the world that continued without him, toward something that was not there and could not be there because he had spent fifteen years ensuring it would never be there.
 
-Something soft.
+Softness.
 
-Something colored.
+Color.
 
-Something alive.
+Life.
 
 His fingers grasped air. His body shuddered with the effort.
 
 And beneath the shudder, beneath the fever, beneath the grief and the insight and the terrible recognition of waste—beneath all of it, something else stirred.
 
-Not peace. Not theosis. Not the resolution he had hoped his death might bring.
-
-Something more honest.
+Something more honest than peace, more raw than theosis, more truthful than the resolution he had hoped his death might bring.
 
 A fierce, animal longing for everything he had refused.
 
@@ -122,7 +120,7 @@ The body he had treated as enemy rather than home.
 
 He wanted them now with a clarity that cut through every teaching, every discipline, every word he had ever offered to the monks who sought his wisdom.
 
-*In my next life,* something whispered—not a thought, not a prayer, just a dying wish that would carry forward as such wishes do—*let me be surrounded by beauty.*
+*In my next life,* a dying wish whispered—deeper than thought, prior to prayer, the kind of longing that carries forward as such longings do—*let me be surrounded by beauty.*
 
 *Let me touch what is soft.*
 

@@ -6,13 +6,13 @@ The thread unspooled through time with a momentum she had not created but had sh
 
 In Manchester, days dissolved. She sat in her tracking corner—the armchair by the window where observation had become something else—and watched the machinery complete its turning. Fresh tea had appeared beside her at some point; she did not remember making it. The steam rose from the mug in thin spirals, untouched, cooling.
 
-Chandra's investigation proceeded with the particular efficiency of a man who trusted his methods. She watched him examine grain weights, uncover the substitution scheme, confront the warehouse keeper whose name—Vikram—she filed alongside the other data points. She watched his certainty build like water behind a dam that would not hold.
+Chandra's investigation proceeded with the efficiency of a man who trusted his methods. She watched him examine grain weights, uncover the substitution scheme, confront the warehouse keeper whose name—Vikram—she filed alongside the other data points. She watched his certainty build like water behind a dam that would not hold.
 
 She could see what he could not.
 
 The pattern was clear from her vantage: Devaka's subtle hesitations, the microscopic tells that should have registered after fifteen years of partnership. The way his hands steadied when they should have trembled. The way his eyes measured distances when they should have held contact. She observed these failures of concealment with clinical precision, noting each one, cataloguing the architecture of a betrayal she had made inevitable.
 
-Chandra noticed some of it. The thread vibrated with his subliminal recognition—the splinter in his thoughts that would not dislodge—but his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested. Fifteen years of calculation told him Devaka was loyal; the calculation could not be wrong.
+Chandra noticed some of it. The thread vibrated with his subliminal recognition—the splinter in his thoughts that refused to dislodge—yet his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested. Fifteen years of calculation told him Devaka was loyal; the calculation could not be wrong.
 
 *The numbers have never betrayed me.*
 
@@ -26,7 +26,7 @@ The temple passage approached in the thread. Guards emerging from shadows. Devak
 
 She leaned into the moment, letting it dominate.
 
-Stone walls pressed close in the torchlight. The smell of incense masked the sharper smell of fear. Chandra's face—she saw it through his own awareness, reflected in the polished surface of a ceremonial knife—moving from confusion to comprehension to something she could not name. Not anger. Not grief. Something colder.
+Stone walls pressed close in the torchlight. The smell of incense masked the sharper smell of fear. Chandra's face—she saw it through his own awareness, reflected in the polished surface of a ceremonial knife—moving from confusion to comprehension to something she could not name. Something colder than anger, deeper than grief.
 
 *Fifteen years counts for something.*
 

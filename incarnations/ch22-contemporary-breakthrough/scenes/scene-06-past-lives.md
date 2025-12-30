@@ -1,6 +1,6 @@
 He was standing at the window when the lives began to open.
 
-Not intruding—that was the difference from before. Yesterday's fragmentary flashes had been violent, disconnected, shards of glass catching light at painful angles. Blood in his mouth from a fight he couldn't place. A woman's face resolving from static. Words in languages he'd never learned. They had come like wounds, tearing through his ordinary experience without permission.
+They came differently this time. Yesterday's fragmentary flashes had been violent, disconnected, shards of glass catching light at painful angles. Blood in his mouth from a fight he couldn't place. A woman's face resolving from static. Words in languages he'd never learned. They had come like wounds, tearing through his ordinary experience without permission.
 
 Now they came like doors unlocking, one after another, down a hallway he hadn't known existed.
 
@@ -24,7 +24,7 @@ Philon. Athens now, the white columns and plague-stench, the impossible choice b
 
 *Wisdom is understanding context. Martyrdom is choosing self-image over service.*
 
-Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the particular blindness of those who need to be needed.
+Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the blindness of those who need to be needed.
 
 And the woman. The same face, different clothes, watching from outside the quarantine chamber. How had she gotten there? Why was she always watching?
 
@@ -36,7 +36,7 @@ Macarius. Egypt's desert silence, the emptiness against emptiness, where every p
 
 *True renunciation does not announce itself.*
 
-Kaoru. Heian Japan, where beauty was theology and longing was devotional practice. The particular quality of morning light through shoji screens, the poetry written to women he'd met once, the wife he'd neglected for aesthetic ideals that could not survive her death.
+Kaoru. Heian Japan, where beauty was theology and longing was devotional practice. Morning light through shoji screens, the poetry written to women he'd met once, the wife he'd neglected for aesthetic ideals that could not survive her death.
 
 *Beauty is flesh. Flesh is temporary. Neither truth cancels the other.*
 
@@ -62,11 +62,11 @@ The genres dissolved.
 
 Each life had worn its own shape—the terror of isolation, the weight of politics, the slow poison of philosophy, the loneliness of investigation, the silence of the desert, the ache of beauty, the patience of accusation, the wit that couldn't save itself, the conviction that burned everything, the rain that never stopped falling. Different shapes for the same soul, working out the same knots across time beyond measuring.
 
-The wheel became visible. Not metaphor—structure. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing—that one had thinned enough to perceive the ride.
+The wheel became visible. Structure rather than metaphor. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing—that one had thinned enough to perceive the ride.
 
 *And she was in all of them.*
 
-The thought arrived with the force of revelation. Not a single life without her watching. Not a single death without her presence somewhere at its edge. The same face, the same widow's peak, the same quality of seeing that had felt like judgment and pursuit and something else he couldn't name.
+The thought arrived with the force of revelation. Every life had her watching. Every death had her presence somewhere at its edge. The same face, the same widow's peak, the same quality of seeing that had felt like judgment and pursuit and something else he couldn't name.
 
 Why? Who was she? What connected her to every turn of the wheel he'd made?
 

@@ -42,7 +42,7 @@ She was there now—not Marcia this time, but something less visible, less prese
 
 And then he did not do what she expected.
 
-His voice was steady. His certainty had not returned—she could feel that it had not, could feel the cracks running through every sentence—but something else had taken its place. Something she could not name.
+His voice was steady. His certainty remained absent—she could feel the cracks running through every sentence—but something else had taken its place. Something she could not name.
 
 *"The death of Gaius Quintilius Varro was neither murder nor accident. It was a philosophical act—a final lesson, delivered to himself."*
 
@@ -52,13 +52,13 @@ The servant was legally guilty. Roman law made him so—responsible for his mast
 
 Verinus refused.
 
-*"Philo is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."*
+*"Philo is guilty only of being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."*
 
 She felt the senator's displeasure shift into something larger—felt it the way she had felt Devaka's fear, the way she had felt the clerk's hesitation. Here was a thread she could pull. Here was a pressure point she could use.
 
 She leaned in.
 
-Not hard—she had learned the value of precision—but steady, focused, weighted. The senator's irritation had been genuine; she only amplified it. The offense had been real; she only sharpened it. The rage that built in Publius Cornelius Scipio exceeded its cause in exactly the way that convincing rage must: disproportionate enough to destroy, measured enough to seem earned.
+With precision rather than force—she had learned the value of restraint—steady, focused, weighted. The senator's irritation had been genuine; she only amplified it. The offense had been real; she only sharpened it. The rage that built in Publius Cornelius Scipio exceeded its cause in exactly the way that convincing rage must: disproportionate enough to destroy, measured enough to seem earned.
 
 *"You presume to lecture me on innocence?"* His voice rose. *"You—a functionary, a mere investigator—"*
 
@@ -82,7 +82,7 @@ And he was calling it compassion.
 
 *"Live well,"* Verinus said. *"That is enough."*
 
-The chamber emptied. Marcus walked away with grief in his spine. Verinus gathered his notes—the contradictory testimonies, the impossible timelines, the evidence that had not resolved—and carried them with him toward the exile she had engineered.
+The chamber emptied. Marcus walked away with grief in his spine. Verinus gathered his notes—the contradictory testimonies, the impossible timelines, the evidence that remained unresolved—and carried them with him toward the exile she had engineered.
 
 She watched him go.
 

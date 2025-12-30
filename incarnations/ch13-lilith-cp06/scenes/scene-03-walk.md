@@ -4,7 +4,7 @@ The realization arrived as body-knowledge, bypassing the consciousness that shou
 
 Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
 
-Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the particular appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
+Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
 
 She did not know where she walked.
 
@@ -32,7 +32,7 @@ She filed the thought before it completed. Strategy. Refinement. The pattern req
 
 But she had walked here. Her body had led where her mind refused to examine, and she stood now in the rain outside buildings where he would be—*was*, somewhere in a present she had not yet permitted herself to occupy.
 
-The walk back was slower. She noticed objects: a rusted bicycle lock, leaves collecting in a gutter, the way light pooled in windows where evening had begun to gather. Beauty everywhere, not because the Heian period had saturated her perception—she rejected that interpretation—but because perception was simply... sharpened. Heightened awareness. The mechanics of tracking required grounding in contemporary space.
+The walk back was slower. She noticed objects: a rusted bicycle lock, leaves collecting in a gutter, the way light pooled in windows where evening had begun to gather. Beauty everywhere. Perception was simply... sharpened. Heightened awareness. The mechanics of tracking required grounding in contemporary space—she rejected the alternative interpretation that the Heian period had saturated her perception.
 
 *That is why I came here*, she told herself.
 
@@ -40,7 +40,7 @@ The walk back was slower. She noticed objects: a rusted bicycle lock, leaves col
 
 The word held.
 
-The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where something in her had placed them while she wasn't counting days. The thread hummed—Kaoru moving toward Lady Hotaru, toward the Attendant, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
+The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where her hands had placed them while she wasn't counting days. The thread hummed—Kaoru moving toward Lady Hotaru, toward the Attendant, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
 
 She had walked to the university without knowing why.
 

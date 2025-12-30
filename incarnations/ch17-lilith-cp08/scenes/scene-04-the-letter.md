@@ -4,7 +4,7 @@ She did not forge it. The letter was genuine—authentic Protestant corresponden
 
 Lilith's contribution was timing. Precision. The subtle push that sent Jean de Langon to the print shop on this day, directed him to this cabinet, made him open this folder at this moment.
 
-"Nearly missed it," Marguerite murmured, and the words were her own—the widow's genuine observation at finding something misfiled. "Among other correspondence. The provenance is uncertain."
+"Nearly missed it," Marguerite murmured, and the words were her own—the widow's genuine observation at finding a misfiled document. "Among other correspondence. The provenance is uncertain."
 
 Jean's hands closed around the document. Through Marguerite's eyes, Lilith watched his face change: the careful neutrality cracking, the fortress shaking. Evidence that could resolve his investigation. Evidence he could not verify.
 
@@ -24,8 +24,8 @@ Jean could not determine which it was. That was the point. The genuine ambiguity
 
 He folded the letter carefully. His fingers touched in sequence: thumb to index, index to middle, middle to ring. Counting possibilities. Measuring absence.
 
-Lilith felt the certainty crystallize: *This will work. The letter's ambiguity will paralyze him. One more push and—*
+Lilith felt certain: *This will work. The letter's ambiguity will paralyze him. One more push and—*
 
-Something flickered. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
+A flicker. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
 
 She filed it under strategic assessment and continued positioning the trap.

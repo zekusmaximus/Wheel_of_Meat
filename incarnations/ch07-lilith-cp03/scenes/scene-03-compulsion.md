@@ -1,4 +1,4 @@
-Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the particular certainty of a man who has made peace with abandonment.
+Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
 
 The dream had worked. The smell of burning clung to him still.
 
@@ -10,13 +10,13 @@ She leaned closer.
 
 The slave woman collapsed at the eastern gate three days after Alexios fled.
 
-Lilith felt the impact before she understood it—knees striking stone, the particular sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears could not cross. No one moved toward the fallen woman. No one spoke her name.
+Lilith felt the impact before she understood it—knees striking stone, the sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears could not cross. No one moved toward the fallen woman. No one spoke her name.
 
 She had no name. Not anymore. Whatever her owners had called her had been left behind when they fled the fever, when they threw their property to the streets like spoiled grain.
 
 Philon heard the commotion from his clinic. The thread hummed with his attention shifting—away from the patients who might live, toward the woman who would certainly die.
 
-*Don't,* Lilith thought, though the word carried no power. She was observing now, not intervening. The isolation she had engineered was meant to create despair, not to create this—this reaching, this compulsion, this movement toward a dying woman no one else would touch.
+*Don't,* Lilith thought, though the word carried no power. She was observing now, not intervening. The isolation she had engineered was meant to create despair—yet here was reaching, compulsion, movement toward a dying woman no one else would touch.
 
 He went anyway.
 
@@ -32,7 +32,7 @@ The words did not travel across epochs. They did not need to. The woman's eyes f
 
 He knelt beside her.
 
-Lilith's own knees pressed against something—the worn fabric of her armchair, the particular give of cushioning she had stopped noticing years ago. The sensation doubled: stone beneath his legs, fabric beneath hers. Cold tea in her hands, fever-skin beneath his fingertips.
+Lilith's own knees pressed against something—the worn fabric of her armchair, the give of cushioning she had stopped noticing years ago. The sensation doubled: stone beneath his legs, fabric beneath hers. Cold tea in her hands, fever-skin beneath his fingertips.
 
 The parallel crystallized.
 
@@ -56,7 +56,9 @@ She understood his mistake with perfect clarity. He was conflating service with 
 
 She saw it. She documented it. She filed it with the pattern she was mapping.
 
-She did not see that her own hands—cold around ceramic gone cold—were performing the same gesture. Reaching. Holding. Unable to release.
+Her own hands—cold around ceramic gone cold—were performing the same gesture. Reaching. Holding. Unable to release.
+
+She failed to see it.
 
 The slave woman's weight settled against Philon's chest. Light—too light, the fever having consumed whatever substance she once held. He carried her toward his clinic, toward the small room where he would tend her until one of them stopped breathing.
 

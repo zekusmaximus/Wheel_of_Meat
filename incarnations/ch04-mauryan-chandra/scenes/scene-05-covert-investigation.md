@@ -6,7 +6,7 @@ The covert investigation proceeded in fragments stolen from the margins of his d
 
 An hour before dawn, reviewing transportation logs he had requisitioned under pretense of auditing caravan schedules. A late evening examining harvest assessments obtained by claiming interest in agricultural productivity patterns. Midday visits to the guild markets where he posed as a merchant evaluating grain quality—a role that required no pretense, only the resurrection of skills he had supposedly left behind.
 
-He told no one what he was doing. Not Devaka, whose parallel inquiries had reported nothing and whose loyalty remained a question Chandra could not answer. Not the Pradeshika, who had celebrated the case's closure and would not welcome evidence that his celebration was premature. Not even the night guards who watched him enter and leave the administrative complex at irregular hours, and who had learned not to question the habits of officials whose business was not their concern.
+He told no one what he was doing. Devaka's parallel inquiries had reported nothing, and his loyalty remained a question Chandra could not answer. The Pradeshika had celebrated the case's closure and would not welcome evidence that his celebration was premature. Even the night guards—who watched him enter and leave the administrative complex at irregular hours—had learned not to question the habits of officials whose business was not their concern.
 
 ---
 
@@ -24,7 +24,7 @@ The weights at collection were consistent. Farmers delivered grain in quantities
 
 But the weights at warehouse receipt were different.
 
-Not dramatically different—the discrepancies were subtle, distributed across dozens of collection points, each one small enough to fall within acceptable parameters for transportation loss. A measure here, two measures there, attributed to spillage or settling or the inevitable friction of moving bulk goods across distance. Individually defensible. Collectively devastating.
+The differences were subtle rather than dramatic—discrepancies distributed across dozens of collection points, each one small enough to fall within acceptable parameters for transportation loss. A measure here, two measures there, attributed to spillage or settling or the inevitable friction of moving bulk goods across distance. Individually defensible. Collectively devastating.
 
 Chandra mapped the discrepancies across the seven warehouses Nagasena had flagged. The pattern that emerged was not random. Collection points feeding the same transportation routes showed similar loss rates. Routes controlled by the same transport coordinators showed consistent patterns of shrinkage. The theft was happening in transit, skimmed in small amounts from hundreds of shipments, aggregating into volumes that dwarfed Vikram's warehouse operation.
 
@@ -32,7 +32,7 @@ He calculated the totals three times, certain he had made an error. The numbers 
 
 Twenty-three thousand measures. Minimum.
 
-The figure sat on the palm leaf before him like a weight too heavy to lift. Twenty-three thousand measures diverted over eighteen months through a system so distributed that no single point of failure could expose it. Not a conspiracy within the administration—a conspiracy that was the administration, woven into the fabric of collection and transport and storage until theft and governance became indistinguishable.
+The figure sat on the palm leaf before him like a weight too heavy to lift. Twenty-three thousand measures diverted over eighteen months through a system so distributed that no single point of failure could expose it. A conspiracy that was the administration itself, woven into the fabric of collection and transport and storage until theft and governance became indistinguishable.
 
 His hand began to tremble. Not from weakness, but from the weight of comprehension his mind had not yet processed. He set down the stylus before his fingers could betray him further.
 
@@ -46,7 +46,7 @@ The names on the contracts connected to families throughout the provincial admin
 
 Chandra stared at the documents spread across his desk—the accumulated evidence of an architecture so vast that exposing it through normal channels was impossible. Every official who might investigate had connections to the conspiracy. Every channel through which complaint might travel had been compromised. The system had not been corrupted. The system was corruption, organized and institutionalized and protected by the very mechanisms of governance.
 
-He understood now why Nagasena had been marked for death. The Dharma-Mahāmātra's audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's true nature. The blade that had been sent was not punishment for discovering theft—it was the system defending itself against revelation.
+He understood now why Nagasena had been marked for death. The Dharma-Mahāmātra's audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's true nature. The blade served a different purpose—the system defending itself against revelation rather than punishing discovery.
 
 The lamp on his desk flickered, its oil nearly exhausted. Chandra reached to adjust the wick and found his hands still trembling, the physical manifestation of knowledge his body understood before his mind could accept.
 
@@ -56,7 +56,7 @@ The lamp on his desk flickered, its oil nearly exhausted. Chandra reached to adj
 
 Devaka stood in the doorway.
 
-Chandra did not know how long he had been there—the investigation had consumed his attention so completely that a regiment could have marched past his door without drawing his notice. Devaka's face was difficult to read in the dim light, his expression carrying something between weariness and resignation that seemed to shift as the lamp flame guttered.
+Chandra had no idea how long Devaka had been standing there—the investigation had consumed his attention so completely that a regiment could have marched past his door without drawing his notice. Devaka's face was difficult to read in the dim light, his expression carrying something between weariness and resignation that seemed to shift as the lamp flame guttered.
 
 "How long have you been watching?"
 
@@ -88,7 +88,7 @@ The offer hung in the air between them, its terms clear despite remaining unspok
 
 "And if I refuse?"
 
-"Then you become a problem requiring solution." Devaka's voice carried no threat, only the weary recitation of facts he wished were otherwise. "Not immediately—they'll wait for an opportunity that looks like accident or illness or simple misfortune. But eventually, certainly. The system protects itself. It always has."
+"Then you become a problem requiring solution." Devaka's voice carried no threat, only the weary recitation of facts he wished were otherwise. "They'll wait for an opportunity that looks like accident or illness or simple misfortune. But eventually, certainly. The system protects itself. It always has."
 
 Chandra looked at the documents surrounding him—the evidence of theft so vast it defied comprehension, the proof of corruption so deep it had become indistinguishable from governance. He thought about the woman with the infant who had been processed through Vikram's warehouse, about the farmers who had delivered grain only to see it diverted into private channels, about all the faces he had never seen behind the numbers he had spent his life manipulating.
 

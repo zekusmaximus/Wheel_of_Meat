@@ -6,13 +6,13 @@ The screens gleamed without dust. The flowers held their bloom through days that
 
 Lilith had intended a cage of desire. Kaoru craved beauty; she would give him beauty without end. He would return and return and never leave because what he loved would never change. The realm of desire would hold him—frozen aesthetic, frozen longing, frozen soul circling frozen form.
 
-But something had broken.
+But the plan had broken.
 
-She felt it arrive as disruption in the thread: Kaoru standing in the pavilion, surrounded by perfect spring, and understanding something she had not intended him to understand.
+She felt it arrive as disruption in the thread: Kaoru standing in the pavilion, surrounded by perfect spring, and understanding what she had never intended him to understand.
 
 The beauty was too still. Too preserved. The perfection that should have trapped him had become its own refutation.
 
-*Beauty was something you witnessed*, he was realizing. *It required impermanence.*
+*Beauty was what you witnessed*, he was realizing. *It required impermanence.*
 
 Rain against her window—Manchester rain, months and centuries distant from the storm breaking over Heian-kyō. But she felt that storm too: the violence that shattered the impossible spring, that revealed Lady Hotaru aged and sick beneath her careful preservation, that forced Kaoru to see what stillness had been hiding.
 
@@ -20,17 +20,17 @@ The Attendant had tried to stop it. Lilith had felt the vessel's desperation—h
 
 He had looked at the Attendant then. Really looked.
 
-The memory arrived as heat: his gaze finding hers—the vessel's gaze, but hers beneath—and something in that looking that was almost recognition.
+The memory arrived as heat: his gaze finding hers—the vessel's gaze, but hers beneath—and the look carried near-recognition.
 
 The widow's peak. The dark strand falling left. The pale-green crescent that appeared in strong light.
 
-He had seen her. Not the vessel. *Her*.
+He had seen her. The vessel, yes, but also *her* beneath.
 
-And then he had left. Not entrapped. Not bound. Released.
+And then he had left. Entrapped, bound—neither. Released.
 
 *To endure what is real*, his death-poem would say. *That is enough. That is everything.*
 
-Lilith's hands were warmer than they should be. She had given him exactly what he wanted—eternal beauty, frozen form—and he had learned from the gift what she had not intended: that possession was not experience. That beauty required dying to be beautiful.
+Lilith's hands were warmer than they should be. She had given him exactly what he wanted—eternal beauty, frozen form—and he had learned from the gift what she had never intended: that possession was possession, never experience. That beauty required dying to be beautiful.
 
 The pattern was undeniable now. Five incarnations. Five interventions. Five backfires.
 
@@ -40,12 +40,12 @@ And Kaoru—
 
 Kaoru had been shown frozen beauty and understood that beauty melts.
 
-She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the particular way that meant transmission rather than extinction.
+She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the way that meant transmission rather than extinction.
 
-Something in her chest that was not pain but adjacent.
+A sensation in her chest—pain's neighbor.
 
 She filed it: *karmic observation. Thread mechanics.*
 
 The filing was familiar. The walls were familiar.
 
-But the warmth in her hands would not explain itself as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
+But the warmth in her hands would never be explained as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.

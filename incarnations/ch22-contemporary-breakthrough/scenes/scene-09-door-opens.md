@@ -1,12 +1,12 @@
 The morning ripened toward noon, and everything settled.
 
-Not concluded—settled. The way sediment settles after turbulence, revealing the water's clarity. The elements that had been swirling through his consciousness were still there, but they'd found their places. The rooftop. The reaching. The absence where he should have been. The lives flowing through. Her face constant across all of them. The thread that connected them now.
+Settled rather than concluded. The way sediment settles after turbulence, revealing the water's clarity. The elements that had been swirling through his consciousness were still there, but they'd found their places. The rooftop. The reaching. The absence where he should have been. The lives flowing through. Her face constant across all of them. The thread that connected them now.
 
-All of it present. All of it integrated. Not understood—that would take longer, maybe lifetimes—but integrated, the way a body integrates food into muscle and bone without understanding the chemistry.
+All of it present. All of it integrated. Understanding would take longer, maybe lifetimes—but integration had already happened, the way a body integrates food into muscle and bone without understanding the chemistry.
 
 He was ready to move.
 
-The recognition came without announcement. His body had finished processing what his mind hadn't caught up with, and now it wanted motion. Not urgency—just readiness. The still point had held long enough. Time to step back into the stream.
+The recognition came without announcement. His body had finished processing what his mind hadn't caught up with, and now it wanted motion. Readiness rather than urgency. The still point had held long enough. Time to step back into the stream.
 
 What came after?
 
@@ -22,7 +22,7 @@ Her name arose naturally, the way morning mist rises when sun warms air. She was
 
 They would meet again. He could feel the certainty the way he'd felt her presence across distance. And when they met, something would clarify. Or deepen. Or transform again.
 
-He walked to his front door. Not driven, not urgent—just the body ready to move, to step outside, to continue the day that was unfolding. His hand found the doorknob, cool brass worn smooth by the hands of faculty members who'd lived here before him.
+He walked to his front door. The body simply ready to move, to step outside, to continue the day that was unfolding—no drive, no urgency. His hand found the doorknob, cool brass worn smooth by the hands of faculty members who'd lived here before him.
 
 The door opened.
 

@@ -20,7 +20,7 @@ She watched. She waited. She saw—
 
 Release.
 
-Diego looked at Tomás and the ember flickered in his eyes—rage, the poison she had planted—and then something shifted. His jaw loosened. His hands, bound to the stake, unclenched. The ember went out.
+Diego looked at Tomás and the ember flickered in his eyes—rage, the poison she had planted—and then a shift happened. His jaw loosened. His hands, bound to the stake, unclenched. The ember went out.
 
 He was *letting go*.
 
@@ -42,7 +42,7 @@ Widow's peak. Dark strand falling over the left temple. The pale-green crescent 
 
 *My face.*
 
-The recognition was not his—he did not know her, could not name her, understood only that something about the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. But in the reflection of his dying gaze, she saw herself. Saw the face that had been the same across every incarnation she could remember. Saw the constancy she had never questioned.
+The recognition was his body's rather than his mind's—he could not know her, could not name her, understood only that the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. But in the reflection of his dying gaze, she saw herself. Saw the face that had been the same across every incarnation she could remember. Saw the constancy she had never questioned.
 
 *Why am I always the same?*
 
@@ -60,7 +60,7 @@ But Lilith had seen enough. Had seen the release she had not asked for, had not 
 
 She had been seen. And then she had been let go.
 
-The sensation was unlike any backfire before. Not failure—something worse. Something that felt like loss wearing strategy's clothing.
+The sensation was unlike any backfire before. Worse than failure—a feeling like loss wearing strategy's clothing.
 
 He died with peace on his face. He died having released the hatred she had engineered. He died asking a question she could hear burning through the smoke and flame and centuries between them:
 

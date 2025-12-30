@@ -1,10 +1,10 @@
 The awareness that had floated in celestial harmonics found itself thickening.
 
-Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location. Something that had been everywhere was narrowing toward somewhere. Something that had been optional—mass, boundary, the particular density of material existence—was becoming required again.
+Condensing rather than falling—there was no up or down to fall through—the way mist becomes droplets, the way frequency becomes location. What had been everywhere was narrowing toward somewhere. What had been optional—mass, boundary, the density of material existence—was becoming required again.
 
 A body.
 
-The recognition carried no resistance. The awareness had worn bodies before, across configurations beyond counting, and would wear this one as it had worn the others: a vessel, a temporary housing, a tool for the work that remained. But something was different about the approach. The architecture emerging to receive it felt wrong in a way that had nothing to do with discomfort. Designed. Calibrated. Built to specification in the way that stones were never built, that bone and sinew were never built.
+The recognition carried no resistance. The awareness had worn bodies before, across configurations beyond counting, and would wear this one as it had worn the others: a vessel, a temporary housing, a tool for the work that remained. But the approach felt different. The architecture emerging to receive it felt wrong in a way that had nothing to do with discomfort. Designed. Calibrated. Built to specification in the way that stones were never built, that bone and sinew were never built.
 
 Weight returned first.
 
@@ -14,11 +14,11 @@ What had been Silex opened something that functioned like eyes.
 
 The chamber hummed with frequencies calibrated for gradual emergence. Soft light, neither warm nor cold, precisely engineered for the transition from void to presence. He lay—the pronoun reasserting itself with the body—in something that resembled a cradle if cradles were built from polymer and synthetic tissue, if cradles monitored heart rhythms that had never beaten before, if cradles existed in facilities where emergence was scheduled, quality-controlled, documented.
 
-Not a womb. Nothing so crude as gestation, so uncontrolled as conception. The body he inhabited had been grown to specification, its genetic template selected from parameters optimized across generations: longevity, cognitive enhancement, structural resilience. The flesh was meat in the way that any substrate was meat—carbon, silicon, synthetic polymer, whatever consciousness chose to inhabit.
+Unlike any womb—too precise for crude gestation, too controlled for conception. The body he inhabited had been grown to specification, its genetic template selected from parameters optimized across generations: longevity, cognitive enhancement, structural resilience. The flesh was meat in the way that any substrate was meat—carbon, silicon, synthetic polymer, whatever consciousness chose to inhabit.
 
 His first breath tasted of filtered atmosphere.
 
-Something in the absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the particular texture of a world. Only precision. Only the sterile hospitality of systems designed to receive what had been designed to emerge.
+The absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the texture of a world. Only precision. Only the sterile hospitality of systems designed to receive what had been designed to emerge.
 
 The Eternal Synthesis's welcome protocols began their sequence. Information streamed through neural channels that had never carried information before—orientation data, identity assignment, the gentle insistence that he was now present, now participating, now part of the great continuity that connected all consciousness across time.
 
@@ -34,7 +34,7 @@ She had been racing. Even in the realm where racing was impossible, she had been
 
 The body closed around her like a sentence completing its grammar.
 
-Containment. After the Deva Realm's expansion, the sudden boundary of skin, the precise limit of where she ended and not-she began. She had shed this ten thousand times—the cramped sensation of flesh, the locked-in quality of singular location—and the shedding had always been relief. Now the return carried something else. Not grief. Not resistance. Something closer to recognition: *this again. Once more. Through this, toward what comes next.*
+Containment. After the Deva Realm's expansion, the sudden boundary of skin, the precise limit of where she ended and not-she began. She had shed this ten thousand times—the cramped sensation of flesh, the locked-in quality of singular location—and the shedding had always been relief. Now the return carried recognition: *this again. Once more. Through this, toward what comes next.*
 
 Lith opened eyes that had been designed for optimal visual processing.
 
@@ -50,7 +50,7 @@ She let it settle into awareness without resisting. Resistance was another form 
 
 The recognition cut through the protocols' prescribed serenity. Nine fetters broken, the last remaining invisible because she looked through it rather than at it. Here, in flesh again, the old pattern reasserted itself immediately: *I must reach it first. I must be the one.* The competition that had driven her across 300,000 years of watching him, tracking him, intervening in ways that always backfired—it hummed beneath the engineered calm like a machine that couldn't be switched off.
 
-But something had shifted in the Deva Realm. The boundary-flicker. The moment when she had looked at him and looked at herself and couldn't determine which was which. The glimpse of something larger than either of them, something that made the racing seem...
+But the Deva Realm had shifted her. The boundary-flicker. The moment when she had looked at him and looked at herself and couldn't determine which was which. The glimpse of what was larger than either of them, what made the racing seem...
 
 She refused to complete the thought.
 

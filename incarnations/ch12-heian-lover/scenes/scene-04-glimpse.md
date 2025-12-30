@@ -8,13 +8,13 @@ He should continue to the entrance. The path was simple enough—straight ahead,
 
 Instead, he turned toward the service wing.
 
-The Attendant. He wanted to see her before he left. Not for conversation—she rarely spoke more than the necessary courtesies—but to confirm something he could not name. To assure himself that she was still scrubbing, still repairing, still engaged in the endless labor of holding this house together. Her motion was part of the rhythm of this place. Without it, he did not know what the silence would contain.
+The Attendant. He wanted to see her before he left. She rarely spoke more than the necessary courtesies—he had no expectation of conversation—but he needed to confirm what he could not name. To assure himself that she was still scrubbing, still repairing, still engaged in the endless labor of holding this house together. Her motion was part of the rhythm of this place. Without it, he did not know what the silence would contain.
 
 The service wing branched off to the east, through a low doorway that servants used to move unseen between the kitchens and the main halls. Kaoru ducked his head and entered.
 
 At first he saw nothing. The darkness here was complete, the lamps either unlit or extinguished. Then his eyes adjusted, and he saw her.
 
-The Attendant stood beside a wooden bucket, her hands at her sides. She was not moving. Not breathing, as far as he could tell—her chest neither rose nor fell beneath the plain robes she always wore. The bucket held water; he could see its surface gleaming faintly in what light crept through a high window. But she was not scrubbing. She was not cleaning. She was simply standing, still as furniture, as though someone had placed her there and forgotten to tell her what to do next.
+The Attendant stood beside a wooden bucket, her hands at her sides. She was not moving. Her chest neither rose nor fell beneath the plain robes she always wore—no breathing that he could detect. The bucket held water; he could see its surface gleaming faintly in what light crept through a high window. But she was not scrubbing. She was not cleaning. She was simply standing, still as furniture, as though someone had placed her there and forgotten to tell her what to do next.
 
 "Attendant?"
 
@@ -34,7 +34,7 @@ She tilted her head. The motion was slow, deliberate, and utterly wrong—not th
 
 "You should not be here." Her voice was different. Lower. Smoother. Without the sing-song quality that colored her courtesies. "This is not part of the arrangement."
 
-Kaoru could not move. His feet had rooted themselves to the floorboards. His hands hung at his sides, useless, trembling. Something in his chest had seized—not the cough, not the illness that had been building for weeks, but something older, something his blood remembered even if his mind could not name it.
+Kaoru could not move. His feet had rooted themselves to the floorboards. His hands hung at his sides, useless, trembling. His chest had seized—not the cough, not the illness that had been building for weeks, but something older, something his blood remembered even if his mind could not name it.
 
 "Who—"
 
@@ -50,7 +50,7 @@ His reflection looked up at him from the surface. A man he barely recognized—p
 
 He made his way to the entrance on legs that did not feel like his own. The white gravel path stretched before him, perfect as ever, the lanterns burning with their uncanny steadiness. The spring blossoms hung motionless against the autumn sky.
 
-He understood, now. The house was not merely haunted. Something lived inside the Attendant—something that watched, that waited, that assessed visitors with eyes that did not belong in a human face. And that something knew he had seen it.
+He understood, now. The house was not merely haunted. A presence lived inside the Attendant—an intelligence that watched, that waited, that assessed visitors with eyes that did not belong in a human face. And that presence knew he had seen it.
 
 He should not return. The thought was clear as temple water, sharp as an unsheathed blade. He should burn his robes, bathe for three days, have priests examine him for any taint that might have followed him home. He should never speak the name of this place again.
 

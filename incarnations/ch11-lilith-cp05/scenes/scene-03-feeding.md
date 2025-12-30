@@ -26,7 +26,7 @@ The scribes wrote furiously. The elderly priest nodded with visible reverence. A
 
 Theodora stood against the wall and watched.
 
-She had been standing for hours. The position should have become unbearable—mortal bodies required movement, required adjustment, required the basic maintenance of muscles that cramped and joints that stiffened. But her stillness matched his stillness. Her containment echoed his containment. And something in that echo felt not uncomfortable but correct.
+She had been standing for hours. The position should have become unbearable—mortal bodies required movement, required adjustment, required the basic maintenance of muscles that cramped and joints that stiffened. But her stillness matched his stillness. Her containment echoed his containment. And the echo felt not uncomfortable but correct.
 
 *Two bodies practiced at not-moving.* The observation surfaced without examination. *Two consciousness choosing containment.*
 
@@ -54,7 +54,7 @@ In her flat—the awareness of it peripheral, ghostly, barely present—the ligh
 
 Each name was a wall. Each wall held back a recognition she would not examine:
 
-She could not stop watching. She could not leave. Something in his stillness spoke to something in her stillness, and the speaking was not observation. The speaking was not strategic.
+She could not stop watching. She could not leave. His stillness spoke to her stillness, and the speaking was not observation. The speaking was not strategic.
 
 The speaking was a mirror.
 

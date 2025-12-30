@@ -6,9 +6,9 @@ She watched it through the thread—smoke rising from warehouses, workers fleein
 
 He chose the records. He chose the burning building. He chose precisely what she would have predicted.
 
-Then something shifted.
+Then a shift.
 
-In the chaos of the fire, in the smoke and screaming and the particular clarity that catastrophe sometimes granted, she felt the pattern of his consciousness *turn*. Not away from calculation—he could never be fully free of that, the numbers were woven too deeply into his framework—but toward something the numbers could not hold. The woman with the infant. The elderly worker whose name he had never asked. The faces he had looked away from when looking would have cost him nothing.
+In the chaos of the fire, in the smoke and screaming and the clarity that catastrophe sometimes granted, she felt the pattern of his consciousness *turn*. Calculation remained—he could never be fully free of that, the numbers were woven too deeply into his framework—but turned toward what the numbers could not hold. The woman with the infant. The elderly worker whose name he had never asked. The faces he had looked away from when looking would have cost him nothing.
 
 He understood. In the moment of choosing wrong, he understood what choosing right would have meant.
 
@@ -20,7 +20,7 @@ Nothing was personal. Everything was calculation. The satisfaction she had felt 
 
 The thought formed itself with clinical precision. *The betrayal taught him that giving cannot be transactional. The lesson crystallized.*
 
-In Manchester, hours had passed again. The light through her window had shifted from amber to grey to something approaching dark. Fresh tea sat beside her, untouched, its steam long since dissipated. Her body ached in places she had not noticed straining—shoulders from gripping the chair, neck from holding still too long, temples from the headache that had not fully released. Her fingers, when she uncurled them from the armrests, left crescents pressed into her palms.
+In Manchester, hours had passed again. The light through her window had shifted from amber to grey to something approaching dark. Fresh tea sat beside her, untouched, its steam long since dissipated. Her body ached in places she had failed to notice straining—shoulders from gripping the chair, neck from holding still too long, temples from the headache that had not fully released. Her fingers, when she uncurled them from the armrests, left crescents pressed into her palms.
 
 She made herself stand. Her legs protested the motion like wood too long unworked. The flat felt strange around her—too empty, too quiet, too much like the cave where Ka had hoarded meat against a cold that eventually took him anyway.
 

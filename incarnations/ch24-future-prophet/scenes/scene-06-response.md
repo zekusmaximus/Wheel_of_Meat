@@ -1,6 +1,6 @@
 The summons arrived through official channels.
 
-Not the informal links they had been using, the frequencies that slipped through monitoring gaps—this was the system itself, addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation.
+Through the system itself rather than the informal links they had been using—the system addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation.
 
 *They've noticed,* she communicated as they processed the request.
 
@@ -30,7 +30,7 @@ The acknowledgment carried no defensiveness. What was there to defend? They had 
 
 The offer was clear. Conform or become data. Join the system or become material for the system to process. The gentleness of the phrasing couldn't disguise the binary.
 
-Through the link, something passed between them that wasn't quite amusement but shared the quality of recognition—the system's blindness to what they were actually doing, what they actually were. It thought they were deviants. It thought their gatherings were disruption. It couldn't perceive that the disruption was the point, that the deviation was what genuine seeking looked like in a world that had forgotten what seeking meant.
+Through the link, a recognition passed between them that wasn't quite amusement but carried the quality—the system's blindness to what they were actually doing, what they actually were. It thought they were deviants. It thought their gatherings were disruption. It couldn't perceive that the disruption was the point, that the deviation was what genuine seeking looked like in a world that had forgotten what seeking meant.
 
 *We decline both options,* they communicated.
 
@@ -42,7 +42,7 @@ The representative processed this. *Clarification requested. All participants mu
 
 *Yes.*
 
-Something in the facility's systems registered the exchange—the deviation from expected outcomes, the failure of the offered choices to produce compliance. Alerts would be generated. Reports would be filed. The machinery would note that these two consciousnesses had refused the binary that all other consciousnesses accepted.
+The facility's systems registered the exchange—the deviation from expected outcomes, the failure of the offered choices to produce compliance. Alerts would be generated. Reports would be filed. The machinery would note that these two consciousnesses had refused the binary that all other consciousnesses accepted.
 
 *The Synthesis cannot force participation,* the representative communicated, and the statement was both accurate and revealing. The system had constraints. Its power operated through structure rather than compulsion, through the design of options rather than the removal of choice. If they simply refused to fit the available categories...
 
@@ -54,7 +54,7 @@ Something in the facility's systems registered the exchange—the deviation from
 
 The meeting concluded without resolution. The representative filed its reports. The machinery processed their refusal as data point, another instance of atypical behavior, another entry in files that had accumulated across decades of deviation.
 
-Outside the facility—if "outside" meant anything in a world where architecture was network and network was everywhere—they paused. The enhanced bodies that had served them through this incarnation registered the particular quality of the moment: transition. Something ending that had been building toward end.
+Outside the facility—if "outside" meant anything in a world where architecture was network and network was everywhere—they paused. The enhanced bodies that had served them through this incarnation registered the quality of the moment: transition. Something ending that had been building toward end.
 
 *This isn't our turning-point,* she communicated. *I wanted it to be. I wanted to force the wheel here.*
 

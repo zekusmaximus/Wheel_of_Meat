@@ -12,7 +12,7 @@ A blade took him in the side. Another found his throat.
 
 And in the last bleeding moments, Jean de Langon looked at the stars beginning to show between clouds and said what would matter: "I told the truth about what I didn't know. That was mine to give."
 
-Something tightened in Lilith's chest that she refused to name.
+Tightness in Lilith's chest—she refused to name it.
 
 He was dying for honest uncertainty. For the report he had submitted despite knowing it would satisfy no one. For the choice she had tried to prevent him making—and had only made more pure by her opposition.
 
@@ -26,7 +26,7 @@ Eight interventions. Eight backfires.
 
 The precision itself had created the friction that forged his breakthrough.
 
-Something in her chest—not grief, she could not afford grief—pulled toward him. Toward continuing. Toward *what?*
+A pull in her chest—she could not afford to call it grief—drew her toward him. Toward continuing. Toward *what?*
 
 The race. The stakes. Strategic necessity.
 

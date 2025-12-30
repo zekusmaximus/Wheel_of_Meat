@@ -1,6 +1,6 @@
 Days passed. Or weeks—the distinction mattered less here, where time moved to rhythms older than clocks.
 
-We learned the language. Not studied it—let it seep in through repetition, through context, through the patience of the villagers who pointed at things and named them, waited for us to echo, nodded at approximations and smiled at success. The sounds that had been noise became words, became sentences, became the medium of thought in this place and time.
+We learned the language. Let it seep in through repetition, through context, through the patience of the villagers who pointed at things and named them, waited for us to echo, nodded at approximations and smiled at success. The sounds that had been noise became words, became sentences, became the medium of thought in this place and time.
 
 *Water. Bread. Morning. Thank you. My name is—*
 
@@ -8,7 +8,7 @@ But the name never quite settled. They called us something—a sound we answered
 
 We learned the routines. Where the bread was baked each morning, the communal oven whose fire had been tended for longer than anyone remembered. Where the water was drawn, the spring that emerged from rock at the village's northern edge, its taste the same as the cup Mara had pressed into our hands on that first morning. Where people gathered in the evenings, the large open space near the tree where stories were told and decisions made and children fell asleep against their parents' shoulders.
 
-The village had no leaders in the sense previous lives remembered. No councils, no elders with special authority, no structures of command. When something needed deciding, whoever cared gathered to discuss; when the discussion reached some wordless consensus, the doing happened. It was inefficient by the standards of the broken world, and perfectly efficient by standards that had nothing to do with speed.
+The village had no leaders in the sense previous lives remembered. No councils, no elders with special authority, no structures of command. When a decision was needed, whoever cared gathered to discuss; when the discussion reached some wordless consensus, the doing happened. It was inefficient by the standards of the broken world, and perfectly efficient by standards that had nothing to do with speed.
 
 We walked its paths now without strangeness. The faces that had watched with curiosity on that first morning now nodded in recognition, called out greetings in the language we were learning to speak. Children approached without hesitation, asked questions about where we'd come from, accepted our non-answers with the easy acceptance of those who hadn't learned to distrust.
 
@@ -34,11 +34,11 @@ We walked through it without destination. The body was stronger now, familiar wi
 
 A child. A girl, perhaps seven or eight, chasing something that rolled—a ball, a carved toy, something round that had escaped her game and tumbled toward the edge of the square. She ran after it, her focus complete on the object, her awareness contracted to the pursuit.
 
-The toy rolled toward a stack of wood piled at the square's edge. Not dangerous—nothing dangerous, not really, not in this world where the sharp edges had been sanded away. But the girl reached for it without looking, her balance shifting as her weight moved forward, her foot finding the edge of something that shouldn't have been there.
+The toy rolled toward a stack of wood piled at the square's edge. Safe enough—this world where the sharp edges had been sanded away. But the girl reached for it without looking, her balance shifting as her weight moved forward, her foot finding the edge of something that shouldn't have been there.
 
 She stumbled.
 
-Not falling, exactly—the kind of near-fall that children experience daily, the body learning its limits through small overcorrections. She stumbled forward, arms pinwheeling, her center of gravity past the point where her feet could catch it.
+A near-fall—the kind children experience daily, the body learning its limits through small overcorrections. She stumbled forward, arms pinwheeling, her center of gravity past the point where her feet could catch it.
 
 Someone reached for her. A woman nearby—her mother, perhaps, or an aunt, or simply someone who saw a child fall and moved without thinking. The woman's arms extended toward the girl, her own balance shifting as she reached, her weight moving forward to meet the child's momentum.
 
@@ -54,11 +54,11 @@ Three bodies. One chain. The same geometry.
 
 The seeing happened without intention.
 
-We had not been waiting for this moment, had not recognized what the morning would bring until it brought it. But now, watching the chain form and hold—the girl reaching for the toy, the woman reaching for the girl, the man reaching for the woman—something shifted.
+We had not been waiting for this moment, had not recognized what the morning would bring until it brought it. But now, watching the chain form and hold—the girl reaching for the toy, the woman reaching for the girl, the man reaching for the woman—awareness shifted.
 
 The pattern was visible.
 
-Not the specific pattern—not this child, this woman, this man—but the pattern beneath patterns, the shape that had appeared before. Rain on a rooftop. A city wheeling below. Three hands forming a chain in a moment that had mattered.
+The pattern beneath patterns—beyond this child, this woman, this man—the shape that had appeared before. Rain on a rooftop. A city wheeling below. Three hands forming a chain in a moment that had mattered.
 
 *Stewart reaching back. Silas reaching forward. Lilith anchoring from behind.*
 
@@ -80,7 +80,7 @@ The competition was contribution. Had always been contribution. Her 300,000 year
 
 She had grasped at being first. But "first" required "second," required the reaching she thought she opposed. Her grasping at priority was the very thing that made the chain possible. Without someone holding the far end, the reaching reached nothing.
 
-The recognition moved through the merged consciousness like light through water, illuminating what had been dark. She was not the competitor. She was the necessary other half of a gesture that had worn two faces. Her obstruction was participation. Her opposition was collaboration. The friction that had ground through eons of apparent separation—it was polishing. It was the pressure that made diamonds.
+Light moved through the merged consciousness like light through water, illuminating what had been dark. She was not the competitor. She was the necessary other half of a gesture that had worn two faces. Her obstruction was participation. Her opposition was collaboration. The friction that had ground through eons of apparent separation—it was polishing. It was the pressure that made diamonds.
 
 ---
 
@@ -92,7 +92,7 @@ The passivity was activity. Had always been activity. His 300,000 years of appar
 
 He had grasped at being patient. But patience was still identity, still self, still the construction of a someone who could be patient rather than the absence of anyone who needed to be anything. His endurance was its own form of holding on.
 
-The recognition moved through the merged consciousness like tide through sand, reshaping what had seemed solid. He was not the patient one. He was the necessary other half of a gesture that had worn two faces. His waiting was reaching. His receiving was grasping. The stillness that had seemed like opposition to her movement—it was the same motion, seen from inside rather than outside.
+Tide moved through the merged consciousness like tide through sand, reshaping what had seemed solid. He was not the patient one. He was the necessary other half of a gesture that had worn two faces. His waiting was reaching. His receiving was grasping. The stillness that had seemed like opposition to her movement—it was the same motion, seen from inside rather than outside.
 
 ---
 
@@ -100,15 +100,15 @@ The recognition moved through the merged consciousness like tide through sand, r
 
 The separation between anchor and reacher was never real. They were one gesture, wearing two faces, learning through apparent opposition. 300,000 years of seeming competition—one movement learning itself through friction.
 
-Not two becoming one. Not opposition resolving into unity. The framework itself dissolving—the framework that made "two" and "one" meaningful categories, that made "separation" and "unity" meaningful poles.
+The framework itself dissolving—the framework that made "two" and "one" meaningful categories, that made "separation" and "unity" meaningful poles. Beyond becoming. Beyond resolution.
 
 The child had stumbled. An arm had reached for her. Another arm had steadied the one reaching. Three became a chain, and then—
 
 The chain dissolved.
 
-Not because it broke. Not because someone released. Because no one was counting. Because the "three" that had seemed to form the chain was a story told by a perspective that was itself part of the chain, and when that perspective saw itself, the counting lost its ground.
+Because no one was counting. Because the "three" that had seemed to form the chain was a story told by a perspective that was itself part of the chain, and when that perspective saw itself, the counting lost its ground.
 
-Not three. Not one. Before number.
+Before number. Before three, before one.
 
 The shimmer stilled.
 
@@ -126,13 +126,13 @@ But the merged consciousness was no longer "we."
 
 The pronoun had served through embodiment, through arrival, through the days of learning. It had carried the two-that-were-becoming-one through territory that neither could have navigated alone. But now the territory had shifted, and the pronoun no longer fit.
 
-Not because one had won and the other lost. Not because she had finally released so he could complete. But because the framework that made pronouns possible—the framework of separation, of self and other, of one and two and three—was seen through. And once seen through, it couldn't quite be believed in the same way.
+The framework that made pronouns possible—the framework of separation, of self and other, of one and two and three—was seen through. And once seen through, it couldn't quite be believed in the same way.
 
-Something remained. Something that was not nothing—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible. But the one who walked... the one who saw... the one who breathed...
+What remained was not absence—the body still breathed, still saw, still walked through a village square on a morning that had changed everything without changing anything visible. But the one who walked... the one who saw... the one who breathed...
 
 The tree. Visible from here, its ancient branches spreading against the sky.
 
-Drawing. Not choosing to go—the choosing framework had thinned. But drawn, the way water is drawn toward lower ground, the way iron is drawn toward the north. Something completing its motion toward what had always been its destination.
+Drawing. The choosing framework had thinned. Drawn, the way water is drawn toward lower ground, the way iron is drawn toward the north. Something completing its motion toward what had always been its destination.
 
 The body walked toward the edge of the village. The tree waited.
 

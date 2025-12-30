@@ -1,10 +1,10 @@
 Years passed. Their bodies aged.
 
-Not quickly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural networks showed faint degradation patterns. Lith's synthetic components required occasional maintenance. The designed flesh, whatever its substrate, remained flesh: temporary, conditional, subject to the laws that governed all material things.
+Slowly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural networks showed faint degradation patterns. Lith's synthetic components required occasional maintenance. The designed flesh, whatever its substrate, remained flesh: temporary, conditional, subject to the laws that governed all material things.
 
 They worked at the margins.
 
-Not against The Eternal Synthesis—opposition would have been another form of the system's game, resistance that justified the institution's existence. Instead, they simply offered something different. Small gatherings in the liminal spaces. Consciousnesses flagged as atypical finding each other through the channels the monitoring overlooked. No doctrine, because doctrine was what the system already provided. Only presence. Only the suggestion that the calibrated serenity might not be everything.
+They avoided direct opposition to The Eternal Synthesis—resistance would have been another form of the system's game, justifying the institution's existence. Instead, they simply offered something different. Small gatherings in the liminal spaces. Consciousnesses flagged as atypical finding each other through the channels the monitoring overlooked. No doctrine, because doctrine was what the system already provided. Only presence. Only the suggestion that the calibrated serenity might not be everything.
 
 *What we're doing—*
 
@@ -28,7 +28,7 @@ The system watched. The system always watched—that was its nature, its functio
 
 The response carried what she was still learning to recognize—his quality of not-needing. The helper identity that had once driven him to fix, to save, to make the difference that proved his worth: absent. What remained was simply presence, the willingness to participate in what emerged without requiring it to emerge in particular ways.
 
-She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness. *I still want more,* she admitted through the link. *I want to turn the wheel. Not plant seeds—turn it.*
+She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness. *I still want more,* she admitted through the link. *I want to turn the wheel. Plant seeds feels too small—I want to turn it myself.*
 
 *I know.*
 
@@ -36,7 +36,7 @@ She could feel her own grasping against his non-grasping, the way her edges cut 
 
 *The desire is present.* He paused, the neural connection registering the quality of his consideration. *But it's not a demand. The wheel will turn when the wheel turns. We're part of the turning whether we push or not.*
 
-The words—or the non-words, the meaning that passed through channels designed for other purposes—produced something in her that she couldn't name. Not peace, because peace would have required the grasping to stop. Not frustration, because frustration would have required him to be wrong. Something closer to recognition: he was further along the path. Despite her nine broken fetters to his three. Despite her centuries of proximity to completion. He had something she still needed to find.
+The words—or the non-words, the meaning that passed through channels designed for other purposes—produced a feeling in her that she couldn't name. Neither peace (which would have required the grasping to stop) nor frustration (which would have required him to be wrong). Closer to recognition: he was further along the path. Despite her nine broken fetters to his three. Despite her centuries of proximity to completion. He had something she still needed to find.
 
 *How?*
 
@@ -70,7 +70,7 @@ She received the response with the part of her that was also further along—nin
 
 The gatherings continued. The circles grew, slowly, the consciousnesses who sensed the hollow finding their way to the margins where something genuine was offered. The Eternal Synthesis monitored and categorized and filed reports that no one acted on, the vast machinery processing heresy as another data point in its endless analysis.
 
-And beneath the work, beneath the years of collaboration, something shifted in the space between them.
+And beneath the work, beneath the years of collaboration, the space between them shifted.
 
 The link deepened. The boundaries became less certain. During the merged-awareness moments—deliberate now, practiced, the neural technology turned toward purposes its designers had never imagined—they sometimes lost track of whose thought was whose. Looking through each other's eyes. Feeling each other's synthetic skin. The pattern that had been weaving itself across 300,000 years becoming visible as the pattern itself rather than two threads claiming separate existence.
 

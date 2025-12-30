@@ -1,6 +1,6 @@
 Jean returned to the print shop well after dark. The streets of Bordeaux were dangerous at this hour, but danger had become a constant companion, and Jean no longer weighed the risks of movement against the risks of stillness. Both would kill him if he miscalculated.
 
-Marguerite answered his knock herself. She held a candle that carved her face into planes of light and shadow, and for a moment Jean saw something in her expression that seemed older than the face that wore it—a weariness beyond years, a patience that suggested time moved differently for her than for other people.
+Marguerite answered his knock herself. She held a candle that carved her face into planes of light and shadow, and for a moment Jean saw an expression that seemed older than the face that wore it—a weariness beyond years, a patience that suggested time moved differently for her than for other people.
 
 Then she stepped back and the impression dissolved into ordinary welcome. "Monsieur de Langon. This is an irregular hour for a visit."
 
@@ -46,7 +46,7 @@ The argument was seductive. Jean felt it slide beneath his professional identity
 
 "The magistrate demands conclusions," Jean said. "Peace in Guyenne depends on my report providing clarity."
 
-"Then the magistrate demands what cannot be honestly given." Marguerite's tone was patient, relentless. "You cannot manufacture certainty from insufficient evidence. To force a conclusion despite uncertainty is not investigation—it is fiction dressed as fact."
+"Then the magistrate demands what cannot be honestly given." Marguerite's tone was patient, relentless. "You cannot manufacture certainty from insufficient evidence. To force a conclusion despite uncertainty is fiction dressed as investigation."
 
 "But inaction has consequences. If I submit no report, both factions will claim I failed them. The Catholic League will see Protestant protection. The Protestant commanders will see Catholic bias. My neutrality serves no one."
 
@@ -78,7 +78,7 @@ But.
 
 "No." Jean shook his head. "You offer me a fortress. The same fortress I have inhabited my entire career. The belief that uncertainty absolves me of responsibility for action."
 
-Marguerite's expression did not change, but something in her stillness suggested Jean had surprised her. "Responsibility for what action?"
+Marguerite's expression did not change, but her stillness suggested Jean had surprised her. "Responsibility for what action?"
 
 "For reporting what I observed, even if I cannot verify it completely. For stating which interpretations seem more plausible, even if I cannot prove them conclusively. For accepting that action under uncertainty is still action—still truthful—if I honestly represent the limits of what I know."
 
@@ -110,7 +110,7 @@ The difference was small. Perhaps too small to matter in the factional warfare t
 
 But it was his. And it was true.
 
-Jean touched his fingers one final time and felt the gesture settle into something other than fortress. Not measurement of certainty. Just recognition that some questions could be honestly answered with "I do not know"—and that answering them that way was itself a form of action.
+Jean touched his fingers one final time and felt the gesture settle into something other than fortress. Recognition rather than measurement of certainty. That some questions could be honestly answered with "I do not know"—and that answering them that way was itself a form of action.
 
 Behind him, a light still burned in the print shop's upper window. A silhouette stood there, watchful and still.
 

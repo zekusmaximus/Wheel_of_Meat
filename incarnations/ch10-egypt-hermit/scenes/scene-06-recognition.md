@@ -12,7 +12,7 @@ But the young monks nodded as if these denials were themselves teachings, and wh
 
 The routine he had maintained for fifteen years began to fragment.
 
-Visitors came at times when visitors should not have come. A monk from Kellia, ancient and half-blind, arrived seeking a blessing. A merchant from the Nile valley appeared with supplies that had not been requested, offering them as gifts from the faithful who had heard of Abba Macarius's wisdom. A group of pilgrims—actual pilgrims, not monks—tracked him down and prostrated themselves in the sand outside his cell, asking only to be in his presence.
+Visitors came at times when visitors should not have come. A monk from Kellia, ancient and half-blind, arrived seeking a blessing. A merchant from the Nile valley appeared with supplies that had not been requested, offering them as gifts from the faithful who had heard of Abba Macarius's wisdom. A group of actual pilgrims—laypeople rather than monks—tracked him down and prostrated themselves in the sand outside his cell, asking only to be in his presence.
 
 He sent them all away. But the sending took time, required words, demanded attention that should have been spent on prayer and weaving. His baskets grew no larger. His silence grew smaller.
 
@@ -20,13 +20,13 @@ The stillness that had been his companion for a decade and a half became harder 
 
 *When a man seeks you out for teaching, give him less than he wants and more than he needs.*
 
-He had not composed such a phrase, had he? It had arrived fully formed, as if from outside himself, ready for delivery. And yet it was his. He recognized its shape, its rhythm, the particular compression of insight that he had learned to perform.
+He had not composed such a phrase, had he? It had arrived fully formed, as if from outside himself, ready for delivery. And yet it was his. He recognized its shape, its rhythm, the compression of insight that he had learned to perform.
 
 Was this what the fathers meant by preparation for teaching? Or was it something else?
 
 He did not want to look at the question too closely.
 
-The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had flagged for further exploration. Theodora did not accompany them, but her absence was somehow more noticeable than her presence had been. Macarius found himself looking for her in the doorway, listening for the particular quality of her silence.
+The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had flagged for further exploration. Theodora did not accompany them, but her absence was somehow more noticeable than her presence had been. Macarius found himself looking for her in the doorway, listening for the quality of her silence.
 
 "The bishop has read your words with great attention," Theophanes said. "He sends his gratitude. He believes they may be of great use to the struggling faithful."
 
@@ -40,7 +40,7 @@ Was this not what the fathers did? Was this not the purpose of the Apophthegmata
 
 And yet.
 
-Something in him resisted the praise. Or rather, something in him resisted the ease with which he accepted the praise, the way it settled into his body like water into parched earth. He was too thirsty for this. He drank too deeply.
+Part of him resisted the praise. Or rather, part of him resisted the ease with which he accepted the praise, the way it settled into his body like water into parched earth. He was too thirsty for this. He drank too deeply.
 
 The scribe wrote. Theophanes asked his clarifying questions. Macarius answered—more carefully now, more conscious of how his words would look etched in wax and copied onto parchment. He found himself reaching for precision when simplicity would have served, for elegance when plainness was the desert way.
 

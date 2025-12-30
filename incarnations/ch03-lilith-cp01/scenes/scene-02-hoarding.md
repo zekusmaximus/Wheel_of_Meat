@@ -18,13 +18,13 @@ Lilith understood the logic. She could trace it as clearly as she might trace a 
 
 The lesson was wrong. She could see that clearly. His isolation would kill him more surely than any predator. His hoarding would leave him with meat he could not eat while his body failed in the cold.
 
-She could see it. She could not reach through time to change it—that was not how this worked, not yet, not quite—but she could see the pattern of his mistake as clearly as if she were reading his chart.
+She could see it. She lacked the ability to reach through time to change it—the skill would come later—but she could see the pattern of his mistake as clearly as if she were reading his chart.
 
 *Such a long way to go,* she thought. *Hundreds of lifetimes, maybe.*
 
 Her tea had gone cold. She drank it anyway, the bitterness appropriate, while Ka gnawed on meat that was beginning to turn, and both of them sat in their caves—hers heated by radiator, his by embers that would gutter before dawn—and chose to stay.
 
-Ka was calculating how long this flesh would last if eaten slowly, if hidden from others who might smell it, if the alone-way proved stronger than the together-way. His fingers—blackening now at the tips, though he had not yet noticed—curled tighter around the haunch.
+Ka was calculating how long this flesh would last if eaten slowly, if hidden from others who might smell it, if the alone-way proved stronger than the together-way. His fingers—blackening now at the tips, though he remained unaware—curled tighter around the haunch.
 
 Lilith was calculating too. How far did this thread extend? How many iterations had this consciousness accumulated? What was it building toward, and how long until it arrived?
 
@@ -36,7 +36,7 @@ Ka heard a sound—the soft pad of feet on stone, the whisper of small-fast-prey
 
 *Mine.*
 
-Lilith's phone buzzed—a text from the department, something about tomorrow's case conference, the ordinary machinery of a life she was forgetting to live. She did not look at it. She did not move from her corner, her watching-place, her cave.
+Lilith's phone buzzed—a text from the department, a reminder about tomorrow's case conference, the ordinary machinery of a life she was forgetting to live. She did not look at it. She did not move from her corner, her watching-place, her cave.
 
 *Mine,* the thread whispered. Hers now, this pattern she had found. This puzzle she would solve.
 
@@ -44,7 +44,7 @@ The small-fast-prey retreated from Ka's teeth. In Manchester, the phone stopped 
 
 For an instant she wasn't sure whether the meat was frozen or the tea was cold, whether the cave was hers or the flat was his, whether the isolation she was observing was happening to her or—
 
-The thought dissolved before it finished. She returned to observation. Filed the slippage under fatigue. Did not look at it again.
+She lost the thought before it finished. She returned to observation. Filed the slippage under fatigue. Did not look at it again.
 
 She could reach out now. The capacity was there—not to change what had already happened, but to *sense* more deeply, to trace the thread forward through whatever deaths and rebirths waited between this cave and the present day. She had the skill. She had refined it over fifteen years of following her own patterns through parish records and ship manifests and the peculiar déjà vu of standing in places her current body had never visited.
 

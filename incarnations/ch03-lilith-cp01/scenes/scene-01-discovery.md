@@ -12,11 +12,11 @@ The flat held its silence: radiator ticking, rain against the window, the distan
 
 Someone else.
 
-The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him—bodies touching like wolf pups, breath mixing in the dark. He did not sleep with them. He slept alone, near the cold wind, near the exit, near the nothing that waited outside. Something in his chest had hardened. She could feel it in her own sternum: a tightness, a closing, like ice forming where warmth should be.
+The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him—bodies touching like wolf pups, breath mixing in the dark. He did not sleep with them. He slept alone, near the cold wind, near the exit, near the nothing that waited outside. His chest had hardened. She could feel it in her own sternum: a tightness, a closing, like ice forming where warmth should be.
 
 *Ka.*
 
-The name surfaced from the thread itself, from whatever connection she had made with this ancient pattern. Not a name as she understood names—he had no word for himself, no concept of the self as separable from body and action. But the shape of him was there, dense and rough and unpolished, a consciousness accumulating through flesh after flesh after flesh.
+The name surfaced from the thread itself, from whatever connection she had made with this ancient pattern. A name unlike what she understood as names—he had no word for himself, no concept of the self as separable from body and action. But the shape of him was there, dense and rough and unpolished, a consciousness accumulating through flesh after flesh after flesh.
 
 She carried the tea to her corner—the armchair by the window where she did her private work, her reaching, her practice that had no name she knew—and the motion was also Ka rising from uneasy sleep, body stiff with cold that had seeped through the hide covering, that seeped now through the thin walls of her Fallowfield flat where the heating never quite reached.
 
@@ -26,7 +26,7 @@ The thread she had found was old in a way that made her own iterations seem rece
 
 She followed anyway.
 
-Ka's awareness bled into hers in fragments: the smell of smoke and game blood, the ache in joints from sleeping on stone, the particular loneliness of watching others share warmth while choosing to remain apart. He did not have words for what he felt. His knowing arrived as body-knowledge, as the prickle of neck-hair before danger, as the hollow in the belly that was not hunger but something adjacent to it.
+Ka's awareness bled into hers in fragments: the smell of smoke and game blood, the ache in joints from sleeping on stone, the loneliness of watching others share warmth while choosing to remain apart. He did not have words for what he felt. His knowing arrived as body-knowledge, as the prickle of neck-hair before danger, as the hollow in the belly that was not hunger but something adjacent to it.
 
 *Like ice wall,* his body told him. *In chest. Cold. Dead. Heavy.*
 

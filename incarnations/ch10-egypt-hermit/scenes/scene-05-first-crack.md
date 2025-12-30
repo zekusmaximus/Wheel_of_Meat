@@ -10,13 +10,13 @@ For fifteen years, this space had been his sanctuary—four walls, a worn mat, t
 
 Now the cell felt crowded.
 
-Theophanes's voice lingered in the corners like smoke. The scrape of stylus on wax, the rustle of fine linen, the particular quality of attention that the archdeacon brought to his questions—all of these had left residue. Macarius could still feel the delegation's presence, as if their bodies had impressed themselves upon the air and refused to dissipate.
+Theophanes's voice lingered in the corners like smoke. The scrape of stylus on wax, the rustle of fine linen, the quality of attention that the archdeacon brought to his questions—all of these had left residue. Macarius could still feel the delegation's presence, as if their bodies had impressed themselves upon the air and refused to dissipate.
 
 And behind it all, watching: the woman who had said nothing.
 
 *Theodora.*
 
-Her stillness had been more disturbing than Theophanes's words. She had stood against the wall and watched, and her watching had been—what? Macarius searched for the word and could not find it. Not hostile. Not friendly. Something else. Something that reminded him, absurdly, of a predator waiting for movement.
+Her stillness had been more disturbing than Theophanes's words. She had stood against the wall and watched, and her watching had been—what? Macarius searched for the word and could not find it. Neither hostile nor friendly. Something else. Something that reminded him, absurdly, of a predator waiting for movement.
 
 He shook the thought away. A dignitary of the church. A woman carrying letters from the bishop's household. Nothing more.
 
@@ -48,7 +48,7 @@ The warmth spread down his arms. His fingers tingled with it.
 
 *The fathers speak of you.*
 
-Something in his spine straightened, though he had not instructed it to straighten. His chin lifted slightly. The posture was wrong—not the posture of prayer but the posture of a man receiving something he had been waiting for.
+His spine straightened, though he had not instructed it to straighten. His chin lifted slightly. The posture was wrong—not the posture of prayer but the posture of a man receiving something he had been waiting for.
 
 He caught himself.
 
@@ -64,7 +64,7 @@ The warmth in his chest. The tingling in his fingers. The subtle rightness of a 
 
 This was not new.
 
-The realization struck like cold water. This was not new. This warmth, this rightness, this subtle pleasure at being recognized—it had been present for years. Decades, perhaps. It had been present every time a young monk sought his counsel and left with something worth carrying. It had been present every time the other hermits looked to him for guidance. It had been present every time someone spoke his name with the particular reverence that the desert reserved for its elder statesmen.
+The realization struck like cold water. This was not new. This warmth, this rightness, this subtle pleasure at being recognized—it had been present for years. Decades, perhaps. It had been present every time a young monk sought his counsel and left with something worth carrying. It had been present every time the other hermits looked to him for guidance. It had been present every time someone spoke his name with the reverence that the desert reserved for its elder statesmen.
 
 *Macarius of Scetis. Macarius the patient. Macarius who gave everything up.*
 
@@ -82,7 +82,7 @@ The words moved.
 
 They did not anchor.
 
-Beneath them, the warmth continued to pulse. The body continued to remember the pleasure of praise. And somewhere in the center of him, in the place where prayer was supposed to live, a question had taken root that he could not quite articulate—a question about what, exactly, he had been cultivating in this cell for fifteen years.
+Beneath them, the warmth continued to pulse. The body continued to remember the pleasure of praise. And somewhere in the center of him, in the place where prayer was supposed to live, a question had taken root—difficult to articulate, but insistent—a question about what, exactly, he had been cultivating in this cell for fifteen years.
 
 The answer was not what he wanted it to be.
 
