@@ -2,7 +2,7 @@ The morning light fell through Pradeshika Sumitra's window in narrow bands, catc
 
 I stood before Sumitra's desk, my wounded arm bound in clean linen and held against my chest by a sling the physician had insisted upon. The stitches pulled with each breath, a constant low irritation that made concentration difficult. Devaka stood two paces behind me, his presence a familiar weight I had grown accustomed to over fifteen years of shared labor.
 
-Sumitra did not invite us to sit. The wooden chairs arranged before his desk remained empty, their cushions flattened by years of supplicants who had waited longer than I intended to wait. The Pradeshika shuffled through documents with the particular deliberation of a man establishing hierarchy through delay.
+Sumitra did not invite us to sit. The wooden chairs arranged before his desk remained empty, their cushions flattened by years of supplicants who had waited longer than I intended to wait. The Pradeshika shuffled through documents with studied deliberation—a man establishing hierarchy through delay.
 
 "The Dharma-Mahāmātra's preliminary audit." He extracted a bundle of palm leaves from the stack before him, their edges worn from handling. "Submitted to this office eight days before the pillar ceremony. Standard review of granary operations in the eastern districts."
 
@@ -46,7 +46,7 @@ Devaka walked beside me, matching my pace with the automatic coordination of lon
 
 "Begin with Warehouse Seven." I had already sorted through Nagasena's preliminary notes, the numbers arranging themselves into patterns that suggested where to focus. "The loss reports show the largest variance from expected values. If the falsification is systematic, that's where it will be most visible."
 
-Devaka nodded, but something in the motion caught my attention—a slight hesitation, a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.
+Devaka nodded, but a hesitation in the motion caught my attention—a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.
 
 Yet I found myself remembering Sumitra's warning about allies in the administration, and the shape of that hesitation lodged in my mind like a splinter.
 

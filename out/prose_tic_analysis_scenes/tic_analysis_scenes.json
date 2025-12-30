@@ -1,20 +1,20 @@
 {
   "total_chapters": 24,
   "total_scenes": 167,
-  "total_tics": 310,
+  "total_tics": 266,
   "chapters": [
     {
       "chapter_num": 1,
       "title": "The Awakening",
       "dir_name": "ch01-contemporary-manchester",
       "total_scenes": 9,
-      "total_words": 7672,
-      "total_tics": 9,
-      "tic_density": 1.17,
+      "total_words": 7702,
+      "total_tics": 2,
+      "tic_density": 0.26,
       "scenes": [
         {
           "scene_name": "scene-01-sunset-bedroom",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-01-sunset-bedroom.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-01-sunset-bedroom.md",
           "word_count": 574,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -23,7 +23,7 @@
         },
         {
           "scene_name": "scene-02-campus-morning",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-02-campus-morning.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-02-campus-morning.md",
           "word_count": 332,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -32,7 +32,7 @@
         },
         {
           "scene_name": "scene-03-lecture-hall",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-03-lecture-hall.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-03-lecture-hall.md",
           "word_count": 838,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -41,34 +41,16 @@
         },
         {
           "scene_name": "scene-04-hallway-aftermath",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-04-hallway-aftermath.md",
-          "word_count": 449,
-          "total_tics": 1,
-          "tic_density": 2.23,
-          "tic_counts": {
-            "something_construction": 1
-          },
-          "tics": [
-            {
-              "tic_type": "something_construction",
-              "line_num": 11,
-              "line_text": "Silas shook his head, his glasses sliding down his nose. \"That's just it. I'm not shaken Lilith.\" She pulled back a bit as he pushed his glasses back up, smiling. \"I think Stewart showed me something. Something about myself, or lack thereof.\"",
-              "matched_text": "Something about myself",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something about myself",
-                  "revision": "[specific quality] about the myself",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            }
-          ]
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-04-hallway-aftermath.md",
+          "word_count": 457,
+          "total_tics": 0,
+          "tic_density": 0.0,
+          "tic_counts": {},
+          "tics": []
         },
         {
           "scene_name": "scene-05-faculty-meeting",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-05-faculty-meeting.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-05-faculty-meeting.md",
           "word_count": 917,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -77,7 +59,7 @@
         },
         {
           "scene_name": "scene-06-university-green",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-06-university-green.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-06-university-green.md",
           "word_count": 697,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -86,7 +68,7 @@
         },
         {
           "scene_name": "scene-07-apartment-meditation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-07-apartment-meditation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-07-apartment-meditation.md",
           "word_count": 442,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -95,118 +77,23 @@
         },
         {
           "scene_name": "scene-08-the-drive",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-08-the-drive.md",
-          "word_count": 1422,
-          "total_tics": 2,
-          "tic_density": 1.41,
-          "tic_counts": {
-            "something_construction": 1,
-            "not_x_pattern": 1
-          },
-          "tics": [
-            {
-              "tic_type": "something_construction",
-              "line_num": 71,
-              "line_text": "He pushed past her and began to climb, his footsteps echoing in the narrow stairwell like a heartbeat amplified beyond bearing. Behind him, he heard her follow, and something in that rhythm\u2014her steps always slightly behind his, matching his pace, tracking his ascent\u2014carried a weight it hadn't before.",
-              "matched_text": "something in that",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something in that",
-                  "revision": "[specific quality] in the that",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 75,
-              "line_text": "\"Silas.\" Lilith's hand closed around his wrist. \"Whatever happens up there\u2014whatever I've done\u2014I didn't want this. Not for him. Not for you.\"",
-              "matched_text": "[2 sentences starting with 'Not']",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Multiple 'Not X' sentences",
-                  "revision": "Vary sentence openings",
-                  "explanation": "Line has 2 sentences starting with 'Not'"
-                }
-              ]
-            }
-          ]
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-08-the-drive.md",
+          "word_count": 1430,
+          "total_tics": 0,
+          "tic_density": 0.0,
+          "tic_counts": {},
+          "tics": []
         },
         {
           "scene_name": "scene-09-rooftop-climax",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch01-contemporary-manchester/scenes/scene-09-rooftop-climax.md",
-          "word_count": 2001,
-          "total_tics": 6,
-          "tic_density": 3.0,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch01-contemporary-manchester\\scenes\\scene-09-rooftop-climax.md",
+          "word_count": 2015,
+          "total_tics": 2,
+          "tic_density": 0.99,
           "tic_counts": {
-            "something_construction": 4,
             "not_x_pattern": 2
           },
           "tics": [
-            {
-              "tic_type": "something_construction",
-              "line_num": 21,
-              "line_text": "\"Didn't you?\" Now Stewart did turn, and his eyes caught the reflected light from below. \"What you wrote on the board. What you taught us. Something in me\u2014\" He pressed his hand against his sternum, a gesture Silas recognized because he'd made it himself, in the lecture hall, in the committee room, in Lilith's apartment. \"Something broke. Or maybe it finally stopped pretending to be whole.\"",
-              "matched_text": "Something broke",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something broke",
-                  "revision": "[name the thing] broke",
-                  "explanation": "Name the specific referent instead of using 'something'"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 21,
-              "line_text": "\"Didn't you?\" Now Stewart did turn, and his eyes caught the reflected light from below. \"What you wrote on the board. What you taught us. Something in me\u2014\" He pressed his hand against his sternum, a gesture Silas recognized because he'd made it himself, in the lecture hall, in the committee room, in Lilith's apartment. \"Something broke. Or maybe it finally stopped pretending to be whole.\"",
-              "matched_text": "Something in me",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something in me",
-                  "revision": "[specific quality] in the me",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 81,
-              "line_text": "The words echoed something Silas had thought in Lilith's apartment, something about the barrier between self and other already blurring. He'd assumed it was metaphor, philosophy made experiential. But Stewart was saying it literally, as a lived fact.",
-              "matched_text": "something about the barrier",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something about the barrier",
-                  "revision": "[specific quality] about the barrier",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 93,
-              "line_text": "Silas took a step forward, and the step felt different from the ones that had come before\u2014not the helper rushing to save, not the professional managing a crisis, but something stripped of role and purpose moving toward something else equally stripped.",
-              "matched_text": "something stripped",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something stripped",
-                  "revision": "[name the thing] stripped",
-                  "explanation": "Name the specific referent instead of using 'something'"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 15,
@@ -246,13 +133,13 @@
       "title": "Lilith's Watch I",
       "dir_name": "ch03-lilith-cp01",
       "total_scenes": 4,
-      "total_words": 2965,
-      "total_tics": 2,
-      "tic_density": 0.67,
+      "total_words": 2964,
+      "total_tics": 0,
+      "tic_density": 0.0,
       "scenes": [
         {
           "scene_name": "scene-01-discovery",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch03-lilith-cp01/scenes/scene-01-discovery.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch03-lilith-cp01\\scenes\\scene-01-discovery.md",
           "word_count": 730,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -261,7 +148,7 @@
         },
         {
           "scene_name": "scene-02-hoarding",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch03-lilith-cp01/scenes/scene-02-hoarding.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch03-lilith-cp01\\scenes\\scene-02-hoarding.md",
           "word_count": 913,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -270,7 +157,7 @@
         },
         {
           "scene_name": "scene-03-ka-death",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch03-lilith-cp01/scenes/scene-03-ka-death.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch03-lilith-cp01\\scenes\\scene-03-ka-death.md",
           "word_count": 563,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -279,45 +166,12 @@
         },
         {
           "scene_name": "scene-04-thread-forward",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch03-lilith-cp01/scenes/scene-04-thread-forward.md",
-          "word_count": 759,
-          "total_tics": 2,
-          "tic_density": 2.64,
-          "tic_counts": {
-            "not_x_pattern": 2
-          },
-          "tics": [
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 5,
-              "line_text": "She had learned this from her own iterations: the space between death and rebirth resisted observation. It was not a place exactly, not a time, but something else\u2014a state that language could only approximate. The pattern existed there without existing, persisted without persisting, carried forward by forces she could describe but not explain.",
-              "matched_text": "not a place exactly, not a time, but something else\u2014a state that language could only approximate",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "not a place exactly, not a time, but something else\u2014a state that language could only approximate",
-                  "revision": "[Rephrase without 'Not X\u2014Y' structure]",
-                  "explanation": "Consider varying sentence structure"
-                }
-              ]
-            },
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 45,
-              "line_text": "The phrase felt thin even as she thought it. There was more beneath, something she was not ready to examine\u2014a pull that went beyond curiosity, a resonance she could not name. But naming could wait. For now she had proven a technique. Tomorrow\u2014today, really, the morning already here\u2014she would begin to use it.",
-              "matched_text": "not ready to examine\u2014a pull that went beyond curiosity, a resonance she could not name",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "not ready to examine\u2014a pull that went beyond curiosity, a resonance she could not name",
-                  "revision": "[Rephrase without 'Not X\u2014Y' structure]",
-                  "explanation": "Consider varying sentence structure"
-                }
-              ]
-            }
-          ]
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch03-lilith-cp01\\scenes\\scene-04-thread-forward.md",
+          "word_count": 758,
+          "total_tics": 0,
+          "tic_density": 0.0,
+          "tic_counts": {},
+          "tics": []
         }
       ]
     },
@@ -326,81 +180,20 @@
       "title": "The Mauryan Empire",
       "dir_name": "ch04-mauryan-chandra",
       "total_scenes": 8,
-      "total_words": 19189,
-      "total_tics": 37,
-      "tic_density": 1.93,
+      "total_words": 19134,
+      "total_tics": 11,
+      "tic_density": 0.57,
       "scenes": [
         {
           "scene_name": "scene-01-pillar-ceremony",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-01-pillar-ceremony.md",
-          "word_count": 2648,
-          "total_tics": 6,
-          "tic_density": 2.27,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-01-pillar-ceremony.md",
+          "word_count": 2628,
+          "total_tics": 2,
+          "tic_density": 0.76,
           "tic_counts": {
-            "particular": 3,
-            "not_x_pattern": 3
+            "not_x_pattern": 2
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 7,
-              "line_text": "Dharma-Mah\u0101m\u0101tra Nagasena stood on the raised platform beside Pradeshika Sumitra, his white robes catching the light in a way that drew the eye from the pillar itself. The moral inspector's face held the particular stillness of a man who has rehearsed his expression before a polished bronze mirror\u2014serene, but calculated to appear serene rather than simply being so. His hands rested at his sides in the prescribed manner, neither clasped nor gesturing, the posture of one who has studied how virtue ought to look.",
-              "matched_text": "the particular stillness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular stillness",
-                  "revision": "the stillness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular stillness",
-                  "revision": "the [specific descriptor] stillness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 57,
-              "line_text": "I woke to the smell of sesame oil and the particular stillness that indicated I was no longer in the square. The light filtered through cloth walls\u2014a tent, then, probably the medical station maintained for public ceremonies. My arm burned with a steady heat that suggested someone had cleaned and stitched the wound while I was unconscious.",
-              "matched_text": "the particular stillness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular stillness",
-                  "revision": "the stillness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular stillness",
-                  "revision": "the [specific descriptor] stillness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 81,
-              "line_text": "The tent flap rustled, and Pradeshika Sumitra entered with the particular heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.",
-              "matched_text": "the particular heaviness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular heaviness",
-                  "revision": "the heaviness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular heaviness",
-                  "revision": "the [specific descriptor] heaviness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 11,
@@ -411,21 +204,6 @@
               "proposals": [
                 {
                   "original": "not match the figure I had calculated earlier\u2014I had overestimated the carving cost by thirty percent",
-                  "revision": "[Rephrase without 'Not X\u2014Y' structure]",
-                  "explanation": "Consider varying sentence structure"
-                }
-              ]
-            },
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 47,
-              "line_text": "Nagasena stared at me from where he had fallen against the pillar's base, his white robes now smeared with dust and what might have been a trace of my blood. His expression held something I could not immediately categorize\u2014not gratitude, exactly, nor the calculation I had come to expect from men in his position. Something softer, and therefore more unsettling.",
-              "matched_text": "not immediately categorize\u2014not gratitude, exactly, nor the calculation I had come to expect from men in his position",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "not immediately categorize\u2014not gratitude, exactly, nor the calculation I had come to expect from men in his position",
                   "revision": "[Rephrase without 'Not X\u2014Y' structure]",
                   "explanation": "Consider varying sentence structure"
                 }
@@ -450,55 +228,16 @@
         },
         {
           "scene_name": "scene-02-assignment",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-02-assignment.md",
-          "word_count": 1566,
-          "total_tics": 2,
-          "tic_density": 1.28,
-          "tic_counts": {
-            "particular": 1,
-            "something_construction": 1
-          },
-          "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 5,
-              "line_text": "Sumitra did not invite us to sit. The wooden chairs arranged before his desk remained empty, their cushions flattened by years of supplicants who had waited longer than I intended to wait. The Pradeshika shuffled through documents with the particular deliberation of a man establishing hierarchy through delay.",
-              "matched_text": "the particular deliberation",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular deliberation",
-                  "revision": "the deliberation",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular deliberation",
-                  "revision": "the [specific descriptor] deliberation",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 49,
-              "line_text": "Devaka nodded, but something in the motion caught my attention\u2014a slight hesitation, a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.",
-              "matched_text": "something in the motion",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something in the motion",
-                  "revision": "[specific quality] in the motion",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            }
-          ]
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-02-assignment.md",
+          "word_count": 1561,
+          "total_tics": 0,
+          "tic_density": 0.0,
+          "tic_counts": {},
+          "tics": []
         },
         {
           "scene_name": "scene-03-warehouse-inspection",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-03-warehouse-inspection.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-03-warehouse-inspection.md",
           "word_count": 2240,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -507,7 +246,7 @@
         },
         {
           "scene_name": "scene-04-interrogation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-04-interrogation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-04-interrogation.md",
           "word_count": 2095,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -516,7 +255,7 @@
         },
         {
           "scene_name": "scene-05-covert-investigation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-05-covert-investigation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-05-covert-investigation.md",
           "word_count": 2522,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -525,71 +264,14 @@
         },
         {
           "scene_name": "scene-06-temple-betrayal",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-06-temple-betrayal.md",
-          "word_count": 1853,
-          "total_tics": 5,
-          "tic_density": 2.7,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-06-temple-betrayal.md",
+          "word_count": 1852,
+          "total_tics": 2,
+          "tic_density": 1.08,
           "tic_counts": {
-            "particular": 2,
-            "something_construction": 1,
             "not_x_pattern": 2
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 15,
-              "line_text": "\"The storage chamber lies through the left passage. I will wait here until you return.\" His voice carried the particular flatness of a man performing an obligation he had not sought. \"If you are not back by the fourth watch, I will assume you have been discovered. The entrance will be sealed.\"",
-              "matched_text": "the particular flatness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular flatness",
-                  "revision": "the flatness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular flatness",
-                  "revision": "the [specific descriptor] flatness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 25,
-              "line_text": "The passage widened gradually, the close walls giving way to a larger space that the lamp could not fully illuminate. Chandra heard water dripping somewhere ahead, a rhythmic sound that echoed off surfaces he could not see. The air changed as they entered the storage chamber\u2014still damp, but carrying undertones of grain and oil and the particular mustiness of goods left too long in inadequate ventilation.",
-              "matched_text": "the particular mustiness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular mustiness",
-                  "revision": "the mustiness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular mustiness",
-                  "revision": "the [specific descriptor] mustiness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 41,
-              "line_text": "He stopped. His eyes moved past Chandra, toward something in the darkness behind.",
-              "matched_text": "something in the darkness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something in the darkness",
-                  "revision": "[specific quality] in the darkness",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 71,
@@ -624,122 +306,14 @@
         },
         {
           "scene_name": "scene-07-the-fire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-07-the-fire.md",
-          "word_count": 2869,
-          "total_tics": 10,
-          "tic_density": 3.49,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-07-the-fire.md",
+          "word_count": 2852,
+          "total_tics": 2,
+          "tic_density": 0.7,
           "tic_counts": {
-            "particular": 3,
-            "something_construction": 2,
-            "abstract_noun_action": 1,
-            "not_x_pattern": 4
+            "not_x_pattern": 2
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 37,
-              "line_text": "The woman's eyes found Chandra's. Young\u2014younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood. Her gaze held something he could not immediately categorize. Not accusation. Not plea. Something simpler and more terrible.",
-              "matched_text": "the particular exhaustion",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular exhaustion",
-                  "revision": "the exhaustion",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular exhaustion",
-                  "revision": "the [specific descriptor] exhaustion",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 51,
-              "line_text": "Chandra smelled it before he saw it\u2014the particular sharpness of burning thatch, the sweeter undertone of grain catching flame, the acrid bite that thickened the air with each passing moment. By the time the first shouts reached him, the orange tongues were already visible above the eastern wing, licking at the morning sky with a hunger that would not be easily satisfied.",
-              "matched_text": "the particular sharpness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular sharpness",
-                  "revision": "the sharpness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular sharpness",
-                  "revision": "the [specific descriptor] sharpness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 79,
-              "line_text": "He could feel the fire's breath on his skin, could taste the smoke thickening in his throat, could hear the particular pitch of a child's voice rising above the others in a cry that needed no translation. The compound had become a crucible, the morning's careful choreography dissolved into chaos that demanded decision.",
-              "matched_text": "the particular pitch",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular pitch",
-                  "revision": "the pitch",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular pitch",
-                  "revision": "the [specific descriptor] pitch",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 111,
-              "line_text": "The wood seared into his palms. His wounded arm gave way, nearly dropping him back into the smoke-filled room. He hauled himself higher through pure desperate strength, feeling skin tear and muscle strain and something in his shoulder separate with a wet pop that he would not fully understand until later.",
-              "matched_text": "something in his shoulder",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something in his shoulder",
-                  "revision": "[specific quality] in the shoulder",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 123,
-              "line_text": "The impact broke him. He felt it happen\u2014bones that had held together through thirty-four years of careful living suddenly surrendering to forces they could not withstand. His shoulder, already damaged from the window frame. His ribs, compressing beneath the weight of his falling body. Something in his abdomen that shifted and tore with a pain so complete that it seemed to exist outside him, a presence in the world as real as the flames still consuming the compound.",
-              "matched_text": "Something in his abdomen",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something in his abdomen",
-                  "revision": "[specific quality] in the abdomen",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "abstract_noun_action",
-              "line_num": 151,
-              "line_text": "The understanding settled into him like water finding its level. Not the understanding of calculation\u2014the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building. A different understanding. Deeper. More terrible.",
-              "matched_text": "understanding settled",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "understanding settled",
-                  "revision": "[Rephrase with human subject or concrete imagery]",
-                  "explanation": "Abstract noun 'understanding' performing physical action 'settled'"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 3,
@@ -769,210 +343,19 @@
                   "explanation": "Consider varying sentence structure"
                 }
               ]
-            },
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 37,
-              "line_text": "The woman's eyes found Chandra's. Young\u2014younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood. Her gaze held something he could not immediately categorize. Not accusation. Not plea. Something simpler and more terrible.",
-              "matched_text": "[2 sentences starting with 'Not']",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Multiple 'Not X' sentences",
-                  "revision": "Vary sentence openings",
-                  "explanation": "Line has 2 sentences starting with 'Not'"
-                }
-              ]
-            },
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 151,
-              "line_text": "The understanding settled into him like water finding its level. Not the understanding of calculation\u2014the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building. A different understanding. Deeper. More terrible.",
-              "matched_text": "Not the understanding of calculation\u2014the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Not the understanding of calculation\u2014the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building",
-                  "revision": "[Rephrase without 'Not X\u2014Y' structure]",
-                  "explanation": "Consider varying sentence structure"
-                }
-              ]
             }
           ]
         },
         {
           "scene_name": "scene-08-ledgers-reckoning",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch04-mauryan-chandra/scenes/scene-08-ledgers-reckoning.md",
-          "word_count": 3396,
-          "total_tics": 14,
-          "tic_density": 4.12,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch04-mauryan-chandra\\scenes\\scene-08-ledgers-reckoning.md",
+          "word_count": 3384,
+          "total_tics": 5,
+          "tic_density": 1.48,
           "tic_counts": {
-            "particular": 8,
-            "not_x_pattern": 6
+            "not_x_pattern": 5
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 47,
-              "line_text": "Her face had been young\u2014younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood complicated by poverty. She had clutched the child against her chest with hands that trembled, and her eyes had met his for a moment before the guards led her away.",
-              "matched_text": "the particular exhaustion",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular exhaustion",
-                  "revision": "the exhaustion",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular exhaustion",
-                  "revision": "the [specific descriptor] exhaustion",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 61,
-              "line_text": "The memory opened onto others, each one surfacing with the particular clarity that dying seemed to grant.",
-              "matched_text": "the particular clarity",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular clarity",
-                  "revision": "the clarity",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular clarity",
-                  "revision": "the [specific descriptor] clarity",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 73,
-              "line_text": "He had not noticed the farmer's hands. He noticed them now, in the memory that dying had polished to an unbearable brightness. Hands that shook as they counted the coins, that bore the calluses of a lifetime's labor, that had planted and harvested the very grain now changing ownership. The farmer's eyes had held something\u2014desperation, perhaps, or the particular exhaustion of a man who had walked six days to receive less than he had hoped for.",
-              "matched_text": "the particular exhaustion",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular exhaustion",
-                  "revision": "the exhaustion",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular exhaustion",
-                  "revision": "the [specific descriptor] exhaustion",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 93,
-              "line_text": "The clerk had hesitated. His feet had shifted on the floor\u2014Chandra heard that now, in the memory. The soft sound of sandals against stone, the particular shuffle of someone who wanted to speak but feared the speaking.",
-              "matched_text": "the particular shuffle",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular shuffle",
-                  "revision": "the shuffle",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular shuffle",
-                  "revision": "the [specific descriptor] shuffle",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 111,
-              "line_text": "The laborers who had loaded grain sacks onto carts while he inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who held power over their wages. He had noted their productivity, had calculated their efficiency, had reported favorably on their performance. He had not learned their names. He had not seen the sweat that soaked their clothing, the tremors that ran through their muscles after hours of lifting, the particular emptiness in their eyes when they looked toward futures that held nothing but more lifting.",
-              "matched_text": "the particular emptiness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular emptiness",
-                  "revision": "the emptiness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular emptiness",
-                  "revision": "the [specific descriptor] emptiness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 129,
-              "line_text": "The woman with the infant had been hungry. Not starving\u2014her body had shown the particular thinness of inadequate nutrition rather than acute deprivation\u2014but hungry in the chronic way that characterized the workers whose labor made the grain system function. He had built the system. He had maintained the system. He had never once stood beside her while she used it.",
-              "matched_text": "the particular thinness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular thinness",
-                  "revision": "the thinness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular thinness",
-                  "revision": "the [specific descriptor] thinness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 153,
-              "line_text": "But he remembered her now. Her face emerged from the welter of memory with the particular clarity that the dying mind sometimes granted to moments we had not known were significant. She had been standing near the back of the residential quarters, perhaps seven or eight years old, her features carrying the particular stillness of a child who has learned that movement attracts attention and attention is not always safe.",
-              "matched_text": "the particular clarity",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular clarity",
-                  "revision": "the clarity",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular clarity",
-                  "revision": "the [specific descriptor] clarity",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "particular",
-              "line_num": 153,
-              "line_text": "But he remembered her now. Her face emerged from the welter of memory with the particular clarity that the dying mind sometimes granted to moments we had not known were significant. She had been standing near the back of the residential quarters, perhaps seven or eight years old, her features carrying the particular stillness of a child who has learned that movement attracts attention and attention is not always safe.",
-              "matched_text": "the particular stillness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular stillness",
-                  "revision": "the stillness",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular stillness",
-                  "revision": "the [specific descriptor] stillness",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 37,
@@ -1035,21 +418,6 @@
             },
             {
               "tic_type": "not_x_pattern",
-              "line_num": 129,
-              "line_text": "The woman with the infant had been hungry. Not starving\u2014her body had shown the particular thinness of inadequate nutrition rather than acute deprivation\u2014but hungry in the chronic way that characterized the workers whose labor made the grain system function. He had built the system. He had maintained the system. He had never once stood beside her while she used it.",
-              "matched_text": "Not starving\u2014her body had shown the particular thinness of inadequate nutrition rather than acute deprivation\u2014but hungry in the chronic way that characterized the workers whose labor made the grain system function",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Not starving\u2014her body had shown the particular thinness of inadequate nutrition rather than acute deprivation\u2014but hungry in the chronic way that characterized the workers whose labor made the grain system function",
-                  "revision": "[Rephrase without 'Not X\u2014Y' structure]",
-                  "explanation": "Consider varying sentence structure"
-                }
-              ]
-            },
-            {
-              "tic_type": "not_x_pattern",
               "line_num": 133,
               "line_text": "The question arrived from somewhere outside his calculations, a thought that did not fit the patterns he had spent thirty-four years constructing. Not to send help. Not to ensure delivery. Not to calculate the optimal distribution of resources across the maximum number of recipients.",
               "matched_text": "[3 sentences starting with 'Not']",
@@ -1078,7 +446,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-ledger-bleeds",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch05-lilith-cp02/scenes/scene-01-ledger-bleeds.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch05-lilith-cp02\\scenes\\scene-01-ledger-bleeds.md",
           "word_count": 622,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1087,7 +455,7 @@
         },
         {
           "scene_name": "scene-02-intervention",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch05-lilith-cp02/scenes/scene-02-intervention.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch05-lilith-cp02\\scenes\\scene-02-intervention.md",
           "word_count": 759,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1096,7 +464,7 @@
         },
         {
           "scene_name": "scene-03-watching",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch05-lilith-cp02/scenes/scene-03-watching.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch05-lilith-cp02\\scenes\\scene-03-watching.md",
           "word_count": 627,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1105,7 +473,7 @@
         },
         {
           "scene_name": "scene-04-rationalization",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch05-lilith-cp02/scenes/scene-04-rationalization.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch05-lilith-cp02\\scenes\\scene-04-rationalization.md",
           "word_count": 567,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1119,13 +487,13 @@
       "title": "The Philosopher",
       "dir_name": "ch06-athens-philosopher",
       "total_scenes": 9,
-      "total_words": 9995,
-      "total_tics": 15,
-      "tic_density": 1.5,
+      "total_words": 9990,
+      "total_tics": 13,
+      "tic_density": 1.3,
       "scenes": [
         {
           "scene_name": "scene-01-prologos",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-01-prologos.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-01-prologos.md",
           "word_count": 1688,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1134,7 +502,7 @@
         },
         {
           "scene_name": "scene-02-parodos",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-02-parodos.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-02-parodos.md",
           "word_count": 930,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1143,14 +511,30 @@
         },
         {
           "scene_name": "scene-03-first-episode",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-03-first-episode.md",
-          "word_count": 1583,
-          "total_tics": 3,
-          "tic_density": 1.9,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-03-first-episode.md",
+          "word_count": 1573,
+          "total_tics": 4,
+          "tic_density": 2.54,
           "tic_counts": {
+            "something_construction": 1,
             "not_x_pattern": 3
           },
           "tics": [
+            {
+              "tic_type": "something_construction",
+              "line_num": 43,
+              "line_text": "Something passed between them\u2014a current that could have become respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to his superiors rather than solve it himself.",
+              "matched_text": "Something passed",
+              "context_before": "",
+              "context_after": "",
+              "proposals": [
+                {
+                  "original": "Something passed",
+                  "revision": "[name the thing] passed",
+                  "explanation": "Name the specific referent instead of using 'something'"
+                }
+              ]
+            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 25,
@@ -1184,13 +568,13 @@
             {
               "tic_type": "not_x_pattern",
               "line_num": 35,
-              "line_text": "Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias\u2014at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters\u2014and felt something shift in his chest. Not anger, exactly. Something colder and more certain.",
-              "matched_text": "not walked through the sick quarters\u2014and felt something shift in his chest",
+              "line_text": "Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias\u2014at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters\u2014and felt a shift in his chest. A cold certainty, beyond anger.",
+              "matched_text": "not walked through the sick quarters\u2014and felt a shift in his chest",
               "context_before": "",
               "context_after": "",
               "proposals": [
                 {
-                  "original": "not walked through the sick quarters\u2014and felt something shift in his chest",
+                  "original": "not walked through the sick quarters\u2014and felt a shift in his chest",
                   "revision": "[Rephrase without 'Not X\u2014Y' structure]",
                   "explanation": "Consider varying sentence structure"
                 }
@@ -1200,7 +584,7 @@
         },
         {
           "scene_name": "scene-04-first-stasimon",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-04-first-stasimon.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-04-first-stasimon.md",
           "word_count": 491,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1209,36 +593,15 @@
         },
         {
           "scene_name": "scene-05-second-episode",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-05-second-episode.md",
-          "word_count": 1716,
-          "total_tics": 5,
-          "tic_density": 2.91,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-05-second-episode.md",
+          "word_count": 1720,
+          "total_tics": 3,
+          "tic_density": 1.74,
           "tic_counts": {
-            "particular": 1,
-            "something_construction": 3,
+            "something_construction": 2,
             "not_x_pattern": 1
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 3,
-              "line_text": "Philon heard him before he saw him\u2014the particular cadence of official sandals on stone, deliberate and measured, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.",
-              "matched_text": "the particular cadence",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular cadence",
-                  "revision": "the cadence",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular cadence",
-                  "revision": "the [specific descriptor] cadence",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
             {
               "tic_type": "something_construction",
               "line_num": 27,
@@ -1270,21 +633,6 @@
               ]
             },
             {
-              "tic_type": "something_construction",
-              "line_num": 85,
-              "line_text": "Alexios opened his mouth as if to argue further, then closed it. Something passed between them\u2014not understanding, not agreement, but something older and sadder. The recognition that love does not prevent separation. That two people can see the same truth and draw opposite conclusions.",
-              "matched_text": "Something passed",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something passed",
-                  "revision": "[name the thing] passed",
-                  "explanation": "Name the specific referent instead of using 'something'"
-                }
-              ]
-            },
-            {
               "tic_type": "not_x_pattern",
               "line_num": 7,
               "line_text": "Philon did not rise from his patient\u2014a potter's wife whose fever had broken in the night, her survival as unexpected as it was fragile. He pressed a damp cloth to her forehead, felt the warmth receding beneath his palm. \"I am honored by the Council's attention.\"",
@@ -1303,7 +651,7 @@
         },
         {
           "scene_name": "scene-06-second-stasimon",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-06-second-stasimon.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-06-second-stasimon.md",
           "word_count": 498,
           "total_tics": 1,
           "tic_density": 2.01,
@@ -1330,7 +678,7 @@
         },
         {
           "scene_name": "scene-07-third-episode",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-07-third-episode.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-07-third-episode.md",
           "word_count": 1315,
           "total_tics": 2,
           "tic_density": 1.52,
@@ -1372,8 +720,8 @@
         },
         {
           "scene_name": "scene-08-kommos",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-08-kommos.md",
-          "word_count": 1042,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-08-kommos.md",
+          "word_count": 1043,
           "total_tics": 2,
           "tic_density": 1.92,
           "tic_counts": {
@@ -1415,35 +763,14 @@
         },
         {
           "scene_name": "scene-09-exodus",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch06-athens-philosopher/scenes/scene-09-exodus.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch06-athens-philosopher\\scenes\\scene-09-exodus.md",
           "word_count": 732,
-          "total_tics": 2,
-          "tic_density": 2.73,
+          "total_tics": 1,
+          "tic_density": 1.37,
           "tic_counts": {
-            "particular": 1,
             "not_x_pattern": 1
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 43,
-              "line_text": "The fire, when it came, was ordinary. Wood and oil and the particular smell of burning that had become Athens's atmosphere. Philon's body gave up what little remained\u2014meat and bone, the flesh that holds and limits, the wheel turning again.",
-              "matched_text": "the particular smell",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular smell",
-                  "revision": "the smell",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular smell",
-                  "revision": "the [specific descriptor] smell",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 19,
@@ -1468,13 +795,13 @@
       "title": "Lilith's Watch III",
       "dir_name": "ch07-lilith-cp03",
       "total_scenes": 4,
-      "total_words": 3106,
+      "total_words": 3107,
       "total_tics": 3,
       "tic_density": 0.97,
       "scenes": [
         {
           "scene_name": "scene-01-thread-shifts",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch07-lilith-cp03/scenes/scene-01-thread-shifts.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch07-lilith-cp03\\scenes\\scene-01-thread-shifts.md",
           "word_count": 575,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1483,8 +810,8 @@
         },
         {
           "scene_name": "scene-02-dream-walker",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch07-lilith-cp03/scenes/scene-02-dream-walker.md",
-          "word_count": 815,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch07-lilith-cp03\\scenes\\scene-02-dream-walker.md",
+          "word_count": 816,
           "total_tics": 0,
           "tic_density": 0.0,
           "tic_counts": {},
@@ -1492,7 +819,7 @@
         },
         {
           "scene_name": "scene-03-compulsion",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch07-lilith-cp03/scenes/scene-03-compulsion.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch07-lilith-cp03\\scenes\\scene-03-compulsion.md",
           "word_count": 698,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -1501,7 +828,7 @@
         },
         {
           "scene_name": "scene-04-wheel-turns",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch07-lilith-cp03/scenes/scene-04-wheel-turns.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch07-lilith-cp03\\scenes\\scene-04-wheel-turns.md",
           "word_count": 1018,
           "total_tics": 3,
           "tic_density": 2.95,
@@ -1570,13 +897,13 @@
       "title": "The Investigator",
       "dir_name": "ch08-rome-investigator",
       "total_scenes": 9,
-      "total_words": 9152,
-      "total_tics": 22,
-      "tic_density": 2.4,
+      "total_words": 9153,
+      "total_tics": 17,
+      "tic_density": 1.86,
       "scenes": [
         {
           "scene_name": "scene-01-baths",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-01-baths.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-01-baths.md",
           "word_count": 751,
           "total_tics": 1,
           "tic_density": 1.33,
@@ -1603,34 +930,16 @@
         },
         {
           "scene_name": "scene-02-case-assigned",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-02-case-assigned.md",
-          "word_count": 924,
-          "total_tics": 1,
-          "tic_density": 1.08,
-          "tic_counts": {
-            "something_construction": 1
-          },
-          "tics": [
-            {
-              "tic_type": "something_construction",
-              "line_num": 67,
-              "line_text": "He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. Something in this case resisted the simple satisfaction of order restored.",
-              "matched_text": "Something in this",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something in this",
-                  "revision": "[specific quality] in the this",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            }
-          ]
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-02-case-assigned.md",
+          "word_count": 926,
+          "total_tics": 0,
+          "tic_density": 0.0,
+          "tic_counts": {},
+          "tics": []
         },
         {
           "scene_name": "scene-03-testimonies",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-03-testimonies.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-03-testimonies.md",
           "word_count": 1372,
           "total_tics": 3,
           "tic_density": 2.19,
@@ -1688,7 +997,7 @@
         },
         {
           "scene_name": "scene-04-stoic-debate",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-04-stoic-debate.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-04-stoic-debate.md",
           "word_count": 1000,
           "total_tics": 2,
           "tic_density": 2.0,
@@ -1730,35 +1039,14 @@
         },
         {
           "scene_name": "scene-05-collapse",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-05-collapse.md",
-          "word_count": 1096,
-          "total_tics": 2,
-          "tic_density": 1.82,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-05-collapse.md",
+          "word_count": 1097,
+          "total_tics": 1,
+          "tic_density": 0.91,
           "tic_counts": {
-            "particular": 1,
             "not_x_pattern": 1
           },
           "tics": [
-            {
-              "tic_type": "particular",
-              "line_num": 23,
-              "line_text": "By the time they reached the praetor's office, the cook was already there\u2014a stout woman in her fifties, her face set in the particular expression of someone who has spent too long waiting and has decided to be angry about it.",
-              "matched_text": "the particular expression",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "the particular expression",
-                  "revision": "the expression",
-                  "explanation": "Remove unnecessary intensifier"
-                },
-                {
-                  "original": "the particular expression",
-                  "revision": "the [specific descriptor] expression",
-                  "explanation": "Replace with concrete descriptor"
-                }
-              ]
-            },
             {
               "tic_type": "not_x_pattern",
               "line_num": 67,
@@ -1778,7 +1066,7 @@
         },
         {
           "scene_name": "scene-06-vulnerable-witness",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-06-vulnerable-witness.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-06-vulnerable-witness.md",
           "word_count": 974,
           "total_tics": 3,
           "tic_density": 3.08,
@@ -1836,7 +1124,7 @@
         },
         {
           "scene_name": "scene-07-judgment",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-07-judgment.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-07-judgment.md",
           "word_count": 1399,
           "total_tics": 5,
           "tic_density": 3.57,
@@ -1924,65 +1212,16 @@
         },
         {
           "scene_name": "scene-08-exile",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-08-exile.md",
-          "word_count": 994,
-          "total_tics": 3,
-          "tic_density": 3.02,
-          "tic_counts": {
-            "something_construction": 2,
-            "not_x_pattern": 1
-          },
-          "tics": [
-            {
-              "tic_type": "something_construction",
-              "line_num": 43,
-              "line_text": "Something settled in his chest. A satisfaction that felt like peace but carried within it the first seed of something else: the quiet pride of having understood what others could not. He had seen through the illusion of certainty. He had chosen compassion when reason failed. He had been right\u2014Marcus said so, even if he could not say why.",
-              "matched_text": "Something settled",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something settled",
-                  "revision": "[name the thing] settled",
-                  "explanation": "Name the specific referent instead of using 'something'"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 55,
-              "line_text": "There was something in the stillness that was not quite humility. But he could not see it. Not yet.",
-              "matched_text": "something in the stillness",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something in the stillness",
-                  "revision": "[specific quality] in the stillness",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "not_x_pattern",
-              "line_num": 47,
-              "line_text": "The words glowed in his mind like embers. Not the old hunger for certainty\u2014that was gone. But in its place, something subtler had taken root. The satisfaction of having transcended what others still grasped at. The knowledge that he had learned what the philosophers in their porticoes still debated, what the senators in their tribunals still pretended to possess.",
-              "matched_text": "Not the old hunger for certainty\u2014that was gone",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Not the old hunger for certainty\u2014that was gone",
-                  "revision": "[Rephrase without 'Not X\u2014Y' structure]",
-                  "explanation": "Consider varying sentence structure"
-                }
-              ]
-            }
-          ]
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-08-exile.md",
+          "word_count": 992,
+          "total_tics": 0,
+          "tic_density": 0.0,
+          "tic_counts": {},
+          "tics": []
         },
         {
           "scene_name": "scene-09-death",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch08-rome-investigator/scenes/scene-09-death.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch08-rome-investigator\\scenes\\scene-09-death.md",
           "word_count": 642,
           "total_tics": 2,
           "tic_density": 3.12,
@@ -2035,7 +1274,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-shift",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch09-lilith-cp04/scenes/scene-01-shift.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch09-lilith-cp04\\scenes\\scene-01-shift.md",
           "word_count": 993,
           "total_tics": 3,
           "tic_density": 3.02,
@@ -2094,7 +1333,7 @@
         },
         {
           "scene_name": "scene-02-seeding",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch09-lilith-cp04/scenes/scene-02-seeding.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch09-lilith-cp04\\scenes\\scene-02-seeding.md",
           "word_count": 1051,
           "total_tics": 3,
           "tic_density": 2.85,
@@ -2151,7 +1390,7 @@
         },
         {
           "scene_name": "scene-03-complaint",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch09-lilith-cp04/scenes/scene-03-complaint.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch09-lilith-cp04\\scenes\\scene-03-complaint.md",
           "word_count": 1181,
           "total_tics": 4,
           "tic_density": 3.39,
@@ -2225,7 +1464,7 @@
         },
         {
           "scene_name": "scene-04-escalation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch09-lilith-cp04/scenes/scene-04-escalation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch09-lilith-cp04\\scenes\\scene-04-escalation.md",
           "word_count": 1305,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2234,7 +1473,7 @@
         },
         {
           "scene_name": "scene-05-backfire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch09-lilith-cp04/scenes/scene-05-backfire.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch09-lilith-cp04\\scenes\\scene-05-backfire.md",
           "word_count": 1264,
           "total_tics": 3,
           "tic_density": 2.37,
@@ -2308,7 +1547,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-cell",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-01-cell.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-01-cell.md",
           "word_count": 1218,
           "total_tics": 1,
           "tic_density": 0.82,
@@ -2335,7 +1574,7 @@
         },
         {
           "scene_name": "scene-02-deference",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-02-deference.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-02-deference.md",
           "word_count": 1362,
           "total_tics": 3,
           "tic_density": 2.2,
@@ -2393,7 +1632,7 @@
         },
         {
           "scene_name": "scene-03-arrival",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-03-arrival.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-03-arrival.md",
           "word_count": 1498,
           "total_tics": 2,
           "tic_density": 1.34,
@@ -2441,7 +1680,7 @@
         },
         {
           "scene_name": "scene-04-interview",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-04-interview.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-04-interview.md",
           "word_count": 1641,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2450,7 +1689,7 @@
         },
         {
           "scene_name": "scene-05-first-crack",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-05-first-crack.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-05-first-crack.md",
           "word_count": 1320,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2459,7 +1698,7 @@
         },
         {
           "scene_name": "scene-06-recognition",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-06-recognition.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-06-recognition.md",
           "word_count": 1359,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2468,7 +1707,7 @@
         },
         {
           "scene_name": "scene-07-tasting",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-07-tasting.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-07-tasting.md",
           "word_count": 1755,
           "total_tics": 3,
           "tic_density": 1.71,
@@ -2526,7 +1765,7 @@
         },
         {
           "scene_name": "scene-08-collapse",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-08-collapse.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-08-collapse.md",
           "word_count": 1549,
           "total_tics": 1,
           "tic_density": 0.65,
@@ -2553,7 +1792,7 @@
         },
         {
           "scene_name": "scene-09-death",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch10-egypt-hermit/scenes/scene-09-death.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch10-egypt-hermit\\scenes\\scene-09-death.md",
           "word_count": 1815,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2573,7 +1812,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-shift",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch11-lilith-cp05/scenes/scene-01-shift.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch11-lilith-cp05\\scenes\\scene-01-shift.md",
           "word_count": 987,
           "total_tics": 3,
           "tic_density": 3.04,
@@ -2636,7 +1875,7 @@
         },
         {
           "scene_name": "scene-02-descent",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch11-lilith-cp05/scenes/scene-02-descent.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch11-lilith-cp05\\scenes\\scene-02-descent.md",
           "word_count": 987,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2645,7 +1884,7 @@
         },
         {
           "scene_name": "scene-03-feeding",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch11-lilith-cp05/scenes/scene-03-feeding.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch11-lilith-cp05\\scenes\\scene-03-feeding.md",
           "word_count": 842,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2654,7 +1893,7 @@
         },
         {
           "scene_name": "scene-04-gathering",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch11-lilith-cp05/scenes/scene-04-gathering.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch11-lilith-cp05\\scenes\\scene-04-gathering.md",
           "word_count": 925,
           "total_tics": 3,
           "tic_density": 3.24,
@@ -2718,7 +1957,7 @@
         },
         {
           "scene_name": "scene-05-backfire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch11-lilith-cp05/scenes/scene-05-backfire.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch11-lilith-cp05\\scenes\\scene-05-backfire.md",
           "word_count": 1006,
           "total_tics": 1,
           "tic_density": 0.99,
@@ -2756,7 +1995,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-arrival",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch12-heian-lover/scenes/scene-01-arrival.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch12-heian-lover\\scenes\\scene-01-arrival.md",
           "word_count": 1398,
           "total_tics": 7,
           "tic_density": 5.01,
@@ -2874,7 +2113,7 @@
         },
         {
           "scene_name": "scene-02-voice-behind-screen",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch12-heian-lover/scenes/scene-02-voice-behind-screen.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch12-heian-lover\\scenes\\scene-02-voice-behind-screen.md",
           "word_count": 1199,
           "total_tics": 3,
           "tic_density": 2.5,
@@ -2931,7 +2170,7 @@
         },
         {
           "scene_name": "scene-03-stagnant-garden",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch12-heian-lover/scenes/scene-03-stagnant-garden.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch12-heian-lover\\scenes\\scene-03-stagnant-garden.md",
           "word_count": 1384,
           "total_tics": 3,
           "tic_density": 2.17,
@@ -2988,7 +2227,7 @@
         },
         {
           "scene_name": "scene-04-glimpse",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch12-heian-lover/scenes/scene-04-glimpse.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch12-heian-lover\\scenes\\scene-04-glimpse.md",
           "word_count": 1183,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -2997,7 +2236,7 @@
         },
         {
           "scene_name": "scene-05-typhoon",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch12-heian-lover/scenes/scene-05-typhoon.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch12-heian-lover\\scenes\\scene-05-typhoon.md",
           "word_count": 1731,
           "total_tics": 1,
           "tic_density": 0.58,
@@ -3024,7 +2263,7 @@
         },
         {
           "scene_name": "scene-06-morning",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch12-heian-lover/scenes/scene-06-morning.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch12-heian-lover\\scenes\\scene-06-morning.md",
           "word_count": 1340,
           "total_tics": 7,
           "tic_density": 5.22,
@@ -3154,7 +2393,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-shift",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch13-lilith-cp06/scenes/scene-01-shift.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch13-lilith-cp06\\scenes\\scene-01-shift.md",
           "word_count": 416,
           "total_tics": 1,
           "tic_density": 2.4,
@@ -3186,7 +2425,7 @@
         },
         {
           "scene_name": "scene-02-residue",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch13-lilith-cp06/scenes/scene-02-residue.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch13-lilith-cp06\\scenes\\scene-02-residue.md",
           "word_count": 514,
           "total_tics": 1,
           "tic_density": 1.95,
@@ -3213,7 +2452,7 @@
         },
         {
           "scene_name": "scene-03-walk",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch13-lilith-cp06/scenes/scene-03-walk.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch13-lilith-cp06\\scenes\\scene-03-walk.md",
           "word_count": 594,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -3222,7 +2461,7 @@
         },
         {
           "scene_name": "scene-04-backfire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch13-lilith-cp06/scenes/scene-04-backfire.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch13-lilith-cp06\\scenes\\scene-04-backfire.md",
           "word_count": 541,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -3231,7 +2470,7 @@
         },
         {
           "scene_name": "scene-05-the-knot",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch13-lilith-cp06/scenes/scene-05-the-knot.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch13-lilith-cp06\\scenes\\scene-05-the-knot.md",
           "word_count": 547,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -3251,7 +2490,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-performance",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-01-performance.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-01-performance.md",
           "word_count": 1492,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -3260,7 +2499,7 @@
         },
         {
           "scene_name": "scene-02-holy-woman",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-02-holy-woman.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-02-holy-woman.md",
           "word_count": 1784,
           "total_tics": 7,
           "tic_density": 3.92,
@@ -3378,7 +2617,7 @@
         },
         {
           "scene_name": "scene-03-knock",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-03-knock.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-03-knock.md",
           "word_count": 2062,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -3387,7 +2626,7 @@
         },
         {
           "scene_name": "scene-04-processing",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-04-processing.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-04-processing.md",
           "word_count": 1604,
           "total_tics": 1,
           "tic_density": 0.62,
@@ -3414,7 +2653,7 @@
         },
         {
           "scene_name": "scene-05-source",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-05-source.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-05-source.md",
           "word_count": 2101,
           "total_tics": 5,
           "tic_density": 2.38,
@@ -3508,7 +2747,7 @@
         },
         {
           "scene_name": "scene-06-interrogation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-06-interrogation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-06-interrogation.md",
           "word_count": 2451,
           "total_tics": 7,
           "tic_density": 2.86,
@@ -3626,7 +2865,7 @@
         },
         {
           "scene_name": "scene-07-healers-burden",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-07-healers-burden.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-07-healers-burden.md",
           "word_count": 1996,
           "total_tics": 1,
           "tic_density": 0.5,
@@ -3653,7 +2892,7 @@
         },
         {
           "scene_name": "scene-08-release",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-08-release.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-08-release.md",
           "word_count": 2276,
           "total_tics": 9,
           "tic_density": 3.95,
@@ -3802,7 +3041,7 @@
         },
         {
           "scene_name": "scene-09-fire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch14-inquisition-accused/scenes/scene-09-fire.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch14-inquisition-accused\\scenes\\scene-09-fire.md",
           "word_count": 2260,
           "total_tics": 8,
           "tic_density": 3.54,
@@ -3946,7 +3185,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-walls",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-01-walls.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-01-walls.md",
           "word_count": 553,
           "total_tics": 1,
           "tic_density": 1.81,
@@ -3973,7 +3212,7 @@
         },
         {
           "scene_name": "scene-02-pattern",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-02-pattern.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-02-pattern.md",
           "word_count": 454,
           "total_tics": 1,
           "tic_density": 2.2,
@@ -4000,7 +3239,7 @@
         },
         {
           "scene_name": "scene-03-encounter",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-03-encounter.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-03-encounter.md",
           "word_count": 627,
           "total_tics": 2,
           "tic_density": 3.19,
@@ -4048,7 +3287,7 @@
         },
         {
           "scene_name": "scene-04-push",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-04-push.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-04-push.md",
           "word_count": 510,
           "total_tics": 2,
           "tic_density": 3.92,
@@ -4090,7 +3329,7 @@
         },
         {
           "scene_name": "scene-05-memory",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-05-memory.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-05-memory.md",
           "word_count": 340,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4099,7 +3338,7 @@
         },
         {
           "scene_name": "scene-06-chamber",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-06-chamber.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-06-chamber.md",
           "word_count": 439,
           "total_tics": 2,
           "tic_density": 4.56,
@@ -4142,7 +3381,7 @@
         },
         {
           "scene_name": "scene-07-fire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-07-fire.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-07-fire.md",
           "word_count": 1003,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4151,7 +3390,7 @@
         },
         {
           "scene_name": "scene-08-seed",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch15-lilith-cp07/scenes/scene-08-seed.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch15-lilith-cp07\\scenes\\scene-08-seed.md",
           "word_count": 627,
           "total_tics": 2,
           "tic_density": 3.19,
@@ -4205,7 +3444,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-assignment",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-01-assignment.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-01-assignment.md",
           "word_count": 1191,
           "total_tics": 1,
           "tic_density": 0.84,
@@ -4232,7 +3471,7 @@
         },
         {
           "scene_name": "scene-02-witnesses",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-02-witnesses.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-02-witnesses.md",
           "word_count": 1452,
           "total_tics": 1,
           "tic_density": 0.69,
@@ -4259,7 +3498,7 @@
         },
         {
           "scene_name": "scene-03-ambush",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-03-ambush.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-03-ambush.md",
           "word_count": 1186,
           "total_tics": 1,
           "tic_density": 0.84,
@@ -4286,7 +3525,7 @@
         },
         {
           "scene_name": "scene-04-printers-widow",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-04-printers-widow.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-04-printers-widow.md",
           "word_count": 1487,
           "total_tics": 3,
           "tic_density": 2.02,
@@ -4344,7 +3583,7 @@
         },
         {
           "scene_name": "scene-05-document",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-05-document.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-05-document.md",
           "word_count": 1558,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4353,7 +3592,7 @@
         },
         {
           "scene_name": "scene-06-ball",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-06-ball.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-06-ball.md",
           "word_count": 1646,
           "total_tics": 1,
           "tic_density": 0.61,
@@ -4380,7 +3619,7 @@
         },
         {
           "scene_name": "scene-07-temptation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-07-temptation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-07-temptation.md",
           "word_count": 1744,
           "total_tics": 1,
           "tic_density": 0.57,
@@ -4407,7 +3646,7 @@
         },
         {
           "scene_name": "scene-08-report",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-08-report.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-08-report.md",
           "word_count": 1475,
           "total_tics": 3,
           "tic_density": 2.03,
@@ -4465,7 +3704,7 @@
         },
         {
           "scene_name": "scene-09-road",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch16-renaissance-skeptic/scenes/scene-09-road.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch16-renaissance-skeptic\\scenes\\scene-09-road.md",
           "word_count": 1754,
           "total_tics": 2,
           "tic_density": 1.14,
@@ -4518,7 +3757,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-one-more-method",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-01-one-more-method.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-01-one-more-method.md",
           "word_count": 417,
           "total_tics": 2,
           "tic_density": 4.8,
@@ -4560,7 +3799,7 @@
         },
         {
           "scene_name": "scene-02-the-vessel",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-02-the-vessel.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-02-the-vessel.md",
           "word_count": 404,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4569,7 +3808,7 @@
         },
         {
           "scene_name": "scene-03-the-companionship",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-03-the-companionship.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-03-the-companionship.md",
           "word_count": 394,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4578,7 +3817,7 @@
         },
         {
           "scene_name": "scene-04-the-letter",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-04-the-letter.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-04-the-letter.md",
           "word_count": 431,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4587,7 +3826,7 @@
         },
         {
           "scene_name": "scene-05-the-temptation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-05-the-temptation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-05-the-temptation.md",
           "word_count": 446,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4596,7 +3835,7 @@
         },
         {
           "scene_name": "scene-06-the-backfire",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-06-the-backfire.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-06-the-backfire.md",
           "word_count": 420,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4605,7 +3844,7 @@
         },
         {
           "scene_name": "scene-07-the-death",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-07-the-death.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-07-the-death.md",
           "word_count": 426,
           "total_tics": 1,
           "tic_density": 2.35,
@@ -4632,7 +3871,7 @@
         },
         {
           "scene_name": "scene-08-one-more",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch17-lilith-cp08/scenes/scene-08-one-more.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch17-lilith-cp08\\scenes\\scene-08-one-more.md",
           "word_count": 487,
           "total_tics": 2,
           "tic_density": 4.11,
@@ -4691,7 +3930,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-arithmetic",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-01-arithmetic.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-01-arithmetic.md",
           "word_count": 0,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4700,7 +3939,7 @@
         },
         {
           "scene_name": "scene-02-first-fracture",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-02-first-fracture.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-02-first-fracture.md",
           "word_count": 0,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4709,7 +3948,7 @@
         },
         {
           "scene_name": "scene-03-doctrine",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-03-doctrine.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-03-doctrine.md",
           "word_count": 619,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4718,7 +3957,7 @@
         },
         {
           "scene_name": "scene-04-pattern",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-04-pattern.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-04-pattern.md",
           "word_count": 1118,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4727,7 +3966,7 @@
         },
         {
           "scene_name": "scene-05-manna",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-05-manna.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-05-manna.md",
           "word_count": 1416,
           "total_tics": 5,
           "tic_density": 3.53,
@@ -4815,7 +4054,7 @@
         },
         {
           "scene_name": "scene-06-king-dead",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-06-king-dead.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-06-king-dead.md",
           "word_count": 1570,
           "total_tics": 1,
           "tic_density": 0.64,
@@ -4842,7 +4081,7 @@
         },
         {
           "scene_name": "scene-07-walls-break",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-07-walls-break.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-07-walls-break.md",
           "word_count": 869,
           "total_tics": 3,
           "tic_density": 3.45,
@@ -4900,7 +4139,7 @@
         },
         {
           "scene_name": "scene-08-ledger-closes",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch18-taiping-rebel/scenes/scene-08-ledger-closes.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch18-taiping-rebel\\scenes\\scene-08-ledger-closes.md",
           "word_count": 742,
           "total_tics": 2,
           "tic_density": 2.7,
@@ -4953,7 +4192,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-rain-and-dust",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-01-rain-and-dust.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-01-rain-and-dust.md",
           "word_count": 898,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -4962,7 +4201,7 @@
         },
         {
           "scene_name": "scene-02-curse-spreads",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-02-curse-spreads.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-02-curse-spreads.md",
           "word_count": 1095,
           "total_tics": 1,
           "tic_density": 0.91,
@@ -4994,7 +4233,7 @@
         },
         {
           "scene_name": "scene-03-doctrine-collapse",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-03-doctrine-collapse.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-03-doctrine-collapse.md",
           "word_count": 1091,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -5003,7 +4242,7 @@
         },
         {
           "scene_name": "scene-04-pause",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-04-pause.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-04-pause.md",
           "word_count": 644,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -5012,7 +4251,7 @@
         },
         {
           "scene_name": "scene-05-breakthrough-death",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-05-breakthrough-death.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-05-breakthrough-death.md",
           "word_count": 1450,
           "total_tics": 2,
           "tic_density": 1.38,
@@ -5054,7 +4293,7 @@
         },
         {
           "scene_name": "scene-06-tracing-forward",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-06-tracing-forward.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-06-tracing-forward.md",
           "word_count": 1379,
           "total_tics": 3,
           "tic_density": 2.18,
@@ -5112,7 +4351,7 @@
         },
         {
           "scene_name": "scene-07-positioning",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-07-positioning.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-07-positioning.md",
           "word_count": 1426,
           "total_tics": 1,
           "tic_density": 0.7,
@@ -5139,7 +4378,7 @@
         },
         {
           "scene_name": "scene-08-threshold",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch19-lilith-cp09/scenes/scene-08-threshold.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch19-lilith-cp09\\scenes\\scene-08-threshold.md",
           "word_count": 1668,
           "total_tics": 3,
           "tic_density": 1.8,
@@ -5208,7 +4447,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-the-hangover",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-01-the-hangover.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-01-the-hangover.md",
           "word_count": 0,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -5217,7 +4456,7 @@
         },
         {
           "scene_name": "scene-02-the-offer",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-02-the-offer.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-02-the-offer.md",
           "word_count": 0,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -5226,7 +4465,7 @@
         },
         {
           "scene_name": "scene-03-first-blood",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-03-first-blood.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-03-first-blood.md",
           "word_count": 1957,
           "total_tics": 3,
           "tic_density": 1.53,
@@ -5284,7 +4523,7 @@
         },
         {
           "scene_name": "scene-04-gathering-evidence",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-04-gathering-evidence.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-04-gathering-evidence.md",
           "word_count": 1642,
           "total_tics": 2,
           "tic_density": 1.22,
@@ -5327,7 +4566,7 @@
         },
         {
           "scene_name": "scene-05-the-pattern-emerges",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-05-the-pattern-emerges.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-05-the-pattern-emerges.md",
           "word_count": 1222,
           "total_tics": 3,
           "tic_density": 2.45,
@@ -5385,7 +4624,7 @@
         },
         {
           "scene_name": "scene-06-blackmail-and-betrayal",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-06-blackmail-and-betrayal.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-06-blackmail-and-betrayal.md",
           "word_count": 1736,
           "total_tics": 1,
           "tic_density": 0.58,
@@ -5412,7 +4651,7 @@
         },
         {
           "scene_name": "scene-07-the-flood",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-07-the-flood.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-07-the-flood.md",
           "word_count": 1636,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -5421,7 +4660,7 @@
         },
         {
           "scene_name": "scene-08-the-car",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch20-noir-detective/scenes/scene-08-the-car.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch20-noir-detective\\scenes\\scene-08-the-car.md",
           "word_count": 2497,
           "total_tics": 9,
           "tic_density": 3.6,
@@ -5580,7 +4819,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-loose-weave",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch21-lilith-cp10/scenes/scene-01-loose-weave.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch21-lilith-cp10\\scenes\\scene-01-loose-weave.md",
           "word_count": 544,
           "total_tics": 1,
           "tic_density": 1.84,
@@ -5612,7 +4851,7 @@
         },
         {
           "scene_name": "scene-02-tightening",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch21-lilith-cp10/scenes/scene-02-tightening.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch21-lilith-cp10\\scenes\\scene-02-tightening.md",
           "word_count": 628,
           "total_tics": 1,
           "tic_density": 1.59,
@@ -5639,7 +4878,7 @@
         },
         {
           "scene_name": "scene-03-the-flood",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch21-lilith-cp10/scenes/scene-03-the-flood.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch21-lilith-cp10\\scenes\\scene-03-the-flood.md",
           "word_count": 667,
           "total_tics": 1,
           "tic_density": 1.5,
@@ -5666,7 +4905,7 @@
         },
         {
           "scene_name": "scene-04-death-sighting",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch21-lilith-cp10/scenes/scene-04-death-sighting.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch21-lilith-cp10\\scenes\\scene-04-death-sighting.md",
           "word_count": 878,
           "total_tics": 4,
           "tic_density": 4.56,
@@ -5739,7 +4978,7 @@
         },
         {
           "scene_name": "scene-05-the-pivot",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch21-lilith-cp10/scenes/scene-05-the-pivot.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch21-lilith-cp10\\scenes\\scene-05-the-pivot.md",
           "word_count": 869,
           "total_tics": 2,
           "tic_density": 2.3,
@@ -5787,51 +5026,21 @@
       "title": "The Breakthrough",
       "dir_name": "ch22-contemporary-breakthrough",
       "total_scenes": 9,
-      "total_words": 9333,
-      "total_tics": 19,
-      "tic_density": 2.04,
+      "total_words": 9330,
+      "total_tics": 17,
+      "tic_density": 1.82,
       "scenes": [
         {
           "scene_name": "scene-01-the-chain",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-01-the-chain.md",
-          "word_count": 2325,
-          "total_tics": 11,
-          "tic_density": 4.73,
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-01-the-chain.md",
+          "word_count": 2322,
+          "total_tics": 9,
+          "tic_density": 3.88,
           "tic_counts": {
-            "something_construction": 3,
+            "something_construction": 1,
             "not_x_pattern": 8
           },
           "tics": [
-            {
-              "tic_type": "something_construction",
-              "line_num": 17,
-              "line_text": "Silas's grip on Stewart's hand tightened, fingers interlacing with fingers, and something in his chest\u2014the thing that had been loosening all day, the threads of himself coming unknotted\u2014reached a threshold. In the instant of reaching, the instant of holding, the instant of being held, the one who reached was absent.",
-              "matched_text": "something in his chest",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "something in his chest",
-                  "revision": "[specific quality] in the chest",
-                  "explanation": "Replace 'something' with specific descriptor"
-                }
-              ]
-            },
-            {
-              "tic_type": "something_construction",
-              "line_num": 51,
-              "line_text": "Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering\u2014not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. Something that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.",
-              "matched_text": "Something showed",
-              "context_before": "",
-              "context_after": "",
-              "proposals": [
-                {
-                  "original": "Something showed",
-                  "revision": "[name the thing] showed",
-                  "explanation": "Name the specific referent instead of using 'something'"
-                }
-              ]
-            },
             {
               "tic_type": "something_construction",
               "line_num": 79,
@@ -5865,13 +5074,13 @@
             {
               "tic_type": "not_x_pattern",
               "line_num": 23,
-              "line_text": "A gap opened in the center of experience. Not darkness\u2014something beneath darkness, beneath light, beneath any quality that could be named. Reality blinked like a splice in old film, continuity broken and resumed in the same instant. The perceiver who should have been registering the moment was simply not there to register it, and in that absence, the moment registered itself.",
-              "matched_text": "Not darkness\u2014something beneath darkness, beneath light, beneath any quality that could be named",
+              "line_text": "A gap opened in the center of experience. Not darkness\u2014a quality beneath darkness, beneath light, beneath any category that could be named. Reality blinked like a splice in old film, continuity broken and resumed in the same instant. The perceiver who should have been registering the moment was simply not there to register it, and in that absence, the moment registered itself.",
+              "matched_text": "Not darkness\u2014a quality beneath darkness, beneath light, beneath any category that could be named",
               "context_before": "",
               "context_after": "",
               "proposals": [
                 {
-                  "original": "Not darkness\u2014something beneath darkness, beneath light, beneath any quality that could be named",
+                  "original": "Not darkness\u2014a quality beneath darkness, beneath light, beneath any category that could be named",
                   "revision": "[Rephrase without 'Not X\u2014Y' structure]",
                   "explanation": "Consider varying sentence structure"
                 }
@@ -5925,7 +5134,7 @@
             {
               "tic_type": "not_x_pattern",
               "line_num": 51,
-              "line_text": "Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering\u2014not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. Something that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.",
+              "line_text": "Not the clinical precision he knew, not the composed professional or the calculated lover. Vulnerability showed through the reordering\u2014not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. A quality that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.",
               "matched_text": "[2 sentences starting with 'Not']",
               "context_before": "",
               "context_after": "",
@@ -5971,7 +5180,7 @@
         },
         {
           "scene_name": "scene-02-aftermath",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-02-aftermath.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-02-aftermath.md",
           "word_count": 787,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -5980,7 +5189,7 @@
         },
         {
           "scene_name": "scene-03-paramedics",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-03-paramedics.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-03-paramedics.md",
           "word_count": 737,
           "total_tics": 1,
           "tic_density": 1.36,
@@ -6007,7 +5216,7 @@
         },
         {
           "scene_name": "scene-04-silas-alone",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-04-silas-alone.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-04-silas-alone.md",
           "word_count": 872,
           "total_tics": 3,
           "tic_density": 3.44,
@@ -6075,7 +5284,7 @@
         },
         {
           "scene_name": "scene-05-wakes-home",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-05-wakes-home.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-05-wakes-home.md",
           "word_count": 1004,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6084,7 +5293,7 @@
         },
         {
           "scene_name": "scene-06-past-lives",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-06-past-lives.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-06-past-lives.md",
           "word_count": 1180,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6093,7 +5302,7 @@
         },
         {
           "scene_name": "scene-07-he-sees-her",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-07-he-sees-her.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-07-he-sees-her.md",
           "word_count": 1004,
           "total_tics": 2,
           "tic_density": 1.99,
@@ -6141,7 +5350,7 @@
         },
         {
           "scene_name": "scene-08-connection-sensed",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-08-connection-sensed.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-08-connection-sensed.md",
           "word_count": 669,
           "total_tics": 2,
           "tic_density": 2.99,
@@ -6183,7 +5392,7 @@
         },
         {
           "scene_name": "scene-09-door-opens",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch22-contemporary-breakthrough/scenes/scene-09-door-opens.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch22-contemporary-breakthrough\\scenes\\scene-09-door-opens.md",
           "word_count": 755,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6203,7 +5412,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-arrival",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch23-deva-celestial/scenes/scene-01-arrival.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch23-deva-celestial\\scenes\\scene-01-arrival.md",
           "word_count": 1098,
           "total_tics": 4,
           "tic_density": 3.64,
@@ -6282,7 +5491,7 @@
         },
         {
           "scene_name": "scene-02-garden-of-delights",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch23-deva-celestial/scenes/scene-02-garden-of-delights.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch23-deva-celestial\\scenes\\scene-02-garden-of-delights.md",
           "word_count": 1236,
           "total_tics": 4,
           "tic_density": 3.24,
@@ -6356,7 +5565,7 @@
         },
         {
           "scene_name": "scene-03-the-other-thread",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch23-deva-celestial/scenes/scene-03-the-other-thread.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch23-deva-celestial\\scenes\\scene-03-the-other-thread.md",
           "word_count": 1587,
           "total_tics": 8,
           "tic_density": 5.04,
@@ -6500,7 +5709,7 @@
         },
         {
           "scene_name": "scene-04-ill-will-dissolves",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch23-deva-celestial/scenes/scene-04-ill-will-dissolves.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch23-deva-celestial\\scenes\\scene-04-ill-will-dissolves.md",
           "word_count": 1083,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6509,7 +5718,7 @@
         },
         {
           "scene_name": "scene-05-threshold-forward",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch23-deva-celestial/scenes/scene-05-threshold-forward.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch23-deva-celestial\\scenes\\scene-05-threshold-forward.md",
           "word_count": 1493,
           "total_tics": 8,
           "tic_density": 5.36,
@@ -6653,7 +5862,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-condensation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-01-condensation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-01-condensation.md",
           "word_count": 1177,
           "total_tics": 4,
           "tic_density": 3.4,
@@ -6732,7 +5941,7 @@
         },
         {
           "scene_name": "scene-02-formation",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-02-formation.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-02-formation.md",
           "word_count": 891,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6741,7 +5950,7 @@
         },
         {
           "scene_name": "scene-03-heresy",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-03-heresy.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-03-heresy.md",
           "word_count": 923,
           "total_tics": 1,
           "tic_density": 1.08,
@@ -6768,7 +5977,7 @@
         },
         {
           "scene_name": "scene-04-recognition",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-04-recognition.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-04-recognition.md",
           "word_count": 1414,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6777,7 +5986,7 @@
         },
         {
           "scene_name": "scene-05-working",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-05-working.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-05-working.md",
           "word_count": 1004,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6786,7 +5995,7 @@
         },
         {
           "scene_name": "scene-06-response",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-06-response.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-06-response.md",
           "word_count": 892,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6795,7 +6004,7 @@
         },
         {
           "scene_name": "scene-07-death-approaches",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-07-death-approaches.md",
           "word_count": 1048,
           "total_tics": 3,
           "tic_density": 2.86,
@@ -6852,7 +6061,7 @@
         },
         {
           "scene_name": "scene-08-death-yearning",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch24-future-prophet/scenes/scene-08-death-yearning.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch24-future-prophet\\scenes\\scene-08-death-yearning.md",
           "word_count": 922,
           "total_tics": 3,
           "tic_density": 3.25,
@@ -6921,7 +6130,7 @@
       "scenes": [
         {
           "scene_name": "scene-01-arrival",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch26-pure-abodes-awakened/scenes/scene-01-arrival.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch26-pure-abodes-awakened\\scenes\\scene-01-arrival.md",
           "word_count": 1868,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6930,7 +6139,7 @@
         },
         {
           "scene_name": "scene-02-recognition",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch26-pure-abodes-awakened/scenes/scene-02-recognition.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch26-pure-abodes-awakened\\scenes\\scene-02-recognition.md",
           "word_count": 2055,
           "total_tics": 1,
           "tic_density": 0.49,
@@ -6957,7 +6166,7 @@
         },
         {
           "scene_name": "scene-03-under-the-tree",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch26-pure-abodes-awakened/scenes/scene-03-under-the-tree.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch26-pure-abodes-awakened\\scenes\\scene-03-under-the-tree.md",
           "word_count": 2024,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6966,7 +6175,7 @@
         },
         {
           "scene_name": "scene-04-teaching",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch26-pure-abodes-awakened/scenes/scene-04-teaching.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch26-pure-abodes-awakened\\scenes\\scene-04-teaching.md",
           "word_count": 2204,
           "total_tics": 0,
           "tic_density": 0.0,
@@ -6975,7 +6184,7 @@
         },
         {
           "scene_name": "scene-05-coda",
-          "file_path": "/home/user/Wheel_of_Meat/incarnations/ch26-pure-abodes-awakened/scenes/scene-05-coda.md",
+          "file_path": "C:\\Users\\zeke\\Projects\\Wheel_of_Meat\\incarnations\\ch26-pure-abodes-awakened\\scenes\\scene-05-coda.md",
           "word_count": 1606,
           "total_tics": 0,
           "tic_density": 0.0,

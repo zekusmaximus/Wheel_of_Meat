@@ -34,9 +34,7 @@ The captain appeared beside him. "These are the warehouse personnel?"
 
 The guards were already moving among the workers, separating families with the efficient indifference of men performing duties they found neither pleasant nor troubling. A woman clutched an infant to her chest, her arms tightening as a guard reached toward her. An elderly man supported himself against a doorframe, his body bent by decades of labor, his eyes holding the tired acceptance of someone who had learned not to expect help from officials.
 
-The woman's eyes found Chandra's. Young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood. Her gaze held something he could not immediately categorize. Not accusation. Not plea. Something simpler and more terrible.
-
-She was looking for someone to see her.
+The woman's eyes found Chandra's. Young—younger than he had first registered, perhaps twenty years old, her features carrying the haggard exhaustion of new motherhood. Her gaze held an appeal he could not immediately categorize. She was looking for someone to see her.
 
 He looked away.
 
@@ -48,7 +46,7 @@ Chandra stood motionless at the edge of the residential quarters, his authority 
 
 The smoke came from three directions at once.
 
-Chandra smelled it before he saw it—the particular sharpness of burning thatch, the sweeter undertone of grain catching flame, the acrid bite that thickened the air with each passing moment. By the time the first shouts reached him, the orange tongues were already visible above the eastern wing, licking at the morning sky with a hunger that would not be easily satisfied.
+Chandra smelled it before he saw it—the sharp bite of burning thatch, the sweeter undertone of grain catching flame, the acrid smoke that thickened the air with each passing moment. By the time the first shouts reached him, the orange tongues were already visible above the eastern wing, licking at the morning sky with a hunger that would not be easily satisfied.
 
 "Fire! All personnel to the perimeter!"
 
@@ -76,7 +74,7 @@ Time stopped.
 
 The heat pressed against his left side where the records building waited, its walls still cool, its contents still intact. The screams cut into his right where the workers thrashed against flames that had found the thatch roofing and begun their hungry consumption. His authority seal sat heavy in his palm—the weight of the emperor's trust, the symbol of the office he had accepted three years before when he believed that service meant something more than efficiency.
 
-He could feel the fire's breath on his skin, could taste the smoke thickening in his throat, could hear the particular pitch of a child's voice rising above the others in a cry that needed no translation. The compound had become a crucible, the morning's careful choreography dissolved into chaos that demanded decision.
+He could feel the fire's breath on his skin, could taste the smoke thickening in his throat, could hear a child's voice rising above the others in a cry that needed no translation. The compound had become a crucible, the morning's careful choreography dissolved into chaos that demanded decision.
 
 The woman with the infant had looked at him. Her eyes had found his across the crowded detention area, and she had been looking for someone to see her, and he had looked away.
 
@@ -108,7 +106,7 @@ He searched for another exit. The windows were small, barely wide enough for a m
 
 The ceiling above him groaned, the sound of stressed wood beginning to fail. He did not have time to calculate probabilities or weigh alternatives. He crossed to the window in three strides, gripped the burning frame with hands that no longer registered pain, and pulled himself upward.
 
-The wood seared into his palms. His wounded arm gave way, nearly dropping him back into the smoke-filled room. He hauled himself higher through pure desperate strength, feeling skin tear and muscle strain and something in his shoulder separate with a wet pop that he would not fully understand until later.
+The wood seared into his palms. His wounded arm gave way, nearly dropping him back into the smoke-filled room. He hauled himself higher through pure desperate strength, feeling skin tear and muscle strain and his shoulder separate with a wet pop that he would not fully understand until later.
 
 The window frame splintered beneath his weight. He fell through the opening, the documents scattering from his arms, the ground rushing up to meet him with an impact that drove every thought from his mind.
 
@@ -120,7 +118,7 @@ Chandra had time to see the sky above him—bronze with smoke, streaked with ash
 
 Then the ground arrived.
 
-The impact broke him. He felt it happen—bones that had held together through thirty-four years of careful living suddenly surrendering to forces they could not withstand. His shoulder, already damaged from the window frame. His ribs, compressing beneath the weight of his falling body. Something in his abdomen that shifted and tore with a pain so complete that it seemed to exist outside him, a presence in the world as real as the flames still consuming the compound.
+The impact broke him. He felt it happen—bones that had held together through thirty-four years of careful living suddenly surrendering to forces they could not withstand. His shoulder, already damaged from the window frame. His ribs, compressing beneath the weight of his falling body. His abdomen shifted and tore with a pain so complete that it seemed to exist outside him, a presence in the world as real as the flames still consuming the compound.
 
 He lay in the dirt and breathed smoke and listened to the fire complete its consumption. The documents that had scattered during his fall lay around him, their edges curling and blackening as stray embers found them. The evidence and his body ruined together, the records and his flesh sharing the same destruction.
 
@@ -148,7 +146,7 @@ The child's scream echoed in his memory. The thin, high sound that had cut throu
 
 He had heard that scream and he had run away from it.
 
-The understanding settled into him like water finding its level. Not the understanding of calculation—the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building. A different understanding. Deeper. More terrible.
+He understood then, with a clarity like water finding its level. The numbers had been clear, had always been clear, had justified every step of his retreat toward the records building. But this was a different understanding. Deeper. More terrible.
 
 He had run away from a screaming child to save paper. And the paper had burned. And the child had—
 

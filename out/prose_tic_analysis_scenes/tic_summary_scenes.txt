@@ -9,14 +9,14 @@ Scene                                       Words   Tics  Density
 scene-01-sunset-bedroom                       574      0     0.00
 scene-02-campus-morning                       332      0     0.00
 scene-03-lecture-hall                         838      0     0.00
-scene-04-hallway-aftermath                    449      1     2.23
+scene-04-hallway-aftermath                    457      0     0.00
 scene-05-faculty-meeting                      917      0     0.00
 scene-06-university-green                     697      0     0.00
 scene-07-apartment-meditation                 442      0     0.00
-scene-08-the-drive                          1,422      2     1.41
-scene-09-rooftop-climax                     2,001      6     3.00
+scene-08-the-drive                          1,430      0     0.00
+scene-09-rooftop-climax                     2,015      2     0.99
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               7,672      9     1.17
+CHAPTER TOTAL                               7,702      2     0.26
 
 CHAPTER 3: Lilith's Watch I
 ------------------------------------------------------------------------------------------
@@ -25,24 +25,24 @@ Scene                                       Words   Tics  Density
 scene-01-discovery                            730      0     0.00
 scene-02-hoarding                             913      0     0.00
 scene-03-ka-death                             563      0     0.00
-scene-04-thread-forward                       759      2     2.64
+scene-04-thread-forward                       758      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               2,965      2     0.67
+CHAPTER TOTAL                               2,964      0     0.00
 
 CHAPTER 4: The Mauryan Empire
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-pillar-ceremony                    2,648      6     2.27
-scene-02-assignment                         1,566      2     1.28
+scene-01-pillar-ceremony                    2,628      2     0.76
+scene-02-assignment                         1,561      0     0.00
 scene-03-warehouse-inspection               2,240      0     0.00
 scene-04-interrogation                      2,095      0     0.00
 scene-05-covert-investigation               2,522      0     0.00
-scene-06-temple-betrayal                    1,853      5     2.70
-scene-07-the-fire                           2,869     10     3.49
-scene-08-ledgers-reckoning                  3,396     14     4.12
+scene-06-temple-betrayal                    1,852      2     1.08
+scene-07-the-fire                           2,852      2     0.70
+scene-08-ledgers-reckoning                  3,384      5     1.48
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                              19,189     37     1.93
+CHAPTER TOTAL                              19,134     11     0.57
 
 CHAPTER 5: Lilith's Watch II
 ------------------------------------------------------------------------------------------
@@ -61,42 +61,42 @@ Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-prologos                           1,688      0     0.00
 scene-02-parodos                              930      0     0.00
-scene-03-first-episode                      1,583      3     1.90
+scene-03-first-episode                      1,573      4     2.54
 scene-04-first-stasimon                       491      0     0.00
-scene-05-second-episode                     1,716      5     2.91
+scene-05-second-episode                     1,720      3     1.74
 scene-06-second-stasimon                      498      1     2.01
 scene-07-third-episode                      1,315      2     1.52
-scene-08-kommos                             1,042      2     1.92
-scene-09-exodus                               732      2     2.73
+scene-08-kommos                             1,043      2     1.92
+scene-09-exodus                               732      1     1.37
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               9,995     15     1.50
+CHAPTER TOTAL                               9,990     13     1.30
 
 CHAPTER 7: Lilith's Watch III
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-thread-shifts                        575      0     0.00
-scene-02-dream-walker                         815      0     0.00
+scene-02-dream-walker                         816      0     0.00
 scene-03-compulsion                           698      0     0.00
 scene-04-wheel-turns                        1,018      3     2.95
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               3,106      3     0.97
+CHAPTER TOTAL                               3,107      3     0.97
 
 CHAPTER 8: The Investigator
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
 scene-01-baths                                751      1     1.33
-scene-02-case-assigned                        924      1     1.08
+scene-02-case-assigned                        926      0     0.00
 scene-03-testimonies                        1,372      3     2.19
 scene-04-stoic-debate                       1,000      2     2.00
-scene-05-collapse                           1,096      2     1.82
+scene-05-collapse                           1,097      1     0.91
 scene-06-vulnerable-witness                   974      3     3.08
 scene-07-judgment                           1,399      5     3.57
-scene-08-exile                                994      3     3.02
+scene-08-exile                                992      0     0.00
 scene-09-death                                642      2     3.12
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               9,152     22     2.40
+CHAPTER TOTAL                               9,153     17     1.86
 
 CHAPTER 9: Lilith's Watch IV
 ------------------------------------------------------------------------------------------
@@ -286,7 +286,7 @@ CHAPTER 22: The Breakthrough
 ------------------------------------------------------------------------------------------
 Scene                                       Words   Tics  Density
 ------------------------------------------------------------------------------------------
-scene-01-the-chain                          2,325     11     4.73
+scene-01-the-chain                          2,322      9     3.88
 scene-02-aftermath                            787      0     0.00
 scene-03-paramedics                           737      1     1.36
 scene-04-silas-alone                          872      3     3.44
@@ -296,7 +296,7 @@ scene-07-he-sees-her                        1,004      2     1.99
 scene-08-connection-sensed                    669      2     2.99
 scene-09-door-opens                           755      0     0.00
 ------------------------------------------------------------------------------------------
-CHAPTER TOTAL                               9,333     19     2.04
+CHAPTER TOTAL                               9,330     17     1.82
 
 CHAPTER 23: The Celestial Realm
 ------------------------------------------------------------------------------------------
@@ -338,5 +338,5 @@ scene-05-coda                               1,606      0     0.00
 CHAPTER TOTAL                               9,757      1     0.10
 
 ==========================================================================================
-MANUSCRIPT TOTAL                          193,175    310     1.60
+MANUSCRIPT TOTAL                          193,143    266     1.38
 ==========================================================================================

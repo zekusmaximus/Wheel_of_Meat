@@ -2,7 +2,7 @@ He worked through that first day with the fever already building behind his eyes
 
 By evening, he could no longer lift the water basin.
 
-The weight of it—twenty pounds, perhaps less—defeated him utterly. He stood over it with his arms trembling, his breath coming in short gasps that each carried a new heat deeper into his chest, and understood that something fundamental had changed. The basin did not move. He did not make it move. After a time that might have been minutes or hours, he sat down on the floor beside it and watched the lamplight flicker across the water's surface.
+The weight of it—twenty pounds, perhaps less—defeated him utterly. He stood over it with his arms trembling, his breath coming in short gasps that each carried a new heat deeper into his chest, and understood that a fundamental change had occurred. The basin did not move. He did not make it move. After a time that might have been minutes or hours, he sat down on the floor beside it and watched the lamplight flicker across the water's surface.
 
 One of the patients—the young man with the best chance, the one who had been drinking broth since morning—came to him. Philon felt hands on his shoulders, heard words that arrived from a great distance, muffled by the roaring in his ears. The young man was speaking. Asking something. Philon could not parse the question, could only see the man's lips moving and think, with strange detachment, that this was how the woman from Scythia must have felt. This dissolution of meaning. This retreat into pure sensation.
 

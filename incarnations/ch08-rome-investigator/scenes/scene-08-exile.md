@@ -40,11 +40,11 @@ The contradictions lay side by side, unresolved. They would never be resolved. F
 
 He folded Marcus's letter carefully and placed it beside the testimonies. The stylus lay across them both, tarnished and uncleaned, no longer a tool for imposing order but simply an object—bronze and weight and memory.
 
-Something settled in his chest. A satisfaction that felt like peace but carried within it the first seed of something else: the quiet pride of having understood what others could not. He had seen through the illusion of certainty. He had chosen compassion when reason failed. He had been right—Marcus said so, even if he could not say why.
+A stillness settled in his chest. A satisfaction that felt like peace but carried within it the first seed of pride: the quiet self-regard of having understood what others could not. He had seen through the illusion of certainty. He had chosen compassion when reason failed. He had been right—Marcus said so, even if he could not say why.
 
 *I think you were right.*
 
-The words glowed in his mind like embers. Not the old hunger for certainty—that was gone. But in its place, something subtler had taken root. The satisfaction of having transcended what others still grasped at. The knowledge that he had learned what the philosophers in their porticoes still debated, what the senators in their tribunals still pretended to possess.
+The words glowed in his mind like embers. The old hunger for certainty was gone. But in its place, a subtler attachment had taken root. The satisfaction of having transcended what others still grasped at. The knowledge that he had learned what the philosophers in their porticoes still debated, what the senators in their tribunals still pretended to possess.
 
 He had traded one attachment for another, and he did not see it.
 
@@ -52,6 +52,6 @@ The autumn light faded. The sea turned from gold to grey to the deep blue of app
 
 Verinus gathered the notes and the letter and the stylus and walked slowly back to the house. The cook—a woman from the village who came twice a week—had left bread and olives on the table. He ate alone, as he always did now, and felt the silence wrap around him like a garment he was only beginning to learn how to wear.
 
-There was something in the stillness that was not quite humility. But he could not see it. Not yet.
+A pride lurked in the stillness, disguised as peace. But he could not see it. Not yet.
 
 He slept well that night. For the first time since Rome, he dreamed of nothing at all.

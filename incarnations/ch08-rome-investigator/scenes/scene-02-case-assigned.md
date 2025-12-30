@@ -64,7 +64,7 @@ Gnaeus frowned. "A copying error. My clerk must have—"
 
 "Do not." Verinus rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
 
-He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. Something in this case resisted the simple satisfaction of order restored.
+He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. An unresolved tension in this case resisted the simple satisfaction of order restored.
 
 "Marcus," he said. "We begin at Varro's house."
 

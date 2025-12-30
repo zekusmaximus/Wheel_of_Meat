@@ -12,7 +12,7 @@ Chandra did not respond, conserving his breath for the climb ahead. The stairs h
 
 Brother Ananda stopped at a landing where the passage branched. His lamp illuminated a carved symbol on the wall—a wheel with eight spokes, worn smooth by centuries of passing hands. He turned to face them, his features difficult to read in the flickering light.
 
-"The storage chamber lies through the left passage. I will wait here until you return." His voice carried the particular flatness of a man performing an obligation he had not sought. "If you are not back by the fourth watch, I will assume you have been discovered. The entrance will be sealed."
+"The storage chamber lies through the left passage. I will wait here until you return." His voice carried the flatness of a man performing an obligation he had not sought. "If you are not back by the fourth watch, I will assume you have been discovered. The entrance will be sealed."
 
 "Understood." Devaka's response was equally flat. "Thank you, Brother. The debt is paid."
 
@@ -22,7 +22,7 @@ Devaka took the lamp and moved forward. Chandra followed.
 
 ---
 
-The passage widened gradually, the close walls giving way to a larger space that the lamp could not fully illuminate. Chandra heard water dripping somewhere ahead, a rhythmic sound that echoed off surfaces he could not see. The air changed as they entered the storage chamber—still damp, but carrying undertones of grain and oil and the particular mustiness of goods left too long in inadequate ventilation.
+The passage widened gradually, the close walls giving way to a larger space that the lamp could not fully illuminate. Chandra heard water dripping somewhere ahead, a rhythmic sound that echoed off surfaces he could not see. The air changed as they entered the storage chamber—still damp, but carrying undertones of grain and oil and the mustiness of goods left too long in inadequate ventilation.
 
 "Wait here." Devaka moved toward a darker shadow that resolved into a doorway as he approached. "I'll check that the stairs are clear."
 
@@ -38,7 +38,7 @@ The footsteps returned, accompanied by the lamp's wavering light. Devaka's face 
 
 "The stairs are clear, but there's activity in the priests' quarters. We'll need to wait until—"
 
-He stopped. His eyes moved past Chandra, toward something in the darkness behind.
+He stopped. His eyes moved past Chandra, toward a shape in the darkness behind.
 
 "Chandra." His voice had flattened, losing the whispered urgency it had carried throughout their journey. "I'm sorry."
 

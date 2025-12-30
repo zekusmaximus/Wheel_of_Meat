@@ -40,7 +40,7 @@ There was nothing to say. The words for honoring the dead had worn thin through 
 
 They placed him on a pyre with eleven others.
 
-The fire, when it came, was ordinary. Wood and oil and the particular smell of burning that had become Athens's atmosphere. Philon's body gave up what little remained—meat and bone, the flesh that holds and limits, the wheel turning again.
+The fire, when it came, was ordinary. Wood and oil and the familiar reek of burning that had become Athens's atmosphere. Philon's body gave up what little remained—meat and bone, the flesh that holds and limits, the wheel turning again.
 
 ---
 

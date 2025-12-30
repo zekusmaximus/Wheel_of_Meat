@@ -7,17 +7,17 @@
 
 - **Total chapters analyzed:** 24
 - **Total scenes analyzed:** 167
-- **Total word count:** 193,175
-- **Total tics identified:** 310
-- **Average tic density:** 1.60 per 1,000 words
+- **Total word count:** 193,143
+- **Total tics identified:** 266
+- **Average tic density:** 1.38 per 1,000 words
 
 ### Tic Distribution
 
-- **not_x_pattern:** 170 instances (54.8%)
-- **something_construction:** 82 instances (26.5%)
-- **particular:** 38 instances (12.3%)
-- **abstract_noun_action:** 19 instances (6.1%)
-- **em_dash_excess:** 1 instances (0.3%)
+- **not_x_pattern:** 162 instances (60.9%)
+- **something_construction:** 67 instances (25.2%)
+- **abstract_noun_action:** 18 instances (6.8%)
+- **particular:** 18 instances (6.8%)
+- **em_dash_excess:** 1 instances (0.4%)
 
 ### Scenes Requiring Most Attention (by tic density)
 
@@ -26,16 +26,16 @@
 3. **Ch.23 (The Celestial Realm)** - `scene-03-the-other-thread` - 8 tics (5.0 per 1K words)
 4. **Ch.12 (The Lover)** - `scene-01-arrival` - 7 tics (5.0 per 1K words)
 5. **Ch.17 (Lilith's Watch VIII)** - `scene-01-one-more-method` - 2 tics (4.8 per 1K words)
-6. **Ch.22 (The Breakthrough)** - `scene-01-the-chain` - 11 tics (4.7 per 1K words)
-7. **Ch.15 (Lilith's Watch VII)** - `scene-06-chamber` - 2 tics (4.6 per 1K words)
-8. **Ch.21 (Lilith's Watch X)** - `scene-04-death-sighting` - 4 tics (4.6 per 1K words)
-9. **Ch.4 (The Mauryan Empire)** - `scene-08-ledgers-reckoning` - 14 tics (4.1 per 1K words)
-10. **Ch.17 (Lilith's Watch VIII)** - `scene-08-one-more` - 2 tics (4.1 per 1K words)
-11. **Ch.14 (The Accused)** - `scene-08-release` - 9 tics (4.0 per 1K words)
-12. **Ch.14 (The Accused)** - `scene-02-holy-woman` - 7 tics (3.9 per 1K words)
-13. **Ch.15 (Lilith's Watch VII)** - `scene-04-push` - 2 tics (3.9 per 1K words)
-14. **Ch.23 (The Celestial Realm)** - `scene-01-arrival` - 4 tics (3.6 per 1K words)
-15. **Ch.20 (The Detective)** - `scene-08-the-car` - 9 tics (3.6 per 1K words)
+6. **Ch.15 (Lilith's Watch VII)** - `scene-06-chamber` - 2 tics (4.6 per 1K words)
+7. **Ch.21 (Lilith's Watch X)** - `scene-04-death-sighting` - 4 tics (4.6 per 1K words)
+8. **Ch.17 (Lilith's Watch VIII)** - `scene-08-one-more` - 2 tics (4.1 per 1K words)
+9. **Ch.14 (The Accused)** - `scene-08-release` - 9 tics (4.0 per 1K words)
+10. **Ch.14 (The Accused)** - `scene-02-holy-woman` - 7 tics (3.9 per 1K words)
+11. **Ch.15 (Lilith's Watch VII)** - `scene-04-push` - 2 tics (3.9 per 1K words)
+12. **Ch.22 (The Breakthrough)** - `scene-01-the-chain` - 9 tics (3.9 per 1K words)
+13. **Ch.23 (The Celestial Realm)** - `scene-01-arrival` - 4 tics (3.6 per 1K words)
+14. **Ch.20 (The Detective)** - `scene-08-the-car` - 9 tics (3.6 per 1K words)
+15. **Ch.8 (The Investigator)** - `scene-07-judgment` - 5 tics (3.6 per 1K words)
 
 ---
 
@@ -43,51 +43,12 @@
 
 ## Chapter 1: The Awakening
 
-**Total scenes:** 9 | **Word count:** 7,672 | **Total tics:** 9 | **Density:** 1.17 per 1K words
-
-### Scene: `scene-04-hallway-aftermath`
-
-**File:** `incarnations/ch01-contemporary-manchester/scenes/scene-04-hallway-aftermath.md`
-**Word count:** 449 | **Tics:** 1 | **Density:** 2.23
-
-#### Vague "something" constructions (1 instances)
-
-**Line 11:**
-> Silas shook his head, his glasses sliding down his nose. "That's just it. I'm not shaken Lilith." She pulled back a bit as he pushed his glasses back up, smiling. "I think Stewart showed me something.
-
-**Revision proposals:**
-- `Something about myself` → `[specific quality] about the myself`
-  - *Replace 'something' with specific descriptor*
-
-
-### Scene: `scene-08-the-drive`
-
-**File:** `incarnations/ch01-contemporary-manchester/scenes/scene-08-the-drive.md`
-**Word count:** 1,422 | **Tics:** 2 | **Density:** 1.41
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 75:**
-> "Silas." Lilith's hand closed around his wrist. "Whatever happens up there—whatever I've done—I didn't want this. Not for him. Not for you."
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 71:**
-> He pushed past her and began to climb, his footsteps echoing in the narrow stairwell like a heartbeat amplified beyond bearing. Behind him, he heard her follow, and something in that rhythm—her steps 
-
-**Revision proposals:**
-- `something in that` → `[specific quality] in the that`
-  - *Replace 'something' with specific descriptor*
-
+**Total scenes:** 9 | **Word count:** 7,702 | **Total tics:** 2 | **Density:** 0.26 per 1K words
 
 ### Scene: `scene-09-rooftop-climax`
 
-**File:** `incarnations/ch01-contemporary-manchester/scenes/scene-09-rooftop-climax.md`
-**Word count:** 2,001 | **Tics:** 6 | **Density:** 3.00
+**File:** `incarnations\ch01-contemporary-manchester\scenes\scene-09-rooftop-climax.md`
+**Word count:** 2,015 | **Tics:** 2 | **Density:** 0.99
 
 #### "Not X" repetition patterns (2 instances)
 
@@ -105,90 +66,33 @@
 - `not that, and I'm not that, and I'm not that—what's left` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### Vague "something" constructions (4 instances)
-
-**Line 21:**
-> "Didn't you?" Now Stewart did turn, and his eyes caught the reflected light from below. "What you wrote on the board. What you taught us. Something in me—" He pressed his hand against his sternum, a g
-
-**Revision proposals:**
-- `Something broke` → `[name the thing] broke`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 21:**
-> "Didn't you?" Now Stewart did turn, and his eyes caught the reflected light from below. "What you wrote on the board. What you taught us. Something in me—" He pressed his hand against his sternum, a g
-
-**Revision proposals:**
-- `Something in me` → `[specific quality] in the me`
-  - *Replace 'something' with specific descriptor*
-
-**Line 81:**
-> The words echoed something Silas had thought in Lilith's apartment, something about the barrier between self and other already blurring. He'd assumed it was metaphor, philosophy made experiential. But
-
-**Revision proposals:**
-- `something about the barrier` → `[specific quality] about the barrier`
-  - *Replace 'something' with specific descriptor*
-
-**Line 93:**
-> Silas took a step forward, and the step felt different from the ones that had come before—not the helper rushing to save, not the professional managing a crisis, but something stripped of role and pur
-
-**Revision proposals:**
-- `something stripped` → `[name the thing] stripped`
-  - *Name the specific referent instead of using 'something'*
-
 
 ---
 
 ## Chapter 3: Lilith's Watch I
 
-**Total scenes:** 4 | **Word count:** 2,965 | **Total tics:** 2 | **Density:** 0.67 per 1K words
+**Total scenes:** 4 | **Word count:** 2,964 | **Total tics:** 0 | **Density:** 0.00 per 1K words
 
-### Scene: `scene-04-thread-forward`
-
-**File:** `incarnations/ch03-lilith-cp01/scenes/scene-04-thread-forward.md`
-**Word count:** 759 | **Tics:** 2 | **Density:** 2.64
-
-#### "Not X" repetition patterns (2 instances)
-
-**Line 5:**
-> She had learned this from her own iterations: the space between death and rebirth resisted observation. It was not a place exactly, not a time, but something else—a state that language could only appr
-
-**Revision proposals:**
-- `not a place exactly, not a time, but something else—a state that language could only approximate` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 45:**
-> The phrase felt thin even as she thought it. There was more beneath, something she was not ready to examine—a pull that went beyond curiosity, a resonance she could not name. But naming could wait. Fo
-
-**Revision proposals:**
-- `not ready to examine—a pull that went beyond curiosity, a resonance she could not name` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
+✓ No tics detected in this chapter.
 
 ---
 
 ## Chapter 4: The Mauryan Empire
 
-**Total scenes:** 8 | **Word count:** 19,189 | **Total tics:** 37 | **Density:** 1.93 per 1K words
+**Total scenes:** 8 | **Word count:** 19,134 | **Total tics:** 11 | **Density:** 0.57 per 1K words
 
 ### Scene: `scene-01-pillar-ceremony`
 
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-01-pillar-ceremony.md`
-**Word count:** 2,648 | **Tics:** 6 | **Density:** 2.27
+**File:** `incarnations\ch04-mauryan-chandra\scenes\scene-01-pillar-ceremony.md`
+**Word count:** 2,628 | **Tics:** 2 | **Density:** 0.76
 
-#### "Not X" repetition patterns (3 instances)
+#### "Not X" repetition patterns (2 instances)
 
 **Line 11:**
 > The Brahmin's voice carried across the square, trained to project without apparent effort. He was reciting the emperor's words in a meter that made them sound ancient even though the edict had been ca
 
 **Revision proposals:**
 - `not match the figure I had calculated earlier—I had overestimated the carving cost by thirty percent` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-**Line 47:**
-> Nagasena stared at me from where he had fallen against the pillar's base, his white robes now smeared with dust and what might have been a trace of my blood. His expression held something I could not 
-
-**Revision proposals:**
-- `not immediately categorize—not gratitude, exactly, nor the calculation I had come to expect from men in his position` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
 **Line 103:**
@@ -198,66 +102,11 @@
 - `not quite read—something between resignation and anticipation, if such a combination were possible` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (3 instances)
-
-**Line 7:**
-> Dharma-Mahāmātra Nagasena stood on the raised platform beside Pradeshika Sumitra, his white robes catching the light in a way that drew the eye from the pillar itself. The moral inspector's face held 
-
-**Revision proposals:**
-- `the particular stillness` → `the stillness`
-  - *Remove unnecessary intensifier*
-- `the particular stillness` → `the [specific descriptor] stillness`
-  - *Replace with concrete descriptor*
-
-**Line 57:**
-> I woke to the smell of sesame oil and the particular stillness that indicated I was no longer in the square. The light filtered through cloth walls—a tent, then, probably the medical station maintaine
-
-**Revision proposals:**
-- `the particular stillness` → `the stillness`
-  - *Remove unnecessary intensifier*
-- `the particular stillness` → `the [specific descriptor] stillness`
-  - *Replace with concrete descriptor*
-
-**Line 81:**
-> The tent flap rustled, and Pradeshika Sumitra entered with the particular heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed its
-
-**Revision proposals:**
-- `the particular heaviness` → `the heaviness`
-  - *Remove unnecessary intensifier*
-- `the particular heaviness` → `the [specific descriptor] heaviness`
-  - *Replace with concrete descriptor*
-
-
-### Scene: `scene-02-assignment`
-
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-02-assignment.md`
-**Word count:** 1,566 | **Tics:** 2 | **Density:** 1.28
-
-#### "The particular [noun]" usage (1 instances)
-
-**Line 5:**
-> Sumitra did not invite us to sit. The wooden chairs arranged before his desk remained empty, their cushions flattened by years of supplicants who had waited longer than I intended to wait. The Pradesh
-
-**Revision proposals:**
-- `the particular deliberation` → `the deliberation`
-  - *Remove unnecessary intensifier*
-- `the particular deliberation` → `the [specific descriptor] deliberation`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 49:**
-> Devaka nodded, but something in the motion caught my attention—a slight hesitation, a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had al
-
-**Revision proposals:**
-- `something in the motion` → `[specific quality] in the motion`
-  - *Replace 'something' with specific descriptor*
-
 
 ### Scene: `scene-06-temple-betrayal`
 
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-06-temple-betrayal.md`
-**Word count:** 1,853 | **Tics:** 5 | **Density:** 2.70
+**File:** `incarnations\ch04-mauryan-chandra\scenes\scene-06-temple-betrayal.md`
+**Word count:** 1,852 | **Tics:** 2 | **Density:** 1.08
 
 #### "Not X" repetition patterns (2 instances)
 
@@ -275,51 +124,13 @@
 - `not read—not triumph, not satisfaction, but a kind of weariness that suggested the betrayal had cost him something, even if not enough` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (2 instances)
-
-**Line 15:**
-> "The storage chamber lies through the left passage. I will wait here until you return." His voice carried the particular flatness of a man performing an obligation he had not sought. "If you are not b
-
-**Revision proposals:**
-- `the particular flatness` → `the flatness`
-  - *Remove unnecessary intensifier*
-- `the particular flatness` → `the [specific descriptor] flatness`
-  - *Replace with concrete descriptor*
-
-**Line 25:**
-> The passage widened gradually, the close walls giving way to a larger space that the lamp could not fully illuminate. Chandra heard water dripping somewhere ahead, a rhythmic sound that echoed off sur
-
-**Revision proposals:**
-- `the particular mustiness` → `the mustiness`
-  - *Remove unnecessary intensifier*
-- `the particular mustiness` → `the [specific descriptor] mustiness`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (1 instances)
-
-**Line 41:**
-> He stopped. His eyes moved past Chandra, toward something in the darkness behind.
-
-**Revision proposals:**
-- `something in the darkness` → `[specific quality] in the darkness`
-  - *Replace 'something' with specific descriptor*
-
 
 ### Scene: `scene-07-the-fire`
 
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-07-the-fire.md`
-**Word count:** 2,869 | **Tics:** 10 | **Density:** 3.49
+**File:** `incarnations\ch04-mauryan-chandra\scenes\scene-07-the-fire.md`
+**Word count:** 2,852 | **Tics:** 2 | **Density:** 0.70
 
-#### Abstract nouns performing physical actions (1 instances)
-
-**Line 151:**
-> The understanding settled into him like water finding its level. Not the understanding of calculation—the numbers had been clear, had always been clear, had justified every step of his retreat toward 
-
-**Revision proposals:**
-- `understanding settled` → `[Rephrase with human subject or concrete imagery]`
-  - *Abstract noun 'understanding' performing physical action 'settled'*
-
-#### "Not X" repetition patterns (4 instances)
+#### "Not X" repetition patterns (2 instances)
 
 **Line 3:**
 > The guards waited in formation behind him, their spears catching the light in disciplined rows. Twenty men, as Sumitra had promised, equipped for the arrest of dangerous criminals. At their head stood
@@ -335,72 +146,13 @@
 - `Not of grain—the sacks still stood in their orderly rows, their seals intact, their inventory markers hanging from the support posts exactly as he remembered from his inspection weeks before` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-**Line 37:**
-> The woman's eyes found Chandra's. Young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood. Her gaze held something he co
-
-**Revision proposals:**
-- `Multiple 'Not X' sentences` → `Vary sentence openings`
-  - *Line has 2 sentences starting with 'Not'*
-
-**Line 151:**
-> The understanding settled into him like water finding its level. Not the understanding of calculation—the numbers had been clear, had always been clear, had justified every step of his retreat toward 
-
-**Revision proposals:**
-- `Not the understanding of calculation—the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### "The particular [noun]" usage (3 instances)
-
-**Line 37:**
-> The woman's eyes found Chandra's. Young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood. Her gaze held something he co
-
-**Revision proposals:**
-- `the particular exhaustion` → `the exhaustion`
-  - *Remove unnecessary intensifier*
-- `the particular exhaustion` → `the [specific descriptor] exhaustion`
-  - *Replace with concrete descriptor*
-
-**Line 51:**
-> Chandra smelled it before he saw it—the particular sharpness of burning thatch, the sweeter undertone of grain catching flame, the acrid bite that thickened the air with each passing moment. By the ti
-
-**Revision proposals:**
-- `the particular sharpness` → `the sharpness`
-  - *Remove unnecessary intensifier*
-- `the particular sharpness` → `the [specific descriptor] sharpness`
-  - *Replace with concrete descriptor*
-
-**Line 79:**
-> He could feel the fire's breath on his skin, could taste the smoke thickening in his throat, could hear the particular pitch of a child's voice rising above the others in a cry that needed no translat
-
-**Revision proposals:**
-- `the particular pitch` → `the pitch`
-  - *Remove unnecessary intensifier*
-- `the particular pitch` → `the [specific descriptor] pitch`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 111:**
-> The wood seared into his palms. His wounded arm gave way, nearly dropping him back into the smoke-filled room. He hauled himself higher through pure desperate strength, feeling skin tear and muscle st
-
-**Revision proposals:**
-- `something in his shoulder` → `[specific quality] in the shoulder`
-  - *Replace 'something' with specific descriptor*
-
-**Line 123:**
-> The impact broke him. He felt it happen—bones that had held together through thirty-four years of careful living suddenly surrendering to forces they could not withstand. His shoulder, already damaged
-
-**Revision proposals:**
-- `Something in his abdomen` → `[specific quality] in the abdomen`
-  - *Replace 'something' with specific descriptor*
-
 
 ### Scene: `scene-08-ledgers-reckoning`
 
-**File:** `incarnations/ch04-mauryan-chandra/scenes/scene-08-ledgers-reckoning.md`
-**Word count:** 3,396 | **Tics:** 14 | **Density:** 4.12
+**File:** `incarnations\ch04-mauryan-chandra\scenes\scene-08-ledgers-reckoning.md`
+**Word count:** 3,384 | **Tics:** 5 | **Density:** 1.48
 
-#### "Not X" repetition patterns (6 instances)
+#### "Not X" repetition patterns (5 instances)
 
 **Line 37:**
 > He was dying. The fall had broken something inside him that the fire had not managed to reach—he could feel it now, a wrongness in his abdomen that pulsed with each heartbeat, a pressure building in s
@@ -430,93 +182,12 @@
 - `Multiple 'Not X' sentences` → `Vary sentence openings`
   - *Line has 3 sentences starting with 'Not'*
 
-**Line 129:**
-> The woman with the infant had been hungry. Not starving—her body had shown the particular thinness of inadequate nutrition rather than acute deprivation—but hungry in the chronic way that characterize
-
-**Revision proposals:**
-- `Not starving—her body had shown the particular thinness of inadequate nutrition rather than acute deprivation—but hungry in the chronic way that characterized the workers whose labor made the grain system function` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
 **Line 133:**
 > The question arrived from somewhere outside his calculations, a thought that did not fit the patterns he had spent thirty-four years constructing. Not to send help. Not to ensure delivery. Not to calc
 
 **Revision proposals:**
 - `Multiple 'Not X' sentences` → `Vary sentence openings`
   - *Line has 3 sentences starting with 'Not'*
-
-#### "The particular [noun]" usage (8 instances)
-
-**Line 47:**
-> Her face had been young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood complicated by poverty. She had clutched the c
-
-**Revision proposals:**
-- `the particular exhaustion` → `the exhaustion`
-  - *Remove unnecessary intensifier*
-- `the particular exhaustion` → `the [specific descriptor] exhaustion`
-  - *Replace with concrete descriptor*
-
-**Line 61:**
-> The memory opened onto others, each one surfacing with the particular clarity that dying seemed to grant.
-
-**Revision proposals:**
-- `the particular clarity` → `the clarity`
-  - *Remove unnecessary intensifier*
-- `the particular clarity` → `the [specific descriptor] clarity`
-  - *Replace with concrete descriptor*
-
-**Line 73:**
-> He had not noticed the farmer's hands. He noticed them now, in the memory that dying had polished to an unbearable brightness. Hands that shook as they counted the coins, that bore the calluses of a l
-
-**Revision proposals:**
-- `the particular exhaustion` → `the exhaustion`
-  - *Remove unnecessary intensifier*
-- `the particular exhaustion` → `the [specific descriptor] exhaustion`
-  - *Replace with concrete descriptor*
-
-**Line 93:**
-> The clerk had hesitated. His feet had shifted on the floor—Chandra heard that now, in the memory. The soft sound of sandals against stone, the particular shuffle of someone who wanted to speak but fea
-
-**Revision proposals:**
-- `the particular shuffle` → `the shuffle`
-  - *Remove unnecessary intensifier*
-- `the particular shuffle` → `the [specific descriptor] shuffle`
-  - *Replace with concrete descriptor*
-
-**Line 111:**
-> The laborers who had loaded grain sacks onto carts while he inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who hel
-
-**Revision proposals:**
-- `the particular emptiness` → `the emptiness`
-  - *Remove unnecessary intensifier*
-- `the particular emptiness` → `the [specific descriptor] emptiness`
-  - *Replace with concrete descriptor*
-
-**Line 129:**
-> The woman with the infant had been hungry. Not starving—her body had shown the particular thinness of inadequate nutrition rather than acute deprivation—but hungry in the chronic way that characterize
-
-**Revision proposals:**
-- `the particular thinness` → `the thinness`
-  - *Remove unnecessary intensifier*
-- `the particular thinness` → `the [specific descriptor] thinness`
-  - *Replace with concrete descriptor*
-
-**Line 153:**
-> But he remembered her now. Her face emerged from the welter of memory with the particular clarity that the dying mind sometimes granted to moments we had not known were significant. She had been stand
-
-**Revision proposals:**
-- `the particular clarity` → `the clarity`
-  - *Remove unnecessary intensifier*
-- `the particular clarity` → `the [specific descriptor] clarity`
-  - *Replace with concrete descriptor*
-
-**Line 153:**
-> But he remembered her now. Her face emerged from the welter of memory with the particular clarity that the dying mind sometimes granted to moments we had not known were significant. She had been stand
-
-**Revision proposals:**
-- `the particular stillness` → `the stillness`
-  - *Remove unnecessary intensifier*
-- `the particular stillness` → `the [specific descriptor] stillness`
-  - *Replace with concrete descriptor*
 
 
 ---
@@ -531,12 +202,12 @@
 
 ## Chapter 6: The Philosopher
 
-**Total scenes:** 9 | **Word count:** 9,995 | **Total tics:** 15 | **Density:** 1.50 per 1K words
+**Total scenes:** 9 | **Word count:** 9,990 | **Total tics:** 13 | **Density:** 1.30 per 1K words
 
 ### Scene: `scene-03-first-episode`
 
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-03-first-episode.md`
-**Word count:** 1,583 | **Tics:** 3 | **Density:** 1.90
+**File:** `incarnations\ch06-athens-philosopher\scenes\scene-03-first-episode.md`
+**Word count:** 1,573 | **Tics:** 4 | **Density:** 2.54
 
 #### "Not X" repetition patterns (3 instances)
 
@@ -558,14 +229,23 @@
 > Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias—at the clean chiton, the oiled hair, the sand
 
 **Revision proposals:**
-- `not walked through the sick quarters—and felt something shift in his chest` → `[Rephrase without 'Not X—Y' structure]`
+- `not walked through the sick quarters—and felt a shift in his chest` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
+
+#### Vague "something" constructions (1 instances)
+
+**Line 43:**
+> Something passed between them—a current that could have become respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to 
+
+**Revision proposals:**
+- `Something passed` → `[name the thing] passed`
+  - *Name the specific referent instead of using 'something'*
 
 
 ### Scene: `scene-05-second-episode`
 
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-05-second-episode.md`
-**Word count:** 1,716 | **Tics:** 5 | **Density:** 2.91
+**File:** `incarnations\ch06-athens-philosopher\scenes\scene-05-second-episode.md`
+**Word count:** 1,720 | **Tics:** 3 | **Density:** 1.74
 
 #### "Not X" repetition patterns (1 instances)
 
@@ -576,18 +256,7 @@
 - `not rise from his patient—a potter's wife whose fever had broken in the night, her survival as unexpected as it was fragile` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (1 instances)
-
-**Line 3:**
-> Philon heard him before he saw him—the particular cadence of official sandals on stone, deliberate and measured, the footsteps of a man who still believed in order. The clinic had become a place where
-
-**Revision proposals:**
-- `the particular cadence` → `the cadence`
-  - *Remove unnecessary intensifier*
-- `the particular cadence` → `the [specific descriptor] cadence`
-  - *Replace with concrete descriptor*
-
-#### Vague "something" constructions (3 instances)
+#### Vague "something" constructions (2 instances)
 
 **Line 27:**
 > For a moment, something flickered in Kallias's eyes—recognition, perhaps, or suppressed guilt. Then it vanished. "I will report your refusal to the Council. Do not expect protection."
@@ -603,17 +272,10 @@
 - `something about water` → `[specific quality] about the water`
   - *Replace 'something' with specific descriptor*
 
-**Line 85:**
-> Alexios opened his mouth as if to argue further, then closed it. Something passed between them—not understanding, not agreement, but something older and sadder. The recognition that love does not prev
-
-**Revision proposals:**
-- `Something passed` → `[name the thing] passed`
-  - *Name the specific referent instead of using 'something'*
-
 
 ### Scene: `scene-06-second-stasimon`
 
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-06-second-stasimon.md`
+**File:** `incarnations\ch06-athens-philosopher\scenes\scene-06-second-stasimon.md`
 **Word count:** 498 | **Tics:** 1 | **Density:** 2.01
 
 #### "Not X" repetition patterns (1 instances)
@@ -628,7 +290,7 @@
 
 ### Scene: `scene-07-third-episode`
 
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-07-third-episode.md`
+**File:** `incarnations\ch06-athens-philosopher\scenes\scene-07-third-episode.md`
 **Word count:** 1,315 | **Tics:** 2 | **Density:** 1.52
 
 #### "Not X" repetition patterns (2 instances)
@@ -650,8 +312,8 @@
 
 ### Scene: `scene-08-kommos`
 
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-08-kommos.md`
-**Word count:** 1,042 | **Tics:** 2 | **Density:** 1.92
+**File:** `incarnations\ch06-athens-philosopher\scenes\scene-08-kommos.md`
+**Word count:** 1,043 | **Tics:** 2 | **Density:** 1.92
 
 #### Abstract nouns performing physical actions (1 instances)
 
@@ -674,8 +336,8 @@
 
 ### Scene: `scene-09-exodus`
 
-**File:** `incarnations/ch06-athens-philosopher/scenes/scene-09-exodus.md`
-**Word count:** 732 | **Tics:** 2 | **Density:** 2.73
+**File:** `incarnations\ch06-athens-philosopher\scenes\scene-09-exodus.md`
+**Word count:** 732 | **Tics:** 1 | **Density:** 1.37
 
 #### "Not X" repetition patterns (1 instances)
 
@@ -686,27 +348,16 @@
 - `Multiple 'Not X' sentences` → `Vary sentence openings`
   - *Line has 2 sentences starting with 'Not'*
 
-#### "The particular [noun]" usage (1 instances)
-
-**Line 43:**
-> The fire, when it came, was ordinary. Wood and oil and the particular smell of burning that had become Athens's atmosphere. Philon's body gave up what little remained—meat and bone, the flesh that hol
-
-**Revision proposals:**
-- `the particular smell` → `the smell`
-  - *Remove unnecessary intensifier*
-- `the particular smell` → `the [specific descriptor] smell`
-  - *Replace with concrete descriptor*
-
 
 ---
 
 ## Chapter 7: Lilith's Watch III
 
-**Total scenes:** 4 | **Word count:** 3,106 | **Total tics:** 3 | **Density:** 0.97 per 1K words
+**Total scenes:** 4 | **Word count:** 3,107 | **Total tics:** 3 | **Density:** 0.97 per 1K words
 
 ### Scene: `scene-04-wheel-turns`
 
-**File:** `incarnations/ch07-lilith-cp03/scenes/scene-04-wheel-turns.md`
+**File:** `incarnations\ch07-lilith-cp03\scenes\scene-04-wheel-turns.md`
 **Word count:** 1,018 | **Tics:** 3 | **Density:** 2.95
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -743,11 +394,11 @@
 
 ## Chapter 8: The Investigator
 
-**Total scenes:** 9 | **Word count:** 9,152 | **Total tics:** 22 | **Density:** 2.40 per 1K words
+**Total scenes:** 9 | **Word count:** 9,153 | **Total tics:** 17 | **Density:** 1.86 per 1K words
 
 ### Scene: `scene-01-baths`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-01-baths.md`
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-01-baths.md`
 **Word count:** 751 | **Tics:** 1 | **Density:** 1.33
 
 #### Vague "something" constructions (1 instances)
@@ -760,24 +411,9 @@
   - *Replace 'something' with specific descriptor*
 
 
-### Scene: `scene-02-case-assigned`
-
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-02-case-assigned.md`
-**Word count:** 924 | **Tics:** 1 | **Density:** 1.08
-
-#### Vague "something" constructions (1 instances)
-
-**Line 67:**
-> He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. Something in this case resisted the simple satisfactio
-
-**Revision proposals:**
-- `Something in this` → `[specific quality] in the this`
-  - *Replace 'something' with specific descriptor*
-
-
 ### Scene: `scene-03-testimonies`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-03-testimonies.md`
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-03-testimonies.md`
 **Word count:** 1,372 | **Tics:** 3 | **Density:** 2.19
 
 #### "Not X" repetition patterns (2 instances)
@@ -808,7 +444,7 @@
 
 ### Scene: `scene-04-stoic-debate`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-04-stoic-debate.md`
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-04-stoic-debate.md`
 **Word count:** 1,000 | **Tics:** 2 | **Density:** 2.00
 
 #### "Not X" repetition patterns (2 instances)
@@ -830,8 +466,8 @@
 
 ### Scene: `scene-05-collapse`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-05-collapse.md`
-**Word count:** 1,096 | **Tics:** 2 | **Density:** 1.82
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-05-collapse.md`
+**Word count:** 1,097 | **Tics:** 1 | **Density:** 0.91
 
 #### "Not X" repetition patterns (1 instances)
 
@@ -842,21 +478,10 @@
 - `not hear—"` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### "The particular [noun]" usage (1 instances)
-
-**Line 23:**
-> By the time they reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the particular expression of someone who has spent too long waiting and has deci
-
-**Revision proposals:**
-- `the particular expression` → `the expression`
-  - *Remove unnecessary intensifier*
-- `the particular expression` → `the [specific descriptor] expression`
-  - *Replace with concrete descriptor*
-
 
 ### Scene: `scene-06-vulnerable-witness`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-06-vulnerable-witness.md`
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-06-vulnerable-witness.md`
 **Word count:** 974 | **Tics:** 3 | **Density:** 3.08
 
 #### "Not X" repetition patterns (2 instances)
@@ -887,7 +512,7 @@
 
 ### Scene: `scene-07-judgment`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-07-judgment.md`
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-07-judgment.md`
 **Word count:** 1,399 | **Tics:** 5 | **Density:** 3.57
 
 #### "Not X" repetition patterns (2 instances)
@@ -930,40 +555,9 @@
   - *Replace 'something' with specific descriptor*
 
 
-### Scene: `scene-08-exile`
-
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-08-exile.md`
-**Word count:** 994 | **Tics:** 3 | **Density:** 3.02
-
-#### "Not X" repetition patterns (1 instances)
-
-**Line 47:**
-> The words glowed in his mind like embers. Not the old hunger for certainty—that was gone. But in its place, something subtler had taken root. The satisfaction of having transcended what others still g
-
-**Revision proposals:**
-- `Not the old hunger for certainty—that was gone` → `[Rephrase without 'Not X—Y' structure]`
-  - *Consider varying sentence structure*
-
-#### Vague "something" constructions (2 instances)
-
-**Line 43:**
-> Something settled in his chest. A satisfaction that felt like peace but carried within it the first seed of something else: the quiet pride of having understood what others could not. He had seen thro
-
-**Revision proposals:**
-- `Something settled` → `[name the thing] settled`
-  - *Name the specific referent instead of using 'something'*
-
-**Line 55:**
-> There was something in the stillness that was not quite humility. But he could not see it. Not yet.
-
-**Revision proposals:**
-- `something in the stillness` → `[specific quality] in the stillness`
-  - *Replace 'something' with specific descriptor*
-
-
 ### Scene: `scene-09-death`
 
-**File:** `incarnations/ch08-rome-investigator/scenes/scene-09-death.md`
+**File:** `incarnations\ch08-rome-investigator\scenes\scene-09-death.md`
 **Word count:** 642 | **Tics:** 2 | **Density:** 3.12
 
 #### "Not X" repetition patterns (2 instances)
@@ -991,7 +585,7 @@
 
 ### Scene: `scene-01-shift`
 
-**File:** `incarnations/ch09-lilith-cp04/scenes/scene-01-shift.md`
+**File:** `incarnations\ch09-lilith-cp04\scenes\scene-01-shift.md`
 **Word count:** 993 | **Tics:** 3 | **Density:** 3.02
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -1024,7 +618,7 @@
 
 ### Scene: `scene-02-seeding`
 
-**File:** `incarnations/ch09-lilith-cp04/scenes/scene-02-seeding.md`
+**File:** `incarnations\ch09-lilith-cp04\scenes\scene-02-seeding.md`
 **Word count:** 1,051 | **Tics:** 3 | **Density:** 2.85
 
 #### "Not X" repetition patterns (3 instances)
@@ -1053,7 +647,7 @@
 
 ### Scene: `scene-03-complaint`
 
-**File:** `incarnations/ch09-lilith-cp04/scenes/scene-03-complaint.md`
+**File:** `incarnations\ch09-lilith-cp04\scenes\scene-03-complaint.md`
 **Word count:** 1,181 | **Tics:** 4 | **Density:** 3.39
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -1093,7 +687,7 @@
 
 ### Scene: `scene-05-backfire`
 
-**File:** `incarnations/ch09-lilith-cp04/scenes/scene-05-backfire.md`
+**File:** `incarnations\ch09-lilith-cp04\scenes\scene-05-backfire.md`
 **Word count:** 1,264 | **Tics:** 3 | **Density:** 2.37
 
 #### "Not X" repetition patterns (2 instances)
@@ -1132,7 +726,7 @@
 
 ### Scene: `scene-01-cell`
 
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-01-cell.md`
+**File:** `incarnations\ch10-egypt-hermit\scenes\scene-01-cell.md`
 **Word count:** 1,218 | **Tics:** 1 | **Density:** 0.82
 
 #### "Not X" repetition patterns (1 instances)
@@ -1147,7 +741,7 @@
 
 ### Scene: `scene-02-deference`
 
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-02-deference.md`
+**File:** `incarnations\ch10-egypt-hermit\scenes\scene-02-deference.md`
 **Word count:** 1,362 | **Tics:** 3 | **Density:** 2.20
 
 #### "Not X" repetition patterns (1 instances)
@@ -1178,7 +772,7 @@
 
 ### Scene: `scene-03-arrival`
 
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-03-arrival.md`
+**File:** `incarnations\ch10-egypt-hermit\scenes\scene-03-arrival.md`
 **Word count:** 1,498 | **Tics:** 2 | **Density:** 1.34
 
 #### "Not X" repetition patterns (1 instances)
@@ -1204,7 +798,7 @@
 
 ### Scene: `scene-07-tasting`
 
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-07-tasting.md`
+**File:** `incarnations\ch10-egypt-hermit\scenes\scene-07-tasting.md`
 **Word count:** 1,755 | **Tics:** 3 | **Density:** 1.71
 
 #### "Not X" repetition patterns (1 instances)
@@ -1235,7 +829,7 @@
 
 ### Scene: `scene-08-collapse`
 
-**File:** `incarnations/ch10-egypt-hermit/scenes/scene-08-collapse.md`
+**File:** `incarnations\ch10-egypt-hermit\scenes\scene-08-collapse.md`
 **Word count:** 1,549 | **Tics:** 1 | **Density:** 0.65
 
 #### "Not X" repetition patterns (1 instances)
@@ -1256,7 +850,7 @@
 
 ### Scene: `scene-01-shift`
 
-**File:** `incarnations/ch11-lilith-cp05/scenes/scene-01-shift.md`
+**File:** `incarnations\ch11-lilith-cp05\scenes\scene-01-shift.md`
 **Word count:** 987 | **Tics:** 3 | **Density:** 3.04
 
 #### "Not X" repetition patterns (2 instances)
@@ -1289,7 +883,7 @@
 
 ### Scene: `scene-04-gathering`
 
-**File:** `incarnations/ch11-lilith-cp05/scenes/scene-04-gathering.md`
+**File:** `incarnations\ch11-lilith-cp05\scenes\scene-04-gathering.md`
 **Word count:** 925 | **Tics:** 3 | **Density:** 3.24
 
 #### "Not X" repetition patterns (1 instances)
@@ -1324,7 +918,7 @@
 
 ### Scene: `scene-05-backfire`
 
-**File:** `incarnations/ch11-lilith-cp05/scenes/scene-05-backfire.md`
+**File:** `incarnations\ch11-lilith-cp05\scenes\scene-05-backfire.md`
 **Word count:** 1,006 | **Tics:** 1 | **Density:** 0.99
 
 #### Vague "something" constructions (1 instances)
@@ -1345,7 +939,7 @@
 
 ### Scene: `scene-01-arrival`
 
-**File:** `incarnations/ch12-heian-lover/scenes/scene-01-arrival.md`
+**File:** `incarnations\ch12-heian-lover\scenes\scene-01-arrival.md`
 **Word count:** 1,398 | **Tics:** 7 | **Density:** 5.01
 
 #### "Not X" repetition patterns (6 instances)
@@ -1404,7 +998,7 @@
 
 ### Scene: `scene-02-voice-behind-screen`
 
-**File:** `incarnations/ch12-heian-lover/scenes/scene-02-voice-behind-screen.md`
+**File:** `incarnations\ch12-heian-lover\scenes\scene-02-voice-behind-screen.md`
 **Word count:** 1,199 | **Tics:** 3 | **Density:** 2.50
 
 #### "Not X" repetition patterns (3 instances)
@@ -1433,7 +1027,7 @@
 
 ### Scene: `scene-03-stagnant-garden`
 
-**File:** `incarnations/ch12-heian-lover/scenes/scene-03-stagnant-garden.md`
+**File:** `incarnations\ch12-heian-lover\scenes\scene-03-stagnant-garden.md`
 **Word count:** 1,384 | **Tics:** 3 | **Density:** 2.17
 
 #### "Not X" repetition patterns (3 instances)
@@ -1462,7 +1056,7 @@
 
 ### Scene: `scene-05-typhoon`
 
-**File:** `incarnations/ch12-heian-lover/scenes/scene-05-typhoon.md`
+**File:** `incarnations\ch12-heian-lover\scenes\scene-05-typhoon.md`
 **Word count:** 1,731 | **Tics:** 1 | **Density:** 0.58
 
 #### Vague "something" constructions (1 instances)
@@ -1477,7 +1071,7 @@
 
 ### Scene: `scene-06-morning`
 
-**File:** `incarnations/ch12-heian-lover/scenes/scene-06-morning.md`
+**File:** `incarnations\ch12-heian-lover\scenes\scene-06-morning.md`
 **Word count:** 1,340 | **Tics:** 7 | **Density:** 5.22
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -1544,7 +1138,7 @@
 
 ### Scene: `scene-01-shift`
 
-**File:** `incarnations/ch13-lilith-cp06/scenes/scene-01-shift.md`
+**File:** `incarnations\ch13-lilith-cp06\scenes\scene-01-shift.md`
 **Word count:** 416 | **Tics:** 1 | **Density:** 2.40
 
 #### "The particular [noun]" usage (1 instances)
@@ -1561,7 +1155,7 @@
 
 ### Scene: `scene-02-residue`
 
-**File:** `incarnations/ch13-lilith-cp06/scenes/scene-02-residue.md`
+**File:** `incarnations\ch13-lilith-cp06\scenes\scene-02-residue.md`
 **Word count:** 514 | **Tics:** 1 | **Density:** 1.95
 
 #### "Not X" repetition patterns (1 instances)
@@ -1582,7 +1176,7 @@
 
 ### Scene: `scene-02-holy-woman`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-02-holy-woman.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-02-holy-woman.md`
 **Word count:** 1,784 | **Tics:** 7 | **Density:** 3.92
 
 #### "Not X" repetition patterns (4 instances)
@@ -1641,7 +1235,7 @@
 
 ### Scene: `scene-04-processing`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-04-processing.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-04-processing.md`
 **Word count:** 1,604 | **Tics:** 1 | **Density:** 0.62
 
 #### "Not X" repetition patterns (1 instances)
@@ -1656,7 +1250,7 @@
 
 ### Scene: `scene-05-source`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-05-source.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-05-source.md`
 **Word count:** 2,101 | **Tics:** 5 | **Density:** 2.38
 
 #### "Not X" repetition patterns (3 instances)
@@ -1705,7 +1299,7 @@
 
 ### Scene: `scene-06-interrogation`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-06-interrogation.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-06-interrogation.md`
 **Word count:** 2,451 | **Tics:** 7 | **Density:** 2.86
 
 #### "Not X" repetition patterns (4 instances)
@@ -1764,7 +1358,7 @@
 
 ### Scene: `scene-07-healers-burden`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-07-healers-burden.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-07-healers-burden.md`
 **Word count:** 1,996 | **Tics:** 1 | **Density:** 0.50
 
 #### "Not X" repetition patterns (1 instances)
@@ -1779,7 +1373,7 @@
 
 ### Scene: `scene-08-release`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-08-release.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-08-release.md`
 **Word count:** 2,276 | **Tics:** 9 | **Density:** 3.95
 
 #### Abstract nouns performing physical actions (2 instances)
@@ -1854,7 +1448,7 @@
 
 ### Scene: `scene-09-fire`
 
-**File:** `incarnations/ch14-inquisition-accused/scenes/scene-09-fire.md`
+**File:** `incarnations\ch14-inquisition-accused\scenes\scene-09-fire.md`
 **Word count:** 2,260 | **Tics:** 8 | **Density:** 3.54
 
 #### "Not X" repetition patterns (7 instances)
@@ -1926,7 +1520,7 @@
 
 ### Scene: `scene-01-walls`
 
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-01-walls.md`
+**File:** `incarnations\ch15-lilith-cp07\scenes\scene-01-walls.md`
 **Word count:** 553 | **Tics:** 1 | **Density:** 1.81
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -1941,7 +1535,7 @@
 
 ### Scene: `scene-02-pattern`
 
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-02-pattern.md`
+**File:** `incarnations\ch15-lilith-cp07\scenes\scene-02-pattern.md`
 **Word count:** 454 | **Tics:** 1 | **Density:** 2.20
 
 #### "Not X" repetition patterns (1 instances)
@@ -1956,7 +1550,7 @@
 
 ### Scene: `scene-03-encounter`
 
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-03-encounter.md`
+**File:** `incarnations\ch15-lilith-cp07\scenes\scene-03-encounter.md`
 **Word count:** 627 | **Tics:** 2 | **Density:** 3.19
 
 #### "The particular [noun]" usage (1 instances)
@@ -1982,7 +1576,7 @@
 
 ### Scene: `scene-04-push`
 
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-04-push.md`
+**File:** `incarnations\ch15-lilith-cp07\scenes\scene-04-push.md`
 **Word count:** 510 | **Tics:** 2 | **Density:** 3.92
 
 #### "Not X" repetition patterns (2 instances)
@@ -2004,7 +1598,7 @@
 
 ### Scene: `scene-06-chamber`
 
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-06-chamber.md`
+**File:** `incarnations\ch15-lilith-cp07\scenes\scene-06-chamber.md`
 **Word count:** 439 | **Tics:** 2 | **Density:** 4.56
 
 #### "Not X" repetition patterns (1 instances)
@@ -2028,7 +1622,7 @@
 
 ### Scene: `scene-08-seed`
 
-**File:** `incarnations/ch15-lilith-cp07/scenes/scene-08-seed.md`
+**File:** `incarnations\ch15-lilith-cp07\scenes\scene-08-seed.md`
 **Word count:** 627 | **Tics:** 2 | **Density:** 3.19
 
 #### Em-dash excess (>2 pairs per paragraph) (1 instances)
@@ -2058,7 +1652,7 @@
 
 ### Scene: `scene-01-assignment`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-01-assignment.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-01-assignment.md`
 **Word count:** 1,191 | **Tics:** 1 | **Density:** 0.84
 
 #### "Not X" repetition patterns (1 instances)
@@ -2073,7 +1667,7 @@
 
 ### Scene: `scene-02-witnesses`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-02-witnesses.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-02-witnesses.md`
 **Word count:** 1,452 | **Tics:** 1 | **Density:** 0.69
 
 #### Vague "something" constructions (1 instances)
@@ -2088,7 +1682,7 @@
 
 ### Scene: `scene-03-ambush`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-03-ambush.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-03-ambush.md`
 **Word count:** 1,186 | **Tics:** 1 | **Density:** 0.84
 
 #### Vague "something" constructions (1 instances)
@@ -2103,7 +1697,7 @@
 
 ### Scene: `scene-04-printers-widow`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-04-printers-widow.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-04-printers-widow.md`
 **Word count:** 1,487 | **Tics:** 3 | **Density:** 2.02
 
 #### "Not X" repetition patterns (1 instances)
@@ -2134,7 +1728,7 @@
 
 ### Scene: `scene-06-ball`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-06-ball.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-06-ball.md`
 **Word count:** 1,646 | **Tics:** 1 | **Density:** 0.61
 
 #### Vague "something" constructions (1 instances)
@@ -2149,7 +1743,7 @@
 
 ### Scene: `scene-07-temptation`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-07-temptation.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-07-temptation.md`
 **Word count:** 1,744 | **Tics:** 1 | **Density:** 0.57
 
 #### "Not X" repetition patterns (1 instances)
@@ -2164,7 +1758,7 @@
 
 ### Scene: `scene-08-report`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-08-report.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-08-report.md`
 **Word count:** 1,475 | **Tics:** 3 | **Density:** 2.03
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -2195,7 +1789,7 @@
 
 ### Scene: `scene-09-road`
 
-**File:** `incarnations/ch16-renaissance-skeptic/scenes/scene-09-road.md`
+**File:** `incarnations\ch16-renaissance-skeptic\scenes\scene-09-road.md`
 **Word count:** 1,754 | **Tics:** 2 | **Density:** 1.14
 
 #### "Not X" repetition patterns (2 instances)
@@ -2223,7 +1817,7 @@
 
 ### Scene: `scene-01-one-more-method`
 
-**File:** `incarnations/ch17-lilith-cp08/scenes/scene-01-one-more-method.md`
+**File:** `incarnations\ch17-lilith-cp08\scenes\scene-01-one-more-method.md`
 **Word count:** 417 | **Tics:** 2 | **Density:** 4.80
 
 #### "Not X" repetition patterns (2 instances)
@@ -2245,7 +1839,7 @@
 
 ### Scene: `scene-07-the-death`
 
-**File:** `incarnations/ch17-lilith-cp08/scenes/scene-07-the-death.md`
+**File:** `incarnations\ch17-lilith-cp08\scenes\scene-07-the-death.md`
 **Word count:** 426 | **Tics:** 1 | **Density:** 2.35
 
 #### "Not X" repetition patterns (1 instances)
@@ -2260,7 +1854,7 @@
 
 ### Scene: `scene-08-one-more`
 
-**File:** `incarnations/ch17-lilith-cp08/scenes/scene-08-one-more.md`
+**File:** `incarnations\ch17-lilith-cp08\scenes\scene-08-one-more.md`
 **Word count:** 487 | **Tics:** 2 | **Density:** 4.11
 
 #### "Not X" repetition patterns (1 instances)
@@ -2292,7 +1886,7 @@
 
 ### Scene: `scene-05-manna`
 
-**File:** `incarnations/ch18-taiping-rebel/scenes/scene-05-manna.md`
+**File:** `incarnations\ch18-taiping-rebel\scenes\scene-05-manna.md`
 **Word count:** 1,416 | **Tics:** 5 | **Density:** 3.53
 
 #### "Not X" repetition patterns (4 instances)
@@ -2337,7 +1931,7 @@
 
 ### Scene: `scene-06-king-dead`
 
-**File:** `incarnations/ch18-taiping-rebel/scenes/scene-06-king-dead.md`
+**File:** `incarnations\ch18-taiping-rebel\scenes\scene-06-king-dead.md`
 **Word count:** 1,570 | **Tics:** 1 | **Density:** 0.64
 
 #### "Not X" repetition patterns (1 instances)
@@ -2352,7 +1946,7 @@
 
 ### Scene: `scene-07-walls-break`
 
-**File:** `incarnations/ch18-taiping-rebel/scenes/scene-07-walls-break.md`
+**File:** `incarnations\ch18-taiping-rebel\scenes\scene-07-walls-break.md`
 **Word count:** 869 | **Tics:** 3 | **Density:** 3.45
 
 #### "Not X" repetition patterns (2 instances)
@@ -2383,7 +1977,7 @@
 
 ### Scene: `scene-08-ledger-closes`
 
-**File:** `incarnations/ch18-taiping-rebel/scenes/scene-08-ledger-closes.md`
+**File:** `incarnations\ch18-taiping-rebel\scenes\scene-08-ledger-closes.md`
 **Word count:** 742 | **Tics:** 2 | **Density:** 2.70
 
 #### "Not X" repetition patterns (2 instances)
@@ -2411,7 +2005,7 @@
 
 ### Scene: `scene-02-curse-spreads`
 
-**File:** `incarnations/ch19-lilith-cp09/scenes/scene-02-curse-spreads.md`
+**File:** `incarnations\ch19-lilith-cp09\scenes\scene-02-curse-spreads.md`
 **Word count:** 1,095 | **Tics:** 1 | **Density:** 0.91
 
 #### "The particular [noun]" usage (1 instances)
@@ -2428,7 +2022,7 @@
 
 ### Scene: `scene-05-breakthrough-death`
 
-**File:** `incarnations/ch19-lilith-cp09/scenes/scene-05-breakthrough-death.md`
+**File:** `incarnations\ch19-lilith-cp09\scenes\scene-05-breakthrough-death.md`
 **Word count:** 1,450 | **Tics:** 2 | **Density:** 1.38
 
 #### "Not X" repetition patterns (2 instances)
@@ -2450,7 +2044,7 @@
 
 ### Scene: `scene-06-tracing-forward`
 
-**File:** `incarnations/ch19-lilith-cp09/scenes/scene-06-tracing-forward.md`
+**File:** `incarnations\ch19-lilith-cp09\scenes\scene-06-tracing-forward.md`
 **Word count:** 1,379 | **Tics:** 3 | **Density:** 2.18
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -2481,7 +2075,7 @@
 
 ### Scene: `scene-07-positioning`
 
-**File:** `incarnations/ch19-lilith-cp09/scenes/scene-07-positioning.md`
+**File:** `incarnations\ch19-lilith-cp09\scenes\scene-07-positioning.md`
 **Word count:** 1,426 | **Tics:** 1 | **Density:** 0.70
 
 #### "Not X" repetition patterns (1 instances)
@@ -2496,7 +2090,7 @@
 
 ### Scene: `scene-08-threshold`
 
-**File:** `incarnations/ch19-lilith-cp09/scenes/scene-08-threshold.md`
+**File:** `incarnations\ch19-lilith-cp09\scenes\scene-08-threshold.md`
 **Word count:** 1,668 | **Tics:** 3 | **Density:** 1.80
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -2533,7 +2127,7 @@
 
 ### Scene: `scene-03-first-blood`
 
-**File:** `incarnations/ch20-noir-detective/scenes/scene-03-first-blood.md`
+**File:** `incarnations\ch20-noir-detective\scenes\scene-03-first-blood.md`
 **Word count:** 1,957 | **Tics:** 3 | **Density:** 1.53
 
 #### "Not X" repetition patterns (1 instances)
@@ -2564,7 +2158,7 @@
 
 ### Scene: `scene-04-gathering-evidence`
 
-**File:** `incarnations/ch20-noir-detective/scenes/scene-04-gathering-evidence.md`
+**File:** `incarnations\ch20-noir-detective\scenes\scene-04-gathering-evidence.md`
 **Word count:** 1,642 | **Tics:** 2 | **Density:** 1.22
 
 #### "Not X" repetition patterns (1 instances)
@@ -2588,7 +2182,7 @@
 
 ### Scene: `scene-05-the-pattern-emerges`
 
-**File:** `incarnations/ch20-noir-detective/scenes/scene-05-the-pattern-emerges.md`
+**File:** `incarnations\ch20-noir-detective\scenes\scene-05-the-pattern-emerges.md`
 **Word count:** 1,222 | **Tics:** 3 | **Density:** 2.45
 
 #### "Not X" repetition patterns (1 instances)
@@ -2619,7 +2213,7 @@
 
 ### Scene: `scene-06-blackmail-and-betrayal`
 
-**File:** `incarnations/ch20-noir-detective/scenes/scene-06-blackmail-and-betrayal.md`
+**File:** `incarnations\ch20-noir-detective\scenes\scene-06-blackmail-and-betrayal.md`
 **Word count:** 1,736 | **Tics:** 1 | **Density:** 0.58
 
 #### "Not X" repetition patterns (1 instances)
@@ -2634,7 +2228,7 @@
 
 ### Scene: `scene-08-the-car`
 
-**File:** `incarnations/ch20-noir-detective/scenes/scene-08-the-car.md`
+**File:** `incarnations\ch20-noir-detective\scenes\scene-08-the-car.md`
 **Word count:** 2,497 | **Tics:** 9 | **Density:** 3.60
 
 #### "Not X" repetition patterns (6 instances)
@@ -2713,7 +2307,7 @@
 
 ### Scene: `scene-01-loose-weave`
 
-**File:** `incarnations/ch21-lilith-cp10/scenes/scene-01-loose-weave.md`
+**File:** `incarnations\ch21-lilith-cp10\scenes\scene-01-loose-weave.md`
 **Word count:** 544 | **Tics:** 1 | **Density:** 1.84
 
 #### "The particular [noun]" usage (1 instances)
@@ -2730,7 +2324,7 @@
 
 ### Scene: `scene-02-tightening`
 
-**File:** `incarnations/ch21-lilith-cp10/scenes/scene-02-tightening.md`
+**File:** `incarnations\ch21-lilith-cp10\scenes\scene-02-tightening.md`
 **Word count:** 628 | **Tics:** 1 | **Density:** 1.59
 
 #### Vague "something" constructions (1 instances)
@@ -2745,7 +2339,7 @@
 
 ### Scene: `scene-03-the-flood`
 
-**File:** `incarnations/ch21-lilith-cp10/scenes/scene-03-the-flood.md`
+**File:** `incarnations\ch21-lilith-cp10\scenes\scene-03-the-flood.md`
 **Word count:** 667 | **Tics:** 1 | **Density:** 1.50
 
 #### "Not X" repetition patterns (1 instances)
@@ -2760,7 +2354,7 @@
 
 ### Scene: `scene-04-death-sighting`
 
-**File:** `incarnations/ch21-lilith-cp10/scenes/scene-04-death-sighting.md`
+**File:** `incarnations\ch21-lilith-cp10\scenes\scene-04-death-sighting.md`
 **Word count:** 878 | **Tics:** 4 | **Density:** 4.56
 
 #### Abstract nouns performing physical actions (3 instances)
@@ -2798,7 +2392,7 @@
 
 ### Scene: `scene-05-the-pivot`
 
-**File:** `incarnations/ch21-lilith-cp10/scenes/scene-05-the-pivot.md`
+**File:** `incarnations\ch21-lilith-cp10\scenes\scene-05-the-pivot.md`
 **Word count:** 869 | **Tics:** 2 | **Density:** 2.30
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -2824,12 +2418,12 @@
 
 ## Chapter 22: The Breakthrough
 
-**Total scenes:** 9 | **Word count:** 9,333 | **Total tics:** 19 | **Density:** 2.04 per 1K words
+**Total scenes:** 9 | **Word count:** 9,330 | **Total tics:** 17 | **Density:** 1.82 per 1K words
 
 ### Scene: `scene-01-the-chain`
 
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-01-the-chain.md`
-**Word count:** 2,325 | **Tics:** 11 | **Density:** 4.73
+**File:** `incarnations\ch22-contemporary-breakthrough\scenes\scene-01-the-chain.md`
+**Word count:** 2,322 | **Tics:** 9 | **Density:** 3.88
 
 #### "Not X" repetition patterns (8 instances)
 
@@ -2841,10 +2435,10 @@
   - *Line has 2 sentences starting with 'Not'*
 
 **Line 23:**
-> A gap opened in the center of experience. Not darkness—something beneath darkness, beneath light, beneath any quality that could be named. Reality blinked like a splice in old film, continuity broken 
+> A gap opened in the center of experience. Not darkness—a quality beneath darkness, beneath light, beneath any category that could be named. Reality blinked like a splice in old film, continuity broken
 
 **Revision proposals:**
-- `Not darkness—something beneath darkness, beneath light, beneath any quality that could be named` → `[Rephrase without 'Not X—Y' structure]`
+- `Not darkness—a quality beneath darkness, beneath light, beneath any category that could be named` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
 **Line 29:**
@@ -2869,7 +2463,7 @@
   - *Consider varying sentence structure*
 
 **Line 51:**
-> Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable
+> Not the clinical precision he knew, not the composed professional or the calculated lover. Vulnerability showed through the reordering—not breakage but reconfiguration. She was still Lilith, still cap
 
 **Revision proposals:**
 - `Multiple 'Not X' sentences` → `Vary sentence openings`
@@ -2889,21 +2483,7 @@
 - `Not gone—he was still here, still Silas, still the professor who would have to explain this night to administrators and colleagues and perhaps attorneys` → `[Rephrase without 'Not X—Y' structure]`
   - *Consider varying sentence structure*
 
-#### Vague "something" constructions (3 instances)
-
-**Line 17:**
-> Silas's grip on Stewart's hand tightened, fingers interlacing with fingers, and something in his chest—the thing that had been loosening all day, the threads of himself coming unknotted—reached a thre
-
-**Revision proposals:**
-- `something in his chest` → `[specific quality] in the chest`
-  - *Replace 'something' with specific descriptor*
-
-**Line 51:**
-> Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable
-
-**Revision proposals:**
-- `Something showed` → `[name the thing] showed`
-  - *Name the specific referent instead of using 'something'*
+#### Vague "something" constructions (1 instances)
 
 **Line 79:**
 > Her eyes flicked to Silas, and something passed between them—not accusation, not shame, but recognition. She knew. In the moment when she'd grabbed him, in the moment when their three bodies had becom
@@ -2915,7 +2495,7 @@
 
 ### Scene: `scene-03-paramedics`
 
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-03-paramedics.md`
+**File:** `incarnations\ch22-contemporary-breakthrough\scenes\scene-03-paramedics.md`
 **Word count:** 737 | **Tics:** 1 | **Density:** 1.36
 
 #### "Not X" repetition patterns (1 instances)
@@ -2930,7 +2510,7 @@
 
 ### Scene: `scene-04-silas-alone`
 
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-04-silas-alone.md`
+**File:** `incarnations\ch22-contemporary-breakthrough\scenes\scene-04-silas-alone.md`
 **Word count:** 872 | **Tics:** 3 | **Density:** 3.44
 
 #### "Not X" repetition patterns (1 instances)
@@ -2965,7 +2545,7 @@
 
 ### Scene: `scene-07-he-sees-her`
 
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-07-he-sees-her.md`
+**File:** `incarnations\ch22-contemporary-breakthrough\scenes\scene-07-he-sees-her.md`
 **Word count:** 1,004 | **Tics:** 2 | **Density:** 1.99
 
 #### Abstract nouns performing physical actions (1 instances)
@@ -2991,7 +2571,7 @@
 
 ### Scene: `scene-08-connection-sensed`
 
-**File:** `incarnations/ch22-contemporary-breakthrough/scenes/scene-08-connection-sensed.md`
+**File:** `incarnations\ch22-contemporary-breakthrough\scenes\scene-08-connection-sensed.md`
 **Word count:** 669 | **Tics:** 2 | **Density:** 2.99
 
 #### "Not X" repetition patterns (2 instances)
@@ -3019,7 +2599,7 @@
 
 ### Scene: `scene-01-arrival`
 
-**File:** `incarnations/ch23-deva-celestial/scenes/scene-01-arrival.md`
+**File:** `incarnations\ch23-deva-celestial\scenes\scene-01-arrival.md`
 **Word count:** 1,098 | **Tics:** 4 | **Density:** 3.64
 
 #### "Not X" repetition patterns (2 instances)
@@ -3061,7 +2641,7 @@
 
 ### Scene: `scene-02-garden-of-delights`
 
-**File:** `incarnations/ch23-deva-celestial/scenes/scene-02-garden-of-delights.md`
+**File:** `incarnations\ch23-deva-celestial\scenes\scene-02-garden-of-delights.md`
 **Word count:** 1,236 | **Tics:** 4 | **Density:** 3.24
 
 #### Abstract nouns performing physical actions (2 instances)
@@ -3101,7 +2681,7 @@
 
 ### Scene: `scene-03-the-other-thread`
 
-**File:** `incarnations/ch23-deva-celestial/scenes/scene-03-the-other-thread.md`
+**File:** `incarnations\ch23-deva-celestial\scenes\scene-03-the-other-thread.md`
 **Word count:** 1,587 | **Tics:** 8 | **Density:** 5.04
 
 #### "Not X" repetition patterns (2 instances)
@@ -3173,7 +2753,7 @@
 
 ### Scene: `scene-05-threshold-forward`
 
-**File:** `incarnations/ch23-deva-celestial/scenes/scene-05-threshold-forward.md`
+**File:** `incarnations\ch23-deva-celestial\scenes\scene-05-threshold-forward.md`
 **Word count:** 1,493 | **Tics:** 8 | **Density:** 5.36
 
 #### "Not X" repetition patterns (5 instances)
@@ -3245,7 +2825,7 @@
 
 ### Scene: `scene-01-condensation`
 
-**File:** `incarnations/ch24-future-prophet/scenes/scene-01-condensation.md`
+**File:** `incarnations\ch24-future-prophet\scenes\scene-01-condensation.md`
 **Word count:** 1,177 | **Tics:** 4 | **Density:** 3.40
 
 #### "Not X" repetition patterns (1 instances)
@@ -3287,7 +2867,7 @@
 
 ### Scene: `scene-03-heresy`
 
-**File:** `incarnations/ch24-future-prophet/scenes/scene-03-heresy.md`
+**File:** `incarnations\ch24-future-prophet\scenes\scene-03-heresy.md`
 **Word count:** 923 | **Tics:** 1 | **Density:** 1.08
 
 #### Vague "something" constructions (1 instances)
@@ -3302,7 +2882,7 @@
 
 ### Scene: `scene-07-death-approaches`
 
-**File:** `incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md`
+**File:** `incarnations\ch24-future-prophet\scenes\scene-07-death-approaches.md`
 **Word count:** 1,048 | **Tics:** 3 | **Density:** 2.86
 
 #### Vague "something" constructions (3 instances)
@@ -3331,7 +2911,7 @@
 
 ### Scene: `scene-08-death-yearning`
 
-**File:** `incarnations/ch24-future-prophet/scenes/scene-08-death-yearning.md`
+**File:** `incarnations\ch24-future-prophet\scenes\scene-08-death-yearning.md`
 **Word count:** 922 | **Tics:** 3 | **Density:** 3.25
 
 #### "Not X" repetition patterns (2 instances)
@@ -3368,7 +2948,7 @@
 
 ### Scene: `scene-02-recognition`
 
-**File:** `incarnations/ch26-pure-abodes-awakened/scenes/scene-02-recognition.md`
+**File:** `incarnations\ch26-pure-abodes-awakened\scenes\scene-02-recognition.md`
 **Word count:** 2,055 | **Tics:** 1 | **Density:** 0.49
 
 #### "Not X" repetition patterns (1 instances)

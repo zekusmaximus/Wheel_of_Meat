@@ -20,7 +20,7 @@ But the crowd had already thickened, curious citizens pressing close to watch th
 
 They waited. The argument continued. The sun beat down on the cobblestones, and Verinus felt sweat gathering at his collar.
 
-By the time they reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the particular expression of someone who has spent too long waiting and has decided to be angry about it.
+By the time they reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the sour expression of someone who has spent too long waiting and has decided to be angry about it.
 
 "You are late," she said. "I was told the second hour. It is nearly the fourth."
 
@@ -98,4 +98,4 @@ He left without another word, and Verinus stood alone in the office, surrounded 
 
 The case would not resolve. The fragments would not align.
 
-And somewhere beneath his ribs, something that had been tightly held for forty years was beginning to loosen.
+And somewhere beneath his ribs, a certainty that had been tightly held for forty years was beginning to loosen.

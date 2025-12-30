@@ -18,7 +18,7 @@ The words landed with more force than Stewart could have intended. Silas felt th
 
 "I taught you philosophy, Stewart. Ideas to consider. Not conclusions to act on."
 
-"Didn't you?" Now Stewart did turn, and his eyes caught the reflected light from below. "What you wrote on the board. What you taught us. Something in me—" He pressed his hand against his sternum, a gesture Silas recognized because he'd made it himself, in the lecture hall, in the committee room, in Lilith's apartment. "Something broke. Or maybe it finally stopped pretending to be whole."
+"Didn't you?" Now Stewart did turn, and his eyes caught the reflected light from below. "What you wrote on the board. What you taught us. A structure in me—" He pressed his hand against his sternum, a gesture Silas recognized because he'd made it himself, in the lecture hall, in the committee room, in Lilith's apartment. "A structure I thought was solid. It cracked. Or maybe it finally stopped pretending to be whole."
 
 Lilith shifted behind him, and Silas heard her breath catch. She should be stepping forward now. She was the clinician. This was her domain. But she remained where she was, frozen at the edge of his peripheral vision.
 
@@ -78,7 +78,7 @@ Silas's breath stopped.
 
 "That's when I knew you understood. That's when I knew it wasn't just me losing my mind. We're not separate, Professor. We never were. The boundaries are just another part of the lie."
 
-The words echoed something Silas had thought in Lilith's apartment, something about the barrier between self and other already blurring. He'd assumed it was metaphor, philosophy made experiential. But Stewart was saying it literally, as a lived fact.
+The words echoed a thought Silas had turned over in Lilith's apartment, the notion that the barrier between self and other was already blurring. He'd assumed it was metaphor, philosophy made experiential. But Stewart was saying it literally, as a lived fact.
 
 "The problem is," Stewart continued, and his hand moved slightly on the barrier wall, "if we're not separate, then nothing I do matters to anyone else, because there isn't anyone else. And nothing anyone else does matters to me, because there isn't a me." He looked down at the city. "So why stay? Why keep pretending there's someone here who needs to keep breathing?"
 
@@ -90,7 +90,7 @@ The thunder was distant now, a retreating complaint from a storm that had spent 
 
 "You were right, Professor."
 
-Silas took a step forward, and the step felt different from the ones that had come before—not the helper rushing to save, not the professional managing a crisis, but something stripped of role and purpose moving toward something else equally stripped.
+Silas took a step forward, and the step felt different from the ones that had come before—no longer the helper rushing to save, no longer the professional managing a crisis, but a presence stripped of role and purpose moving toward another presence equally stripped.
 
 "Stewart—"
 

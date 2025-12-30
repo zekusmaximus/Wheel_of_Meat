@@ -68,11 +68,11 @@ Lilith's wet clothes dripped onto the linoleum as she paused at the stairwell do
 
 She was right, of course. Even now, even with everything fractured between them, she was right about this. A student in crisis took precedence over whatever game they'd been playing without Silas knowing the rules.
 
-He pushed past her and began to climb, his footsteps echoing in the narrow stairwell like a heartbeat amplified beyond bearing. Behind him, he heard her follow, and something in that rhythm—her steps always slightly behind his, matching his pace, tracking his ascent—carried a weight it hadn't before.
+He pushed past her and began to climb, his footsteps echoing in the narrow stairwell like a heartbeat amplified beyond bearing. Behind him, he heard her follow, and the persistence in that rhythm—her steps always slightly behind his, matching his pace, tracking his ascent—carried a weight it hadn't before.
 
 The rooftop access door waited at the top, marked with warnings about alarm systems and authorized personnel. Silas pressed his palm against the metal, feeling its chill even through the numbness the rain had left behind.
 
-"Silas." Lilith's hand closed around his wrist. "Whatever happens up there—whatever I've done—I didn't want this. Not for him. Not for you."
+"Silas." Lilith's hand closed around his wrist. "Whatever happens up there—whatever I've done—I didn't want this. I didn't want it for him, and I didn't want it for you."
 
 He looked at her in the harsh fluorescent light, this woman he'd trusted with techniques meant to bind rather than free, with practices designed to keep him close rather than help him grow. The fury he expected to feel wasn't there. Only a vast confusion, and beneath it, something stranger—the sense that her manipulation and his progress had never been truly separable.
 

@@ -2,7 +2,7 @@ Their fingers touched.
 
 The distance closed in that fractured instant between heartbeats—Stewart's hand reaching back toward the rooftop he'd stumbled past, Silas's hand reaching forward over the barrier's edge, the gap between them collapsing from inches to nothing. Skin met skin. Palm pressed against fingers. The city lights wheeled below them, indifferent to the axis on which everything turned.
 
-Silas's hip ground into the barrier wall as his weight shifted forward, farther than balance permitted, farther than his body could sustain without falling. Stewart's eyes caught the light from the streets below—no longer the terrible calm of moments ago, but something else now, something between surprise and the beginning of understanding. His mouth still held the shape of the words he'd been saying.
+Silas's hip ground into the barrier wall as his weight shifted forward, farther than balance permitted, farther than his body could sustain without falling. Stewart's eyes caught the light from the streets below—no longer the terrible calm of moments ago, but a different quality now, surprise mixing with the beginning of understanding. His mouth still held the shape of the words he'd been saying.
 
 *That thou—*
 
@@ -14,13 +14,13 @@ And then: impact from behind. Arms around his waist. The collision drove the air
 
 Three bodies. One chain. One system resisting the pull of the void below.
 
-Silas's grip on Stewart's hand tightened, fingers interlacing with fingers, and something in his chest—the thing that had been loosening all day, the threads of himself coming unknotted—reached a threshold. In the instant of reaching, the instant of holding, the instant of being held, the one who reached was absent.
+Silas's grip on Stewart's hand tightened, fingers interlacing with fingers, and the dissolution in his chest—the threads of himself coming unknotted all day—reached a threshold. In the instant of reaching, the instant of holding, the instant of being held, the one who reached was absent.
 
 Not suppressed. Not overcome. Absent.
 
 He felt his body perform the action—felt Stewart's weight, felt his muscles straining, felt Lilith's arms locked around his hips and the hard edge of the barrier digging into his pelvis—but the *he* that should have been doing these things could not be found. There was reaching. There was holding. There was the chain. But no one doing any of it.
 
-A gap opened in the center of experience. Not darkness—something beneath darkness, beneath light, beneath any quality that could be named. Reality blinked like a splice in old film, continuity broken and resumed in the same instant. The perceiver who should have been registering the moment was simply not there to register it, and in that absence, the moment registered itself.
+A gap opened in the center of experience. Not darkness—a quality beneath darkness, beneath light, beneath any category that could be named. Reality blinked like a splice in old film, continuity broken and resumed in the same instant. The perceiver who should have been registering the moment was simply not there to register it, and in that absence, the moment registered itself.
 
 Then the gap closed, and the perceiver returned to find itself already in the middle of holding on.
 
@@ -28,7 +28,7 @@ The chain held. Weight redistributed across the three of them—Lilith pulling b
 
 Lilith made a sound. Not words—something beneath words, torn from her chest. Her arms tightened around Silas, and he felt her body shaking against his back, tremors running through her that had nothing to do with exertion. She was pulling, and he was anchored by her pulling, and Stewart was anchored by him, and for a moment that stretched past measurement, they existed as a single organism of interlocked grip.
 
-But the tremors weren't collapse—they were recalibration. Something she had held as certainty for longer than this body could remember was rearranging itself, and her nervous system registered the shift before her mind could name it. She was still Lilith. Still capable. Still the anchor that kept them from falling. But the axis of everything she understood had just rotated, and the shaking was the machinery adjusting to a new orientation.
+But the tremors weren't collapse—they were recalibration. A certainty she had held for longer than this body could remember was rearranging itself, and her nervous system registered the shift before her mind could name it. She was still Lilith. Still capable. Still the anchor that kept them from falling. But the axis of everything she understood had just rotated, and the shaking was the machinery adjusting to a new orientation.
 
 Stewart's free hand found the barrier wall. His fingers scraped concrete, found purchase. Silas pulled, Lilith pulled, and Stewart's body rose—over the barrier's edge, back onto the rooftop, back into the world of surfaces and breath and continuing.
 
@@ -48,7 +48,7 @@ Beside him, Stewart was curled on his side, hands pressed against the concrete, 
 
 Her mask had shifted.
 
-Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. Something that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.
+Not the clinical precision he knew, not the composed professional or the calculated lover. Vulnerability showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. A quality that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.
 
 She'd felt it too. He knew this with the same certainty that he knew his own absence in the moment of reaching. When she'd grabbed him, when her arms had locked around his body to anchor him to the rooftop—she'd felt what he'd felt. The boundary between her action and his dissolving. Her grasping becoming his reaching becoming Stewart's being reached for, all of it one gesture wearing three faces.
 
@@ -108,7 +108,7 @@ This was what Stewart had been reaching for without knowing how to reach. And th
 
 Lilith's voice cut through his reverie: "They're on their way."
 
-She was looking at him now, the phone lowered, and her eyes held something complex. Not the clinical mask, not the calculating lover, not the cracked vulnerability from moments ago. Something new, or newly revealed—an acknowledgment that whatever had passed between them on this rooftop had changed the terms of their arrangement.
+She was looking at him now, the phone lowered, and her eyes held a complexity. Not the clinical mask, not the calculating lover, not the cracked vulnerability from moments ago. A new quality, or newly revealed—an acknowledgment that whatever had passed between them on this rooftop had changed the terms of their arrangement.
 
 "Thank you," he said, and the words felt inadequate and complete at the same time.
 

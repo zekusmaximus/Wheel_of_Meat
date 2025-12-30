@@ -8,7 +8,7 @@ It was a moment that neither had forgotten when they bumped into each other in t
 
 "I'll make you an appointment with Ellen." Lilith leaned in toward him, an easy empathy almost contrived. "You should talk through the experience. You seem shaken."
 
-Silas shook his head, his glasses sliding down his nose. "That's just it. I'm not shaken Lilith." She pulled back a bit as he pushed his glasses back up, smiling. "I think Stewart showed me something. Something about myself, or lack thereof."
+Silas shook his head, his glasses sliding down his nose. "That's just it. I'm not shaken Lilith." She pulled back a bit as he pushed his glasses back up, smiling. "I think Stewart showed me a truth. A glimpse of what I've been teaching about, or the absence beneath it."
 
 Her eyes could have been mistaken as betraying sadness, when it was actually worry they tried to hide. "You know this is where I caution you not to mistake an emotional response to a traumatic event with genuine spiritual insight."
 

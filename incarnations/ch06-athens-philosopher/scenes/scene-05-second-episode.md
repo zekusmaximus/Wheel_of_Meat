@@ -1,6 +1,6 @@
 The magistrate came at dawn, when the smoke from the pyres lay thickest over the city.
 
-Philon heard him before he saw him—the particular cadence of official sandals on stone, deliberate and measured, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.
+Philon heard him before he saw him—the measured cadence of official sandals on stone, deliberate and unhurried, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.
 
 "Philon of Kephissia." The magistrate's voice was muffled but clear. "The Council has reached a decision."
 
@@ -44,7 +44,7 @@ Philon was already gathering his supplies—the few herbs that remained, the cle
 
 "No."
 
-The word hung in the air. Philon looked up from his bag, studied his assistant's face—the dark circles beneath his eyes, the tension in his jaw, the way his gaze slid away from direct contact. Something had changed in the night. Something Philon could not name.
+The word hung in the air. Philon looked up from his bag, studied his assistant's face—the dark circles beneath his eyes, the tension in his jaw, the way his gaze slid away from direct contact. A change had come in the night. A change Philon could not name.
 
 "Alexios."
 
@@ -82,7 +82,7 @@ Alexios stared at him. The tears had stopped, leaving salt-tracks on his cheeks.
 
 "One life is still a life." Philon picked up his bag again, settled it across his shoulder. "That is all I have ever believed. That is all I can offer."
 
-Alexios opened his mouth as if to argue further, then closed it. Something passed between them—not understanding, not agreement, but something older and sadder. The recognition that love does not prevent separation. That two people can see the same truth and draw opposite conclusions.
+Alexios opened his mouth as if to argue further, then closed it. A current passed between them—neither understanding nor agreement, but an older and sadder recognition. The knowledge that love does not prevent separation. That two people can see the same truth and draw opposite conclusions.
 
 "I will remember you," Alexios said. "When I teach others. I will tell them what you were."
 

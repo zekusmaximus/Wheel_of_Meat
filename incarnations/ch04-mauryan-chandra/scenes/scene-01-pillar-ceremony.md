@@ -4,7 +4,7 @@ Sandalwood smoke drifted across the square in thick ribbons, sweet and cloying, 
 
 The square smelled of too many people gathered in one place for too long. Beneath the incense: bodies, betel juice drying in red spatters on the paving stones, the faint rot of flower garlands already wilting in the heat. A child cried somewhere behind me, the sound thin and grating. I shifted my weight and tasted the dust coating my tongue, gritty with the particularite grit of Pataliputra's riverbank clay.
 
-Dharma-Mahāmātra Nagasena stood on the raised platform beside Pradeshika Sumitra, his white robes catching the light in a way that drew the eye from the pillar itself. The moral inspector's face held the particular stillness of a man who has rehearsed his expression before a polished bronze mirror—serene, but calculated to appear serene rather than simply being so. His hands rested at his sides in the prescribed manner, neither clasped nor gesturing, the posture of one who has studied how virtue ought to look.
+Dharma-Mahāmātra Nagasena stood on the raised platform beside Pradeshika Sumitra, his white robes catching the light in a way that drew the eye from the pillar itself. The moral inspector's face held a rehearsed stillness—serene, but calculated to appear serene rather than simply being so. His hands rested at his sides in the prescribed manner, neither clasped nor gesturing, the posture of one who has studied how virtue ought to look.
 
 I stood with the other Rājukas at the edge of the platform, close enough to hear but not so close as to share in whatever dignity the moment conferred. The wood creaked beneath my feet, the sound swallowed by the crowd's murmur. Heat rose through the soles of my sandals, the planks already baking in the morning sun. My forearm throbbed where I had scraped it climbing down from the records building three days prior—a minor injury I had ignored and which had begun to remind me of its presence with each pulse of blood.
 
@@ -44,7 +44,7 @@ It found my forearm instead—the one already throbbing from my earlier careless
 
 The guards reached us then, too late to prevent the wound but not too late to prevent the death it had been meant to deliver. The assassin disappeared into the chaos with a speed that suggested accomplices in the crowd, people ready to close ranks around him and obscure his passage. I pressed my hand against the cut, feeling the warm pulse of blood between my fingers, and thought: sixteen stitches, if the wound is clean. Four days' reduced function. Cost in silk thread and physician's fee: three karshapanas, possibly four.
 
-Nagasena stared at me from where he had fallen against the pillar's base, his white robes now smeared with dust and what might have been a trace of my blood. His expression held something I could not immediately categorize—not gratitude, exactly, nor the calculation I had come to expect from men in his position. Something softer, and therefore more unsettling.
+Nagasena stared at me from where he had fallen against the pillar's base, his white robes now smeared with dust and what might have been a trace of my blood. His expression held an unfamiliar softness—neither gratitude exactly, nor the calculation I had come to expect from men in his position. And therefore more unsettling.
 
 "You saved my life," he said, as if stating a fact that required verification.
 
@@ -54,7 +54,7 @@ I looked at my arm, at the blood still welling despite my grip, at the guards no
 
 ---
 
-I woke to the smell of sesame oil and the particular stillness that indicated I was no longer in the square. The light filtered through cloth walls—a tent, then, probably the medical station maintained for public ceremonies. My arm burned with a steady heat that suggested someone had cleaned and stitched the wound while I was unconscious.
+I woke to the smell of sesame oil and a stillness that indicated I was no longer in the square. The light filtered through cloth walls—a tent, then, probably the medical station maintained for public ceremonies. My arm burned with a steady heat that suggested someone had cleaned and stitched the wound while I was unconscious.
 
 Sixteen stitches. I had been correct in my estimate.
 
@@ -78,7 +78,7 @@ Devaka's expression flickered—a small contraction around the eyes that I had l
 
 Which meant they could have been genuine observers or plants designed to mislead the investigation. The eastern provinces were vast, and travelers from that region were common enough in Pataliputra that their presence would not raise suspicion. I filed the information away for later analysis.
 
-The tent flap rustled, and Pradeshika Sumitra entered with the particular heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.
+The tent flap rustled, and Pradeshika Sumitra entered with the heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.
 
 "Rājuka Chandra." Sumitra stood over the pallet where I lay, his posture suggesting he would not be taking a seat. "The Dharma-Mahāmātra extends his gratitude for your intervention."
 

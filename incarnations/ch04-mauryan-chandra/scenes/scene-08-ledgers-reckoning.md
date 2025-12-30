@@ -44,7 +44,7 @@ He lay in the dirt and waited for the end, and found himself thinking not of num
 
 The woman with the infant came first.
 
-Her face had been young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood complicated by poverty. She had clutched the child against her chest with hands that trembled, and her eyes had met his for a moment before the guards led her away.
+Her face had been young—younger than he had first registered, perhaps twenty years old, her features carrying the haggard exhaustion of new motherhood complicated by poverty. She had clutched the child against her chest with hands that trembled, and her eyes had met his for a moment before the guards led her away.
 
 He had looked away. He had calculated the relative value of her life against the evidence he intended to preserve, and he had looked away, and he had walked toward the records building while she walked toward the fire.
 
@@ -58,7 +58,7 @@ Not the worker. Not the number. Not the fifty-four kilograms of flesh and bone a
 
 He had not seen her. He had seen the calculation she represented, the weight she carried, the entry she would become in whatever ledger recorded the day's losses. He had not seen her face, though he had looked directly at it. He had not seen the person behind the number, though she had tried to show him.
 
-The memory opened onto others, each one surfacing with the particular clarity that dying seemed to grant.
+The memory opened onto others, each one surfacing with the terrible clarity that dying seemed to grant.
 
 ---
 
@@ -70,7 +70,7 @@ The negotiation had lasted perhaps ten minutes. Chandra had examined the grain w
 
 A good negotiation. A profitable transaction. The farmer had walked away with his payment, and Chandra had walked away with grain that would sell for forty-eight karshapanas in the district markets.
 
-He had not noticed the farmer's hands. He noticed them now, in the memory that dying had polished to an unbearable brightness. Hands that shook as they counted the coins, that bore the calluses of a lifetime's labor, that had planted and harvested the very grain now changing ownership. The farmer's eyes had held something—desperation, perhaps, or the particular exhaustion of a man who had walked six days to receive less than he had hoped for.
+He had not noticed the farmer's hands. He noticed them now, in the memory that dying had polished to an unbearable brightness. Hands that shook as they counted the coins, that bore the calluses of a lifetime's labor, that had planted and harvested the very grain now changing ownership. The farmer's eyes had held desperation, perhaps, or the worn exhaustion of a man who had walked six days to receive less than he had hoped for.
 
 Chandra had not looked at those eyes. He had looked at the grain. He had calculated the weight and the quality and the potential return, and he had congratulated himself on a transaction well executed.
 
@@ -90,7 +90,7 @@ Chandra had taken the documents without looking up. His attention had been fixed
 
 "Leave it there."
 
-The clerk had hesitated. His feet had shifted on the floor—Chandra heard that now, in the memory. The soft sound of sandals against stone, the particular shuffle of someone who wanted to speak but feared the speaking.
+The clerk had hesitated. His feet had shifted on the floor—Chandra heard that now, in the memory. The soft sound of sandals against stone, the shuffle of someone who wanted to speak but feared the speaking.
 
 "Sir, the inspector asked me to tell you—"
 
@@ -108,7 +108,7 @@ The memories continued to surface, each one a small failure of presence that he 
 
 The widow who had come to petition for her husband's pension, her eyes red from weeping, her documents clutched in hands that could not stop their trembling. He had processed her claim efficiently, had approved the payment within the required timeframe, had congratulated himself on administrative competence. He had not offered her a seat while she waited. He had not asked about her children. He had not acknowledged that the documents she carried represented a man who had lived and worked and died, leaving behind a woman who was now alone.
 
-The laborers who had loaded grain sacks onto carts while he inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who held power over their wages. He had noted their productivity, had calculated their efficiency, had reported favorably on their performance. He had not learned their names. He had not seen the sweat that soaked their clothing, the tremors that ran through their muscles after hours of lifting, the particular emptiness in their eyes when they looked toward futures that held nothing but more lifting.
+The laborers who had loaded grain sacks onto carts while he inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who held power over their wages. He had noted their productivity, had calculated their efficiency, had reported favorably on their performance. He had not learned their names. He had not seen the sweat that soaked their clothing, the tremors that ran through their muscles after hours of lifting, the hollowness in their eyes when they looked toward futures that held nothing but more lifting.
 
 The child who had begged at the corner of the administrative district, her eyes too large for her thin face, her hand extended toward passersby in the eternal gesture of the desperate. He had walked past her every day for three years. He had never stopped. He had calculated, once, the cost of feeding her for a week—perhaps two karshapanas, negligible against his salary. He had not stopped. He had been late for a meeting, or distracted by a calculation, or simply unwilling to see what seeing might require of him.
 
@@ -126,7 +126,7 @@ Instead he felt only the weight of the ledger. The accumulated absences pressing
 
 He had served the emperor. He had built roads for the hungry to walk, filled warehouses for the hungry to receive, prosecuted thieves who stole from the hungry. The phrases surfaced from somewhere—a speech he had given, a report he had written—and they sounded hollow now, empty of the meaning he had once believed they carried.
 
-The woman with the infant had been hungry. Not starving—her body had shown the particular thinness of inadequate nutrition rather than acute deprivation—but hungry in the chronic way that characterized the workers whose labor made the grain system function. He had built the system. He had maintained the system. He had never once stood beside her while she used it.
+The woman with the infant had been hungry. Her body showed the chronic thinness of inadequate nutrition rather than acute deprivation—hungry in the way that characterized the workers whose labor made the grain system function. He had built the system. He had maintained the system. He had never once stood beside her while she used it.
 
 What would it mean to be with them?
 
@@ -150,7 +150,7 @@ The girl with the dark eyes.
 
 She surfaced last, from the chaos of the raid that morning. He had not noticed her specifically during the arrests. She had been one of the numbers, one of the small bodies he had estimated at eight or ten without counting individually.
 
-But he remembered her now. Her face emerged from the welter of memory with the particular clarity that the dying mind sometimes granted to moments we had not known were significant. She had been standing near the back of the residential quarters, perhaps seven or eight years old, her features carrying the particular stillness of a child who has learned that movement attracts attention and attention is not always safe.
+But he remembered her now. Her face emerged from the welter of memory with the clarity that the dying mind sometimes granted to moments we had not known were significant. She had been standing near the back of the residential quarters, perhaps seven or eight years old, her features carrying a stillness she had learned—that movement attracts attention and attention is not always safe.
 
 She had been looking at him. Not at the guards, not at her mother, not at the fire that would soon consume everything she knew. At him.
 

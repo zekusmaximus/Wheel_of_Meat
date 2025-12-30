@@ -32,7 +32,7 @@ Philon continued his work, his fingers pressing a poultice against a feverish ma
 
 "There must be order." The magistrate's voice hardened. "The Council has determined that treatment shall be prioritized. Citizens first. Then metics of good standing. Then..." He trailed off, but the meaning was clear. Then slaves. Then foreigners. Then the ones nobody would claim.
 
-Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias—at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters—and felt something shift in his chest. Not anger, exactly. Something colder and more certain.
+Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias—at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters—and felt a shift in his chest. A cold certainty, beyond anger.
 
 "A physician's oath," he said, "does not distinguish between the blood of a citizen and the blood of a slave."
 
@@ -40,7 +40,7 @@ Philon straightened. His back ached from hours of bending; his hands were raw fr
 
 "Is to healing. Not to ledgers." He held up his hands, still stained with the fluids of the dying. "When you can tell me which of these is citizen's blood and which is not, perhaps then I will sort my patients as the Council wishes."
 
-Kallias's face underwent several transformations in quick succession—surprise, then offense, then something that might have been respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to his superiors rather than solve it himself.
+Something passed between them—a current that could have become respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to his superiors rather than solve it himself.
 
 "The Council will hear of this," he said.
 

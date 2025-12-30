@@ -2,7 +2,7 @@
 
 The gap was the hardest part.
 
-She had learned this from her own iterations: the space between death and rebirth resisted observation. It was not a place exactly, not a time, but something else—a state that language could only approximate. The pattern existed there without existing, persisted without persisting, carried forward by forces she could describe but not explain.
+She had learned this from her own iterations: the space between death and rebirth resisted observation. It was neither place nor time, but a state beyond both—a paradox that language could only approximate. The pattern existed there without existing, persisted without persisting, carried forward by forces she could describe but not explain.
 
 Ka's thread entered the gap and she almost lost it—the cold sensation vanishing, the sense of ancient depth collapsing into formlessness. For a long moment she drifted in something that was neither dark nor light, neither here nor elsewhere.
 
@@ -42,7 +42,7 @@ A fellow traveler. That was all. Curiosity about a parallel journey. The scienti
 
 *That was all.*
 
-The phrase felt thin even as she thought it. There was more beneath, something she was not ready to examine—a pull that went beyond curiosity, a resonance she could not name. But naming could wait. For now she had proven a technique. Tomorrow—today, really, the morning already here—she would begin to use it.
+The phrase felt thin even as she thought it. There was more beneath, a pull she was unready to examine—an attraction that went beyond curiosity, a resonance she could not name. But naming could wait. For now she had proven a technique. Tomorrow—today, really, the morning already here—she would begin to use it.
 
 She turned from the window. The flat held its ordinary shapes: furniture and books and the detritus of a carefully constructed life. Behind it all, the thread hummed at the edge of her perception, waiting to be followed.
 

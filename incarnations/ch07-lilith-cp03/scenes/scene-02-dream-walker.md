@@ -14,7 +14,7 @@ She found Alexios in the hour before dawn, when sleep ran deepest and dreams spo
 
 Lilith pressed in.
 
-Something subtler than possession or control—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She shaped it.
+A gesture subtler than possession or control—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She shaped it.
 
 *Look,* she whispered without words. *See what is coming.*
 
