@@ -1,4 +1,4 @@
-Heat arrived before image, before sound, before the shape of the consciousness she was following. Not fire-heat this time—not the clean warmth of flame or the body-knowledge of prehistoric survival—but something else. Something wet. Something wrong.
+Heat arrived before image, before sound, before the shape of the consciousness she was following. Different from fire-heat, from the clean warmth of flame or the body-knowledge of prehistoric survival. Something wet. Something wrong.
 
 Lilith's flat held its after-midnight silence. The radiator ticked its inadequate rhythm against the December cold. Rain traced the window in patterns she had stopped watching days ago. But beneath her palms—wrapped around ceramic gone cold—a different temperature was bleeding through.
 
@@ -8,7 +8,7 @@ The thread she followed had shifted. Chandra's administrative precision had rece
 
 She closed her eyes. The flat disappeared, became peripheral, became body-echo.
 
-Athens materialized through sensation before it took visual form. The heat was everywhere—not summer heat, not fire heat, but the particular burning that came from inside bodies that were failing. She could feel it radiating from skin that should not feel so hot, pressing against palms that she recognized as her own and not her own.
+Athens materialized through sensation before it took visual form. The heat was everywhere—not summer heat, not fire heat, but the burning that came from inside bodies that were failing. She could feel it radiating from skin that should not feel so hot, pressing against palms that she recognized as her own and not her own.
 
 *Philon.*
 
@@ -16,7 +16,7 @@ The name surfaced with context Chandra's ledgers could never have held. A physic
 
 She felt what his hands felt before she understood it.
 
-Rough-smooth. Raised texture against fingertips. Heat radiating through thin skin, through the particular porousness of flesh beginning to fail. The sensation translated across epochs as pressure against her own palms—something there that should not be there, something growing beneath the surface.
+Rough-smooth. Raised texture against fingertips. Heat radiating through thin skin, through the porousness of flesh beginning to fail. The sensation translated across epochs as pressure against her own palms—something there that should not be there, something growing beneath the surface.
 
 Pustules.
 
@@ -40,14 +40,14 @@ She would not make the same mistake with Philon.
 
 *I'll correct.*
 
-The flat reasserted itself around her—cold tea, ticking radiator, the particular silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
+The flat reasserted itself around her—cold tea, ticking radiator, the silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
 
 She leaned into the thread. The correction began.
 
 
 The intervention required two pressures.
 
-The first was simple—panic breeding panic, fear spreading through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in canvas shelters and shared air and shared dying. Lilith pressed against the fear-threads and felt them brighten.
+The first was simple—panic breeding panic, the spread of fear through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in canvas shelters and shared air and shared dying. Lilith pressed against the fear-threads and felt them brighten.
 
 *Persian ships,* the whisper moved through the city. *Poison in the water. Disease from the east.*
 
@@ -57,11 +57,11 @@ The rumor would isolate Philon. Metics turned away from fountains; physicians wi
 
 The second pressure required intimacy.
 
-She found Alexios in the hour before dawn, when sleep ran deepest and dreams spoke loudest. The young man slept in a modest room near the Agora—alone now, though once this bed had held another. His consciousness hummed with exhaustion and suppressed grief and the particular rawness of loyalty still unsure which way to break.
+She found Alexios in the hour before dawn, when sleep ran deepest and dreams spoke loudest. The young man slept in a modest room near the Agora—alone now, though once this bed had held another. His consciousness hummed with exhaustion and suppressed grief and the rawness of loyalty still unsure which way to break.
 
 Lilith pressed in.
 
-Not possession. Not control. Something subtler—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She shaped it.
+A gesture subtler than possession or control—the brush of attention against sleeping awareness, the weight of suggestion laid along fear-threads already vibrating. She did not take his dream. She shaped it.
 
 *Look,* she whispered without words. *See what is coming.*
 
@@ -95,7 +95,7 @@ The logic was sound. The logic was what he already half-believed. She only weigh
 
 *Eleusis has physicians. Eleusis has work that needs doing. The road is passable if you leave within the day.*
 
-The dream shifted. Philon's body on the pyre became ash, became smoke, became the particular gray that would color the sky for months. Alexios watched it rise—his teacher becoming air, becoming nothing, becoming the lesson he would carry.
+The dream shifted. Philon's body on the pyre became ash, became smoke, became the gray that would color the sky for months. Alexios watched it rise—his teacher becoming air, becoming nothing, becoming the lesson he would carry.
 
 *Remember the smell,* Lilith whispered. *Remember it every time you look at him.*
 
@@ -116,7 +116,7 @@ Alexios would look at Philon today and see the pyre waiting behind the living fa
 The hunger in her chest did not name itself. She did not ask it to.
 
 
-Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the particular certainty of a man who has made peace with abandonment.
+Alexios left at midday. Lilith watched him go through the thread—his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
 
 The dream had worked. The smell of burning clung to him still.
 
@@ -128,13 +128,13 @@ She leaned closer.
 
 The slave woman collapsed at the eastern gate three days after Alexios fled.
 
-Lilith felt the impact before she understood it—knees striking stone, the particular sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears could not cross. No one moved toward the fallen woman. No one spoke her name.
+Lilith felt the impact before she understood it—knees striking stone, the sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears could not cross. No one moved toward the fallen woman. No one spoke her name.
 
 She had no name. Not anymore. Whatever her owners had called her had been left behind when they fled the fever, when they threw their property to the streets like spoiled grain.
 
 Philon heard the commotion from his clinic. The thread hummed with his attention shifting—away from the patients who might live, toward the woman who would certainly die.
 
-*Don't,* Lilith thought, though the word carried no power. She was observing now, not intervening. The isolation she had engineered was meant to create despair, not to create this—this reaching, this compulsion, this movement toward a dying woman no one else would touch.
+*Don't,* Lilith thought, though the word carried no power. She was observing now, not intervening. The isolation she had engineered was meant to create despair—yet here was reaching, compulsion, movement toward a dying woman no one else would touch.
 
 He went anyway.
 
@@ -150,7 +150,7 @@ The words did not travel across epochs. They did not need to. The woman's eyes f
 
 He knelt beside her.
 
-Lilith's own knees pressed against something—the worn fabric of her armchair, the particular give of cushioning she had stopped noticing years ago. The sensation doubled: stone beneath his legs, fabric beneath hers. Cold tea in her hands, fever-skin beneath his fingertips.
+Lilith's own knees pressed against something—the worn fabric of her armchair, the give of cushioning she had stopped noticing years ago. The sensation doubled: stone beneath his legs, fabric beneath hers. Cold tea in her hands, fever-skin beneath his fingertips.
 
 The parallel crystallized.
 
@@ -174,7 +174,9 @@ She understood his mistake with perfect clarity. He was conflating service with 
 
 She saw it. She documented it. She filed it with the pattern she was mapping.
 
-She did not see that her own hands—cold around ceramic gone cold—were performing the same gesture. Reaching. Holding. Unable to release.
+Her own hands—cold around ceramic gone cold—were performing the same gesture. Reaching. Holding. Unable to release.
+
+She failed to see it.
 
 The slave woman's weight settled against Philon's chest. Light—too light, the fever having consumed whatever substance she once held. He carried her toward his clinic, toward the small room where he would tend her until one of them stopped breathing.
 

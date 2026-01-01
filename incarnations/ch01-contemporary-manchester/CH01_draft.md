@@ -77,7 +77,7 @@ It was a moment that neither had forgotten when they bumped into each other in t
 
 "I'll make you an appointment with Ellen." Lilith leaned in toward him, an easy empathy almost contrived. "You should talk through the experience. You seem shaken."
 
-Silas shook his head, his glasses sliding down his nose. "That's just it. I'm not shaken Lilith." She pulled back a bit as he pushed his glasses back up, smiling. "I think Stewart showed me something. Something about myself, or lack thereof."
+Silas shook his head, his glasses sliding down his nose. "That's just it. I'm not shaken Lilith." She pulled back a bit as he pushed his glasses back up, smiling. "I think Stewart showed me a truth. A glimpse of what I've been teaching about, or the absence beneath it."
 
 Her eyes could have been mistaken as betraying sadness, when it was actually worry they tried to hide. "You know this is where I caution you not to mistake an emotional response to a traumatic event with genuine spiritual insight."
 
@@ -243,11 +243,11 @@ Lilith's wet clothes dripped onto the linoleum as she paused at the stairwell do
 
 She was right, of course. Even now, even with everything fractured between them, she was right about this. A student in crisis took precedence over whatever game they'd been playing without Silas knowing the rules.
 
-He pushed past her and began to climb, his footsteps echoing in the narrow stairwell like a heartbeat amplified beyond bearing. Behind him, he heard her follow, and something in that rhythm—her steps always slightly behind his, matching his pace, tracking his ascent—carried a weight it hadn't before.
+He pushed past her and began to climb, his footsteps echoing in the narrow stairwell like a heartbeat amplified beyond bearing. Behind him, he heard her follow, and the persistence in that rhythm—her steps always slightly behind his, matching his pace, tracking his ascent—carried a weight it hadn't before.
 
 The rooftop access door waited at the top, marked with warnings about alarm systems and authorized personnel. Silas pressed his palm against the metal, feeling its chill even through the numbness the rain had left behind.
 
-"Silas." Lilith's hand closed around his wrist. "Whatever happens up there—whatever I've done—I didn't want this. Not for him. Not for you."
+"Silas." Lilith's hand closed around his wrist. "Whatever happens up there—whatever I've done—I didn't want this. I didn't want it for him, and I didn't want it for you."
 
 He looked at her in the harsh fluorescent light, this woman he'd trusted with techniques meant to bind rather than free, with practices designed to keep him close rather than help him grow. The fury he expected to feel wasn't there. Only a vast confusion, and beneath it, something stranger—the sense that her manipulation and his progress had never been truly separable.
 
@@ -280,7 +280,7 @@ The words landed with more force than Stewart could have intended. Silas felt th
 
 "I taught you philosophy, Stewart. Ideas to consider. Not conclusions to act on."
 
-"Didn't you?" Now Stewart did turn, and his eyes caught the reflected light from below. "What you wrote on the board. What you taught us. Something in me—" He pressed his hand against his sternum, a gesture Silas recognized because he'd made it himself, in the lecture hall, in the committee room, in Lilith's apartment. "Something broke. Or maybe it finally stopped pretending to be whole."
+"Didn't you?" Now Stewart did turn, and his eyes caught the reflected light from below. "What you wrote on the board. What you taught us. A structure in me—" He pressed his hand against his sternum, a gesture Silas recognized because he'd made it himself, in the lecture hall, in the committee room, in Lilith's apartment. "A structure I thought was solid. It cracked. Or maybe it finally stopped pretending to be whole."
 
 Lilith shifted behind him, and Silas heard her breath catch. She should be stepping forward now. She was the clinician. This was her domain. But she remained where she was, frozen at the edge of his peripheral vision.
 
@@ -340,7 +340,7 @@ Silas's breath stopped.
 
 "That's when I knew you understood. That's when I knew it wasn't just me losing my mind. We're not separate, Professor. We never were. The boundaries are just another part of the lie."
 
-The words echoed something Silas had thought in Lilith's apartment, something about the barrier between self and other already blurring. He'd assumed it was metaphor, philosophy made experiential. But Stewart was saying it literally, as a lived fact.
+The words echoed a thought Silas had turned over in Lilith's apartment, the notion that the barrier between self and other was already blurring. He'd assumed it was metaphor, philosophy made experiential. But Stewart was saying it literally, as a lived fact.
 
 "The problem is," Stewart continued, and his hand moved slightly on the barrier wall, "if we're not separate, then nothing I do matters to anyone else, because there isn't anyone else. And nothing anyone else does matters to me, because there isn't a me." He looked down at the city. "So why stay? Why keep pretending there's someone here who needs to keep breathing?"
 
@@ -352,7 +352,7 @@ The thunder was distant now, a retreating complaint from a storm that had spent 
 
 "You were right, Professor."
 
-Silas took a step forward, and the step felt different from the ones that had come before—not the helper rushing to save, not the professional managing a crisis, but something stripped of role and purpose moving toward something else equally stripped.
+Silas took a step forward, and the step felt different from the ones that had come before—no longer the helper rushing to save, no longer the professional managing a crisis, but a presence stripped of role and purpose moving toward another presence equally stripped.
 
 "Stewart—"
 

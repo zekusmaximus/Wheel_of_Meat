@@ -79,7 +79,7 @@ The collapse came three days later.
 
 Philon had continued his work in the interval, treating the ailments that required no explanation—a child with an infected insect bite, a potter whose hand had slipped against the wheel, a woman whose pregnancy sat wrong in her body and would not settle. Each case he approached with the same unhurried attention, though beneath his calm he felt the tightening that comes before a storm. The rumors from Piraeus had multiplied, as rumors do, growing darker with each retelling. Sailors staggering from ships. Bodies left on the docks. Fever that burned so hot it cracked the lips and left the afflicted begging for water they could not keep down.
 
-Alexios had stopped asking whether the stories were true. He had begun, instead, to watch the patients who came to the clinic with a wariness that had not been there before—searching their faces for signs of something more than ordinary illness, flinching slightly when they coughed or sneezed. Philon had noticed but said nothing. Fear was not unreasonable. Fear, in the right measure, could keep a man alive.
+Alexios had stopped asking whether the stories were true. He had begun, instead, to watch the patients who came to the clinic with new wariness—searching their faces for signs of something more than ordinary illness, flinching slightly when they coughed or sneezed. Philon had noticed but said nothing. Fear was not unreasonable. Fear, in the right measure, could keep a man alive.
 
 It was late morning when the scream cut across the Agora.
 
@@ -89,9 +89,9 @@ Philon was repacking his satchel, organizing the herbs and linen strips he had u
 
 They moved together through the crowd, which was already beginning to shift and churn like water disturbed by a thrown stone. The vendors had stopped calling their prices. The arguments in the shade of the stoas had fallen silent. Everyone was looking in the same direction, and as Philon drew closer he saw why.
 
-A man lay crumpled on the paving stones near the fish sellers' stalls. He had fallen in the middle of the walkway, his body twisted at an angle that suggested he had not even tried to catch himself. His chiton was soaked with sweat, though the morning was not especially warm, and his skin—visible where the fabric had ridden up—was flushed a dark, angry red. Even from a distance, Philon could see the tremors running through him, the involuntary shuddering of muscles that had lost their connection to will.
+A man lay crumpled on the paving stones near the fish sellers' stalls. He had fallen in the middle of the walkway, his body twisted at an angle that suggested he had not even tried to catch himself. His chiton was soaked with sweat despite the mild morning, and his skin—visible where the fabric had ridden up—was flushed a dark, angry red. Even from a distance, Philon could see the tremors running through him, the involuntary shuddering of muscles that had lost their connection to will.
 
-The crowd had opened around him like a wound. A ring of emptiness, three paces wide, separated the fallen man from the nearest onlookers. No one moved toward him. No one spoke to him. They only watched, their faces bearing the particular expression of people who have glimpsed something they do not wish to understand.
+The crowd had opened around him like a wound. A ring of emptiness, three paces wide, separated the fallen man from the nearest onlookers. No one moved toward him. No one spoke to him. They only watched, their faces bearing the expression of people who have glimpsed something they do not wish to understand.
 
 The man cried out again—not words, just sound, the raw vocalization of someone whose fever had burned away the capacity for speech. He tried to lift his head and failed. His hands clawed weakly at the stones beneath him.
 
@@ -113,9 +113,9 @@ They stood frozen. Watching. Waiting to see what he would do.
 
 No one moved.
 
-"Now," he added, and something in the word finally broke the paralysis. A young vendor hurried toward the nearest fountain. Two older men who had been standing together exchanged a glance and then moved, reluctantly, to fetch a carrying frame from one of the market stalls.
+"Now," he added, and the force of the word finally broke the paralysis. A young vendor hurried toward the nearest fountain. Two older men who had been standing together exchanged a glance and then moved, reluctantly, to fetch a carrying frame from one of the market stalls.
 
-Footsteps approached from behind. Philon did not turn, but he felt the presence settle beside him—Alexios, kneeling on the plague victim's other side, his hands already reaching for the waterskin he carried.
+Footsteps approached from behind. Philon kept his attention on the patient but felt the presence settle beside him—Alexios, kneeling on the plague victim's other side, his hands already reaching for the waterskin he carried.
 
 "One life," Philon said quietly, almost to himself. "One life is worth the effort."
 
@@ -162,7 +162,7 @@ Philon continued his work, his fingers pressing a poultice against a feverish ma
 
 "There must be order." The magistrate's voice hardened. "The Council has determined that treatment shall be prioritized. Citizens first. Then metics of good standing. Then..." He trailed off, but the meaning was clear. Then slaves. Then foreigners. Then the ones nobody would claim.
 
-Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias—at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters—and felt something shift in his chest. Not anger, exactly. Something colder and more certain.
+Philon straightened. His back ached from hours of bending; his hands were raw from the work of touching what no one else would touch. He looked at Kallias—at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters—and felt a shift in his chest. A cold certainty, beyond anger.
 
 "A physician's oath," he said, "does not distinguish between the blood of a citizen and the blood of a slave."
 
@@ -170,7 +170,7 @@ Philon straightened. His back ached from hours of bending; his hands were raw fr
 
 "Is to healing. Not to ledgers." He held up his hands, still stained with the fluids of the dying. "When you can tell me which of these is citizen's blood and which is not, perhaps then I will sort my patients as the Council wishes."
 
-Kallias's face underwent several transformations in quick succession—surprise, then offense, then something that might have been respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to his superiors rather than solve it himself.
+Something passed between them—a current that could have become respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to his superiors rather than solve it himself.
 
 "The Council will hear of this," he said.
 
@@ -238,7 +238,7 @@ The smoke rose. The pyres burned. And somewhere in the city, a physician worked 
 
 The magistrate came at dawn, when the smoke from the pyres lay thickest over the city.
 
-Philon heard him before he saw him—the particular cadence of official sandals on stone, deliberate and measured, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.
+Philon heard him before he saw him—the measured cadence of official sandals on stone, deliberate and unhurried, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.
 
 "Philon of Kephissia." The magistrate's voice was muffled but clear. "The Council has reached a decision."
 
@@ -282,7 +282,7 @@ Philon was already gathering his supplies—the few herbs that remained, the cle
 
 "No."
 
-The word hung in the air. Philon looked up from his bag, studied his assistant's face—the dark circles beneath his eyes, the tension in his jaw, the way his gaze slid away from direct contact. Something had changed in the night. Something Philon could not name.
+The word hung in the air. Philon looked up from his bag, studied his assistant's face—the dark circles beneath his eyes, the tension in his jaw, the way his gaze slid away from direct contact. A change had come in the night. A change Philon could not name.
 
 "Alexios."
 
@@ -320,7 +320,7 @@ Alexios stared at him. The tears had stopped, leaving salt-tracks on his cheeks.
 
 "One life is still a life." Philon picked up his bag again, settled it across his shoulder. "That is all I have ever believed. That is all I can offer."
 
-Alexios opened his mouth as if to argue further, then closed it. Something passed between them—not understanding, not agreement, but something older and sadder. The recognition that love does not prevent separation. That two people can see the same truth and draw opposite conclusions.
+Alexios opened his mouth as if to argue further, then closed it. A current passed between them—neither understanding nor agreement, but an older and sadder recognition. The knowledge that love does not prevent separation. That two people can see the same truth and draw opposite conclusions.
 
 "I will remember you," Alexios said. "When I teach others. I will tell them what you were."
 
@@ -485,7 +485,7 @@ He worked through that first day with the fever already building behind his eyes
 
 By evening, he could no longer lift the water basin.
 
-The weight of it—twenty pounds, perhaps less—defeated him utterly. He stood over it with his arms trembling, his breath coming in short gasps that each carried a new heat deeper into his chest, and understood that something fundamental had changed. The basin did not move. He did not make it move. After a time that might have been minutes or hours, he sat down on the floor beside it and watched the lamplight flicker across the water's surface.
+The weight of it—twenty pounds, perhaps less—defeated him utterly. He stood over it with his arms trembling, his breath coming in short gasps that each carried a new heat deeper into his chest, and understood that a fundamental change had occurred. The basin did not move. He did not make it move. After a time that might have been minutes or hours, he sat down on the floor beside it and watched the lamplight flicker across the water's surface.
 
 One of the patients—the young man with the best chance, the one who had been drinking broth since morning—came to him. Philon felt hands on his shoulders, heard words that arrived from a great distance, muffled by the roaring in his ears. The young man was speaking. Asking something. Philon could not parse the question, could only see the man's lips moving and think, with strange detachment, that this was how the woman from Scythia must have felt. This dissolution of meaning. This retreat into pure sensation.
 
@@ -594,7 +594,7 @@ There was nothing to say. The words for honoring the dead had worn thin through 
 
 They placed him on a pyre with eleven others.
 
-The fire, when it came, was ordinary. Wood and oil and the particular smell of burning that had become Athens's atmosphere. Philon's body gave up what little remained—meat and bone, the flesh that holds and limits, the wheel turning again.
+The fire, when it came, was ordinary. Wood and oil and the familiar reek of burning that had become Athens's atmosphere. Philon's body gave up what little remained—meat and bone, the flesh that holds and limits, the wheel turning again.
 
 ---
 

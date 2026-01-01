@@ -12,11 +12,11 @@ The flat held its silence: radiator ticking, rain against the window, the distan
 
 Someone else.
 
-The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him—bodies touching like wolf pups, breath mixing in the dark. He did not sleep with them. He slept alone, near the cold wind, near the exit, near the nothing that waited outside. Something in his chest had hardened. She could feel it in her own sternum: a tightness, a closing, like ice forming where warmth should be.
+The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him—bodies touching like wolf pups, breath mixing in the dark. He did not sleep with them. He slept alone, near the cold wind, near the exit, near the nothing that waited outside. His chest had hardened. She could feel it in her own sternum: a tightness, a closing, like ice forming where warmth should be.
 
 *Ka.*
 
-The name surfaced from the thread itself, from whatever connection she had made with this ancient pattern. Not a name as she understood names—he had no word for himself, no concept of the self as separable from body and action. But the shape of him was there, dense and rough and unpolished, a consciousness accumulating through flesh after flesh after flesh.
+The name surfaced from the thread itself, from whatever connection she had made with this ancient pattern. A name unlike what she understood as names—he had no word for himself, no concept of the self as separable from body and action. But the shape of him was there, dense and rough and unpolished, a consciousness accumulating through flesh after flesh after flesh.
 
 She carried the tea to her corner—the armchair by the window where she did her private work, her reaching, her practice that had no name she knew—and the motion was also Ka rising from uneasy sleep, body stiff with cold that had seeped through the hide covering, that seeped now through the thin walls of her Fallowfield flat where the heating never quite reached.
 
@@ -26,7 +26,7 @@ The thread she had found was old in a way that made her own iterations seem rece
 
 She followed anyway.
 
-Ka's awareness bled into hers in fragments: the smell of smoke and game blood, the ache in joints from sleeping on stone, the particular loneliness of watching others share warmth while choosing to remain apart. He did not have words for what he felt. His knowing arrived as body-knowledge, as the prickle of neck-hair before danger, as the hollow in the belly that was not hunger but something adjacent to it.
+Ka's awareness bled into hers in fragments: the smell of smoke and game blood, the ache in joints from sleeping on stone, the loneliness of watching others share warmth while choosing to remain apart. He did not have words for what he felt. His knowing arrived as body-knowledge, as the prickle of neck-hair before danger, as the hollow in the belly that was not hunger but something adjacent to it.
 
 *Like ice wall,* his body told him. *In chest. Cold. Dead. Heavy.*
 
@@ -65,13 +65,13 @@ Lilith understood the logic. She could trace it as clearly as she might trace a 
 
 The lesson was wrong. She could see that clearly. His isolation would kill him more surely than any predator. His hoarding would leave him with meat he could not eat while his body failed in the cold.
 
-She could see it. She could not reach through time to change it—that was not how this worked, not yet, not quite—but she could see the pattern of his mistake as clearly as if she were reading his chart.
+She could see it. She lacked the ability to reach through time to change it—the skill would come later—but she could see the pattern of his mistake as clearly as if she were reading his chart.
 
 *Such a long way to go,* she thought. *Hundreds of lifetimes, maybe.*
 
 Her tea had gone cold. She drank it anyway, the bitterness appropriate, while Ka gnawed on meat that was beginning to turn, and both of them sat in their caves—hers heated by radiator, his by embers that would gutter before dawn—and chose to stay.
 
-Ka was calculating how long this flesh would last if eaten slowly, if hidden from others who might smell it, if the alone-way proved stronger than the together-way. His fingers—blackening now at the tips, though he had not yet noticed—curled tighter around the haunch.
+Ka was calculating how long this flesh would last if eaten slowly, if hidden from others who might smell it, if the alone-way proved stronger than the together-way. His fingers—blackening now at the tips, though he remained unaware—curled tighter around the haunch.
 
 Lilith was calculating too. How far did this thread extend? How many iterations had this consciousness accumulated? What was it building toward, and how long until it arrived?
 
@@ -83,7 +83,7 @@ Ka heard a sound—the soft pad of feet on stone, the whisper of small-fast-prey
 
 *Mine.*
 
-Lilith's phone buzzed—a text from the department, something about tomorrow's case conference, the ordinary machinery of a life she was forgetting to live. She did not look at it. She did not move from her corner, her watching-place, her cave.
+Lilith's phone buzzed—a text from the department, a reminder about tomorrow's case conference, the ordinary machinery of a life she was forgetting to live. She did not look at it. She did not move from her corner, her watching-place, her cave.
 
 *Mine,* the thread whispered. Hers now, this pattern she had found. This puzzle she would solve.
 
@@ -91,7 +91,7 @@ The small-fast-prey retreated from Ka's teeth. In Manchester, the phone stopped 
 
 For an instant she wasn't sure whether the meat was frozen or the tea was cold, whether the cave was hers or the flat was his, whether the isolation she was observing was happening to her or—
 
-The thought dissolved before it finished. She returned to observation. Filed the slippage under fatigue. Did not look at it again.
+She lost the thought before it finished. She returned to observation. Filed the slippage under fatigue. Did not look at it again.
 
 She could reach out now. The capacity was there—not to change what had already happened, but to *sense* more deeply, to trace the thread forward through whatever deaths and rebirths waited between this cave and the present day. She had the skill. She had refined it over fifteen years of following her own patterns through parish records and ship manifests and the peculiar déjà vu of standing in places her current body had never visited.
 
@@ -110,7 +110,7 @@ Both of them held their prizes and called it enough.
 
 ## III
 
-The white-ground fell harder now. Ka could not see the tribe's fire anymore—the storm had eaten everything, had turned the world to white and wind and the particular silence that came before dying.
+The white-ground fell harder now. Ka had lost sight of the tribe's fire—the storm had eaten everything, had turned the world to white and wind and the silence that came before dying.
 
 Lilith felt the cold in her own joints, a phantom seeping that had nothing to do with Manchester's February damp. Her body remembered caves it had never inhabited, storms it had never survived. Or perhaps this was his body, his dying, bleeding through the thread she had followed too deep.
 
@@ -122,7 +122,7 @@ The knowing arrived without words, without language, without the structures of t
 
 *Need to know,* his dying insisted. *Need to understand giving. Need to—*
 
-The hunger transformed in the moment of his dying. Not meat anymore. Not territory, not dominance, not the alone-way that had brought him here to this cave with his frozen prize. Something else now, something that burned through the cold, through the failing flesh, through the boundary between this life and whatever came next.
+The hunger transformed in the moment of his dying. Beyond meat, beyond territory, beyond dominance, beyond the alone-way that had brought him here to this cave with his frozen prize. Something else now, something that burned through the cold, through the failing flesh, through the boundary between this life and whatever came next.
 
 *Burning need to know giving. Spreads through Ka's cold body like dawn spreads across sky.*
 
@@ -149,7 +149,7 @@ Lilith followed.
 
 The gap was the hardest part.
 
-She had learned this from her own iterations: the space between death and rebirth resisted observation. It was not a place exactly, not a time, but something else—a state that language could only approximate. The pattern existed there without existing, persisted without persisting, carried forward by forces she could describe but not explain.
+She had learned this from her own iterations: the space between death and rebirth resisted observation. It was neither place nor time, but a state beyond both—a paradox that language could only approximate. The pattern existed there without existing, persisted without persisting, carried forward by forces she could describe but not explain.
 
 Ka's thread entered the gap and she almost lost it—the cold sensation vanishing, the sense of ancient depth collapsing into formlessness. For a long moment she drifted in something that was neither dark nor light, neither here nor elsewhere.
 
@@ -189,7 +189,7 @@ A fellow traveler. That was all. Curiosity about a parallel journey. The scienti
 
 *That was all.*
 
-The phrase felt thin even as she thought it. There was more beneath, something she was not ready to examine—a pull that went beyond curiosity, a resonance she could not name. But naming could wait. For now she had proven a technique. Tomorrow—today, really, the morning already here—she would begin to use it.
+The phrase felt thin even as she thought it. There was more beneath, a pull she was unready to examine—an attraction that went beyond curiosity, a resonance she could not name. But naming could wait. For now she had proven a technique. Tomorrow—today, really, the morning already here—she would begin to use it.
 
 She turned from the window. The flat held its ordinary shapes: furniture and books and the detritus of a carefully constructed life. Behind it all, the thread hummed at the edge of her perception, waiting to be followed.
 

@@ -6,11 +6,11 @@ Steam rose from the *caldarium* in slow coils, threading between bodies that mov
 
 "The markets open at second hour."
 
-"Not during the festival of—"
+"During the festival, they—"
 
 Verinus reached for the bronze stylus at his belt. His fingers found the familiar weight, the slight warmth from his body, and he began to clean it. The motion was small, precise: a cloth he carried for this purpose, drawn across the metal in measured strokes. Neither man was correct. The grain ships had arrived at the fourth hour—he had read the harbormaster's report himself three days ago, filed in the praetor's office alongside seventeen other documents these men would never see and could not have understood if they had.
 
-The stylus gleamed. The contradiction remained, but something in his chest loosened fractionally.
+The stylus gleamed. The contradiction remained, but his chest loosened fractionally.
 
 "Verinus." A hand clapped his shoulder, and he turned to find Marcus Cassianus Priscus grinning at him, water beading in his dark beard. "You're cleaning that thing again. What offense has the morning committed?"
 
@@ -36,9 +36,9 @@ Marcus laughed, a sound that carried no mockery, only the resignation of long fa
 
 Verinus did not answer. Across the pool, near the entrance to the *frigidarium*, a group of students had gathered—young men from one of the philosophical schools, their conversation animated and their gestures theatrical. Among them stood a woman, dark-haired, her stillness conspicuous against their motion. She was watching him.
 
-Not the students. Not Marcus. Him.
+Him specifically. Neither the students nor Marcus.
 
-Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, not long enough to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
+Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, too brief to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
 
 "Who was that?" Marcus had surfaced, was following Verinus's sightline.
 
@@ -125,7 +125,7 @@ Gnaeus frowned. "A copying error. My clerk must have—"
 
 "Do not." Verinus rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
 
-He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. Something in this case resisted the simple satisfaction of order restored.
+He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. An unresolved tension in this case resisted the simple satisfaction of order restored.
 
 "Marcus," he said. "We begin at Varro's house."
 
@@ -396,7 +396,7 @@ But the crowd had already thickened, curious citizens pressing close to watch th
 
 They waited. The argument continued. The sun beat down on the cobblestones, and Verinus felt sweat gathering at his collar.
 
-By the time they reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the particular expression of someone who has spent too long waiting and has decided to be angry about it.
+By the time they reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the sour expression of someone who has spent too long waiting and has decided to be angry about it.
 
 "You are late," she said. "I was told the second hour. It is nearly the fourth."
 
@@ -474,7 +474,7 @@ He left without another word, and Verinus stood alone in the office, surrounded 
 
 The case would not resolve. The fragments would not align.
 
-And somewhere beneath his ribs, something that had been tightly held for forty years was beginning to loosen.
+And somewhere beneath his ribs, a certainty that had been tightly held for forty years was beginning to loosen.
 
 
 The courtyard was quiet in the late afternoon light. A small fountain burbled at its center, the sound soft and continuous, and ivy climbed the walls in patterns that seemed almost deliberate. It was the kind of place where difficult conversations were meant to happen—private, enclosed, far from the noise of the street.
@@ -711,11 +711,11 @@ The contradictions lay side by side, unresolved. They would never be resolved. F
 
 He folded Marcus's letter carefully and placed it beside the testimonies. The stylus lay across them both, tarnished and uncleaned, no longer a tool for imposing order but simply an object—bronze and weight and memory.
 
-Something settled in his chest. A satisfaction that felt like peace but carried within it the first seed of something else: the quiet pride of having understood what others could not. He had seen through the illusion of certainty. He had chosen compassion when reason failed. He had been right—Marcus said so, even if he could not say why.
+A stillness settled in his chest. A satisfaction that felt like peace but carried within it the first seed of pride: the quiet self-regard of having understood what others could not. He had seen through the illusion of certainty. He had chosen compassion when reason failed. He had been right—Marcus said so, even if he could not say why.
 
 *I think you were right.*
 
-The words glowed in his mind like embers. Not the old hunger for certainty—that was gone. But in its place, something subtler had taken root. The satisfaction of having transcended what others still grasped at. The knowledge that he had learned what the philosophers in their porticoes still debated, what the senators in their tribunals still pretended to possess.
+The words glowed in his mind like embers. The old hunger for certainty was gone. But in its place, a subtler attachment had taken root. The satisfaction of having transcended what others still grasped at. The knowledge that he had learned what the philosophers in their porticoes still debated, what the senators in their tribunals still pretended to possess.
 
 He had traded one attachment for another, and he did not see it.
 
@@ -723,7 +723,7 @@ The autumn light faded. The sea turned from gold to grey to the deep blue of app
 
 Verinus gathered the notes and the letter and the stylus and walked slowly back to the house. The cook—a woman from the village who came twice a week—had left bread and olives on the table. He ate alone, as he always did now, and felt the silence wrap around him like a garment he was only beginning to learn how to wear.
 
-There was something in the stillness that was not quite humility. But he could not see it. Not yet.
+A pride lurked in the stillness, disguised as peace. But he could not see it. Not yet.
 
 He slept well that night. For the first time since Rome, he dreamed of nothing at all.
 

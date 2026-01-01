@@ -101,9 +101,9 @@ Then the doorway of his cell.
 
 Four paces by three. Reed mat. Water jug. Cross. The baskets stacked beneath the window, evidence of years. And Macarius rising to receive them: white beard descending to mid-chest, shoulders narrower than she had expected, hands stilled from their weaving with a precision that betrayed how much effort the stilling required.
 
-She stepped across the threshold and something flickered.
+She stepped across the threshold and recognition flickered.
 
-Not thought—body-knowledge. A recognition that bypassed the cosmic frame and arrived direct: she had been here before. Not this cell. Not this century. But this *structure*. The chosen containment. The deliberate smallness. The way the walls pressed close enough to feel like arms.
+Body-knowledge rather than thought. A recognition that bypassed the cosmic frame and arrived direct: she had been here before. The *structure* rather than the cell or century. The chosen containment. The deliberate smallness. The way the walls pressed close enough to feel like arms.
 
 Her flat. This cell. The shape was hers.
 
@@ -111,7 +111,7 @@ Her flat. This cell. The shape was hers.
 
 The explanation satisfied her consciousness. The body she was wearing held a different knowledge: that this was home, this smallness, this practiced isolation. That standing in his doorway was standing in a mirror.
 
-Macarius's eyes found her. Dark, surrounded by weathered skin, carrying the particular patience of a man who had learned to wait for visitors to reveal their purpose. For a moment his gaze held on her stillness—the perfect containment she maintained without thinking, the absence of fidget or breath-adjustment that distinguished her from the scribes and priests who shifted in the doorway with mortal restlessness.
+Macarius's eyes found her. Dark, surrounded by weathered skin, carrying the patience of a man who had learned to wait for visitors to reveal their purpose. For a moment his gaze held on her stillness—the perfect containment she maintained without thinking, the absence of fidget or breath-adjustment that distinguished her from the scribes and priests who shifted in the doorway with mortal restlessness.
 
 His brow creased slightly. An almost-thought forming.
 
@@ -125,7 +125,7 @@ Theophanes was speaking—the formal greeting, the request for wisdom, the invit
 
 And Theodora stood in the doorway, not speaking, not moving, only watching.
 
-She could not stop watching. The stillness called to something in her own stillness. The cell's blank walls reflected the flat's blank walls. His prayer-posture, when she had observed him at dawn, matched her tracking-posture exactly: the folded hands, the measured breath, the commitment to not-moving that had become its own motion.
+She could not stop watching. The stillness called to her own stillness. The cell's blank walls reflected the flat's blank walls. His prayer-posture, when she had observed him at dawn, matched her tracking-posture exactly: the folded hands, the measured breath, the commitment to not-moving that had become its own motion.
 
 *Research requires proximity,* she told herself. *Thoroughness requires presence.*
 
@@ -162,7 +162,7 @@ The scribes wrote furiously. The elderly priest nodded with visible reverence. A
 
 Theodora stood against the wall and watched.
 
-She had been standing for hours. The position should have become unbearable—mortal bodies required movement, required adjustment, required the basic maintenance of muscles that cramped and joints that stiffened. But her stillness matched his stillness. Her containment echoed his containment. And something in that echo felt not uncomfortable but correct.
+She had been standing for hours. The position should have become unbearable—mortal bodies required movement, required adjustment, required the basic maintenance of muscles that cramped and joints that stiffened. But her stillness matched his stillness. Her containment echoed his containment. And the echo felt not uncomfortable but correct.
 
 *Two bodies practiced at not-moving.* The observation surfaced without examination. *Two consciousness choosing containment.*
 
@@ -190,7 +190,7 @@ In her flat—the awareness of it peripheral, ghostly, barely present—the ligh
 
 Each name was a wall. Each wall held back a recognition she would not examine:
 
-She could not stop watching. She could not leave. Something in his stillness spoke to something in her stillness, and the speaking was not observation. The speaking was not strategic.
+She could not stop watching. She could not leave. His stillness spoke to her stillness, and the speaking was not observation. The speaking was not strategic.
 
 The speaking was a mirror.
 

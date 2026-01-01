@@ -305,13 +305,13 @@ He should continue to the entrance. The path was simple enough—straight ahead,
 
 Instead, he turned toward the service wing.
 
-The Attendant. He wanted to see her before he left. Not for conversation—she rarely spoke more than the necessary courtesies—but to confirm something he could not name. To assure himself that she was still scrubbing, still repairing, still engaged in the endless labor of holding this house together. Her motion was part of the rhythm of this place. Without it, he did not know what the silence would contain.
+The Attendant. He wanted to see her before he left. She rarely spoke more than the necessary courtesies—he had no expectation of conversation—but he needed to confirm what he could not name. To assure himself that she was still scrubbing, still repairing, still engaged in the endless labor of holding this house together. Her motion was part of the rhythm of this place. Without it, he did not know what the silence would contain.
 
 The service wing branched off to the east, through a low doorway that servants used to move unseen between the kitchens and the main halls. Kaoru ducked his head and entered.
 
 At first he saw nothing. The darkness here was complete, the lamps either unlit or extinguished. Then his eyes adjusted, and he saw her.
 
-The Attendant stood beside a wooden bucket, her hands at her sides. She was not moving. Not breathing, as far as he could tell—her chest neither rose nor fell beneath the plain robes she always wore. The bucket held water; he could see its surface gleaming faintly in what light crept through a high window. But she was not scrubbing. She was not cleaning. She was simply standing, still as furniture, as though someone had placed her there and forgotten to tell her what to do next.
+The Attendant stood beside a wooden bucket, her hands at her sides. She was not moving. Her chest neither rose nor fell beneath the plain robes she always wore—no breathing that he could detect. The bucket held water; he could see its surface gleaming faintly in what light crept through a high window. But she was not scrubbing. She was not cleaning. She was simply standing, still as furniture, as though someone had placed her there and forgotten to tell her what to do next.
 
 "Attendant?"
 
@@ -331,7 +331,7 @@ She tilted her head. The motion was slow, deliberate, and utterly wrong—not th
 
 "You should not be here." Her voice was different. Lower. Smoother. Without the sing-song quality that colored her courtesies. "This is not part of the arrangement."
 
-Kaoru could not move. His feet had rooted themselves to the floorboards. His hands hung at his sides, useless, trembling. Something in his chest had seized—not the cough, not the illness that had been building for weeks, but something older, something his blood remembered even if his mind could not name it.
+Kaoru could not move. His feet had rooted themselves to the floorboards. His hands hung at his sides, useless, trembling. His chest had seized—not the cough, not the illness that had been building for weeks, but something older, something his blood remembered even if his mind could not name it.
 
 "Who—"
 
@@ -347,7 +347,7 @@ His reflection looked up at him from the surface. A man he barely recognized—p
 
 He made his way to the entrance on legs that did not feel like his own. The white gravel path stretched before him, perfect as ever, the lanterns burning with their uncanny steadiness. The spring blossoms hung motionless against the autumn sky.
 
-He understood, now. The house was not merely haunted. Something lived inside the Attendant—something that watched, that waited, that assessed visitors with eyes that did not belong in a human face. And that something knew he had seen it.
+He understood, now. The house was not merely haunted. A presence lived inside the Attendant—an intelligence that watched, that waited, that assessed visitors with eyes that did not belong in a human face. And that presence knew he had seen it.
 
 He should not return. The thought was clear as temple water, sharp as an unsheathed blade. He should burn his robes, bathe for three days, have priests examine him for any taint that might have followed him home. He should never speak the name of this place again.
 
@@ -383,9 +383,9 @@ He was running before he realized he had decided to move.
 
 The streets had emptied. What remained was chaos—loose debris rolling across the paving stones, shutters torn from their hinges and spinning through the air, the distant screams of those who had not found shelter in time. Rain fell in sheets so thick that Kaoru could barely see ten paces ahead. His robes, soaked through within moments, clung to a body that had grown thin during his weeks of visiting, and each breath came harder than the last.
 
-No ox-cart would run tonight. He went on foot, keeping to the center of the avenues where the wind had less purchase, ducking into covered walkways when the gusts threatened to throw him off his feet. Lightning split the sky in great jagged cracks, and in its light, the city became a thing he did not recognize—all the beauty stripped away, the bones of its architecture exposed and fragile.
+No ox-cart would run tonight. He went on foot, keeping to the center of the avenues where the wind had less purchase, ducking into covered walkways when the gusts threatened to throw him off his feet. Lightning split the sky in great jagged cracks, and in its light, the city became unrecognizable—all the beauty stripped away, the bones of its architecture exposed and fragile.
 
-The Seiryō Pavilion's gates stood open. Not damaged—simply open, as though someone had forgotten to close them. Kaoru passed through without slowing and found himself on the white gravel path.
+The Seiryō Pavilion's gates stood open. Undamaged, simply open, as though someone had forgotten to close them. Kaoru passed through without slowing and found himself on the white gravel path.
 
 It was no longer white. Mud had washed across it in brown waves, obscuring the careful patterns, drowning the perfection in ordinary filth. Branches littered the ground—not the pristine green cuttings he had grown accustomed to, but real autumn debris, leaves the color of rust and fire, torn from trees that had finally been permitted to die.
 
@@ -395,19 +395,19 @@ And there—in the garden—the Attendant.
 
 She was running back and forth along the eastern veranda, her robes drenched, her hair escaped from its bindings and streaming behind her like a dark flag. In her hands she held a wooden shutter, and she was trying—desperately, futilely—to force it back into its frame. The wind tore it from her grip. She caught it. The wind tore it again.
 
-"Stop!" she screamed. Not at him—at the storm itself. "This is not— you cannot— the arrangement—"
+"Stop!" she screamed at the storm itself. "This is not— you cannot— the arrangement—"
 
 Her voice cracked on the last word. She dropped the shutter and grabbed the frame of the veranda with both hands, as though she could hold the house together through will alone. Her fingers, healed from their earlier rawness, now bled fresh where the splintering wood cut into them.
 
 Kaoru climbed onto the veranda. "We have to get inside!"
 
-She turned. Her face was wild—not the clinical stillness he had seen in the service wing, but something worse, something shattered. The manic servant had collided with whatever watched behind her eyes, and the result was chaos.
+She turned. Her face was wild—the clinical stillness he had seen in the service wing was gone, replaced by something shattered. The manic servant had collided with whatever watched behind her eyes, and the result was chaos.
 
-"You should not be here!" The voice flickered between registers, high and low, desperate and cold. "This was not— I was not finished— there was more time—"
+"You should not be here!" The voice flickered between registers, high and low, desperate and cold. "This was— I was unfinished— there was more time—"
 
 A crack like the world splitting open. The great maple at the garden's edge—the one she had been protecting all these weeks, replacing its leaves with impossible green—toppled. Its trunk, rotted through in ways that no amount of careful maintenance could have hidden, gave way at the base. It fell slowly, almost gracefully, and crashed through the eastern veranda with a sound that Kaoru would hear in his dreams for whatever remained of his life.
 
-The Attendant screamed. Not words—something beyond language, a sound of grief so profound that it seemed to tear itself from her throat against her will. She fell to her knees in the wreckage, her hands scrabbling at the broken wood as though she could somehow put it back.
+The Attendant screamed. Beyond words, beyond language—a sound of grief so profound that it seemed to tear itself from her throat against her will. She fell to her knees in the wreckage, her hands scrabbling at the broken wood as though she could somehow put it back.
 
 Kaoru stepped around her. The shattered veranda led to the eastern gallery—Hotaru's gallery, where he had sat so many nights listening to her fractured voice. The *sudare* that had hidden her was gone, ripped away by the wind and wrapped around a fallen beam.
 
@@ -419,7 +419,7 @@ She was sick. That was the second thing. The smell hit him even through the rain
 
 She was terrified. That was the third thing, and somehow the worst. She pressed herself against the wall behind her, arms raised as though to ward off a blow, her mouth working around words that would not come. She did not know who he was. She did not know where she was. She knew only that the beautiful lie that had surrounded her had been torn away, and now she was exposed—dying, decaying, *real*—in front of a stranger's eyes.
 
-"Please—" Her voice was nothing like the one he had heard through the screen. Cracked, ruined, barely audible. "Please, I did not ask for— she told me it would be beautiful— she said the poet would love me if I stayed still and let her speak—"
+"Please—" Her voice was nothing like the one he had heard through the screen. Cracked, ruined, barely audible. "Please, I never asked— she told me it would be beautiful— she said the poet would love me if I stayed still and let her speak—"
 
 "Do not look!"
 
@@ -427,9 +427,9 @@ The Attendant's voice, behind him. He turned. She stood in the wreckage of the v
 
 "Do not look at her! The beauty is still here— I can rebuild it— if you would only stop looking—"
 
-Something broke in Kaoru's chest.
+A breaking in Kaoru's chest.
 
-Not the illness that had been building for weeks—something older, something that had calcified around his heart without his knowing. The need for perfect beauty. The hunger for things that did not decay. The compulsion to rescue the ideal from the ordinary wreckage of the world.
+Deeper than the illness that had been building for weeks—older, what had calcified around his heart without his knowing. The need for perfect beauty. The hunger for things that did not decay. The compulsion to rescue the ideal from the ordinary wreckage of the world.
 
 He looked at Lady Hotaru—old, sick, terrified, real—and he did not feel revulsion. He felt something that lived on the other side of all his aesthetic obsessions, in a country he had not known existed.
 
@@ -459,7 +459,7 @@ He did not know how long he held her. Minutes. Hours. The storm began to fade, i
 
 Lady Hotaru's breathing slowed. Then stopped.
 
-Kaoru remained where he was, cradling her body, surrounded by the ruins of the perfect house. He was shaking. Not from cold—from something else, something that felt like the loosening of chains he had not known he wore.
+Kaoru remained where he was, cradling her body, surrounded by the ruins of the perfect house. He was shaking. From what felt like the loosening of chains he had not known he wore, colder than any storm.
 
 The Attendant was gone. Where she had fled, he could not guess. Perhaps back into the vessel's original life. Perhaps somewhere else entirely, somewhere beyond the edges of the world.
 

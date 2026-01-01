@@ -68,7 +68,7 @@ The realization arrived as body-knowledge, bypassing the consciousness that shou
 
 Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
 
-Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the particular appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
+Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
 
 She did not know where she walked.
 
@@ -96,7 +96,7 @@ She filed the thought before it completed. Strategy. Refinement. The pattern req
 
 But she had walked here. Her body had led where her mind refused to examine, and she stood now in the rain outside buildings where he would be—*was*, somewhere in a present she had not yet permitted herself to occupy.
 
-The walk back was slower. She noticed objects: a rusted bicycle lock, leaves collecting in a gutter, the way light pooled in windows where evening had begun to gather. Beauty everywhere, not because the Heian period had saturated her perception—she rejected that interpretation—but because perception was simply... sharpened. Heightened awareness. The mechanics of tracking required grounding in contemporary space.
+The walk back was slower. She noticed objects: a rusted bicycle lock, leaves collecting in a gutter, the way light pooled in windows where evening had begun to gather. Beauty everywhere. Perception was simply... sharpened. Heightened awareness. The mechanics of tracking required grounding in contemporary space—she rejected the alternative interpretation that the Heian period had saturated her perception.
 
 *That is why I came here*, she told herself.
 
@@ -104,7 +104,7 @@ The walk back was slower. She noticed objects: a rusted bicycle lock, leaves col
 
 The word held.
 
-The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where something in her had placed them while she wasn't counting days. The thread hummed—Kaoru moving toward Lady Hotaru, toward the Attendant, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
+The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where her hands had placed them while she wasn't counting days. The thread hummed—Kaoru moving toward Lady Hotaru, toward the Attendant, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
 
 She had walked to the university without knowing why.
 
@@ -127,13 +127,13 @@ The screens gleamed without dust. The flowers held their bloom through days that
 
 Lilith had intended a cage of desire. Kaoru craved beauty; she would give him beauty without end. He would return and return and never leave because what he loved would never change. The realm of desire would hold him—frozen aesthetic, frozen longing, frozen soul circling frozen form.
 
-But something had broken.
+But the plan had broken.
 
-She felt it arrive as disruption in the thread: Kaoru standing in the pavilion, surrounded by perfect spring, and understanding something she had not intended him to understand.
+She felt it arrive as disruption in the thread: Kaoru standing in the pavilion, surrounded by perfect spring, and understanding what she had never intended him to understand.
 
 The beauty was too still. Too preserved. The perfection that should have trapped him had become its own refutation.
 
-*Beauty was something you witnessed*, he was realizing. *It required impermanence.*
+*Beauty was what you witnessed*, he was realizing. *It required impermanence.*
 
 Rain against her window—Manchester rain, months and centuries distant from the storm breaking over Heian-kyō. But she felt that storm too: the violence that shattered the impossible spring, that revealed Lady Hotaru aged and sick beneath her careful preservation, that forced Kaoru to see what stillness had been hiding.
 
@@ -141,17 +141,17 @@ The Attendant had tried to stop it. Lilith had felt the vessel's desperation—h
 
 He had looked at the Attendant then. Really looked.
 
-The memory arrived as heat: his gaze finding hers—the vessel's gaze, but hers beneath—and something in that looking that was almost recognition.
+The memory arrived as heat: his gaze finding hers—the vessel's gaze, but hers beneath—and the look carried near-recognition.
 
 The widow's peak. The dark strand falling left. The pale-green crescent that appeared in strong light.
 
-He had seen her. Not the vessel. *Her*.
+He had seen her. The vessel, yes, but also *her* beneath.
 
-And then he had left. Not entrapped. Not bound. Released.
+And then he had left. Entrapped, bound—neither. Released.
 
 *To endure what is real*, his death-poem would say. *That is enough. That is everything.*
 
-Lilith's hands were warmer than they should be. She had given him exactly what he wanted—eternal beauty, frozen form—and he had learned from the gift what she had not intended: that possession was not experience. That beauty required dying to be beautiful.
+Lilith's hands were warmer than they should be. She had given him exactly what he wanted—eternal beauty, frozen form—and he had learned from the gift what she had never intended: that possession was possession, never experience. That beauty required dying to be beautiful.
 
 The pattern was undeniable now. Five incarnations. Five interventions. Five backfires.
 
@@ -161,15 +161,15 @@ And Kaoru—
 
 Kaoru had been shown frozen beauty and understood that beauty melts.
 
-She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the particular way that meant transmission rather than extinction.
+She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the way that meant transmission rather than extinction.
 
-Something in her chest that was not pain but adjacent.
+A sensation in her chest—pain's neighbor.
 
 She filed it: *karmic observation. Thread mechanics.*
 
 The filing was familiar. The walls were familiar.
 
-But the warmth in her hands would not explain itself as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
+But the warmth in her hands would never be explained as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
 
 
 *The pull toward him is tactical.*
@@ -200,9 +200,9 @@ The thought filed itself. Strategy required refinement. She had been too indirec
 
 But beneath the filing, something else stirred. The warmth. The walk. The memory of standing in rain outside philosophy faculty, feeling something that exceeded strategy.
 
-She had walked to where he would be. Not the historical consciousness—*him*. The present-day him. The one she had not yet met.
+She had walked to where he would be. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
 
-The thread hummed forward. Not toward Heian anymore—that branch complete, Kaoru dissolved into the pattern that continued—but toward Spain. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
+The thread hummed forward. Toward Spain rather than Heian—that branch complete, Kaoru dissolved into the pattern that continued. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
 
 Different cage. Different beauty. Different attachment requiring different intervention.
 
@@ -222,7 +222,7 @@ She followed.
 
 She did not ask why following felt more like falling than hunting.
 
-She did not notice that she had already begun thinking of him as *him*—not the thread, not the soul, not the consciousness requiring intervention—but *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
+She failed to notice that she had already begun thinking of him as *him*—the thread redefined, the soul personalized, the consciousness requiring intervention transformed into *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
 
 The flat held its beauty. The light held its softness. The cold ceramic in her hands warmed exactly as ceramic warmed, exactly as lacquer warmed, exactly as the objects of beauty always warmed when held too long.
 

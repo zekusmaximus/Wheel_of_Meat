@@ -2,7 +2,7 @@ Their fingers touched.
 
 The distance closed in that fractured instant between heartbeats—Stewart's hand reaching back toward the rooftop he'd stumbled past, Silas's hand reaching forward over the barrier's edge, the gap between them collapsing from inches to nothing. Skin met skin. Palm pressed against fingers. The city lights wheeled below them, indifferent to the axis on which everything turned.
 
-Silas's hip ground into the barrier wall as his weight shifted forward, farther than balance permitted, farther than his body could sustain without falling. Stewart's eyes caught the light from the streets below—no longer the terrible calm of moments ago, but something else now, something between surprise and the beginning of understanding. His mouth still held the shape of the words he'd been saying.
+Silas's hip ground into the barrier wall as his weight shifted forward, farther than balance permitted, farther than his body could sustain without falling. Stewart's eyes caught the light from the streets below—no longer the terrible calm of moments ago, but a different quality now, surprise mixing with the beginning of understanding. His mouth still held the shape of the words he'd been saying.
 
 *That thou—*
 
@@ -14,13 +14,13 @@ And then: impact from behind. Arms around his waist. The collision drove the air
 
 Three bodies. One chain. One system resisting the pull of the void below.
 
-Silas's grip on Stewart's hand tightened, fingers interlacing with fingers, and something in his chest—the thing that had been loosening all day, the threads of himself coming unknotted—reached a threshold. In the instant of reaching, the instant of holding, the instant of being held, the one who reached was absent.
+Silas's grip on Stewart's hand tightened, fingers interlacing with fingers, and the dissolution in his chest—the threads of himself coming unknotted all day—reached a threshold. In the instant of reaching, the instant of holding, the instant of being held, the one who reached was absent.
 
 Not suppressed. Not overcome. Absent.
 
 He felt his body perform the action—felt Stewart's weight, felt his muscles straining, felt Lilith's arms locked around his hips and the hard edge of the barrier digging into his pelvis—but the *he* that should have been doing these things could not be found. There was reaching. There was holding. There was the chain. But no one doing any of it.
 
-A gap opened in the center of experience. Not darkness—something beneath darkness, beneath light, beneath any quality that could be named. Reality blinked like a splice in old film, continuity broken and resumed in the same instant. The perceiver who should have been registering the moment was simply not there to register it, and in that absence, the moment registered itself.
+A gap opened in the center of experience. Not darkness—a quality beneath darkness, beneath light, beneath any category that could be named. Reality blinked like a splice in old film, continuity broken and resumed in the same instant. The perceiver who should have been registering the moment was simply not there to register it, and in that absence, the moment registered itself.
 
 Then the gap closed, and the perceiver returned to find itself already in the middle of holding on.
 
@@ -28,7 +28,7 @@ The chain held. Weight redistributed across the three of them—Lilith pulling b
 
 Lilith made a sound. Not words—something beneath words, torn from her chest. Her arms tightened around Silas, and he felt her body shaking against his back, tremors running through her that had nothing to do with exertion. She was pulling, and he was anchored by her pulling, and Stewart was anchored by him, and for a moment that stretched past measurement, they existed as a single organism of interlocked grip.
 
-But the tremors weren't collapse—they were recalibration. Something she had held as certainty for longer than this body could remember was rearranging itself, and her nervous system registered the shift before her mind could name it. She was still Lilith. Still capable. Still the anchor that kept them from falling. But the axis of everything she understood had just rotated, and the shaking was the machinery adjusting to a new orientation.
+But the tremors weren't collapse—they were recalibration. A certainty she had held for longer than this body could remember was rearranging itself, and her nervous system registered the shift before her mind could name it. She was still Lilith. Still capable. Still the anchor that kept them from falling. But the axis of everything she understood had just rotated, and the shaking was the machinery adjusting to a new orientation.
 
 Stewart's free hand found the barrier wall. His fingers scraped concrete, found purchase. Silas pulled, Lilith pulled, and Stewart's body rose—over the barrier's edge, back onto the rooftop, back into the world of surfaces and breath and continuing.
 
@@ -48,7 +48,7 @@ Beside him, Stewart was curled on his side, hands pressed against the concrete, 
 
 Her mask had shifted.
 
-Not the clinical precision he knew, not the composed professional or the calculated lover. Something showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. Something that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.
+Not the clinical precision he knew, not the composed professional or the calculated lover. Vulnerability showed through the reordering—not breakage but reconfiguration. She was still Lilith, still capable, but the axis of her composure had rotated. A quality that looked almost like recognition. Her eyes met his across the tangle of their bodies, and what passed between them had no name. Not a question, not an answer. A moment where two people who had been looking at each other across separate lives suddenly found no separation in the looking.
 
 She'd felt it too. He knew this with the same certainty that he knew his own absence in the moment of reaching. When she'd grabbed him, when her arms had locked around his body to anchor him to the rooftop—she'd felt what he'd felt. The boundary between her action and his dissolving. Her grasping becoming his reaching becoming Stewart's being reached for, all of it one gesture wearing three faces.
 
@@ -108,7 +108,7 @@ This was what Stewart had been reaching for without knowing how to reach. And th
 
 Lilith's voice cut through his reverie: "They're on their way."
 
-She was looking at him now, the phone lowered, and her eyes held something complex. Not the clinical mask, not the calculating lover, not the cracked vulnerability from moments ago. Something new, or newly revealed—an acknowledgment that whatever had passed between them on this rooftop had changed the terms of their arrangement.
+She was looking at him now, the phone lowered, and her eyes held a complexity. Not the clinical mask, not the calculating lover, not the cracked vulnerability from moments ago. A new quality, or newly revealed—an acknowledgment that whatever had passed between them on this rooftop had changed the terms of their arrangement.
 
 "Thank you," he said, and the words felt inadequate and complete at the same time.
 
@@ -288,7 +288,7 @@ He stayed for a few more minutes, letting the settling complete. Then he found t
 
 Morning light pressed against his eyelids.
 
-Silas opened his eyes to a ceiling he recognized—the familiar cracks and shadows of his bedroom in the faculty housing complex, the way the plaster caught the particular grey-gold of Manchester morning through curtains he never fully closed. He was in his bed. He was wearing yesterday's clothes, rumpled and still faintly damp. He had no memory of the drive home.
+Silas opened his eyes to a ceiling he recognized—the familiar cracks and shadows of his bedroom in the faculty housing complex, the way the plaster caught the grey-gold of Manchester morning through curtains he never fully closed. He was in his bed. He was wearing yesterday's clothes, rumpled and still faintly damp. He had no memory of the drive home.
 
 The clock on his bedside table read 8:47.
 
@@ -306,19 +306,19 @@ The mantra surfaced automatically, and he watched it rise like a bubble through 
 
 He sat up.
 
-The movement felt different. Not in his body—his body moved as it had always moved, subject to the same stiffness and physical memory. But the *one* who moved, the Silas who had always been so firmly located behind his eyes, driving the machine of himself through the world—that one was present only as a kind of playing. A useful fiction he was continuing to inhabit because the world was organized to require such fictions.
+The movement felt different. His body moved as it had always moved, subject to the same stiffness and physical memory. But the *one* who moved, the Silas who had always been so firmly located behind his eyes, driving the machine of himself through the world—that one was present only as a kind of playing. A useful fiction he was continuing to inhabit because the world was organized to require such fictions.
 
 The sheets tangled around his legs. He untangled them, swung his feet to the hardwood floor, registered the cold through his socks. His hands braced against the mattress and pushed him upright. Simple actions. Actions that had required no transformation to continue performing. The doing went on; the doer was revealed as optional.
 
 He walked to the window.
 
-The faculty housing complex looked out over a green space between buildings, trees and benches and a path that led toward the main campus. This morning, the green sparkled with the aftermath of the storm—droplets on leaves, puddles in the grass, the particular clean brightness that followed heavy rain. Students moved along the path with the distracted urgency of people who'd overslept.
+The faculty housing complex looked out over a green space between buildings, trees and benches and a path that led toward the main campus. This morning, the green sparkled with the aftermath of the storm—droplets on leaves, puddles in the grass, the clean brightness that followed heavy rain. Students moved along the path with the distracted urgency of people who'd overslept.
 
 Silas watched them without the familiar weight of professorial concern. There was a young woman rushing with coffee in one hand and a laptop case in the other. There was a cluster of students arguing about something, their voices too distant to distinguish but their gestures clear. There were all the currents of university life that he'd navigated for years, worrying about grade appeals and curriculum committees and who among these passing figures might be on the edge of something they couldn't handle.
 
 The worry wasn't there.
 
-Not absent the way it would be if he were depressed or empty—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the old compulsion was gone. He could care without needing to intervene. He could feel for them without that feeling demanding action.
+Present in a different way—he could feel concern rising naturally when he considered their lives, their struggles, the invisible crises they each carried. But the old compulsion was gone. He could care without needing to intervene. He could feel for them without that feeling demanding action.
 
 The absence was strange. Like discovering a roommate who'd always been there had moved out, leaving the apartment quieter but more spacious.
 
@@ -336,14 +336,14 @@ But there was no hurry. The morning could continue a while longer. The apple was
 
 Somewhere in the city, Lilith was with Stewart. He could feel her absence like a note held after the singer has stopped, a resonance in the space where her presence would have been. They were connected. They had been connected before he understood what connecting meant, and the connection would not dissolve just because they were in separate buildings, separate contexts, separate investigations.
 
-He would see her again. This certainty felt different from the wanting that would normally accompany such knowledge. Not desire, exactly. Not need. Something more like recognition, the way you recognize your own face in a photograph.
+He would see her again. This certainty felt different from the wanting that would normally accompany such knowledge. Recognition rather than desire or need, the way you recognize your own face in a photograph.
 
 For now: toast crumbs on his fingers. Coffee cooling. The green outside the window. And the new texture of his experience, humming quietly where the old urgencies used to live.
 
 
 He was standing at the window when the lives began to open.
 
-Not intruding—that was the difference from before. Yesterday's fragmentary flashes had been violent, disconnected, shards of glass catching light at painful angles. Blood in his mouth from a fight he couldn't place. A woman's face resolving from static. Words in languages he'd never learned. They had come like wounds, tearing through his ordinary experience without permission.
+They came differently this time. Yesterday's fragmentary flashes had been violent, disconnected, shards of glass catching light at painful angles. Blood in his mouth from a fight he couldn't place. A woman's face resolving from static. Words in languages he'd never learned. They had come like wounds, tearing through his ordinary experience without permission.
 
 Now they came like doors unlocking, one after another, down a hallway he hadn't known existed.
 
@@ -367,7 +367,7 @@ Philon. Athens now, the white columns and plague-stench, the impossible choice b
 
 *Wisdom is understanding context. Martyrdom is choosing self-image over service.*
 
-Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the particular blindness of those who need to be needed.
+Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the blindness of those who need to be needed.
 
 And the woman. The same face, different clothes, watching from outside the quarantine chamber. How had she gotten there? Why was she always watching?
 
@@ -379,7 +379,7 @@ Macarius. Egypt's desert silence, the emptiness against emptiness, where every p
 
 *True renunciation does not announce itself.*
 
-Kaoru. Heian Japan, where beauty was theology and longing was devotional practice. The particular quality of morning light through shoji screens, the poetry written to women he'd met once, the wife he'd neglected for aesthetic ideals that could not survive her death.
+Kaoru. Heian Japan, where beauty was theology and longing was devotional practice. Morning light through shoji screens, the poetry written to women he'd met once, the wife he'd neglected for aesthetic ideals that could not survive her death.
 
 *Beauty is flesh. Flesh is temporary. Neither truth cancels the other.*
 
@@ -405,11 +405,11 @@ The genres dissolved.
 
 Each life had worn its own shape—the terror of isolation, the weight of politics, the slow poison of philosophy, the loneliness of investigation, the silence of the desert, the ache of beauty, the patience of accusation, the wit that couldn't save itself, the conviction that burned everything, the rain that never stopped falling. Different shapes for the same soul, working out the same knots across time beyond measuring.
 
-The wheel became visible. Not metaphor—structure. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing—that one had thinned enough to perceive the ride.
+The wheel became visible. Structure rather than metaphor. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing—that one had thinned enough to perceive the ride.
 
 *And she was in all of them.*
 
-The thought arrived with the force of revelation. Not a single life without her watching. Not a single death without her presence somewhere at its edge. The same face, the same widow's peak, the same quality of seeing that had felt like judgment and pursuit and something else he couldn't name.
+The thought arrived with the force of revelation. Every life had her watching. Every death had her presence somewhere at its edge. The same face, the same widow's peak, the same quality of seeing that had felt like judgment and pursuit and something else he couldn't name.
 
 Why? Who was she? What connected her to every turn of the wheel he'd made?
 
@@ -528,13 +528,13 @@ For now: coffee, green space, morning light. And the strange new experience of p
 
 The morning ripened toward noon, and everything settled.
 
-Not concluded—settled. The way sediment settles after turbulence, revealing the water's clarity. The elements that had been swirling through his consciousness were still there, but they'd found their places. The rooftop. The reaching. The absence where he should have been. The lives flowing through. Her face constant across all of them. The thread that connected them now.
+Settled rather than concluded. The way sediment settles after turbulence, revealing the water's clarity. The elements that had been swirling through his consciousness were still there, but they'd found their places. The rooftop. The reaching. The absence where he should have been. The lives flowing through. Her face constant across all of them. The thread that connected them now.
 
-All of it present. All of it integrated. Not understood—that would take longer, maybe lifetimes—but integrated, the way a body integrates food into muscle and bone without understanding the chemistry.
+All of it present. All of it integrated. Understanding would take longer, maybe lifetimes—but integration had already happened, the way a body integrates food into muscle and bone without understanding the chemistry.
 
 He was ready to move.
 
-The recognition came without announcement. His body had finished processing what his mind hadn't caught up with, and now it wanted motion. Not urgency—just readiness. The still point had held long enough. Time to step back into the stream.
+The recognition came without announcement. His body had finished processing what his mind hadn't caught up with, and now it wanted motion. Readiness rather than urgency. The still point had held long enough. Time to step back into the stream.
 
 What came after?
 
@@ -550,7 +550,7 @@ Her name arose naturally, the way morning mist rises when sun warms air. She was
 
 They would meet again. He could feel the certainty the way he'd felt her presence across distance. And when they met, something would clarify. Or deepen. Or transform again.
 
-He walked to his front door. Not driven, not urgent—just the body ready to move, to step outside, to continue the day that was unfolding. His hand found the doorknob, cool brass worn smooth by the hands of faculty members who'd lived here before him.
+He walked to his front door. The body simply ready to move, to step outside, to continue the day that was unfolding—no drive, no urgency. His hand found the doorknob, cool brass worn smooth by the hands of faculty members who'd lived here before him.
 
 The door opened.
 

@@ -134,11 +134,11 @@ The pressure continued.
 
 Hong Xiuquan died on the first day of the sixth month. Official story: ascended to heaven to sit at the right hand of the Heavenly Father. Whispered truth: ate manna, went mad, died raving. They found him in his chambers with green paste on his lips and his eyes rolled back and the theological architecture of the Heavenly Kingdom evacuated from his skull, leaving only meat that had believed itself divine and discovered too late the body's veto over doctrine.
 
-Wei felt nothing when the news came. The emptiness where faith had been was not new emptiness—it had been hollowing for months, for years, since the first time he'd watched someone he'd saved die for reasons he couldn't explain, since the pattern had become undeniable, since the whispers started and he'd begun to see himself as the curse rather than the cure.
+Wei felt nothing when the news came. The emptiness where faith had been had been hollowing for months, for years, since the first time he'd watched someone he'd saved die for reasons he couldn't explain, since the pattern had become undeniable, since the whispers started and he'd begun to see himself as the curse rather than the cure.
 
 The Heavenly King was dead. The kingdom was dying. And Wei had become a student of patterns he could not break.
 
-That night—June third, 1864, though he'd stopped tracking dates with the same precision he'd once tracked saved versus lost—Wei sat in the empty Buddha alcove of the converted temple. The idol had been smashed years ago when the Taiping first took Tianjing, when they'd declared all other gods false and only the Heavenly Father true. Now the alcove held nothing. Just stone and shadow and the particular quality of absence that marked where something sacred had been removed.
+That night—June third, 1864, though he'd stopped tracking dates with the same precision he'd once tracked saved versus lost—Wei sat in the empty Buddha alcove of the converted temple. The idol had been smashed years ago when the Taiping first took Tianjing, when they'd declared all other gods false and only the Heavenly Father true. Now the alcove held nothing. Just stone and shadow and the quality of absence that marked where the sacred had been removed.
 
 He sat in that absence and made a decision.
 
@@ -160,9 +160,7 @@ Whose paralysis is this?
 
 The question arrived and she dismissed it immediately. Filed it with the other cognitive noise—the hesitations she'd been suppressing since Macarius, the pull toward Silas that exceeded tactical necessity, the kinship she kept recognizing and refusing to examine.
 
-Not relevant. Not now.
-
-What mattered was the work.
+Irrelevant. The work was what mattered.
 
 In Tianjing, Wei sat motionless in the empty alcove. In Manchester, Lilith sat motionless in her chair. Rain continued. Siege continued. Both of them waiting in the space between action and paralysis, between helping and stopping, between the compulsion that had defined them and the recognition that the compulsion might be destroying rather than serving.
 

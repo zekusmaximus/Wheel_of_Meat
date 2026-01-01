@@ -8,7 +8,7 @@ Diego pressed the pestle against the mortar's curve. The powder released its sce
 
 A shadow crossed the threshold.
 
-"Physician." Don Cristóbal's voice carried the particular warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old Christian merchant and New Christian tradesman. "I trust you have prepared the remedy."
+"Physician." Don Cristóbal's voice carried the warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old Christian merchant and New Christian tradesman. "I trust you have prepared the remedy."
 
 "As always, Don Cristóbal." Diego set down the pestle and touched his fingers together in sequence once more—index, middle, ring, smallest—before reaching for a cloth to wrap the prepared compound. The gesture was automatic, a physician's habit of checking his steadiness before handling medicines. Or that was how he explained it to himself. "The formula that has served you well these past months. Mix one measure in warmed wine, morning and evening. The inflammation should ease within the week."
 
@@ -36,7 +36,7 @@ His wife Inés appeared in the doorway instead, her face pale beneath her veil.
 
 "Diego." She kept her voice low. "Tomás's son has been arrested."
 
-The room did not spin. The walls did not close. Diego's hands touched the table's edge and remained there, steady as always, while something beneath his ribs—something he had learned not to name—went very still.
+The room did not spin. The walls did not close. Diego's hands touched the table's edge and remained there, steady as always, while the unnamed thing beneath his ribs went very still.
 
 "What charges?"
 
@@ -50,11 +50,11 @@ She did not need to finish. If they questioned Rafael, they would ask about his 
 
 Something cold moved through Diego's chest—not fear, because fear was not permitted, but a cousin to fear, a shadow-feeling he could not quite dismiss. Sor Catalina. The beata known throughout Toledo for her visions and her counsel. A holy woman sought by nobles and peasants alike, who spoke with the certainty of one who believed herself an instrument of God's will.
 
-Diego had seen her in the streets. Dark hair beneath her veil, a particular stillness in how she moved, eyes that seemed to look through the surface of things to some truth beneath. He had never liked her. Could not say why. The dislike had no rational source—she had never spoken to him, never acknowledged his existence. But something about her face made his skin tighten, made the breath catch in his throat as though he stood at the edge of some precipice he could not see.
+Diego had seen her in the streets. Dark hair beneath her veil, a stillness in how she moved, eyes that seemed to look through the surface of things to some truth beneath. He had never liked her. Could not say why. The dislike had no rational source—she had never spoken to him, never acknowledged his existence. But her face made his skin tighten, made the breath catch in his throat as though he stood at the edge of some precipice he could not see.
 
 "What would Sor Catalina want with Tomás?"
 
-"She counsels those in distress." Inés's voice carried an edge Diego recognized—the particular wariness that came from living always on guard, always watching, always aware that survival meant reading the spaces between words. "They say she helps people confess their burdens. That the Holy Office values her guidance."
+"She counsels those in distress." Inés's voice carried an edge Diego recognized—the wariness that came from living always on guard, always watching, always aware that survival meant reading the spaces between words. "They say she helps people confess their burdens. That the Holy Office values her guidance."
 
 The brazier hissed. A log settled, sending up a small shower of sparks that died before they reached the floor.
 
@@ -199,7 +199,7 @@ He heard the footsteps then. Multiple men. Heavy boots on cobblestones. The meas
 
 The footsteps stopped.
 
-Not at a neighboring house. Not at Tomás's door across the lane. They stopped outside Diego's threshold, and in the moment before the knock came, he understood with absolute clarity that his life—the careful construction of usefulness and safety, the performance maintained across decades, the bargain he had made with a world that never agreed to its terms—had just ended.
+They stopped outside Diego's threshold—neither at a neighboring house nor at Tomás's door across the lane—and in the moment before the knock came, he understood with absolute clarity that his life—the careful construction of usefulness and safety, the performance maintained across decades, the bargain he had made with a world that never agreed to its terms—had just ended.
 
 The knock split the silence like an axe through bone.
 
@@ -223,7 +223,7 @@ Inés appeared beside him, her veil thrown hastily over her nightshift, her face
 
 "I love you," she whispered.
 
-Diego could not answer. The words locked in his throat, too large to pass, too weighted with everything unsaid across twenty years of marriage lived in performance and fear. He touched his free hand to her face—felt the wetness of tears she had not made sound for—and then drew back the bolt.
+Diego could not answer. The words locked in his throat, too large to pass, too weighted with everything unsaid across twenty years of marriage lived in performance and fear. He touched his free hand to her face—felt the wetness of silent tears—and then drew back the bolt.
 
 The door swung open.
 
@@ -245,7 +245,7 @@ Tomás. It had to be Tomás. The Holy Office had questioned Rafael about his fat
 
 "You will come as you are."
 
-One of the younger familiares stepped forward with a length of rope. Not chains—the Holy Office did not chain its prisoners through public streets, did not make spectacle of arrests. The restraint was almost gentle, a formality rather than a weapon, the rope looped around Diego's wrists with the care a physician might use binding a wound.
+One of the younger familiares stepped forward with a length of rope. The Holy Office used rope rather than chains through public streets, avoiding spectacle in its arrests. The restraint was almost gentle, a formality rather than a weapon, the rope looped around Diego's wrists with the care a physician might use binding a wound.
 
 Diego looked at Inés. She stood in the doorway, her hand pressed to her mouth, her eyes wide and dry now, shock burning away tears. He wanted to tell her to run, to leave Toledo, to find her sister in Córdoba and deny everything. But the familiares would be watching. They would question her. They would ask what a physician's wife knew of her husband's practices, what prayers she had heard, what candles she had lit.
 
@@ -257,7 +257,7 @@ It was the right script. The necessary denial. Diego heard the plea beneath the 
 
 He could give her nothing except silence. The familiares were already turning, already guiding him into the street with hands that pressed against his shoulders but did not push, that directed without violence, that performed the courtesy of treating him as though he still deserved the dignity accorded to human beings rather than heretics awaiting cleansing.
 
-The street remained empty as they walked. Not empty of people—Diego could feel the eyes behind every shutter, the held breath of neighbors who knew him, who had bought his medicines, who had shared the same Quarter and the same fear and the same calculation that now kept them hidden lest association prove contagious.
+The street remained empty as they walked. Empty of bodies but full of watching—Diego could feel the eyes behind every shutter, the held breath of neighbors who knew him, who had bought his medicines, who had shared the same Quarter and the same fear and the same calculation that now kept them hidden lest association prove contagious.
 
 The sky was lightening. Dawn would break within the hour. The city would wake and go about its business, and Diego's absence would be noted, remarked upon, accepted. *The physician has been taken. He must have been guilty. The Holy Office does not err. God's will be done.*
 
@@ -265,7 +265,7 @@ They passed Tomás's house. The door stood closed. The shutters drawn. No sign o
 
 Tomás. Watching the consequences of his testimony. Witnessing the friend he had condemned being led away to imprisonment and interrogation and, if confession did not come quickly enough, to suffering designed to encourage the soul's cleansing through the body's breaking.
 
-Something moved in Diego's chest. Not quite hatred—not yet—but the seed from which hatred might grow. The recognition that Tomás had chosen. That the choice might have been impossible, might have been understandable, but had still been made. That Diego walked toward imprisonment while Tomás watched from safety purchased with betrayal.
+A feeling stirred in Diego's chest. The seed from which hatred might grow—though not quite hatred yet. The recognition that Tomás had chosen. That the choice might have been impossible, might have been understandable, but had still been made. That Diego walked toward imprisonment while Tomás watched from safety purchased with betrayal.
 
 The seed found fertile ground. Diego felt it take root somewhere beneath his ribs, in the space where the physician's calm had always lived, where steadiness had been cultivated across decades of practice. The root pushed down and down, finding purchase in soil that had been prepared—without his knowledge, without his consent—by forty-three years of swallowed rage, suppressed grief, and the exhaustion of performing faith in a God whose Church wanted him dead.
 

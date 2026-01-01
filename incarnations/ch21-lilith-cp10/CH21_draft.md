@@ -149,7 +149,7 @@ He opened the door—
 
 —the smell of old leather, cigarettes, the mustiness of sitting too long—
 
-—the smell of wine, cologne, the particular staleness of institutional air—
+—the smell of wine, cologne, the staleness of institutional air—
 
 The car seat creaked as Jack settled behind the wheel.
 
@@ -169,9 +169,9 @@ Silas turned toward her—
 
 —their eyes met across the wet pavement—
 
-—something flickered in his expression, recognition that couldn't quite catch—
+—recognition flickered in his expression, unable to catch—
 
-—something flickered in her left eye, the pale green crescent—
+—her left eye flickered, the pale green crescent—
 
 —a passerby, rushing to avoid—
 
@@ -187,15 +187,15 @@ He turned the key—
 
 White. Heat. The silence after noise.
 
-Something tore in her chest. Sharp. Localized. Real.
+A tearing in her chest. Sharp. Localized. Real.
 
 The explosion registered as pressure first—wave of force, glass shattering, metal screaming—and then as pain that had no source in her body, no wound in her chest, nothing that explained why she was doubled over in Manchester while a car burned in Los Angeles while the reception continued around her and no one noticed that she had stopped breathing.
 
 His death. Felt in her body.
 
-Filed under exhaustion. Not examined.
+Filed under exhaustion. Left unexamined.
 
-She kept walking—through the reception, toward Silas, away from the burning Buick—both motions the same gesture, the approach and the retreat indistinguishable. The ache in her chest where Jack's death still echoed. The pull toward Silas that had exceeded strategy somewhere in the last thirty seconds and become something else, something she would not name.
+She kept walking—through the reception, toward Silas, away from the burning Buick—both motions the same gesture, the approach and the retreat indistinguishable. The ache in her chest where Jack's death still echoed. The pull toward Silas that had exceeded strategy somewhere in the last thirty seconds and become what she would not name.
 
 The rain fell in both cities. The violence continued in both registers.
 
@@ -227,7 +227,7 @@ The words arrived without source, without doctrine, just the weight of necessity
 
 Be close enough to intervene at the critical moment.
 
-But even as the strategy formed, something beneath it stirred. Something that had nothing to do with intervention and everything to do with the pain in her chest, the pull in her architecture, the recognition she kept experiencing and refusing to name.
+But even as the strategy formed, a current beneath it stirred—with nothing to do with intervention and everything to do with the pain in her chest, the pull in her architecture, the recognition she kept experiencing and refusing to name.
 
 She stood very still. Let the pain move through her. Let the realization settle.
 

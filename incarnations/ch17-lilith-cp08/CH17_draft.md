@@ -35,7 +35,7 @@ Marguerite's face held the markers Lilith had worn in every life she could remem
 
 And Marguerite genuinely believed what she was about to say.
 
-That was the elegance of the method. Not possession—Lilith did not become the widow, did not override her consciousness or speak with her mouth as if puppeting empty flesh. She pushed *through*. Amplified what was already there. Marguerite Viret had typeset Montaigne's Essays letter by letter, had absorbed the arguments about the unreliability of testimony and the limitations of human knowledge simply by arranging the words across hundreds of pages. Her skepticism was earned. Her philosophy was genuinely hers.
+That was the elegance of the method. Amplification rather than possession—Lilith never became the widow, never overrode her consciousness or spoke with her mouth as if puppeting empty flesh. She pushed *through*. Amplified what was already there. Marguerite Viret had typeset Montaigne's Essays letter by letter, had absorbed the arguments about the unreliability of testimony and the limitations of human knowledge simply by arranging the words across hundreds of pages. Her skepticism was earned. Her philosophy was genuinely hers.
 
 Lilith simply ensured the philosophy reached its intended target.
 
@@ -43,13 +43,13 @@ Lilith simply ensured the philosophy reached its intended target.
 
 The words came from Marguerite's mouth with the conviction of decades: "I believe truth exists. I do not believe it can be reliably accessed through human testimony."
 
-And in Manchester, Lilith felt the satisfaction of precision deployed. The arguments were working. Jean de Langon stood in the print shop with pamphlets in his hands and doubt in his posture, and he was *listening*. Not to manipulation—to ideas he had already considered, articulated by someone who voiced them better than he could voice them himself.
+And in Manchester, Lilith felt the satisfaction of precision deployed. The arguments were working. Jean de Langon stood in the print shop with pamphlets in his hands and doubt in his posture, and he was *listening*. To ideas he had already considered, articulated by someone who voiced them better than he could voice them himself.
 
 The seduction of being understood.
 
 Cold tea on her desk. Cold metal type under Marguerite's fingers. Both women working with letters, with words, with the precise arrangement of meaning to produce specific effects.
 
-The difference—the one Lilith did not let herself consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
+The difference—the one Lilith refused to consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
 
 Jean's finger-touching sequence began: thumb to index. Counting the possibilities. Weighing the implications.
 
@@ -99,7 +99,7 @@ She did not forge it. The letter was genuine—authentic Protestant corresponden
 
 Lilith's contribution was timing. Precision. The subtle push that sent Jean de Langon to the print shop on this day, directed him to this cabinet, made him open this folder at this moment.
 
-"Nearly missed it," Marguerite murmured, and the words were her own—the widow's genuine observation at finding something misfiled. "Among other correspondence. The provenance is uncertain."
+"Nearly missed it," Marguerite murmured, and the words were her own—the widow's genuine observation at finding a misfiled document. "Among other correspondence. The provenance is uncertain."
 
 Jean's hands closed around the document. Through Marguerite's eyes, Lilith watched his face change: the careful neutrality cracking, the fortress shaking. Evidence that could resolve his investigation. Evidence he could not verify.
 
@@ -119,20 +119,20 @@ Jean could not determine which it was. That was the point. The genuine ambiguity
 
 He folded the letter carefully. His fingers touched in sequence: thumb to index, index to middle, middle to ring. Counting possibilities. Measuring absence.
 
-Lilith felt the certainty crystallize: *This will work. The letter's ambiguity will paralyze him. One more push and—*
+Lilith felt certain: *This will work. The letter's ambiguity will paralyze him. One more push and—*
 
-Something flickered. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
+A flicker. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
 
 She filed it under strategic assessment and continued positioning the trap.
 
 
-The print shop at midnight held the particular intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
+The print shop at midnight held the intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
 
 Jean had come to her—Lilith felt that satisfaction pulse through both timelines—had sought out philosophical conversation at an hour when most men sought only their beds. His fortress was crumbling. His tools had failed. All that remained was the final push toward paralysis.
 
 "What if you submitted nothing?" Marguerite asked. Her voice—the widow's voice, genuine and measured—carried the argument Lilith had spent millennia refining. "What if you returned to the magistrate and said: the evidence is insufficient, the testimony contradictory, the truth inaccessible. I cannot in honesty conclude."
 
-Jean set down his wine cup. His face held the particular stillness of a man confronting the logical endpoint of his own principles.
+Jean set down his wine cup. His face held the stillness of a man confronting the logical endpoint of his own principles.
 
 "That is surrender."
 
@@ -164,7 +164,7 @@ Jean touched his fingers one final time. Thumb to index. The gesture that had be
 
 Then he looked up.
 
-And something in his face had changed.
+And his face had changed.
 
 
 "You offer me a fortress," Jean said. "The same fortress I have inhabited my entire career."
@@ -222,7 +222,7 @@ A blade took him in the side. Another found his throat.
 
 And in the last bleeding moments, Jean de Langon looked at the stars beginning to show between clouds and said what would matter: "I told the truth about what I didn't know. That was mine to give."
 
-Something tightened in Lilith's chest that she refused to name.
+Tightness in Lilith's chest—she refused to name it.
 
 He was dying for honest uncertainty. For the report he had submitted despite knowing it would satisfy no one. For the choice she had tried to prevent him making—and had only made more pure by her opposition.
 
@@ -236,7 +236,7 @@ Eight interventions. Eight backfires.
 
 The precision itself had created the friction that forged his breakthrough.
 
-Something in her chest—not grief, she could not afford grief—pulled toward him. Toward continuing. Toward *what?*
+A pull in her chest—she could not afford to call it grief—drew her toward him. Toward continuing. Toward *what?*
 
 The race. The stakes. Strategic necessity.
 

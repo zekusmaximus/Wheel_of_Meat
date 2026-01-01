@@ -6,21 +6,21 @@
 
 Rain drummed the window and the warehouse ledgers, the sound falling through three hundred thousand years and two thousand miles to land on surfaces that had never touched and would never touch, except here, except now, in the place where she held both at once.
 
-Lilith's tea had gone cold beside her laptop. The flat held its after-midnight silence—radiator ticking, the distant arterial hum of Wilmslow Road, the particular emptiness of a space no one visited. Days had passed since Ka. The prehistoric thread had receded into her awareness like a tide withdrawing, leaving deposits she had not yet fully examined. But now another thread hummed at the edge of perception—different from Ka's primal hunger, this one structured, layered, administrative.
+Lilith's tea had gone cold beside her laptop. The flat held its after-midnight silence—radiator ticking, the distant arterial hum of Wilmslow Road, the emptiness of a space no one visited. Days had passed since Ka. The prehistoric thread had receded into her awareness like a tide withdrawing, leaving deposits she had yet to fully examined. But now another thread hummed at the edge of perception—different from Ka's primal hunger, this one structured, layered, administrative.
 
 Numbers. She could feel numbers the way Ka's world had offered body-knowledge. Columns arranging themselves in the dark. Calculations pressing against the edges of consciousness with the weight of obligations unmet.
 
-The rain shifted against her window, harder now, and in the shift she felt another rhythm: monsoon season pressing against terracotta roofs, water finding channels carved by centuries of similar pressure, the particular sound of abundance that would become scarcity before the season turned. Her hand reached for the mug—fingers closing around ceramic gone cold—and the gesture was also another hand reaching for chai beside palm-leaf ledgers, the same automatic movement toward warmth that would not come.
+The rain shifted against her window, harder now, and in the shift she felt another rhythm: monsoon season pressing against terracotta roofs, water finding channels carved by centuries of similar pressure, the sound of abundance that would become scarcity before the season turned. Her hand reached for the mug—fingers closing around ceramic gone cold—and the gesture was also another hand reaching for chai beside palm-leaf ledgers, the same automatic movement toward warmth that would not come.
 
 *Chandra.*
 
-The name surfaced from the thread itself, dense with context Ka's prehistoric consciousness could never have held. An administrator in the Mauryan administration, former merchant, a man who had traded the guild halls for imperial service and brought with him the particular disease of thinking in quantities. She could feel the shape of him against her awareness: precise, controlled, calculating.
+The name surfaced from the thread itself, dense with context Ka's prehistoric consciousness could never have held. An administrator in the Mauryan administration, former merchant, a man who had traded the guild halls for imperial service and brought with him the disease of thinking in quantities. She could feel the shape of him against her awareness: precise, controlled, calculating.
 
-Calculating. The word echoed strangely. She knew something about calculation.
+Calculating. The word echoed strangely. She knew calculation intimately.
 
 In Pataliputra, Chandra sat in the weighted silence of his office, stylus moving across palm leaves in the rhythm she recognized from her own documentation habits. Grain received. Grain distributed. Loss rates attributed to vermin, spoilage, the inevitable friction of moving goods across distance. He trusted these numbers the way other men trusted gods—with a devotion that expected reward.
 
-The thread she followed was old in a different way than Ka's. Not temporal depth but architectural complexity—a consciousness that had learned to build systems, to see patterns in aggregate, to miss the individual in favor of the sum.
+The thread she followed was old in a different way than Ka's. Architectural complexity rather than temporal depth—a consciousness that had learned to build systems, to see patterns in aggregate, to miss the individual in favor of the sum.
 
 She watched him work. Her eyes were closed in Manchester, her body motionless in the armchair by the window, but in the other place—the place between—she observed him with a clarity that exceeded normal vision. He did not sleep with his wife as she slept. He worked while others dreamed, refining figures that would determine who received and who went without.
 
@@ -28,11 +28,11 @@ There was a relationship. She found it layered beneath the surface of his attent
 
 Beneath the trust: tension. She could feel it in the way Chandra's thoughts paused around Devaka's name, the microscopic hesitation that suggested awareness suppressed rather than absent.
 
-A choice not yet made.
+A choice yet to be made.
 
-The tea beside her had developed a film. She could not have said whether it was the same pot or a different one. The rain had shifted—harder now, or softer. Some part of her registered that the day had changed while she was inside Chandra's thread.
+The tea beside her had developed a film. She could have said whether it was the same pot or a different one. The rain had shifted—harder now, or softer. Some part of her registered that the day had changed while she was inside Chandra's thread.
 
-She did not move to make fresh tea. She did not check the time. She leaned closer to the thread, and something in her recognized the tension around Devaka as leverage.
+She did not move to make fresh tea. She did not check the time. She leaned closer to the thread, and the tension around Devaka registered as leverage.
 
 
 ## II
@@ -41,45 +41,45 @@ The vibration was different than anything she had felt before—a hum beneath he
 
 Devaka's choice-point hummed at the edge of the thread like a plucked string that refused to settle. Fifteen years of loyalty. Fifteen years of calculation—because Devaka calculated too, she could see that now. The fear-threads ran through him like cracks in porcelain: the growing awareness that Chandra's reformist zeal had made enemies, that the grain conspiracy reached higher than warehouse keepers, that association with an investigator becoming a liability.
 
-She leaned closer to observe. Her body remained in the flat—rain against windows, cold tea beside her laptop, the particular stillness of a space held too long—but her attention pressed against the membrane of the thread, seeking the point where Devaka's loyalty might hold or break.
+She leaned closer to observe. Her body remained in the flat—rain against windows, cold tea beside her laptop, the stillness of a space held too long—but her attention pressed against the membrane of the thread, seeking the point where Devaka's loyalty might hold or break.
 
 And then she felt it.
 
 Her focus had weight. Her attention collapsed probabilities.
 
-The discovery stopped her. In the flat her hands tightened on the arms of her chair, the sensation registering across both frames—her fingers on worn fabric, Chandra's stylus pausing mid-character as if something in the air had shifted. This was not what she had meant to do. She had been observing, only observing, the way she had observed Ka's slow failure without intervention.
+The discovery stopped her. In the flat her hands tightened on the arms of her chair, the sensation registering across both frames—her fingers on worn fabric, Chandra's stylus pausing mid-character as if the air had shifted. This was what she had meant to do. She had been observing, only observing, the way she had observed Ka's slow failure without intervention.
 
 But Devaka's choice was different. Unresolved. Balanced on an edge so fine that any pressure would tip it.
 
 She could press. She understood that now with a clarity that felt like discovery and like memory at once. The capacity had been there—would always have been there—but until this moment she had not found a thread so delicately poised that observation itself became influence.
 
-Something made her pause.
+A pause arrested her.
 
-Not conscience—she had no objection to intervention, not in principle. Not doubt about the outcome—Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand that his reformist certainty would destroy him if it continued to make allies of enemies. She was helping him. This pressure on Devaka would accelerate a betrayal that was already forming, would crystallize a lesson he needed to learn, would serve his development in ways his own blindness could not.
+She had no objection to intervention in principle. Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand that his reformist certainty would destroy him if it continued to make allies of enemies. She was helping him. This pressure on Devaka would accelerate a betrayal that was already forming, would crystallize a lesson he needed to learn, would serve his development in ways his own blindness could.
 
-Something else. Something stranger.
+But there was a strangeness.
 
 Before she leaned into the choice-point, she felt—
 
-She did not have a word for what she felt. A sense that she was about to do something to herself as much as to him. A flicker of wrongness that existed beneath thought, in the body-knowing place where Ka's awareness had lived. Her Manchester hands trembled on the chair arms and her attention trembled at the edge of Devaka's thread and for three heartbeats she did not move in either frame.
+She did not have a word for what she felt. A sense that she was about to do this to herself as much as to him. A flicker of wrongness that existed beneath thought, in the body-knowing place where Ka's awareness had lived. Her Manchester hands trembled on the chair arms and her attention trembled at the edge of Devaka's thread and for three heartbeats she did not move in either frame.
 
 Then she pushed through it.
 
-The fear-thread blazed white under her focus. The loyalty-thread dimmed—not extinguished, but weakened, starved of the attention that might have sustained it. Something shifted in the pattern of Devaka's choosing, and she felt her own presence inside the shift. Participant. Not witness.
+The fear-thread blazed white under her focus. The loyalty-thread dimmed—weakened, starved of the attention that might have sustained it. The pattern of Devaka's choosing shifted, and she felt her own presence inside the shift. Participant rather than witness.
 
 The collapse was immediate. Devaka's self-preservation crystallized into decision: the conspirators would learn what Chandra knew. The betrayal would proceed. The lesson would be taught.
 
-She wrenched back to Manchester, her breath coming hard, her hands still gripping the chair arms with a force that would leave marks in the fabric. The flat reasserted itself around her—rain, silence, the cold tea, the dim light—but something new hummed beneath her sternum.
+She wrenched back to Manchester, her breath coming hard, her hands still gripping the chair arms with a force that would leave marks in the fabric. The flat reasserted itself around her—rain, silence, the cold tea, the dim light—but a new hum pulsed beneath her sternum.
 
 Satisfaction.
 
-Her hands were steadier than they should have been. The tremor that had preceded the intervention had vanished, replaced by a certainty she could not quite name. She had done something. She had *made* something happen. The thread she tracked was no longer simply observed but shaped, guided, directed toward an outcome she had chosen.
+Her hands were steadier than they should have been. The tremor that had preceded the intervention had vanished, replaced by a certainty she could not quite name. She had done this. She had *made* this happen. The thread she tracked was no longer simply observed but shaped, guided, directed toward an outcome she had chosen.
 
 *Focused attention appears to affect unresolved choice-points.* The clinical language formed itself automatically. *Mechanism unclear. Effect unintended.*
 
-But she knew. The language was documentation, not truth. She had felt herself inside the collapse. She had made the betrayal inevitable.
+But she knew. The language was documentation, never truth. She had felt herself inside the collapse. She had made the betrayal inevitable.
 
-Her headache bloomed belatedly, pressing against her temples with the cost of proximity. Her breath had quickened without her notice. Something like hunger moved in her chest—unfamiliar and unnamed, a new kind of wanting that had nothing to do with the tea she still had not drunk.
+Her headache bloomed belatedly, pressing against her temples with the cost of proximity. Her breath had quickened without her notice. Hunger moved in her chest—unfamiliar and unnamed, a new kind of wanting that had nothing to do with the tea she still had not drunk.
 
 The rain continued against the window. Chandra continued his work, unaware that his closest ally had already been turned. Devaka continued to calculate, the fear now dominant, the loyalty a memory he would eventually forget he had ever held.
 
@@ -94,13 +94,13 @@ The thread unspooled through time with a momentum she had not created but had sh
 
 In Manchester, days dissolved. She sat in her tracking corner—the armchair by the window where observation had become something else—and watched the machinery complete its turning. Fresh tea had appeared beside her at some point; she did not remember making it. The steam rose from the mug in thin spirals, untouched, cooling.
 
-Chandra's investigation proceeded with the particular efficiency of a man who trusted his methods. She watched him examine grain weights, uncover the substitution scheme, confront the warehouse keeper whose name—Vikram—she filed alongside the other data points. She watched his certainty build like water behind a dam that would not hold.
+Chandra's investigation proceeded with the efficiency of a man who trusted his methods. She watched him examine grain weights, uncover the substitution scheme, confront the warehouse keeper whose name—Vikram—she filed alongside the other data points. She watched his certainty build like water behind a dam that would not hold.
 
 She could see what he could not.
 
 The pattern was clear from her vantage: Devaka's subtle hesitations, the microscopic tells that should have registered after fifteen years of partnership. The way his hands steadied when they should have trembled. The way his eyes measured distances when they should have held contact. She observed these failures of concealment with clinical precision, noting each one, cataloguing the architecture of a betrayal she had made inevitable.
 
-Chandra noticed some of it. The thread vibrated with his subliminal recognition—the splinter in his thoughts that would not dislodge—but his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested. Fifteen years of calculation told him Devaka was loyal; the calculation could not be wrong.
+Chandra noticed some of it. The thread vibrated with his subliminal recognition—the splinter in his thoughts that refused to dislodge—yet his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested. Fifteen years of calculation told him Devaka was loyal; the calculation could not be wrong.
 
 *The numbers have never betrayed me.*
 
@@ -114,7 +114,7 @@ The temple passage approached in the thread. Guards emerging from shadows. Devak
 
 She leaned into the moment, letting it dominate.
 
-Stone walls pressed close in the torchlight. The smell of incense masked the sharper smell of fear. Chandra's face—she saw it through his own awareness, reflected in the polished surface of a ceremonial knife—moving from confusion to comprehension to something she could not name. Not anger. Not grief. Something colder.
+Stone walls pressed close in the torchlight. The smell of incense masked the sharper smell of fear. Chandra's face—she saw it through his own awareness, reflected in the polished surface of a ceremonial knife—moving from confusion to comprehension to something she could not name. Something colder than anger, deeper than grief.
 
 *Fifteen years counts for something.*
 
@@ -139,9 +139,9 @@ She watched it through the thread—smoke rising from warehouses, workers fleein
 
 He chose the records. He chose the burning building. He chose precisely what she would have predicted.
 
-Then something shifted.
+Then a shift.
 
-In the chaos of the fire, in the smoke and screaming and the particular clarity that catastrophe sometimes granted, she felt the pattern of his consciousness *turn*. Not away from calculation—he could never be fully free of that, the numbers were woven too deeply into his framework—but toward something the numbers could not hold. The woman with the infant. The elderly worker whose name he had never asked. The faces he had looked away from when looking would have cost him nothing.
+In the chaos of the fire, in the smoke and screaming and the clarity that catastrophe sometimes granted, she felt the pattern of his consciousness *turn*. Calculation remained—he could never be fully free of that, the numbers were woven too deeply into his framework—but turned toward what the numbers could not hold. The woman with the infant. The elderly worker whose name he had never asked. The faces he had looked away from when looking would have cost him nothing.
 
 He understood. In the moment of choosing wrong, he understood what choosing right would have meant.
 
@@ -153,7 +153,7 @@ Nothing was personal. Everything was calculation. The satisfaction she had felt 
 
 The thought formed itself with clinical precision. *The betrayal taught him that giving cannot be transactional. The lesson crystallized.*
 
-In Manchester, hours had passed again. The light through her window had shifted from amber to grey to something approaching dark. Fresh tea sat beside her, untouched, its steam long since dissipated. Her body ached in places she had not noticed straining—shoulders from gripping the chair, neck from holding still too long, temples from the headache that had not fully released. Her fingers, when she uncurled them from the armrests, left crescents pressed into her palms.
+In Manchester, hours had passed again. The light through her window had shifted from amber to grey to something approaching dark. Fresh tea sat beside her, untouched, its steam long since dissipated. Her body ached in places she had failed to notice straining—shoulders from gripping the chair, neck from holding still too long, temples from the headache that had not fully released. Her fingers, when she uncurled them from the armrests, left crescents pressed into her palms.
 
 She made herself stand. Her legs protested the motion like wood too long unworked. The flat felt strange around her—too empty, too quiet, too much like the cave where Ka had hoarded meat against a cold that eventually took him anyway.
 
