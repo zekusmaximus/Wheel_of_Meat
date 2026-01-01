@@ -2,17 +2,17 @@ The walls had moved closer while she wasn't looking. Her flat—still arranged, 
 
 Week six. Or seven. The counting had become imprecise.
 
-Lilith carried the cup to the sink and the motion was also Sor Catalina moving through the converso quarter—grey habit against grey walls, certainty against uncertainty, the particular stillness of a holy woman whose visions required no justification. She felt the weight of that habit across her shoulders, felt the smooth grain of rosary beads against her palm, felt the conviction that had filled her centuries ago: *confession cleanses. The Holy Office is mercy made visible.*
+Lilith carried the cup to the sink and the motion was also Sor Catalina moving through the converso quarter—grey habit against grey walls, certainty against uncertainty, the stillness of a holy woman whose visions required no justification. She felt the weight of that habit across her shoulders, felt the smooth grain of rosary beads against her palm, felt the conviction that had filled her centuries ago: *confession cleanses. The Holy Office is mercy made visible.*
 
-The conviction arrived as memory. As something she had genuinely believed in that body, in that time, with that name she had answered to.
+The conviction arrived as memory. As genuine belief in that body, in that time, with that name she had answered to.
 
 She set the cup in the sink. Water ran cold over ceramic.
 
-In Toledo, evening gathered in the streets like accusation. Windows watching windows. Neighbours cataloguing neighbours. The particular architecture of suspicion that made every gesture significant, every silence evidence, every prayer potentially the wrong prayer spoken to the wrong god. Diego de Lucena walked through these streets—she could feel him walking, feel his medical bag against his hip, feel the performance of safety he had practiced for forty-three years—and she felt something else too.
+In Toledo, evening gathered in the streets like accusation. Windows watching windows. Neighbours cataloguing neighbours. The architecture of suspicion that made every gesture significant, every silence evidence, every prayer potentially the wrong prayer spoken to the wrong god. Diego de Lucena walked through these streets—she could feel him walking, feel his medical bag against his hip, feel the performance of safety he had practiced for forty-three years—and she felt recognition.
 
 His body had recoiled from her.
 
-Not Diego—not exactly. The man whose thread she tracked. He had felt Sor Catalina's presence and recoiled without knowing why. Something in her face, in her stillness, in the way her eyes looked through surfaces to the secrets beneath.
+Diego—the man whose thread she tracked. He had felt Sor Catalina's presence and recoiled without knowing why. Her face, her stillness, the way her eyes looked through surfaces to the secrets beneath.
 
 *My face*, she thought.
 
@@ -205,7 +205,7 @@ The question dissolved. The mug was cold in her hands. The intervention continue
 
 The flat was too small.
 
-She rose from the chair and the rising did not help—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as Diego's cell, as every enclosure she had tracked and tracked toward.
+She rose from the chair but found no relief—the walls followed, the ceiling pressed, the grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as Diego's cell, as every enclosure she had tracked and tracked toward.
 
 *Open.*
 
@@ -213,7 +213,7 @@ The word arrived before the memory: Gothic verticals. Victorian gravity softened
 
 She had walked there. Days ago, or weeks—time had become imprecise in the tracking haze. Her body had known where to go when her mind refused to examine the destination. She had stood in the rain outside buildings where he would be, *was*, present tense, and she had felt—
 
-The feeling dissolved before she could name it.
+She lost it before she could name it.
 
 *He is there.*
 
@@ -316,7 +316,7 @@ She watched. She waited. She saw—
 
 Release.
 
-Diego looked at Tomás and the ember flickered in his eyes—rage, the poison she had planted—and then something shifted. His jaw loosened. His hands, bound to the stake, unclenched. The ember went out.
+Diego looked at Tomás and the ember flickered in his eyes—rage, the poison she had planted—and then a shift happened. His jaw loosened. His hands, bound to the stake, unclenched. The ember went out.
 
 He was *letting go*.
 
@@ -338,7 +338,7 @@ Widow's peak. Dark strand falling over the left temple. The pale-green crescent 
 
 *My face.*
 
-The recognition was not his—he did not know her, could not name her, understood only that something about the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. But in the reflection of his dying gaze, she saw herself. Saw the face that had been the same across every incarnation she could remember. Saw the constancy she had never questioned.
+The recognition was his body's rather than his mind's—he could not know her, could not name her, understood only that the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. But in the reflection of his dying gaze, she saw herself. Saw the face that had been the same across every incarnation she could remember. Saw the constancy she had never questioned.
 
 *Why am I always the same?*
 
@@ -356,7 +356,7 @@ But Lilith had seen enough. Had seen the release she had not asked for, had not 
 
 She had been seen. And then she had been let go.
 
-The sensation was unlike any backfire before. Not failure—something worse. Something that felt like loss wearing strategy's clothing.
+The sensation was unlike any backfire before. Worse than failure—a feeling like loss wearing strategy's clothing.
 
 He died with peace on his face. He died having released the hatred she had engineered. He died asking a question she could hear burning through the smoke and flame and centuries between them:
 
@@ -442,11 +442,11 @@ But beneath the filing, something else stirred. The silence that this work had b
 
 *Someone to know.*
 
-The need surfaced before she could suppress it. Not confession—not yet—but the first intimation of what confession might offer. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
+The need surfaced before she could suppress it. The first intimation of confession—before she was ready, but present. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
 
 She cut off the thought. Too soon. Too raw. The backfire was still fresh.
 
-But the direction was forming. Not opposition. Not distance. Not the methods that had failed for seven incarnations.
+But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that seven incarnations of failure had finally taught her to abandon.
 
 Something else. Something closer. Something that felt less like strategy and more like—
 
@@ -454,7 +454,7 @@ She did not finish the sentence.
 
 She set down the cold tea. Rose from the chair. The walls were still too close, but something had shifted.
 
-Direction. Not decision. Not yet.
+Direction rather than decision. Too soon for commitment.
 
 But direction was enough. Direction was the seed of what would grow.
 

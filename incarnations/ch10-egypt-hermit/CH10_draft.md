@@ -382,13 +382,13 @@ For fifteen years, this space had been his sanctuary—four walls, a worn mat, t
 
 Now the cell felt crowded.
 
-Theophanes's voice lingered in the corners like smoke. The scrape of stylus on wax, the rustle of fine linen, the particular quality of attention that the archdeacon brought to his questions—all of these had left residue. Macarius could still feel the delegation's presence, as if their bodies had impressed themselves upon the air and refused to dissipate.
+Theophanes's voice lingered in the corners like smoke. The scrape of stylus on wax, the rustle of fine linen, the quality of attention that the archdeacon brought to his questions—all of these had left residue. Macarius could still feel the delegation's presence, as if their bodies had impressed themselves upon the air and refused to dissipate.
 
 And behind it all, watching: the woman who had said nothing.
 
 *Theodora.*
 
-Her stillness had been more disturbing than Theophanes's words. She had stood against the wall and watched, and her watching had been—what? Macarius searched for the word and could not find it. Not hostile. Not friendly. Something else. Something that reminded him, absurdly, of a predator waiting for movement.
+Her stillness had been more disturbing than Theophanes's words. She had stood against the wall and watched, and her watching had been—what? Macarius searched for the word and could not find it. Neither hostile nor friendly. Something else. Something that reminded him, absurdly, of a predator waiting for movement.
 
 He shook the thought away. A dignitary of the church. A woman carrying letters from the bishop's household. Nothing more.
 
@@ -420,7 +420,7 @@ The warmth spread down his arms. His fingers tingled with it.
 
 *The fathers speak of you.*
 
-Something in his spine straightened, though he had not instructed it to straighten. His chin lifted slightly. The posture was wrong—not the posture of prayer but the posture of a man receiving something he had been waiting for.
+His spine straightened, though he had not instructed it to straighten. His chin lifted slightly. The posture was wrong—not the posture of prayer but the posture of a man receiving something he had been waiting for.
 
 He caught himself.
 
@@ -436,7 +436,7 @@ The warmth in his chest. The tingling in his fingers. The subtle rightness of a 
 
 This was not new.
 
-The realization struck like cold water. This was not new. This warmth, this rightness, this subtle pleasure at being recognized—it had been present for years. Decades, perhaps. It had been present every time a young monk sought his counsel and left with something worth carrying. It had been present every time the other hermits looked to him for guidance. It had been present every time someone spoke his name with the particular reverence that the desert reserved for its elder statesmen.
+The realization struck like cold water. This was not new. This warmth, this rightness, this subtle pleasure at being recognized—it had been present for years. Decades, perhaps. It had been present every time a young monk sought his counsel and left with something worth carrying. It had been present every time the other hermits looked to him for guidance. It had been present every time someone spoke his name with the reverence that the desert reserved for its elder statesmen.
 
 *Macarius of Scetis. Macarius the patient. Macarius who gave everything up.*
 
@@ -454,7 +454,7 @@ The words moved.
 
 They did not anchor.
 
-Beneath them, the warmth continued to pulse. The body continued to remember the pleasure of praise. And somewhere in the center of him, in the place where prayer was supposed to live, a question had taken root that he could not quite articulate—a question about what, exactly, he had been cultivating in this cell for fifteen years.
+Beneath them, the warmth continued to pulse. The body continued to remember the pleasure of praise. And somewhere in the center of him, in the place where prayer was supposed to live, a question had taken root—difficult to articulate, but insistent—a question about what, exactly, he had been cultivating in this cell for fifteen years.
 
 The answer was not what he wanted it to be.
 
@@ -489,7 +489,7 @@ But the young monks nodded as if these denials were themselves teachings, and wh
 
 The routine he had maintained for fifteen years began to fragment.
 
-Visitors came at times when visitors should not have come. A monk from Kellia, ancient and half-blind, arrived seeking a blessing. A merchant from the Nile valley appeared with supplies that had not been requested, offering them as gifts from the faithful who had heard of Abba Macarius's wisdom. A group of pilgrims—actual pilgrims, not monks—tracked him down and prostrated themselves in the sand outside his cell, asking only to be in his presence.
+Visitors came at times when visitors should not have come. A monk from Kellia, ancient and half-blind, arrived seeking a blessing. A merchant from the Nile valley appeared with supplies that had not been requested, offering them as gifts from the faithful who had heard of Abba Macarius's wisdom. A group of actual pilgrims—laypeople rather than monks—tracked him down and prostrated themselves in the sand outside his cell, asking only to be in his presence.
 
 He sent them all away. But the sending took time, required words, demanded attention that should have been spent on prayer and weaving. His baskets grew no larger. His silence grew smaller.
 
@@ -497,13 +497,13 @@ The stillness that had been his companion for a decade and a half became harder 
 
 *When a man seeks you out for teaching, give him less than he wants and more than he needs.*
 
-He had not composed such a phrase, had he? It had arrived fully formed, as if from outside himself, ready for delivery. And yet it was his. He recognized its shape, its rhythm, the particular compression of insight that he had learned to perform.
+He had not composed such a phrase, had he? It had arrived fully formed, as if from outside himself, ready for delivery. And yet it was his. He recognized its shape, its rhythm, the compression of insight that he had learned to perform.
 
 Was this what the fathers meant by preparation for teaching? Or was it something else?
 
 He did not want to look at the question too closely.
 
-The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had flagged for further exploration. Theodora did not accompany them, but her absence was somehow more noticeable than her presence had been. Macarius found himself looking for her in the doorway, listening for the particular quality of her silence.
+The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had flagged for further exploration. Theodora did not accompany them, but her absence was somehow more noticeable than her presence had been. Macarius found himself looking for her in the doorway, listening for the quality of her silence.
 
 "The bishop has read your words with great attention," Theophanes said. "He sends his gratitude. He believes they may be of great use to the struggling faithful."
 
@@ -517,7 +517,7 @@ Was this not what the fathers did? Was this not the purpose of the Apophthegmata
 
 And yet.
 
-Something in him resisted the praise. Or rather, something in him resisted the ease with which he accepted the praise, the way it settled into his body like water into parched earth. He was too thirsty for this. He drank too deeply.
+Part of him resisted the praise. Or rather, part of him resisted the ease with which he accepted the praise, the way it settled into his body like water into parched earth. He was too thirsty for this. He drank too deeply.
 
 The scribe wrote. Theophanes asked his clarifying questions. Macarius answered—more carefully now, more conscious of how his words would look etched in wax and copied onto parchment. He found himself reaching for precision when simplicity would have served, for elegance when plainness was the desert way.
 
@@ -950,19 +950,17 @@ The fever leached color from his vision, but the memory of color burned brighter
 
 His hands moved. He did not instruct them to move; they moved on their own, the body's final reaching. They stretched toward the doorway where light was fading, toward the world that continued without him, toward something that was not there and could not be there because he had spent fifteen years ensuring it would never be there.
 
-Something soft.
+Softness.
 
-Something colored.
+Color.
 
-Something alive.
+Life.
 
 His fingers grasped air. His body shuddered with the effort.
 
 And beneath the shudder, beneath the fever, beneath the grief and the insight and the terrible recognition of waste—beneath all of it, something else stirred.
 
-Not peace. Not theosis. Not the resolution he had hoped his death might bring.
-
-Something more honest.
+Something more honest than peace, more raw than theosis, more truthful than the resolution he had hoped his death might bring.
 
 A fierce, animal longing for everything he had refused.
 
@@ -974,7 +972,7 @@ The body he had treated as enemy rather than home.
 
 He wanted them now with a clarity that cut through every teaching, every discipline, every word he had ever offered to the monks who sought his wisdom.
 
-*In my next life,* something whispered—not a thought, not a prayer, just a dying wish that would carry forward as such wishes do—*let me be surrounded by beauty.*
+*In my next life,* a dying wish whispered—deeper than thought, prior to prayer, the kind of longing that carries forward as such longings do—*let me be surrounded by beauty.*
 
 *Let me touch what is soft.*
 

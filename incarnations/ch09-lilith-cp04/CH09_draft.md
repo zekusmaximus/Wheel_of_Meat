@@ -140,7 +140,7 @@ The Portico of Octavia materialized around her awareness: columns throwing long 
 
 *"The question,"* said the younger man—perhaps Verinus's age, built for disagreement—*"is what follows from this discipline. Does careful examination reveal the truth? Or does it reveal that reality itself is fractured—that honest observers, examining the same phenomenon, may arrive at incompatible conclusions?"*
 
-Something trembled in Verinus's chest. She felt it as if it were her own—the soft collapse of an assumption long held, the first crack in a structure that had seemed unbreakable.
+Trembling in Verinus's chest. She felt it as if it were her own—the soft collapse of an assumption long held, the first crack in a structure that had seemed unbreakable.
 
 He was standing at the crowd's edge, arms folded, his stylus clutched in his hand but not cleaned. He had come here seeking clarity. He had come here because the Varro case had offered none. Three witnesses, three accounts, no reconciliation. He needed philosophy to tell him that truth was still possible.
 
@@ -158,7 +158,7 @@ She had come to observe. She had come to watch his certainty tremble.
 
 She was there.
 
-The realization arrived with the particular weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
+The realization arrived with the weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
 
 Dark-haired. Still. Watching.
 
@@ -170,9 +170,7 @@ The moment registered across both frames—his recognition of her stillness, her
 
 She did not smile. She did not look away. She simply watched, the way she had watched from the thread, the way she had watched since the beginning.
 
-But something was different.
-
-The watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the quality of his breath when the younger philosopher's words struck home.
+But the watching felt different from inside the portico. Not the clinical distance of observation but the weighted intimacy of presence. She could smell the street vendors' food, feel the stone cool beneath her sandals, hear the quality of his breath when the younger philosopher's words struck home.
 
 *"Consider the testimony of witnesses,"* the younger man was saying. *"Three people observe a death. Each tells a different story. The investigator examines their accounts with perfect discipline. He seeks the point where their stories converge. But what if there is no such point? What if each witness perceived accurately, within the limits of their perception, and the accounts cannot be reconciled because reality itself is already fractured?"*
 
@@ -182,7 +180,7 @@ And she felt—
 
 For a moment, she could not sort which reaction was his and which was hers.
 
-The philosophers argued about whether truth could be singular. She was arguing with herself about whether strategy could be perfected. The frustration in his chest matched the frustration in her chest. The trembling of his worldview matched something in her that had been trembling since Ka, since she first recognized in him the patterns she carried herself.
+The philosophers argued about whether truth could be singular. She was arguing with herself about whether strategy could be perfected. The frustration in his chest matched the frustration in her chest. The trembling of his worldview matched her own trembling since Ka, since she first recognized in him the patterns she carried herself.
 
 *Which consciousness—*
 
@@ -190,13 +188,13 @@ The thought did not complete. The crowd shifted; someone stepped between them; a
 
 She was gone.
 
-Not physically—Marcia's body still stood at the portico's edge—but the merged sensation had released her, and she was back in Manchester, gasping in her armchair, her hands cold around cold ceramic, her breath coming hard.
+Marcia's body still stood at the portico's edge, but the merged sensation had released her, and she was back in Manchester, gasping in her armchair, her hands cold around cold ceramic, her breath coming hard.
 
-The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Something warm had settled in her chest that was not satisfaction exactly—that was not anything she could name or file or document.
+The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Warmth had settled in her chest that was not satisfaction exactly—that was not anything she could name or file or document.
 
 She had been seen.
 
-He had looked at her—not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and something in the looking had felt like being known. The philosophers' arguments still echoed: incompatible conclusions, fractured reality, humility elevated. She had observed his certainty trembling and her own certainty had trembled with it.
+He had looked at her—not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and the looking had felt like being known. The philosophers' arguments still echoed: incompatible conclusions, fractured reality, humility elevated. She had observed his certainty trembling and her own certainty had trembled with it.
 
 *Which reaction was his and which was mine?*
 
@@ -210,7 +208,7 @@ But she had not been observing. She had been there. She had felt his eyes find h
 
 The thought surfaced with a strangeness she could not place. It did not feel like strategy. It did not feel like the clinical distance she had maintained through three historical lives.
 
-It felt like something else—something she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
+It felt different—unfamiliar in a way she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
 
 The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the radiator had stopped ticking, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
 
@@ -259,7 +257,7 @@ She was there now—not Marcia this time, but something less visible, less prese
 
 And then he did not do what she expected.
 
-His voice was steady. His certainty had not returned—she could feel that it had not, could feel the cracks running through every sentence—but something else had taken its place. Something she could not name.
+His voice was steady. His certainty remained absent—she could feel the cracks running through every sentence—but something else had taken its place. Something she could not name.
 
 *"The death of Gaius Quintilius Varro was neither murder nor accident. It was a philosophical act—a final lesson, delivered to himself."*
 
@@ -269,13 +267,13 @@ The servant was legally guilty. Roman law made him so—responsible for his mast
 
 Verinus refused.
 
-*"Philo is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."*
+*"Philo is guilty only of being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."*
 
 She felt the senator's displeasure shift into something larger—felt it the way she had felt Devaka's fear, the way she had felt the clerk's hesitation. Here was a thread she could pull. Here was a pressure point she could use.
 
 She leaned in.
 
-Not hard—she had learned the value of precision—but steady, focused, weighted. The senator's irritation had been genuine; she only amplified it. The offense had been real; she only sharpened it. The rage that built in Publius Cornelius Scipio exceeded its cause in exactly the way that convincing rage must: disproportionate enough to destroy, measured enough to seem earned.
+With precision rather than force—she had learned the value of restraint—steady, focused, weighted. The senator's irritation had been genuine; she only amplified it. The offense had been real; she only sharpened it. The rage that built in Publius Cornelius Scipio exceeded its cause in exactly the way that convincing rage must: disproportionate enough to destroy, measured enough to seem earned.
 
 *"You presume to lecture me on innocence?"* His voice rose. *"You—a functionary, a mere investigator—"*
 
@@ -299,7 +297,7 @@ And he was calling it compassion.
 
 *"Live well,"* Verinus said. *"That is enough."*
 
-The chamber emptied. Marcus walked away with grief in his spine. Verinus gathered his notes—the contradictory testimonies, the impossible timelines, the evidence that had not resolved—and carried them with him toward the exile she had engineered.
+The chamber emptied. Marcus walked away with grief in his spine. Verinus gathered his notes—the contradictory testimonies, the impossible timelines, the evidence that remained unresolved—and carried them with him toward the exile she had engineered.
 
 She watched him go.
 

@@ -4,7 +4,7 @@ Sandalwood smoke drifted across the square in thick ribbons, sweet and cloying, 
 
 The square smelled of too many people gathered in one place for too long. Beneath the incense: bodies, betel juice drying in red spatters on the paving stones, the faint rot of flower garlands already wilting in the heat. A child cried somewhere behind me, the sound thin and grating. I shifted my weight and tasted the dust coating my tongue, gritty with the particularite grit of Pataliputra's riverbank clay.
 
-Dharma-Mahāmātra Nagasena stood on the raised platform beside Pradeshika Sumitra, his white robes catching the light in a way that drew the eye from the pillar itself. The moral inspector's face held the particular stillness of a man who has rehearsed his expression before a polished bronze mirror—serene, but calculated to appear serene rather than simply being so. His hands rested at his sides in the prescribed manner, neither clasped nor gesturing, the posture of one who has studied how virtue ought to look.
+Dharma-Mahāmātra Nagasena stood on the raised platform beside Pradeshika Sumitra, his white robes catching the light in a way that drew the eye from the pillar itself. The moral inspector's face held a rehearsed stillness—serene, but calculated to appear serene rather than simply being so. His hands rested at his sides in the prescribed manner, neither clasped nor gesturing, the posture of one who has studied how virtue ought to look.
 
 I stood with the other Rājukas at the edge of the platform, close enough to hear but not so close as to share in whatever dignity the moment conferred. The wood creaked beneath my feet, the sound swallowed by the crowd's murmur. Heat rose through the soles of my sandals, the planks already baking in the morning sun. My forearm throbbed where I had scraped it climbing down from the records building three days prior—a minor injury I had ignored and which had begun to remind me of its presence with each pulse of blood.
 
@@ -44,7 +44,7 @@ It found my forearm instead—the one already throbbing from my earlier careless
 
 The guards reached us then, too late to prevent the wound but not too late to prevent the death it had been meant to deliver. The assassin disappeared into the chaos with a speed that suggested accomplices in the crowd, people ready to close ranks around him and obscure his passage. I pressed my hand against the cut, feeling the warm pulse of blood between my fingers, and thought: sixteen stitches, if the wound is clean. Four days' reduced function. Cost in silk thread and physician's fee: three karshapanas, possibly four.
 
-Nagasena stared at me from where he had fallen against the pillar's base, his white robes now smeared with dust and what might have been a trace of my blood. His expression held something I could not immediately categorize—not gratitude, exactly, nor the calculation I had come to expect from men in his position. Something softer, and therefore more unsettling.
+Nagasena stared at me from where he had fallen against the pillar's base, his white robes now smeared with dust and what might have been a trace of my blood. His expression held an unfamiliar softness—neither gratitude exactly, nor the calculation I had come to expect from men in his position. And therefore more unsettling.
 
 "You saved my life," he said, as if stating a fact that required verification.
 
@@ -54,7 +54,7 @@ I looked at my arm, at the blood still welling despite my grip, at the guards no
 
 ---
 
-I woke to the smell of sesame oil and the particular stillness that indicated I was no longer in the square. The light filtered through cloth walls—a tent, then, probably the medical station maintained for public ceremonies. My arm burned with a steady heat that suggested someone had cleaned and stitched the wound while I was unconscious.
+I woke to the smell of sesame oil and a stillness that indicated I was no longer in the square. The light filtered through cloth walls—a tent, then, probably the medical station maintained for public ceremonies. My arm burned with a steady heat that suggested someone had cleaned and stitched the wound while I was unconscious.
 
 Sixteen stitches. I had been correct in my estimate.
 
@@ -78,7 +78,7 @@ Devaka's expression flickered—a small contraction around the eyes that I had l
 
 Which meant they could have been genuine observers or plants designed to mislead the investigation. The eastern provinces were vast, and travelers from that region were common enough in Pataliputra that their presence would not raise suspicion. I filed the information away for later analysis.
 
-The tent flap rustled, and Pradeshika Sumitra entered with the particular heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.
+The tent flap rustled, and Pradeshika Sumitra entered with the heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.
 
 "Rājuka Chandra." Sumitra stood over the pallet where I lay, his posture suggesting he would not be taking a seat. "The Dharma-Mahāmātra extends his gratitude for your intervention."
 
@@ -115,7 +115,7 @@ The morning light fell through Pradeshika Sumitra's window in narrow bands, catc
 
 I stood before Sumitra's desk, my wounded arm bound in clean linen and held against my chest by a sling the physician had insisted upon. The stitches pulled with each breath, a constant low irritation that made concentration difficult. Devaka stood two paces behind me, his presence a familiar weight I had grown accustomed to over fifteen years of shared labor.
 
-Sumitra did not invite us to sit. The wooden chairs arranged before his desk remained empty, their cushions flattened by years of supplicants who had waited longer than I intended to wait. The Pradeshika shuffled through documents with the particular deliberation of a man establishing hierarchy through delay.
+Sumitra did not invite us to sit. The wooden chairs arranged before his desk remained empty, their cushions flattened by years of supplicants who had waited longer than I intended to wait. The Pradeshika shuffled through documents with studied deliberation—a man establishing hierarchy through delay.
 
 "The Dharma-Mahāmātra's preliminary audit." He extracted a bundle of palm leaves from the stack before him, their edges worn from handling. "Submitted to this office eight days before the pillar ceremony. Standard review of granary operations in the eastern districts."
 
@@ -159,7 +159,7 @@ Devaka walked beside me, matching my pace with the automatic coordination of lon
 
 "Begin with Warehouse Seven." I had already sorted through Nagasena's preliminary notes, the numbers arranging themselves into patterns that suggested where to focus. "The loss reports show the largest variance from expected values. If the falsification is systematic, that's where it will be most visible."
 
-Devaka nodded, but something in the motion caught my attention—a slight hesitation, a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.
+Devaka nodded, but a hesitation in the motion caught my attention—a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.
 
 Yet I found myself remembering Sumitra's warning about allies in the administration, and the shape of that hesitation lodged in my mind like a splinter.
 
@@ -190,7 +190,7 @@ But I did not look back. I had numbers to examine, and numbers had never betraye
 
 The granary complex sprawled along the riverbank like a creature built for consumption—twelve warehouses arranged in staggered rows, their brick foundations rising from the alluvial mud, their thatch roofs sloping toward drainage channels that carried monsoon water back to the Ganges. I stood at the main gate as the morning sun climbed toward its zenith, my wounded arm aching beneath fresh bandages, and counted the structures by capacity. Forty thousand measures total storage, assuming standard packing density. Enough grain to feed the district for three months, or to fund a conspiracy large enough to warrant killing a Dharma-Mahāmātra.
 
-The guards at the gate had examined my authority documents with the particular slowness of men accustomed to delaying visitors until their superiors could be notified. I had waited, watching the activity within the compound—laborers carrying sacks between buildings, clerks moving with palm-leaf bundles clutched against their chests, a supervisor gesturing emphatically at a cart driver who had positioned his vehicle in some unacceptable manner. The rhythms were familiar. I had spent twelve years in similar compounds before accepting the emperor's service, learning to read the flow of goods and people the way other men learned to read faces.
+The guards at the gate had examined my authority documents with the slowness of men accustomed to delaying visitors until their superiors could be notified. I had waited, watching the activity within the compound—laborers carrying sacks between buildings, clerks moving with palm-leaf bundles clutched against their chests, a supervisor gesturing emphatically at a cart driver who had positioned his vehicle in some unacceptable manner. The rhythms were familiar. I had spent twelve years in similar compounds before accepting the emperor's service, learning to read the flow of goods and people the way other men learned to read faces.
 
 Devaka arrived as the guards finally waved me through, his approach marked by the soft scuff of sandals on packed earth. He carried a cotton satchel heavy with documents—the records I had requested, delivered ahead of schedule.
 
@@ -202,11 +202,11 @@ I took the satchel with my good hand, feeling its weight settle against my hip. 
 
 We walked deeper into the compound, past the first row of warehouses where laborers loaded sacks onto waiting carts. The smell hit me before I fully registered its components—grain dust thick enough to taste, the sharp undertone of rat droppings, the organic sweetness of stored rice beginning to heat in the poorly ventilated structures. Beneath it all, the river's presence asserted itself, a damp mineral note that permeated everything within a thousand paces of the water.
 
-I had grown up with these smells. My father had managed a smaller granary in the eastern provinces, and my earliest memories involved the particular quality of light filtering through thatch gaps onto mountains of grain sacks. The familiarity should have been comforting. Instead, I found myself parsing each scent for evidence of wrongdoing—mold that might indicate deliberate spoilage, chemical additives used to mask inferior grain, the absence of proper fumigation.
+I had grown up with these smells. My father had managed a smaller granary in the eastern provinces, and my earliest memories involved the quality of light filtering through thatch gaps onto mountains of grain sacks. The familiarity should have been comforting. Instead, I found myself parsing each scent for evidence of wrongdoing—mold that might indicate deliberate spoilage, chemical additives used to mask inferior grain, the absence of proper fumigation.
 
 Warehouse Seven occupied the northeastern corner of the compound, its position affording easy access to the river docks where grain shipments arrived and departed. The building was larger than its neighbors, with higher walls and a reinforced roof that suggested it had been expanded at some point after its original construction. I estimated the modification cost at two hundred karshapanas, possibly more depending on the quality of materials used.
 
-The warehouse keeper emerged as we approached, a heavyset man with the particular pallor of someone who spent his days in dim storage spaces. His name, according to Devaka's personnel records, was Vikram—a former guild accountant who had entered government service six years prior on the recommendation of a senior merchant whose name I did not recognize.
+The warehouse keeper emerged as we approached, a heavyset man with the pallor of someone who spent his days in dim storage spaces. His name, according to Devaka's personnel records, was Vikram—a former guild accountant who had entered government service six years prior on the recommendation of a senior merchant whose name I did not recognize.
 
 "Rājuka Chandra." Vikram performed the gesture of respect with hands that trembled slightly, though whether from age or apprehension I could not determine. "I was informed you would be inspecting our facilities. We are honored by your attention."
 
@@ -262,7 +262,7 @@ I looked at the sack before me, its violated seal now obvious evidence of tamper
 
 The numbers were clear. The weight discrepancy was measurable, repeatable, prosecutable. Vikram had signed for shipments that did not match their documentation, had either failed to notice or actively concealed the substitution, had participated in fraud against the emperor's granaries for at least three months and possibly much longer.
 
-I should have felt vindication. Instead, I felt the particular emptiness that always followed a successful negotiation—the hollow recognition that winning required someone else to lose, and that the loser's face would remain in memory long after the profit had been spent.
+I should have felt vindication. Instead, I felt the emptiness that always followed a successful negotiation—the hollow recognition that winning required someone else to lose, and that the loser's face would remain in memory long after the profit had been spent.
 
 "Vikram of Warehouse Seven." I spoke the formal words without inflection, the pronouncement of an official who had found what he sought. "You will surrender your seal of office and accompany us to the administrative complex for questioning. Your facility is hereby placed under imperial investigation pending a complete audit of all records and stores."
 
@@ -321,7 +321,7 @@ He departed, his footsteps fading into the corridor's darkness, leaving Chandra 
 
 The discrepancy revealed itself an hour later.
 
-Chandra had not intended to continue working. His arm ached beneath its bandages, his eyes burned from hours of reading by inadequate light, and the satisfaction of Vikram's confession should have been sufficient to carry him toward sleep. But something nagged at him—a splinter in his thoughts that would not dislodge—and he found himself reaching for the bundle of documents he had set aside days before.
+Chandra had not intended to continue working. His arm ached beneath its bandages, his eyes burned from hours of reading by inadequate light, and the satisfaction of Vikram's confession should have been sufficient to carry him toward sleep. But an unease nagged at him—a splinter in his thoughts that refused to dislodge—and he found himself reaching for the bundle of documents he had set aside days before.
 
 Nagasena's preliminary audit. The report that had prompted the Dharma-Mahāmātra's investigation, that had drawn an assassin's blade, that had started everything Chandra now found himself concluding.
 
@@ -365,7 +365,7 @@ He let the alternative hang unfinished.
 
 "Or Vikram was offered up deliberately." Chandra completed the thought, speaking the suspicion that had crystallized during his sleepless night. "A sacrifice to satisfy the investigation without exposing the larger operation."
 
-Devaka's fingers stopped their tapping. His face held an expression Chandra could not immediately read—not quite agreement, not quite denial, something more complicated that seemed to shift beneath the surface of his features.
+Devaka's fingers stopped their tapping. His face held an expression that shifted beneath the surface—recognition mixed with reluctance, partaking of both agreement and denial without settling on either.
 
 "If that's true, then continuing the investigation through official channels would be… inadvisable." His voice had dropped, though they were alone. "Whoever designed such a sacrifice would have prepared for the possibility of further inquiry. The channels would be watched. The evidence would be protected."
 
@@ -423,7 +423,7 @@ The conspiracy had not merely stolen grain. It had woven itself into the fabric 
 
 Chandra sat in the darkness of his quarters, the moonlight falling across documents that represented a truth too small to satisfy and too complete to question, and made a decision that would determine everything that followed.
 
-He would look. Not officially, not through channels that had been designed to fail, but privately—using his own access, his own skills, his own merchant's instinct for numbers that did not add correctly. He would find where the thirteen thousand measures had gone, would trace the channels that Vikram's sacrifice had been meant to conceal, would uncover the architecture of a conspiracy that had operated for years beneath the administration's unseeing gaze.
+He would look. Privately rather than officially, using his own access rather than channels that had been designed to fail—his own skills, his own merchant's instinct for numbers that did not add correctly. He would find where the thirteen thousand measures had gone, would trace the channels that Vikram's sacrifice had been meant to conceal, would uncover the architecture of a conspiracy that had operated for years beneath the administration's unseeing gaze.
 
 The ledger did not balance. It had never balanced.
 
@@ -438,7 +438,7 @@ The covert investigation proceeded in fragments stolen from the margins of his d
 
 An hour before dawn, reviewing transportation logs he had requisitioned under pretense of auditing caravan schedules. A late evening examining harvest assessments obtained by claiming interest in agricultural productivity patterns. Midday visits to the guild markets where he posed as a merchant evaluating grain quality—a role that required no pretense, only the resurrection of skills he had supposedly left behind.
 
-He told no one what he was doing. Not Devaka, whose parallel inquiries had reported nothing and whose loyalty remained a question Chandra could not answer. Not the Pradeshika, who had celebrated the case's closure and would not welcome evidence that his celebration was premature. Not even the night guards who watched him enter and leave the administrative complex at irregular hours, and who had learned not to question the habits of officials whose business was not their concern.
+He told no one what he was doing. Devaka's parallel inquiries had reported nothing, and his loyalty remained a question Chandra could not answer. The Pradeshika had celebrated the case's closure and would not welcome evidence that his celebration was premature. Even the night guards—who watched him enter and leave the administrative complex at irregular hours—had learned not to question the habits of officials whose business was not their concern.
 
 ---
 
@@ -456,7 +456,7 @@ The weights at collection were consistent. Farmers delivered grain in quantities
 
 But the weights at warehouse receipt were different.
 
-Not dramatically different—the discrepancies were subtle, distributed across dozens of collection points, each one small enough to fall within acceptable parameters for transportation loss. A measure here, two measures there, attributed to spillage or settling or the inevitable friction of moving bulk goods across distance. Individually defensible. Collectively devastating.
+The differences were subtle rather than dramatic—discrepancies distributed across dozens of collection points, each one small enough to fall within acceptable parameters for transportation loss. A measure here, two measures there, attributed to spillage or settling or the inevitable friction of moving bulk goods across distance. Individually defensible. Collectively devastating.
 
 Chandra mapped the discrepancies across the seven warehouses Nagasena had flagged. The pattern that emerged was not random. Collection points feeding the same transportation routes showed similar loss rates. Routes controlled by the same transport coordinators showed consistent patterns of shrinkage. The theft was happening in transit, skimmed in small amounts from hundreds of shipments, aggregating into volumes that dwarfed Vikram's warehouse operation.
 
@@ -464,7 +464,7 @@ He calculated the totals three times, certain he had made an error. The numbers 
 
 Twenty-three thousand measures. Minimum.
 
-The figure sat on the palm leaf before him like a weight too heavy to lift. Twenty-three thousand measures diverted over eighteen months through a system so distributed that no single point of failure could expose it. Not a conspiracy within the administration—a conspiracy that was the administration, woven into the fabric of collection and transport and storage until theft and governance became indistinguishable.
+The figure sat on the palm leaf before him like a weight too heavy to lift. Twenty-three thousand measures diverted over eighteen months through a system so distributed that no single point of failure could expose it. A conspiracy that was the administration itself, woven into the fabric of collection and transport and storage until theft and governance became indistinguishable.
 
 His hand began to tremble. Not from weakness, but from the weight of comprehension his mind had not yet processed. He set down the stylus before his fingers could betray him further.
 
@@ -478,7 +478,7 @@ The names on the contracts connected to families throughout the provincial admin
 
 Chandra stared at the documents spread across his desk—the accumulated evidence of an architecture so vast that exposing it through normal channels was impossible. Every official who might investigate had connections to the conspiracy. Every channel through which complaint might travel had been compromised. The system had not been corrupted. The system was corruption, organized and institutionalized and protected by the very mechanisms of governance.
 
-He understood now why Nagasena had been marked for death. The Dharma-Mahāmātra's audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's true nature. The blade that had been sent was not punishment for discovering theft—it was the system defending itself against revelation.
+He understood now why Nagasena had been marked for death. The Dharma-Mahāmātra's audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's true nature. The blade served a different purpose—the system defending itself against revelation rather than punishing discovery.
 
 The lamp on his desk flickered, its oil nearly exhausted. Chandra reached to adjust the wick and found his hands still trembling, the physical manifestation of knowledge his body understood before his mind could accept.
 
@@ -488,7 +488,7 @@ The lamp on his desk flickered, its oil nearly exhausted. Chandra reached to adj
 
 Devaka stood in the doorway.
 
-Chandra did not know how long he had been there—the investigation had consumed his attention so completely that a regiment could have marched past his door without drawing his notice. Devaka's face was difficult to read in the dim light, his expression carrying something between weariness and resignation that seemed to shift as the lamp flame guttered.
+Chandra had no idea how long Devaka had been standing there—the investigation had consumed his attention so completely that a regiment could have marched past his door without drawing his notice. Devaka's face was difficult to read in the dim light, his expression carrying something between weariness and resignation that seemed to shift as the lamp flame guttered.
 
 "How long have you been watching?"
 
@@ -520,7 +520,7 @@ The offer hung in the air between them, its terms clear despite remaining unspok
 
 "And if I refuse?"
 
-"Then you become a problem requiring solution." Devaka's voice carried no threat, only the weary recitation of facts he wished were otherwise. "Not immediately—they'll wait for an opportunity that looks like accident or illness or simple misfortune. But eventually, certainly. The system protects itself. It always has."
+"Then you become a problem requiring solution." Devaka's voice carried no threat, only the weary recitation of facts he wished were otherwise. "They'll wait for an opportunity that looks like accident or illness or simple misfortune. But eventually, certainly. The system protects itself. It always has."
 
 Chandra looked at the documents surrounding him—the evidence of theft so vast it defied comprehension, the proof of corruption so deep it had become indistinguishable from governance. He thought about the woman with the infant who had been processed through Vikram's warehouse, about the farmers who had delivered grain only to see it diverted into private channels, about all the faces he had never seen behind the numbers he had spent his life manipulating.
 
@@ -605,7 +605,7 @@ Chandra did not respond, conserving his breath for the climb ahead. The stairs h
 
 Brother Ananda stopped at a landing where the passage branched. His lamp illuminated a carved symbol on the wall—a wheel with eight spokes, worn smooth by centuries of passing hands. He turned to face them, his features difficult to read in the flickering light.
 
-"The storage chamber lies through the left passage. I will wait here until you return." His voice carried the particular flatness of a man performing an obligation he had not sought. "If you are not back by the fourth watch, I will assume you have been discovered. The entrance will be sealed."
+"The storage chamber lies through the left passage. I will wait here until you return." His voice carried the flatness of a man performing an obligation he had not sought. "If you are not back by the fourth watch, I will assume you have been discovered. The entrance will be sealed."
 
 "Understood." Devaka's response was equally flat. "Thank you, Brother. The debt is paid."
 
@@ -615,7 +615,7 @@ Devaka took the lamp and moved forward. Chandra followed.
 
 ---
 
-The passage widened gradually, the close walls giving way to a larger space that the lamp could not fully illuminate. Chandra heard water dripping somewhere ahead, a rhythmic sound that echoed off surfaces he could not see. The air changed as they entered the storage chamber—still damp, but carrying undertones of grain and oil and the particular mustiness of goods left too long in inadequate ventilation.
+The passage widened gradually, the close walls giving way to a larger space that the lamp could not fully illuminate. Chandra heard water dripping somewhere ahead, a rhythmic sound that echoed off surfaces he could not see. The air changed as they entered the storage chamber—still damp, but carrying undertones of grain and oil and the mustiness of goods left too long in inadequate ventilation.
 
 "Wait here." Devaka moved toward a darker shadow that resolved into a doorway as he approached. "I'll check that the stairs are clear."
 
@@ -631,7 +631,7 @@ The footsteps returned, accompanied by the lamp's wavering light. Devaka's face 
 
 "The stairs are clear, but there's activity in the priests' quarters. We'll need to wait until—"
 
-He stopped. His eyes moved past Chandra, toward something in the darkness behind.
+He stopped. His eyes moved past Chandra, toward a shape in the darkness behind.
 
 "Chandra." His voice had flattened, losing the whispered urgency it had carried throughout their journey. "I'm sorry."
 
@@ -734,9 +734,7 @@ The captain appeared beside him. "These are the warehouse personnel?"
 
 The guards were already moving among the workers, separating families with the efficient indifference of men performing duties they found neither pleasant nor troubling. A woman clutched an infant to her chest, her arms tightening as a guard reached toward her. An elderly man supported himself against a doorframe, his body bent by decades of labor, his eyes holding the tired acceptance of someone who had learned not to expect help from officials.
 
-The woman's eyes found Chandra's. Young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood. Her gaze held something he could not immediately categorize. Not accusation. Not plea. Something simpler and more terrible.
-
-She was looking for someone to see her.
+The woman's eyes found Chandra's. Young—younger than he had first registered, perhaps twenty years old, her features carrying the haggard exhaustion of new motherhood. Her gaze held an appeal he could not immediately categorize. She was looking for someone to see her.
 
 He looked away.
 
@@ -748,7 +746,7 @@ Chandra stood motionless at the edge of the residential quarters, his authority 
 
 The smoke came from three directions at once.
 
-Chandra smelled it before he saw it—the particular sharpness of burning thatch, the sweeter undertone of grain catching flame, the acrid bite that thickened the air with each passing moment. By the time the first shouts reached him, the orange tongues were already visible above the eastern wing, licking at the morning sky with a hunger that would not be easily satisfied.
+Chandra smelled it before he saw it—the sharp bite of burning thatch, the sweeter undertone of grain catching flame, the acrid smoke that thickened the air with each passing moment. By the time the first shouts reached him, the orange tongues were already visible above the eastern wing, licking at the morning sky with a hunger that would not be easily satisfied.
 
 "Fire! All personnel to the perimeter!"
 
@@ -776,7 +774,7 @@ Time stopped.
 
 The heat pressed against his left side where the records building waited, its walls still cool, its contents still intact. The screams cut into his right where the workers thrashed against flames that had found the thatch roofing and begun their hungry consumption. His authority seal sat heavy in his palm—the weight of the emperor's trust, the symbol of the office he had accepted three years before when he believed that service meant something more than efficiency.
 
-He could feel the fire's breath on his skin, could taste the smoke thickening in his throat, could hear the particular pitch of a child's voice rising above the others in a cry that needed no translation. The compound had become a crucible, the morning's careful choreography dissolved into chaos that demanded decision.
+He could feel the fire's breath on his skin, could taste the smoke thickening in his throat, could hear a child's voice rising above the others in a cry that needed no translation. The compound had become a crucible, the morning's careful choreography dissolved into chaos that demanded decision.
 
 The woman with the infant had looked at him. Her eyes had found his across the crowded detention area, and she had been looking for someone to see her, and he had looked away.
 
@@ -808,7 +806,7 @@ He searched for another exit. The windows were small, barely wide enough for a m
 
 The ceiling above him groaned, the sound of stressed wood beginning to fail. He did not have time to calculate probabilities or weigh alternatives. He crossed to the window in three strides, gripped the burning frame with hands that no longer registered pain, and pulled himself upward.
 
-The wood seared into his palms. His wounded arm gave way, nearly dropping him back into the smoke-filled room. He hauled himself higher through pure desperate strength, feeling skin tear and muscle strain and something in his shoulder separate with a wet pop that he would not fully understand until later.
+The wood seared into his palms. His wounded arm gave way, nearly dropping him back into the smoke-filled room. He hauled himself higher through pure desperate strength, feeling skin tear and muscle strain and his shoulder separate with a wet pop that he would not fully understand until later.
 
 The window frame splintered beneath his weight. He fell through the opening, the documents scattering from his arms, the ground rushing up to meet him with an impact that drove every thought from his mind.
 
@@ -820,7 +818,7 @@ Chandra had time to see the sky above him—bronze with smoke, streaked with ash
 
 Then the ground arrived.
 
-The impact broke him. He felt it happen—bones that had held together through thirty-four years of careful living suddenly surrendering to forces they could not withstand. His shoulder, already damaged from the window frame. His ribs, compressing beneath the weight of his falling body. Something in his abdomen that shifted and tore with a pain so complete that it seemed to exist outside him, a presence in the world as real as the flames still consuming the compound.
+The impact broke him. He felt it happen—bones that had held together through thirty-four years of careful living suddenly surrendering to forces they could not withstand. His shoulder, already damaged from the window frame. His ribs, compressing beneath the weight of his falling body. His abdomen shifted and tore with a pain so complete that it seemed to exist outside him, a presence in the world as real as the flames still consuming the compound.
 
 He lay in the dirt and breathed smoke and listened to the fire complete its consumption. The documents that had scattered during his fall lay around him, their edges curling and blackening as stray embers found them. The evidence and his body ruined together, the records and his flesh sharing the same destruction.
 
@@ -848,7 +846,7 @@ The child's scream echoed in his memory. The thin, high sound that had cut throu
 
 He had heard that scream and he had run away from it.
 
-The understanding settled into him like water finding its level. Not the understanding of calculation—the numbers had been clear, had always been clear, had justified every step of his retreat toward the records building. A different understanding. Deeper. More terrible.
+He understood then, with a clarity like water finding its level. The numbers had been clear, had always been clear, had justified every step of his retreat toward the records building. But this was a different understanding. Deeper. More terrible.
 
 He had run away from a screaming child to save paper. And the paper had burned. And the child had—
 
@@ -923,7 +921,7 @@ He lay in the dirt and waited for the end, and found himself thinking not of num
 
 The woman with the infant came first.
 
-Her face had been young—younger than he had first registered, perhaps twenty years old, her features carrying the particular exhaustion of new motherhood complicated by poverty. She had clutched the child against her chest with hands that trembled, and her eyes had met his for a moment before the guards led her away.
+Her face had been young—younger than he had first registered, perhaps twenty years old, her features carrying the haggard exhaustion of new motherhood complicated by poverty. She had clutched the child against her chest with hands that trembled, and her eyes had met his for a moment before the guards led her away.
 
 He had looked away. He had calculated the relative value of her life against the evidence he intended to preserve, and he had looked away, and he had walked toward the records building while she walked toward the fire.
 
@@ -937,7 +935,7 @@ Not the worker. Not the number. Not the fifty-four kilograms of flesh and bone a
 
 He had not seen her. He had seen the calculation she represented, the weight she carried, the entry she would become in whatever ledger recorded the day's losses. He had not seen her face, though he had looked directly at it. He had not seen the person behind the number, though she had tried to show him.
 
-The memory opened onto others, each one surfacing with the particular clarity that dying seemed to grant.
+The memory opened onto others, each one surfacing with the terrible clarity that dying seemed to grant.
 
 ---
 
@@ -949,7 +947,7 @@ The negotiation had lasted perhaps ten minutes. Chandra had examined the grain w
 
 A good negotiation. A profitable transaction. The farmer had walked away with his payment, and Chandra had walked away with grain that would sell for forty-eight karshapanas in the district markets.
 
-He had not noticed the farmer's hands. He noticed them now, in the memory that dying had polished to an unbearable brightness. Hands that shook as they counted the coins, that bore the calluses of a lifetime's labor, that had planted and harvested the very grain now changing ownership. The farmer's eyes had held something—desperation, perhaps, or the particular exhaustion of a man who had walked six days to receive less than he had hoped for.
+He had not noticed the farmer's hands. He noticed them now, in the memory that dying had polished to an unbearable brightness. Hands that shook as they counted the coins, that bore the calluses of a lifetime's labor, that had planted and harvested the very grain now changing ownership. The farmer's eyes had held desperation, perhaps, or the worn exhaustion of a man who had walked six days to receive less than he had hoped for.
 
 Chandra had not looked at those eyes. He had looked at the grain. He had calculated the weight and the quality and the potential return, and he had congratulated himself on a transaction well executed.
 
@@ -969,7 +967,7 @@ Chandra had taken the documents without looking up. His attention had been fixed
 
 "Leave it there."
 
-The clerk had hesitated. His feet had shifted on the floor—Chandra heard that now, in the memory. The soft sound of sandals against stone, the particular shuffle of someone who wanted to speak but feared the speaking.
+The clerk had hesitated. His feet had shifted on the floor—Chandra heard that now, in the memory. The soft sound of sandals against stone, the shuffle of someone who wanted to speak but feared the speaking.
 
 "Sir, the inspector asked me to tell you—"
 
@@ -987,7 +985,7 @@ The memories continued to surface, each one a small failure of presence that he 
 
 The widow who had come to petition for her husband's pension, her eyes red from weeping, her documents clutched in hands that could not stop their trembling. He had processed her claim efficiently, had approved the payment within the required timeframe, had congratulated himself on administrative competence. He had not offered her a seat while she waited. He had not asked about her children. He had not acknowledged that the documents she carried represented a man who had lived and worked and died, leaving behind a woman who was now alone.
 
-The laborers who had loaded grain sacks onto carts while he inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who held power over their wages. He had noted their productivity, had calculated their efficiency, had reported favorably on their performance. He had not learned their names. He had not seen the sweat that soaked their clothing, the tremors that ran through their muscles after hours of lifting, the particular emptiness in their eyes when they looked toward futures that held nothing but more lifting.
+The laborers who had loaded grain sacks onto carts while he inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who held power over their wages. He had noted their productivity, had calculated their efficiency, had reported favorably on their performance. He had not learned their names. He had not seen the sweat that soaked their clothing, the tremors that ran through their muscles after hours of lifting, the hollowness in their eyes when they looked toward futures that held nothing but more lifting.
 
 The child who had begged at the corner of the administrative district, her eyes too large for her thin face, her hand extended toward passersby in the eternal gesture of the desperate. He had walked past her every day for three years. He had never stopped. He had calculated, once, the cost of feeding her for a week—perhaps two karshapanas, negligible against his salary. He had not stopped. He had been late for a meeting, or distracted by a calculation, or simply unwilling to see what seeing might require of him.
 
@@ -1005,7 +1003,7 @@ Instead he felt only the weight of the ledger. The accumulated absences pressing
 
 He had served the emperor. He had built roads for the hungry to walk, filled warehouses for the hungry to receive, prosecuted thieves who stole from the hungry. The phrases surfaced from somewhere—a speech he had given, a report he had written—and they sounded hollow now, empty of the meaning he had once believed they carried.
 
-The woman with the infant had been hungry. Not starving—her body had shown the particular thinness of inadequate nutrition rather than acute deprivation—but hungry in the chronic way that characterized the workers whose labor made the grain system function. He had built the system. He had maintained the system. He had never once stood beside her while she used it.
+The woman with the infant had been hungry. Her body showed the chronic thinness of inadequate nutrition rather than acute deprivation—hungry in the way that characterized the workers whose labor made the grain system function. He had built the system. He had maintained the system. He had never once stood beside her while she used it.
 
 What would it mean to be with them?
 
@@ -1029,7 +1027,7 @@ The girl with the dark eyes.
 
 She surfaced last, from the chaos of the raid that morning. He had not noticed her specifically during the arrests. She had been one of the numbers, one of the small bodies he had estimated at eight or ten without counting individually.
 
-But he remembered her now. Her face emerged from the welter of memory with the particular clarity that the dying mind sometimes granted to moments we had not known were significant. She had been standing near the back of the residential quarters, perhaps seven or eight years old, her features carrying the particular stillness of a child who has learned that movement attracts attention and attention is not always safe.
+But he remembered her now. Her face emerged from the welter of memory with the clarity that the dying mind sometimes granted to moments we had not known were significant. She had been standing near the back of the residential quarters, perhaps seven or eight years old, her features carrying a stillness she had learned—that movement attracts attention and attention is not always safe.
 
 She had been looking at him. Not at the guards, not at her mother, not at the fire that would soon consume everything she knew. At him.
 

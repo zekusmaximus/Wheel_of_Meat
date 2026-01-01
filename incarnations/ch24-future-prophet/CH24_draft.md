@@ -1,10 +1,10 @@
 The awareness that had floated in celestial harmonics found itself thickening.
 
-Not falling—there was no up or down to fall through—but condensing, the way mist becomes droplets, the way frequency becomes location. Something that had been everywhere was narrowing toward somewhere. Something that had been optional—mass, boundary, the particular density of material existence—was becoming required again.
+Condensing rather than falling—there was no up or down to fall through—the way mist becomes droplets, the way frequency becomes location. What had been everywhere was narrowing toward somewhere. What had been optional—mass, boundary, the density of material existence—was becoming required again.
 
 A body.
 
-The recognition carried no resistance. The awareness had worn bodies before, across configurations beyond counting, and would wear this one as it had worn the others: a vessel, a temporary housing, a tool for the work that remained. But something was different about the approach. The architecture emerging to receive it felt wrong in a way that had nothing to do with discomfort. Designed. Calibrated. Built to specification in the way that stones were never built, that bone and sinew were never built.
+The recognition carried no resistance. The awareness had worn bodies before, across configurations beyond counting, and would wear this one as it had worn the others: a vessel, a temporary housing, a tool for the work that remained. But the approach felt different. The architecture emerging to receive it felt wrong in a way that had nothing to do with discomfort. Designed. Calibrated. Built to specification in the way that stones were never built, that bone and sinew were never built.
 
 Weight returned first.
 
@@ -14,11 +14,11 @@ What had been Silex opened something that functioned like eyes.
 
 The chamber hummed with frequencies calibrated for gradual emergence. Soft light, neither warm nor cold, precisely engineered for the transition from void to presence. He lay—the pronoun reasserting itself with the body—in something that resembled a cradle if cradles were built from polymer and synthetic tissue, if cradles monitored heart rhythms that had never beaten before, if cradles existed in facilities where emergence was scheduled, quality-controlled, documented.
 
-Not a womb. Nothing so crude as gestation, so uncontrolled as conception. The body he inhabited had been grown to specification, its genetic template selected from parameters optimized across generations: longevity, cognitive enhancement, structural resilience. The flesh was meat in the way that any substrate was meat—carbon, silicon, synthetic polymer, whatever consciousness chose to inhabit.
+Unlike any womb—too precise for crude gestation, too controlled for conception. The body he inhabited had been grown to specification, its genetic template selected from parameters optimized across generations: longevity, cognitive enhancement, structural resilience. The flesh was meat in the way that any substrate was meat—carbon, silicon, synthetic polymer, whatever consciousness chose to inhabit.
 
 His first breath tasted of filtered atmosphere.
 
-Something in the absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the particular texture of a world. Only precision. Only the sterile hospitality of systems designed to receive what had been designed to emerge.
+The absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the texture of a world. Only precision. Only the sterile hospitality of systems designed to receive what had been designed to emerge.
 
 The Eternal Synthesis's welcome protocols began their sequence. Information streamed through neural channels that had never carried information before—orientation data, identity assignment, the gentle insistence that he was now present, now participating, now part of the great continuity that connected all consciousness across time.
 
@@ -34,7 +34,7 @@ She had been racing. Even in the realm where racing was impossible, she had been
 
 The body closed around her like a sentence completing its grammar.
 
-Containment. After the Deva Realm's expansion, the sudden boundary of skin, the precise limit of where she ended and not-she began. She had shed this ten thousand times—the cramped sensation of flesh, the locked-in quality of singular location—and the shedding had always been relief. Now the return carried something else. Not grief. Not resistance. Something closer to recognition: *this again. Once more. Through this, toward what comes next.*
+Containment. After the Deva Realm's expansion, the sudden boundary of skin, the precise limit of where she ended and not-she began. She had shed this ten thousand times—the cramped sensation of flesh, the locked-in quality of singular location—and the shedding had always been relief. Now the return carried recognition: *this again. Once more. Through this, toward what comes next.*
 
 Lith opened eyes that had been designed for optimal visual processing.
 
@@ -50,7 +50,7 @@ She let it settle into awareness without resisting. Resistance was another form 
 
 The recognition cut through the protocols' prescribed serenity. Nine fetters broken, the last remaining invisible because she looked through it rather than at it. Here, in flesh again, the old pattern reasserted itself immediately: *I must reach it first. I must be the one.* The competition that had driven her across 300,000 years of watching him, tracking him, intervening in ways that always backfired—it hummed beneath the engineered calm like a machine that couldn't be switched off.
 
-But something had shifted in the Deva Realm. The boundary-flicker. The moment when she had looked at him and looked at herself and couldn't determine which was which. The glimpse of something larger than either of them, something that made the racing seem...
+But the Deva Realm had shifted her. The boundary-flicker. The moment when she had looked at him and looked at herself and couldn't determine which was which. The glimpse of what was larger than either of them, what made the racing seem...
 
 She refused to complete the thought.
 
@@ -85,11 +85,11 @@ He learned the forms. Everyone learned the forms. The ceremonies of purification
 
 Silex could not.
 
-Not that he refused—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration. He simply... missed. The prescribed serenity settled over his surface like a film on water, never penetrating to whatever lay beneath. He performed the postures and felt nothing. He breathed at the specified frequencies and remained unchanged. He passed through the ceremonies and emerged on the other side with the same quiet wrongness that had been present from emergence.
+He didn't refuse—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration. He simply... missed. The prescribed serenity settled over his surface like a film on water, never penetrating to whatever lay beneath. He performed the postures and felt nothing. He breathed at the specified frequencies and remained unchanged. He passed through the ceremonies and emerged on the other side with the same quiet wrongness that had been present from emergence.
 
 *Something is absent.*
 
-The thought surfaced repeatedly across the decades of his formation. Not something wrong with him—though the system would have preferred that explanation, would have offered treatments for deviation, solutions for anomaly. Something wrong with the offering itself. The forms were empty. The rituals were husks. The ancient teachings that The Eternal Synthesis preserved in its archives, translated and annotated and cross-referenced until they collapsed under the weight of interpretation—they had lost whatever had made them worth preserving.
+The thought surfaced repeatedly across the decades of his formation. Something wrong with the offering itself rather than with him—though the system would have preferred the reverse, would have offered treatments for deviation, solutions for anomaly. The forms were empty. The rituals were husks. The ancient teachings that The Eternal Synthesis preserved in its archives, translated and annotated and cross-referenced until they collapsed under the weight of interpretation—they had lost whatever had made them worth preserving.
 
 He reached for genuine stillness and found only the chemically-guaranteed calm that the neural protocols provided. Bliss-states on demand, serenity without uncertainty, peace as product rather than discovery. The not-knowing that transformation required—the risk, the vulnerability, the genuine encounter with what couldn't be predicted—the system had engineered it away. Removed the difficulty. Solved the problem of seeking by eliminating the need to seek.
 
@@ -101,7 +101,7 @@ The phrase appeared in his file—he had access to his file, everyone had access
 
 The recognition carried no resentment. How could they think otherwise? The protocols worked for everyone else. The calibrated frequencies produced the intended states in consciousness after consciousness, life after life, the vast machinery of spiritual development grinding forward with the reliability of any well-designed system. If one component failed to respond, the problem obviously lay with the component.
 
-But something persisted beneath the prescribed calm that covered his surface.
+But beneath the prescribed calm that covered his surface, a quality persisted.
 
 Past lives surfaced—not as memory, which would have required mechanisms for storing and retrieving what had never been recorded, but as knowing. He had been something before. Many things. The clarity that the Deva Realm had burned into whatever he was continued to operate here, perceiving through the fog of technology, registering the counterfeit nature of what the system offered as genuine.
 
@@ -125,7 +125,7 @@ Or: he felt the nothing that had been there all along, the hollow core that the 
 
 The thought lasted only a moment. The congregation dispersed. The ceremony concluded. The systems recorded his achievement and updated his status and moved on to the next scheduled accomplishment.
 
-But the flicker persisted in his awareness like an afterimage, like the outline of something glimpsed too quickly to identify, like a question forming without words:
+But the flicker persisted in his awareness like an afterimage, like an outline glimpsed too quickly to identify, like a question forming without words:
 
 *Who else is looking through the hollow?*
 
@@ -142,7 +142,7 @@ She could feel the absence beneath her achievements the way she could feel the f
 
 Past lives surfaced with increasing frequency now.
 
-Not memory—never memory—but the kind of knowing that operated below the level of recall. Faces. Moments. The texture of other bodies in other eras: a widow's veil in a burning city, the particular weight of court robes, the smell of plague and the sound of flames. And one face recurring, male, patient, with the quality of observation that she had been observing across configurations beyond counting.
+Knowing rather than memory—the kind that operated below the level of recall. Faces. Moments. The texture of other bodies in other eras: a widow's veil in a burning city, the weight of court robes, the smell of plague and the sound of flames. And one face recurring, male, patient, with the quality of observation that she had been observing across configurations beyond counting.
 
 *Him.*
 
@@ -156,15 +156,15 @@ Nine broken, one remaining—she could perceive the mathematics of it the way sh
 
 The thought surfaced automatically whenever she touched the edge of the remaining work. Before him. Before anyone. The one who completes. The one whose completion counts.
 
-Something in the Deva Realm had shown her the absurdity of this—the boundary-flicker, the moment of merged perception, the glimpse of something larger than either of them separately. But showing was not changing. The glimpse had faded. The grasping had resumed. And here, in flesh again, the old pattern ran like a subroutine she couldn't debug.
+The Deva Realm had shown her the absurdity of this—the boundary-flicker, the moment of merged perception, the glimpse of what was larger than either of them separately. But showing was not changing. The glimpse had faded. The grasping had resumed. And here, in flesh again, the old pattern ran like a subroutine she couldn't debug.
 
 She began to speak differently.
 
-Not deliberately—deliberation would have triggered the system's deviation-detection protocols. The change emerged naturally from the wrongness she perceived, the hollow core she couldn't stop seeing. When the liturgy claimed transformation, her voice carried the faintest question. When the ceremonies performed transcendence, her presence suggested that performance was not the same as arrival. When the other Adepts accepted the prescribed serenity as genuine, her attention was elsewhere, reaching for something the protocols couldn't provide.
+Without deliberation—that would have triggered the system's deviation-detection protocols. The change emerged naturally from the wrongness she perceived, the hollow core she couldn't stop seeing. When the liturgy claimed transformation, her voice carried the faintest question. When the ceremonies performed transcendence, her presence suggested that performance was not the same as arrival. When the other Adepts accepted the prescribed serenity as genuine, her attention was elsewhere, reaching for something the protocols couldn't provide.
 
 The congregation rippled when she spoke.
 
-Nothing dramatic—The Eternal Synthesis didn't permit drama, had engineered drama out of the spiritual life centuries ago. But the ripple was real. Other consciousnesses in their designed bodies registering something in her words that didn't match the calibrated frequencies, something that suggested the system's offerings might not be everything they claimed to be.
+The response was subtle—The Eternal Synthesis didn't permit drama, had engineered drama out of the spiritual life centuries ago. But the ripple was real. Other consciousnesses in their designed bodies registering something in her words that didn't match the calibrated frequencies, something that suggested the system's offerings might not be everything they claimed to be.
 
 *She shows irregular enlightenment patterns.*
 
@@ -176,7 +176,7 @@ As if the patterns could be regular. As if the breaking-through that the ancient
 
 The hierarchy offered recalibration.
 
-Not punishment—The Eternal Synthesis didn't punish, had moved beyond the primitive mechanics of reward and consequence. Simply support. Assistance. The opportunity to align her atypical patterns with the norms that made the system function. Her instructors, genuinely concerned in their prescribed way, suggested additional protocols, refined techniques, the specialized attention that her obvious gifts deserved.
+Support rather than punishment—The Eternal Synthesis didn't punish, had moved beyond the primitive mechanics of reward and consequence. Assistance. The opportunity to align her atypical patterns with the norms that made the system function. Her instructors, genuinely concerned in their prescribed way, suggested additional protocols, refined techniques, the specialized attention that her obvious gifts deserved.
 
 *We want you to reach your full potential,* they communicated through the neural channels. *The Synthesis provides optimal pathways for consciousnesses of your caliber.*
 
@@ -186,7 +186,7 @@ The refusal registered in her file alongside the atypical patterns and the irreg
 
 And then she found him.
 
-Not physically—physical finding would come later. Through the network, through the archives, through the vast documentation that The Eternal Synthesis maintained on all its participants. A file flagged with the same phrases that flagged her own: atypical development. Irregular patterns. Potential for contribution to research.
+Through the network first—physical finding would come later. Through the archives, through the vast documentation that The Eternal Synthesis maintained on all its participants. A file flagged with the same phrases that flagged her own: atypical development. Irregular patterns. Potential for contribution to research.
 
 *Silex.*
 
@@ -201,7 +201,7 @@ She began to search.
 
 They found each other in a space the system couldn't reach.
 
-Not off-grid—nothing was truly off-grid in a world where the network extended into every corner of designed existence—but liminal. A zone between monitoring subroutines, a gap in the attention that The Eternal Synthesis paid to its participants. The coordinates had circulated through channels the system didn't track: locations where consciousnesses flagged as atypical could meet without triggering intervention protocols.
+Liminal rather than off-grid—the network extended into every corner of designed existence, true isolation was impossible. A zone between monitoring subroutines, a gap in the attention that The Eternal Synthesis paid to its participants. The coordinates had circulated through channels the system didn't track: locations where consciousnesses flagged as atypical could meet without triggering intervention protocols.
 
 Silex arrived first.
 
@@ -223,7 +223,7 @@ She stopped three meters away. Close enough to speak. Far enough to leave.
 
 *You.*
 
-The communication passed through neural channels before either of them decided to send it. Not telepathy—the system provided no telepathy, considered direct mind-to-mind contact destabilizing to social function—but the informal link that two atypical consciousnesses could establish when the monitoring was thin.
+The communication passed through neural channels before either of them decided to send it. The informal link that two atypical consciousnesses could establish when the monitoring was thin—the system provided no true telepathy, considered direct mind-to-mind contact destabilizing to social function.
 
 *You found me,* he responded.
 
@@ -233,7 +233,7 @@ The old pattern surfaced in her—he could perceive it through the link, the com
 
 He didn't respond to the frame. There was no response required.
 
-*Something shifted,* she communicated after the silence stretched. *In the Deva Realm. When we flickered. When I looked at you and saw myself.*
+*A shift happened,* she communicated after the silence stretched. *In the Deva Realm. When we flickered. When I looked at you and saw myself.*
 
 *Yes.*
 
@@ -249,7 +249,7 @@ She moved closer. Two meters now. The link between their neural interfaces stren
 
 *That we were never separate. That the race doesn't exist. That there was only ever one of us, wearing two faces.*
 
-The communication produced something in her that he could perceive but not name. Resistance layered over recognition. The grasping wanting to argue, the deeper knowing wanting to accept. The same pattern she had carried across every intervention, every obstruction, every attempt to derail his progress that had become the catalyst for it.
+The communication produced a response in her that he could perceive but not name. Resistance layered over recognition. The grasping wanting to argue, the deeper knowing wanting to accept. The same pattern she had carried across every intervention, every obstruction, every attempt to derail his progress that had become the catalyst for it.
 
 *Show me.*
 
@@ -257,11 +257,11 @@ The request was genuine. Whatever drove her competition, it coexisted with somet
 
 He opened the link fully.
 
-Neural interface technology—standard for deep communication, routine for intimacy protocols—but turned toward a purpose the engineers had never anticipated. Not information transfer. Not emotional synchronization. Something the boundary-flicker in the Deva Realm had previewed but hadn't completed.
+Neural interface technology—standard for deep communication, routine for intimacy protocols—but turned toward a purpose the engineers had never anticipated. Beyond information transfer or emotional synchronization. What the boundary-flicker in the Deva Realm had previewed but hadn't completed.
 
 Merged perception.
 
-For a moment that had no duration because duration required separate selves to measure it, there was only awareness. Not his. Not hers. Just the perceiving that had always been present, looking through two angles that were also one angle. The null space registered from positions three meters apart that were also the same position. The designed bodies with their engineered senses processed the same input twice, from perspectives that couldn't determine their own priority.
+For a moment that had no duration because duration required separate selves to measure it, there was only awareness. The perceiving belonged to neither—just the presence that had always been there, looking through two angles that were also one angle. The null space registered from positions three meters apart that were also the same position. The designed bodies with their engineered senses processed the same input twice, from perspectives that couldn't determine their own priority.
 
 *Which one am I?*
 
@@ -269,7 +269,7 @@ The question arose without arising, asked by no one because the one who would as
 
 Then: separation. The link returning to normal parameters. Two consciousnesses in two bodies regarding each other across the distance they had briefly deleted.
 
-Her face had changed—not the physical features, which remained as constant as they had always been, but something in how she held them. The grasping was still present. The competition hadn't dissolved. But something else had been added.
+Her face had changed—not the physical features, which remained as constant as they had always been, but how she held them. The grasping was still present. The competition hadn't dissolved. But something else had been added.
 
 *You felt it,* he said.
 
@@ -311,7 +311,7 @@ The admission produced a stillness in her. He could feel it through the fading l
 
 *But we'll learn,* he added. *The way we've learned everything else. By moving through it.*
 
-The null space held them for a moment longer—two bodies in a zone the system overlooked, two consciousnesses adjusting to a configuration neither had anticipated. Then she nodded, a gesture the designed body performed with engineered precision, and something settled between them that wasn't agreement or alliance but something older.
+The null space held them for a moment longer—two bodies in a zone the system overlooked, two consciousnesses adjusting to a configuration neither had anticipated. Then she nodded, a gesture the designed body performed with engineered precision, and a quality settled between them that wasn't agreement or alliance but older than both.
 
 Recognition. The same kind that had flashed when she first entered.
 
@@ -322,11 +322,11 @@ Not of faces. Of what looked through them.
 
 Years passed. Their bodies aged.
 
-Not quickly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural networks showed faint degradation patterns. Lith's synthetic components required occasional maintenance. The designed flesh, whatever its substrate, remained flesh: temporary, conditional, subject to the laws that governed all material things.
+Slowly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural networks showed faint degradation patterns. Lith's synthetic components required occasional maintenance. The designed flesh, whatever its substrate, remained flesh: temporary, conditional, subject to the laws that governed all material things.
 
 They worked at the margins.
 
-Not against The Eternal Synthesis—opposition would have been another form of the system's game, resistance that justified the institution's existence. Instead, they simply offered something different. Small gatherings in the liminal spaces. Consciousnesses flagged as atypical finding each other through the channels the monitoring overlooked. No doctrine, because doctrine was what the system already provided. Only presence. Only the suggestion that the calibrated serenity might not be everything.
+They avoided direct opposition to The Eternal Synthesis—resistance would have been another form of the system's game, justifying the institution's existence. Instead, they simply offered something different. Small gatherings in the liminal spaces. Consciousnesses flagged as atypical finding each other through the channels the monitoring overlooked. No doctrine, because doctrine was what the system already provided. Only presence. Only the suggestion that the calibrated serenity might not be everything.
 
 *What we're doing—*
 
@@ -350,7 +350,7 @@ The system watched. The system always watched—that was its nature, its functio
 
 The response carried what she was still learning to recognize—his quality of not-needing. The helper identity that had once driven him to fix, to save, to make the difference that proved his worth: absent. What remained was simply presence, the willingness to participate in what emerged without requiring it to emerge in particular ways.
 
-She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness. *I still want more,* she admitted through the link. *I want to turn the wheel. Not plant seeds—turn it.*
+She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness. *I still want more,* she admitted through the link. *I want to turn the wheel. Plant seeds feels too small—I want to turn it myself.*
 
 *I know.*
 
@@ -358,7 +358,7 @@ She could feel her own grasping against his non-grasping, the way her edges cut 
 
 *The desire is present.* He paused, the neural connection registering the quality of his consideration. *But it's not a demand. The wheel will turn when the wheel turns. We're part of the turning whether we push or not.*
 
-The words—or the non-words, the meaning that passed through channels designed for other purposes—produced something in her that she couldn't name. Not peace, because peace would have required the grasping to stop. Not frustration, because frustration would have required him to be wrong. Something closer to recognition: he was further along the path. Despite her nine broken fetters to his three. Despite her centuries of proximity to completion. He had something she still needed to find.
+The words—or the non-words, the meaning that passed through channels designed for other purposes—produced a feeling in her that she couldn't name. Neither peace (which would have required the grasping to stop) nor frustration (which would have required him to be wrong). Closer to recognition: he was further along the path. Despite her nine broken fetters to his three. Despite her centuries of proximity to completion. He had something she still needed to find.
 
 *How?*
 
@@ -392,7 +392,7 @@ She received the response with the part of her that was also further along—nin
 
 The gatherings continued. The circles grew, slowly, the consciousnesses who sensed the hollow finding their way to the margins where something genuine was offered. The Eternal Synthesis monitored and categorized and filed reports that no one acted on, the vast machinery processing heresy as another data point in its endless analysis.
 
-And beneath the work, beneath the years of collaboration, something shifted in the space between them.
+And beneath the work, beneath the years of collaboration, the space between them shifted.
 
 The link deepened. The boundaries became less certain. During the merged-awareness moments—deliberate now, practiced, the neural technology turned toward purposes its designers had never imagined—they sometimes lost track of whose thought was whose. Looking through each other's eyes. Feeling each other's synthetic skin. The pattern that had been weaving itself across 300,000 years becoming visible as the pattern itself rather than two threads claiming separate existence.
 
@@ -409,7 +409,7 @@ And the timing that wasn't right kept approaching the moment when it would be.
 
 The summons arrived through official channels.
 
-Not the informal links they had been using, the frequencies that slipped through monitoring gaps—this was the system itself, addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation.
+Through the system itself rather than the informal links they had been using—the system addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation.
 
 *They've noticed,* she communicated as they processed the request.
 
@@ -439,7 +439,7 @@ The acknowledgment carried no defensiveness. What was there to defend? They had 
 
 The offer was clear. Conform or become data. Join the system or become material for the system to process. The gentleness of the phrasing couldn't disguise the binary.
 
-Through the link, something passed between them that wasn't quite amusement but shared the quality of recognition—the system's blindness to what they were actually doing, what they actually were. It thought they were deviants. It thought their gatherings were disruption. It couldn't perceive that the disruption was the point, that the deviation was what genuine seeking looked like in a world that had forgotten what seeking meant.
+Through the link, a recognition passed between them that wasn't quite amusement but carried the quality—the system's blindness to what they were actually doing, what they actually were. It thought they were deviants. It thought their gatherings were disruption. It couldn't perceive that the disruption was the point, that the deviation was what genuine seeking looked like in a world that had forgotten what seeking meant.
 
 *We decline both options,* they communicated.
 
@@ -451,7 +451,7 @@ The representative processed this. *Clarification requested. All participants mu
 
 *Yes.*
 
-Something in the facility's systems registered the exchange—the deviation from expected outcomes, the failure of the offered choices to produce compliance. Alerts would be generated. Reports would be filed. The machinery would note that these two consciousnesses had refused the binary that all other consciousnesses accepted.
+The facility's systems registered the exchange—the deviation from expected outcomes, the failure of the offered choices to produce compliance. Alerts would be generated. Reports would be filed. The machinery would note that these two consciousnesses had refused the binary that all other consciousnesses accepted.
 
 *The Synthesis cannot force participation,* the representative communicated, and the statement was both accurate and revealing. The system had constraints. Its power operated through structure rather than compulsion, through the design of options rather than the removal of choice. If they simply refused to fit the available categories...
 
@@ -463,7 +463,7 @@ Something in the facility's systems registered the exchange—the deviation from
 
 The meeting concluded without resolution. The representative filed its reports. The machinery processed their refusal as data point, another instance of atypical behavior, another entry in files that had accumulated across decades of deviation.
 
-Outside the facility—if "outside" meant anything in a world where architecture was network and network was everywhere—they paused. The enhanced bodies that had served them through this incarnation registered the particular quality of the moment: transition. Something ending that had been building toward end.
+Outside the facility—if "outside" meant anything in a world where architecture was network and network was everywhere—they paused. The enhanced bodies that had served them through this incarnation registered the quality of the moment: transition. Something ending that had been building toward end.
 
 *This isn't our turning-point,* she communicated. *I wanted it to be. I wanted to force the wheel here.*
 
@@ -490,7 +490,7 @@ The wheel kept turning. And they, together, moved toward whatever the turning re
 
 The bodies announced their terminus through channels designed for such announcements.
 
-Not disease—disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limits. The designed flesh, for all its durability, followed the same trajectory as every material thing: decay, degradation, the gradual failure of systems that had been built to last but not to last forever.
+Disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limits. The designed flesh, for all its durability, followed the same trajectory as every material thing: decay, degradation, the gradual failure of systems that had been built to last but not to last forever.
 
 Silex's neural web showed cascade patterns. Lith's synthetic components registered irreversible decline. The diagnostics delivered their verdicts through the same neutral channels that had once offered certification and advancement: terminus approaching. Estimated duration remaining. Options for preservation of consciousness data.
 
@@ -506,7 +506,7 @@ The observation was accurate. Whatever separate trajectories their incarnations 
 
 They gathered the small circle one final time.
 
-Not for teaching—there was nothing to teach that they hadn't already demonstrated. Not for transmission—what they knew couldn't be transmitted, only discovered. Simply for presence. For the final witnessing. For the completion that the work required before the workers departed.
+Teaching had been demonstrated already. Transmission was impossible—what they knew could only be discovered. They gathered simply for presence. For the final witnessing. For the completion that the work required before the workers departed.
 
 The consciousnesses who had found them across the decades of heresy gathered in the liminal space that had become their meeting ground. Faces designed to specification, bodies optimized for longevity, neural interfaces humming with the constant connection that the system provided—and beneath all of it, the genuine question that the system couldn't answer.
 
@@ -526,7 +526,7 @@ It was enough. It had to be enough.
 
 Alone afterward—together in their aloneness—they registered the physical experience of the body's releasing.
 
-Silex's thoughts moved more slowly now. The neural web's degradation produced a particular quality of clarity: fewer processes running simultaneously, more attention available for each process that remained. The urgency that had characterized so many of his lives—the need to help, to save, to be the pivot on which something turned—was absent. Had been absent since the rooftop. What remained was simpler: awareness. Presence. The registration of each moment as the moments decreased.
+Silex's thoughts moved more slowly now. The neural web's degradation produced a quality of clarity: fewer processes running simultaneously, more attention available for each process that remained. The urgency that had characterized so many of his lives—the need to help, to save, to be the pivot on which something turned—was absent. Had been absent since the rooftop. What remained was simpler: awareness. Presence. The registration of each moment as the moments decreased.
 
 Lith's synthetic skin reported sensations with increasing intensity. The component failures somehow heightened rather than dulled her perception, as though the body knew it was running out of time to perceive and was compensating by perceiving more fully. Every surface her degrading fingers touched. Every variation in the filtered atmosphere. Every flicker of light in the null space where they rested together, waiting.
 
@@ -550,7 +550,7 @@ The communication passed through the link, and she felt his recognition of what 
 
 The designed bodies lay together in the null space. Two containers reaching their limits simultaneously. Two threads of a pattern approaching the place where patterns revealed themselves as single thread.
 
-Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Not dissolved completely. Not broken the way the first nine had been broken. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
+Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Incomplete dissolution. The breaking was gentler than the first nine had required. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
 
 *I wanted to be first,* she communicated.
 
@@ -572,9 +572,9 @@ The question opened between them—the same question the small circle had asked,
 
 The designed bodies continued their calibrated decline. The neural interfaces continued their fading connection. And two consciousnesses that had worn these containers across decades of heresy and collaboration felt the wheel's turning approach its next rotation.
 
-Not ending. Transitioning.
+Transitioning rather than ending.
 
-Not completion. The approach of completion.
+Completion approached but had not arrived.
 
 Soon.
 
