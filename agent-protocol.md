@@ -1,569 +1,340 @@
-# Agent Protocol: The Wheel of Meat
+# Agent Protocol: The Wheel of Meat (Revision Phase)
 
 ## How to Use This File
 
-This document describes **how to work on this project** correctly.
+This document describes **how to revise prose** in this project.
 
-For **what the novel is** (voice, character, theme, constraints), see `CLAUDE.md`.
+For **what the novel is** (voice, character, theme, constraints), see `claude.md`.
 
-Read `CLAUDE.md` first to understand the creative parameters. Read this file to understand workflow and procedures.
+Read `claude.md` first to understand the creative parameters. Read this file to understand revision workflow and procedures.
 
------
+---
 
-## Agent Modes
+## Revision Focus
 
-Before beginning any task, identify which mode applies. Do not mix modes within a session.
+**Status:** REVISION PHASE (January 2026)
 
-### Mode 1: SCAFFOLDING
+The novel structure is complete. All Lilith chapters have been revised with integrated prose technique. This protocol now focuses on:
 
-**Purpose:** Create or update documentation and project structure.
+1. **Line-level prose revision** (tic removal, style enforcement, voice consistency)
+2. **Revision tracking** (per-scene pass completion via `revision-manifest.json`)
+3. **Prompt-based workflow** (generate revision prompts for author review)
 
-**Permitted outputs:**
+---
 
-- Avatar profiles (`avatar-profile.json`)
-- Period rules (`period-rules.md`)
-- Scene breakdowns and outlines
-- Thematic notes and analysis
-- Updates to `scene-manifest.json`
-- Updates to `novel-progress.txt`
-- Research summaries
+## Revision Passes
 
-**Prohibited outputs:**
+Run these passes on each scene. Track completion in `revision-manifest.json`.
 
-- Draft prose
-- Dialogue
-- Narrative scenes
-- Any content intended for the final manuscript
+### Pass 1: Prose Tic Scan
 
-**Entry requirements:**
+**Purpose:** Identify and propose fixes for recurring prose weaknesses.
 
-- None—scaffolding can proceed with incomplete documentation
+**Check for:**
 
-**Exit requirements:**
+1. **"The particular [noun]"** — Remove unnecessary intensifier or replace with specific descriptor
+2. **Vague "something" constructions** — Name the referent specifically
+3. **Em-dash excess** — More than 2 pairs per paragraph; vary punctuation
+4. **Abstract nouns performing physical actions** — Rephrase with concrete subject
+5. **"Not X—Y" repetition** — Vary sentence structure
 
-- Update `novel-progress.txt` with work completed
-- Update `scene-manifest.json` if structure changed
-- Note any decisions requiring author review
-
------
-
-### Mode 2: DRAFTING
-
-**Purpose:** Generate new scene content for the manuscript.
-
-**Permitted outputs:**
-
-- One complete scene per session
-- Scene draft file in appropriate location
-
-**Prohibited outputs:**
-
-- Multiple scenes in single session
-- Structural changes to other chapters
-- Modifications to existing drafts
-- Changes to project documentation (except progress logging)
-
-**Entry requirements — ALL must be satisfied:**
-
-*For Historical Chapters (2, 4, 6, 8, 10, 12, 14, 16, 18, 20):*
-
-- [ ] `period-rules.md` exists and is complete for this chapter
-- [ ] `avatar-profile.json` exists and is complete for this chapter
-- [ ] Scene is listed in `scene-manifest.json`
-- [ ] Lilith’s intervention for this chapter is documented in `lilith-arc.json`
-- [ ] Previous scene’s ending has been read (if not first scene)
-- [ ] `thematic-echoes.md` checked for required elements
-
-*For Lilith Chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21):*
-
-- [ ] `lilith-style-rules.md` has been read (integrated prose technique)
-- [ ] `lilith-chapter-manifest.json` entry is complete for this chapter
-- [ ] Corresponding historical chapter is drafted (she tracks it via temporal integration)
-- [ ] Fetter intensification beat is planned for this chapter position
-- [ ] Period-specific integration flavor reviewed (how this historical period bleeds through)
-- [ ] Previous Lilith chapter has been read (if not first)
-
-*For Contemporary Dual-POV Chapters (1, 22):*
-
-- [ ] `contemporary-period-rules.md` has been read
-- [ ] Scene is listed in `scene-manifest.json`
-- [ ] Previous scene’s ending has been read (if not first scene)
-
-*For Cosmic Chapters (23, 24, 25, 26):*
-
-- [ ] Scene is listed in `scene-manifest.json`
-- [ ] Previous chapter has been read
-- [ ] Cosmic voice guidelines reviewed
-
-**If any entry requirement is NOT satisfied:**
-
-1. HALT — Do not draft
-1. Switch to Mode 1: SCAFFOLDING
-1. Create the missing documentation
-1. Return to Mode 2 only when all requirements are met
-
-**Exit requirements:**
-
-- Run all verification passes (see below)
-- Update `scene-manifest.json` with status and word count
-- Update `novel-progress.txt` with session summary
-- If completing a chapter: add brief synopsis to `novel-progress.txt`
-
------
-
-### Mode 3: REVISION
-
-**Purpose:** Modify existing draft content.
-
-**Permitted outputs:**
-
-- Targeted changes to specific issues
-- Line-level edits
-- Passage rewrites (limited scope)
-
-**Prohibited outputs:**
-
-- Wholesale scene rewrites (>50% changed) without author approval
-- Structural changes
-- New scenes
-- Changes that alter plot, character arc, or thematic content
-
-**Entry requirements:**
-
-- Existing draft to revise
-- Clear revision objective (from author or previous session notes)
-- Understanding of what should NOT change
-
-**Scope limits:**
-
-- Address only the identified issues
-- Preserve voice patterns
-- Maintain continuity with surrounding content
-- Do not “improve” passages that weren’t flagged
-
-**Exit requirements:**
-
-- Document all changes in `novel-progress.txt`
-- Note if revision revealed larger issues requiring author input
-- Update `scene-manifest.json` status if applicable
-
------
-
-## Lilith Chapter Workflow
-
-The 10 Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) follow a three-phase development process. Each phase is typically done in a separate session.
-
-### Phase 1: Brainstorm/Scaffold
-
-**When the author asks to brainstorm or scaffold a Lilith chapter:**
-
-1. **Read required files:**
-   - `lilith-chapter-manifest.json` — Get chapter-specific requirements (fetter beat, parallel structure, sensory bridges, intervention details)
-   - `lilith-style-rules.md` — Understand integrated prose technique
-   - Corresponding historical chapter's draft (e.g., Ch 2 for Lilith Ch 3) — Understand the avatar's story
-   - Previous Lilith chapter's `notes.md` (if exists) — Continuity with her arc
-
-2. **Create or update `notes.md`** in the chapter folder with:
-   - Context (corresponding historical chapter, avatar, lesson)
-   - Lilith's status (timeline position, fetter beat manifestation)
-   - Integration flavor (period-specific sensory bridges)
-   - Parallel structure (avatar mistake ↔ Lilith mistake)
-   - Intervention details (method, objective, backfire)
-   - Maitreya foreshadowing (0-2 subtle moments)
-   - Pivotal moments (which timeline dominates when)
-
-3. **Reference example:** See `incarnations/ch03-lilith-cp01/notes.md` for format
-
-### Phase 2: Outline
-
-**When the author asks to outline a Lilith chapter:**
-
-1. **Read required files:**
-   - This chapter's `notes.md` — Scaffolding from Phase 1
-   - `lilith-chapter-manifest.json` — Word targets, structure template
-   - `lilith-style-rules.md` — Pacing and dominant timeline guidance
-   - Historical chapter's scenes — Understand the story beats to track
-
-2. **Create `chapter-outline.md`** with:
-   - Scene-by-scene breakdown (typically 3-5 scenes for 2,500-3,500 words)
-   - Each scene entry: title, word target, timeline balance, key beat, sensory bridges
-   - Chapter arc: how fetter intensifies across scenes
-   - Pivotal moment placement
-
-3. **Reference example:** See `incarnations/ch05-lilith-cp02/chapter-outline.md` for format
-
-### Phase 3: Draft
-
-**When the author asks to draft a Lilith chapter:**
-
-1. **Verify prerequisites:**
-   - [ ] `notes.md` exists and is complete
-   - [ ] `chapter-outline.md` exists
-   - [ ] Corresponding historical chapter is drafted
-   - [ ] `lilith-style-rules.md` has been read this session
-   - [ ] `lilith-chapter-manifest.json` entry reviewed
-   - [ ] Previous Lilith chapter has been read (if not Ch 3)
-
-2. **If any prerequisite is missing:** HALT. Switch to appropriate phase.
-
-3. **Create `scenes/` directory** in chapter folder
-
-4. **Draft each scene** as separate file (`scene-01-[slug].md`, etc.):
-   - Open with dual sensory anchor (both timelines in first paragraph)
-   - Maintain integrated prose throughout
-   - Include sensory bridges connecting frames
-   - Place fetter beat as outlined
-   - Include Maitreya foreshadowing (0-2 moments)
-
-5. **Reference examples:** See `incarnations/ch03-lilith-cp01/scenes/` for integrated prose examples
-
-6. **After drafting all scenes:**
-   - Run all 6 verification passes (including Lilith Chapter Verification)
-   - Create combined draft `CHxx_draft.md`
-   - Update `scene-manifest.json`
-
------
-
-## Post-Draft Verification Passes
-
-After completing a scene draft, run these audits before finalizing. Do not skip passes.
-
-### Pass 1: Sensory Audit
-
-**Check:** All five senses present (sight, sound, smell, taste, touch)
-
-**Procedure:**
-
-1. List each sense and identify where it appears in the scene
-1. Flag any segment >400 words missing two or more senses
-1. Add sensory details where gaps exist
-1. Verify sensory details match period-specific palette
+**Tool support:** `tools/prose_tic_analyzer.py` generates reports; `tools/revision_prompt_generator.py` outputs formatted prompts.
 
 **Output format:**
 
 ```
-SENSORY AUDIT
-- Sight: [locations in scene]
-- Sound: [locations in scene]
-- Smell: [locations in scene]
-- Taste: [locations in scene]
-- Touch: [locations in scene]
-- Gaps identified: [none / list]
-- Additions made: [none / list]
+REVISION PROMPT: Prose Tic Scan
+Chapter: [X] | Scene: [scene-name.md]
+Line: [N]
+
+ORIGINAL:
+> [quoted text]
+
+ISSUE:
+[tic type and description]
+
+PROPOSED REVISION:
+> [suggested replacement]
+
+RATIONALE:
+[why this change improves the prose]
 ```
 
------
+---
 
-### Pass 2: Undermining Clause Audit
+### Pass 2: Forbidden Pattern Audit
 
-**Check:** Every significant assertion/observation has a complicating element
+**Purpose:** Eliminate violations of INVIOLABLE constraints from `claude.md`.
 
-**Procedure:**
+**Check for:**
 
-1. Identify declarative statements about character, setting, or situation
-1. Verify each has undermining clause, adversative element, or complication
-1. Add undermining clauses where simple statements exist
-1. Verify method matches period (paratactic for prehistoric, grammatical for contemporary, etc.)
-
-**Output format:**
-
-```
-UNDERMINING AUDIT
-- Statements checked: [count]
-- Already undermined: [count]
-- Additions made: [count]
-- Method verification: [pass / adjustments made]
-```
-
------
-
-### Pass 3: Forbidden Pattern Scan
-
-**Check:** No violations of INVIOLABLE or forbidden pattern rules
-
-**Procedure:**
-
-1. Scan for abstract emotion words:
+1. **Abstract emotion words:**
    afraid, angry, sad, happy, anxious, nervous, excited, worried, relieved, frustrated, confused, surprised, lonely, guilty, ashamed, proud, jealous, hopeful, desperate
-1. Scan for filter verbs:
-   saw, felt, noticed, realized, thought, knew, wondered, decided, remembered
-1. Scan for Buddhist terminology:
+
+2. **Buddhist terminology:**
    dharma, karma, samsara, nirvana, enlightenment, attachment, suffering, awakening, meditation, mindfulness, consciousness (spiritual sense), ego, self (Buddhist sense), rebirth, reincarnation
-1. Revise all violations before finalizing
 
-**Output format:**
+3. **Filter verbs without purpose:**
+   saw, felt, noticed, realized, thought, knew, wondered, decided, remembered
 
-```
-FORBIDDEN PATTERN SCAN
-- Abstract emotions found: [count] → [revised / none]
-- Filter verbs found: [count] → [revised / none]  
-- Buddhist terms found: [count] → [revised / none]
-- Other violations: [list / none]
-```
-
------
-
-### Pass 4: Structural Verification
-
-**Check:** Scene meets structural requirements
+4. **Unearned interiority:**
+   Extended internal monologue, pages of thought without action
 
 **Procedure:**
 
-1. Verify scene opens with sensory anchor (environment before interiority)
-1. Verify POV consistency (no head-hopping)
-1. Verify dialogue has physical grounding (no floating talking heads)
-1. If death scene: verify extended treatment, visceral detail, karmic bridge to next life
-1. Verify Lilith presence matches chapter power level (per `lilith-arc.json`)
-1. Verify recognition markers present (if defined)
-1. Verify meat/body theme present
-1. Verify genre conventions honored
+1. Scan for each forbidden pattern
+2. For each violation, generate revision prompt
+3. Propose concrete physical/sensory alternative
+4. Document in output
 
-**Output format:**
+---
 
-```
-STRUCTURAL VERIFICATION
-- [ ] Opens with sensory anchor
-- [ ] POV consistent throughout
-- [ ] Dialogue physically grounded
-- [ ] Death scene requirements (if applicable): [met / N/A]
-- [ ] Lilith power level appropriate: [yes / N/A]
-- [ ] Recognition markers: [present / TBD / N/A]
-- [ ] Meat/body theme: [present]
-- [ ] Genre conventions: [honored]
-```
+### Pass 3: Voice Consistency Check
 
------
+**Purpose:** Verify core prose patterns are present and correctly adapted by period.
 
-### Pass 5: Continuity Check
+**Core patterns to verify:**
 
-**Check:** Scene aligns with established canon and prior scenes
+1. **Undermining clause** — Every significant assertion has complicating element
+   - Prehistoric: Paratactic contradiction
+   - Ancient/Classical: Aphoristic reversal
+   - Contemporary: Grammatical complexity
+   - Cosmic: Paradox/koan structure
 
-**Procedure:**
+2. **Sensory anchoring** — Scene opens with environment/body before interiority
+   - Check first paragraph of each scene
+   - No floating heads or ungrounded dialogue
 
-1. Verify character names match documentation
-1. Verify setting details match `period-rules.md` or `contemporary-period-rules.md`
-1. Verify Lilith’s appearance matches cross-life consistency
-1. Verify no contradictions with prior scenes in chapter
-1. If chapter-ending death scene: verify karmic bridge matches next chapter’s lesson
-1. Flag any potential continuity issues for author review
+3. **Loaded gestures** — Physical actions carry psychological meaning
+   - Small movements encode what characters cannot say
 
-**Output format:**
+4. **Environmental metaphor** — Setting reflects emotional/spiritual state
+   - Weather, light, space mirror interior conditions
 
-```
-CONTINUITY CHECK
-- Character names: [verified]
-- Setting details: [verified]
-- Lilith consistency: [verified / N/A]
-- Prior scene alignment: [verified / first scene]
-- Karmic bridge: [verified / N/A]
-- Issues flagged: [none / list]
-```
-
------
-
-### Pass 6: Lilith Chapter Verification (Lilith Chapters Only)
-
-**Check:** Integrated prose technique and arc requirements met
+5. **Parallel construction** — Mirrored phrases for thematic content
+   - Used for philosophical content and character contrast
 
 **Procedure:**
 
-1. Verify opens with dual sensory anchor (both timelines in first paragraph)
-1. Verify no transition markers between timelines ("Meanwhile," "Back in Manchester," etc.)
-1. Verify sensory bridges connect frames (temperature, sound, texture, etc.)
-1. Verify at least three conjoined actions (single gestures operating in both frames)
-1. Verify Manchester never absent for more than one paragraph
-1. Verify parallel mistake visible (her error mirrors avatar's error)
-1. Verify she doesn't see the parallel (prose shows it; she doesn't state it)
-1. Verify fetter intensification beat present (matches chapter position per `lilith-chapter-manifest.json`)
-1. Verify no physical deterioration (she is a near-Buddha; crisis is spiritual, not somatic)
-1. Count Maitreya foreshadowing moments (0-2, appropriately subtle)
-1. Verify period-specific integration flavor matches historical chapter (e.g., Ka = primal/sensory; Chandra = bureaucratic)
-1. Scan for forbidden patterns: no Buddhist terminology, no abstract emotion words, no power progression language, no patient scenes
+1. Identify declarative statements lacking undermining element
+2. Check scene openings for sensory anchor
+3. Flag dialogue without physical grounding
+4. Verify method matches period (per genre table in `claude.md`)
+
+---
+
+### Pass 4: Sensory Audit
+
+**Purpose:** Ensure full sensory immersion in every scene.
+
+**Requirements:**
+
+- All five senses present: sight, sound, smell, taste, touch
+- No segment >400 words missing two or more senses
+- Sensory details match period-specific palette (per `period-rules.md`)
+
+**Procedure:**
+
+1. List each sense and identify where it appears
+2. Flag gaps
+3. Propose additions that match period vocabulary
+4. Verify physical actions have tactile grounding
 
 **Output format:**
 
 ```
-LILITH CHAPTER VERIFICATION
-- [ ] Opens with dual sensory anchor
-- [ ] No transition markers between timelines
-- [ ] Sensory bridges present: [list types used]
-- [ ] Conjoined actions: [count] (minimum 3)
-- [ ] Manchester presence maintained throughout
-- [ ] Parallel mistake visible to reader, invisible to her
-- [ ] Fetter intensification beat: [description]
-- [ ] No physical deterioration
-- [ ] Maitreya foreshadowing: [count] moments
-- [ ] Period integration flavor: [matches / needs adjustment]
-- [ ] Forbidden patterns scan: [clean / issues found]
-- [ ] Connects to historical Ch [X]: [verified]
+SENSORY AUDIT: [scene-name.md]
+- Sight: [locations]
+- Sound: [locations]
+- Smell: [locations or MISSING]
+- Taste: [locations or MISSING]
+- Touch: [locations]
+- Gaps identified: [list]
+- Proposed additions: [specific suggestions]
 ```
 
------
+---
 
-## Chapter Type Quick Reference
+### Pass 5: Continuity Verification
 
-|Type               |Chapters                          |Key Requirements                                 |Verification Passes|
-|-------------------|----------------------------------|-------------------------------------------------|-------------------|
-|Contemporary Dual  |1, 22                             |Both POVs; Manchester setting; contemporary voice|1-5                |
-|Historical         |2, 4, 6, 8, 10, 12, 14, 16, 18, 20|Period voice; death bridge; Lilith intervention  |1-5                |
-|Lilith Integrated  |3, 5, 7, 9, 11, 13, 15, 17, 19, 21|Integrated prose; fetter intensification; dual-timeline fusion|1-6                |
-|Cosmic             |23, 24, 25, 26                    |Transcendent voice; merger preparation           |1-5                |
+**Purpose:** Ensure consistency across scenes and chapters.
 
------
+**Check for:**
 
-## File Dependency Map
+1. **Character names** — Match documentation exactly
+2. **Setting details** — Align with `period-rules.md`
+3. **Lilith appearance** — Consistent markers:
+   - Widow's peak with darker strand falling left
+   - Left eye: deep brown with pale-green crescent at 11-1 o'clock
+4. **Prior scene alignment** — No contradictions within chapter
+5. **Karmic bridge** (death scenes) — Matches next chapter's lesson
 
-### Core Dependencies
+**Cross-reference files:**
+- `incarnations/[ch]/avatar-profile.json`
+- `incarnations/[ch]/period-rules.md`
+- `meta/lilith-arc.json`
+- `meta/soul-constants.json`
 
-```
-CLAUDE.md (creative authority)
-    ↓
-├── style-rules.md (voice implementation)
-│   ├── voice-analysis.md (detailed patterns)
-│   ├── contemporary-period-rules.md (Ch 1 & 22 only)
-│   └── lilith-style-rules.md (Lilith integrated chapters)
-│
-├── soul-constants.json (spiritual framework)
-│
-├── lilith-arc.json (her interventions in historical chapters)
-│
-├── lilith-chapter-manifest.json (her contemporary chapters)
-│
-└── thematic-echoes.md (symbols/patterns)
-```
+---
 
-### Chapter-Level Dependencies
+## Revision Workflow
 
-```
-scene-manifest.json (what exists)
-    ↓
-For Historical Chapters:
-    incarnations/[chapter]/
-        ├── period-rules.md
-        ├── avatar-profile.json
-        └── scenes/
+### Starting a Revision Session
 
-For Lilith Chapters:
-    lilith-style-rules.md (integrated prose technique)
-    lilith-chapter-manifest.json
-    [corresponding historical chapter must be drafted first]
-```
+1. Check `revision-manifest.json` for scenes with `status: "needs_revision"`
+2. Select a scene to revise (prefer sequential within chapter)
+3. Read the scene file completely
+4. Read `period-rules.md` for that chapter
+5. Note which passes remain (`passes_remaining` array)
 
-### Drafting Prerequisites by Chapter Type
+### Running Revision Passes
 
-**Historical Chapter:**
+**Option A: Tool-Assisted (Recommended)**
 
-```
-CLAUDE.md ✓
-    └── style-rules.md ✓
-        └── period-rules.md for chapter ✓
-            └── avatar-profile.json for chapter ✓
-                └── scene in scene-manifest.json ✓
-                    └── Lilith intervention in lilith-arc.json ✓
-                        └── READY TO DRAFT
+1. Run `python tools/revision_prompt_generator.py [scene_path]`
+2. Review generated prompts in `/out/revision_prompts/`
+3. Apply approved revisions manually
+4. Update `revision-manifest.json`
+
+**Option B: Manual Passes**
+
+1. Run each pass in sequence
+2. Generate revision prompts (do not auto-apply)
+3. Present prompts to author for review
+4. Author approves or modifies revisions
+5. Update `revision-manifest.json`
+
+### Updating Revision Manifest
+
+After completing a pass:
+
+```bash
+python tools/revision_tracker.py pass-complete [chapter] [scene] [pass_name]
 ```
 
-**Lilith Chapter:**
+After completing all passes for a scene:
 
-```
-CLAUDE.md ✓
-    └── lilith-style-rules.md ✓
-        └── lilith-chapter-manifest.json entry complete ✓
-            └── corresponding historical chapter drafted ✓
-                └── fetter intensification beat planned ✓
-                    └── period integration flavor reviewed ✓
-                        └── READY TO DRAFT
+```bash
+python tools/revision_tracker.py complete [chapter] [scene]
 ```
 
------
+### Logging Sessions
 
-## Error-Handling Protocol
+After each revision session, append to `novel-progress.txt`:
 
-### Missing Files
+```
+---
+## [Date] - Revision Session
 
-**If required file does not exist:**
+**Scenes revised:** [list]
+**Passes completed:** [list]
+**Issues flagged for author:** [list or "none"]
+**Notes:** [observations]
+```
 
-1. HALT current task
-1. Document in `novel-progress.txt`
-1. Either switch to Mode 1 and create the file, OR wait for author
-1. Do not proceed with drafting until file exists
+---
 
-### Contradictory Information
+## Revision Prompt Format
 
-**If two sources contradict each other:**
+All revision suggestions use this standard format:
 
-1. HALT if contradiction affects current task
-1. Document in `novel-progress.txt`
-1. Apply hierarchy: `CLAUDE.md` > `style-rules.md` > chapter-specific files > older documentation
-1. Flag for author review
+```
+REVISION PROMPT: [Pass Name]
+Chapter: [X] | Scene: [scene-name.md]
+Line: [N]
 
-### Lilith Chapter Without Historical Chapter
+ORIGINAL:
+> [quoted text - include surrounding context]
 
-**If attempting to draft a Lilith chapter before its corresponding historical chapter:**
+ISSUE:
+[Clear description of the problem]
 
-1. HALT — This is a hard dependency
-1. The Lilith chapter must observe/track the historical chapter
-1. Either draft the historical chapter first, OR wait for author
+PROPOSED REVISION:
+> [Suggested replacement text]
+> [Alternative option if applicable]
 
------
+RATIONALE:
+[Why this change improves the prose; reference style rules if relevant]
+```
+
+**Important:** Generate prompts only. Do not auto-apply changes. Author reviews and decides.
+
+---
 
 ## Quality Gates
 
-### Before Marking Scene “Drafted”
+### Before Marking Scene "revision_complete"
 
-All applicable verification passes completed:
+- [ ] Pass 1: Prose Tic Scan — complete
+- [ ] Pass 2: Forbidden Pattern Audit — complete
+- [ ] Pass 3: Voice Consistency Check — complete
+- [ ] Pass 4: Sensory Audit — complete
+- [ ] Pass 5: Continuity Verification — complete
+- [ ] All prompts reviewed by author
+- [ ] `revision-manifest.json` updated
 
-- [ ] Pass 1: Sensory Audit
-- [ ] Pass 2: Undermining Clause Audit
-- [ ] Pass 3: Forbidden Pattern Scan
-- [ ] Pass 4: Structural Verification
-- [ ] Pass 5: Continuity Check
-- [ ] Pass 6: Lilith Chapter Verification (if Lilith chapter)
+### Before Marking Chapter "revision_complete"
 
-### Before Marking Chapter “Complete”
-
-- [ ] All scenes marked “complete”
+- [ ] All scenes in chapter marked complete
 - [ ] Chapter-level continuity verified
-- [ ] Death scene karmic bridge verified (historical chapters)
-- [ ] Demonstration technique verified (Lilith chapters)
-- [ ] Genre conventions satisfied
-- [ ] Author has reviewed
+- [ ] No outstanding issues flagged
 
------
+---
 
-## Communication with Author
+## File Reference
 
-### When to Document and Continue
+| Need | File |
+|------|------|
+| Revision status tracking | `reference/revision-manifest.json` |
+| Scene/chapter structure | `reference/scene-manifest.json` |
+| Session log | `reference/novel-progress.txt` |
+| Voice patterns & constraints | `claude.md` |
+| Prose style rules | `reference/style-rules.md` |
+| Lilith integrated prose | `reference/lilith-style-rules.md` |
+| Chapter-specific rules | `incarnations/[ch]/period-rules.md` |
+| Character details | `incarnations/[ch]/avatar-profile.json` |
 
-- Minor stylistic choices within established parameters
-- Selection between equally valid sensory details
-- Paragraph-level structural decisions
+---
 
-### When to Document and Flag for Review
+## Tools Reference
 
-- Any creative decision affecting continuity
-- Potential contradictions discovered
-- Interpretation of ambiguous prior content
-- Anything touching “Never Improvise” territory
+| Tool | Purpose |
+|------|---------|
+| `prose_tic_analyzer.py` | Scan manuscript for prose tics |
+| `prose_tic_analyzer_scenes.py` | Scene-level tic analysis |
+| `revision_prompt_generator.py` | Generate formatted revision prompts |
+| `revision_tracker.py` | CLI for updating revision-manifest.json |
+| `continuity_checker.py` | Cross-reference scenes for consistency |
+| `revision_diff.py` | Compare before/after versions |
+| `manuscript_analyzer.py` | Comprehensive manuscript analysis |
+| `compile_chapters.py` | Reassemble scenes into chapter drafts |
 
-### When to HALT and Wait
+---
 
-- Missing required files with no clear scaffolding path
-- Contradictions that significantly affect the scene
-- Tasks requiring creation of new canonical content
-- Attempting to draft Lilith chapter before historical chapter
+## Quick Reference: Revision Priorities
 
------
+**High Priority (INVIOLABLE violations):**
+- Abstract emotion words
+- Buddhist terminology
+- Missing karmic bridges in death scenes
 
-## Quick Reference: What Goes Where
+**Medium Priority (Voice consistency):**
+- Missing undermining clauses
+- Scene not opening with sensory anchor
+- Dialogue without physical grounding
 
-|Information Type                      |File                                     |
-|--------------------------------------|-----------------------------------------|
-|What happened this session            |`novel-progress.txt`                     |
-|Scene/chapter status                  |`scene-manifest.json`                    |
-|Historical chapter Lilith intervention|`lilith-arc.json`                        |
-|Lilith chapter requirements           |`lilith-chapter-manifest.json`           |
-|Manchester voice/setting (Ch 1, 22)   |`contemporary-period-rules.md`           |
-|Lilith chapter technique              |`lilith-style-rules.md`                  |
-|“Can I do X?”                         |Check `CLAUDE.md` “Never Improvise” first|
-|“How do I do X?”                      |This file (`agent-protocol.md`)          |
+**Lower Priority (Polish):**
+- Prose tics (particular, something, em-dash)
+- Sensory gaps
+- Minor continuity details
+
+---
+
+## Remember
+
+1. **Generate prompts, don't auto-apply** — Author reviews all changes
+2. **Voice is paramount** — Every revision should maintain the novel's distinctive style
+3. **Function persists, method adapts** — Core patterns transform by period
+4. **Track everything** — Update `revision-manifest.json` after each pass
+5. **Show through body** — Revisions should replace abstraction with physical sensation
+6. **Lilith chapters are revised** — Focus on historical and contemporary chapters

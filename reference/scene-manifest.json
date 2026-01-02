@@ -179,7 +179,7 @@
         "status": "Early soul development"
       },
       "lilith": {
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "note": "Lilith has full power from the start; what escalates is her attachment, not her capability",
         "intervention": "None\u2014this is when she first becomes aware of his pattern",
         "objective": null
@@ -364,7 +364,7 @@
           "status": "draft"
         }
       ],
-      "status": "draft"
+      "status": "revised"
     },
     {
       "chapter": 4,
@@ -384,7 +384,7 @@
         "status": "Developing soul"
       },
       "lilith": {
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Remote influence\u2014can affect intermediaries",
         "intervention": "Influences Devaka's betrayal to harden Chandra against trust",
         "objective": "Sabotage development of true generosity by corrupting trusted relationships"
@@ -570,7 +570,7 @@
           "status": "draft"
         }
       ],
-      "status": "draft"
+      "status": "revised"
     },
     {
       "chapter": 6,
@@ -601,7 +601,7 @@
       "lilith": {
         "age": 27,
         "identity": "Unknown presence in Athens",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Dream influence\u2014can plant suggestions and emotional residue during sleep",
         "intervention_1": {
           "timing": "First Episode",
@@ -974,7 +974,7 @@
           "status": "draft"
         }
       ],
-      "status": "draft"
+      "status": "revised"
     },
     {
       "chapter": 8,
@@ -1005,7 +1005,7 @@
       "lilith": {
         "age": 34,
         "identity": "Marcia Faenia\u2014quiet young woman, dark-haired, observational stillness",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
         "cameo": {
           "scene": 4,
           "method": "Silent observation at Stoic debate; establishes physical characteristics",
@@ -1384,7 +1384,7 @@
       "function": "Strategy evolution from force to nuance; 'Together doesn't hold' beat; attachment to precision intensifies; backfire pattern becoming harder to ignore",
       "word_target": 3000,
       "scenes": [],
-      "status": "needs_full_rewrite"
+      "status": "revised"
     },
     {
       "chapter": 10,
@@ -1406,7 +1406,7 @@
       "lilith": {
         "incarnation": "Theodora",
         "role": "Church dignitary accompanying Archdeacon Theophanes",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Physical manifestation as Theodora\u2014stronger influence on events and people",
         "intervention": "Feeds his pride through excessive praise via Theophanes; does not speak directly to Macarius",
         "objective": "Make him attached to being unattached; corrupt asceticism into vanity"
@@ -1584,7 +1584,7 @@
       "function": "First inexplicable hesitations; unnamed pull emerging; attachment to certainty despite doubts",
       "word_target": 3000,
       "scenes": [],
-      "status": "needs_full_rewrite"
+      "status": "revised"
     },
     {
       "chapter": 12,
@@ -1609,7 +1609,7 @@
       },
       "lilith": {
         "identity": "The Attendant\u2014a pushed servant woman (Lilith's first vessel pushing attempt)",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Vessel Pushing (Low Agency)\u2014operates through subconscious compulsion from afar; environmental stagecraft; rare moments of full lucidity",
         "intervention": "Pushes the Attendant to stage-manage a 'perfect romance' around Lady Hotaru (an aging, ill noblewoman puppeteered as 'timeless beauty'); creates a stasis field where nothing decays",
         "objective": "To freeze time and bind Kaoru to the realm of desire by removing the impermanence that makes beauty meaningful"
@@ -1742,20 +1742,20 @@
         },
         "historical": {
           "period": "Heian Japan",
-          "location": "Heian-kyō (Kyoto)",
+          "location": "Heian-ky\u014d (Kyoto)",
           "year": "~1000 CE",
           "avatar": "Kaoru"
         },
-        "integration_technique": "Aesthetic, beauty saturating both frames, longing amplified—mono no aware in dual register"
+        "integration_technique": "Aesthetic, beauty saturating both frames, longing amplified\u2014mono no aware in dual register"
       },
       "pov": "Lilith (integrated with Kaoru's experience)",
       "lilith": {
         "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 5-6",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
         "constraints": [
-          "Cannot override karmic law—interventions backfire structurally",
+          "Cannot override karmic law\u2014interventions backfire structurally",
           "Cannot force choices or negate accumulated merit",
           "Cannot change past events, only manifest within them and influence"
         ],
@@ -1768,14 +1768,14 @@
       "corresponds_to": {
         "historical_chapter": 12,
         "avatar": "Kaoru",
-        "lesson": "Equanimity (upekkhā) / Sensual desire"
+        "lesson": "Equanimity (upekkh\u0101) / Sensual desire"
       },
       "parallel_structure": {
         "kaoru_mistake": "Aesthetic longing becomes attachment, confuses beauty with transcendence",
         "lilith_mistake": "Unnamed pull toward him exceeding tactical necessity, denying what she feels"
       },
       "intervention": {
-        "method": "Physical manifestation as object of desire—dark hair with widow's peak, pale-green crescent in left eye",
+        "method": "Physical manifestation as object of desire\u2014dark hair with widow's peak, pale-green crescent in left eye",
         "objective": "Deepen attachment through beauty and longing",
         "backfire": "Longing teaches him about desire's nature; beauty becomes lesson rather than trap"
       },
@@ -1790,26 +1790,26 @@
       "pivotal_moments": [
         {
           "dominant_timeline": "Historical",
-          "moment": "Kaoru seeing her face—readers recognize before he does—widow's peak, green crescent",
+          "moment": "Kaoru seeing her face\u2014readers recognize before he does\u2014widow's peak, green crescent",
           "technique": "Historical foreground, Manchester recedes"
         },
         {
           "dominant_timeline": "Manchester",
-          "moment": "The university walk—first movement beyond the flat, unknowingly drawn",
+          "moment": "The university walk\u2014first movement beyond the flat, unknowingly drawn",
           "technique": "Pattern break, Manchester dominant"
         }
       ],
       "fetter_beat": {
-        "moment": "Justifying the pull toward him as purely tactical—denial intensifying",
+        "moment": "Justifying the pull toward him as purely tactical\u2014denial intensifying",
         "shown_through": "Internal rationalization, certainty it's strategic, blind to genuine feeling"
       },
       "race_element": {
-        "moment": "First fleeting thought about her own liberation—immediately filed",
+        "moment": "First fleeting thought about her own liberation\u2014immediately filed",
         "function": "Plants seed for Ch 15-21 race arc"
       },
       "maitreya_foreshadowing": [
         "The pull toward him exceeding strategic necessity",
-        "Her appearance to him—first face-to-face across time",
+        "Her appearance to him\u2014first face-to-face across time",
         "Body leading where mind refuses to examine (university walk)"
       ],
       "spiritual_advancement_shown_through": [
@@ -1834,7 +1834,7 @@
           "title": "The Attendant's Residue",
           "file": "scene-02-residue.md",
           "word_count": 500,
-          "function": "Explores aftermath of Attendant manifestation—proximity, the desire to be seen, the filing away of feelings",
+          "function": "Explores aftermath of Attendant manifestation\u2014proximity, the desire to be seen, the filing away of feelings",
           "status": "draft"
         },
         {
@@ -1842,7 +1842,7 @@
           "title": "The University Walk",
           "file": "scene-03-walk.md",
           "word_count": 600,
-          "function": "PATTERN BREAK—first movement beyond the flat; unknowingly drawn to university; race seed planted",
+          "function": "PATTERN BREAK\u2014first movement beyond the flat; unknowingly drawn to university; race seed planted",
           "status": "draft"
         },
         {
@@ -1862,7 +1862,7 @@
           "status": "draft"
         }
       ],
-      "status": "draft"
+      "status": "revised"
     },
     {
       "chapter": 14,
@@ -1889,7 +1889,7 @@
       },
       "lilith": {
         "identity": "Sor Catalina\u2014a beata (lay holy woman) known for visions and counsel",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Sustained presence\u2014vessel acts autonomously; Lilith's involvement revealed in Ch 15",
         "intervention": "Through sustained presence in Sor Catalina, creates conditions where Tom\u00e1s's denunciation feels necessary",
         "objective": "Make betrayal personal and specific to poison Diego with hatred toward a named face",
@@ -2104,14 +2104,14 @@
           "title": "The Encounter",
           "word_count": 635,
           "integration": "70/30 Toledo-dominant - Witnessing past life",
-          "function": "Re-experiencing San Bartolomé encounter as Sor Catalina"
+          "function": "Re-experiencing San Bartolom\u00e9 encounter as Sor Catalina"
         },
         {
           "id": "scene-04-push",
           "title": "The Push",
           "word_count": 518,
           "integration": "40/60 Manchester-dominant - Active intervention",
-          "function": "Pushing Tomás into betrayal; manic precision"
+          "function": "Pushing Tom\u00e1s into betrayal; manic precision"
         },
         {
           "id": "scene-05-memory",
@@ -2132,7 +2132,7 @@
           "title": "The Fire",
           "word_count": 1009,
           "integration": "Historical DOMINANT - Pivotal moment",
-          "function": "Auto-da-fé; backfire crystallizes; face constancy observation"
+          "function": "Auto-da-f\u00e9; backfire crystallizes; face constancy observation"
         },
         {
           "id": "scene-08-seed",
@@ -2142,7 +2142,7 @@
           "function": "Wheel becomes real; intimacy question forms; direction emerging"
         }
       ],
-      "status": "drafted"
+      "status": "revised"
     },
     {
       "chapter": 16,
@@ -2170,7 +2170,7 @@
       "lilith": {
         "identity": "Marguerite Viret\u2014printer's widow, late thirties",
         "appearance": "Dark hair with widow's peak, single darker strand, eyes that see through",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Extended interaction\u2014can engage in sustained conversations",
         "intervention": "Appears as philosophical companion; pushes doubt toward nihilist endpoint",
         "objective": "Feed doubt until he stops believing action is possible; use philosophical coherence to justify spiritual paralysis",
@@ -2344,16 +2344,16 @@
           "year": "1588",
           "avatar": "Jean de Langon"
         },
-        "integration_technique": "Intellectual, wit and doubt, skepticism layered—questions in parallel registers"
+        "integration_technique": "Intellectual, wit and doubt, skepticism layered\u2014questions in parallel registers"
       },
       "pov": "Lilith (integrated with Jean de Langon's experience via Marguerite Viret)",
       "lilith": {
         "age": 34,
         "occupation": "Psychiatrist",
         "weeks_into_tracking": "Week 7-8",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law, not power",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law, not power",
         "constraints": [
-          "Cannot override karmic law—interventions backfire structurally",
+          "Cannot override karmic law\u2014interventions backfire structurally",
           "Cannot force choices or negate accumulated merit",
           "Cannot change past events, only manifest within them and influence"
         ],
@@ -2389,16 +2389,16 @@
       "pivotal_moments": [
         {
           "dominant_timeline": "Historical",
-          "moment": "Jean's breakthrough—recognizing fortress of doubt and choosing truthful action anyway",
+          "moment": "Jean's breakthrough\u2014recognizing fortress of doubt and choosing truthful action anyway",
           "technique": "Historical foreground, Manchester crashes back on backfire"
         }
       ],
       "fetter_beat": {
-        "moment": "Manic persistence—'one more, one more, one more'—exhaustion of strategies",
+        "moment": "Manic persistence\u2014'one more, one more, one more'\u2014exhaustion of strategies",
         "shown_through": "Cycling through approaches (emotional failed, now intellectual), certainty cracking, compulsive university research"
       },
       "maitreya_foreshadowing": [
-        "Scene 4: Flicker of doubt—'Will this actually work?'—filed as strategic assessment",
+        "Scene 4: Flicker of doubt\u2014'Will this actually work?'\u2014filed as strategic assessment",
         "Scene 7: Pull toward him exceeding rational calculation, rationalized as race necessity"
       ],
       "spiritual_advancement_shown_through": [
@@ -2467,7 +2467,7 @@
           "function": "Final fetter beat; compulsive method-cycling; university research visible; seeds Ch19"
         }
       ],
-      "status": "drafted"
+      "status": "revised"
     },
     {
       "chapter": 18,
@@ -2493,7 +2493,7 @@
       "lilith": {
         "primary_objective": "Tracking this incarnation forward to locate modern Silas (reconnaissance mission)",
         "secondary_objective": "Opportunistic intervention to test breaking determination while observing",
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
         "intervention_method": "Circumstantial manipulation\u2014circumstantial manipulation over extended time",
         "intervention": "Adjusts artillery timing, influences unit assignments, spreads disease vectors, causes intelligence failures\u2014ensures everyone Wei saves dies anyway",
         "manifestation": "None\u2014no physical appearance; saves that for modern Manchester",
@@ -2668,7 +2668,7 @@
           "emotional_state": "Total commitment, power at peak, final attempts",
           "escalation": "Full manifestation, face to face"
         },
-        "manchester_development": "LOCATES SILAS in present-day Manchester. Traces his thread forward. Finds him as a philosophy professor at the university. The race element crystallizes: if she can't stop him through historical intervention, she will position herself for the final confrontation—or beat him to enlightenment herself."
+        "manchester_development": "LOCATES SILAS in present-day Manchester. Traces his thread forward. Finds him as a philosophy professor at the university. The race element crystallizes: if she can't stop him through historical intervention, she will position herself for the final confrontation\u2014or beat him to enlightenment herself."
       },
       "corresponds_to": {
         "historical_chapter": 18,
@@ -2755,7 +2755,7 @@
           "id": "scene-06-tracing-forward",
           "title": "Tracing Forward",
           "word_count": 1398,
-          "integration": "Transitional (historical→Manchester)",
+          "integration": "Transitional (historical\u2192Manchester)",
           "function": "Following soul thread forward; 'many lives' implied; sensing present-day Silas; race element crystallizes"
         },
         {
@@ -2773,7 +2773,7 @@
           "function": "Ending beat; loving-kindness misinterpreted; both approaching each other; intimacy strategy set; bridge to Ch1"
         }
       ],
-      "status": "drafted",
+      "status": "revised",
       "outline_complete_date": "2025-12-25",
       "draft_complete_date": "2025-12-25",
       "technical_completion": {
@@ -2781,7 +2781,7 @@
         "integrated_prose_technique": true,
         "maitreya_foreshadowing_count": 2,
         "parallel_structure": "Compulsive helping (Wei) / compulsive tracking (Lilith)",
-        "timeline_transitions": "Full integration → historical dominant → Manchester dominant",
+        "timeline_transitions": "Full integration \u2192 historical dominant \u2192 Manchester dominant",
         "sensory_bridges": true,
         "forbidden_pattern_compliance": true
       }
@@ -2805,8 +2805,8 @@
         "status": "All ten perfections completing; final historical life before stream-entry"
       },
       "lilith": {
-        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation—constrained by karmic law",
-        "intervention_method": "MINIMAL PRESENCE—Observer with circumstantial manipulation\u2014NOT full manifestation",
+        "cosmic_capability": "Full temporal perception, physical manifestation, circumstance manipulation\u2014constrained by karmic law",
+        "intervention_method": "MINIMAL PRESENCE\u2014Observer with circumstantial manipulation\u2014NOT full manifestation",
         "intervention": "MINIMAL PRESENCE: 3 brief appearances as observer only. (1) Background in bar\u2014he doesn't notice, (2) Woman on street\u2014fleeting familiarity dismissed, (3) Passerby when bomb explodes\u2014'rushing to avoid' (matches Ch1 flashback). She accelerates failures from distance; Combination plants the car bomb, not her.",
         "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation before committing to modern intimacy strategy"
       },
@@ -2925,7 +2925,7 @@
         "lilith_mistake": "Obsessive pursuit of him consuming everything else, persistence as compulsion"
       },
       "intervention": {
-        "method": "MINIMAL PRESENCE, NOT FEMME FATALE. 3 brief appearances as distant observer only: (1) background in bar—he doesn't notice, (2) woman on street—fleeting familiarity dismissed, (3) passerby when bomb explodes—'rushing to avoid'. Accelerates failures from distance; Combination plants the car bomb, not her.",
+        "method": "MINIMAL PRESENCE, NOT FEMME FATALE. 3 brief appearances as distant observer only: (1) background in bar\u2014he doesn't notice, (2) woman on street\u2014fleeting familiarity dismissed, (3) passerby when bomb explodes\u2014'rushing to avoid'. Accelerates failures from distance; Combination plants the car bomb, not her.",
         "objective": "Test minimal intervention after Taiping active interference failed; last attempt at past-life manipulation",
         "backfire": "CATASTROPHIC: Accelerating failures teaches outcome-independent perseverance faster. He dies with ALL TEN PERFECTIONS COMPLETE. Next life is stream-entry. Modern intimacy strategy becomes desperate necessity.",
         "the_pattern_complete": "Ten interventions, ten backfires; cannot stop him from historical interventions"
@@ -2943,7 +2943,7 @@
       "pivotal_moments": [
         {
           "dominant_timeline": "Historical",
-          "moment": "Jack Malone's death by car bomb—all ten perfections complete; final historical intervention fails catastrophically",
+          "moment": "Jack Malone's death by car bomb\u2014all ten perfections complete; final historical intervention fails catastrophically",
           "technique": "Historical foreground, Manchester recedes"
         },
         {
@@ -2953,24 +2953,24 @@
         }
       ],
       "fetter_beat": {
-        "moment": "The pivot decision—attachment crystallizing into final gambit: 'I will become the thing he cannot transcend'",
+        "moment": "The pivot decision\u2014attachment crystallizing into final gambit: 'I will become the thing he cannot transcend'",
         "shown_through": "Simultaneous action: catastrophic historical failure (Jack's death with all perfections complete) WHILE making Silas's acquaintance in present-day Manchester"
       },
       "chapter_ending": {
-        "realization": "Cannot stop him from historical interventions—pattern is clear, all ten backfire",
+        "realization": "Cannot stop him from historical interventions\u2014pattern is clear, all ten backfire",
         "simultaneous_structure": "Tracks Jack Malone's death WHILE making Silas's acquaintance in present-day Manchester",
         "final_beat": "Initial contact with Silas established; tracking corner packed away or relocated; intimacy strategy begins",
-        "shows": "Initial acquaintance—possibly setting up her new flat near campus, first meeting, the pull toward him becoming action",
-        "does_NOT_show": "No established relationship—that develops in the gap between this chapter and Chapter 1"
+        "shows": "Initial acquaintance\u2014possibly setting up her new flat near campus, first meeting, the pull toward him becoming action",
+        "does_NOT_show": "No established relationship\u2014that develops in the gap between this chapter and Chapter 1"
       },
-      "time_jump_note": "Weeks to months pass between end of this chapter and Chapter 1. STRUCTURAL NOTE: Lilith locates Silas in Chapter 19. Chapter 21 is SIMULTANEOUS—she tracks Jack Malone's final life WHILE making Silas's acquaintance in present-day Manchester. The time jump covers only relationship deepening, not initial meeting. During gap (OFF-PAGE): relationship deepens to established lovers, rebuilds composure over tracking fever. The relationship becomes both tactic and (complicating) genuine feeling. Chapter 1 shows the result.",
+      "time_jump_note": "Weeks to months pass between end of this chapter and Chapter 1. STRUCTURAL NOTE: Lilith locates Silas in Chapter 19. Chapter 21 is SIMULTANEOUS\u2014she tracks Jack Malone's final life WHILE making Silas's acquaintance in present-day Manchester. The time jump covers only relationship deepening, not initial meeting. During gap (OFF-PAGE): relationship deepens to established lovers, rebuilds composure over tracking fever. The relationship becomes both tactic and (complicating) genuine feeling. Chapter 1 shows the result.",
       "maitreya_foreshadowing": [
         "Inexplicable pain when causing detective suffering in confrontation",
         "Moment of losing track of which consciousness is which during face-to-face",
         "The pull toward him that has grown far beyond strategy\u2014now driving the pivot to intimacy"
       ],
       "spiritual_advancement_shown_through": [
-        "Full cosmic capability—minimal presence, distant observation only",
+        "Full cosmic capability\u2014minimal presence, distant observation only",
         "Ability to hold 1930s noir and Manchester present simultaneously",
         "Understanding detective's obsessive perseverance while practicing obsessive tracking"
       ],
@@ -3014,8 +3014,8 @@
         }
       ],
       "total_word_count": 3700,
-      "status": "drafted",
-      "critical_note": "This chapter shows INITIAL CONTACT with Silas—making his acquaintance while simultaneously tracking Jack Malone's death. The established, intimate relationship develops in the gap between this chapter and Chapter 1. Two timelines: Manchester present (meeting Silas, possibly setting up new flat near campus) + 1938 LA (Jack Malone's death, catastrophic backfire)."
+      "status": "revised",
+      "critical_note": "This chapter shows INITIAL CONTACT with Silas\u2014making his acquaintance while simultaneously tracking Jack Malone's death. The established, intimate relationship develops in the gap between this chapter and Chapter 1. Two timelines: Manchester present (meeting Silas, possibly setting up new flat near campus) + 1938 LA (Jack Malone's death, catastrophic backfire)."
     },
     {
       "chapter": 22,

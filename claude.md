@@ -14,7 +14,7 @@ Read this file to understand voice, character, and theme. Read `agent-protocol.m
 
 A literary novel following one soul’s journey toward enlightenment across ten historical lives, spanning 300,000 years. Each chapter operates in a distinct historical period and genre (survival horror, political thriller, noir, cosmic fantasy, etc.) while maintaining unified voice patterns and thematic throughlines.
 
-**Current Progress (December 2025):** Chapters 1-12 are drafted (~73,500 words). Four historical avatars remain undeveloped (Ch 14, 16, 18, 20).
+**Current Progress (January 2026):** REVISION PHASE. All Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) are revised with integrated prose technique. Historical chapters 1-12 are drafted (~73,500 words). Four historical avatars remain undeveloped (Ch 14, 16, 18, 20). See `revision-manifest.json` for line-level revision status.
 
 **Core Premise:** Philosophy professor Silas Pahlavan approaches stream-entry while psychiatrist Lilith Azami—a rival bodhisattva who appears with the same face across all his past lives—attempts to derail his progress. Her interventions always backfire, becoming the friction that forges his growth. They ultimately merge to become Maitreya, the future Buddha. The competition was illusory; they were always two aspects of the same being.
 
@@ -266,25 +266,25 @@ Act II's structure creates different temporal experiences for the two timelines:
 |Ch|Title                     |Type      |Avatar/Focus           |Lesson/Focus                      |Status         |
 |--|--------------------------|----------|-----------------------|----------------------------------|---------------|
 |2 |Blood                     |Historical|Ka (300,000 BCE)       |Cooperation/Mettā                 |DRAFTED        |
-|3 |The Discovery             |Lilith    |Week 1 (Days 1-3)      |Discovery & first recognition     |needs_revision |
+|3 |The Discovery             |Lilith    |Week 1 (Days 1-3)      |Discovery & first recognition     |REVISED        |
 |4 |The Ledger                |Historical|Chandra (268 BCE)      |Generosity/Dāna                   |DRAFTED        |
-|5 |The Ledger's Shadow       |Lilith    |Week 1-2               |First intervention & backfire     |needs_revision |
+|5 |The Ledger's Shadow       |Lilith    |Week 1-2               |First intervention & backfire     |REVISED        |
 |6 |The Philosopher           |Historical|Philon (Athens 430 BCE)|Wisdom/Paññā                      |DRAFTED        |
-|7 |The Dream-Walker          |Lilith    |Week 2-3               |Strategy adjustment               |needs_revision |
+|7 |The Dream-Walker          |Lilith    |Week 2-3               |Strategy adjustment               |REVISED        |
 |8 |The Investigator          |Historical|Verinus (Rome ~140 CE) |Virtue/Sīla                       |DRAFTED        |
-|9 |The Complaint             |Lilith    |Week 3-4               |Intensifying focus                |needs_revision |
+|9 |The Complaint             |Lilith    |Week 3-4               |Intensifying focus                |REVISED        |
 |10|The Hermit                |Historical|Macarius (Egypt 360 CE)|Renunciation/Nekkhamma            |DRAFTED        |
-|11|The Performance of Humility|Lilith    |Week 4-5               |First suppressed doubts           |needs_revision |
+|11|The Performance of Humility|Lilith    |Week 4-5               |First suppressed doubts           |REVISED        |
 |12|The Lover                 |Historical|Kaoru (Heian 1000 CE)  |Equanimity/Upekkhā                |DRAFTED        |
-|13|TBD                       |Lilith    |Week 5-6               |Denial of unnamed feeling         |needs_revision |
+|13|The Beauty of Frozen Things|Lilith   |Week 5-6               |Denial of unnamed feeling         |REVISED        |
 |14|The Accused               |Historical|Diego de Lucena (Spain 1491)|Patience/Khanti                |DRAFTED        |
-|15|TBD                       |Lilith    |Week 6-7               |Manic clarity                     |needs_revision |
+|15|TBD                       |Lilith    |Week 6-7               |Manic clarity                     |REVISED        |
 |16|The Skeptic               |Historical|Jean de Langon (France 1588)|Truthfulness/Sacca             |DRAFTED        |
-|17|TBD                       |Lilith    |Week 7-8               |Exhaustion of strategies          |needs_revision |
+|17|One More                  |Lilith    |Week 7-8               |Exhaustion of strategies          |REVISED        |
 |18|The Rebel                 |Historical|Wei Shufen (China 1862-64)|Determination/Adhiṭṭhāna       |DRAFTED        |
-|19|TBD                       |Lilith    |Week 8-9               |Full manifestation attempts       |needs_revision |
+|19|TBD                       |Lilith    |Week 8-9               |Full manifestation attempts       |REVISED        |
 |20|The Detective             |Historical|Jack Malone (LA 1938)  |Perseverance/Viriya               |DRAFTED        |
-|21|The Decision              |Lilith    |Week 9-10              |Pivot to present-day gambit       |needs_revision |
+|21|The Pivot                 |Lilith    |Week 9-10              |Pivot to present-day gambit       |REVISED        |
 
 ### Act III: The Breakthrough
 
@@ -506,6 +506,7 @@ If any of these seem necessary for a scene to work, document the need in `novel-
 |Need                          |File                                   |
 |------------------------------|---------------------------------------|
 |Current project state         |`novel-progress.txt`                   |
+|Revision status tracking      |`revision-manifest.json`               |
 |What to work on next          |`scene-manifest.json`                  |
 |How to write prose            |`style-rules.md`                       |
 |Deep voice analysis           |`voice-analysis.md`                    |
