@@ -1,0 +1,2045 @@
+{
+  "metadata": {
+    "created": "2026-01-02",
+    "purpose": "Track line-level prose revision status per scene",
+    "total_scenes": 160,
+    "revision_complete": 46,
+    "revision_in_progress": 0,
+    "needs_revision": 114
+  },
+  "pass_definitions": {
+    "tic_scan": "Prose Tic Scan (particular, something, em-dash, abstract actions, not-x)",
+    "forbidden_pattern": "Forbidden Pattern Audit (emotion words, Buddhist terms, filter verbs)",
+    "voice_check": "Voice Consistency Check (undermining, sensory anchor, loaded gesture)",
+    "sensory_audit": "Sensory Audit (5 senses per scene)",
+    "continuity": "Continuity Verification (names, settings, Lilith appearance)"
+  },
+  "chapters": {
+    "1": {
+      "title": "The Meeting",
+      "type": "contemporary",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-sunset-bedroom.md": {
+          "word_count": 850,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-campus-morning.md": {
+          "word_count": 400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-lecture-hall.md": {
+          "word_count": 1100,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-hallway-aftermath.md": {
+          "word_count": 850,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-faculty-meeting.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-university-green.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-apartment-meditation.md": {
+          "word_count": 700,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-the-drive.md": {
+          "word_count": 2800,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-rooftop-climax.md": {
+          "word_count": 3800,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "2": {
+      "title": "Blood",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-blood-wake.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-strange-hunters.md": {
+          "word_count": 1100,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-alone-hunt.md": {
+          "word_count": 1200,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-dog-pack.md": {
+          "word_count": 1400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-cat-attack.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-tribe-saves-ka.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-learning-together.md": {
+          "word_count": 900,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-hoarding-death.md": {
+          "word_count": 1400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "3": {
+      "title": "The Discovery",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "scene-01-discovery.md": {
+          "word_count": 750,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-02-hoarding.md": {
+          "word_count": 850,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-03-ka-death.md": {
+          "word_count": 600,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-04-thread-forward.md": {
+          "word_count": 700,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "4": {
+      "title": "The Ledger",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-pillar-ceremony.md": {
+          "word_count": 2400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-assignment.md": {
+          "word_count": 1800,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-warehouse-inspection.md": {
+          "word_count": 2400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-interrogation.md": {
+          "word_count": 2600,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-covert-investigation.md": {
+          "word_count": 3400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-temple-betrayal.md": {
+          "word_count": 2200,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-the-fire.md": {
+          "word_count": 3200,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-ledgers-reckoning.md": {
+          "word_count": 3600,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "5": {
+      "title": "The Ledger's Shadow",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "scene-01-ledger-bleeds.md": {
+          "word_count": 650,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-02-intervention.md": {
+          "word_count": 800,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-03-watching.md": {
+          "word_count": 620,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-04-rationalization.md": {
+          "word_count": 580,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "6": {
+      "title": "The Philosopher",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-prologos.md": {
+          "word_count": 1450,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-parodos.md": {
+          "word_count": 900,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-first-episode.md": {
+          "word_count": 1550,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-first-stasimon.md": {
+          "word_count": 510,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-second-episode.md": {
+          "word_count": 1680,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-second-stasimon.md": {
+          "word_count": 520,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-third-episode.md": {
+          "word_count": 1520,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-kommos.md": {
+          "word_count": 1010,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-exodus.md": {
+          "word_count": 739,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "7": {
+      "title": "The Dream-Walker",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "scene-01-thread-shifts.md": {
+          "word_count": 580,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-02-dream-walker.md": {
+          "word_count": 780,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-03-compulsion.md": {
+          "word_count": 690,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-04-wheel-turns.md": {
+          "word_count": 950,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "8": {
+      "title": "The Investigator",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-baths.md": {
+          "word_count": 764,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-case-assigned.md": {
+          "word_count": 932,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-testimonies.md": {
+          "word_count": 1381,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-stoic-debate.md": {
+          "word_count": 1009,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-collapse.md": {
+          "word_count": 1103,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-vulnerable-witness.md": {
+          "word_count": 981,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-judgment.md": {
+          "word_count": 1406,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-exile.md": {
+          "word_count": 1001,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-death.md": {
+          "word_count": 650,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "9": {
+      "title": "The Complaint",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {}
+    },
+    "10": {
+      "title": "The Hermit",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-cell.md": {
+          "word_count": 1224,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-deference.md": {
+          "word_count": 1368,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-arrival.md": {
+          "word_count": 1504,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-interview.md": {
+          "word_count": 1647,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-first-crack.md": {
+          "word_count": 1333,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-recognition.md": {
+          "word_count": 1367,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-tasting.md": {
+          "word_count": 1761,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-collapse.md": {
+          "word_count": 1555,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-death.md": {
+          "word_count": 1819,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "11": {
+      "title": "The Performance of Humility",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {}
+    },
+    "12": {
+      "title": "The Lover",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-arrival.md": {
+          "word_count": 1430,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-voice-behind-screen.md": {
+          "word_count": 1180,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-stagnant-garden.md": {
+          "word_count": 1340,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-glimpse.md": {
+          "word_count": 1130,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-typhoon.md": {
+          "word_count": 1680,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-morning.md": {
+          "word_count": 1280,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "13": {
+      "title": "The Beauty of Frozen Things",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "scene-01-shift.md": {
+          "word_count": 420,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-02-residue.md": {
+          "word_count": 500,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-03-walk.md": {
+          "word_count": 600,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-04-backfire.md": {
+          "word_count": 560,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-05-fetter.md": {
+          "word_count": 530,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "14": {
+      "title": "The Accused",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-performance.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-holy-woman.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-knock.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-processing.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-source.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-interrogation.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-healers-burden.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-release.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-fire.md": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "15": {
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "unknown": {
+          "word_count": 623,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "16": {
+      "title": "The Skeptic",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-assignment.md": {
+          "word_count": 1196,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-witnesses.md": {
+          "word_count": 1457,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-ambush.md": {
+          "word_count": 1191,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-printers-widow.md": {
+          "word_count": 1493,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-document.md": {
+          "word_count": 1563,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-ball.md": {
+          "word_count": 1651,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-temptation.md": {
+          "word_count": 1756,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-report.md": {
+          "word_count": 1480,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-road.md": {
+          "word_count": 1759,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "17": {
+      "title": "One More",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "unknown": {
+          "word_count": 480,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "18": {
+      "title": "The Determination",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-arithmetic.md": {
+          "word_count": 1458,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-first-fracture.md": {
+          "word_count": 1587,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-doctrine.md": {
+          "word_count": 1728,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-pattern.md": {
+          "word_count": 1982,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-manna.md": {
+          "word_count": 1858,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-king-dead.md": {
+          "word_count": 1924,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-walls-break.md": {
+          "word_count": 1652,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-ledger-closes.md": {
+          "word_count": 1502,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "19": {
+      "title": "TBD",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "unknown": {
+          "word_count": 1653,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "20": {
+      "title": "The Detective",
+      "type": "historical",
+      "status": "needs_revision",
+      "scenes": {
+        "unknown": {
+          "word_count": 0,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "21": {
+      "title": "The Pivot",
+      "type": "lilith_contemporary",
+      "status": "revised",
+      "scenes": {
+        "scene-01-loose-weave.md": {
+          "word_count": 520,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-02-tightening.md": {
+          "word_count": 680,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-03-the-flood.md": {
+          "word_count": 850,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-04-death-sighting.md": {
+          "word_count": 900,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        },
+        "scene-05-the-pivot.md": {
+          "word_count": 750,
+          "status": "revision_complete",
+          "passes_complete": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "passes_remaining": [],
+          "last_revised": "2026-01-02",
+          "notes": "Revised during Lilith arc overhaul"
+        }
+      }
+    },
+    "22": {
+      "title": "The Choice",
+      "type": "contemporary",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-the-chain.md": {
+          "word_count": 2400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-aftermath.md": {
+          "word_count": 800,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-paramedics.md": {
+          "word_count": 600,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-silas-alone.md": {
+          "word_count": 800,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-wakes-home.md": {
+          "word_count": 1100,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-06-past-lives.md": {
+          "word_count": 1500,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-07-he-sees-her.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-08-connection-sensed.md": {
+          "word_count": 750,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-09-door-opens.md": {
+          "word_count": 900,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "23": {
+      "title": "The Celestial",
+      "type": "cosmic",
+      "status": "needs_revision",
+      "scenes": {
+        "scene-01-arrival.md": {
+          "word_count": 1300,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-02-garden-of-delights.md": {
+          "word_count": 1400,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-03-the-other-thread.md": {
+          "word_count": 1600,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-04-ill-will-dissolves.md": {
+          "word_count": 1200,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "scene-05-threshold-forward.md": {
+          "word_count": 1600,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "24": {
+      "title": "The Prophet",
+      "type": "cosmic",
+      "status": "needs_revision",
+      "scenes": {
+        "incarnations/ch24-future-prophet/scenes/scene-01-condensation.md": {
+          "word_count": 1100,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-02-formation.md": {
+          "word_count": 950,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-03-heresy.md": {
+          "word_count": 1050,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-04-recognition.md": {
+          "word_count": 1500,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-05-working.md": {
+          "word_count": 1150,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-06-response.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md": {
+          "word_count": 1150,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        },
+        "incarnations/ch24-future-prophet/scenes/scene-08-death-yearning.md": {
+          "word_count": 1000,
+          "status": "needs_revision",
+          "passes_complete": [],
+          "passes_remaining": [
+            "tic_scan",
+            "forbidden_pattern",
+            "voice_check",
+            "sensory_audit",
+            "continuity"
+          ],
+          "last_revised": null,
+          "notes": ""
+        }
+      }
+    },
+    "25": {
+      "title": "The Explorer",
+      "type": "cosmic",
+      "status": "needs_revision",
+      "scenes": {}
+    },
+    "26": {
+      "title": "The Awakened",
+      "type": "cosmic",
+      "status": "needs_revision",
+      "scenes": {}
+    }
+  }
+}
