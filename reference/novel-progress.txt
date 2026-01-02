@@ -1,8 +1,8 @@
 # Novel Progress Log
 
-## Project Status: DEVELOPMENT PHASE
+## Project Status: REVISION PHASE (January 2026)
 
-Current focus: Building agent infrastructure and completing chapter development before drafting begins.
+Current focus: Line-level prose revision using the five-pass system defined in agent-protocol.md. All chapters drafted; Lilith chapters revised with integrated prose technique. See revision-manifest.json for per-scene tracking.
 
 -----
 

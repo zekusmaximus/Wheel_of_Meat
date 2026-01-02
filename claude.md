@@ -512,10 +512,9 @@ If any of these seem necessary for a scene to work, document the need in `novel-
 |Deep voice analysis           |`voice-analysis.md`                    |
 |Contemporary chapters (Ch 1, 22)|`contemporary-period-rules.md`       |
 |Lilith chapters (Ch 3-21)     |`lilith-chapter-rules.md`              |
-|Soul/spiritual framework      |`soul-constants.json`                  |
-|Lilith's arc & fetter tracking|`lilith-arc.json`                      |
-|Lilith chapter details        |`lilith-chapter-manifest.json`         |
-|Recurring symbols             |`thematic-echoes.md`                   |
+|Soul/spiritual framework      |`reference/soul-constants.json`        |
+|Lilith chapter details & arc  |`reference/lilith-chapter-manifest.json`|
+|Recurring symbols             |`reference/thematic-echoes.md`         |
 |Chapter-specific rules        |`incarnations/[ch]/period-rules.md`    |
 |Character details             |`incarnations/[ch]/avatar-profile.json`|
 |Workflow & procedures         |`agent-protocol.md`                    |

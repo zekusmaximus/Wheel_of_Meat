@@ -20,13 +20,13 @@ Track how the meat/body/flesh theme appears in each chapter:
 |-------|----------------|-------|------------------------------------------------------|-----------------------------------|
 |2      |Blood           |Ka     |Visceral survival; hunting; consuming flesh to survive|Prehistoric—most literal           |
 |4      |The Ledger      |Chandra|Bodies as numbers in ledgers; suffering as data       |Administrative abstraction of flesh|
-|6      |The Philosopher |TBD    |Mind/body dualism?                                    |TBD                                |
-|8      |The Investigator|TBD    |Corpses? Physical evidence?                           |TBD                                |
-|10     |The Hermit      |TBD    |Mortification of flesh; ascetic denial                |Desert Father context              |
-|12     |The Lover       |TBD    |Sensual desire; bodies as objects of attachment       |Gothic romance; beauty as trap     |
-|14     |The Accused     |TBD    |Torture; the body as site of persecution              |Inquisition                        |
-|16     |The Skeptic     |TBD    |Doubt about material reality?                         |TBD                                |
-|18     |The Rebel       |TBD    |War wounds; sacrifice of body                         |Combat; bodies as expendable       |
+|6      |The Philosopher |Philon |Plague-ravaged bodies; hands on diseased flesh; burning funeral pyres; pustules and fever|Athens plague—medicine as meat-work|
+|8      |The Investigator|Verinus|Bodies in baths; corpses as evidence; physical vulnerability; aging flesh in exile|Roman procedural—body truth vs logical order|
+|10     |The Hermit      |Macarius|Mortification of flesh; ascetic denial; sensory starvation; dying body reaching for beauty|Desert Father—paradox of denying body makes it omnipresent|
+|12     |The Lover       |Kaoru  |Ruined meat of age hidden behind screens; Hotaru's frail body exposed; both dying in mud|Heian gothic—beauty requires impermanence|
+|14     |The Accused     |Diego  |Body as site of persecution; healer's instrumentalized hands; burning flesh in auto-de-fé|Inquisition—"His flesh is meat"|
+|16     |The Skeptic     |Jean   |Wounds from ambush; body under factional violence; death on road in dirt|Renaissance—neutrality offers no bodily safety|
+|18     |The Rebel       |Wei    |War wounds; surgical gore; starvation; "manna" as body poison; spear through chest|Taiping siege—bodies as ledgers of cost|
 |20     |The Detective   |Jack Malone|Car bomb death; body in rain; bleeding out in street; violence that doesn't resolve|Final noir body—victory through worldly defeat|
 
 #### Act II: Lilith Chapters (Integrated Prose)
@@ -70,20 +70,20 @@ Track specific images that echo across incarnations:
 ### Image 1: Hands Grasping
 
 - First appearance: Ka clutching hoarded meat
-- Recurrences: TBD across chapters
-- Evolution of meaning: Physical grasping → metaphorical attachment → release
+- Recurrences: Chandra clutching ledgers while warehouse burns; Philon's hands on diseased flesh; Verinus's stylus cleaning; Diego's healer hands; Wei's herb-stained surgical hands
+- Evolution of meaning: Physical grasping → instrumental control → metaphorical attachment → hands that release
 
 ### Image 2: Cold/Warmth
 
 - First appearance: Ka’s death in cold; tribe’s warmth he rejected
-- Recurrences: Manchester rain; clinical spaces vs. intimate spaces
+- Recurrences: Athens plague fever vs. cold clinic; desert heat vs. Manchester rain; Kaoru in mud holding dying Hotaru
 - Evolution of meaning: Isolation vs. connection; attachment vs. flow
 
 ### Image 3: Light/Dark
 
 - First appearance: Cave darkness vs. tribe fire
-- Recurrences: Institutional fluorescent vs. single lamp; dawn/dusk
-- Evolution of meaning: Consciousness levels; perception clarity
+- Recurrences: Temple oil lamps (Macarius); guttering lamp as woman dies (Philon); grey light exposing Hotaru; candlelight in interrogation chamber (Diego)
+- Evolution of meaning: Consciousness levels; perception clarity; revelation
 
 ### Image 4: The Same Face (Lilith)
 
@@ -132,13 +132,13 @@ She appears with the same face across all incarnations. Readers should recognize
 |--|-------------------|---------------------------|-----------------------------------------------|---------------------------------------------------|
 |2 |Ka                 |Observer only              |First awareness of Silas                       |Observation may inadvertently strengthen his merit |
 |4 |Chandra            |Works through Devaka       |Betrayal to harden him against trust           |Teaches him generosity cannot depend on reciprocity|
-|6 |Athens philosopher |Dream figure               |Corrupt altruism into martyrdom complex        |TBD                                                |
-|8 |Roman investigator |Circumstance manipulator   |Create impossible moral dilemmas               |TBD                                                |
-|10|Egyptian hermit    |Influence on others        |Turn renunciation into spiritual pride         |TBD                                                |
-|12|Heian courtier     |Physical: object of desire |Bind him through sensual attachment            |TBD                                                |
-|14|Inquisition accused|Inquisitor or fellow victim|Cultivate hatred of persecutors                |Suffering becomes crucible for releasing ill-will  |
-|16|Renaissance skeptic|Philosophical companion    |Feed doubt until he abandons the path          |Her challenges sharpen his understanding           |
-|18|Taiping rebel      |War manipulator            |Make his sacrifices meaningless                |TBD                                                |
+|6 |Philon             |Dream to Alexios; amplifies xenophobic rumors|Isolate him, accelerate martyrdom, corrupt wisdom|Isolation crystallizes; concentrated karma; question becomes pure insight seed|
+|8 |Verinus            |Circumstance manipulation (scribal error, traffic, senator's rage)|Create impossible moral dilemmas, corrupt virtue through cynicism|Contradictions make him humble, not cynical; exile gives permission to not know|
+|10|Macarius           |Physical as Theodora (church dignitary)|Feed spiritual pride through validation|Pride becomes so obvious he finally sees it; the seeing is the breakthrough|
+|12|Kaoru              |Physical as The Attendant (vessel pushing)|Create stasis of fake eternal beauty to trap in desire|Static perfection repels; beauty requires impermanence|
+|14|Diego              |Sustained presence as Sor Catalina (beata)|Engineer personal betrayal to poison with hatred|Personal betrayal teaches about attachment to safety; releases rather than hardens|
+|16|Jean               |Philosophical companion as Marguerite Viret|Feed doubt until nihilism; justify spiritual paralysis|Jean discovers truthfulness under uncertainty; trap becomes crucible|
+|18|Wei                |Invisible; manipulates artillery, disease, intelligence|Ensure every save dies; make futility visible|By making futility visible, purifies determination from outcome-attachment|
 |20|Jack Malone        |Minimal observer (3 brief appearances)|Accelerate failures to break perseverance|CATASTROPHIC: Failures teach outcome-independent perseverance; ALL TEN PERFECTIONS COMPLETE; next life is stream-entry|
 
 #### Lilith Chapters (Fetter Intensification Arc)
@@ -194,14 +194,14 @@ Each death should seed the next life’s lesson. Track the chain:
 |Chapter|Avatar |Death Scene                                                                   |What It Seeds                     |
 |-------|-------|------------------------------------------------------------------------------|----------------------------------|
 |2      |Ka     |Hoarding instinct in death; cold, alone, desperate hunger to understand giving|Generosity lesson (Ch 4 - Chandra)|
-|4      |Chandra|TBD                                                                           |Wisdom/Altruism lesson (Ch 6)     |
-|6      |Athens |TBD                                                                           |Virtue lesson (Ch 8)              |
-|8      |Rome   |TBD                                                                           |Renunciation lesson (Ch 10)       |
-|10     |Egypt  |TBD                                                                           |Equanimity lesson (Ch 12)         |
-|12     |Heian  |TBD                                                                           |Patience lesson (Ch 14)           |
-|14     |Spain  |TBD                                                                           |Truthfulness lesson (Ch 16)       |
-|16     |France |TBD                                                                           |Determination lesson (Ch 18)      |
-|18     |China  |TBD                                                                           |Perseverance lesson (Ch 20)       |
+|4      |Chandra|Burning warehouse; ledgers saved, people abandoned; "There must be a way to give that does not require receiving"|Wisdom lesson (Ch 6 - Philon)|
+|6      |Philon |Plague death; final question: "Was the one for them—or for me?"; hunger to understand virtue correctly|Virtue lesson (Ch 8 - Verinus)|
+|8      |Verinus|Anonymous death in exile; stylus in hand, contradictions unresolved; "Virtue lives where certainty fails"|Renunciation lesson (Ch 10 - Macarius)|
+|10     |Macarius|Body's revenge after 15 years of denial; hands reaching for something soft, colored; sensory hunger crystallizes|Equanimity lesson (Ch 12 - Kaoru)|
+|12     |Kaoru  |Dies of exposure holding dying Hotaru; "It is beautiful because it is dying"; desire burns out|Patience lesson (Ch 14 - Diego)|
+|14     |Diego  |Burning at stake; releases hatred toward Tomás; "What else can be questioned?"|Truthfulness lesson (Ch 16 - Jean)|
+|16     |Jean   |Killed on road; dying for honest uncertainty; "What deserves conviction?"|Determination lesson (Ch 18 - Wei)|
+|18     |Wei    |Spear through chest in temple; "The trying is never nothing"; outcome-independent determination achieved|Perseverance lesson (Ch 20 - Jack)|
 |20     |Jack Malone|Car bomb; rain; bleeds out thinking "the trying was not nothing"—all 10 perfections complete; strong stream-entry urge|Stream-entry (Ch 22)|
 
 -----

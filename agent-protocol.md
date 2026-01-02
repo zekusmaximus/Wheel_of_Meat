@@ -172,8 +172,9 @@ SENSORY AUDIT: [scene-name.md]
 **Cross-reference files:**
 - `incarnations/[ch]/avatar-profile.json`
 - `incarnations/[ch]/period-rules.md`
-- `meta/lilith-arc.json`
-- `meta/soul-constants.json`
+- `reference/lilith-arc.json`
+- `reference/soul-constants.json`
+- `reference/thematic-echoes.md`
 
 ---
 
