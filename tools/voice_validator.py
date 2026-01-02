@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
 Voice pattern validator for scene files.
-Checks adherence to the five core voice patterns of The Wheel of Meat.
+Checks adherence to core voice patterns of The Wheel of Meat.
+Works on any chapter POV (historical avatars, Lilith integrated, contemporary dual-POV).
 
-Usage: python voice_validator.py scenes/chapter-01/scene-01.md [--thresholds undermining:0.6,sensory:0.8]
+Usage: python voice_validator.py scenes/chapter-01/scene-01.md [--thresholds sensory:0.8,gesture:0.5]
 """
 
 import sys
@@ -13,13 +14,16 @@ from collections import defaultdict
 import argparse
 
 
+# Patterns with hard thresholds (pass/fail)
 DEFAULT_THRESHOLDS = {
-    'undermining_clause': 0.60,  # 60% of sentences should have complication
     'sensory_anchor': 0.75,      # 75% of paragraphs should open with physical detail
     'loaded_gesture': 0.40,      # 40% of paragraphs should contain gesture
     'environmental_presence': 0.50,  # 50% of paragraphs should reference setting
     'parallel_construction': 0.20,   # 20% of paragraphs should use mirrored phrases
 }
+
+# Advisory patterns (reported but not pass/fail) - stylistic flavor, varies by scene needs
+ADVISORY_PATTERNS = ['undermining_clause']
 
 
 def analyze_voice_patterns(filepath, thresholds=None):
@@ -49,8 +53,18 @@ def analyze_voice_patterns(filepath, thresholds=None):
     }
 
     issues = []
+    advisories = []
 
     for pattern, data in results.items():
+        # Advisory patterns get reported separately without pass/fail
+        if pattern in ADVISORY_PATTERNS:
+            advisories.append({
+                'pattern': pattern,
+                'actual': data['ratio'],
+                'examples': data.get('missing_examples', []),
+            })
+            continue
+            
         expected = thresholds.get(pattern, 0.5)
         if data['ratio'] < expected:
             issues.append({
@@ -61,7 +75,7 @@ def analyze_voice_patterns(filepath, thresholds=None):
                 'examples': data.get('missing_examples', []),
             })
 
-    return results, issues, len(sentences), len(paragraphs)
+    return results, issues, advisories, len(sentences), len(paragraphs)
 
 
 def analyze_undermining(sentences):
@@ -209,20 +223,25 @@ def main():
 
     print(f"\n=== Voice Pattern Validation: {filepath.name} ===\n")
 
-    results, issues, sentence_count, para_count = analyze_voice_patterns(filepath, thresholds)
+    results, issues, advisories, sentence_count, para_count = analyze_voice_patterns(filepath, thresholds)
 
     print(f"Total sentences: {sentence_count}")
     print(f"Total paragraphs: {para_count}\n")
 
     print("--- Pattern Density ---")
     for pattern, data in results.items():
-        status = "✓" if data['ratio'] >= thresholds[pattern] else "✗"
-        print(f"{status} {pattern.replace('_', ' ').title()}: "
-              f"{data['ratio']:.1%} ({data['count']}/{data['total']}) "
-              f"[expected: {thresholds[pattern]:.0%}+]")
+        if pattern in ADVISORY_PATTERNS:
+            # Advisory patterns show info only, no pass/fail
+            print(f"[i] {pattern.replace('_', ' ').title()}: "
+                  f"{data['ratio']:.1%} ({data['count']}/{data['total']}) [advisory]")
+        else:
+            status = "[+]" if data['ratio'] >= thresholds.get(pattern, 0.5) else "[!]"
+            print(f"{status} {pattern.replace('_', ' ').title()}: "
+                  f"{data['ratio']:.1%} ({data['count']}/{data['total']}) "
+                  f"[expected: {thresholds.get(pattern, 0.5):.0%}+]")
 
     if not issues:
-        print("\n✓ All voice patterns within expected range.\n")
+        print("\n[+] All required voice patterns within expected range.\n")
     else:
         print("\n--- Issues Detected ---\n")
         for issue in sorted(issues, key=lambda x: x['severity'], reverse=True):
@@ -231,7 +250,19 @@ def main():
             if issue['examples']:
                 print("  Missing from:")
                 for ex in issue['examples'][:2]:
-                    print(f"    • {ex}")
+                    print(f"    - {ex}")
+            print()
+
+    # Show advisory patterns for consideration
+    if advisories:
+        print("--- Advisory (Stylistic Flavor) ---\n")
+        for adv in advisories:
+            print(f"[i] {adv['pattern'].replace('_', ' ').title()}: {adv['actual']:.1%}")
+            print("  Consider: Do key assertions have appropriate complexity for this POV?")
+            if adv['examples']:
+                print("  Candidate sentences to review:")
+                for ex in adv['examples'][:3]:
+                    print(f"    - {ex}")
             print()
 
     print()

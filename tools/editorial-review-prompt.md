@@ -39,21 +39,25 @@ Mechanical problems that undermine readability or professionalism.
   - Problem: [what's wrong]
   - Fix: "[specific revision]"
 
-### 2. Voice Pattern Violations (Priority: HIGH)
+### 2. Voice Pattern Compliance (Priority: HIGH for thresholds, ADVISORY for stylistic flavor)
 
-Adherence to the five core voice patterns documented in `voice-analysis.md`.
+Adherence to core voice patterns documented in style guides. Note that these patterns apply differently across POVs:
+- **Historical avatar chapters** (2, 4, 6, 8, 10, 12, 14, 16, 18, 20): Period-appropriate transformation of patterns
+- **Lilith integrated chapters** (3, 5, 7, 9, 11, 13, 15, 17, 19, 21): Temporal integration technique
+- **Contemporary dual-POV chapters** (1, 22): Slight distance, veiled interiority
 
-**Check for:**
+#### a) Undermining Clause — ADVISORY (Stylistic Flavor)
+> **Note:** This is NOT a hard threshold. It's a stylistic flavor that varies by scene needs and POV. Use judgment rather than mechanical percentage.
 
-#### a) Undermining Clause (Target: 60%+ of sentences)
-- **Pattern**: Every assertion gets complicated or qualified
-- **Violations**: Unearned certainty, declarative statements without nuance
-- **Period adaptation**: Contemporary = subordinate clauses; prehistoric = paratactic contradiction
+- **Pattern**: Assertions get complicated or qualified at key moments
+- **Spirit**: Epistemological uncertainty—conclusions are partial, perception is limited
+- **When it matters most**: Moments of insight, judgment, or conclusion
+- **When it's fine to omit**: Emphatic beats, rhythmic punctuation, action sequences
 
-**Flag:**
-- Sentences that state facts without complication
-- Paragraphs with 3+ consecutive simple declarations
-- Assertions that should be uncertain but aren't
+**Review for:**
+- Extended passages (5+ sentences) of unqualified certainty where a character draws conclusions
+- Moments where a character *should* be uncertain but asserts with false confidence
+- Thematic beats where complexity would deepen meaning
 
 #### b) Sensory Anchoring (Target: 75%+ of paragraphs)
 - **Pattern**: Physical reality before interiority; concrete before abstract
