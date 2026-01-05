@@ -4,7 +4,7 @@ The white-ground fell harder now. Ka had lost sight of the tribe's fire—the st
 
 Lilith felt the cold in her own joints, a phantom seeping that had nothing to do with Manchester's February damp. Her body remembered caves it had never inhabited, storms it had never survived. Or perhaps this was his body, his dying, bleeding through the thread she had followed too deep.
 
-Ka's fingers would not open anymore. The meat had frozen to his hands, ice bridging the gap between flesh and flesh, and he understood now—too late, always too late—that the having was not the same as the using. The deer would feed small-fast-prey after he was gone. The deer would feed nothing while he held it.
+Ka's fingers would not open anymore. The meat had frozen to his hands, ice bridging the gap between flesh and flesh, and he understood now. Too late, always too late, that the having was not the same as the using. The deer would feed small-fast-prey after he was gone. The deer would feed nothing while he held it.
 
 *Everything in world knows sharing way except Ka.*
 
@@ -22,11 +22,11 @@ Ka's last meat fed small-fast-prey. Ka's last warm fed wind. Ka's last breath fe
 
 *Ka's last thoughts feed time-to-come.*
 
-She knew what that meant. She could feel the thread continuing past the death, the pattern surviving the flesh, the hunger for understanding carrying forward like a seed in the wind. The shape of him did not end here, in this cave, with this frozen body and this wasted meat. The shape of him would find new conditions, new flesh, new opportunity to learn what he had failed to learn in dying.
+Her chest loosened, breath returning. She knew what that meant. She could feel the thread continuing past the death, the pattern surviving the flesh, the hunger for understanding carrying forward like a seed in the wind. The shape of him did not end here, in this cave, with this frozen body and this wasted meat. The shape of him would find new conditions, new flesh, new opportunity to learn what he had failed to learn in dying.
 
 *We are the same,* she thought, and the thought horrified her, and the horror was indistinguishable from fascination.
 
-She pushed the thought aside. Returned to observation. Filed the recognition under *interesting* rather than *alarming*, under *worth examining later* rather than *examine now*.
+She pushed the thought aside, rubbed her palms against her thighs as if warming them. Returned to observation. Filed the recognition under *interesting* rather than *alarming*, under *worth examining later* rather than *examine now*.
 
 The cave was empty. The body was meat now, no different from the deer it still clutched. The tribe below would not find it until the thaw, and by then the small-fast-prey would have done their work, and nothing would remain but bones and the faint impression in the stone where a hunter had died alone with his prizes.
 

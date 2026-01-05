@@ -4,15 +4,15 @@
 
 ## I
 
-The kettle screamed and the wind screamed, steam rising from the spout as white-ground fell soft against the cave mouth three hundred thousand years before. Lilith reached for the handle—fingers closing around plastic warmth, around the smooth cold of a bone-knife hilt—and poured water over leaves that would not exist for epochs, watching them bloom into color the way blood bloomed in snow when prey fell wrong.
+The kettle screamed and the wind screamed, steam rising from the spout as white-ground fell soft against the cave mouth three hundred thousand years before. Lilith reached for the handle—fingers closing around plastic warmth, around the smooth cold of a bone-knife hilt—and poured water over leaves that would not exist for epochs, watching the leaves bloom into color the way blood bloomed in snow when prey fell wrong.
 
 She had not meant to find this.
 
-The flat held its silence: radiator ticking, rain against the window, the distant arterial hum of Oxford Road at two in the morning. But beneath this silence another pressed—the silence of a world before language, before cities, before the concept of silence itself. She had been reaching for her own patterns, the familiar threads of the Alexandria physician and the Crimean nurse and the washerwoman whose memories surfaced only in the smell of lye. Instead she had found something else.
+The flat held its silence: radiator ticking, rain against the window, the distant arterial hum of Oxford Road at two in the morning. But beneath this silence another pressed. The silence of a world before language, before cities, before the concept of silence itself. She had been reaching for her own patterns, the familiar threads of the Alexandria physician and the Crimean nurse and the washerwoman whose memories surfaced only in the smell of lye. Instead she had found something else.
 
 Someone else.
 
-The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him—bodies touching like wolf pups, breath mixing in the dark. He did not sleep with them. He slept alone, near the cold wind, near the exit, near the nothing that waited outside. His chest had hardened. She could feel it in her own sternum: a tightness, a closing, like ice forming where warmth should be.
+The tea steeped. Three hundred thousand years away, a hunter crouched at the mouth of a cave while his tribe slept in a pile behind him. Bodies touching like wolf pups, breath mixing in the dark. He did not sleep with them. He slept alone, near the cold wind, near the exit, near the nothing that waited outside. His chest had hardened. She could feel it in her own sternum: a tightness, a closing, like ice forming where warmth should be.
 
 *Ka.*
 
@@ -22,7 +22,7 @@ She carried the tea to her corner—the armchair by the window where she did her
 
 Both of them sat in their caves. Both of them watched the dark.
 
-The thread she had found was old in a way that made her own iterations seem recent, old in a way that made the Alexandria physician feel like yesterday. It receded into temporal depths she could not calculate, folding backward through time like a river viewed from its delta, its source hidden in distances that made her chest tighten with something she would not call recognition.
+The thread she had found was old in a way that made her own iterations seem recent, old in a way that made the Alexandria physician feel like yesterday. Her fingers tightened on the mug as the thread receded into temporal depths she could not calculate, folding backward through time like a river viewed from its delta, its source hidden in distances that tightened her chest with something she would not call recognition.
 
 She followed anyway.
 
@@ -30,16 +30,16 @@ Ka's awareness bled into hers in fragments: the smell of smoke and game blood, t
 
 *Like ice wall,* his body told him. *In chest. Cold. Dead. Heavy.*
 
-Lilith's tea had gone lukewarm in her hands. She drank it anyway, tasting nothing, her attention turned toward the thread that hummed at the edge of her perception. Someone else was doing this work. Someone else was accumulating, refining, building toward whatever waited at the end of the process she could sense but not yet name.
+Lilith's tea had gone lukewarm. She drank it anyway, her throat working mechanically, tasting nothing, her attention turned toward the thread that hummed at the edge of her perception. Someone else was doing this work. Someone else was accumulating, refining, building toward whatever waited at the end of the process she could sense but not yet name.
 
 A fellow traveler.
 
-The phrase arrived and settled. That was what she had found. Not anomaly but evidence of a mechanism larger than herself, a structure of consciousness that operated regardless of whether she understood its mechanics. And this one—this Ka, this ancient hunter with his hoarded meat and his chosen isolation—was further along than she had expected. His thread was dense with something that burned, something that pushed forward through death after death with a hunger she recognized.
+The phrase arrived and settled. That was what she had found. Not anomaly but evidence of a mechanism larger than herself; a structure of consciousness that operated regardless of whether she understood its mechanics. And this one, this Ka, this ancient hunter with his hoarded meat and his chosen isolation, was further along than she had expected. His thread was dense with something that burned, something that pushed forward through death after death with a hunger she recognized.
 
 She recognized it. The recognition was uncomfortable, a mirror she had not asked to look into.
 
 But that was for later. For now, there was only the reaching, the following, the need to understand what she had stumbled upon.
 
-She closed her eyes. The flat receded—not disappearing exactly, but becoming thin, less insistent. The thread sharpened.
+She closed her eyes, felt her shoulders settle against the chair's worn upholstery. The flat receded, not disappearing exactly, but becoming thin, less insistent. The thread sharpened.
 
 She let herself follow.
