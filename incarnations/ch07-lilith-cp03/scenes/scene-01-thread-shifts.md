@@ -1,6 +1,6 @@
 Heat arrived before image, before sound, before the shape of the consciousness she was following. Different from fire-heat, from the clean warmth of flame or the body-knowledge of prehistoric survival. Something wet. Something wrong.
 
-Lilith's flat held its after-midnight silence. The radiator ticked its inadequate rhythm against the December cold. Rain traced the window in patterns she had stopped watching days ago. But beneath her palms—wrapped around ceramic gone cold—a different temperature was bleeding through.
+Lilith's flat held its after-midnight silence. The radiator ticked its inadequate rhythm against the December cold. Rain traced the window in patterns she had stopped watching days ago. But beneath her palms wrapped around ceramic gone cold a different temperature was bleeding through.
 
 Fever.
 
@@ -8,7 +8,7 @@ The thread she followed had shifted. Chandra's administrative precision had rece
 
 She closed her eyes. The flat disappeared, became peripheral, became body-echo.
 
-Athens materialized through sensation before it took visual form. The heat was everywhere—not summer heat, not fire heat, but the burning that came from inside bodies that were failing. She could feel it radiating from skin that should not feel so hot, pressing against palms that she recognized as her own and not her own.
+Athens materialized through sensation before it took visual form. The heat was everywhere. Not summer heat, not fire heat, but the burning that came from inside bodies that were failing. She could feel it radiating from skin that should not feel so hot, pressing against palms that she recognized as her own and not her own.
 
 *Philon.*
 
@@ -22,11 +22,11 @@ Pustules.
 
 The word arrived clinical and distant. The sensation was neither.
 
-She pressed closer to the thread, and the smell came with proximity—not clean illness, not the sharp tang of fever-sweat she had known in other lives. This was different. Sweet and thick and layered, the smell of meat that was rotting while still breathing, of bodies stacked in doorways waiting for fires that could not burn fast enough, of a city drowning in its own dying.
+She pressed closer to the thread, and the smell came with proximity. Not clean illness, not the sharp tang of fever-sweat she had known in other lives. This was different. Sweet and thick and layered, the smell of meat that was rotting while still breathing, of bodies stacked in doorways waiting for fires that could not burn fast enough, of a city drowning in its own dying.
 
-Her flat smelled of nothing. She had arranged it that way—sterile, unlived-in, a space that did not demand attention. But Athens smelled of everything at once, and the contrast registered as wrongness, as absence-made-presence, as the ghost of smoke she could not quite breathe.
+Her flat smelled of nothing. She had arranged it that way, sterile, unlived-in, a space that did not demand attention. But Athens smelled of everything at once, and the contrast registered as wrongness, as absence-made-presence, as the ghost of smoke she could not quite breathe.
 
-The thread hummed with a different frequency than Chandra's careful ledgers. This consciousness lived in its hands—hands that reached without calculating, that touched without weighing cost against benefit, that could not stop offering even when the offering was killing him.
+The thread hummed with a different frequency than Chandra's careful ledgers. This consciousness lived in its hands. Hands that reached without calculating, that touched without weighing cost against benefit, that could not stop offering even when the offering was killing him.
 
 She recognized the pattern.
 
@@ -34,12 +34,12 @@ Not from Chandra. From before. From Ka, crouched in his cave with frozen meat, c
 
 *I see what went wrong.*
 
-The thought formed with the clarity of analysis, the comfort of understanding. Chandra's lesson had crystallized despite her intervention—she had accelerated rather than corrupted, had sharpened rather than dulled. A tactical error. A miscalculation of leverage.
+The thought formed with the clarity of analysis, the comfort of understanding. Chandra's lesson had crystallized despite her intervention. She had accelerated rather than corrupted, had sharpened rather than dulled. A tactical error. A miscalculation of leverage.
 
 She would not make the same mistake with Philon.
 
 *I'll correct.*
 
-The flat reasserted itself around her—cold tea, ticking radiator, the silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
+The flat reasserted itself around her, cold tea, ticking radiator, the silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
 
 She leaned into the thread. The correction began.
