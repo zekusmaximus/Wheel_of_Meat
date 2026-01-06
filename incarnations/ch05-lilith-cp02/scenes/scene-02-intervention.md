@@ -1,20 +1,20 @@
 ## II
 
-The vibration was different than anything she had felt before—a hum beneath her sternum that echoed the rain's drumming against the window, the sound arriving in both places at once.
+The vibration was different than anything she had felt before. A hum beneath her sternum that echoed the rain's drumming against the window, the sound arriving in both places at once.
 
-Devaka's choice-point hummed at the edge of the thread like a plucked string that refused to settle. Fifteen years of loyalty. Fifteen years of calculation—because Devaka calculated too, she could see that now. The fear-threads ran through him like cracks in porcelain: the growing awareness that Chandra's reformist zeal had made enemies, that the grain conspiracy reached higher than warehouse keepers, that association with an investigator becoming a liability.
+Devaka's choice-point hummed at the edge of the thread like a plucked string that refused to settle. Fifteen years of loyalty. Fifteen years of calculation. Devaka calculated too, she could see that now. The fear-threads ran through him like cracks in porcelain: the growing awareness that Chandra's reformist zeal had made enemies, that the grain conspiracy reached higher than warehouse keepers, that association with an investigator becoming a liability.
 
-She leaned closer to observe. Her body remained in the flat—rain against windows, cold tea beside her laptop, the stillness of a space held too long—but her attention pressed against the membrane of the thread, seeking the point where Devaka's loyalty might hold or break.
+She leaned closer to observe. Her body remained in the flat noticing rain against windows, cold tea beside her laptop, the stillness of a space held too long. Her attention pressed against the membrane of the thread, seeking the point where Devaka's loyalty might hold or break.
 
 And then she felt it.
 
 Her focus had weight. Her attention collapsed probabilities.
 
-The discovery stopped her. In the flat her hands tightened on the arms of her chair, the sensation registering across both frames—her fingers on worn fabric, Chandra's stylus pausing mid-character as if the air had shifted. This was what she had meant to do. She had been observing, only observing, the way she had observed Ka's slow failure without intervention.
+Outside, the rain had intensified, drumming against glass with a rhythm that matched her quickening pulse. The discovery stopped her. In the flat her hands tightened on the arms of her chair, the sensation registering across both frames. Her fingers on worn fabric, Chandra's stylus pausing mid-character as if the air had shifted. This was what she had meant to do. She had been observing, only observing, the way she had observed Ka's slow failure without intervention.
 
 But Devaka's choice was different. Unresolved. Balanced on an edge so fine that any pressure would tip it.
 
-She could press. She understood that now with a clarity that felt like discovery and like memory at once. The capacity had been there—would always have been there—but until this moment she had not found a thread so delicately poised that observation itself became influence.
+She could press. She understood that now with a clarity that felt like discovery and like memory at once. The capacity would always have been there, but until this moment she had not found a thread so delicately poised that observation itself became influence.
 
 A pause arrested her.
 
@@ -28,7 +28,7 @@ She did not have a word for what she felt. A sense that she was about to do this
 
 Then she pushed through it.
 
-The fear-thread blazed white under her focus. The loyalty-thread dimmed—weakened, starved of the attention that might have sustained it. The pattern of Devaka's choosing shifted, and she felt her own presence inside the shift. Participant rather than witness.
+The fear-thread blazed white under her focus. The loyalty-thread dimmed, weakened, starved of the attention that might have sustained it. The pattern of Devaka's choosing shifted, and she felt her own presence inside the shift. Participant rather than witness.
 
 The collapse was immediate. Devaka's self-preservation crystallized into decision: the conspirators would learn what Chandra knew. The betrayal would proceed. The lesson would be taught.
 

@@ -6,7 +6,7 @@
 
 Rain drummed the window and the warehouse ledgers, the sound falling through three hundred thousand years and two thousand miles to land on surfaces that had never touched and would never touch, except here, except now, in the place where she held both at once.
 
-Lilith's tea had gone cold beside her laptop. The flat held its after-midnight silence—radiator ticking, the distant arterial hum of Wilmslow Road, the emptiness of a space no one visited. Days had passed since Ka. The prehistoric thread had receded into her awareness like a tide withdrawing, leaving deposits she had yet to fully examined. But now another thread hummed at the edge of perception—different from Ka's primal hunger, this one structured, layered, administrative.
+Lilith's tea had gone cold beside her laptop. The flat held its after-midnight silence—radiator ticking, the distant arterial hum of Wilmslow Road, the emptiness of a space no one visited. Days had passed since Ka. The prehistoric thread had receded into her awareness like a tide withdrawing, leaving deposits she had yet to fully examine. But now another thread hummed at the edge of perception, different from Ka's primal hunger, this one was structured, administrative.
 
 Numbers. She could feel numbers the way Ka's world had offered body-knowledge. Columns arranging themselves in the dark. Calculations pressing against the edges of consciousness with the weight of obligations unmet.
 
@@ -18,18 +18,18 @@ The name surfaced from the thread itself, dense with context Ka's prehistoric co
 
 Calculating. The word echoed strangely. She knew calculation intimately.
 
-In Pataliputra, Chandra sat in the weighted silence of his office, stylus moving across palm leaves in the rhythm she recognized from her own documentation habits. Grain received. Grain distributed. Loss rates attributed to vermin, spoilage, the inevitable friction of moving goods across distance. He trusted these numbers the way other men trusted gods—with a devotion that expected reward.
+In Pataliputra, Chandra sat in the weighted silence of his office, stylus moving across palm leaves in the rhythm she recognized from her own documentation habits. Grain received. Grain distributed. Loss rates attributed to vermin, spoilage, the inevitable friction of moving goods across distance. He trusted these numbers the way other men trusted gods, with a devotion that expected reward.
 
-The thread she followed was old in a different way than Ka's. Architectural complexity rather than temporal depth—a consciousness that had learned to build systems, to see patterns in aggregate, to miss the individual in favor of the sum.
+The thread she followed was old in a different way than Ka's. Architectural complexity rather than temporal depth. A consciousness that had learned to build systems, to see patterns in aggregate. To miss the individual in favor of the sum.
 
-She watched him work. Her eyes were closed in Manchester, her body motionless in the armchair by the window, but in the other place—the place between—she observed him with a clarity that exceeded normal vision. He did not sleep with his wife as she slept. He worked while others dreamed, refining figures that would determine who received and who went without.
+She watched him work. Her eyes were closed in Manchester, her body motionless in the armchair by the window, but in the place between she observed him with a clarity that exceeded normal vision. He did not sleep with his wife as she slept. He worked while others dreamed, refining figures that would determine who received and who went without.
 
-There was a relationship. She found it layered beneath the surface of his attention like sediment at a river bottom—fifteen years of partnership, the closest thing to trust his calculating mind allowed. A man named Devaka. Their collaboration ran through Chandra's consciousness like a second current, present in every calculation, trusted without examination.
+A relationship existed. She found it layered beneath the surface of his attention like sediment at a river bottom. Fifteen years of partnership, the closest thing to trust his calculating mind allowed. A man named Devaka. Their collaboration ran through Chandra's consciousness like a second current, present in every calculation, trusted without examination.
 
 Beneath the trust: tension. She could feel it in the way Chandra's thoughts paused around Devaka's name, the microscopic hesitation that suggested awareness suppressed rather than absent.
 
 A choice yet to be made.
 
-The tea beside her had developed a film. She could have said whether it was the same pot or a different one. The rain had shifted—harder now, or softer. Some part of her registered that the day had changed while she was inside Chandra's thread.
+The tea beside her had developed a film. She could have said whether it was the same pot or a different one. The rain had shifted harder now, or softer. Some part of her registered that the day had changed while she was inside Chandra's thread.
 
 She did not move to make fresh tea. She did not check the time. She leaned closer to the thread, and the tension around Devaka registered as leverage.
