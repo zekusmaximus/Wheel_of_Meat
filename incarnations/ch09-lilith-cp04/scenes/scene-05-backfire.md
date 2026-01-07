@@ -1,10 +1,10 @@
 She traced forward.
 
-The exile unspooled through months she did not mark: merchant ships carrying Verinus across the sea, a coastal province receiving him without fanfare, an olive grove becoming the frame of his remaining years. She watched from the thread as the procedural investigator became something else—something slower, quieter, weathered by salt air and silence into shapes she had not intended.
+The exile unspooled through months she did not mark: merchant ships carrying Verinus across the sea, a coastal province receiving him without fanfare, an olive grove becoming the frame of his remaining years. She watched from the thread as the procedural investigator became something slower, quieter, weathered by salt air and silence into shapes she had not intended.
 
 He was not breaking.
 
-The autumn merchant ships brought a letter. Marcus's hand—she knew it before Verinus broke the seal, knew the weight of the words before the ink formed them into meaning. The salt-cracked wax. The papyrus soft from its long journey across water. Her hands felt cold around ceramic in Manchester while his hands traced the familiar writing in an olive grove she could smell through the thread.
+The autumn merchant ships brought a letter written in Marcus's hand. She knew it before Verinus broke the seal, knew the weight of the words before the ink formed them into meaning. The salt-cracked wax. The papyrus soft from its long journey across water. Her hands felt cold around ceramic in Manchester while his hands traced the familiar writing in an olive grove she could smell through the thread.
 
 *I petitioned to join you. The senator's household has made clear that my presence in your exile would be... noted. I am not brave enough to test what that means. Forgive me.*
 
@@ -26,11 +26,11 @@ Verinus reached for his stylus. His hands moved automatically toward the familia
 
 He did not clean it.
 
-The motion simply did not complete. His fingers found the stylus and held it, and the cloth he had always carried stayed folded in its place, and the ritual that had defined his response to disorder—the compulsive ordering that she had recognized, had paralleled in herself, had used as leverage—was gone.
+The motion simply did not complete. His fingers found the stylus and held it, and the cloth he had always carried stayed folded in its place. The ritual that had defined his response to disorder was gone. The compulsive ordering that she had recognized, had paralleled in herself, had used as leverage, was gone.
 
 The bronze was tarnished. He did not polish it.
 
-The testimonies lay spread on his table: the servant's account, the student's, the neighbor's, the cook's. Contradictory. Unresolved. Uncorrected. He had carried them into exile—evidence of his failure, she had thought, reminders of the case he could not close—but he was not treating them as failure. He was looking at them the way a man might look at something he had finally learned to accept.
+The testimonies lay spread on his table: the servant's account, the student's, the neighbor's, the cook's. Contradictory. Unresolved. Uncorrected. He had carried them into exile. Evidence of his failure, she had thought, reminders of the case he could not close, but he was not treating them as failure. He was looking at them the way a man might look at something he had finally learned to accept.
 
 *The contradictions remain,* she observed. *He does not try to resolve them.*
 
@@ -38,7 +38,7 @@ The testimonies lay spread on his table: the servant's account, the student's, t
 
 The thought tasted wrong in her awareness—bitter, metallic, the flavor of something she needed not to swallow. He was supposed to be stranded in meaninglessness. He was supposed to understand that uncertainty was darkness, that the collapse of certainty proved the futility of virtue, that the world was exactly as bleak as she required him to see it.
 
-Instead he sat in his grove with the autumn light failing, the letter from Marcus folded beside him, the tarnished stylus in his hands—and she could not call what she saw *defeat*.
+Instead he sat in his grove with the autumn light failing, the letter from Marcus folded beside him, the tarnished stylus in his hands. She could not call what she saw *defeat*.
 
 *I gave him what he deserved.*
 
@@ -50,13 +50,13 @@ She watched him for longer than she intended. The olive trees shifted in a wind 
 
 *I gave him silence. I gave him time. I gave him the one thing Rome never could: permission to not know.*
 
-The observation surfaced against her will. She tried to file it—tried to slot it into the clinical framework that would make it manageable—but the framework rejected it. She had not intended to give him anything. She had intended to take: his certainty, his career, his hope, his capacity to act without proof. She had amplified the senator's rage to break him.
+The observation surfaced against her will. She tried to file it. Tried to slot it into the clinical framework that would make it manageable but the framework rejected it. She had not intended to give him anything. She had intended to take: his certainty, his career, his hope, his capacity to act without proof. She had amplified the senator's rage to break him.
 
 The exile had freed him.
 
 *More precision required.*
 
-The response came faster than she could examine it—automatic, defensive, the particular kind of certainty that insists on itself because the alternative is too large to face. Philon had backfired because she had isolated him. Chandra had backfired because she had accelerated him. Verinus had backfired because—
+The response came automatically, defensively, the particular kind of certainty that insists on itself because the alternative is too large to face. Philon had backfired because she had isolated him. Chandra had backfired because she had accelerated him. Verinus had backfired because—
 
 Because—
 
@@ -68,19 +68,19 @@ The cameo returned unbidden: Marcia's body in the colonnade, his eyes finding he
 
 *I will correct.*
 
-The phrase was familiar. She had thought it after Ka, after Chandra, after Philon. Three historical lives, three interventions, three backfires. The pattern was undeniable—even her tracking mind could not deny it—but the pattern's meaning remained unexamined.
+The phrase was familiar. She had thought it after Ka, after Chandra, after Philon. Numerous historical lives, various interventions, all backfires. The pattern was undeniable. Even her tracking mind could not deny it, but the pattern's meaning remained unexamined.
 
 Each intervention accelerates what it opposes. Each pressure creates the precise conditions for the lesson to crystallize. Each attack on his path *is* his path.
 
 She did not let the observation complete.
 
-Instead she turned her attention forward, feeling for the next thread, the next consciousness, the next opportunity to apply what she had learned. Egypt waited—a hermit in the desert, chosen isolation, the dangerous territory of spiritual pride. Different from Verinus. Different from Philon. Precise intervention directed at different vulnerabilities, calibrated with the experience of three failures.
+Instead she turned her attention forward, feeling for the next thread, the next consciousness, the next opportunity to apply what she had learned. Egypt waited. A hermit in the desert, chosen isolation, the dangerous territory of spiritual pride. Different from Verinus. Different from Philon. Precise intervention directed at different vulnerabilities, calibrated with the experience of three failures.
 
 *More precision required.*
 
-In Manchester, the flat held its cold silence. Her tea had frozen or evaporated—she could not say which, could not remember when she had last checked, could not remember the last time Manchester had felt like more than an afterthought to the real work.
+In Manchester, the flat held its cold silence. Her tea had frozen or evaporated, she could not say which, could not remember when she had last checked, could not remember the last time Manchester had felt like more than an afterthought to the real work.
 
-The thread hummed forward. Verinus sat in his exile, allowing the contradictions, the stylus tarnished in his still hands. She turned away from what that meant—turned away from the kinship, from the pattern, from the accumulating evidence that her method was the problem rather than its execution.
+The thread hummed forward. Verinus sat in his exile, allowing the contradictions, the stylus tarnished in his still hands. She turned away from what that meant. Turned away from the kinship, from the pattern, from the accumulating evidence that her method was the problem rather than its execution.
 
 *The next intervention will work differently,* she told herself. *More precise. More isolated.*
 
@@ -94,7 +94,7 @@ In the olive grove, the light failed completely.
 
 Somewhere in a flat in Manchester, a woman sat with her hands cold around ceramic that had long since stopped holding warmth.
 
-And in both places—connected across centuries by a thread neither could fully see—two consciousnesses carried forward the same unexamined question:
+And in both places, connected across centuries by a thread neither could fully see, two consciousnesses carried forward the same unexamined question:
 
 *What would it mean to act with compassion despite uncertainty?*
 

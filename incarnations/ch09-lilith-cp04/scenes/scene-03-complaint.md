@@ -10,7 +10,7 @@ The Portico of Octavia materialized around her awareness: columns throwing long 
 
 *"The question,"* said the younger man—perhaps Verinus's age, built for disagreement—*"is what follows from this discipline. Does careful examination reveal the truth? Or does it reveal that reality itself is fractured—that honest observers, examining the same phenomenon, may arrive at incompatible conclusions?"*
 
-Trembling in Verinus's chest. She felt it as if it were her own—the soft collapse of an assumption long held, the first crack in a structure that had seemed unbreakable.
+Trembling in Verinus's chest. She felt it as if it were her own. The soft collapse of an assumption long held, the first crack in a structure that had seemed unbreakable.
 
 He was standing at the crowd's edge, arms folded, his stylus clutched in his hand but not cleaned. He had come here seeking clarity. He had come here because the Varro case had offered none. Three witnesses, three accounts, no reconciliation. He needed philosophy to tell him that truth was still possible.
 
@@ -22,21 +22,21 @@ The older man's voice rose. *"This is sophistry. If truth is plural, then virtue
 
 *"Or we are elevated to humility."*
 
-The words fell like stones into water, and Lilith felt the ripples spread through Verinus's consciousness—felt them spread through her own. The complaint the philosophers were making was the same complaint she had been making since Ka: reality refuses to behave. Evidence contradicts. Testimony diverges. The things we track do not resolve into the patterns we require of them.
+The words fell like stones into water, and Lilith felt the ripples spread through Verinus's consciousness. She felt them spread through her own. The complaint the philosophers were making was the same complaint she had been making since Ka: reality refuses to behave. Evidence contradicts. Testimony diverges. The things we track do not resolve into the patterns we require of them.
 
 She had come to observe. She had come to watch his certainty tremble.
 
 She was there.
 
-The realization arrived with the weight of physical presence—not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
+The realization arrived with the weight of physical presenc. Not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
 
 Dark-haired. Still. Watching.
 
-She was Marcia Faenia now—the vessel she had chosen for this manifestation, a young woman whose identity mattered less than her presence. She stood at the far edge of the crowd, her attention fixed on Verinus's face as the philosophers contradicted each other, as his worldview trembled, as the investigation he trusted revealed itself to be built on sand.
+She was Marcia Faenia now. The vessel she had chosen for this manifestation, a young woman whose identity mattered less than her presence. She stood at the far edge of the crowd, her attention fixed on Verinus's face as the philosophers contradicted each other, as his worldview trembled, as the investigation he trusted revealed itself to be built on sand.
 
 He saw her.
 
-The moment registered across both frames—his recognition of her stillness, her recognition of his recognition. His eyes found hers through the crowd: observational, measuring, the look of a man cataloguing something he could not yet categorize.
+The moment registered across both frames both his recognition of her stillness, and her recognition of his recognition. His eyes found hers through the crowd: observational, measuring, the look of a man cataloguing something he could not yet categorize.
 
 She did not smile. She did not look away. She simply watched, the way she had watched from the thread, the way she had watched since the beginning.
 
@@ -60,11 +60,11 @@ She was gone.
 
 Marcia's body still stood at the portico's edge, but the merged sensation had released her, and she was back in Manchester, gasping in her armchair, her hands cold around cold ceramic, her breath coming hard.
 
-The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Warmth had settled in her chest that was not satisfaction exactly—that was not anything she could name or file or document.
+The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Warmth had settled in her chest that was not satisfaction exactly, but something she could name or file or document.
 
 She had been seen.
 
-He had looked at her—not at Marcia Faenia, not at the vessel she had chosen, but at *her*—and the looking had felt like being known. The philosophers' arguments still echoed: incompatible conclusions, fractured reality, humility elevated. She had observed his certainty trembling and her own certainty had trembled with it.
+He had looked at her. Not at Marcia Faenia, not at the vessel she had chosen, but at *her*, and his looking had felt like being known. The philosophers' arguments still echoed: incompatible conclusions, fractured reality, humility elevated. She had observed his certainty trembling and her own certainty had trembled with it.
 
 *Which reaction was his and which was mine?*
 
@@ -78,6 +78,6 @@ But she had not been observing. She had been there. She had felt his eyes find h
 
 The thought surfaced with a strangeness she could not place. It did not feel like strategy. It did not feel like the clinical distance she had maintained through three historical lives.
 
-It felt different—unfamiliar in a way she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
+It felt unfamiliar in a way she pressed down immediately, filed with the documentation gaps and the unexamined hunger and all the things she was choosing not to see.
 
 The thread continued. The investigation continued. Verinus's stylus remained uncleaned in his hand, and somewhere in her flat the radiator had stopped ticking, and the boundary between watching and being watched had blurred in a way she would not let herself remember.
