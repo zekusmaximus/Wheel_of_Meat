@@ -1,16 +1,16 @@
 She traced him forward.
 
-The gathering dissolved—monks dispersing, Theophanes conferring with the elderly priest, scribes closing tablets inscribed with wisdom and one strange silence they would interpret as holy mystery. The delegation left Scetis that afternoon, their camels laden with recorded insight, their understanding incomplete.
+The gathering dissolved. The monks dispersing, Theophanes conferring with the elderly priest, scribes closing tablets inscribed with wisdom and one strange silence they would interpret as holy mystery. The delegation left Scetis that afternoon, their camels laden with recorded insight, their understanding incomplete.
 
 Macarius did not resume the routine.
 
-She watched him return to his cell—not walking but stumbling, the posture that had been elevated for days now collapsing inward like a structure whose foundation had been removed. Four paces by three. The reed mat where he had slept for fifteen years. The baskets that had been his anchor. None of it looked the same.
+She watched him return to his cell, He was not walking but stumbling, the posture that had been elevated for days now collapsing inward like a structure whose foundation had been removed. Four paces by three. The reed mat where he had slept for fifteen years. The baskets that had been his anchor. None of it looked the same.
 
 He sat among ruins, though nothing had physically changed.
 
 *He sees it now.*
 
-The observation landed with a particularity she had not expected. She had seen breakings before—Ka dying alone, Chandra burning, Philon turning to meat among meat, Verinus exiled from the certainty he craved. But those breakings had served her purpose. Those breakings had been corruptions that accelerated their suffering, deepened their attachment, sent them into the next life carrying fresh wounds.
+The observation landed with a particularity she had not expected. She had seen breakings before. Ka dying alone, Chandra burning, Philon turning to meat among meat, Verinus exiled from the certainty he craved. But those breakings had served her purpose. Those breakings had been corruptions that deepened their attachment, sent them into the next life carrying fresh wounds.
 
 This breaking was different. This breaking was—
 
@@ -20,7 +20,7 @@ The tears came without sound, without the performance of grief. Animal tears, th
 
 *The body testifies.*
 
-His hands, which had trembled when the warmth flooded him, now trembled with something different. The structure was exposed. The vanity was named. Everything he had built—the discipline, the renunciation, the reputation for holiness that had spread from Scetis to Alexandria to the church at large—all of it was revealed as elaborate performance, sophisticated grasping, pride dressed in humility's rags.
+His hands, which had trembled when the warmth flooded him, now trembled with something different. The structure was exposed. The vanity was named. The discipline, the renunciation, the reputation for holiness that had spread from Scetis to Alexandria to the church at large, it all was revealed as elaborate performance, sophisticated grasping, pride dressed in humility's rags.
 
 And beneath the rubble—
 
@@ -30,7 +30,7 @@ She felt it before she could name it: a movement in his awareness that was not g
 
 *This was supposed to corrupt him.*
 
-The realization arrived with a clarity she could not suppress. Four iterations she had tracked, four interventions she had engineered. Ka's hoarding should have become monstrous; instead it broke against winter and taught him loss. Chandra's calculation should have become consuming; instead it burned and taught him release. Philon's reaching should have become desperate; instead it accompanied death and taught him humility. Verinus's precision should have become paralysis; instead exile taught him acceptance.
+The realization arrived with a clarity she could not suppress. The iterations she had tracked, interventions she had engineered. Ka's hoarding should have become monstrous; instead it broke against winter and taught him loss. Chandra's calculation should have become consuming; instead it burned and taught him release. Philon's reaching should have become desperate; instead it accompanied death and taught him humility. Verinus's precision should have become paralysis; instead exile taught him acceptance.
 
 And now Macarius. His pride should have become permanent. His vanity should have calcified into the kind of spiritual arrogance that would poison every life after.
 
@@ -54,7 +54,7 @@ She had been close. She had been *there*, in a body, breathing air that Macarius
 
 The observation refused to be filed. It sat in her awareness like a stone too large for its folder, too heavy to lift and examine, too present to ignore.
 
-She traced forward. Days passed in the thread—Macarius weeping, Macarius silent, Macarius finally beginning to pray again with a humility that was not performance. The fragile thing beneath the rubble grew. He would die soon—she could feel the life draining from the body she had observed for weeks—but he would die differently than she intended.
+She traced forward. Days passed in the thread—Macarius weeping, Macarius silent, Macarius finally beginning to pray again with a humility that was not performance. The fragile thing beneath the rubble grew. He would die soon. She could feel the life draining from the body she had observed for weeks. He would die differently than she intended.
 
 He would die learning.
 
@@ -68,7 +68,7 @@ She had hesitated. The body she inhabited had held back when her consciousness d
 
 The question would not be answered. But it would not disappear either.
 
-In her flat, the sun was setting or rising—she could not tell which. The radiator had been cold for days. Her body had not moved from the tracking posture, and the stillness that had felt like discipline now felt like something else. Chosen containment. Performed virtue. A prison she called strategy.
+In her flat, the sun was setting or rising, she could not tell which. The radiator had been cold for days. Her body had not moved from the tracking posture, and the stillness that had felt like discipline now felt like something else. Chosen containment. Performed virtue. A prison she called strategy.
 
 The thread hummed forward: Japan, silk, the ache of beauty cultivated like a garden. Macarius was dying with his fingers reaching toward softness he had denied himself for fifteen years. The soul would move on. The tracking would continue.
 
