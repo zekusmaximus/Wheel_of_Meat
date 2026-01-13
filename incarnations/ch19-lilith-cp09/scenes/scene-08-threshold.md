@@ -1,4 +1,4 @@
-She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now—direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
+She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now, Direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
 
 Philosophy department. Humanities building. Third floor, west wing. Office hours Tuesday and Thursday afternoons. Undergraduate seminars on ethics, graduate course on metaphysics. The details accumulated without effort, without search, just attention following the thread that had brought her across centuries, across nine historical interventions, across the many deaths she'd watched until the watching had become the only thing she knew how to do.
 
@@ -14,15 +14,15 @@ But she didn't know how close he was to the threshold.
 
 The thread showed her present location. Did not show her spiritual status. Did not reveal whether the weight she'd felt in Wei's final moment—the completeness, the release—would manifest immediately in this life or whether there would be lag, breathing room, time before he crossed where she could not follow.
 
-She needed to know. Needed data. Needed to track Jack Malone—the detective, Los Angeles, 1938—while simultaneously making Silas's acquaintance. The parallel tracking would give her what historical intervention had failed to provide: precise assessment of where he was in the process, how much time remained, whether the race she felt in the architecture was measured in months or weeks or days.
+She needed to know. Needed data. Needed to track Jack Malone. The detective. Los Angeles, 1938. She had to track him while simultaneously making Silas's acquaintance. The parallel tracking would give her what historical intervention had failed to provide: precise assessment of where he was in the process, how much time remained, whether the race she felt in the architecture was measured in months or weeks or days.
 
-Chapter 21 would be that tracking. That fact-finding. That simultaneous observation of past-life completion and present-life approach.
+Malone would be that tracking. That fact-finding. That simultaneous observation of past-life completion and present-life approach.
 
 But first: this moment. This standing outside his building. This proximity that was also preparation for intimacy strategy that was also something else her body knew and her mind refused.
 
 The pull had grown beyond tactics.
 
-She'd felt it building across the tracking—from Ka through Chandra through Philon through all of them, the many lives and many deaths, the watching that had started as curiosity and become compulsion and transformed into hunger she could not name. But being this close—physical proximity, same city, same campus, same air—the pull was undeniable.
+She'd felt it building across his lifetimes, from Ka through Chandra through Philon through all of them, the many lives and many deaths, the watching that had started as curiosity and become compulsion and transformed into hunger she could not name. But being this close—physical proximity, same city, same campus, same air—the pull was undeniable.
 
 It felt like coming home.
 
@@ -66,11 +66,11 @@ She turned away from the Humanities building. Not yet. Not today. The positionin
 
 Soon. Days, perhaps. A week at most.
 
-The campus continued around her—students and staff and the architecture that held them, the systems that made education look like growth when often it was just different species of grasping, different forms of the same suffering everyone carried without seeing.
+The campus continued around her as students and staff and the architecture that held them sprawled out before her. the systems that made education look like growth when often it was just different species of grasping, different forms of the same suffering everyone carried without seeing.
 
-She walked toward the car park. The pull followed her—constant, patient, the thread that connected her to him humming with proximity that would only intensify.
+She walked toward the car park. The pull followed her, constant, patient, the thread that connected her to him humming with proximity that would only intensify.
 
-After all the violence—Tianjing and Mauryan Empire and Athens and Rome and Egypt and Heian and Inquisition Spain and Renaissance France and Los Angeles and all the glimpses between, all the deaths she'd watched, all the interventions that had backfired—there was something almost peaceful in being this close.
+After all the violence in Tianjing and the Mauryan Empire and Athens and Rome and Egypt and Heian and Inquisition Spain and Renaissance France and Los Angeles and all the glimpses between, all the deaths she'd watched, all the interventions that had backfired—there was something almost peaceful in being this close.
 
 The loving-kindness surprised her.
 

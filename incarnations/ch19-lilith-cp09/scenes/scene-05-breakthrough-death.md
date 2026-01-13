@@ -24,7 +24,7 @@ July nineteenth. Dawn.
 
 The walls broke.
 
-Explosion first—tunnels packed with powder, the West Wall section collapsing into rubble and dust and screaming. Wei woke to it in the temple, already reaching for his medical bag before consciousness fully returned, the reflex automatic, the compulsion transformed from pathology into something cleaner.
+Explosion first as thunder cracked in Manchester. Tunnels packed with powder, the West Wall section collapsing into rubble and dust and screaming. Wei woke to it in the temple, already reaching for his medical bag before consciousness fully returned, the reflex automatic, the compulsion transformed from pathology into something cleaner.
 
 Forty wounded inside his aid station, too injured to evacuate. Two hundred civilians in the West Ward. Fifteen soldiers. The arithmetic brutal and simple: most would die. Organizing evacuation might save twenty or thirty.
 
@@ -42,7 +42,7 @@ Someone had.
 
 Lilith had weighted the probabilities. Adjusted the patrol timing. Made certain the cavalry would be there, would be ready, would cut them down before they could scatter.
 
-She watched the massacre from both timelines—Manchester and Tianjing superimposed—and felt each death as a small percussion in her awareness. One hundred civilians. Fifteen soldiers. Every person Wei had tried to save, slaughtered in the street while he watched from the temple steps.
+She watched the massacre from both timelines, Manchester and Tianjing superimposed. She felt each death as a small percussion in her awareness. One hundred civilians. Fifteen soldiers. Every person Wei had tried to save, slaughtered in the street while he watched from the temple steps.
 
 He returned to the forty wounded inside. Knelt beside them. Held the hand of a boy—seventeen, bleeding from gut wound, dying—and lied gently: "It will be quick."
 
@@ -72,13 +72,13 @@ His last thought arrived clear and complete:
 
 *I will try again.*
 
-The thought passed through him and through the thread of his consciousness and through Lilith tracking it fifteen decades later, and she didn't read it—she experienced it. Felt it arrive in her awareness as if it were her own thought, her own recognition, her own determination crystallizing in the moment of death.
+The thought passed through him and through the thread of his consciousness and through Lilith tracking it fifteen decades later, and she didn't read it, no, she experienced it. Felt it arrive in her awareness as if it were her own thought, her own recognition, her own determination crystallizing in the moment of death.
 
 And then pain.
 
 Sharp. Localized. Real.
 
-Her chest—not his, hers—tore open with agony that had no source in Manchester, no wound in her body, no explanation except the impossible one she refused to accept. She doubled over in the chair, gasping, while in Tianjing Wei's last breath left him and the pattern she'd imposed from outside revealed itself as a pattern she'd been living from inside.
+Her chest, not his, tore open with agony that had no source in Manchester, no wound in her body, no explanation except the impossible one she refused to accept. She doubled over in the chair, gasping, while in Tianjing Wei's last breath left him and the pattern she'd imposed from outside revealed itself as a pattern she'd been living from inside.
 
 Whose death is this?
 
@@ -100,11 +100,11 @@ And by breaking it, she had purified it.
 
 The last door opened. The final lock broken. Completed not in spite of her intervention but because of it.
 
-Every historical attempt—Chandra's betrayal, Philon's isolation, Verinus's contradictions, all nine backfires—had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
+Every historical attempt, Chandra's betrayal, Philon's isolation, Verinus's contradictions, all the backfires, had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
 
-Every lesson. Every quality she'd tried to break—forged instead. Complete.
+Every lesson. Every quality she'd tried to break, they had forged instead. Complete.
 
-The next life would be the breaking point. The chains she felt in her own architecture—he would shed them. Perhaps permanently.
+The next life would be the breaking point. The chains she felt in her own architecture, he would shed them. Perhaps permanently.
 
 She sat in her flat, hunched over the ache in her chest that had no wound to show for it, and understood: the race had narrowed. Whatever time she'd thought she had was gone. He was approaching the threshold faster than she'd calculated, and the approaching was her doing, and the only thing left was the pivot she should have made years ago.
 

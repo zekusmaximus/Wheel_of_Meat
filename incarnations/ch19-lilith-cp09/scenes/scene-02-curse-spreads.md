@@ -1,6 +1,6 @@
 Precision required timing.
 
-The Qing artillery would fire at dawn—she'd felt the probability crystallizing, the decision made by commanders studying maps in tents outside the walls—and the evacuees Wei had sent to the "safe" village would be sleeping when the shells arrived. She leaned into the moment, adjusted nothing directly, only weighted the circumstances: a scout delayed by dysentery, a report filed an hour late, the artillery officer's choice to fire early rather than wait for full light.
+The Qing artillery would fire at dawn. She'd felt the probability crystallizing, the decision made by commanders studying maps in tents outside the walls. The evacuees Wei had sent to the "safe" village would be sleeping when the shells arrived. She leaned into the moment, adjusted nothing directly, only weighted the circumstances: a scout delayed by dysentery, a report filed an hour late, the artillery officer's choice to fire early rather than wait for full light.
 
 The village burned.
 
@@ -10,21 +10,21 @@ In Manchester, rain hammered the windows. In Tianjing, smoke rose from beyond th
 
 She watched Wei operate on the girl—ten years old, perhaps younger, malnourished enough that age became guesswork. His hands moved with the precision she recognized in herself: methodical, practiced, economical in motion. No wasted gesture. No hesitation. The kind of competence that came from repetition, from compulsion, from the inability to stop even when stopping would be wiser.
 
-The scalpel cut. The shrapnel came free. The wound was packed with boiled cloth and honey—supplies running low, honey diluted with water that might not be clean, but Wei worked with what he had the way she worked with what she could influence.
+The scalpel cut. The shrapnel came free. The wound was packed with boiled cloth and honey-supplies running low, honey diluted with water that might not be clean, but Wei worked with what he had the way she worked with what she could influence.
 
 He saved the girl's leg. Added her to his ledger: 134 saved, 128 lost.
 
-The numbers were wrong. He didn't know they were wrong. The forty-three dead from the village hadn't been subtracted because he didn't yet know they were dead, and when he learned it—when the knowledge arrived that his evacuation order had sent them into artillery fire—the arithmetic would shift. He'd saved 91. He'd lost 171. The ledger had inverted and he hadn't noticed because the data came in fragments, in delays, in the chaos of war that made pattern-recognition difficult for those without her vantage.
+The numbers were wrong. He didn't know they were wrong. The forty-three dead from the village hadn't been subtracted because he didn't yet know they were dead, and when the knowledge arrived that his evacuation order had sent them into artillery fire the arithmetic would shift. He'd saved 91. He'd lost 171. The ledger had inverted and he hadn't noticed because the data came in fragments, in delays, in the chaos of war that made pattern-recognition difficult for those without her vantage.
 
 She saw the pattern. She'd made the pattern.
 
-Over two years—spring 1862 through summer 1864—she'd guided circumstance like a physician guides a scalpel. The raid that failed because she'd leaked intelligence to Qing informants: eighteen recovered soldiers sent to die before their wounds had healed. The supply convoy that never arrived because she'd influenced the decision to route it through bandit territory: thirty soldiers starved who might have survived another month. The disease outbreak she'd accelerated by guiding contaminated water toward specific wells: seventy dead, including twelve Wei had personally treated for other injuries.
+Over the two years from spring 1862 through summer 1864 she'd guided circumstance like a physician guides a scalpel. The raid that failed because she'd leaked intelligence to Qing informants: eighteen recovered soldiers sent to die before their wounds had healed. The supply convoy that never arrived because she'd influenced the decision to route it through bandit territory: thirty soldiers starved who might have survived another month. The disease outbreak she'd accelerated by guiding contaminated water toward specific wells: seventy dead, including twelve Wei had personally treated for other injuries.
 
-Not every death. She wasn't omnipotent. The siege killed most of them through simple attrition—hunger, disease, artillery, the slow grinding of systems collapsing under pressure. But the ones Wei touched, the ones he'd marked as saved, those she made certain died. Quickly or slowly. Obviously or subtly. The method didn't matter. The pattern mattered.
+Not every death. She wasn't omnipotent. The siege killed most of them through simple attrition. Hunger, disease, artillery, the slow grinding of systems collapsing under pressure. But the ones Wei touched, the ones he'd marked as saved, those she made certain died. Quickly or slowly. Obviously or subtly. The method didn't matter. The pattern mattered.
 
 Everyone Wei saves dies.
 
-The curse was spreading. Soldiers whispered it in the aid station when they thought he couldn't hear. Civilians requested other medics when Wei approached. One man—gut wound, survivable if treated immediately—had refused Wei's hands, demanded Old Huang instead, and bled out waiting because Huang was treating three others and couldn't reach him in time.
+The curse was spreading. Soldiers whispered it in the aid station when they thought he couldn't hear. Civilians requested other medics when Wei approached. One man with a gut wound, survivable if treated immediately, had refused Wei's hands, demanded Old Huang instead, and bled out waiting because Huang was treating three others and couldn't reach him in time.
 
 That death wasn't her doing. That death was the pattern sustaining itself, becoming self-fulfilling, superstition and probability merging until they were indistinguishable.
 
@@ -32,9 +32,9 @@ She watched Wei hear the refusal. Watched the knowledge land in his careful comp
 
 His hands had trembled. Just briefly. Just enough to notice.
 
-Satisfaction settled through her—Manchester cold and Tianjing smoke, both temperatures real. This was working. The futility was becoming visible. Wei was beginning to see himself as the common factor, the variable that turned survival into delayed death, help into harm. Another month. Perhaps less. The pattern would become undeniable and he would stop helping, and determination would break before it purified, and she would have finally prevented rather than accelerated.
+Satisfaction settled through her. Manchester cold and Tianjing smoke, both temperatures real. This was working. The futility was becoming visible. Wei was beginning to see himself as the common factor, the variable that turned survival into delayed death, help into harm. Another month. Perhaps less. The pattern would become undeniable and he would stop helping, and determination would break before it purified, and she would have finally prevented rather than accelerated.
 
-Rain continued its steady percussion. Somewhere in Tianjing—June 1864, the end approaching though Wei didn't know it yet—Hong Xiuquan choked down the "manna" he claimed God provided and felt his mind fracture under the weight of theology colliding with starvation. The Heavenly King was dying. The kingdom was dying. Everyone was dying.
+Rain continued its steady percussion. Somewhere in Tianjing in June 1864, the end approaching though Wei didn't know it yet, Hong Xiuquan choked down the "manna" he claimed God provided and felt his mind fracture under the weight of theology colliding with starvation. The Heavenly King was dying. The kingdom was dying. Everyone was dying.
 
 And Wei kept counting.
 
@@ -52,7 +52,7 @@ In her flat, Lilith's tea had gone cold again. She'd made fresh tea at some poin
 
 How long had she been sitting here?
 
-The question arrived and dissolved. It didn't matter. What mattered was the work. What mattered was the pattern. What mattered was that Wei's ledger was closing toward zero and when it crossed—when lost exceeded saved by a margin too large to dismiss as statistical noise—he would stop.
+The question arrived and dissolved. It didn't matter. What mattered was the work. What mattered was the pattern. What mattered was that Wei's ledger was closing toward zero and when it crossed—when lost exceeded saved by a margin too large to dismiss as statistical noise. He would stop.
 
 He had to stop.
 

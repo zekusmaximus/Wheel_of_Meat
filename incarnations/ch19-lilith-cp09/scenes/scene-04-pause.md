@@ -10,7 +10,7 @@ The boy stood in the doorway, bleeding. Wei sat in the alcove, motionless.
 
 Both of them suspended in the moment before choice became action, before the pattern that had held for two years either completed or shattered.
 
-Lilith leaned forward—Manchester and Tianjing both—and the motion was hunger, was certainty, was two years of sustained intervention converging on this single instant. Don't, she thought, willing it across centuries. You've learned. The futility is visible. Everyone you save dies. You are the curse. Don't reach. Don't help. Let this one go and break the pattern that's destroying you.
+Lilith leaned forward and grasped her cup. The motion was hunger, was certainty, was two years of sustained intervention converging on this single instant. Don't, she thought, willing it across centuries. You've learned. The futility is visible. Everyone you save dies. You are the curse. Don't reach. Don't help. Let this one go and break the pattern that's destroying you.
 
 Wei's eyes met the boy's.
 
@@ -20,7 +20,7 @@ Wei stared at him. The boy stared back.
 
 Long moment. Everything balanced.
 
-In Manchester, Lilith's hands gripped the arms of her chair, knuckles white. The rain had shifted—harder now, autumn storm accelerating, the sound building from steady percussion to something closer to violence. She didn't notice. Her entire awareness was focused on Tianjing, on Wei, on the choice crystallizing in the space between paralysis and action.
+In Manchester, Lilith's hands gripped the arms of her chair, knuckles white. The rain had shifted harder now, autumn storm accelerating, the sound building from steady percussion to something closer to violence. She didn't notice. Her entire awareness was focused on Tianjing, on Wei, on the choice crystallizing in the space between paralysis and action.
 
 Two days idle. Two days confronting the arithmetic: everyone he'd saved had died. The ledger inverted. The curse spreading. The logical conclusion was cessation—stop helping, stop being the variable that turned survival into deferred death, stop reaching toward suffering as if reaching mattered.
 

@@ -1,4 +1,4 @@
-The application form sat in front of her—two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
+The application form sat in front of her. Two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
 
 She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
 
@@ -6,7 +6,7 @@ Forms had their own species of violence. Slower than artillery. Quieter than mas
 
 She recognized this the way she recognized everything now. Except herself.
 
-The waiting room where she sat for the interview held its own silence—different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time.
+The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time.
 
 Three other candidates sat with her. She perceived their attachments without trying: the young woman needing this job for visa sponsorship, worry manifesting as bitten fingernails and rehearsed answers running behind her eyes. The older man whose last position had ended badly, desperation showing in the way he sat too straight, too ready. The middle candidate—closest to Lilith's apparent age—who wanted career advancement, who saw this as stepping stone, who carried ambition like weight.
 

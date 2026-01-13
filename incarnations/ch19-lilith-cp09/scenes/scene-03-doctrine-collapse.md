@@ -40,7 +40,7 @@ Everyone I help dies. Hong is dead. The kingdom is dead. I am the common factor.
 
 Conclusion: I should stop.
 
-For two days, he refused new patients. Told them to see Old Huang, see the other medics, see anyone but him because his hands had become instruments of delayed murder rather than healing. The ledger had inverted—more lost than saved, the gap widening—and the only rational response was to remove himself from the equation. Stop helping. Stop counting. Stop being the one who reached toward suffering as if reaching could solve it.
+For two days, he refused new patients. Told them to see Old Huang, see the other medics, see anyone but him because his hands had become instruments of delayed murder rather than healing. The ledger had inverted. More lost than saved The gap was widening and the only rational response was to remove himself from the equation. Stop helping. Stop counting. Stop being the one who reached toward suffering as if reaching could solve it.
 
 Lilith watched this paralysis and called it victory.
 
@@ -58,7 +58,7 @@ Irrelevant. The work was what mattered.
 
 In Tianjing, Wei sat motionless in the empty alcove. In Manchester, Lilith sat motionless in her chair. Rain continued. Siege continued. Both of them waiting in the space between action and paralysis, between helping and stopping, between the compulsion that had defined them and the recognition that the compulsion might be destroying rather than serving.
 
-The temple was silent except for distant artillery—a sound so constant it had become the texture of air rather than event. The flat was silent except for rain—the same constancy, the same redefinition of normal.
+The temple was silent except for distant artillery, a sound so constant it had become the texture of air rather than event. The flat was silent except for rain—the same constancy, the same redefinition of normal.
 
 Two kinds of violence. Two kinds of waiting.
 

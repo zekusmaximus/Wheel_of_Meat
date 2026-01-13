@@ -94,7 +94,7 @@ Manchester was solid around her. Real. Present. The violence of calm waiting.
 
 And somewhere in this city, he was waiting too.
 
-Not waiting for her. He didn't know she existed. Didn't know he'd died nine times—more than nine, many more—with her watching. Didn't know the pattern that connected them exceeded intervention, exceeded competition, exceeded even the race that had her moving toward him with urgency that felt like need.
+Not waiting for her. He didn't know she existed. Didn't know he'd died endless times with her watching. Didn't know the pattern that connected them exceeded intervention, exceeded competition, exceeded even the race that had her moving toward him with urgency that felt like need.
 
 She would find him. Would position herself. Would begin the work that historical intervention had failed to accomplish.
 
