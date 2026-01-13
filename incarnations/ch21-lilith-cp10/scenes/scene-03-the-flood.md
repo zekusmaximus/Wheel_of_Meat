@@ -1,12 +1,12 @@
 She was close enough now. Could hear his voice.
 
-Silas stood at the edge of the philosophy cluster, discussing something with a colleague—contemplative practice, therapeutic intervention, the intersection of meditation traditions and clinical work. His voice: measured, warm, certain in a way that didn't announce itself. The same certainty she'd heard in Jack's voice on a phone call she'd been close enough to overhear.
+Silas stood at the edge of the philosophy cluster, discussing something with a colleague. Contemplative practice, therapeutic intervention, the intersection of meditation traditions and clinical work. His voice: measured, warm, certain in a way that didn't announce itself. The same certainty she'd heard in Jack's voice on a phone call she'd been close enough to overhear.
 
 "Someone has to give a damn about these people."
 
 The phrase arrived across decades, across the sensory bridge that connected the faculty reception to a phone booth in downtown LA, February 1938. Jack, calling a contact, making his case for why the Haversham investigation mattered. The same conviction. The same inability to stop.
 
-She positioned herself at the edge of the conversation. Listening. Waiting for the opening. The colleague was a woman in her fifties—Victorian studies, Lilith's peripheral awareness supplied without effort—who was wrapping up, making polite noises about having to circulate. The opening was approaching. The moment crystallizing.
+She positioned herself at the edge of the conversation. Listening. Waiting for the opening. The colleague was a woman in her fifties in Victorian studies, Lilith's peripheral awareness supplied without effort. She was wrapping up, making polite noises about having to circulate. The opening was approaching. The moment crystallizing.
 
 Something wrong. Something tearing.
 

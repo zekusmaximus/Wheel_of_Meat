@@ -1,6 +1,6 @@
 March 1938. Rain in the alley behind Jack's boarding house.
 
-The Buick Roadmaster sat in its usual spot—black paint beaded with water, chrome dulled by weeks of neglect while Jack worked the case that was killing him. He walked toward it with his coat pulled tight, one more day of trying, one more morning of choosing to continue when continuation was insane. The letter in his pocket. The gun in his shoulder holster. The certainty settling through him that today was the day, though he couldn't have said how he knew.
+The Buick Roadmaster sat in its usual spot, its black paint beaded with water, chrome dulled by weeks of neglect, while Jack worked the case that was killing him. He walked toward it with his coat pulled tight, one more day of trying, one more morning of choosing to continue when continuation was insane. The letter in his pocket. The gun in his shoulder holster. The certainty settling through him that today was the day, though he couldn't have said how he knew.
 
 She was turning away already. Positioned at the edge of the alley, close enough to see, already walking. She'd seen enough. Knew how this ended.
 
@@ -72,13 +72,13 @@ The rain fell in both cities. The violence continued in both registers.
 
 And the realization crashed down:
 
-Ten interventions. Ten backfires.
+Every intervention. All backfires.
 
 Minimal presence. Maximal presence. It didn't matter.
 
-Everything she did accelerated him. Made the lessons clearer. Purified what she meant to poison. Jack dying with that phrase in his mind—the trying is not nothing—while she watched from the edge of the alley, while she approached from across the reception room, while both gestures revealed the same truth she could not see.
+Everything she did accelerated him. Made the lessons clearer. Purified what she meant to poison. Jack dying with that phrase in his mind, 'the trying is not nothing', while she watched from the edge of the alley, while she approached from across the reception room, while both gestures revealed the same truth she could not see.
 
-Complete. Every door she'd tried to lock—opened from inside.
+Complete. Every door she'd tried to lock had opened from the inside.
 
 She had made the futility visible. She had ensured every case Jack worked failed. She had accelerated his failures the way she'd accelerated Wei's, the way she'd accelerated all of them, and every time the acceleration became the lesson, became the purification, became the exact thing she was trying to prevent.
 
@@ -90,7 +90,7 @@ The weight of centuries pressing down. Every avatar. Every method. Every failure
 
 One option remained.
 
-She stood in the reception room—Manchester, present day, autumn rain against windows—and the ache in her chest refused to fade, and Jack's body lay on wet pavement sixty-seven years ago, and somewhere in the space between those facts the decision crystallized.
+She stood in the reception room in Manchester, present day, autumn rain against windows The ache in her chest refused to fade, and Jack's body lay on wet pavement sixty-seven years ago, and somewhere in the space between those facts the decision crystallized.
 
 If I can't stop him, I'll bind him.
 
@@ -98,7 +98,7 @@ The words arrived without source, without doctrine, just the weight of necessity
 
 Be close enough to intervene at the critical moment.
 
-But even as the strategy formed, a current beneath it stirred—with nothing to do with intervention and everything to do with the pain in her chest, the pull in her architecture, the recognition she kept experiencing and refusing to name.
+But even as the strategy formed, a current beneath it stirred with nothing to do with intervention and everything to do with the pain in her chest, the pull in her architecture, the recognition she kept experiencing and refusing to name.
 
 She stood very still. Let the pain move through her. Let the realization settle.
 

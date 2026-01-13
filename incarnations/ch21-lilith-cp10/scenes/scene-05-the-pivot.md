@@ -34,7 +34,7 @@ Professional. Collegial. The cosmic masked as casual.
 
 He turned. Saw her.
 
-For a moment—recognition that flickered and failed to catch. Something in his expression shifted, realigned, reached toward a memory that wasn't quite there. Rain. Another city. A passerby. The woman who had been walking away while his car exploded, who had watched from the edge of the alley, who had appeared in glimpses across months of investigation without ever quite resolving into presence.
+For a moment recognition flickered and failed to catch. Something in his expression shifted, realigned, reached toward a memory that wasn't quite there. Rain. Another city. A passerby. The woman who had been walking away while his car exploded, who had watched from the edge of the alley, who had appeared in glimpses across months of investigation without ever quite resolving into presence.
 
 He blinked, and it was gone.
 
@@ -48,7 +48,7 @@ Finally, she thought. Finally close enough.
 
 The pull that had grown beyond strategy settled into satisfaction she called tactical, relief she called positioning, warmth she called nothing at all. His hand in hers. Real. After all the centuries of watching, finally—touch.
 
-She smiled—the smile she'd practiced across incarnations, the one that revealed nothing—and let go before it could mean anything.
+She smiled and let go before the smile could mean anything.
 
 But it already did.
 
@@ -56,7 +56,7 @@ Rain continued against the windows behind them. The reception continued around t
 
 She thought: This time. This time I'll be close enough.
 
-The reader knows what she cannot see: this is the moment she binds herself.
+This is the moment she binds herself.
 
 The intimacy strategy that will be the most powerful accelerant of all. The binding that will bind her, not him. The approach that will become need that will become the final bind made flesh, made relationship, made the thing she must release before the threshold can open.
 
