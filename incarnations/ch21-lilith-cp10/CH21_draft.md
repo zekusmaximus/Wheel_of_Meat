@@ -1,20 +1,20 @@
 Rain on two cities. She felt it in her skin before she heard it on the windows.
 
-The faculty reception hummed with the particular violence of small talk—clinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray—and across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions that had backfired into exactly what she'd tried to prevent.
+The faculty reception hummed with the particular violence of small talk. Cclinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray. Across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions that had backfired into exactly what she'd tried to prevent.
 
 Week nine of tracking. Or ten. She'd stopped counting days when the pursuit became fever.
 
-In the bar downtown—Los Angeles, January 1938—smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick—the uniform of the era. Nursing something she wouldn't drink. The same rain that fell on Manchester fell on nothing in LA's dry winter, but she felt it anyway, moisture in two registers, the sensory bridge holding both frames in the same breath.
+In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink. The same rain that fell on Manchester fell on nothing in LA's dry winter, but she felt it anyway, moisture in two registers, the sensory bridge holding both frames in the same breath.
 
-The pull toward him—toward Silas—had become physical. An ache in the architecture of her chest that had no source she could name, no wound she could treat. The thread hummed. The reception continued. She scanned the room the way Jack scanned his contacts, the same gesture across decades, both of them looking for someone who could change everything.
+The pull toward him, toward Silas, had become physical. An ache in the architecture of her chest that had no source she could name, no wound she could treat. The thread hummed. The reception continued. She scanned the room the way Jack scanned his contacts, the same gesture across decades, both of them looking for someone who could change everything.
 
 He didn't notice her. She didn't need him to.
 
-Another one who can't stop, she thought, watching Jack work the room—watching herself work the room—the parallel forming before she could suppress it. His obsessive pursuit of the Haversham case. Her obsessive pursuit of the soul that kept escaping her interventions. Both of them reaching across distance toward something they couldn't quite touch.
+Another one who can't stop, she thought, watching Jack work the room, watching herself work the room, the parallel forming before she could suppress it. His obsessive pursuit of the Haversham case. Her obsessive pursuit of the soul that kept escaping her interventions. Both of them reaching across distance toward something they couldn't quite touch.
 
 The clink of glasses at the reception. The clink of glasses at the bar. Rain against tall university windows. Rain against LA's single bar window in January when it shouldn't rain but did, because she was there, because her attention made the weather behave strangely, because tracking across timelines left residue in both frames.
 
-She set down her untouched drink—bourbon in the bar, wine at the reception, both glasses sweating in her peripheral awareness—and began to move.
+She set down her untouched drinks, bourbon in the bar, wine at the reception, both glasses sweating in her peripheral awareness, and she began to move.
 
 The crowd parted. Or she moved through it. The geometry of a thousand years of practice reduced to footwork, to positioning, to the slow navigation toward the face she'd been watching die for longer than she could remember.
 
@@ -29,13 +29,13 @@ Both held. Both true. Both bleeding through the membrane of her attention like t
 And the wheel turned, carrying her toward the moment she'd been building toward since she first recognized his thread in Ka's desperate isolation, since she first understood that someone was approaching the threshold at the same rate she was, since the race began and she started running and found she could not stop.
 
 
-She spotted Silas across the reception room. Philosophy faculty cluster near the windows—rain still falling behind them, the gray light making everything look underwater, submerged. He was talking to a colleague, gesturing with one hand while the other held a wine glass he hadn't drunk from. The gesture was familiar. The patience in it. The certainty that didn't announce itself.
+She spotted Silas across the reception room. Philosophy faculty cluster near the windows. Rain still falling behind them, the gray light making everything look underwater, submerged. He was talking to a colleague, gesturing with one hand while the other held a wine glass he hadn't drunk from. The gesture was familiar. The patience in it. The certainty that didn't announce itself.
 
 She began navigating through the crowd. Casual. Deliberate. The calculations felt automatic now—where to stand, when to move, how to appear incidental while closing distance with the precision of a scope zeroing. A thousand years of practice distilled into footwork. A thousand lives watched, tracked, intervened upon, and now this: the final approach.
 
 Gray light through university windows. Gray light through rain-streaked windshield.
 
-February 1938. Jack navigating through dead-end leads, the Haversham case eating him alive the way all his cases ate him alive, the way her tracking ate her. She was positioned outside a diner where he'd gone to chase another contact, another source, another thread that would go nowhere. Rain in LA again—wrong season, wrong coast, but the tracking made the weather sympathetic, made it rain in both cities, both centuries.
+February 1938. Jack navigating through dead-end leads, the Haversham case eating him alive the way all his cases ate him alive, the way her tracking ate her. She was positioned outside a diner where he'd gone to chase another contact, another source, another thread that would go nowhere. Rain in LA again. Wrong season, wrong coast, but the tracking made the weather sympathetic, made it rain in both cities, both centuries.
 
 He walked past.
 
@@ -47,7 +47,7 @@ The witness who would have talked. Now wouldn't. A phone call that arrived at th
 
 He was the past. Silas was the future.
 
-Nine interventions. Nine backfires. Perhaps distance was the answer. Perhaps minimal presence would succeed where maximal presence had failed—a test, a hypothesis, the kind of clinical reasoning that had sustained her through centuries of watching souls she couldn't save from the lessons she was trying to prevent.
+Perhaps distance was the answer. Perhaps minimal presence would succeed where maximal presence had failed. A test, a hypothesis, the kind of clinical reasoning that had sustained her through centuries of watching souls she couldn't save from the lessons she was trying to prevent.
 
 Jack kept walking. Kept trying. The determination in his shoulders, in his stride, in the way he refused to stop even when stopping was the only sane response. Outcome-independent perseverance building in his bones while she accelerated his failures from outside, teaching him the lesson faster without seeing that she was learning the same lesson, had been learning it since Ka's frozen cave, since the first moment she recognized the pattern and decided to fight it.
 
@@ -63,7 +63,7 @@ But she called it positioning. Called it strategy. Called it the necessary next 
 
 The interpretation was clean. The interpretation was wrong.
 
-And beneath it—beneath the calculation, beneath the strategy, beneath the clinical precision—something else was building. Something that had nothing to do with prevention and everything to do with recognition.
+And beneath the calculation and strategy something else was building. Something that had nothing to do with prevention and everything to do with recognition.
 
 She didn't look at it. Kept navigating. Kept closing the distance.
 
@@ -74,13 +74,13 @@ And the wheel turned, carrying her closer.
 
 She was close enough now. Could hear his voice.
 
-Silas stood at the edge of the philosophy cluster, discussing something with a colleague—contemplative practice, therapeutic intervention, the intersection of meditation traditions and clinical work. His voice: measured, warm, certain in a way that didn't announce itself. The same certainty she'd heard in Jack's voice on a phone call she'd been close enough to overhear.
+Silas stood at the edge of the philosophy cluster, discussing something with a colleague. Contemplative practice, therapeutic intervention, the intersection of meditation traditions and clinical work. His voice: measured, warm, certain in a way that didn't announce itself. The same certainty she'd heard in Jack's voice on a phone call she'd been close enough to overhear.
 
 "Someone has to give a damn about these people."
 
 The phrase arrived across decades, across the sensory bridge that connected the faculty reception to a phone booth in downtown LA, February 1938. Jack, calling a contact, making his case for why the Haversham investigation mattered. The same conviction. The same inability to stop.
 
-She positioned herself at the edge of the conversation. Listening. Waiting for the opening. The colleague was a woman in her fifties—Victorian studies, Lilith's peripheral awareness supplied without effort—who was wrapping up, making polite noises about having to circulate. The opening was approaching. The moment crystallizing.
+She positioned herself at the edge of the conversation. Listening. Waiting for the opening. The colleague was a woman in her fifties in Victorian studies, Lilith's peripheral awareness supplied without effort. She was wrapping up, making polite noises about having to circulate. The opening was approaching. The moment crystallizing.
 
 Something wrong. Something tearing.
 
@@ -129,7 +129,7 @@ The question dissolved before she could answer it. She stepped forward into the 
 
 March 1938. Rain in the alley behind Jack's boarding house.
 
-The Buick Roadmaster sat in its usual spot—black paint beaded with water, chrome dulled by weeks of neglect while Jack worked the case that was killing him. He walked toward it with his coat pulled tight, one more day of trying, one more morning of choosing to continue when continuation was insane. The letter in his pocket. The gun in his shoulder holster. The certainty settling through him that today was the day, though he couldn't have said how he knew.
+The Buick Roadmaster sat in its usual spot, its black paint beaded with water, chrome dulled by weeks of neglect, while Jack worked the case that was killing him. He walked toward it with his coat pulled tight, one more day of trying, one more morning of choosing to continue when continuation was insane. The letter in his pocket. The gun in his shoulder holster. The certainty settling through him that today was the day, though he couldn't have said how he knew.
 
 She was turning away already. Positioned at the edge of the alley, close enough to see, already walking. She'd seen enough. Knew how this ended.
 
@@ -201,13 +201,13 @@ The rain fell in both cities. The violence continued in both registers.
 
 And the realization crashed down:
 
-Ten interventions. Ten backfires.
+Every intervention. All backfires.
 
 Minimal presence. Maximal presence. It didn't matter.
 
-Everything she did accelerated him. Made the lessons clearer. Purified what she meant to poison. Jack dying with that phrase in his mind—the trying is not nothing—while she watched from the edge of the alley, while she approached from across the reception room, while both gestures revealed the same truth she could not see.
+Everything she did accelerated him. Made the lessons clearer. Purified what she meant to poison. Jack dying with that phrase in his mind, 'the trying is not nothing', while she watched from the edge of the alley, while she approached from across the reception room, while both gestures revealed the same truth she could not see.
 
-Complete. Every door she'd tried to lock—opened from inside.
+Complete. Every door she'd tried to lock had opened from the inside.
 
 She had made the futility visible. She had ensured every case Jack worked failed. She had accelerated his failures the way she'd accelerated Wei's, the way she'd accelerated all of them, and every time the acceleration became the lesson, became the purification, became the exact thing she was trying to prevent.
 
@@ -219,7 +219,7 @@ The weight of centuries pressing down. Every avatar. Every method. Every failure
 
 One option remained.
 
-She stood in the reception room—Manchester, present day, autumn rain against windows—and the ache in her chest refused to fade, and Jack's body lay on wet pavement sixty-seven years ago, and somewhere in the space between those facts the decision crystallized.
+She stood in the reception room in Manchester, present day, autumn rain against windows The ache in her chest refused to fade, and Jack's body lay on wet pavement sixty-seven years ago, and somewhere in the space between those facts the decision crystallized.
 
 If I can't stop him, I'll bind him.
 
@@ -227,7 +227,7 @@ The words arrived without source, without doctrine, just the weight of necessity
 
 Be close enough to intervene at the critical moment.
 
-But even as the strategy formed, a current beneath it stirred—with nothing to do with intervention and everything to do with the pain in her chest, the pull in her architecture, the recognition she kept experiencing and refusing to name.
+But even as the strategy formed, a current beneath it stirred with nothing to do with intervention and everything to do with the pain in her chest, the pull in her architecture, the recognition she kept experiencing and refusing to name.
 
 She stood very still. Let the pain move through her. Let the realization settle.
 
@@ -270,7 +270,7 @@ Professional. Collegial. The cosmic masked as casual.
 
 He turned. Saw her.
 
-For a moment—recognition that flickered and failed to catch. Something in his expression shifted, realigned, reached toward a memory that wasn't quite there. Rain. Another city. A passerby. The woman who had been walking away while his car exploded, who had watched from the edge of the alley, who had appeared in glimpses across months of investigation without ever quite resolving into presence.
+For a moment recognition flickered and failed to catch. Something in his expression shifted, realigned, reached toward a memory that wasn't quite there. Rain. Another city. A passerby. The woman who had been walking away while his car exploded, who had watched from the edge of the alley, who had appeared in glimpses across months of investigation without ever quite resolving into presence.
 
 He blinked, and it was gone.
 
@@ -284,7 +284,7 @@ Finally, she thought. Finally close enough.
 
 The pull that had grown beyond strategy settled into satisfaction she called tactical, relief she called positioning, warmth she called nothing at all. His hand in hers. Real. After all the centuries of watching, finally—touch.
 
-She smiled—the smile she'd practiced across incarnations, the one that revealed nothing—and let go before it could mean anything.
+She smiled and let go before the smile could mean anything.
 
 But it already did.
 
@@ -292,7 +292,7 @@ Rain continued against the windows behind them. The reception continued around t
 
 She thought: This time. This time I'll be close enough.
 
-The reader knows what she cannot see: this is the moment she binds herself.
+This is the moment she binds herself.
 
 The intimacy strategy that will be the most powerful accelerant of all. The binding that will bind her, not him. The approach that will become need that will become the final bind made flesh, made relationship, made the thing she must release before the threshold can open.
 

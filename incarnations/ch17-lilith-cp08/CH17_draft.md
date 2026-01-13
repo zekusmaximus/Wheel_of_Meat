@@ -1,14 +1,14 @@
 One more method, and the fortress would fall.
 
-Her tea had gone cold three hours ago. Lilith did not pour a fresh cup—would pour a fresh cup, eventually, when the tracking cycle demanded she anchor herself in Manchester's physical present long enough to feel her own fingers against ceramic—but for now the cold was appropriate. The cold matched the calculation. The cold matched the precision she was about to deploy.
+Her tea had gone cold three hours ago. Lilith did not pour a fresh cup. She would pour a fresh cup, eventually, but only when the tracking cycle demanded she anchor herself in Manchester's physical present long enough to feel her own fingers against ceramic. Fut for now however, the cold was appropriate. The cold matched the calculation. The cold matched the precision she was about to deploy.
 
 On the laptop screen, the University of Manchester philosophy department homepage glowed in her peripheral vision. She had not clicked through to the faculty pages. Not yet. That was backup, contingency, the strategic preparation one maintained while historical methods still offered promise.
 
 The question was doubt in two registers.
 
-In Renaissance France, a man touched his thumb to his index finger—a counting gesture, a weighing gesture, the pattern she recognized from Diego's physician hands and Verinus's investigating patience. Jean de Langon examined witness testimony that could not be reconciled, and his doubt was professional, earned, the intellectual armor of a man who had survived by refusing to commit.
+In Renaissance France, a man touched his thumb to his index finge in a counting gesture, a weighing gesture, the pattern she recognized from Diego's physician hands and Verinus's investigating patience. Jean de Langon examined witness testimony that could not be reconciled, and his doubt was professional, earned, the intellectual armor of a man who had survived by refusing to commit.
 
-In Manchester, Lilith examined the backfire that had been Sor Catalina. Emotional manipulation. Personal betrayal. Diego de Lucena watching his friend Tomás embrace hatred, and instead of hardening—instead of turning bitter as she had engineered—he had released the hatred. Let it go. Learned the lesson she had tried to prevent him learning.
+In Manchester, Lilith examined the backfire that had been Sor Catalina. Emotional manipulation. Personal betrayal. Diego de Lucena watching his friend Tomás embrace hatred, and instead of hardening he had released the hatred. Let it go. Learned the lesson she had tried to prevent him learning.
 
 Different method. More precise. Targeted.
 
@@ -22,20 +22,20 @@ Not emotional manipulation—that had failed with Sor Catalina's zealotry, had b
 
 So precision would be the weapon.
 
-The philosophy department page still glowed. Lilith did not glance at it. The laptop was simply there, open, waiting—the way the letter in Marguerite's archives was waiting, the way the widow's measured skepticism was waiting, the way all the instruments of intellectual seduction were waiting for her to deploy them.
+The philosophy department page still glowed. Lilith did not glance at it. The laptop was simply there waiting, the way the letter in Marguerite's archives was waiting, the way the widow's measured skepticism was waiting, the way all the instruments of intellectual seduction were waiting for her to deploy them.
 
 One more method. Intellectual approach for intellectual fortress.
 
 This one would work.
 
 
-The print shop smelled of ink and metal, and Lilith felt both—the chemical tang through Marguerite Viret's awareness, the cold lamp-glow through her own eyes in the Fallowfield flat. The same precision work: words arranged into meaning, letters set into type, arguments constructed with the care of someone who understood that each component bore weight.
+The print shop smelled of ink and metal. Lilith felt both the chemical tang through Marguerite Viret's awareness and the cold lamp-glow through her own eyes in the Fallowfield flat. The same precision work: words arranged into meaning, letters set into type, arguments constructed with the care of someone who understood that each component bore weight.
 
 Marguerite's face held the markers Lilith had worn in every life she could remember wearing faces at all: the widow's peak sharp and pronounced, the single darker strand falling forward over the left temple, the pale-green crescent in the iris of the left eye visible when candlelight struck at the right angle. The printer's widow was late thirties, educated, connected to the intellectual networks that survived between factions because skepticism served everyone's purpose equally.
 
 And Marguerite genuinely believed what she was about to say.
 
-That was the elegance of the method. Amplification rather than possession—Lilith never became the widow, never overrode her consciousness or spoke with her mouth as if puppeting empty flesh. She pushed *through*. Amplified what was already there. Marguerite Viret had typeset Montaigne's Essays letter by letter, had absorbed the arguments about the unreliability of testimony and the limitations of human knowledge simply by arranging the words across hundreds of pages. Her skepticism was earned. Her philosophy was genuinely hers.
+That was the elegance of the method. Amplification rather than possession. Lilith never became the widow, never overrode her consciousness or spoke with her mouth as if puppeting empty flesh. She pushed *through*. Amplified what was already there. Marguerite Viret had typeset Montaigne's Essays letter by letter, had absorbed the arguments about the unreliability of testimony and the limitations of human knowledge simply by arranging the words across hundreds of pages. Her skepticism was earned. Her philosophy was genuinely hers.
 
 Lilith simply ensured the philosophy reached its intended target.
 
@@ -49,7 +49,7 @@ The seduction of being understood.
 
 Cold tea on her desk. Cold metal type under Marguerite's fingers. Both women working with letters, with words, with the precise arrangement of meaning to produce specific effects.
 
-The difference—the one Lilith refused to consider—was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
+The difference Lilith refused to consider was that Marguerite believed her arguments led toward truth, while Lilith knew they led toward paralysis.
 
 Jean's finger-touching sequence began: thumb to index. Counting the possibilities. Weighing the implications.
 
@@ -58,7 +58,7 @@ Good. The trap was setting. The method was working.
 One more push toward the fortress she would convince him was wisdom.
 
 
-Candlelight caught the wine in Marguerite's cup—wrong temperature now, like the grey light pooling unnoticed on her desk—as the philosophical conversation deepened toward its intended destination.
+Candlelight caught the wine in Marguerite's cup. Wrong temperature now, like the grey light pooling unnoticed on her desk. The philosophical conversation deepened toward its intended destination.
 
 "The merchant saw Protestant riders," Jean said, and his voice carried the measured weight of a man presenting evidence for examination rather than conviction. "The farmer saw Catholic soldiers. The servant heard Protestant anger. Each testimony internally consistent. Each mutually exclusive."
 
@@ -105,7 +105,7 @@ Jean's hands closed around the document. Through Marguerite's eyes, Lilith watch
 
 The perfect trap.
 
-In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. The rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence—both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
+In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. The rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence. Both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
 
 The letter established Protestant conspiracy. If genuine. If included in the report.
 
@@ -128,9 +128,9 @@ She filed it under strategic assessment and continued positioning the trap.
 
 The print shop at midnight held the intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
 
-Jean had come to her—Lilith felt that satisfaction pulse through both timelines—had sought out philosophical conversation at an hour when most men sought only their beds. His fortress was crumbling. His tools had failed. All that remained was the final push toward paralysis.
+Jean had come to her. Lilith felt a satisfaction pulse through both timelines. Jean had sought out philosophical conversation at an hour when most men sought only their beds. His fortress was crumbling. His tools had failed. All that remained was the final push toward paralysis.
 
-"What if you submitted nothing?" Marguerite asked. Her voice—the widow's voice, genuine and measured—carried the argument Lilith had spent millennia refining. "What if you returned to the magistrate and said: the evidence is insufficient, the testimony contradictory, the truth inaccessible. I cannot in honesty conclude."
+"What if you submitted nothing?" Marguerite asked. The widow's voice, genuine and measured, carried the argument Lilith had spent millennia refining. "What if you returned to the magistrate and said: the evidence is insufficient, the testimony contradictory, the truth inaccessible. I cannot in honesty conclude."
 
 Jean set down his wine cup. His face held the stillness of a man confronting the logical endpoint of his own principles.
 
@@ -171,7 +171,7 @@ And his face had changed.
 
 The words landed like a blade finding gap between plates.
 
-"The belief," he continued—and his voice had steadied, had found something beneath the doubt—"that uncertainty absolves me of responsibility for action."
+"The belief," he continued as his voice steadied, had found something beneath the doubt, "that uncertainty absolves me of responsibility for action."
 
 Lilith felt the argument collapse. Not—No. The logic was perfect. The epistemology was sound. He could not refute it because it was *true*.
 
@@ -199,7 +199,7 @@ Clarified. The intellectual precision that should have been hers, deployed again
 
 He left.
 
-And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that eight interventions had produced eight backfires, and the pattern was structural.
+And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition that all interventions had produced backfires, and the pattern was structural.
 
 The method was sound.
 
@@ -210,11 +210,11 @@ One more approach. There had to be one more approach.
 
 The road west of Bordeaux ran through oak forest thick enough to swallow sound, and Jean de Langon died there in the gathering dark.
 
-Lilith watched through temporal perception—not through Marguerite's eyes now; the widow had served her purpose and was left behind in her print shop, setting type for pamphlets that would not change the world. Through something older, something that preceded vessels and names and individual faces. Through the awareness that had tracked him since Ka crouched in firelight three hundred thousand years before.
+Lilith watched through temporal perception, not through Marguerite's eyes. The widow had served her purpose and was left behind in her print shop, setting type for pamphlets that would not change the world. Through something older, something that preceded vessels and names and individual faces. Through the awareness that had tracked him since Ka crouched in firelight three hundred thousand years before.
 
 Six riders emerged from the trees. Catholic and Protestant working together, united only in their need to punish the man who had refused to serve either narrative.
 
-Jean's sword cleared its scabbard in the same motion she had seen from Diego's physician hands, from Verinus's investigating patience, from every avatar who understood that defense was sometimes necessary and survival was not guaranteed. He fought. His shoulder—old wound, she knew its history across bodies—betrayed him. His horse fell. And still he fought.
+Jean's sword cleared its scabbard in the same motion she had seen from Diego's physician hands, from Verinus's investigating patience, from every avatar who understood that defense was sometimes necessary and survival was not guaranteed. He fought. His shoulder, the old wound, she knew its history across bodies, betrayed him. His horse fell. And still he fought.
 
 Not well enough.
 
@@ -222,21 +222,19 @@ A blade took him in the side. Another found his throat.
 
 And in the last bleeding moments, Jean de Langon looked at the stars beginning to show between clouds and said what would matter: "I told the truth about what I didn't know. That was mine to give."
 
-Tightness in Lilith's chest—she refused to name it.
+Tightness in Lilith's chest. She refused to name it.
 
-He was dying for honest uncertainty. For the report he had submitted despite knowing it would satisfy no one. For the choice she had tried to prevent him making—and had only made more pure by her opposition.
+He was dying for honest uncertainty. For the report he had submitted despite knowing it would satisfy no one. For the choice she had tried to prevent him making and had only made more pure by her opposition.
 
 The lesson crystallized bright and terrible in his fading awareness: *If I can die for honest uncertainty, what can I die for with conviction?*
 
-Hunger. The familiar hunger that preceded karmic transition, that pulled consciousness toward its next expression. Not backward into the life that was ending, but forward into something else. Somewhere ahead—a different century, a different cause—that question would find its answer.
+Hunger. The familiar hunger that preceded transition, that pulled consciousness toward its next expression. Not backward into the life that was ending, but forward into something else. Somewhere ahead—a different century, a different cause—that question would find its answer.
 
 Manchester crept back around her: grey light, stiff limbs, the laptop still glowing with faculty pages she had not meant to keep open. Jean's body lay on a French road four hundred years in the past. Her body sat in a Fallowfield flat surrounded by the evidence of failed precision.
 
-Eight interventions. Eight backfires.
-
 The precision itself had created the friction that forged his breakthrough.
 
-A pull in her chest—she could not afford to call it grief—drew her toward him. Toward continuing. Toward *what?*
+A pull in her chest she could not afford to call grief drew her toward him. Toward continuing. Toward *what?*
 
 The race. The stakes. Strategic necessity.
 
@@ -245,7 +243,7 @@ She filed the sensation and reached for the laptop.
 
 Grey Manchester light filtered through curtains she had not opened in days.
 
-The flat felt smaller than it was—not physically, but perceptually. Walls pressing in. Space narrowing. The particular claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
+The flat felt smaller than it was. Not physically, but perceptually. Walls pressing in. Space narrowing. The particular claustrophobia of strategies running out while the opponent's thread continued unspooling toward a threshold that admitted only one.
 
 Lilith set down the cold tea she had been holding without drinking and poured a fresh cup. This one would also go cold. She knew this with the same certainty she knew Jean de Langon was dead and the lesson was learned and the backfire was complete.
 
@@ -253,7 +251,7 @@ Eight interventions. Eight structural failures.
 
 Her fingers moved across laptop keys. The University of Manchester philosophy department page gave way to faculty listings. Course schedules. Campus maps showing buildings she had memorized without acknowledging why.
 
-If historical interventions continued failing—if temporal distance was the wrong variable—then perhaps spatial proximity—
+If historical interventions continued failing, if temporal distance was the wrong variable, then perhaps spatial proximity—
 
 The thought completed itself before she could suppress it.
 
@@ -263,7 +261,7 @@ Not as Marguerite or Sor Catalina or any of the vessels she had worn across cent
 
 Philosophy faculty. Contemporary ethics. The kind of institutional positioning a soul of his particular pattern might find comfortable.
 
-She clicked through to individual profiles. Not identifying him yet—she did not know which face the consciousness wore now—but building the infrastructure to find out. Seminar schedules. Office hours. Department events open to external visitors.
+She clicked through to individual profiles. Not identifying him yet—, for he did not know which face the consciousness wore now, but building the infrastructure to find out. Seminar schedules. Office hours. Department events open to external visitors.
 
 Strategic preparation. Backup methodology. The contingency plans one maintained when historical approaches kept producing the same structural failure.
 
@@ -273,7 +271,7 @@ The rhythm pulsed beneath her awareness like a heartbeat she could not slow. Jea
 
 But there had to be something. Some variable she was missing. Some refinement that would produce different results.
 
-Wei Shufen's thread was already visible—the Taiping Rebellion, conviction sharp enough to die for, the question Jean had seeded finally finding its answer in 1862. She would track that next. One more historical intervention. One more attempt at correction.
+Wei Shufen's thread was already visible. the Taiping Rebellion, conviction sharp enough to die for, the question Jean had seeded finally finding its answer in 1862. She would track that next. One more historical intervention. One more attempt at correction.
 
 And if that failed—
 

@@ -1,36 +1,36 @@
-Rain drummed Manchester windows and dust rose from Tianjing's broken walls—two species of violence held in the same awareness, the same breath. Lilith sat in her Fallowfield flat, Week 8 or 9 of tracking (she'd stopped counting days when the pursuit became fever), and felt the autumn cold seep through cheap walls while smoke from artillery fires seeped through centuries. The sound was rain and also artillery. The silence was her flat's emptiness and also the weighted quiet before massacre. Both true. Both present. Both bleeding through the membrane of her attention like temperature through glass.
+Rain drummed Manchester windows and dust rose from Tianjing's broken walls. Two species of violence held in the same awareness, the same breath. Lilith sat in her Fallowfield flat, Week 8 or 9 of tracking (she'd stopped counting days when the pursuit became fever), and felt the autumn cold seep through cheap walls while smoke from artillery fires seeped through centuries. The sound was rain and also artillery. The silence was her flat's emptiness and also the weighted quiet before massacre. Both true. Both present. Both bleeding through the membrane of her attention like temperature through glass.
 
-Tea sat beside her, gone cold. The film on its surface might have formed an hour ago or this morning—she could not have said which. Outside her window, leaves fell from trees that had not existed when Wei Shufen first lifted a scalpel, first wrapped bandages around wounds that would kill anyway, first began the compulsive counting that mirrored her own. Autumn in Manchester. The slow dying of the year. In Tianjing, it was summer 1862, then winter 1863, then spring 1864—two years compressed into her sustained attention, a siege she'd been watching for days that had lasted for the besieged across seasons they'd measured in starvation and hope's slow erosion.
+Tea sat beside her, gone cold. The film on its surface might have formed an hour ago or this morning—she could not have said which. Outside her window, leaves fell from trees that had not existed when Wei Shufen first lifted a scalpel, first wrapped bandages around wounds that would kill anyway, first began the compulsive counting that mirrored her own. Autumn in Manchester. The slow dying of the year. In Tianjing, it was summer 1862, then winter 1863, then spring 1864. Two years compressed into her sustained attention, a siege she'd been watching for days that had lasted for the besieged across seasons they'd measured in starvation and hope's slow erosion.
 
-The thread of his consciousness hummed at the edge of perception. Different from the others—from Chandra's bureaucratic weight, from Philon's philosophical skin-knowledge, from Verinus's procedural certainty, from all the faces that had come before and between. This one methodical, medical, obsessive in its helping. His hands moved through her awareness: herb-stained fingers checking bandages, checking pulses, checking the arithmetic of saved versus lost with the same compulsion she brought to tracking intervention against backfire.
+The thread of his consciousness hummed at the edge of perception. Different from the others, from Chandra's bureaucratic weight, from Philon's philosophical skin-knowledge, from Verinus's procedural certainty, from all the faces that had come before and between. This one methodical, medical, obsessive in its helping. His hands moved through her awareness: herb-stained fingers checking bandages, checking pulses, checking the arithmetic of saved versus lost with the same compulsion she brought to tracking intervention against backfire.
 
 She saw the parallel before suppressing it.
 
-Wei at his makeshift desk in the converted temple, charcoal in hand, updating his ledger: 103 saved, 97 lost. The gap closing. The numbers approaching equilibrium like a equation solving toward zero. And Lilith in her flat, tracking her own arithmetic—Chandra, Philon, Verinus, Macarius, Kaoru, Diego, Jean, and the glimpses between them, the lives she'd seen in passing, the deaths that blurred into pattern rather than staying discrete as memory. She didn't count them. Counting implied finitude. This had gone on too long for numbers.
+Wei at his makeshift desk in the converted temple, charcoal in hand, updating his ledger: 103 saved, 97 lost. The gap closing. The numbers approaching equilibrium like a equation solving toward zero. And Lilith in her flat, tracking her own arithmetic. Chandra, Philon, Verinus, Macarius, Kaoru, Diego, Jean, and the glimpses between them, the lives she'd seen in passing, the deaths that blurred into pattern rather than staying discrete as memory. She didn't count them. Counting implied finitude. This had gone on too long for numbers.
 
 But this time would be different.
 
-This time: sustained intervention. Not a single corrupted relationship or a dream planted or evidence altered. Two years of circumstantial manipulation—artillery timing adjusted so evacuees died, intelligence leaked so healed soldiers walked into ambush, disease vectors guided toward specific patients, supply lines failed at calculated moments. Making futility visible. Everyone Wei saved would die anyway, and he would see the pattern, and the pattern would break him, and determination—the last perfection, the one she'd watched him approach across lifetimes—would crack before it crystallized.
+This time: sustained intervention. Not a single corrupted relationship or a dream planted or evidence altered. Two years of circumstantial manipulation. Artillery timing adjusted so evacuees died, intelligence leaked so healed soldiers walked into ambush, disease vectors guided toward specific patients, supply lines failed at calculated moments. Making futility visible. Everyone Wei saved would die anyway, and he would see the pattern, and the pattern would break him. Determination—the last perfection, the one she'd watched him approach across lifetimes, would crack before it crystallized.
 
 Her certainty sat in her chest like stone, like ice, like the autumn cold that had nothing to do with Manchester weather.
 
 The rain continued. The dust continued. Both true.
 
-Wei's hands reached for another patient—a soldier, shrapnel wound, survivable if treated—and she watched the moment of his choice. He would help. He always helped. His compulsion matched hers: the inability to look away, to stop, to delegate what consumed him. She watched him work, and in Manchester her own hands tightened around the cold ceramic of the mug she'd forgotten to drink from, and neither of them noticed the gesture was the same.
+Wei's hands reached for another patient. This one a soldier, shrapnel wound, survivable if treated. Lilith watched the moment of his choice. He would help. He always helped. His compulsion matched hers: the inability to look away, to stop, to delegate what consumed him. She watched him work, and in Manchester her own hands tightened around the cold ceramic of the mug she'd forgotten to drink from, and neither of them noticed the gesture was the same.
 
 The siege pressed inward. The walls held but the people inside were dying of hunger, of disease, of the violence of systems failing under pressure. And she'd made it worse. Guided it. Made certain that every hand Wei reached toward would go cold, every wound he closed would reopen, every patient he saved would return to him as a name on the list of the dead.
 
-In two years—his two years, her days—the pattern had taken shape.
+In two years the pattern had taken shape.
 
 Soldiers whispered: "Don't let the lüshuai treat you. Everyone he touches dies."
 
-She'd heard the whisper arrive in Wei's awareness like a stone dropped in still water. Watched the ripples spread through his careful certainty. He'd dismissed it at first—coincidence, the chaos of war, normal attrition in a siege where everyone was dying on installment. But the pattern persisted. Became undeniable. Twelve of fifteen patients tracked, dead within weeks. The arithmetic inverting: more lost than saved, and all of them—every single one—passing through his hands first.
+She'd heard the whisper arrive in Wei's awareness like a stone dropped in still water. Watched the ripples spread through his careful certainty. He'd dismissed it at first as coincidence, the chaos of war, normal attrition in a siege where everyone was dying on installment. But the pattern persisted. Became undeniable. Twelve of fifteen patients tracked, dead within weeks. The arithmetic inverting: more lost than saved, and every single one passing through his hands first.
 
 This intervention will work.
 
 The phrase settled through her like sediment, like certainty, like the rain that fell steady and relentless on Manchester while in Tianjing the summer heat pressed down on a city running out of water, out of rice, out of the manna Hong Xiuquan claimed God provided but which killed faster than it fed.
 
-She leaned forward. Manchester and Tianjing both. Watching Wei update his ledger again—133 saved, 128 lost, five left before the numbers crossed—and she did not see herself doing the same calculation. Did not see that his patient ledger and her intervention ledger were the same compulsion at different scales. Did not see that the trying which consumed him consumed her with equal ferocity, equal blindness, equal certainty that the next attempt would finally balance the arithmetic of suffering against salvation.
+She leaned forward. Manchester and Tianjing both. Watching Wei update his ledger again: 133 saved, 128 lost, five left before the numbers crossed. She did not see herself doing the same calculation. Did not see that his patient ledger and her intervention ledger were the same compulsion at different scales. Did not see that the trying which consumed him consumed her with equal ferocity, equal blindness, equal certainty that the next attempt would finally balance the arithmetic of suffering against salvation.
 
 Rain on windows. Dust from walls. The sound of both kinds of violence, held.
 
@@ -39,7 +39,7 @@ She watched. She waited. The wheel turned, and neither of them knew they were al
 
 Precision required timing.
 
-The Qing artillery would fire at dawn—she'd felt the probability crystallizing, the decision made by commanders studying maps in tents outside the walls—and the evacuees Wei had sent to the "safe" village would be sleeping when the shells arrived. She leaned into the moment, adjusted nothing directly, only weighted the circumstances: a scout delayed by dysentery, a report filed an hour late, the artillery officer's choice to fire early rather than wait for full light.
+The Qing artillery would fire at dawn. She'd felt the probability crystallizing, the decision made by commanders studying maps in tents outside the walls. The evacuees Wei had sent to the "safe" village would be sleeping when the shells arrived. She leaned into the moment, adjusted nothing directly, only weighted the circumstances: a scout delayed by dysentery, a report filed an hour late, the artillery officer's choice to fire early rather than wait for full light.
 
 The village burned.
 
@@ -49,21 +49,21 @@ In Manchester, rain hammered the windows. In Tianjing, smoke rose from beyond th
 
 She watched Wei operate on the girl—ten years old, perhaps younger, malnourished enough that age became guesswork. His hands moved with the precision she recognized in herself: methodical, practiced, economical in motion. No wasted gesture. No hesitation. The kind of competence that came from repetition, from compulsion, from the inability to stop even when stopping would be wiser.
 
-The scalpel cut. The shrapnel came free. The wound was packed with boiled cloth and honey—supplies running low, honey diluted with water that might not be clean, but Wei worked with what he had the way she worked with what she could influence.
+The scalpel cut. The shrapnel came free. The wound was packed with boiled cloth and honey-supplies running low, honey diluted with water that might not be clean, but Wei worked with what he had the way she worked with what she could influence.
 
 He saved the girl's leg. Added her to his ledger: 134 saved, 128 lost.
 
-The numbers were wrong. He didn't know they were wrong. The forty-three dead from the village hadn't been subtracted because he didn't yet know they were dead, and when he learned it—when the knowledge arrived that his evacuation order had sent them into artillery fire—the arithmetic would shift. He'd saved 91. He'd lost 171. The ledger had inverted and he hadn't noticed because the data came in fragments, in delays, in the chaos of war that made pattern-recognition difficult for those without her vantage.
+The numbers were wrong. He didn't know they were wrong. The forty-three dead from the village hadn't been subtracted because he didn't yet know they were dead, and when the knowledge arrived that his evacuation order had sent them into artillery fire the arithmetic would shift. He'd saved 91. He'd lost 171. The ledger had inverted and he hadn't noticed because the data came in fragments, in delays, in the chaos of war that made pattern-recognition difficult for those without her vantage.
 
 She saw the pattern. She'd made the pattern.
 
-Over two years—spring 1862 through summer 1864—she'd guided circumstance like a physician guides a scalpel. The raid that failed because she'd leaked intelligence to Qing informants: eighteen recovered soldiers sent to die before their wounds had healed. The supply convoy that never arrived because she'd influenced the decision to route it through bandit territory: thirty soldiers starved who might have survived another month. The disease outbreak she'd accelerated by guiding contaminated water toward specific wells: seventy dead, including twelve Wei had personally treated for other injuries.
+Over the two years from spring 1862 through summer 1864 she'd guided circumstance like a physician guides a scalpel. The raid that failed because she'd leaked intelligence to Qing informants: eighteen recovered soldiers sent to die before their wounds had healed. The supply convoy that never arrived because she'd influenced the decision to route it through bandit territory: thirty soldiers starved who might have survived another month. The disease outbreak she'd accelerated by guiding contaminated water toward specific wells: seventy dead, including twelve Wei had personally treated for other injuries.
 
-Not every death. She wasn't omnipotent. The siege killed most of them through simple attrition—hunger, disease, artillery, the slow grinding of systems collapsing under pressure. But the ones Wei touched, the ones he'd marked as saved, those she made certain died. Quickly or slowly. Obviously or subtly. The method didn't matter. The pattern mattered.
+Not every death. She wasn't omnipotent. The siege killed most of them through simple attrition. Hunger, disease, artillery, the slow grinding of systems collapsing under pressure. But the ones Wei touched, the ones he'd marked as saved, those she made certain died. Quickly or slowly. Obviously or subtly. The method didn't matter. The pattern mattered.
 
 Everyone Wei saves dies.
 
-The curse was spreading. Soldiers whispered it in the aid station when they thought he couldn't hear. Civilians requested other medics when Wei approached. One man—gut wound, survivable if treated immediately—had refused Wei's hands, demanded Old Huang instead, and bled out waiting because Huang was treating three others and couldn't reach him in time.
+The curse was spreading. Soldiers whispered it in the aid station when they thought he couldn't hear. Civilians requested other medics when Wei approached. One man with a gut wound, survivable if treated immediately, had refused Wei's hands, demanded Old Huang instead, and bled out waiting because Huang was treating three others and couldn't reach him in time.
 
 That death wasn't her doing. That death was the pattern sustaining itself, becoming self-fulfilling, superstition and probability merging until they were indistinguishable.
 
@@ -71,9 +71,9 @@ She watched Wei hear the refusal. Watched the knowledge land in his careful comp
 
 His hands had trembled. Just briefly. Just enough to notice.
 
-Satisfaction settled through her—Manchester cold and Tianjing smoke, both temperatures real. This was working. The futility was becoming visible. Wei was beginning to see himself as the common factor, the variable that turned survival into delayed death, help into harm. Another month. Perhaps less. The pattern would become undeniable and he would stop helping, and determination would break before it purified, and she would have finally prevented rather than accelerated.
+Satisfaction settled through her. Manchester cold and Tianjing smoke, both temperatures real. This was working. The futility was becoming visible. Wei was beginning to see himself as the common factor, the variable that turned survival into delayed death, help into harm. Another month. Perhaps less. The pattern would become undeniable and he would stop helping, and determination would break before it purified, and she would have finally prevented rather than accelerated.
 
-Rain continued its steady percussion. Somewhere in Tianjing—June 1864, the end approaching though Wei didn't know it yet—Hong Xiuquan choked down the "manna" he claimed God provided and felt his mind fracture under the weight of theology colliding with starvation. The Heavenly King was dying. The kingdom was dying. Everyone was dying.
+Rain continued its steady percussion. Somewhere in Tianjing in June 1864, the end approaching though Wei didn't know it yet, Hong Xiuquan choked down the "manna" he claimed God provided and felt his mind fracture under the weight of theology colliding with starvation. The Heavenly King was dying. The kingdom was dying. Everyone was dying.
 
 And Wei kept counting.
 
@@ -91,7 +91,7 @@ In her flat, Lilith's tea had gone cold again. She'd made fresh tea at some poin
 
 How long had she been sitting here?
 
-The question arrived and dissolved. It didn't matter. What mattered was the work. What mattered was the pattern. What mattered was that Wei's ledger was closing toward zero and when it crossed—when lost exceeded saved by a margin too large to dismiss as statistical noise—he would stop.
+The question arrived and dissolved. It didn't matter. What mattered was the work. What mattered was the pattern. What mattered was that Wei's ledger was closing toward zero and when it crossed—when lost exceeded saved by a margin too large to dismiss as statistical noise. He would stop.
 
 He had to stop.
 
@@ -146,7 +146,7 @@ Everyone I help dies. Hong is dead. The kingdom is dead. I am the common factor.
 
 Conclusion: I should stop.
 
-For two days, he refused new patients. Told them to see Old Huang, see the other medics, see anyone but him because his hands had become instruments of delayed murder rather than healing. The ledger had inverted—more lost than saved, the gap widening—and the only rational response was to remove himself from the equation. Stop helping. Stop counting. Stop being the one who reached toward suffering as if reaching could solve it.
+For two days, he refused new patients. Told them to see Old Huang, see the other medics, see anyone but him because his hands had become instruments of delayed murder rather than healing. The ledger had inverted. More lost than saved The gap was widening and the only rational response was to remove himself from the equation. Stop helping. Stop counting. Stop being the one who reached toward suffering as if reaching could solve it.
 
 Lilith watched this paralysis and called it victory.
 
@@ -164,7 +164,7 @@ Irrelevant. The work was what mattered.
 
 In Tianjing, Wei sat motionless in the empty alcove. In Manchester, Lilith sat motionless in her chair. Rain continued. Siege continued. Both of them waiting in the space between action and paralysis, between helping and stopping, between the compulsion that had defined them and the recognition that the compulsion might be destroying rather than serving.
 
-The temple was silent except for distant artillery—a sound so constant it had become the texture of air rather than event. The flat was silent except for rain—the same constancy, the same redefinition of normal.
+The temple was silent except for distant artillery, a sound so constant it had become the texture of air rather than event. The flat was silent except for rain—the same constancy, the same redefinition of normal.
 
 Two kinds of violence. Two kinds of waiting.
 
@@ -185,7 +185,7 @@ The boy stood in the doorway, bleeding. Wei sat in the alcove, motionless.
 
 Both of them suspended in the moment before choice became action, before the pattern that had held for two years either completed or shattered.
 
-Lilith leaned forward—Manchester and Tianjing both—and the motion was hunger, was certainty, was two years of sustained intervention converging on this single instant. Don't, she thought, willing it across centuries. You've learned. The futility is visible. Everyone you save dies. You are the curse. Don't reach. Don't help. Let this one go and break the pattern that's destroying you.
+Lilith leaned forward and grasped her cup. The motion was hunger, was certainty, was two years of sustained intervention converging on this single instant. Don't, she thought, willing it across centuries. You've learned. The futility is visible. Everyone you save dies. You are the curse. Don't reach. Don't help. Let this one go and break the pattern that's destroying you.
 
 Wei's eyes met the boy's.
 
@@ -195,7 +195,7 @@ Wei stared at him. The boy stared back.
 
 Long moment. Everything balanced.
 
-In Manchester, Lilith's hands gripped the arms of her chair, knuckles white. The rain had shifted—harder now, autumn storm accelerating, the sound building from steady percussion to something closer to violence. She didn't notice. Her entire awareness was focused on Tianjing, on Wei, on the choice crystallizing in the space between paralysis and action.
+In Manchester, Lilith's hands gripped the arms of her chair, knuckles white. The rain had shifted harder now, autumn storm accelerating, the sound building from steady percussion to something closer to violence. She didn't notice. Her entire awareness was focused on Tianjing, on Wei, on the choice crystallizing in the space between paralysis and action.
 
 Two days idle. Two days confronting the arithmetic: everyone he'd saved had died. The ledger inverted. The curse spreading. The logical conclusion was cessation—stop helping, stop being the variable that turned survival into deferred death, stop reaching toward suffering as if reaching mattered.
 
@@ -248,7 +248,7 @@ July nineteenth. Dawn.
 
 The walls broke.
 
-Explosion first—tunnels packed with powder, the West Wall section collapsing into rubble and dust and screaming. Wei woke to it in the temple, already reaching for his medical bag before consciousness fully returned, the reflex automatic, the compulsion transformed from pathology into something cleaner.
+Explosion first as thunder cracked in Manchester. Tunnels packed with powder, the West Wall section collapsing into rubble and dust and screaming. Wei woke to it in the temple, already reaching for his medical bag before consciousness fully returned, the reflex automatic, the compulsion transformed from pathology into something cleaner.
 
 Forty wounded inside his aid station, too injured to evacuate. Two hundred civilians in the West Ward. Fifteen soldiers. The arithmetic brutal and simple: most would die. Organizing evacuation might save twenty or thirty.
 
@@ -266,7 +266,7 @@ Someone had.
 
 Lilith had weighted the probabilities. Adjusted the patrol timing. Made certain the cavalry would be there, would be ready, would cut them down before they could scatter.
 
-She watched the massacre from both timelines—Manchester and Tianjing superimposed—and felt each death as a small percussion in her awareness. One hundred civilians. Fifteen soldiers. Every person Wei had tried to save, slaughtered in the street while he watched from the temple steps.
+She watched the massacre from both timelines, Manchester and Tianjing superimposed. She felt each death as a small percussion in her awareness. One hundred civilians. Fifteen soldiers. Every person Wei had tried to save, slaughtered in the street while he watched from the temple steps.
 
 He returned to the forty wounded inside. Knelt beside them. Held the hand of a boy—seventeen, bleeding from gut wound, dying—and lied gently: "It will be quick."
 
@@ -296,13 +296,13 @@ His last thought arrived clear and complete:
 
 *I will try again.*
 
-The thought passed through him and through the thread of his consciousness and through Lilith tracking it fifteen decades later, and she didn't read it—she experienced it. Felt it arrive in her awareness as if it were her own thought, her own recognition, her own determination crystallizing in the moment of death.
+The thought passed through him and through the thread of his consciousness and through Lilith tracking it fifteen decades later, and she didn't read it, no, she experienced it. Felt it arrive in her awareness as if it were her own thought, her own recognition, her own determination crystallizing in the moment of death.
 
 And then pain.
 
 Sharp. Localized. Real.
 
-Her chest—not his, hers—tore open with agony that had no source in Manchester, no wound in her body, no explanation except the impossible one she refused to accept. She doubled over in the chair, gasping, while in Tianjing Wei's last breath left him and the pattern she'd imposed from outside revealed itself as a pattern she'd been living from inside.
+Her chest, not his, tore open with agony that had no source in Manchester, no wound in her body, no explanation except the impossible one she refused to accept. She doubled over in the chair, gasping, while in Tianjing Wei's last breath left him and the pattern she'd imposed from outside revealed itself as a pattern she'd been living from inside.
 
 Whose death is this?
 
@@ -324,11 +324,11 @@ And by breaking it, she had purified it.
 
 The last door opened. The final lock broken. Completed not in spite of her intervention but because of it.
 
-Every historical attempt—Chandra's betrayal, Philon's isolation, Verinus's contradictions, all nine backfires—had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
+Every historical attempt, Chandra's betrayal, Philon's isolation, Verinus's contradictions, all the backfires, had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
 
-Every lesson. Every quality she'd tried to break—forged instead. Complete.
+Every lesson. Every quality she'd tried to break, they had forged instead. Complete.
 
-The next life would be the breaking point. The chains she felt in her own architecture—he would shed them. Perhaps permanently.
+The next life would be the breaking point. The chains she felt in her own architecture, he would shed them. Perhaps permanently.
 
 She sat in her flat, hunched over the ache in her chest that had no wound to show for it, and understood: the race had narrowed. Whatever time she'd thought she had was gone. He was approaching the threshold faster than she'd calculated, and the approaching was her doing, and the only thing left was the pivot she should have made years ago.
 
@@ -441,7 +441,7 @@ Manchester was solid around her. Real. Present. The violence of calm waiting.
 
 And somewhere in this city, he was waiting too.
 
-Not waiting for her. He didn't know she existed. Didn't know he'd died nine times—more than nine, many more—with her watching. Didn't know the pattern that connected them exceeded intervention, exceeded competition, exceeded even the race that had her moving toward him with urgency that felt like need.
+Not waiting for her. He didn't know she existed. Didn't know he'd died endless times with her watching. Didn't know the pattern that connected them exceeded intervention, exceeded competition, exceeded even the race that had her moving toward him with urgency that felt like need.
 
 She would find him. Would position herself. Would begin the work that historical intervention had failed to accomplish.
 
@@ -454,7 +454,7 @@ Not examined. Not yet. Not ever.
 The work continued.
 
 
-The application form sat in front of her—two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
+The application form sat in front of her. Two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
 
 She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
 
@@ -462,7 +462,7 @@ Forms had their own species of violence. Slower than artillery. Quieter than mas
 
 She recognized this the way she recognized everything now. Except herself.
 
-The waiting room where she sat for the interview held its own silence—different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time.
+The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time.
 
 Three other candidates sat with her. She perceived their attachments without trying: the young woman needing this job for visa sponsorship, worry manifesting as bitten fingernails and rehearsed answers running behind her eyes. The older man whose last position had ended badly, desperation showing in the way he sat too straight, too ready. The middle candidate—closest to Lilith's apparent age—who wanted career advancement, who saw this as stepping stone, who carried ambition like weight.
 
@@ -547,7 +547,7 @@ But she did not see it. Walked toward the parking lot where her car waited, walk
 And the race continued, and the wheel turned, and the pattern she'd been living without seeing moved toward its resolution.
 
 
-She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now—direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
+She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now, Direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
 
 Philosophy department. Humanities building. Third floor, west wing. Office hours Tuesday and Thursday afternoons. Undergraduate seminars on ethics, graduate course on metaphysics. The details accumulated without effort, without search, just attention following the thread that had brought her across centuries, across nine historical interventions, across the many deaths she'd watched until the watching had become the only thing she knew how to do.
 
@@ -563,15 +563,15 @@ But she didn't know how close he was to the threshold.
 
 The thread showed her present location. Did not show her spiritual status. Did not reveal whether the weight she'd felt in Wei's final moment—the completeness, the release—would manifest immediately in this life or whether there would be lag, breathing room, time before he crossed where she could not follow.
 
-She needed to know. Needed data. Needed to track Jack Malone—the detective, Los Angeles, 1938—while simultaneously making Silas's acquaintance. The parallel tracking would give her what historical intervention had failed to provide: precise assessment of where he was in the process, how much time remained, whether the race she felt in the architecture was measured in months or weeks or days.
+She needed to know. Needed data. Needed to track Jack Malone. The detective. Los Angeles, 1938. She had to track him while simultaneously making Silas's acquaintance. The parallel tracking would give her what historical intervention had failed to provide: precise assessment of where he was in the process, how much time remained, whether the race she felt in the architecture was measured in months or weeks or days.
 
-Chapter 21 would be that tracking. That fact-finding. That simultaneous observation of past-life completion and present-life approach.
+Malone would be that tracking. That fact-finding. That simultaneous observation of past-life completion and present-life approach.
 
 But first: this moment. This standing outside his building. This proximity that was also preparation for intimacy strategy that was also something else her body knew and her mind refused.
 
 The pull had grown beyond tactics.
 
-She'd felt it building across the tracking—from Ka through Chandra through Philon through all of them, the many lives and many deaths, the watching that had started as curiosity and become compulsion and transformed into hunger she could not name. But being this close—physical proximity, same city, same campus, same air—the pull was undeniable.
+She'd felt it building across his lifetimes, from Ka through Chandra through Philon through all of them, the many lives and many deaths, the watching that had started as curiosity and become compulsion and transformed into hunger she could not name. But being this close—physical proximity, same city, same campus, same air—the pull was undeniable.
 
 It felt like coming home.
 
@@ -615,11 +615,11 @@ She turned away from the Humanities building. Not yet. Not today. The positionin
 
 Soon. Days, perhaps. A week at most.
 
-The campus continued around her—students and staff and the architecture that held them, the systems that made education look like growth when often it was just different species of grasping, different forms of the same suffering everyone carried without seeing.
+The campus continued around her as students and staff and the architecture that held them sprawled out before her. the systems that made education look like growth when often it was just different species of grasping, different forms of the same suffering everyone carried without seeing.
 
-She walked toward the car park. The pull followed her—constant, patient, the thread that connected her to him humming with proximity that would only intensify.
+She walked toward the car park. The pull followed her, constant, patient, the thread that connected her to him humming with proximity that would only intensify.
 
-After all the violence—Tianjing and Mauryan Empire and Athens and Rome and Egypt and Heian and Inquisition Spain and Renaissance France and Los Angeles and all the glimpses between, all the deaths she'd watched, all the interventions that had backfired—there was something almost peaceful in being this close.
+After all the violence in Tianjing and the Mauryan Empire and Athens and Rome and Egypt and Heian and Inquisition Spain and Renaissance France and Los Angeles and all the glimpses between, all the deaths she'd watched, all the interventions that had backfired—there was something almost peaceful in being this close.
 
 The loving-kindness surprised her.
 
