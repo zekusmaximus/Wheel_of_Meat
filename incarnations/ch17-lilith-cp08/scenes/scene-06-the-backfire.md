@@ -2,7 +2,7 @@
 
 The words landed like a blade finding gap between plates.
 
-"The belief," he continued—and his voice had steadied, had found something beneath the doubt—"that uncertainty absolves me of responsibility for action."
+"The belief," he continued as his voice steadied, had found something beneath the doubt, "that uncertainty absolves me of responsibility for action."
 
 Lilith felt the argument collapse. Not—No. The logic was perfect. The epistemology was sound. He could not refute it because it was *true*.
 
@@ -30,7 +30,7 @@ Clarified. The intellectual precision that should have been hers, deployed again
 
 He left.
 
-And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition—filed immediately, suppressed ruthlessly—that eight interventions had produced eight backfires, and the pattern was structural.
+And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition that all interventions had produced backfires, and the pattern was structural.
 
 The method was sound.
 

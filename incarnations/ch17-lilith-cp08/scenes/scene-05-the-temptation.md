@@ -1,8 +1,8 @@
 The print shop at midnight held the intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
 
-Jean had come to her—Lilith felt that satisfaction pulse through both timelines—had sought out philosophical conversation at an hour when most men sought only their beds. His fortress was crumbling. His tools had failed. All that remained was the final push toward paralysis.
+Jean had come to her. Lilith felt a satisfaction pulse through both timelines. Jean had sought out philosophical conversation at an hour when most men sought only their beds. His fortress was crumbling. His tools had failed. All that remained was the final push toward paralysis.
 
-"What if you submitted nothing?" Marguerite asked. Her voice—the widow's voice, genuine and measured—carried the argument Lilith had spent millennia refining. "What if you returned to the magistrate and said: the evidence is insufficient, the testimony contradictory, the truth inaccessible. I cannot in honesty conclude."
+"What if you submitted nothing?" Marguerite asked. The widow's voice, genuine and measured, carried the argument Lilith had spent millennia refining. "What if you returned to the magistrate and said: the evidence is insufficient, the testimony contradictory, the truth inaccessible. I cannot in honesty conclude."
 
 Jean set down his wine cup. His face held the stillness of a man confronting the logical endpoint of his own principles.
 

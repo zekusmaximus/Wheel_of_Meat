@@ -10,7 +10,7 @@ Jean's hands closed around the document. Through Marguerite's eyes, Lilith watch
 
 The perfect trap.
 
-In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. The rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence—both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
+In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. The rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence. Both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
 
 The letter established Protestant conspiracy. If genuine. If included in the report.
 
