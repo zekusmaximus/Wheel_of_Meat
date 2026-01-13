@@ -2,9 +2,9 @@ She had not intended to count. But the pattern was counting itself—interventio
 
 Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had crystallized wisdom. Verinus's contradictions had taught humility. Macarius's pride had become its own mirror. Kaoru's frozen beauty had melted.
 
-Six incarnations. Six interventions. Six times opposition had accomplished the opposite of what opposition intended.
+Here hand stilled on the cold ceramic. All the incarnations. All the interventions. All the times opposition had accomplished the opposite of what opposition intended.
 
-The thread hummed toward Toledo, toward Diego, toward the personal betrayal she had engineered because personal betrayal should poison personally. Tomás de Mendoza—the name surfaced with the weight of certainty—would denounce the man who had prayed beside him. The denunciation would create hatred. The hatred would bind Diego to the wheel.
+The thread hummed toward Toledo, toward Diego, toward the personal betrayal she had engineered because personal betrayal should poison personally. Tomás de Mendoza. The name surfaced with the weight of certainty. He would denounce the man who had prayed beside him. The denunciation would create hatred. The hatred would bind Diego to the wheel.
 
 Should. Would. The grammar of strategy.
 
@@ -22,7 +22,7 @@ She could feel it still. The comfort of conviction.
 
 *I need to focus on my own escape.*
 
-The thought surfaced without permission. She was close—one knot remaining, the same threshold he approached from a different angle. If every intervention accelerated him, perhaps acceleration was not the variable requiring adjustment. Perhaps the answer was not better opposition but parallel motion.
+The thought surfaced without permission. She was close, one knot remaining, the same threshold he approached from a different angle. If every intervention accelerated him, perhaps acceleration was not the variable requiring adjustment. Perhaps the answer was not better opposition but parallel motion.
 
 Racing rather than blocking.
 
@@ -33,14 +33,3 @@ She filed the thought. Strategy. Recalibration. The pattern required new analysi
 But the filing felt less secure than filing usually felt, and somewhere beneath the strategy a different question pressed: *What am I racing toward? And why does racing feel like running away?*
 
 She did not answer. The walls were already close enough.
-
----
-
-**Word count:** ~398
-
-**Sensory anchors:** Grey light, weight in chair, thread humming
-**Integration technique:** Manchester-dominant (60/40), Toledo as echo
-**Race consciousness:** First conscious turn—"I need to focus on my own escape"
-**Pattern recognition:** Six interventions catalogued, backfires identified as structural
-**The parallel:** Sor Catalina's certainty / Lilith's certainty about interventions
-**Fetter beat:** Filing fails to fully contain the question

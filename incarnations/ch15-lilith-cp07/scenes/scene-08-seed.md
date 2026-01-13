@@ -1,12 +1,12 @@
 Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked because the life she was tracking had just burned her strategy to ash.
 
-Lilith opened her eyes. Manchester reasserted itself—rain against glass, radiator clicking, the arranged objects that she had placed without remembering the placing.
+Lilith opened her eyes. Manchester reasserted itself. The same rain against glass, the same radiator clicking. The exact same arranged objects that she had placed without remembering the placing.
 
 She carried the backfire like weight in her chest.
 
 Personal betrayal had produced personal release. The precision she had calculated had become the crucible in which Diego learned that even the most justified hatred could be set down. She had made it specific so it would poison specifically, and the specificity had given him something concrete to release.
 
-Seven interventions. Seven backfires. The pattern was no longer deniable.
+The pattern was no longer deniable.
 
 *Opposition accelerates what I oppose.*
 
@@ -53,16 +53,3 @@ Direction rather than decision. Too soon for commitment.
 But direction was enough. Direction was the seed of what would grow.
 
 And toward him—always toward him—the thread hummed forward, carrying the question she had not quite asked and the answer she had not yet permitted herself to find.
-
----
-
-**Word count:** ~510
-
-**Sensory anchors:** Grey light, cold ceramic, rain, radiator clicking
-**Integration technique:** 60/40 Manchester-dominant; Toledo dissolved to aftermath
-**THE SEED:** "What if I met him directly?"—intimacy strategy planted as question
-**Wheel becomes real:** Visceral, not theoretical; felt in the body
-**Loneliness intensifies:** "Someone to know"—seeds confession in Ch 1
-**Shift toward Ch 17 (subtle):** "Not the goal—the method"—intellectual approach beginning to form
-**Direction, not decision:** Final beat leaves the seed to grow
-**Maitreya foreshadowing (3):** "Someone who could see her face and recognize—"

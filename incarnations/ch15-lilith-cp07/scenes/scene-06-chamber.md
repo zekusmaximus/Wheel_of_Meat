@@ -1,8 +1,8 @@
-Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste—frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
+Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste, Frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
 
 She stood in the corner as she had stood in that corner, weeks of standing, watching, the sustained presence that Sor Catalina called prayer and that Lilith called something else. Something she did not name.
 
-Diego sat before the inquisitors. His hands in his lap—steady, the physician's hands, though steadiness cost him something she could feel in her own chest as tightness. As weight.
+Diego sat before the inquisitors. His hands steady in his lap. A physician's hands, though steadiness cost him something she could feel in her own chest as tightness. As weight.
 
 She had been here for all of it. The arrest. The processing. The visit from Tomás where betrayal became visible, named, specific. She had watched through eyes that were also her eyes, and the watching had been—
 
@@ -33,14 +33,3 @@ Because she could not stop watching him.
 The admission dissolved before it could complete. But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
 
 And she did not know whose tightness it was.
-
----
-
-**Word count:** ~360
-
-**Sensory anchors:** Candlelight, incense (frankincense/myrrh), quill scratching, cold air
-**Integration technique:** 70/30 Toledo-dominant; Manchester as body-echo
-**Witnessing past life:** Sustained presence in interrogation
-**Maitreya foreshadowing (1):** "He sees me"—the recognition that exceeds strategy; "whose tightness"
-**The investment:** She notices how long she has watched, files it
-**Pull exceeding strategy:** "I cannot stop watching him"—immediately dissolved
