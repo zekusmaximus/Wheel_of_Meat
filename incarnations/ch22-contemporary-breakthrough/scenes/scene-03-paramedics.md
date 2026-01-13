@@ -6,15 +6,15 @@ Two paramedics came through first, a man and woman in their forties moving with 
 
 "Stewart Harrison. Twenty-one years old. Psychiatric evaluation patient at MRI, absconded earlier this evening." Her voice found its professional register, the words forming themselves with clinical precision. "Initial episode this morning—acute psychological break, grandiose delusions, public disrobing. He was on the edge when we arrived. No direct fall, but significant confusion and dissociative presentation."
 
-The paramedics moved to Stewart, running through their protocols. Blood pressure. Pulse. Pupil response. The young man responded minimally—following the pen light with his eyes, allowing the blood pressure cuff, but offering no words, no resistance, no sign that he understood what was happening.
+The paramedics moved to Stewart, running through their protocols. Blood pressure. Pulse. Pupil response. The young man responded minimally, following the pen light with his eyes, allowing the blood pressure cuff, but offering no words, no resistance, no sign that he understood what was happening.
 
 Silas watched from the periphery, and something strange settled through him. The old Silas would have hovered closer. Would have offered observations, context, the kind of helpful interjections that made him feel useful in crisis. He knew the protocols. He knew the questions to ask. He knew how to make himself indispensable.
 
-But the urge wasn't there. He simply watched—present, attentive, but without the familiar pressure to insert himself into the machinery of rescue. The paramedics knew their work. Stewart was in capable hands. There was nothing Silas needed to add, and the recognition of that was its own kind of relief.
+But the urge wasn't there. He simply watched. He was present, attentive, but without the familiar pressure to insert himself into the machinery of rescue. The paramedics knew their work. Stewart was in capable hands. There was nothing Silas needed to add, and the recognition of that was its own kind of relief.
 
 The security officer approached him with a clipboard and a set of questions that couldn't possibly capture what had happened. "Professor Pahlavan? Can you walk me through what you witnessed tonight?"
 
-Silas answered accurately: the rooftop, the student, the moment of reaching. Each word technically true. Each word missing the thing that had actually occurred—the gap, the absence, the dissolution of everything he'd believed himself to be in the instant of action. The officer wrote notes in a cramped hand, checking boxes on a form designed for a world where events could be contained by paperwork.
+Silas answered accurately: the rooftop, the student, the moment of reaching. Each word technically true. Each word missing the thing that had actually occurred. The gap, the absence, the dissolution of everything he'd believed himself to be in the instant of action. The officer wrote notes in a cramped hand, checking boxes on a form designed for a world where events could be contained by paperwork.
 
 "Did the student jump, or did he fall?"
 

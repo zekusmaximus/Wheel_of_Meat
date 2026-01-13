@@ -1,4 +1,4 @@
-The paramedics would arrive in minutes. Lilith knew this the way she knew her own breathing—the cadence of emergency response, the distance from the nearest station, the time it took to navigate campus.
+The paramedics would arrive in minutes. Lilith knew this the way she knew her own breathing. The cadence of emergency response, the distance from the nearest station, the time it took to navigate campus.
 
 Minutes. To become who she needed to be again.
 
@@ -16,7 +16,7 @@ But Silas was looking at her, and his eyes held something she couldn't read. Not
 
 "Yes." Silas didn't move immediately. Just looked at her, that strange open quality still in his face. Then he turned to Stewart, approaching slowly, kneeling beside the young man's curled form. "Stewart? Can you sit up?"
 
-No response. The boy's breathing was shallow but regular—shock, not crisis. Lilith moved to Stewart's other side, her clinical training finally finding purchase. Airway, breathing, circulation. The ABCs of survival, as basic as anything could be.
+No response. The boy's breathing was shallow but regular,  it was shock, not crisis. Lilith moved to Stewart's other side, her clinical training finally finding purchase. Airway, breathing, circulation. The ABCs of survival, as basic as anything could be.
 
 "We're going to help you sit up," she said in the measured tone she used for patients who'd gone somewhere far from the present. "You don't have to do anything. Just let us move you."
 
@@ -38,7 +38,7 @@ Silas nodded. His face held no accusation, no suspicion—just that strange open
 
 "I'll wait," he said.
 
-She wanted to touch him. The impulse rose with physical force—to reach across the space between them, to make contact, to reassert the connection that had been her primary weapon. But her hands stayed on Stewart's shoulders, and the space between them remained charged and uncrossed.
+She wanted to touch him. The impulse to reach across the space between them rose with physical force. The impulse to make contact, to reassert the connection that had been her primary weapon. But her hands stayed on Stewart's shoulders, and the space between them remained charged and uncrossed.
 
 Below, she could hear sirens beginning their approach.
 

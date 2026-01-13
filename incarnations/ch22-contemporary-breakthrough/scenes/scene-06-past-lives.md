@@ -4,19 +4,23 @@ They came differently this time. Yesterday's fragmentary flashes had been violen
 
 Now they came like doors unlocking, one after another, down a hallway he hadn't known existed.
 
-Ka first. The name arrived with the scent of blood and cold—not modern cold, not Manchester winter, but something older, more absolute. A cave mouth with snow drifting past. Hands covered in the gore of a fresh kill. The tribe's fires visible in the distance, specks of light that had been his to share and hadn't been.
+Ka first. The name arrived with the scent of blood and cold. Not modern cold, not Manchester winter, but something older, more absolute. A cave mouth with snow drifting past. Hands covered in the gore of a fresh kill. The tribe's fires visible in the distance, specks of light that had been his to share and hadn't been.
 
 *Ka hoards. Ka alone. Ka strong.*
 
-The primitive syntax felt right, even now. The soul he'd carried then had been younger, simpler, working with fewer words for fewer concepts. But the lesson—he could see it now—had been the foundation of everything after. Cooperation. Community. The discovery that isolation was death and sharing was survival. Ka had learned it too late, hoarding meat in a cave while the tribe feasted, dying alone on the simple failure to let go.
+The primitive syntax felt right, even now. The soul he'd carried then had been younger, simpler, working with fewer words for fewer concepts. But he could see the lesson, how it had been the foundation of everything after. Cooperation. Community. The discovery that isolation was death and sharing was survival. Ka had learned it too late, hoarding meat in a cave while the tribe feasted, dying alone on the simple failure to let go.
+
+His fingers found the cold glass of the window. Outside, a delivery van idled at the corner of Wilmslow Road, exhaust rising in the January air. The ordinariness of it steadied him.
 
 And there, at the edge of his cave-death vision: a woman. Dark hair, widow's peak, shadow-lost face watching from a distance she should not have been able to cross.
 
-Chandra next. The name brought rain—monsoon rain, the smell of wet earth and bureaucracy, the weight of bamboo strips covered in ink. A warehouse in flames. Children screaming. A ledger clutched against his chest while lives he'd been hired to protect burned around an arithmetic that couldn't include them.
+Chandra next. The name brought monsoon rain, the smell of wet earth and bureaucracy, the weight of bamboo strips covered in ink. A warehouse in flames. Children screaming. A ledger clutched against his chest while lives he'd been hired to protect burned around an arithmetic that couldn't include them.
 
 *Generosity. Not what you give. Who you are while giving.*
 
-The political world of Mauryan India layered over Manchester's green, both real, both present. Silas could feel Chandra's hands—his hands, then—struggling with the calculus of resources and lives. The failure crystallized: he'd saved the records, not the people. And yet the failure had taught him something, seeded the next life with the urgent question of what giving truly required.
+The political world of Mauryan India layered over Manchester's green, both real, both present. Silas could feel Chandra's hands, his own hands, then. They were struggling with the calculus of resources and lives. The failure crystallized: he'd saved the records, not the people. And yet the failure had taught him something, seeded the next life with the urgent question of what giving truly required.
+
+The radiator clanked behind him. His flat smelled of coffee gone cold on the counter, of the wool blanket bunched on the sofa where he'd tried and failed to sleep. These small facts anchored him while the centuries moved through.
 
 And there again: the woman. A face at the edge of the crowd, watching the warehouse burn, watching him clutch his ledgers while children died.
 
@@ -24,7 +28,9 @@ Philon. Athens now, the white columns and plague-stench, the impossible choice b
 
 *Wisdom is understanding context. Martyrdom is choosing self-image over service.*
 
-Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape—and with it, the blindness of those who need to be needed.
+Too late, he'd seen it. The insight arising in his delirium, incomplete, a whisper of what would take lifetimes more to fully understand. The compulsion to save already taking shape, and with it, the blindness of those who need to be needed.
+
+A car horn sounded from the street below. Someone shouted in Polish. The sounds of Fallowfield on a weekday morning, indifferent to revelations.
 
 And the woman. The same face, different clothes, watching from outside the quarantine chamber. How had she gotten there? Why was she always watching?
 
@@ -35,6 +41,8 @@ Verinus. Rome. The body cooling on a taberna floor, and the investigation that c
 Macarius. Egypt's desert silence, the emptiness against emptiness, where every prayer was also a performance and every humility concealed its opposite. The hermit's cave becoming a theater, the starved body becoming the loudest claim of all.
 
 *True renunciation does not announce itself.*
+
+His legs ached. He didn't know how long he'd been standing. The January light had shifted, the shadows of his bookshelf crawling imperceptibly across the worn carpet. He should sit. He didn't.
 
 Kaoru. Heian Japan, where beauty was theology and longing was devotional practice. Morning light through shoji screens, the poetry written to women he'd met once, the wife he'd neglected for aesthetic ideals that could not survive her death.
 
@@ -48,11 +56,13 @@ Jean. The skeptic's wit, deployed against certainties that killed and were kille
 
 *Doubt that leads to freezing is not wisdom. Doubt that leads to kindness is.*
 
+The kettle he'd abandoned hours ago sat cold on the hob. His mobile had buzzed twice during the visions, messages he hadn't checked. The world kept happening. Bills, emails, a dentist appointment he'd probably missed. And beneath all of it, the wheel turning.
+
 Wei. China, and the rebellion that promised heaven, and the atrocities committed in heaven's name. The determination that becomes blindness, the conviction that justifies any cost. Battle after battle, village after village, until the death came not from enemies but from the weight of what commitment required.
 
 *Determination without correction is another name for harm.*
 
-Jack. Los Angeles, 1938. Rain on noir streets—different rain, same lesson. The detective who couldn't let go of a case that would never close, the perseverance that became obsession, the failures stacked like unpaid bills.
+Jack. Los Angeles, 1938. Rain on noir streets, different rain, same lesson. The detective who couldn't let go of a case that would never close, the perseverance that became obsession, the failures stacked like unpaid bills.
 
 *Some problems are not yours to solve. The world does not need you to be its savior.*
 
@@ -60,9 +70,9 @@ Life after life. Lesson after lesson. Death after death, each one carrying somet
 
 The genres dissolved.
 
-Each life had worn its own shape—the terror of isolation, the weight of politics, the slow poison of philosophy, the loneliness of investigation, the silence of the desert, the ache of beauty, the patience of accusation, the wit that couldn't save itself, the conviction that burned everything, the rain that never stopped falling. Different shapes for the same soul, working out the same knots across time beyond measuring.
+Each life had worn its own shape: the terror of isolation, the weight of politics, the slow poison of philosophy, the loneliness of investigation, the silence of the desert, the ache of beauty, the patience of accusation, the wit that couldn't save itself, the conviction that burned everything, the rain that never stopped falling. Different shapes for the same soul, working out the same knots across time beyond measuring.
 
-The wheel became visible. Structure rather than metaphor. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing—that one had thinned enough to perceive the ride.
+The wheel became visible. Structure rather than metaphor. He could see it now, the way you can see the curve of the Earth from sufficient height. It was still turning. He was still on it. But the one who had been riding it without knowing, that one had thinned enough to perceive the ride.
 
 *And she was in all of them.*
 
@@ -72,4 +82,6 @@ Why? Who was she? What connected her to every turn of the wheel he'd made?
 
 Questions for later. For now, the lives settled into pattern, threads beyond counting woven into the rope that was this present moment. The past becoming present, the present becoming continuous with everything that came before.
 
-Silas breathed. The wheel turned. And the seeing that had always been there—boundless, aware—continued doing what it had never stopped doing, even when the one looking through its eyes had believed himself to be separate from the looking.
+Silas breathed. His reflection in the window was pale, unshaven, the circles under his eyes visible even in the grey light. He looked like a man who hadn't slept. He looked like a man who had been awake for three hundred thousand years.
+
+The wheel turned. And the seeing that had always been there, boundless, aware, continued doing what it had never stopped doing, even when the one looking through its eyes had believed himself to be separate from the looking.

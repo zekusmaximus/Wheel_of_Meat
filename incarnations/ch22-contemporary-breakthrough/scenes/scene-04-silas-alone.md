@@ -8,11 +8,11 @@ The security officer was gone, redirected to the ground floor to file reports an
 
 He should go. He knew this. There would be interviews, meetings, explanations to administrative bodies that operated on the assumption that such events could be explained. Professor intervenes in student crisis. Student retrieved from ledge. Crisis contained.
 
-But his body wasn't ready to move. Something was still settling—not the adrenaline, which had already begun its gradual recession, but something else. A reconfiguration occurring below the level of conscious awareness, rearranging the furniture in a house he'd lived in without ever noticing what the rooms contained.
+But his body wasn't ready to move. Something was still settling. It wasn't the adrenaline, which had already begun its gradual recession, but something else. A reconfiguration occurring below the level of conscious awareness, rearranging the furniture in a house he'd lived in without ever noticing what the rooms contained.
 
 *I am boundless awareness.*
 
-The mantra surfaced unbidden, and he examined it from this new vantage. The words were the same words he'd repeated in practice, whispered during lectures, offered to students who asked about contemplative technique. But they sounded different now. Hollow, not with emptiness but with the obviousness of what they were—a description, not a destination. He'd been using the mantra like a map, tracing its contours with his finger, when the territory it described was everywhere he looked.
+The mantra surfaced unbidden, and he examined it from this new vantage. The words were the same words he'd repeated in practice, whispered during lectures, offered to students who asked about contemplative technique. But they sounded different now. Hollow, not with emptiness but with the obviousness of what they were: a description, not a destination. He'd been using the mantra like a map, tracing its contours with his finger, when the territory it described was everywhere he looked.
 
 He tested this again, searching for the familiar weight of it. The compulsion to intervene, to guide, to be the one who made the difference. It had driven him onto this rooftop, had propelled him across the barrier after a falling student. That much was clear. But in the moment of the reaching—
 
@@ -20,13 +20,13 @@ Nothing had been driving. There had been no self at the controls, no one executi
 
 Strange, how the absence could be so tangible. Like discovering a weight you'd carried so long you'd forgotten it was there—and now it was simply gone.
 
-Below, an ambulance departed with lights but no siren—Stewart stable enough for quiet transport, the emergency becoming procedure. Silas watched its red taillights merge with traffic, carrying Lilith and their student and whatever version of events would be told in waiting rooms and hospitals.
+Below, an ambulance departed with lights but no siren, Stewart stable enough for quiet transport, the emergency becoming procedure. Silas watched its red taillights merge with traffic, carrying Lilith and their student and whatever version of events would be told in waiting rooms and hospitals.
 
 Lilith.
 
 Her face on the rooftop, something shifting beneath the composure. Her arms around him, pulling him back from the edge. The moment when her grasping had become indistinguishable from his reaching, when three bodies had operated as a single system of survival.
 
-She'd felt it too. He was as certain of this as he was of his own breathing. In the instant of the chain, the boundary between them had dissolved—not as metaphor, not as philosophy, but as experienced fact. She had been inside his action the way he had been inside her anchoring. The distinction between rescuer and anchor and rescued had been a convenience of description, not a truth of experience.
+She'd felt it too. He was as certain of this as he was of his own breathing. In the instant of the chain, the boundary between them had dissolved. Not as metaphor, not as philosophy, but as experienced fact. She had been inside his action the way he had been inside her anchoring. The distinction between rescuer and anchor and rescued had been a convenience of description, not a truth of experience.
 
 And she'd seen something. He'd watched her eyes as the paramedics worked, watched the clinical facade reasserting itself over whatever had broken through. She'd seen something she couldn't unsee, and the professional mode she was wearing was armor against its implications.
 
