@@ -16,57 +16,48 @@ This plan synthesizes recommendations from both developmental reports, resolves 
 
 These issues affect how readers engage with the manuscript's fundamental architecture.
 
-### 1.1 Fortify Chapter 1 with Sensory Echoes
+### 1.1 Plant Sensory Echoes Throughout Chapter 1
 
 **Priority:** CRITICAL
-**Source:** Both reports
+**Source:** Both reports (combined from original 1.1 and 1.2)
 **Status:** [ ] Not started
 
-**Problem:** The Ch. 1→2 transition from modern psychological thriller to prehistoric survival narrative is too abrupt. Readers need preparation.
+**Problem:** The Ch. 1→2 transition from modern psychological thriller to prehistoric survival narrative is jarring. While the disorientation is intentional, readers need subliminal preparation—not explanation, but resonance. The Act structure already signals a major shift; what's missing is sensory foreshadowing that makes Ka's chapter feel like recognition rather than confusion.
 
 **Implementation:**
+- Add 4-5 brief sensory intrusions across Chapter 1, escalating in intensity toward the Stewart rooftop sequence
+- Each echo should be 1-3 sentences max, presented as inexplicable sensation Silas dismisses or cannot explain
+- Echoes should reference multiple past lives but **the final echo must specifically resonate with Ka's opening**
 
-- Add 3-4 brief sensory intrusions across Chapter 1, escalating toward the Stewart rooftop sequence
-- When Lilith touches Silas: flash of smoke smell (Chandra's fire)
-- During faculty meeting tension: phantom sound of a child's scream
-- On the rooftop: bone-deep cold that doesn't match the weather (Ka's death)
-- Each echo should be 1-2 sentences max, presented as inexplicable sensation Silas dismisses
+**Suggested placement and content:**
+
+| Location | Echo | Past Life |
+|----------|------|-----------|
+| Early chapter (faculty interaction) | Flash of heat, smell of smoke, sensation of something burning | Chandra |
+| Mid-chapter (tension with Lilith) | Phantom sound—a child's cry, distant and wrong | Chandra or Philon |
+| Stewart crisis begins | Taste of stone dust, weight of confined space | Macarius or Verinus |
+| Rooftop, as Silas approaches Stewart | Cold that doesn't match the weather, bone-deep and ancient | Ka |
+| Rooftop climax, final echo | **Substantial moment:** Snow. Hunger. The desperate knowledge of something dying alone, muscles failing, the world going white and silent. Silas staggers, catches himself. The sensation passes. He doesn't understand it. But it was *real*. | Ka |
+
+**The final echo is critical.** It should be the longest (3-5 sentences), the most disorienting, and specifically evoke Ka's death: cold, isolation, snow, the body failing. When readers enter Chapter 2 and encounter Ka's primal voice in a frozen landscape, some part of their brain should whisper *I've been here before*. They won't consciously connect it to Silas's rooftop moment, but the resonance will carry them through the voice shift.
+
+**What to avoid:**
+- No explanation of what the echoes are
+- No Lilith POV or any suggestion she's involved
+- No mystical language—these are physical sensations, not visions
+- Silas should not dwell on or investigate the echoes; they pass through him
 
 **Acceptance criteria:**
-
-- [ ] Minimum 3 sensory echoes planted in Chapter 1
-- [ ] Echoes reference at least 2 different past lives
+- [ ] Minimum 4 sensory echoes planted in Chapter 1
+- [ ] Echoes reference at least 3 different past lives
 - [ ] Intensity escalates toward rooftop scene
-- [ ] Silas does not understand the echoes (no exposition)
+- [ ] Final echo is 3-5 sentences and specifically evokes Ka's death (cold, snow, isolation, body failing)
+- [ ] Silas does not understand the echoes—no exposition, no investigation
+- [ ] Ka's Chapter 2 opening creates subliminal recognition for readers who experienced the final echo
 
 -----
 
-### 1.2 Add Lilith Interlude Before Chapter 2
-
-**Priority:** CRITICAL
-**Source:** Both reports
-**Status:** [ ] Not started
-
-**Problem:** Readers have no frame for the voice shift. The transition feels arbitrary rather than inevitable.
-
-**Implementation:**
-
-- Insert 500-800 word interlude from Lilith's Manchester flat between Ch. 1 and Ch. 2
-- Show her physically "reaching" for Silas's thread
-- Establish the cost: trembling hands, nosebleed, time gaps, physical deterioration
-- End with her consciousness sliding into the past, creating a bridge to Ka's chapter
-- Voice should be clinical but with cracks showing—she's documenting something she can't fully control
-
-**Acceptance criteria:**
-
-- [ ] Interlude is 500-800 words
-- [ ] Physical cost of tracking is visible (minimum 2 symptoms)
-- [ ] Ends with clear transition into historical narrative
-- [ ] Frames subsequent chapters as her exploration
-
------
-
-### 1.3 Add Present-Day Ticking Clock
+### 1.2 Add Present-Day Ticking Clock
 
 **Priority:** CRITICAL
 **Source:** Report 1
@@ -76,7 +67,7 @@ These issues affect how readers engage with the manuscript's fundamental archite
 
 **Implementation:**
 
-- Establish in the Lilith interlude (1.2) that her body is failing from sustained tracking
+- Establish in a Lilith interlude that her body is failing from sustained tracking
 - Each return to Manchester should show measurable deterioration:
   - Lost time (hours/days she can't account for)
   - Physical symptoms (tremors, bleeding, weakness)
@@ -93,7 +84,7 @@ These issues affect how readers engage with the manuscript's fundamental archite
 
 -----
 
-### 1.4 Clarify Intervention Rules
+### 1.3 Clarify Intervention Rules
 
 **Priority:** MEDIUM
 **Source:** Report 1
@@ -425,12 +416,11 @@ Address after structural and character work is complete.
 |Priority|Task                                  |Status|
 |--------|--------------------------------------|------|
 |CRITICAL|1.1 Sensory echoes in Ch. 1           |[ ]   |
-|CRITICAL|1.2 Lilith interlude before Ch. 2     |[ ]   |
-|CRITICAL|1.3 Manchester ticking clock          |[ ]   |
+|CRITICAL|1.2 Manchester ticking clock          |[ ]   |
 |HIGH    |2.1 Active agency for Silas (2 lives) |[ ]   |
 |HIGH    |2.2 Deepen Lilith motivation          |[ ]   |
 |HIGH    |2.3 Sharpen failure-to-lesson pipeline|[ ]   |
-|MEDIUM  |1.4 Clarify intervention rules        |[ ]   |
+|MEDIUM  |1.3 Clarify intervention rules        |[ ]   |
 |MEDIUM  |3.1 Break middle-section formula      |[ ]   |
 |MEDIUM  |3.2 Expand Silex/Lith chapter         |[ ]   |
 |MEDIUM  |3.4 Revise "The Teaching"             |[ ]   |
@@ -449,7 +439,7 @@ When working through revisions:
 1. **Reference this plan** to ensure changes align with acceptance criteria
 1. **Mark tasks complete** in the status checkboxes as you finish them
 1. **For structural changes** (Tier 1), complete all four tasks before moving to Tier 2
-1. **Track dependencies**: Tasks 1.2 and 1.3 can share content (the interlude establishes both the frame and the ticking clock)
+1. **Track dependencies**: Task 1.2 establishes the ticking clock through Manchester scenes
 
 -----
 
