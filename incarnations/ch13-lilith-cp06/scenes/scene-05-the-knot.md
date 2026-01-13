@@ -4,21 +4,21 @@ The words arranged themselves with the precision of a diagnosis. She had walked 
 
 Each explanation was complete. Each explanation held.
 
-Five incarnations. Five interventions. Five backfires.
+Incarnations. Interventions. Backfires.
 
 Ka's hoarding became sharing. Chandra's betrayal taught trust. Philon's isolation crystallized wisdom. Verinus's doubt discovered compassion. Macarius's pride saw itself.
 
-And Kaoru—whom she had given frozen beauty—had understood that beauty melts.
+And Kaoru, whom she had given frozen beauty, had understood that beauty melts.
 
 *Opposition accelerates what I oppose.*
 
 The pattern was clear. The implication was inadmissible.
 
-Her hands were still warm. The flat still arranged. Through the window, Manchester held its late-afternoon light—the light she had noticed on her walk, the light that had arrived as beauty before she could deflect it into observation.
+Her hands were still warm. The flat still arranged. Through the window, Manchester held its late-afternoon light. A light she had noticed on her walk, a light that had arrived as beauty before she could deflect it into observation.
 
 *What if I focused on my own liberation?*
 
-The thought returned. Louder now. She was so close—one knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him—if every intervention only accelerated what she intended to slow—
+The thought returned. Louder now. She was so close. One knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him, if every intervention only accelerated what she intended to slow—
 
 *No.*
 
@@ -28,7 +28,7 @@ But beneath the filing, something else stirred. The warmth. The walk. The memory
 
 She had walked to where he would be. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
 
-The thread hummed forward. Toward Spain rather than Heian—that branch complete, Kaoru dissolved into the pattern that continued. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
+The thread hummed forward. Toward Spain rather than the branch complete. Kaoru dissolved into the pattern that continued. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
 
 Different cage. Different beauty. Different attachment requiring different intervention.
 
@@ -38,7 +38,7 @@ She would refine. She would adjust. She would find the precision that had eluded
 
 The walls were sound.
 
-But she could feel them now—feel the walls as walls, feel the construction that had been invisible when the construction was happening. She could feel the filing as filing.
+But she could feel them now? How could shefeel the walls as walls, feel the construction that had been invisible when the construction was happening. She could feel the filing as filing.
 
 For the first time, she wondered if the folders were large enough.
 
@@ -48,7 +48,7 @@ She followed.
 
 She did not ask why following felt more like falling than hunting.
 
-She failed to notice that she had already begun thinking of him as *him*—the thread redefined, the soul personalized, the consciousness requiring intervention transformed into *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
+She failed to notice that she had already begun thinking of him as *him*. Tthe thread redefined, the soul personalized, the consciousness requiring intervention transformed into *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
 
 The flat held its beauty. The light held its softness. The cold ceramic in her hands warmed exactly as ceramic warmed, exactly as lacquer warmed, exactly as the objects of beauty always warmed when held too long.
 

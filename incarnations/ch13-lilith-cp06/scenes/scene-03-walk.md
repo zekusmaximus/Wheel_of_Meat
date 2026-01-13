@@ -2,7 +2,7 @@ She needed air.
 
 The realization arrived as body-knowledge, bypassing the consciousness that should have intervened: her legs moving before her mind could question, jacket on, door opening, November cold against skin that had been warmth-wrapped for days she couldn't count precisely.
 
-Manchester. Real Manchester—not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
+Manchester. Real Manchester. Not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
 
 Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
 
@@ -12,17 +12,17 @@ Stone buildings resolved from drizzle. Autumn trees that were really autumn, not
 
 Philosophy faculty. The sign registered without processing.
 
-The campus held its own aesthetic—Victorian gravity softened by wet light, Gothic verticals complicated by modern intrusions, the accumulated beauty of purpose that had outlasted its original intentions. She saw it freshly. The Heian bleeding through made everything luminous: architecture as impermanence, stone as temporary, even the rain beautiful in its falling.
+The campus held its own Victorian aesthetic, gravity softened by wet light, Gothic verticals complicated by modern intrusions, the accumulated beauty of purpose that had outlasted its original intentions. She saw it freshly. The Heian bleeding through made everything luminous: architecture as impermanence, even the rain beautiful in its falling.
 
 She circled the buildings without entering. Alone. Observing.
 
 *He is in this world.*
 
-The thought surfaced without warning—not about Kaoru, centuries dead, but about something else, someone she had not yet met, a consciousness she tracked backward from origin rather than forward from present.
+The thought surfaced without warning. Not about Kaoru, centuries dead, but about something else, someone she had not yet met, a consciousness she tracked backward from origin rather than forward from present.
 
 *Walking. Teaching. Present.*
 
-She stopped. The thought was inadmissible. She had tracked ten incarnations now. She knew where the thread led—forward through time, through lives, through accumulated merit that she was supposed to be interrupting. The thread led to *now*, to Manchester, to—
+She stopped. The thought was inadmissible. She had tracked numerous lives now. She knew the thread led forward through time, through accumulated wisdom that she was supposed to be interrupting. The thread led to *now*, to Manchester, to—
 
 *What if I focused on my own liberation?*
 
@@ -40,7 +40,7 @@ The walk back was slower. She noticed objects: a rusted bicycle lock, leaves col
 
 The word held.
 
-The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where her hands had placed them while she wasn't counting days. The thread hummed—Kaoru moving toward Lady Hotaru, toward the Attendant, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
+The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where her hands had placed them while she wasn't counting days. The thread hummed as Kaoru moved toward Lady Hotaru, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
 
 She had walked to the university without knowing why.
 
@@ -52,4 +52,4 @@ She had stood in the rain outside philosophy faculty and felt something that str
 
 The filing was perfect. The walls were sound.
 
-But she could still feel the November cold on her skin, and something beneath strategy—beneath the walls, beneath the filing—hummed at the same frequency as the thread she followed.
+But she could still feel the November cold on her skin. Something beneath strategy hummed at the same frequency as the thread she followed.
