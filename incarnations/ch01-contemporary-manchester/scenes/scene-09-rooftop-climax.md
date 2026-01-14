@@ -2,7 +2,7 @@ Stewart turned at the sound of the door, and in the city's ambient glow, Silas c
 
 "Professor Phalavan." The words carried no surprise, no distress. An observation, nothing more. "I thought they might send you."
 
-The rain had gentled to a mist that hung in the air rather than fell through it, catching the light from below and turning the rooftop into something between worlds. Silas took a step forward, feeling Lilith close behind him but not looking back.
+The rain had gentled to a mist that hung in the air rather than fell through it, catching the light from below and turning the rooftop into something between worlds. Silas took a step forward, and the cold hit him—wrong cold, old cold, a chill that had nothing to do with the Manchester night or the mist rising from the streets below. It settled in his bones as if it had always been there, waiting to be remembered. He felt Lilith close behind him but did not look back.
 
 "Stewart." He kept his voice even, the professional calm that had served him in the lecture hall. "Let's talk about what's happening."
 
@@ -102,7 +102,15 @@ Silas lunged.
 
 The distance between them collapsed—fifteen feet, ten, five—and time stretched in the way time stretches only at the threshold of irreversible things. Stewart's body was past the barrier now, the city lights reflecting in his eyes, his hand reaching back toward the rooftop, toward Silas, toward the connection he'd been trying to articulate.
 
-Silas's own hand extended, the helper identity's final act or something beyond it—the boundary between self and other already blurring, already meaningless, already collapsed into a single gesture that was both reaching and being reached for.
+And then something else—
+
+Snow. Silas saw snow, felt snow, was buried in it. Wind screamed through a silence so complete it stopped being sound. His fingers blackened and numb, meat freezing on bones that had already stopped belonging to him. Hunger—not for food but for something he'd failed to learn, a lesson that required other hands, other warmth, bodies he'd pushed away. The world going white. Muscles failing. The desperate knowledge of something dying alone because it had chosen alone, had hoarded alone, had believed alone was strength until the storm proved otherwise.
+
+He staggered. Caught himself on the barrier. The vision—memory?—passed, leaving only the rooftop, the city lights, Stewart's reaching hand.
+
+Silas didn't understand it. But it had been real.
+
+His own hand extended, the helper identity's final act or something beyond it—the boundary between self and other already blurring, already meaningless, already collapsed into a single gesture that was both reaching and being reached for.
 
 The mist caught the light from below. Stewart's fingers spread wide, pale against the darkness. Silas felt the edge of the barrier press against his hip as he leaned over, farther than balance should allow, farther than sense would permit.
 

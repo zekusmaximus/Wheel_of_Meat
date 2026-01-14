@@ -12,7 +12,11 @@ Silas did not sit, but followed and stood over her, taking the opportunity to sh
 
 The words of his affirmation almost formed on his lips as he turned away and sighed. A small wind picked up as the air moistened, bringing the slightly sweet smell of impending precipitation. "I know Lilith, but as I said this afternoon, you have nothing to worry about." Her hand, more persistent this time, gently tugged his chin, turning his face back toward her.
 
-"You said Stewart showed you something. What did he show you, Silas?" She looked at him, eyes widening in what would have been mistaken for anticipation by someone less perceptive. Instead, when combined with her tight lips and stiffened posture, it betrayed fear.
+"You said Stewart showed you something. What did he show you, Silas?"
+
+For a moment, Silas couldn't breathe. Stone dust coated his tongue—impossible, imagined—and the weight of a narrow space pressed against his shoulders. A cell. A tomb. Somewhere he had been confined willingly, waiting for something that never came. The sensation lifted as quickly as it arrived.
+
+She looked at him, eyes widening in what would have been mistaken for anticipation by someone less perceptive. Instead, when combined with her tight lips and stiffened posture, it betrayed fear.
 
 A woman opened her umbrella as she walked by, the clicking and whooshing sound drawing Silas and Lilith's attention for a moment. They both shifted on the bench to watch before focusing on one another again.
 

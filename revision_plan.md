@@ -20,7 +20,7 @@ These issues affect how readers engage with the manuscript's fundamental archite
 
 **Priority:** CRITICAL
 **Source:** Both reports (combined from original 1.1 and 1.2)
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 **Problem:** The Ch. 1→2 transition from modern psychological thriller to prehistoric survival narrative is jarring. While the disorientation is intentional, readers need subliminal preparation—not explanation, but resonance. The Act structure already signals a major shift; what's missing is sensory foreshadowing that makes Ka's chapter feel like recognition rather than confusion.
 
@@ -48,11 +48,11 @@ These issues affect how readers engage with the manuscript's fundamental archite
 - Silas should not dwell on or investigate the echoes; they pass through him
 
 **Acceptance criteria:**
-- [ ] Minimum 4 sensory echoes planted in Chapter 1
-- [ ] Echoes reference at least 3 different past lives
-- [ ] Intensity escalates toward rooftop scene
-- [ ] Final echo is 3-5 sentences and specifically evokes Ka's death (cold, snow, isolation, body failing)
-- [ ] Silas does not understand the echoes—no exposition, no investigation
+- [x] Minimum 4 sensory echoes planted in Chapter 1
+- [x] Echoes reference at least 3 different past lives
+- [x] Intensity escalates toward rooftop scene
+- [x] Final echo is 3-5 sentences and specifically evokes Ka's death (cold, snow, isolation, body failing)
+- [x] Silas does not understand the echoes—no exposition, no investigation
 - [ ] Ka's Chapter 2 opening creates subliminal recognition for readers who experienced the final echo
 
 -----
@@ -538,7 +538,7 @@ Address after structural and character work is complete.
 
 |Priority|Task                                  |Status|
 |--------|--------------------------------------|------|
-|CRITICAL|1.1 Sensory echoes in Ch. 1           |[ ]   |
+|CRITICAL|1.1 Sensory echoes in Ch. 1           |[x]   |
 |CRITICAL|1.2 Manchester ticking clock          |[ ]   |
 |HIGH    |2.1 Active agency for Silas (2 lives) |[ ]   |
 |HIGH    |2.2 Deepen Lilith motivation          |[ ]   |
