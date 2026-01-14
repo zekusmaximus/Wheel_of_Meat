@@ -295,41 +295,81 @@ The search arc itself becomes the primary vehicle for revealing Lilith's motivat
 
 These changes address reading experience and narrative rhythm.
 
-### 3.1 Break the Middle-Section Formula
+### 3.1 Add One Successful Intervention That Produces Horror
 
-**Priority:** MEDIUM
-**Source:** Report 1
+**Priority:** MEDIUM  
+**Source:** Report 1's "break the formula" recommendation, refined  
 **Status:** [ ] Not started
 
-**Problem:** Chapters 10-18 fall into predictable rhythm: incarnate → intervene → backfire → death-lesson. Reader needs surprise.
+**Problem:** Even with Lilith's search arc (1.2) and Silas's agency moments (2.1), the core historical rhythm persists: intervene → backfire → death-lesson. Readers need one outcome that breaks this pattern completely. The Tier 1-2 changes add variety in *her* activity and *his* resistance, but don't vary the *outcome* of intervention itself.
+
+**Solution:** One incarnation (Chapter 8-10 range) where Lilith's intervention succeeds exactly as intended—and the success is more disturbing than any backfire. This completes the outcome spectrum and deepens her arc by revealing what she actually wants, and why getting it is its own punishment.
+
+**Placement Logic:**
+
+| Chapter Range | What Happens |
+|---------------|--------------|
+| 7 | Pivot: she realizes backfires accelerate him |
+| **8-10** | **Success-horror: she wins, and winning is terrible** |
+| 11-14 | Jean de Langon: he exercises agency, surprises her |
+| 15-18 | Jack Malone: he recognizes her, defies her |
+
+This sequence creates mounting collapse: her old strategy fails (backfires), her adjusted strategy fails worse (success-horror), and then he starts fighting back (agency). By Chapter 15+, she's losing on every front.
 
 **Implementation:**
 
-- Disrupt the pattern at least twice. Options:
+Select one incarnation in the Chapter 8-10 range. The intervention should achieve her stated goal—impeding his progress—and produce one of these horror outcomes:
 
-**Option A: Lilith chooses not to intervene**
+**Option A: The Hollow Victory**
+- She successfully prevents the death-lesson. He dies bitter, regressed, having learned nothing.
+- The life simply... ends. No crystallizing insight. No hunger carried forward. Just cessation.
+- Watching this produces unexpected anguish in her. The absence of his progress feels like absence of *him*.
+- She realizes she's been feeding on the very thing she's fighting—his growth is what makes him HIM.
+- Horror: she doesn't want to stop him. She wants to beat him. Those aren't the same thing.
 
-- One incarnation where she deliberately holds back
-- Silas fails entirely on his own
-- Proves she isn't the cause of his suffering—the wheel turns regardless
+**Option B: The Mirror**
+- She successfully shapes him toward her own approach—strategic, calculating, treating enlightenment as something to be won.
+- For one life, he becomes like her. Grasping. Competing. Trying to optimize his way to liberation.
+- Watching herself reflected in him is repulsive. The thing she's trying to create is the thing she hates.
+- He dies having "progressed" by her metrics but something essential is missing—the quality that makes his thread worth following.
+- Horror: if she wins, she loses what she was racing toward.
 
-**Option B: Silas perceives her across the veil**
+**Option C: The Fracture**
+- She intervenes too forcefully. His consciousness doesn't progress OR regress—it dims. Fragments.
+- For several subsequent incarnations (glimpsed briefly), the thread is weak, hard to follow, nearly lost.
+- She experiences genuine terror: she almost destroyed him entirely.
+- The thread eventually reconstitutes, but she's shaken. There are limits to what she can do without losing him.
+- Horror: her power over him is also power to annihilate what she needs.
 
-- In one life, he senses her presence and speaks to it
-- Not full understanding—just acknowledgment: "I know you're there"
-- Creates genuine communication between them
+**Recommendation:** Option B (The Mirror) integrates most cleanly with her remaining fetter (attachment to winning). Seeing him become a competitor—and finding that repulsive—exposes what she actually values about him, which isn't his defeat.
 
-**Option C: Intervention succeeds as intended**
+**Incarnation Selection:**
 
-- Lilith's manipulation works exactly as planned
-- The success produces unexpected horror—she got what she wanted and it's worse
-- Implement at least 2 of these options in middle chapters
+Choose a life where "becoming strategic/calculating" would be a plausible corruption:
+- Verinus (Roman investigator): already procedural; could become politically calculating, abandon truth for advancement
+- Macarius (desert ascetic): could become spiritually competitive, treating enlightenment as achievement
+- Another figure whose integrity could be corrupted toward gamesmanship
+
+**What to show:**
+- The intervention working. No backfire. She gets what she designed.
+- Her initial satisfaction: *Finally. This time it worked.*
+- The gradual horror as she watches the result
+- A visceral recoil she doesn't fully understand
+- Brief Manchester aftermath: she doesn't try this approach again. Back to opposition. But something has shifted—she's seen what she doesn't want.
+
+**What to avoid:**
+- Extended philosophical explanation of why this is horrible (show her recoil, don't analyze it)
+- Making the incarnation feel like filler (it should be a complete, affecting life even without the meta-horror)
+- Undermining subsequent backfires (her return to opposition should feel like retreat, not ignorance)
 
 **Acceptance criteria:**
-
-- [ ] Pattern is broken minimum 2 times in Chapters 10-18
-- [ ] Disruptions feel organic, not arbitrary
-- [ ] Reader cannot predict outcome of each life
+- [ ] One incarnation in Ch 8-10 range where intervention succeeds as designed
+- [ ] Success produces horror rather than satisfaction
+- [ ] Horror reveals something about what Lilith actually wants/values
+- [ ] She recoils from the success without fully understanding why
+- [ ] Incarnation works as complete narrative even without meta-level (readers who miss the implication still get a good chapter)
+- [ ] Subsequent interventions feel like retreat to familiar failure rather than repeating the success
+- [ ] Placement before Jean de Langon creates escalating collapse: success-horror → he fights back → she's losing everything
 
 -----
 
