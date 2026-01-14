@@ -61,7 +61,7 @@ These issues affect how readers engage with the manuscript's fundamental archite
 
 **Priority:** CRITICAL  
 **Source:** Revision of Report 1's "ticking clock" and "magic system" recommendations  
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 **Problem:** Lilith's Manchester frame is too passive, and the rules governing her abilities are implied but never clarified. The editors called for a "ticking clock," but physical deterioration contradicts her near-Buddha status (nine fetters broken). They also flagged that her intervention mechanics need clearer rules—can she change history? Why can't she simply locate him in present day? These issues are connected: the constraints on her power explain why she must search, and the search creates the urgency.
 
@@ -539,7 +539,7 @@ Address after structural and character work is complete.
 |Priority|Task                                  |Status|
 |--------|--------------------------------------|------|
 |CRITICAL|1.1 Sensory echoes in Ch. 1           |[x]   |
-|CRITICAL|1.2 Manchester ticking clock          |[ ]   |
+|CRITICAL|1.2 Manchester ticking clock          |[x]   |
 |HIGH    |2.1 Active agency for Silas (2 lives) |[ ]   |
 |HIGH    |2.2 Deepen Lilith motivation          |[ ]   |
 |HIGH    |2.3 Sharpen failure-to-lesson pipeline|[ ]   |
