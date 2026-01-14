@@ -26,6 +26,20 @@ Hers, watching Silas speak? Or Jack's, walking toward his boarding house in the 
 
 For a moment she couldn't tell. The boundary wavered. She was both of them and neither—observer and observed, tracker and tracked, the awareness that followed the thread and the thread itself, indistinguishable.
 
+Then the memory surfaced—the street corner, the rain, the way he had stopped when he saw her face. The way his eyes had searched hers for something he couldn't name.
+
+*He recognized me.*
+
+Not the woman in the bar. Not the passerby on the street. Her. Across the incarnations, across the veil that should be impenetrable, he had looked at her face and something in him had known.
+
+*The lives are bleeding through. He's approaching threshold faster than any previous incarnation.*
+
+The realization settled into her chest like ice. Ten interventions—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see her.
+
+Historical intervention could not touch this. Could not slow it.
+
+She was out of time.
+
 She dismissed it as tracking fever. The strain of holding both timelines. Exhaustion from the weeks of sustained attention, the positioning, the work that had brought her to this room, this moment, this approach.
 
 Not examined. Never examined.

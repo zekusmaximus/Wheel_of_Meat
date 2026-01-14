@@ -742,7 +742,11 @@ Or might not. Perhaps it would change nothing. Perhaps both factions had already
 
 Jean walked through streets turned gold with sunrise toward the magistrate's residence. The letter of passage still rested in his pocket—protection that had proven illusory on the forest road and would prove equally useless against the consequences of an honest report.
 
-But he was done with fortresses. Done with the belief that neutrality meant safety or that withholding judgment meant wisdom. Uncertainty was real. Verification was often impossible. And truthful action did not require omniscience—only honest acknowledgment of limits.
+The words came before the reasoning. Tell the truth. Tell what you found and what you failed to find. The certainty was absolute, inexplicable—not a conclusion reached but a knowledge remembered, though he could not have said from where. It felt less like deciding than like recalling something he had always known but forgotten.
+
+His mind caught up a moment later, constructing the logic his soul had already grasped.
+
+He was done with fortresses. Done with the belief that neutrality meant safety or that withholding judgment meant wisdom. Uncertainty was real. Verification was often impossible. And truthful action did not require omniscience—only honest acknowledgment of limits.
 
 ---
 

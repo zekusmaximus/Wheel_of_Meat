@@ -64,7 +64,31 @@ I stood on the corner for a long moment, rain beginning to fall again, trying to
 
 It didn't fit anywhere. It was a loose thread in a case that was already unraveling.
 
-I filed it away with all the other things I couldn't explain and went back to work.
+I should have filed it away with all the other things I couldn't explain.
+
+Instead, I stood on that corner while the rain soaked through my coat, and I thought about the blackmail case. Fifty dollars plus expenses. Good money. Clean money. The kind of case that kept the lights on while the Haversham investigation ate me alive.
+
+But my hand wouldn't reach for the phone.
+
+The woman's face—that widow's peak, that strange flicker in her left eye—lodged in my chest like a splinter I couldn't dig out. The blackmail case felt wrong. Not complicated-wrong. Wrong the way Frank's death had felt wrong. Wrong the way this whole investigation had felt wrong from the first minute, like I was walking through a maze someone else had designed.
+
+*I've seen those eyes before.* I couldn't say where. But I knew not to trust them.
+
+The thought arrived without explanation, certainty without evidence. The kind of knowing that got men killed in this city—acting on instinct instead of facts.
+
+I let the phone ring through.
+
+Made no sense. The money was good. The case was clean. And I needed rent money worse than I needed instincts I couldn't explain.
+
+But something in me knew better than my brain did. Knew that case was a trap, even if I couldn't prove it. Knew that woman on the corner was connected to everything falling apart around me, even if I'd never spoken to her in my life.
+
+*In France—*
+
+I blinked. In France? I'd never been to France.
+
+The thought slid away before I could catch it, leaving only residue. The blackmail case went to someone else. And I went back to the corruption investigation that was probably going to kill me.
+
+*Someone has to give a damn. Even when it doesn't make sense. Even when you can't explain why.*
 
 ---
 
