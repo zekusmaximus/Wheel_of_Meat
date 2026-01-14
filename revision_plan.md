@@ -146,9 +146,9 @@ These changes affect how readers experience the protagonist's journey.
 
 ### 2.1 Give Silas Active Agency in Two Historical Lives (Plot-Integrated)
 
-**Priority:** HIGH  
-**Source:** Report 1, now integrated with Lilith's search arc  
-**Status:** [ ] Not started
+**Priority:** HIGH
+**Source:** Report 1, now integrated with Lilith's search arc
+**Status:** [x] Complete
 
 **Problem:** Silas is too passive. Growth happens only at death. Readers never see him apply accumulated wisdom within a life. Additionally, Lilith's search arc needs plot-level triggers that escalate her urgency.
 
@@ -208,9 +208,9 @@ Select two later incarnations where accumulated soul-wisdom allows Silas to make
 
 ### 2.2 Deepen Lilith's Motivation Through Action
 
-**Priority:** HIGH  
-**Source:** Report 2, restructured to integrate with search arc  
-**Status:** [ ] Not started
+**Priority:** HIGH
+**Source:** Report 2, restructured to integrate with search arc
+**Status:** [x] Complete
 
 **Problem:** Lilith's stated fear—"Couldn't let you go somewhere I can't follow"—needs visceral grounding. Report 2 recommended adding reflection or memory to explain her terror. However, with the search arc now in place, the revision approach shifts: her motivation should be DEMONSTRATED through action rather than STATED through reflection.
 
@@ -540,8 +540,8 @@ Address after structural and character work is complete.
 |--------|--------------------------------------|------|
 |CRITICAL|1.1 Sensory echoes in Ch. 1           |[x]   |
 |CRITICAL|1.2 Manchester ticking clock          |[x]   |
-|HIGH    |2.1 Active agency for Silas (2 lives) |[ ]   |
-|HIGH    |2.2 Deepen Lilith motivation          |[ ]   |
+|HIGH    |2.1 Active agency for Silas (2 lives) |[x]   |
+|HIGH    |2.2 Deepen Lilith motivation          |[x]   |
 |HIGH    |2.3 Sharpen failure-to-lesson pipeline|[ ]   |
 |MEDIUM  |1.3 Clarify intervention rules        |[ ]   |
 |MEDIUM  |3.1 Break middle-section formula      |[ ]   |
