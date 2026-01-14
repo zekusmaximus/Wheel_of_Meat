@@ -76,6 +76,20 @@ She felt the kinship whisper extending from Ka through Chandra to Philon. She fe
 
 *Curiosity,* she named the feeling. *Understanding.*
 
+But beneath the curiosity, something else surfaced. A flicker she could not name.
+
+Three iterations. Three interventions. Three backfires. The pattern was not noise—it was signal. Every opposition had accelerated what she opposed. Ka's hoarding had broken against winter and taught him loss. Chandra's ledgers had collapsed into ash and taught her faces. Philon's reaching had burned and taught him the question he would carry forward.
+
+She had meant to corrupt. She had catalyzed.
+
+And if the pattern held—
+
+The thought arrived as vertigo. Not grief, not loneliness, but something sharper: the specific disorientation of watching someone approach a threshold she could see but had not crossed. He was not just progressing. He was *accelerating*. Each life she tracked was another life closer to the crossing. And she—
+
+*He's getting ahead of me.*
+
+The recognition lasted less than a breath. She filed it as strategic concern. Returned to analysis. But for that fraction of a second, she had felt the edge of something she refused to name: the ache of almost. Of being close enough to see where he was going. Of not being able to follow. Yet.
+
 She did not ask what she was hoarding. She did not examine the thread she could not release, the tracking she could not stop, the certainty she held like frozen meat in a cave no one else could find.
 
 *I see what went wrong.*
