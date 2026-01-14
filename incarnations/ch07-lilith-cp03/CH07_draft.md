@@ -36,9 +36,23 @@ Not from Chandra. From before. From Ka, crouched in his cave with frozen meat, c
 
 The thought formed with the clarity of analysis, the comfort of understanding. Chandra's lesson had crystallized despite her intervention. She had accelerated rather than corrupted, had sharpened rather than dulled. A tactical error. A miscalculation of leverage.
 
-She would not make the same mistake with Philon.
+But the pattern beneath the error—
+
+Two interventions. Two accelerations. The thread she tracked burned brighter after each contact, not dimmer. Opposition forged what she meant to destroy.
+
+She calculated. The thread's density at Ka's death. Its density now, two lives later. The rate of accumulation.
+
+The numbers were wrong. The numbers said: soon. Perhaps one more significant life. Perhaps two. Then he would cross the threshold she had spent centuries approaching.
+
+She needed to find him. Not in history's silences where her interventions kept backfiring, but in the present—where the outcome remained unwritten, where direct contact might accomplish what manipulation-at-distance could not. Before the thread reached its end without her.
+
+But the thread would not show her where. Not yet. She was trapped in sequential tracing, watching him die in ancient Athens while he existed somewhere in her present, progressing without her.
+
+She filed the urgency. Returned to analysis.
 
 *I'll correct.*
+
+She would not make the same mistake with Philon.
 
 The flat reasserted itself around her, cold tea, ticking radiator, the silence of a space no one visited. But beneath it, Athens continued: the heat, the smell, the texture of pustules under a physician's hands that would not stop reaching.
 
@@ -114,6 +128,18 @@ Alexios would look at Philon today and see the pyre waiting behind the living fa
 *This intervention will work differently,* she told herself. *More precise. More isolated.*
 
 The hunger in her chest did not name itself. She did not ask it to.
+
+The thread stretched forward through lives she had not yet witnessed. Verinus. Others. The sequential chain she could not break, the tracing she could not skip.
+
+Somewhere in her present, he was breathing. Teaching, perhaps. Living an ordinary life while she watched him die in extraordinary ones. The thought pressed against her awareness like the headache pressing against her temples.
+
+She would find him. The thread would lead her there eventually.
+
+But *eventually* had become a word with weight. A word that measured the distance between where she was trapped and where she needed to be.
+
+She leaned back into the tracking. The thread hummed. Verinus waited.
+
+And in Manchester, in the present she could not yet reach, the consciousness she hunted continued toward a threshold only one of them could cross.
 
 
 Alexios left at midday. Lilith watched him go through the thread. Heard his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
