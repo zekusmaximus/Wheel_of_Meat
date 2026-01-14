@@ -4,7 +4,17 @@ The flat felt smaller than it was. Not physically, but perceptually. Walls press
 
 Lilith set down the cold tea she had been holding without drinking and poured a fresh cup. This one would also go cold. She knew this with the same certainty she knew Jean de Langon was dead and the lesson was learned and the backfire was complete.
 
-Eight interventions. Eight structural failures.
+Numerous interventions. Numerous structural failures.
+
+But this one was different. The realization settled into her like cold water spreading through cloth.
+
+He had accessed it mid-life. Not at death—mid-life. Every avatar before this one had learned their lesson in the dying, in the final moment when the veil thinned and accumulated wisdom could finally surface. Jean de Langon had reached for it while still breathing, still choosing, still capable of action. The certainty in his voice when he told the magistrate "It is mine. And it is true"—that wasn't the peace of a dying man. That was someone drawing on reserves he shouldn't have been able to reach.
+
+*He's accessing accumulated learning earlier than any previous incarnation.*
+
+The University of Manchester faculty page still glowed on her laptop. Backup strategy, she had called it. Contingency planning. But the pull toward present-day contact was strengthening, and the reason was crystallizing into something she could no longer dismiss.
+
+*He's not just progressing. He's accelerating.*
 
 Her fingers moved across laptop keys. The University of Manchester philosophy department page gave way to faculty listings. Course schedules. Campus maps showing buildings she had memorized without acknowledging why.
 
