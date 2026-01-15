@@ -319,11 +319,6 @@ The search arc itself becomes the primary vehicle for revealing Lilith's motivat
    - **Overcorrection:** Jack turns trying into a **pathological identity**, believing he is the only one who gives a damn in a city of looters.
    - **Implementation/Aversion:** Jack should shudder at mass movements or heavenly-kingdom rhetoric. He should feel ill at the sight of "manna" (weeds) or rations, associating them with mass death he couldn’t prevent, and clutch his **individual case file** as the only real thing in the world.
 
-10. **Jack Malone → Silas (Modern)**
-   - **Previous Death Trauma:** Jack’s lone-wolf savior identity ends in isolation and exhaustion—trying matters, but it becomes a cage.
-   - **Overcorrection:** Silas clings to **relational help** (attachment to specific people as proof he’s not alone).
-   - **Implementation/Aversion:** When someone praises "the only one who gives a damn," Silas should feel a tightness in his chest, an urge to *pull someone closer* rather than stand alone. Lone-vigil imagery (stakeouts, solitary watch, the case file as the only truth) should trigger a subtle recoil and a reflex to seek partnership, even when it’s unsafe.
-
 **Acceptance criteria:**
 
 - [ ] Each major incarnation has explicit reaction to previous failure
