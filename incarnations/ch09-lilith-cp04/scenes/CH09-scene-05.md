@@ -54,29 +54,45 @@ The observation surfaced against her will. She tried to file it. Tried to slot i
 
 The exile had freed him.
 
-*More precision required.*
+The pattern was undeniable now.
 
-The response came automatically, defensively, the particular kind of certainty that insists on itself because the alternative is too large to face. Philon had backfired because she had isolated him. Chandra had backfired because she had accelerated him. Verinus had backfired because—
+Ka's cooperation had crystallized through her observation. Chandra's generosity had crystallized through her intervention. Philon's wisdom had crystallized through her isolation of him. Verinus's capacity to act with compassion despite uncertainty—crystallizing now, through her destabilization.
 
-Because—
+Four patterns. Four lessons. Each intervention accelerating what it opposed.
 
-*I was close enough to touch him.*
+Her hands were cold in the Manchester flat, and she could not say when they had grown cold, and the alarm she was filing was larger than any she had filed before. The soul approaching completion. The lessons accumulating faster than she could impede them. The evidence exceeding her capacity to deny.
+
+But.
+
+The tribunal. The near-miss. The instant when he had almost broken.
+
+*Closer.*
+
+The word returned with its dangerous comfort. Yes, another backfire. Yes, another lesson crystallizing. But she had glimpsed something in that moment—the shape of what success would require. The certainty-pressure had nearly worked. He had been on the edge of condemning Philo, of sacrificing the innocent to preserve his system, of becoming exactly what she needed him to become.
+
+*I'm learning what works.*
+
+The phrase felt different now. Not desperation. Strategy. She was mapping the mechanism. Each backfire taught her what to target. Each near-miss showed her what to seal.
+
+The compassion had broken through only because she hadn't anticipated it. Only because she'd left the crack unsealed. Next time—
+
+*Next time, I will close that escape before it forms.*
+
+The certainty settled into her chest with the weight of purpose. She had watched him almost break. She had felt the cold satisfaction of approaching success. The approach was correct. The target was correct. The intensity just needed adjustment.
+
+*Closer. Each time, closer.*
 
 The cameo returned unbidden: Marcia's body in the colonnade, his eyes finding hers through the crowd, the moment when she had not been certain which consciousness trembled. He had seen her. He had seen *her*, not the strategy, not the vessel, but something beneath that she could not name and did not want to name.
 
-*The precision was not wrong,* she told herself. *The target was wrong. The angle was wrong. The application was wrong.*
+She filed the memory with the others. Did not examine what it meant that he had seen her. Did not ask why being seen had felt like something other than failure.
 
-*I will correct.*
-
-The phrase was familiar. She had thought it after Ka, after Chandra, after Philon. Numerous historical lives, various interventions, all backfires. The pattern was undeniable. Even her tracking mind could not deny it, but the pattern's meaning remained unexamined.
-
-Each intervention accelerates what it opposes. Each pressure creates the precise conditions for the lesson to crystallize. Each attack on his path *is* his path.
-
-She did not let the observation complete.
-
-Instead she turned her attention forward, feeling for the next thread, the next consciousness, the next opportunity to apply what she had learned. Egypt waited. A hermit in the desert, chosen isolation, the dangerous territory of spiritual pride. Different from Verinus. Different from Philon. Precise intervention directed at different vulnerabilities, calibrated with the experience of three failures.
+Instead she turned her attention forward, feeling for the next thread, the next consciousness, the next opportunity to apply what she had learned. Egypt waited. A hermit in the desert, chosen isolation, the dangerous territory of spiritual pride. Different from Verinus. Different from Philon. Precise intervention directed at different vulnerabilities, calibrated with the experience of four observations.
 
 *More precision required.*
+
+The phrase had a different texture now. Not defensive. Not desperate. Confident. She had glimpsed what success would look like in the tribunal. She had felt how close she had come. The wheel continued to turn, but she was learning its mechanics.
+
+She did not see that "closer" was itself the trap. That success would not look like victory. That the near-miss had shown her something terrible, and she had mistaken it for hope.
 
 In Manchester, the flat held its cold silence. Her tea had frozen or evaporated, she could not say which, could not remember when she had last checked, could not remember the last time Manchester had felt like more than an afterthought to the real work.
 

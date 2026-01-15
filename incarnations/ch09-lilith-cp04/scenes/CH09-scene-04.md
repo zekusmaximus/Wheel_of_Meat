@@ -40,9 +40,35 @@ She was there now—not Marcia this time, but something less visible, less prese
 
 *"I have."*
 
-And then he did not do what she expected.
+For an instant—she felt it happen.
 
-His voice was steady. His certainty remained absent. She could feel the cracks running through every sentence but something else had taken its place. Something she could not name.
+The verdict forming in his mind. The path of least resistance opening. *Condemn the servant. Restore order. Let procedure be sufficient.* The contradictions she had seeded, the impossible testimonies she had manufactured—they had accumulated into exactly the pressure she intended. His certainty had shattered. His framework had collapsed. And now the cold logic of Roman law offered him the only escape: sacrifice the innocent to preserve the system.
+
+She leaned into that instant. Pressed against it with the weight of her attention. This was what she had engineered—the accumulated impossibilities forcing him toward expedient cruelty. Toward becoming the system. Toward breaking.
+
+His mouth opened to speak—
+
+And then he saw Philo's hands.
+
+White-knuckled on the table's edge. Trembling with the effort of stillness. The physical truth of another person's terror, cutting through the abstraction of verdict and procedure.
+
+The cold certainty cracked. Something warmer moved through the fissure—recognition, humanity, the compassion that had no place in her strategy. The escape route she had not sealed.
+
+The verdict stopped. Reformed. Became something else.
+
+*Closer.*
+
+The word surfaced in her awareness with the precision of a diagnosis. Not failure—calibration. The pressure had nearly worked. The certainty-attachment had nearly tipped into rigid condemnation. She had felt him on the edge of breaking, felt the cold satisfaction of approaching success—
+
+And then compassion had broken through.
+
+*I'm learning what works.*
+
+The thought filed itself with dangerous satisfaction. The approach was correct. The target was correct. The intensity just needed adjustment. Next time, she would anticipate the compassion. Next time, she would seal that crack before it formed.
+
+*Closer.*
+
+His voice was steady now. His certainty remained absent. She could feel the cracks running through every sentence but something else had taken its place. Something she could not name but had just watched emerge.
 
 *"The death of Gaius Quintilius Varro was neither murder nor accident. It was a philosophical act—a final lesson, delivered to himself."*
 
