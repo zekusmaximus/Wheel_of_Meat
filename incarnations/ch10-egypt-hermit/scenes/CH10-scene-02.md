@@ -54,7 +54,15 @@ He set the basket aside. The young monk straightened, sensing the shift in atten
 
 "I believe there may be a practice, Abba. A discipline."
 
-"There are many disciplines." Macarius studied the young man's face—the eagerness there, the hunger that had not yet learned to be patient with itself. "Name them."
+"There are many disciplines." Macarius studied the young man's face—the eagerness there, the hunger that had not yet learned to be patient with itself.
+
+Something in the young man's hands—the way they twisted against each other, white-knuckled—made him pause. The question about scattered thoughts was never the real question.
+
+"What happened, brother? Before you came to the desert."
+
+The story that followed—a sister's death, a faith in pieces—had nothing to do with discipline. Macarius listened without shaping a response. The listening was harder than the teaching would be.
+
+When it was done, he let the silence hold them both. Then, gently: "Name them."
 
 Paphnutius hesitated. "The constant prayer. The midnight offices. The fasting."
 

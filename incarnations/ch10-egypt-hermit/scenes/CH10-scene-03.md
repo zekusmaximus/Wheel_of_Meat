@@ -32,6 +32,8 @@ Macarius let the words settle. He was aware of his own appearance—the rough ro
 
 Good. Let them see what they expected to see.
 
+Didymus had come to the well three days before, moving slow with his joints full of sand. Macarius had mentioned the rumors—Alexandria sending scribes. "They want words from you?" The old man's eyes, rheumed and ancient, had held something Macarius could not read. "Watch yourself, brother. The snake that flatters is more dangerous than the snake that bites." Macarius had dismissed the warning then. He was less certain now.
+
 "The desert does not refuse travelers," he said finally. His voice was rougher than he remembered it being. "Enter, if you must."
 
 Theophanes entered. His sandals scraped against the stone floor, and he paused to take in the cell's dimensions—the single mat, the water jug, the cross, the baskets arranged by the wall. His face held the careful expression of a man cataloguing poverty for later interpretation.

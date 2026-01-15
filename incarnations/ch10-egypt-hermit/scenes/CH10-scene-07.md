@@ -60,6 +60,14 @@ He paused. The silence hung, thick with reverence.
 
 *This is good. This is true. This is what they need to hear.*
 
+For an instant, the path was clear.
+
+Accept it. Accept all of it. He was Abba Macarius of Scetis, and fifty monks had gathered to hear his wisdom, and the scribes would carry his words to Alexandria where bishops would read them. For generations to come, men would quote what he had said. The heat of their attention warmed him like sunlight after winter. He felt his spine straightening, his chin lifting, his body arranging itself into the posture of a man who deserved to be witnessed.
+
+He would speak on. They would record it. He would become immortal in parchment and memory.
+
+The next sentence formed. He drew breath to release it.
+
 But beneath the satisfaction of delivery, something else was moving. Something uncomfortable. Something that tasted—
 
 Tasted like—
