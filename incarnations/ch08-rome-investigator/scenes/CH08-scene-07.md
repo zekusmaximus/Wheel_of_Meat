@@ -46,6 +46,16 @@ The praetor shifted uncomfortably. "Senator, perhaps—"
 
 Verinus felt Marcus's eyes on him. He knew what his friend was thinking: *Apologize. Soften. Find a way to give the senator what he wants without destroying yourself.*
 
+For a long moment, the path was clear. The law permitted condemnation of the servant—required it, even. Philo had failed to report his master's distress. His silence had obstructed the investigation. The senator wanted resolution. The praetor needed closure. The system had functioned this way for generations.
+
+Verinus could give them what they wanted. One word—*guilty*—and the case would close. The senator's rage would subside. His own career would survive. Philo would be sold, exiled, or worse, but that was the price of order. Individual suffering weighed against institutional stability. A calculation any competent investigator could make.
+
+He felt the words forming. Felt the cold clarity of procedure returning—the clean satisfaction of a world where law was sufficient, where compassion was weakness, where the servant's trembling hands were merely evidence of culpability.
+
+Then he saw those hands. White-knuckled on the table's edge, though Philo was not in this room. Trembling in the kitchen doorway when he had first spoken. The hands of a terrified man who had done nothing except fail to comprehend the philosophical torment consuming his master.
+
+The cold certainty cracked. Verinus heard himself speak, and the words were not the ones he had been preparing.
+
 He could not.
 
 "I will not condemn an innocent man to satisfy your pride," he said quietly. "That is my conclusion. That is my report."

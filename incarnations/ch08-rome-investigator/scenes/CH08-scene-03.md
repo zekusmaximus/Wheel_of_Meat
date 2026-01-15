@@ -10,7 +10,15 @@ They found him in the kitchen, a thin man in his forties whose hands would not s
 
 "Tell me about that evening," Verinus said.
 
-Philo's eyes darted to the doorway, as if expecting rescue or threat. "The master retired after the evening meal. His mood was—" He stopped. Swallowed. "His mood was unsettled. He had received a letter that afternoon. I do not know from whom."
+Philo's eyes darted to the doorway, as if expecting rescue or threat. His hands twisted in the fabric of his tunic—a continuous motion, compulsive, the body betraying what the voice tried to conceal.
+
+Verinus set down his wax tablet. The gesture was small, but it changed the space between them. No longer investigator and evidence. Two men in a room, one frightened, one trying to understand.
+
+"You are not accused," Verinus said quietly. "I am not here to trap you. I am here because a man is dead, and you knew him better than anyone else in this house. Help me see what happened."
+
+Something in Philo's shoulders loosened—not trust, but the faint possibility of it.
+
+"The master retired after the evening meal," Philo said. "His mood was—" He stopped. Swallowed. "His mood was unsettled. He had received a letter that afternoon. I do not know from whom."
 
 "The letter?"
 
@@ -82,6 +90,10 @@ Marcus shifted in the doorway. Verinus felt his friend's skepticism like heat fr
 
 The smile finally flickered. "What do you mean?"
 
+Verinus did not answer immediately. Something cold had moved through his chest when Aulus spoke of philosophers accepting death—not the words themselves, but the image they conjured. A man choosing principle over breath. The certainty of that choice, absolute and unreachable, held up as virtue.
+
+His hand tightened on the stylus until the bronze bit into his palm. The sensation was wrong, hollow, as if his body remembered something his mind could not access. He forced his grip to loosen.
+
 "Your written account suggests that rivals in the philosophical schools might have 'taken more direct action' against Varro. Do you have evidence of such action?"
 
 "Evidence? No. Suspicion? Let us say that Varro made enemies by being right too often." Aulus rose, smoothing his toga again. "Is there anything else?"
@@ -89,6 +101,18 @@ The smile finally flickered. "What do you mean?"
 "The woman. Three nights before his death—"
 
 "I know nothing of any woman." The answer came too quickly, and Aulus was already moving toward the door. "I am a student of philosophy, not of Varro's private affairs."
+
+After Aulus left, Marcus remained in the doorway. "You know what he's doing."
+
+"Performing. You said he would." Verinus made a note on his tablet. "His rhetoric is polished, but the content—"
+
+"Is shaped around something he will not name." Marcus crossed to the desk. "Not the death itself. His own role in the argument that morning. He sent Varro into that spiral, and he knows it. That's what he's protecting."
+
+Verinus stopped writing. He had been cataloguing the contradictions in Aulus's account—the too-quick answers, the rehearsed intimacy. He had missed the silence beneath them.
+
+"We return to him last," Verinus said. "After the others have spoken. Let him wonder what we know."
+
+Marcus nodded. "He'll break before you ask the question."
 
 ---
 
@@ -138,7 +162,13 @@ Marcus stepped into the room, careful not to disturb the scrolls. "You're trying
 
 "Or accept that the picture is incomplete."
 
-Verinus turned to face his friend. "A man is dead. His household lies. His student postures. His neighbor trembles at the mention of a woman no one will describe. These are not incompleteness—they are fragments of a truth someone has shattered."
+Verinus looked down at the testimonies spread across the stained desk. The servant's fear. The student's performance. The neighbor's resentment. Each account carried its own truth, shaped by perspective and memory and what each witness needed to protect.
+
+He could force them into coherence—select the pieces that fit, discard the rest, build a narrative that satisfied the tribunal. He had done it before. But that would be his truth, not theirs. Not Varro's.
+
+"Perhaps," he said slowly, "the picture is not incomplete. Perhaps it is fractured. Reality itself, not just our accounts of it." The words felt dangerous, but also necessary. "I can hold that. For now."
+
+He turned to face his friend. "A man is dead. His household lies. His student postures. His neighbor trembles at the mention of a woman no one will describe. These are not incompleteness—they are fragments of a truth someone has shattered."
 
 "And if the truth cannot be reassembled?"
 
