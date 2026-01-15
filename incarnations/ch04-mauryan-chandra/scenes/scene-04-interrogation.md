@@ -1,6 +1,6 @@
 The oil lamps in Chandra's office burned low, their wicks guttering in the still air as the evening deepened toward night. Devaka sat across from him, the confession documents spread between them like a map to territory they had finally conquered. Sixteen palm leaves in the scribe's careful hand, each page adding another thread to a conspiracy that had unraveled with gratifying completeness.
 
-Devaka's face showed the strain of recent days—shadows beneath his eyes, a tightness around his mouth that Chandra had learned to read over fifteen years. "You've barely slept," he said. It was not a question. Devaka looked up, and something in his expression softened briefly—the acknowledgment of a man touched that someone had noticed.
+Devaka's face showed the strain of recent days—shadows beneath his eyes, a tightness around his mouth that I had learned to read over fifteen years. "You've barely slept," he said. It was not a question. Devaka looked up, and something in his expression softened briefly—the acknowledgment of a man touched that someone had noticed.
 
 "Vikram named everyone." Devaka's finger traced the list of co-conspirators, his voice carrying the quiet satisfaction of work well done. "The transport coordinator Vasumitra, his brother-in-law in the assessment office, the warehouse supervisors who falsified the quality reports. A complete chain from collection point to market."
 

@@ -78,6 +78,16 @@ Devaka's expression flickered—a small contraction around the eyes that I had l
 
 Which meant they could have been genuine observers or plants designed to mislead the investigation. The eastern provinces were vast, and travelers from that region were common enough in Pataliputra that their presence would not raise suspicion. I filed the information away for later analysis.
 
+"What did you see?" I asked. "Before the blade. The crowd's mood."
+
+Devaka's eyes narrowed—not with suspicion but with the focus of recall. "Restless. The ceremony ran long, and people near the back were shifting. But there was a pocket of stillness near the eastern edge. Men who weren't watching the pillar."
+
+I had not seen it. My attention had been on the Dharma-Mahāmātra, on the inscription, on the administrative implications of the reforms being announced. Devaka watched crowds the way I watched ledgers—for the patterns that revealed what the surface concealed.
+
+"Show me where. Tomorrow, when I can walk."
+
+He nodded. Fifteen years of partnership had taught us both the value of what the other saw.
+
 The tent flap rustled, and Pradeshika Sumitra entered with the heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.
 
 "Rājuka Chandra." Sumitra stood over the pallet where I lay, his posture suggesting he would not be taking a seat. "The Dharma-Mahāmātra extends his gratitude for your intervention."

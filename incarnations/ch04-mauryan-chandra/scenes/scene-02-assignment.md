@@ -44,7 +44,13 @@ Devaka walked beside me, matching my pace with the automatic coordination of lon
 
 "The warehouse records will take time to assemble," Devaka said, his voice pitched low enough that the passing clerks would not overhear. "Seven locations, two years of documentation. We're looking at three, perhaps four days before we have everything in hand."
 
-"Begin with Warehouse Seven." I had already sorted through Nagasena's preliminary notes, the numbers arranging themselves into patterns that suggested where to focus. "The inspector's methodology was sound—his staff cross-referenced transportation records against warehouse receipts, work I might have missed alone." I spread the preliminary notes so Devaka could follow my reasoning. "The loss reports show the largest variance from expected values. If the falsification is systematic, that's where it will be most visible."
+"Begin with Warehouse Seven." I had already sorted through Nagasena's preliminary notes, the numbers arranging themselves into patterns that suggested where to focus. "The inspector's methodology was sound—his staff cross-referenced transportation records against warehouse receipts." I spread the preliminary notes so Devaka could follow my reasoning. "The discrepancies cluster in seven warehouses, but the loss reports here show the largest variance."
+
+Devaka studied the figures, his merchant's eye moving across columns I had already memorized. "The loss rates are wrong for the season. Too consistent." His finger traced a line I had overlooked. "Someone is using a formula rather than actual counts."
+
+I had not seen it. The numbers had seemed plausible in isolation; only Devaka's pattern-sense revealed their artificiality.
+
+"Then we begin there," I said. "The formula will have a signature. Find the signature, find the forger."
 
 Devaka nodded, but a hesitation in the motion caught my attention—a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.
 
