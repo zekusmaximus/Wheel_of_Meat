@@ -259,72 +259,234 @@ The search arc itself becomes the primary vehicle for revealing Lilith's motivat
 
 ----
 
-### 2.3 Sharpen the Failure-to-Lesson Pipeline
+### 2.3 Establish Dual Continuity: Integrated Lessons + Trauma-Aversions
 
 **Priority:** HIGH
-**Source:** Report 2
+**Source:** Report 2, expanded through structural analysis
 **Status:** [ ] Not started
 
-**Problem:** The overcorrection cycle is brilliant but could be more explicit. Each incarnation's flaw should clearly stem from the previous death's trauma.
+**Problem:** The soul’s journey reads as a series of distinct episodes rather than a continuous arc. Each incarnation starts effectively at zero, with growth visible only at death. Readers don’t see accumulated wisdom *in action* within each life—they only see the current fetter. This makes the progression feel thematic (ten variations on attachment) rather than dramatic (one soul visibly approaching completion).
 
-**Implementation:**
+The original “overcorrection cycle” (trauma → aversion → defensive identity) creates backward-looking links between lives but doesn’t show forward momentum. Each avatar flees the previous death’s failure without demonstrating what was *gained*.
 
-- Dedicated revision pass through each life transition.
-- Make the *inexplicable aversion* physically felt, so each avatar's new identity is a rigid overcorrection to the previous death's failure mode. This is the karmic engine: each "lesson half-grasped" becomes the next life’s cage. Strengthen the soul’s exhaustion by making these aversions repeat and intensify until the eventual breakthrough.
+**The Dual-Continuity Solution:**
 
-#### Overcorrection Cycle Expansion (Ka → Silas)
+Each historical chapter must establish two forms of continuity:
 
-1. **Ka (Prehistory) → Chandra (Mauryan Empire)**
-   - **Previous Death Trauma:** Ka died in a "cave of cold," clutching "meat hard as rock" he refused to share while his tribe starved.
-   - **Overcorrection:** Chandra replaces personal greed with **impersonal imperial systems**.
-   - **Implementation/Aversion:** In Chapter 4, when Chandra stands on the platform, he feels a visceral revulsion at the crowd’s "irreducible noise"—a smell of sweat and fear that echoes a dark, crowded cave he can’t name. He should find comfort in **counting**, because numbers cannot be "hoarded" or "frozen" the way meat was.
+1. **Positive Continuity (Integrated Lessons):** The avatar *demonstrates* all previously-learned lessons in behavior before struggling with the current fetter. Chandra cooperates (Ka’s lesson) while failing at generosity. Philon cooperates AND gives generously while failing at wisdom. By Chapter 20, Jack demonstrates nine lifetimes of accumulated progress while struggling with his final identity-fetter.
+1. **Negative Continuity (Trauma-Aversions):** The avatar experiences inexplicable physical aversions rooted in the previous death’s trauma. These manifest as somatic reactions (nausea, headaches, flinching) rather than conscious memory. This is the original “overcorrection cycle”—retained as supplement, not replacement.
 
-2. **Chandra → Philon (Ancient Athens)**
-   - **Previous Death Trauma:** Chandra chose "paper over people," saving imperial ledgers while a woman and child burned.
-   - **Overcorrection:** Philon rejects the "arithmetic of mercy," focusing obsessively on the **one life** in front of him.
-   - **Implementation/Aversion:** Philon should feel **nausea** when magistrate Kallias mentions "prioritizing treatment" by status—a ledger-style calculation. He should flinch at the sight of counting jars or scrolls, viewing them as instruments of death that "see numbers instead of faces."
+**Why This Matters:**
 
-3. **Philon → Verinus (Ancient Rome)**
-   - **Previous Death Trauma:** Philon realized his "martyrdom" was egoism—he died for "the one" but left the "hundred" without a physician.
-   - **Overcorrection:** Verinus seeks a **framework for moral action** through Stoic reason and procedural investigation to avoid self-destructive emotionalism.
-   - **Implementation/Aversion:** Verinus feels an inexplicable disgust toward heroic plague-zone stories. When Marcus suggests he "listen to the emotion" of a witness, Verinus should feel **cold panic**, fearing he will "burn on a pyre he never chose" if he lets emotion in.
+- **For readers:** The soul visibly improves. Each life feels like a step forward, not a reset.
+- **For Lilith’s arc:** Her alarm becomes viscerally justified—she’s watching spiritual completion approach, not the same failure repeat.
+- **For agency moments (2.1):** Jean and Jack’s unexpected choices are earned—readers have seen the accumulated wisdom that enables them.
+- **For the success-horror (3.1):** Diego’s breaking destroys six lifetimes of visible progress, making the horror proportional to what was lost.
+- **For the teaching (3.3):** Chapter 26’s actions callback to lessons readers watched develop—no explanation needed.
 
-4. **Verinus → Macarius (Desert Father)**
-   - **Previous Death Trauma:** Verinus learned "virtue lives where certainty fails" but died with subtle pride in his own mastery.
-   - **Overcorrection:** Macarius seeks **purity of devotion** through absolute silence to avoid the "noise" of intellectual pride.
-   - **Implementation/Aversion:** Macarius should feel a headache when the Archdeacon’s refined, philosophical questions begin—associating them with the **steam of the caldarium** and Rome’s shadowed ambition. He should view books and scrolls as "traps for the soul" that once cost him his peace.
+-----
 
-5. **Macarius → Kaoru (Heian Japan)**
-   - **Previous Death Trauma:** Macarius realized his holiness was a performance and died with desperate animal longing for softness and color.
-   - **Overcorrection:** Kaoru immerses himself in **aesthetics**, pursuing things that do not decay or stink of the desert.
-   - **Implementation/Aversion:** Kaoru should shudder at sand, mud, or unglazed clay. He should obsessively seek **plum blossoms** and perfumes because "unadorned earth" or "dry fibers" tighten his chest with a memory of starvation dressed as virtue.
+#### Implementation: The Progression Matrix
 
-6. **Kaoru → Diego (Spanish Inquisition)**
-   - **Previous Death Trauma:** Kaoru learned that perfect beauty was a lie to hide rot; he must endure what is real.
-   - **Overcorrection:** Diego becomes a physician who finds safety in **usefulness** and clinical endurance of reality.
-   - **Implementation/Aversion:** Diego finds poetry and courtly manners physically irritating—cloying incense that hides sweet-rot. When he sees a beautiful woman like Sor Catalina, he should recoil instinctively, sensing her stillness as a predatory trap meant to freeze time.
+**Perfections and Fetters by Life:**
 
-7. **Diego → Jean (Renaissance France)**
-   - **Previous Death Trauma:** Diego was consumed by a "coal of hatred" after betrayal by his friend Tomás.
-   - **Overcorrection:** Jean becomes a **radical skeptic**, using doubt as a fortress to avoid the vulnerability of trust or conviction.
-   - **Implementation/Aversion:** Jean should feel an inexplicable **coldness** toward old friends or anyone asking for a sacred secret. When Father Sorbin mentions devotion, Jean should feel a phantom sensation of **smoke and yellow fabric** (the *sanbenito*), then retreat into a counting gesture to weigh the threat.
+|Ch|Avatar  |Perfection Developed      |Fetter Dissolved/Weakened    |
+|--|--------|--------------------------|-----------------------------|
+|2 |Ka      |Loving-kindness (Mettā)   |Identity view                |
+|4 |Chandra |Generosity (Dāna)         |Doubt in systems             |
+|6 |Philon  |Wisdom (Paññā)            |Attachment to rites/martyrdom|
+|8 |Verinus |Virtue (Sīla)             |Ill-will as resentment       |
+|10|Macarius|Renunciation (Nekkhamma)  |Spiritual pride              |
+|12|Kaoru   |Equanimity (Upekkhā)      |Sensual desire               |
+|14|Diego   |Patience (Khanti)         |Ill-will as hatred           |
+|16|Jean    |Truthfulness (Sacca)      |Doubt as avoidance           |
+|18|Wei     |Determination (Adhiṭṭhāna)|Outcome-attachment           |
+|20|Jack    |Energy (Viriya)           |Identity as “the helper”     |
 
-8. **Jean → Wei Shufen (Taiping Rebellion)**
-   - **Previous Death Trauma:** Jean realized purity of doubt was hiding and died asking what he could die for with conviction.
-   - **Overcorrection:** Wei finds a cause worth dying for and becomes an **obsessive medic**, determined to save every life.
-   - **Implementation/Aversion:** Wei should feel **fury** at anyone who says "I do not know" or "the evidence is inconclusive." When he sees a neutral official, his shoulder should ache (Jean’s old wound) and he should need to **count survivors** to prove action matters more than doubt.
+-----
 
-9. **Wei Shufen → Jack Malone (LA Noir)**
-   - **Previous Death Trauma:** Wei realized he was cursed—everyone he saved died anyway—but learned the trying matters.
-   - **Overcorrection:** Jack turns trying into a **pathological identity**, believing he is the only one who gives a damn in a city of looters.
-   - **Implementation/Aversion:** Jack should shudder at mass movements or heavenly-kingdom rhetoric. He should feel ill at the sight of "manna" (weeds) or rations, associating them with mass death he couldn’t prevent, and clutch his **individual case file** as the only real thing in the world.
+#### Implementation: Integrated Lessons by Life
 
-**Acceptance criteria:**
+For each historical chapter, add **2-3 scenes** where the avatar demonstrates all previously-learned lessons in behavior. The current fetter should be clearly *new*, not a repetition.
 
-- [ ] Each major incarnation has explicit reaction to previous failure
-- [ ] Reactions are shown as inexplicable aversions, not conscious knowledge
-- [ ] Pipeline creates sense of single continuous arc, not separate lessons
+**Chapter 4 (Chandra):**
 
+- **Demonstrates:** Cooperation (Ka’s lesson)
+- **Scenes required:** (1) Chandra coordinates with other administrators, shares information freely; (2) Defers to collective decision or supports colleague’s work
+- **Visible signal:** He’s not isolated; he functions within systems; information flows through him
+- **Current flaw (new):** Gives *systems* but not *self*; present in ledger, absent from suffering
+
+**Chapter 6 (Philon):**
+
+- **Demonstrates:** Cooperation + Generosity
+- **Scenes required:** (1) Works alongside other physicians, not competing; (2) Gives expertise to student without expectation
+- **Visible signal:** Cooperates AND gives freely—both lessons embodied
+- **Current flaw (new):** Martyrdom as ego; “the one was for me”
+
+**Chapter 8 (Verinus):**
+
+- **Demonstrates:** Cooperation + Generosity + Wisdom
+- **Scenes required:** (1) Shares credit with Marcus; (2) Gives time to witnesses regardless of status; (3) Sees multiple perspectives in contradictory testimony
+- **Visible signal:** Collaborative, generous, wise—but rigid about needing certainty
+- **Current flaw (new):** Can’t act without procedural purity; resentment at ambiguity
+
+**Chapter 10 (Macarius):**
+
+- **Demonstrates:** Cooperation + Generosity + Wisdom + Virtue
+- **Scenes required:** (1) Genuine collaboration with other monks; (2) Shares resources without calculation; (3) Contextual wisdom in counsel; (4) Virtuous action despite doctrinal uncertainty
+- **Visible signal:** Four lessons integrated; struggle is specifically performance of holiness
+- **Current flaw (new):** Renunciation needs audience; holiness as accumulation
+
+**Chapter 12 (Kaoru):**
+
+- **Demonstrates:** All five previous lessons
+- **Scenes required:** (1) Court cooperation; (2) Generous patronage without calculation; (3) Intellectually understands impermanence; (4) Virtuous treatment of lower ranks; (5) Moments of genuine (not performed) restraint
+- **Visible signal:** Five lessons embodied; struggle is attachment to beauty/form
+- **Current flaw (new):** Knows impermanence intellectually but can’t feel equanimity
+
+**Chapter 14 (Diego) — SUCCESS-HORROR CHAPTER:**
+
+- **Demonstrates:** All six previous lessons (critical for horror’s impact)
+- **Scenes required:** (1) Collaborative work with other physicians; (2) Heals regardless of payment; (3) Wise diagnosis seeing systemic patterns; (4) Virtuous action despite pressure (before breaking); (5) Genuine humility; (6) Equanimous acceptance of patient mortality
+- **Visible signal:** Six lifetimes of progress on display—*which Lilith destroys*
+- **Current flaw (new):** Cannot face injustice without hatred
+- **Success-horror enhancement:** When Diego breaks, readers feel the loss of accumulated progress. Lilith’s victory erases six lifetimes of growth. Horror is proportional to what was lost.
+- **Hidden seed:** Diego’s breaking produces patience anyway—through *endurance* of destruction, not triumph
+
+**Chapter 16 (Jean):**
+
+- **Demonstrates:** All seven previous lessons
+- **Agency moment:** Submits honest report despite cost
+- **Accumulated lesson accessed:** Verinus’s “virtue despite uncertainty”
+- **Foreshadowing:** Show Jean acting on incomplete evidence throughout, comfortable with ambiguity
+- **Current flaw (new):** Doubt as fortress; using uncertainty to avoid moral exposure
+
+**Chapter 18 (Wei):**
+
+- **Demonstrates:** All eight previous lessons
+- **Scenes required:** Show truthfulness with dying patients (Jean’s lesson), patience under siege conditions (Diego’s lesson), equanimity toward death (Kaoru’s lesson), etc.
+- **Current flaw (new):** Outcome-attachment; needs success to justify trying
+
+**Chapter 20 (Jack):**
+
+- **Demonstrates:** All nine previous lessons
+- **Agency moment:** Recognizes Lilith across incarnations; refuses her trap
+- **Accumulated lesson accessed:** Kaoru’s “seeing through aesthetic surface to rot beneath”
+- **Foreshadowing:** Show Jack noticing falseness in faces, mistrusting beauty that’s too polished
+- **Current flaw (new):** Pathological identity; “only one who gives a damn”
+
+-----
+
+#### Implementation: Trauma-Aversions (Negative Continuity)
+
+Retain the original overcorrection framework as *supplement* to positive continuity. Each avatar experiences inexplicable physical aversions rooted in the previous death:
+
+|Avatar  |Aversion Trigger                     |Physical Manifestation                       |Source                         |
+|--------|-------------------------------------|---------------------------------------------|-------------------------------|
+|Chandra |Chaos, crowds, “irreducible noise”   |Revulsion at sweat-smell; comfort in counting|Ka’s cave death                |
+|Philon  |Ledgers, arithmetic, “prioritizing”  |Nausea at magistrate’s triage logic          |Chandra’s paper-over-people    |
+|Verinus |Heroic martyrdom stories             |Cold panic when emotion threatens            |Philon’s self-destructive death|
+|Macarius|Philosophy, refined speech           |Headache at theological debate               |Verinus’s intellectual pride   |
+|Kaoru   |Sand, dry earth, unadorned surfaces  |Chest tightening                             |Macarius’s desert austerity    |
+|Diego   |Poetry, courtly beauty               |Irritation at “cloying incense”              |Kaoru’s frozen-beauty trap     |
+|Jean    |Old friends, sacred secrets          |Coldness; phantom smoke/yellow fabric        |Diego’s betrayal by Tomás      |
+|Wei     |“I don’t know,” inconclusive evidence|Fury; shoulder ache (Jean’s wound)           |Jean’s doubt-as-fortress       |
+|Jack    |Mass movements, heavenly rhetoric    |Nausea at rations; clutches case file        |Wei’s Taiping collapse         |
+
+**Implementation requirement:** Each historical chapter should include 1-2 moments where the trauma-aversion manifests physically. These are brief (1-3 sentences), presented as inexplicable sensation the avatar dismisses or cannot explain.
+
+-----
+
+#### Implementation: Lilith’s Observations (Revised)
+
+Lilith chapters must be revised so her observations track **increasing accumulated progress** alongside remaining flaws. Her current framing (“hoarding certainty” across all lives) undercuts the progression.
+
+**Revision requirement:** Each Lilith chapter should include observation of:
+
+1. **What’s complete (terrifying):** Which previous lessons this avatar has integrated
+1. **What remains (tactical):** The current fetter she can exploit
+
+**Alarm escalation across chapters:**
+
+|Lilith Ch    |Progress She Observes                                   |Her Alarm Level                             |
+|-------------|--------------------------------------------------------|--------------------------------------------|
+|3 (Ka)       |Raw consciousness, no integration yet                   |Low—confident                               |
+|5 (Chandra)  |Cooperation integrated                                  |Rising—first surprise                       |
+|7 (Philon)   |Two lessons integrated                                  |**PIVOT**—realizes backfires accelerate him |
+|9 (Verinus)  |Three lessons integrated                                |High—pattern undeniable                     |
+|11 (Macarius)|Four lessons integrated                                 |Higher—search intensifies                   |
+|13 (Kaoru)   |Five lessons integrated                                 |Very high—recognition moment                |
+|15 (Diego)   |Six lessons integrated                                  |**SUCCESS**—but horror at what she destroyed|
+|17 (Jean)    |Seven lessons (Diego’s patience intact despite breaking)|Near-panic—still progressing                |
+|19 (Wei)     |Eight lessons; all ten perfections accelerated          |Desperate—catastrophic backfire             |
+|21 (Jack)    |Nine lessons; *recognizes her across lives*             |Terminal—must find him NOW                  |
+
+**Sample revised observation (Chapter 11):**
+
+> *Current:* “Ka hoarding certainty in meat. Chandra hoarding certainty in outcomes. Philon hoarding certainty in teaching. Verinus hoarding certainty in precision.”
+
+> *Revised:* “Macarius wasn’t making Verinus’s mistake. The precision was gone, replaced by genuine stillness. He wasn’t making Philon’s mistake either—no martyr-posturing, no ego in renunciation. Even Chandra’s ledger-mind had dissolved; this one gave without counting. Four lifetimes of accumulated wisdom, visible in a single gesture of the weaving hands. The only fetter remaining: his holiness still needed witness.”
+
+-----
+
+#### Connection to Other Revision Tasks
+
+**Enhances 2.1 (Agency Moments):**
+
+- Jean’s agency draws on Verinus’s “virtue despite uncertainty”—foreshadow by showing Jean comfortable with ambiguity throughout chapter
+- Jack’s agency draws on Kaoru’s “seeing through surface to rot”—foreshadow by showing Jack noticing falseness in faces
+
+**Enhances 1.2 (Lilith’s Search Arc):**
+
+- Her alarm correlates to visible completion, not just different flaws
+- Add acceptance criterion: Lilith’s observations across Chapters 7-19 track increasing accumulated wisdom
+
+**Enhances 3.1 (Success-Horror):**
+
+- Diego’s breaking destroys six lifetimes of visible progress
+- Horror is proportional to what readers watched accumulate
+- Success still contains hidden backfire seed (patience through endurance)
+
+**Enables 3.3 (The Teaching):**
+
+- Chapter 26 teaching moments callback to specific accumulated lessons
+- No explanation needed—reader recognition earned through Act II
+
+-----
+
+#### Acceptance Criteria
+
+**For Historical Chapters:**
+
+- [ ] Chapter 4: 2+ scenes demonstrating cooperation (Ka’s lesson)
+- [ ] Chapter 6: 2+ scenes demonstrating cooperation + generosity
+- [ ] Chapter 8: 2+ scenes demonstrating cooperation + generosity + wisdom
+- [ ] Chapter 10: 2+ scenes demonstrating four integrated lessons
+- [ ] Chapter 12: 2+ scenes demonstrating five integrated lessons
+- [ ] Chapter 14: 3+ scenes demonstrating six integrated lessons (critical for success-horror)
+- [ ] Chapter 16: 2+ scenes demonstrating seven lessons; agency moment draws on Verinus
+- [ ] Chapter 18: 2+ scenes demonstrating eight integrated lessons
+- [ ] Chapter 20: 2+ scenes demonstrating nine lessons; agency moment draws on Kaoru
+- [ ] Each chapter includes 1-2 trauma-aversion moments (physical, brief, unexplained)
+- [ ] Current fetter is clearly new, not repetition of prior struggles
+
+**For Lilith Chapters:**
+
+- [ ] Observations revised to track increasing accumulated progress
+- [ ] Each observation notes both terror (improvement) and opportunity (remaining flaw)
+- [ ] Alarm level escalates appropriately across chapters
+- [ ] Chapter 11 “hoarding certainty” passage revised per sample
+- [ ] Chapter 15 frames success as destroying accumulated progress
+- [ ] Chapters 17, 19, 21 show agency moments triggering visible panic
+
+**For Chapter 26:**
+
+- [ ] Teaching moments callback to specific accumulated lessons (see 3.3)
+- [ ] Reader recognition earned through Act II—no explanation needed
+
+-----
+
+*This section supersedes the original “Sharpen the Failure-to-Lesson Pipeline” framing. The trauma-aversion element is retained but reframed as supplement to positive continuity rather than the primary connective mechanism.*
 -----
 
 ## TIER 3: Pacing & Voice Repairs
@@ -334,216 +496,93 @@ These changes address reading experience and narrative rhythm.
 ### 3.1 Add One Successful Intervention That Produces Horror
 
 **Priority:** MEDIUM  
-**Source:** Report 1's "break the formula" recommendation, refined  
+**Source:** Report 1’s “break the formula” recommendation, refined  
 **Status:** [ ] Not started
 
-**Problem:** Even with Lilith's search arc (1.2) and Silas's agency moments (2.1), the core historical rhythm persists: intervene → backfire → death-lesson. Readers need one outcome that breaks this pattern completely. The Tier 1-2 changes add variety in *her* activity and *his* resistance, but don't vary the *outcome* of intervention itself.
+**Problem:** Even with Lilith’s search arc (1.2) and Silas’s agency moments (2.1), the core historical rhythm persists: intervene → backfire → death-lesson. Readers need one outcome that breaks this pattern completely. The Tier 1-2 changes add variety in *her* activity and *his* resistance, but don’t vary the *outcome* of intervention itself.
 
-**Solution:** Chapter 14 (Diego de Mendoza, Inquisition Spain) is the ideal placement for a *successful* intervention that produces horror. The psychological horror genre of this chapter creates maximum synergy—Lilith's success becomes indistinguishable from the system's success in destroying him.
+**Solution:** Chapter 14 (Diego de Lucena, Inquisition Spain) is the ideal placement for a *successful* intervention that produces horror. The psychological horror genre of this chapter creates maximum synergy—Lilith’s success becomes indistinguishable from the system’s success in destroying him.
 
 **Placement Logic:**
 
-| Chapter Range | What Happens |
-|---------------|--------------|
-| 7 | Pivot: she realizes backfires accelerate him |
-| 8-12 | Backfire pattern continues—reader expects this rhythm |
-| **14** | **Success-horror: she wins, and winning is terrible** |
-| 16-18 | He exercises agency, recognizes her, fights back |
-| 19+ | She's losing on every front |
+|Chapter Range|What Happens                                         |
+|-------------|-----------------------------------------------------|
+|7            |Pivot: she realizes backfires accelerate him         |
+|8-12         |Backfire pattern continues—reader expects this rhythm|
+|**14**       |**Success-horror: she wins, and winning is terrible**|
+|16-18        |He exercises agency, recognizes her, fights back     |
+|19+          |She’s losing on every front                          |
 
-This sequence works because the reader has been conditioned by 6+ chapters of backfires. When Chapter 14 *doesn't* backfire, the pattern break is felt viscerally. The late placement also means Lilith has exhausted other approaches—this is her peak power (sustained vessel-steering), and the success reveals the horror of what she actually wanted.
+This sequence works because the reader has been conditioned by 6+ chapters of backfires. When Chapter 14 *doesn’t* backfire, the pattern break is felt viscerally. The late placement also means Lilith has exhausted other approaches—this is her peak power (sustained vessel-steering), and the success reveals the horror of what she actually wanted.
 
----
+**Integration with 2.3 (Dual Continuity):**
 
-## Foreshadowing the Horror: Chapter 8/9 Near-Miss
+The success-horror’s impact depends entirely on the integrated-lessons framework. Diego must *visibly demonstrate* six lifetimes of accumulated wisdom before his breaking:
 
-Before Chapter 14's full success, plant a seed in Chapter 8 (Verinus) and Chapter 9 (Lilith's perspective). The reader—and Lilith—should glimpse what *almost* happens when her approach works.
+|Lesson                 |How Diego Demonstrates It                   |What Lilith Destroys                           |
+|-----------------------|--------------------------------------------|-----------------------------------------------|
+|Cooperation (Ka)       |Works collaboratively with other physicians |Isolated by accusation                         |
+|Generosity (Chandra)   |Heals regardless of payment                 |Generosity reframed as “Judaizing”             |
+|Wisdom (Philon)        |Sees systemic patterns in diagnosis         |Wisdom becomes evidence of heresy              |
+|Virtue (Verinus)       |Acts ethically despite Inquisition pressure |Virtue insufficient against institutional power|
+|Renunciation (Macarius)|Genuine humility, not performed piety       |Humility indistinguishable from guilt          |
+|Equanimity (Kaoru)     |Accepts patient mortality without attachment|Equanimity shattered by injustice to self      |
 
-### The Near-Miss Beat (Chapter 8)
+**The horror is proportional to what was lost.** Readers who have watched six chapters of accumulating progress now watch Lilith erase it. Her victory feels like desecration.
 
-**Placement:** Scene 7 (tribunal judgment), when Verinus is about to deliver his verdict.
+**The Hidden Backfire Seed:**
 
-**What happens:**
+Diego’s breaking still produces the lesson—patience (khanti)—but through *endurance of destruction* rather than triumph. The mechanism:
 
-For one moment, Verinus *almost* breaks the wrong way:
+- Lilith succeeds in breaking his equanimity, his virtue, his wisdom-as-defense
+- What remains after everything is stripped: the capacity to endure without hatred
+- Diego releases ill-will not because he transcends injustice but because hatred requires energy he no longer has
+- The lesson crystallizes in the crucible of total loss
+- Lilith’s “success” still accelerates his progress—she just can’t see it
 
-- He stands in the tribunal, evidence spread before him, the senator waiting
-- The contradictions press against him: the impossible timeline, the unresolved testimonies, the woman no one will name
-- Something rises in his chest—cold, righteous, consuming. *Rage*.
-- He imagines condemning Philo. The words are in his mouth. The senator would approve. The case would close.
-- The rage feels *good*. It feels like certainty restored. The old framework, rebuilt on anger rather than evidence.
-- For a moment, he is about to speak those words.
+**Chapter 15 (Lilith’s Perspective) must show:**
 
-**Then—he sees Philo's hands trembling.**
+- Her registering the success—he broke, finally
+- The horror dawning: what she destroyed was beautiful
+- The hidden backfire invisible to her but visible to readers (his death-poem shows patience achieved)
+- Her rationalization: “This intervention worked. The next will be easier.”
+- The reader knowing: she’s wrong, and she’s damned herself further
 
-- The servant's fear. Not guilt—*terror*. The recognition hits like cold water.
-- He pulls back from the edge. Makes the compassionate choice instead.
-- But the rage doesn't vanish—he *suppresses* it. It lingers beneath the verdict.
+**Foreshadowing the Horror: Chapter 8/9 Near-Miss**
 
-**What this adds:**
+Before Chapter 14’s full success, plant a seed in Chapter 8 (Verinus) and Chapter 9 (Lilith’s perspective). The reader—and Lilith—should glimpse what *almost* happens when her approach works.
 
-- A flash of the path not taken—what Chapter 14 will fully walk
-- Psychological horror elements introduced before the horror-genre chapter
-- The reader feels danger even in a "backfire" chapter
+*The Near-Miss Beat (Chapter 8):*
 
----
+- Placement: Scene 7 (tribunal judgment), when Verinus is about to deliver his verdict
+- Lilith’s pressure nearly tips him toward rigid condemnation (his fetter)
+- For a moment, he almost becomes the system—cold, procedural, merciless
+- Then compassion breaks through; the near-miss fails
+- But readers (and Lilith) glimpsed what success would look like
 
-### Lilith's Recognition (Chapter 9)
+*Chapter 9 should include:*
 
-**Placement:** During or after her observation of the tribunal scene.
+- Lilith’s recognition that she almost had him
+- The thought: “Closer. I’m learning what works.”
+- This seeds her confidence going into Diego—she thinks she’s refined her technique
 
-**What she perceives:**
+**What to avoid:**
 
-- She felt it. The moment when Verinus's consciousness *tilted* toward what she wanted.
-- His rage was genuine—amplified by her pressure on the senator, yes, but arising from *him*.
-- Initial satisfaction: *There. Finally. He's ready to break.*
-- Then: he looked at the servant. Saw innocence. And chose differently.
+- Diego’s breaking feeling like villain-victory (it should feel like tragedy)
+- The hidden backfire being obvious to Lilith (she must believe she won)
+- Gratuitous suffering (psychological horror, not torture porn)
+- The lesson feeling cheap (patience through destruction must be earned)
 
-**The lesson she draws (incorrectly):**
+**Acceptance criteria:**
 
-- *The face undid him. The visible innocence gave him something to protect.*
-- *Next time, remove that. Don't let him see the innocent. Don't let him recognize what he's destroying.*
-- This is the seed of her Chapter 14 strategy: block the release, prevent the recognition.
-
-**What this adds:**
-
-- Lilith's ticking clock intensifies—she was *this close*
-- Her Chapter 14 strategy becomes motivated by what she learned here
-- The reader sees her tactical evolution, making her success feel earned (and thus more horrible)
-
----
-
-### Scene Additions Needed
-
-**Chapter 8:**
-
-| Scene | Addition |
-|-------|----------|
-| scene-07-judgment.md | Add 1-2 paragraphs: the rage moment before Verinus makes his choice. Show him *almost* condemning Philo, feeling the satisfaction of certainty-through-anger, then pulling back when he sees the trembling hands. |
-
-**Chapter 9:**
-
-| Scene | Addition |
-|-------|----------|
-| Tribunal observation | Add 1-2 paragraphs: Lilith's flash of satisfaction when she feels Verinus tilt toward rage, then her frustration when he chooses compassion. Her strategic recalculation: *the face undid him*. |
-
----
-
-## Implementation: The Inquisition as Success-Horror
-
-**Why Chapter 14 is ideal:**
-
-The Inquisition chapter is already structured around hatred as the spiritual test. Diego's arc asks: "Can he endure this without being consumed?" The *intended* ending has him releasing hatred and dying at peace—seeding the doubt-without-bitterness needed for the Renaissance skeptic.
-
-**The revision flips this:** Lilith succeeds in cultivating hatred. Diego dies consumed. The horror is total because it uses the genre's own machinery.
-
----
-
-### The Horror Mechanism: Identity Destruction
-
-**Lilith's intervention strategy:**
-
-Through Sor Catalina (her past incarnation as a beata/holy woman), Lilith has sustained vessel-steering capability. She uses this to:
-
-1. **Ensure Diego is denounced** — Not just arrested, but specifically accused by someone he helped, someone he saved. Betrayal from the community he served.
-
-2. **Poison his inner resistance** — Through Sor Catalina's positioned presence (visible through bars, attending his processing), Lilith creates the appearance of a witness who does nothing. Not an enemy—a bystander. The cruelty of indifference.
-
-3. **Feed the identity fracture** — The Inquisition already forces conversos to perform Catholic orthodoxy while suppressing heritage. Lilith ensures Diego's interrogation specifically targets this fracture, confronting him with evidence of his "secret Judaism" that he cannot refute (whether true or fabricated).
-
-4. **Block the release** — When Diego approaches the threshold of releasing hatred (the natural death-lesson beat), something intervenes. Perhaps Sor Catalina visits him in his cell, offering false comfort that curdles into manipulation. Perhaps a final betrayal—someone he forgave denounces him again.
-
-**The success:** Diego dies at the auto-de-fé consumed by hatred. Not defiant—broken. The system won. Lilith won.
-
----
-
-### What Horror Looks Like (Diego's POV)
-
-**The unbroken hatred:**
-
-- He goes to the fire not peacefully, but with clenched fists and grinding teeth
-- The priest's absolution means nothing—he cannot forgive, cannot release, cannot let go
-- His final thoughts are poison: *They deserve this. All of them. Every face in this crowd.*
-- The crystallizing death-lesson doesn't come. His consciousness dims into rage, not insight
-- The chapter ends with absence—no karmic bridge, no hunger carried forward. Just... ending.
-
-**Genre synergy elements:**
-
-- The paranoia-atmosphere remains—but now it's succeeded in destroying him
-- The procedural dread culminates—the bureaucratic precision of cruelty achieves its purpose
-- The identity-horror completes—he dies not as Diego, not as a secret Jew, but as the broken thing the system made him
-- The "institutional horror" theme reaches its logical conclusion: the system designed to destroy was designed well
-
----
-
-### What Horror Looks Like (Lilith's POV — Chapter 15)
-
-**Chapter 15 opens with Lilith's reaction:**
-
-The intervention worked. Diego died exactly as she designed—trapped in hatred, learning nothing, progressing nowhere. For the first time in countless lives, she actually stopped him.
-
-**The horror unfolds:**
-
-- Initial satisfaction: *Finally. This worked. He's no closer to enlightenment than he was a hundred lives ago.*
-- Then: the thread feels... different. Not severed, but thin. Colorless.
-- She follows it into his next incarnation and finds... less. The quality she's been tracking—the thing that draws her—is diminished.
-- Realization: his growth is what makes him *him*. She's been feeding on what she fights.
-- Deeper horror: *I don't want to stop him. I want to beat him. Those aren't the same.*
-- Visceral recoil she doesn't fully understand
-
-**Manchester aftermath (1-2 paragraphs):**
-
-She doesn't try this approach again. When the next incarnation presents opportunities for hatred-cultivation, she... can't. Returns to opposition. But something has shifted—she's seen what she doesn't want, even if she can't name it.
-
----
-
-### Specific Scene Revisions Needed
-
-**Chapter 14 (Diego's chapter):**
-
-| Scene | Current | Revised |
-|-------|---------|---------|
-| scene-08-release.md | Diego releases hatred, achieves peace | Diego fails to release hatred; dies in bitter rage |
-| scene-09-fire.md | Peaceful death with crystallizing insight | Hollow death with no insight; consciousness dims into rage |
-| Sor Catalina beats | Witness presence only | Active cultivation: positioned betrayal, false comfort, blocked release |
-
-**Chapter 15 (Lilith's chapter):**
-
-| Scene | Current | Revised |
-|-------|---------|---------|
-| Opening scene | Normal tracking aftermath | Extended horror-reaction: she won, and winning is terrible |
-| Throughout | Standard intervention pattern | Haunted by what she succeeded in doing; cannot repeat it |
-
----
-
-### What to Avoid
-
-- **Graphic torture focus** — The horror is psychological and spiritual, not physical. Diego's destruction is identity-level.
-- **Obvious villainy from Sor Catalina** — Lilith's vessel should seem helpful, sympathetic, even kind. The betrayal is subtle.
-- **Explaining the horror** — Show Lilith's recoil, don't analyze it. Let readers feel the wrongness.
-- **Weakening the standalone chapter** — Chapter 14 must work as a devastating Inquisition narrative even for readers who miss the meta-level.
-
----
-
-### Acceptance Criteria
-
-**Foreshadowing (Chapters 8/9):**
-
-- [ ] Chapter 8 scene-07 includes the near-miss beat: Verinus almost chooses rage, pulls back when he sees innocence
-- [ ] Chapter 9 includes Lilith's recognition: she was *this close*, and learns to remove the "face" next time
-
-**Success-Horror (Chapters 14/15):**
-
-- [ ] Chapter 14 ends with Diego dying consumed by hatred, no death-lesson crystallized
-- [ ] Lilith's intervention (via Sor Catalina) actively cultivates the hatred—not passive witness
-- [ ] The failure to release hatred feels earned, not artificial—system pressure + intervention combine
-- [ ] Genre conventions (paranoia, procedural dread, identity horror) culminate in the system *winning*
-- [ ] Chapter 15 opens with Lilith's horror-reaction to her success
-- [ ] Lilith recoils from the success without fully understanding why
-- [ ] The thread feels diminished after—his growth is what makes him him
-- [ ] Subsequent interventions feel like retreat rather than repetition
-- [ ] Both chapters work as standalone narratives
-
+- [ ] Chapter 14 demonstrates six integrated lessons before Diego’s breaking
+- [ ] Lilith’s success is unambiguous within the chapter—he breaks
+- [ ] Horror is proportional to accumulated progress destroyed
+- [ ] Hidden backfire seed planted: patience emerges through endurance
+- [ ] Chapter 15 shows Lilith registering success, then horror, then rationalization
+- [ ] Readers understand the backfire before Lilith does
+- [ ] Chapter 8/9 near-miss foreshadows without spoiling
+- [ ] Diego’s death-poem reveals lesson crystallized (visible to reader, not Lilith)
 -----
 
 ### 3.2 Expand the Silex/Lith Future Chapter
@@ -573,33 +612,85 @@ She doesn't try this approach again. When the next incarnation presents opportun
 
 -----
 
-### 3.3 Revise "The Teaching" Chapter
+### 3.3 Revise “The Teaching” (Chapter 26)
 
 **Priority:** MEDIUM
-**Source:** Report 1
+**Source:** Report 2
 **Status:** [ ] Not started
 
-**Problem:** The merged entity's message to villagers reads as sermon. Philosophy is stated, not demonstrated.
+**Problem:** The teaching in Chapter 26 is too expository. Philosophy is stated, not demonstrated. The entity speaks wisdom rather than embodying it.
+
+**Solution:** Replace philosophical speech with action that demonstrates accumulated lessons. Reader recognition—earned through Act II’s integrated-lessons framework—does the work that explanation currently attempts.
+
+**Integration with 2.3 (Dual Continuity):**
+
+The teaching scene becomes a callback structure. Each action the entity performs should evoke a specific lesson readers watched develop across ten lifetimes:
+
+|Teaching Moment                                    |Callback To                                                        |Reader Recognition                                              |
+|---------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|
+|Entity stays with dying elder without trying to fix|Jack’s “trying matters” + Wei’s “outcome-independent determination”|*This is what Jack learned, what Wei died knowing*              |
+|Entity gives without self-reference                |Chandra’s lesson completed                                         |*This is what Chandra couldn’t do—give self, not just resources*|
+|Entity acts under radical uncertainty              |Verinus’s lesson completed                                         |*This is what Verinus died learning—virtue without certainty*   |
+|Entity faces injustice without hatred              |Diego’s lesson completed                                           |*This is what Diego finally released in the flames*             |
+|Entity speaks truth without needing certainty      |Jean’s lesson completed                                            |*This is what Jean died for—truthfulness, not correctness*      |
+|Entity demonstrates beauty without attachment      |Kaoru’s lesson completed                                           |*This is what Kaoru glimpsed as the illusion dissolved*         |
+|Entity helps knowing it may fail                   |Wei’s lesson completed                                             |*This is what Wei understood—the trying is not nothing*         |
+|Entity renounces without performing renunciation   |Macarius’s lesson completed                                        |*This is what Macarius couldn’t do—genuine surrender*           |
+|Entity cooperates without losing self              |Ka’s lesson completed                                              |*This is where it began—isolation death, connection life*       |
 
 **Implementation:**
 
-- Cut or drastically reduce philosophical speech
-- Replace with scene where entity performs an act of profound connection:
-  - Option: Entity sits with dying elder and simply stays—entire lesson embodied in one wordless gesture
-  - Option: Entity does something impossibly simple that the villagers have been unable to do
-  - Option: Entity demonstrates "staying" by refusing to leave, teach, or improve—just being present
-- Let reader extrapolate the teaching from the action
+- Cut or drastically reduce philosophical speech (minimum 50% reduction)
+- Replace with scene where entity performs acts of profound, wordless connection
+- Each act should be simple enough to feel inevitable, specific enough to evoke callback
+- The villagers’ response demonstrates understanding without requiring explanation
 - Final line should be image, not statement
+
+**Structural option:**
+
+The entity doesn’t give a “teaching” at all. Instead:
+
+1. A crisis occurs in the village (illness, conflict, loss)
+1. The entity responds with action that embodies all ten perfections simultaneously
+1. The villagers witness and understand without words being exchanged
+1. The “teaching” is what they saw, not what they heard
+
+**What the entity might do:**
+
+- Sit with a dying elder through the night, neither hastening nor preventing death
+- Give something away that costs the entity nothing but means everything to the receiver
+- Tell a truth that could cause harm, accepting the consequences
+- Refuse to act when action would be self-serving, even when others demand it
+- Act when action seems futile, knowing it matters anyway
+
+**The prose requirement:**
+
+The teaching sections can have weight, rhythm, parallel construction—but should feel *unowned*. Not “I teach” but “teaching happens.” The tathagata voice speaks without claiming the speech:
+
+> “The wheel turns…”
+
+Not:
+
+> “I have seen the wheel turn…” or “We teach that the wheel turns…”
+
+**What to avoid:**
+
+- Listing the ten perfections explicitly
+- Having the entity explain what the villagers should understand
+- Callbacks that feel “cute” or forced (trust reader recognition)
+- Triumphalism—this isn’t victory, it’s seeing
+- Any Buddhist terminology (dharma, nirvana, etc.)
 
 **Acceptance criteria:**
 
 - [ ] Philosophical speech reduced by minimum 50%
 - [ ] Central act demonstrates rather than explains
+- [ ] At least 3 specific callbacks to accumulated lessons (recognizable to readers who completed Act II)
+- [ ] Callbacks are implicit—no character names, no “as I learned when…”
 - [ ] Reader understands teaching without being told
+- [ ] Tathagata voice: teaching happens without “I teach”
 - [ ] Ending lands on action/image, not declaration
-
------
-
+- [ ] Villagers’ response shows understanding achieved through witness, not explanation
 -----
 
 ## Quick Reference: Priority Matrix
