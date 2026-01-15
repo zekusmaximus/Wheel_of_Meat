@@ -1,6 +1,6 @@
 # Editorial Review: The Companionship
 
-## Scene: `scene-03-the-companionship.md`
+## Scene: `CH17-scene-03.md`
 
 ---
 

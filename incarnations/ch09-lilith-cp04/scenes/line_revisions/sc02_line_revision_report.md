@@ -1,6 +1,6 @@
 # Editorial Review: The Seeding
 
-## Scene: `scene-02-seeding.md`
+## Scene: `CH09-scene-02.md`
 
 ---
 

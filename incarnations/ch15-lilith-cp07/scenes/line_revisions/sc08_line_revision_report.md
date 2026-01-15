@@ -1,6 +1,6 @@
 # Editorial Review: The Seed
 
-## Scene: `scene-08-seed.md`
+## Scene: `CH15-scene-08.md`
 
 ---
 

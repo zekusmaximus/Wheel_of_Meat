@@ -44,8 +44,6 @@ She could work with that.
 
 The radiator in her flat had gone cold, or perhaps had always been cold. She could not remember when she had last adjusted it, or eaten, or spoken to anyone whose voice existed in the present rather than echoing through millennia. The flat held shapes that matched the cell. Stripped walls, minimal furniture, a stillness that had grown so complete she no longer registered she was maintaining it.
 
-Philosophy. Contemplative practice. The intersection of Eastern and Western traditions. The pattern pointed toward academia with increasing specificity, and her browser tabs had multiplied—Manchester, London, Edinburgh, the universities where such work might find a home. But the thread showed only ancient Egypt, only desert silence, only the hermit whose pride she meant to poison. The present remained hidden behind centuries of deaths she had not yet witnessed.
-
 *Another structure,* she observed. *Different shape. Same attachment.*
 
 The phrase formed itself with the clarity of certainty. This was familiar now: the recognition of a pattern, the identification of an intervention point, the confidence that she saw what the avatar could not see about himself.

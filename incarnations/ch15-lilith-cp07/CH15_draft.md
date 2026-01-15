@@ -69,6 +69,7 @@ But the filing felt less secure than filing usually felt, and somewhere beneath 
 
 She did not answer. The walls were already close enough.
 
+
 The thread pulled her deeper and the depth was a body she had already worn.
 
 Stone cold beneath sandals that were her sandals, had been her sandals, in a life she had lived before she understood that lives repeated. The shadow of San Bartolomé's western wall fell across grey habit, across folded hands, across the face that watched because watching was what it had always done.
@@ -119,6 +120,7 @@ The vessel's hands had been her hands. The vessel's certainty had been her certa
 
 The distance between watching and acting had never been as far as she pretended.
 
+
 The intervention was not Sor Catalina. Sor Catalina was completed action, archived certainty. The intervention was happening now, from this flat, through capabilities that did not require vessels.
 
 Lilith reached.
@@ -157,6 +159,7 @@ She pushed, and the walls of her flat pressed close, and somewhere beneath the p
 
 The question dissolved. The mug was cold in her hands. The intervention continued.
 
+
 The flat was too small.
 
 She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. tTe grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
@@ -188,6 +191,7 @@ But the memory lingered: open sky, wet stone, the possibility of something other
 The flat pressed close. The flat was too small.
 
 And he was somewhere. Present tense. Reachable.
+
 
 Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste, Frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
 
@@ -224,6 +228,7 @@ Because she could not stop watching him.
 The admission dissolved before it could complete. But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
 
 And she did not know whose tightness it was.
+
 
 Morning broke over the plaza and the plaza was full.
 
@@ -320,6 +325,7 @@ She lost the thread as it acceleratated past her, burning brighter than the fire
 She was supposed to slow him down.
 
 He was speeding up.
+
 
 Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked because the life she was tracking had just burned her strategy to ash.
 

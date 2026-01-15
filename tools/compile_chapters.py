@@ -10,8 +10,8 @@ import re
 from pathlib import Path
 
 def get_scene_number(filename):
-    """Extract the scene number from filename like 'scene-01-name.md'"""
-    match = re.match(r'scene-(\d+)', filename)
+    """Extract the scene number from filename like 'CH01-scene-01.md'"""
+    match = re.match(r'CH\d+-scene-(\d+)', filename)
     if match:
         return int(match.group(1))
     return 999  # Put non-matching files at the end
@@ -65,7 +65,7 @@ def compile_chapter(chapter_dir):
 
 def main():
     # Get the incarnations directory
-    base_dir = Path('/home/user/Wheel_of_Meat/incarnations')
+    base_dir = Path(__file__).parent.parent / 'incarnations'
 
     if not base_dir.exists():
         print(f"ERROR: Directory not found: {base_dir}")

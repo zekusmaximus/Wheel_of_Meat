@@ -1,6 +1,6 @@
 # Editorial Review: The Temptation
 
-## Scene: `scene-05-the-temptation.md`
+## Scene: `CH17-scene-05.md`
 
 ---
 

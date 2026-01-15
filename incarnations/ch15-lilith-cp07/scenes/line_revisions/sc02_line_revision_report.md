@@ -1,6 +1,6 @@
 # Editorial Review: The Pattern
 
-## Scene: `scene-02-pattern.md`
+## Scene: `CH15-scene-02.md`
 
 ---
 

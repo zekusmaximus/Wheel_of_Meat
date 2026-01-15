@@ -48,8 +48,6 @@ The rain against her window drummed harder now, or softer. She could not say whi
 
 *I see what went wrong with Philon. I'll correct.*
 
-The thread crawled forward through imperial Rome while her laptop glowed in the flat's corner—faculty directories she'd begun checking, philosophy departments at universities she'd begun mapping, the conventional search that had no thread to follow. Academia. The pattern suggested academia. But the thread wouldn't tell her where, only what, and the what was accelerating faster than her tracing could follow.
-
 The phrase formed itself with the clarity of not the old certainty, the rigid kind she was tracking in Verinus, but something she believed was refinement. Adjustment. The calibration that would make this intervention succeed where Athens had failed.
 
 She did not notice that refinement was its own kind of rigidity. She was already leaning deeper into the thread, already feeling for the pressure points, already certain that precision was the answer to a question she had not yet learned to ask.

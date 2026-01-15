@@ -1,6 +1,6 @@
 # Editorial Review: Thread Forward
 
-## Scene: `scene-04-thread-forward.md`
+## Scene: `CH03-scene-04.md`
 
 ---
 

@@ -1,6 +1,6 @@
 # Editorial Review: Paramedics
 
-## Scene: `scene-03-paramedics.md`
+## Scene: `CH22-scene-03.md`
 
 ---
 

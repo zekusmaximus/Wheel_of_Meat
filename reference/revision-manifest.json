@@ -20,7 +20,7 @@
       "type": "contemporary",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-sunset-bedroom.md": {
+        "CH01-scene-01.md": {
           "word_count": 850,
           "status": "needs_revision",
           "passes_complete": [],
@@ -34,7 +34,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-campus-morning.md": {
+        "CH01-scene-02.md": {
           "word_count": 400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -48,7 +48,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-lecture-hall.md": {
+        "CH01-scene-03.md": {
           "word_count": 1100,
           "status": "needs_revision",
           "passes_complete": [],
@@ -62,7 +62,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-hallway-aftermath.md": {
+        "CH01-scene-04.md": {
           "word_count": 850,
           "status": "needs_revision",
           "passes_complete": [],
@@ -76,7 +76,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-faculty-meeting.md": {
+        "CH01-scene-05.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -90,7 +90,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-university-green.md": {
+        "CH01-scene-06.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -104,7 +104,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-apartment-meditation.md": {
+        "CH01-scene-07.md": {
           "word_count": 700,
           "status": "needs_revision",
           "passes_complete": [],
@@ -118,7 +118,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-the-drive.md": {
+        "CH01-scene-08.md": {
           "word_count": 2800,
           "status": "needs_revision",
           "passes_complete": [],
@@ -132,7 +132,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-rooftop-climax.md": {
+        "CH01-scene-09.md": {
           "word_count": 3800,
           "status": "needs_revision",
           "passes_complete": [],
@@ -153,7 +153,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-blood-wake.md": {
+        "CH02-scene-01.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -167,7 +167,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-strange-hunters.md": {
+        "CH02-scene-02.md": {
           "word_count": 1100,
           "status": "needs_revision",
           "passes_complete": [],
@@ -181,7 +181,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-alone-hunt.md": {
+        "CH02-scene-03.md": {
           "word_count": 1200,
           "status": "needs_revision",
           "passes_complete": [],
@@ -195,7 +195,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-dog-pack.md": {
+        "CH02-scene-04.md": {
           "word_count": 1400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -209,7 +209,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-cat-attack.md": {
+        "CH02-scene-05.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -223,7 +223,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-tribe-saves-ka.md": {
+        "CH02-scene-06.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -237,7 +237,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-learning-together.md": {
+        "CH02-scene-07.md": {
           "word_count": 900,
           "status": "needs_revision",
           "passes_complete": [],
@@ -251,7 +251,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-hoarding-death.md": {
+        "CH02-scene-08.md": {
           "word_count": 1400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -272,7 +272,7 @@
       "type": "lilith_contemporary",
       "status": "revised",
       "scenes": {
-        "scene-01-discovery.md": {
+        "CH03-scene-01.md": {
           "word_count": 750,
           "status": "revision_complete",
           "passes_complete": [
@@ -286,7 +286,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-02-hoarding.md": {
+        "CH03-scene-02.md": {
           "word_count": 850,
           "status": "revision_complete",
           "passes_complete": [
@@ -300,7 +300,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-03-ka-death.md": {
+        "CH03-scene-03.md": {
           "word_count": 600,
           "status": "revision_complete",
           "passes_complete": [
@@ -314,7 +314,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-04-thread-forward.md": {
+        "CH03-scene-04.md": {
           "word_count": 700,
           "status": "revision_complete",
           "passes_complete": [
@@ -335,7 +335,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-pillar-ceremony.md": {
+        "CH04-scene-01.md": {
           "word_count": 2400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -349,7 +349,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-assignment.md": {
+        "CH04-scene-02.md": {
           "word_count": 1800,
           "status": "needs_revision",
           "passes_complete": [],
@@ -363,7 +363,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-warehouse-inspection.md": {
+        "CH04-scene-03.md": {
           "word_count": 2400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -377,7 +377,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-interrogation.md": {
+        "CH04-scene-04.md": {
           "word_count": 2600,
           "status": "needs_revision",
           "passes_complete": [],
@@ -391,7 +391,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-covert-investigation.md": {
+        "CH04-scene-05.md": {
           "word_count": 3400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -405,7 +405,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-temple-betrayal.md": {
+        "CH04-scene-06.md": {
           "word_count": 2200,
           "status": "needs_revision",
           "passes_complete": [],
@@ -419,7 +419,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-the-fire.md": {
+        "CH04-scene-07.md": {
           "word_count": 3200,
           "status": "needs_revision",
           "passes_complete": [],
@@ -433,7 +433,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-ledgers-reckoning.md": {
+        "CH04-scene-08.md": {
           "word_count": 3600,
           "status": "needs_revision",
           "passes_complete": [],
@@ -454,7 +454,7 @@
       "type": "lilith_contemporary",
       "status": "revised",
       "scenes": {
-        "scene-01-ledger-bleeds.md": {
+        "CH05-scene-01.md": {
           "word_count": 650,
           "status": "revision_complete",
           "passes_complete": [
@@ -468,7 +468,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-02-intervention.md": {
+        "CH05-scene-02.md": {
           "word_count": 800,
           "status": "revision_complete",
           "passes_complete": [
@@ -482,7 +482,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-03-watching.md": {
+        "CH05-scene-03.md": {
           "word_count": 620,
           "status": "revision_complete",
           "passes_complete": [
@@ -496,7 +496,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-04-rationalization.md": {
+        "CH05-scene-04.md": {
           "word_count": 580,
           "status": "revision_complete",
           "passes_complete": [
@@ -517,7 +517,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-prologos.md": {
+        "CH06-scene-01.md": {
           "word_count": 1450,
           "status": "needs_revision",
           "passes_complete": [],
@@ -531,7 +531,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-parodos.md": {
+        "CH06-scene-02.md": {
           "word_count": 900,
           "status": "needs_revision",
           "passes_complete": [],
@@ -545,7 +545,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-first-episode.md": {
+        "CH06-scene-03.md": {
           "word_count": 1550,
           "status": "needs_revision",
           "passes_complete": [],
@@ -559,7 +559,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-first-stasimon.md": {
+        "CH06-scene-04.md": {
           "word_count": 510,
           "status": "needs_revision",
           "passes_complete": [],
@@ -573,7 +573,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-second-episode.md": {
+        "CH06-scene-05.md": {
           "word_count": 1680,
           "status": "needs_revision",
           "passes_complete": [],
@@ -587,7 +587,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-second-stasimon.md": {
+        "CH06-scene-06.md": {
           "word_count": 520,
           "status": "needs_revision",
           "passes_complete": [],
@@ -601,7 +601,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-third-episode.md": {
+        "CH06-scene-07.md": {
           "word_count": 1520,
           "status": "needs_revision",
           "passes_complete": [],
@@ -615,7 +615,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-kommos.md": {
+        "CH06-scene-08.md": {
           "word_count": 1010,
           "status": "needs_revision",
           "passes_complete": [],
@@ -629,7 +629,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-exodus.md": {
+        "CH06-scene-09.md": {
           "word_count": 739,
           "status": "needs_revision",
           "passes_complete": [],
@@ -650,7 +650,7 @@
       "type": "lilith_contemporary",
       "status": "revised",
       "scenes": {
-        "scene-01-thread-shifts.md": {
+        "CH07-scene-01.md": {
           "word_count": 580,
           "status": "revision_complete",
           "passes_complete": [
@@ -664,7 +664,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-02-dream-walker.md": {
+        "CH07-scene-02.md": {
           "word_count": 780,
           "status": "revision_complete",
           "passes_complete": [
@@ -678,7 +678,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-03-compulsion.md": {
+        "CH07-scene-03.md": {
           "word_count": 690,
           "status": "revision_complete",
           "passes_complete": [
@@ -692,7 +692,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-04-wheel-turns.md": {
+        "CH07-scene-04.md": {
           "word_count": 950,
           "status": "revision_complete",
           "passes_complete": [
@@ -713,7 +713,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-baths.md": {
+        "CH08-scene-01.md": {
           "word_count": 764,
           "status": "needs_revision",
           "passes_complete": [],
@@ -727,7 +727,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-case-assigned.md": {
+        "CH08-scene-02.md": {
           "word_count": 932,
           "status": "needs_revision",
           "passes_complete": [],
@@ -741,7 +741,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-testimonies.md": {
+        "CH08-scene-03.md": {
           "word_count": 1381,
           "status": "needs_revision",
           "passes_complete": [],
@@ -755,7 +755,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-stoic-debate.md": {
+        "CH08-scene-04.md": {
           "word_count": 1009,
           "status": "needs_revision",
           "passes_complete": [],
@@ -769,7 +769,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-collapse.md": {
+        "CH08-scene-05.md": {
           "word_count": 1103,
           "status": "needs_revision",
           "passes_complete": [],
@@ -783,7 +783,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-vulnerable-witness.md": {
+        "CH08-scene-06.md": {
           "word_count": 981,
           "status": "needs_revision",
           "passes_complete": [],
@@ -797,7 +797,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-judgment.md": {
+        "CH08-scene-07.md": {
           "word_count": 1406,
           "status": "needs_revision",
           "passes_complete": [],
@@ -811,7 +811,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-exile.md": {
+        "CH08-scene-08.md": {
           "word_count": 1001,
           "status": "needs_revision",
           "passes_complete": [],
@@ -825,7 +825,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-death.md": {
+        "CH08-scene-09.md": {
           "word_count": 650,
           "status": "needs_revision",
           "passes_complete": [],
@@ -852,7 +852,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-cell.md": {
+        "CH10-scene-01.md": {
           "word_count": 1224,
           "status": "needs_revision",
           "passes_complete": [],
@@ -866,7 +866,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-deference.md": {
+        "CH10-scene-02.md": {
           "word_count": 1368,
           "status": "needs_revision",
           "passes_complete": [],
@@ -880,7 +880,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-arrival.md": {
+        "CH10-scene-03.md": {
           "word_count": 1504,
           "status": "needs_revision",
           "passes_complete": [],
@@ -894,7 +894,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-interview.md": {
+        "CH10-scene-04.md": {
           "word_count": 1647,
           "status": "needs_revision",
           "passes_complete": [],
@@ -908,7 +908,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-first-crack.md": {
+        "CH10-scene-05.md": {
           "word_count": 1333,
           "status": "needs_revision",
           "passes_complete": [],
@@ -922,7 +922,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-recognition.md": {
+        "CH10-scene-06.md": {
           "word_count": 1367,
           "status": "needs_revision",
           "passes_complete": [],
@@ -936,7 +936,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-tasting.md": {
+        "CH10-scene-07.md": {
           "word_count": 1761,
           "status": "needs_revision",
           "passes_complete": [],
@@ -950,7 +950,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-collapse.md": {
+        "CH10-scene-08.md": {
           "word_count": 1555,
           "status": "needs_revision",
           "passes_complete": [],
@@ -964,7 +964,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-death.md": {
+        "CH08-scene-09.md": {
           "word_count": 1819,
           "status": "needs_revision",
           "passes_complete": [],
@@ -991,7 +991,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-arrival.md": {
+        "CH12-scene-01.md": {
           "word_count": 1430,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1005,7 +1005,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-voice-behind-screen.md": {
+        "CH12-scene-02.md": {
           "word_count": 1180,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1019,7 +1019,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-stagnant-garden.md": {
+        "CH12-scene-03.md": {
           "word_count": 1340,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1033,7 +1033,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-glimpse.md": {
+        "CH12-scene-04.md": {
           "word_count": 1130,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1047,7 +1047,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-typhoon.md": {
+        "CH12-scene-05.md": {
           "word_count": 1680,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1061,7 +1061,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-morning.md": {
+        "CH12-scene-06.md": {
           "word_count": 1280,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1082,7 +1082,7 @@
       "type": "lilith_contemporary",
       "status": "revised",
       "scenes": {
-        "scene-01-shift.md": {
+        "CH09-scene-01.md": {
           "word_count": 420,
           "status": "revision_complete",
           "passes_complete": [
@@ -1096,7 +1096,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-02-residue.md": {
+        "CH13-scene-02.md": {
           "word_count": 500,
           "status": "revision_complete",
           "passes_complete": [
@@ -1110,7 +1110,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-03-walk.md": {
+        "CH13-scene-03.md": {
           "word_count": 600,
           "status": "revision_complete",
           "passes_complete": [
@@ -1124,7 +1124,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-04-backfire.md": {
+        "CH13-scene-04.md": {
           "word_count": 560,
           "status": "revision_complete",
           "passes_complete": [
@@ -1159,7 +1159,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-performance.md": {
+        "CH14-scene-01.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1173,7 +1173,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-holy-woman.md": {
+        "CH14-scene-02.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1187,7 +1187,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-knock.md": {
+        "CH14-scene-03.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1201,7 +1201,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-processing.md": {
+        "CH14-scene-04.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1215,7 +1215,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-source.md": {
+        "CH14-scene-05.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1229,7 +1229,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-interrogation.md": {
+        "CH14-scene-06.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1243,7 +1243,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-healers-burden.md": {
+        "CH14-scene-07.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1257,7 +1257,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-release.md": {
+        "CH14-scene-08.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1271,7 +1271,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-fire.md": {
+        "CH14-scene-09.md": {
           "word_count": 0,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1313,7 +1313,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-assignment.md": {
+        "CH16-scene-01.md": {
           "word_count": 1196,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1327,7 +1327,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-witnesses.md": {
+        "CH16-scene-02.md": {
           "word_count": 1457,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1341,7 +1341,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-ambush.md": {
+        "CH16-scene-03.md": {
           "word_count": 1191,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1355,7 +1355,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-printers-widow.md": {
+        "CH16-scene-04.md": {
           "word_count": 1493,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1369,7 +1369,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-document.md": {
+        "CH16-scene-05.md": {
           "word_count": 1563,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1383,7 +1383,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-ball.md": {
+        "CH16-scene-06.md": {
           "word_count": 1651,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1397,7 +1397,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-temptation.md": {
+        "CH16-scene-07.md": {
           "word_count": 1756,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1411,7 +1411,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-report.md": {
+        "CH16-scene-08.md": {
           "word_count": 1480,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1425,7 +1425,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-road.md": {
+        "CH16-scene-09.md": {
           "word_count": 1759,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1467,7 +1467,7 @@
       "type": "historical",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-arithmetic.md": {
+        "CH18-scene-01.md": {
           "word_count": 1458,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1481,7 +1481,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-first-fracture.md": {
+        "CH18-scene-02.md": {
           "word_count": 1587,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1495,7 +1495,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-doctrine.md": {
+        "CH18-scene-03.md": {
           "word_count": 1728,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1509,7 +1509,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-pattern.md": {
+        "CH18-scene-04.md": {
           "word_count": 1982,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1523,7 +1523,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-manna.md": {
+        "CH18-scene-05.md": {
           "word_count": 1858,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1537,7 +1537,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-king-dead.md": {
+        "CH18-scene-06.md": {
           "word_count": 1924,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1551,7 +1551,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-walls-break.md": {
+        "CH18-scene-07.md": {
           "word_count": 1652,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1565,7 +1565,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-ledger-closes.md": {
+        "CH18-scene-08.md": {
           "word_count": 1502,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1628,7 +1628,7 @@
       "type": "lilith_contemporary",
       "status": "revised",
       "scenes": {
-        "scene-01-loose-weave.md": {
+        "CH21-scene-01.md": {
           "word_count": 520,
           "status": "revision_complete",
           "passes_complete": [
@@ -1642,7 +1642,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-02-tightening.md": {
+        "CH21-scene-02.md": {
           "word_count": 680,
           "status": "revision_complete",
           "passes_complete": [
@@ -1656,7 +1656,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-03-the-flood.md": {
+        "CH21-scene-03.md": {
           "word_count": 850,
           "status": "revision_complete",
           "passes_complete": [
@@ -1670,7 +1670,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-04-death-sighting.md": {
+        "CH21-scene-04.md": {
           "word_count": 900,
           "status": "revision_complete",
           "passes_complete": [
@@ -1684,7 +1684,7 @@
           "last_revised": "2026-01-02",
           "notes": "Revised during Lilith arc overhaul"
         },
-        "scene-05-the-pivot.md": {
+        "CH21-scene-05.md": {
           "word_count": 750,
           "status": "revision_complete",
           "passes_complete": [
@@ -1705,7 +1705,7 @@
       "type": "contemporary",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-the-chain.md": {
+        "CH22-scene-01.md": {
           "word_count": 2400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1719,7 +1719,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-aftermath.md": {
+        "CH22-scene-02.md": {
           "word_count": 800,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1733,7 +1733,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-paramedics.md": {
+        "CH22-scene-03.md": {
           "word_count": 600,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1747,7 +1747,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-silas-alone.md": {
+        "CH22-scene-04.md": {
           "word_count": 800,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1761,7 +1761,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-wakes-home.md": {
+        "CH22-scene-05.md": {
           "word_count": 1100,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1775,7 +1775,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-06-past-lives.md": {
+        "CH22-scene-06.md": {
           "word_count": 1500,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1789,7 +1789,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-07-he-sees-her.md": {
+        "CH22-scene-07.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1803,7 +1803,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-08-connection-sensed.md": {
+        "CH22-scene-08.md": {
           "word_count": 750,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1817,7 +1817,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-09-door-opens.md": {
+        "CH22-scene-09.md": {
           "word_count": 900,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1838,7 +1838,7 @@
       "type": "cosmic",
       "status": "needs_revision",
       "scenes": {
-        "scene-01-arrival.md": {
+        "CH12-scene-01.md": {
           "word_count": 1300,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1852,7 +1852,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-02-garden-of-delights.md": {
+        "CH23-scene-02.md": {
           "word_count": 1400,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1866,7 +1866,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-03-the-other-thread.md": {
+        "CH23-scene-03.md": {
           "word_count": 1600,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1880,7 +1880,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-04-ill-will-dissolves.md": {
+        "CH23-scene-04.md": {
           "word_count": 1200,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1894,7 +1894,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "scene-05-threshold-forward.md": {
+        "CH23-scene-05.md": {
           "word_count": 1600,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1915,7 +1915,7 @@
       "type": "cosmic",
       "status": "needs_revision",
       "scenes": {
-        "incarnations/ch24-future-prophet/scenes/scene-01-condensation.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-01.md": {
           "word_count": 1100,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1929,7 +1929,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-02-formation.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-02.md": {
           "word_count": 950,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1943,7 +1943,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-03-heresy.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-03.md": {
           "word_count": 1050,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1957,7 +1957,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-04-recognition.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-04.md": {
           "word_count": 1500,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1971,7 +1971,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-05-working.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-05.md": {
           "word_count": 1150,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1985,7 +1985,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-06-response.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-06.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],
@@ -1999,7 +1999,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-07.md": {
           "word_count": 1150,
           "status": "needs_revision",
           "passes_complete": [],
@@ -2013,7 +2013,7 @@
           "last_revised": null,
           "notes": ""
         },
-        "incarnations/ch24-future-prophet/scenes/scene-08-death-yearning.md": {
+        "incarnations/ch24-future-prophet/scenes/CH24-scene-08.md": {
           "word_count": 1000,
           "status": "needs_revision",
           "passes_complete": [],

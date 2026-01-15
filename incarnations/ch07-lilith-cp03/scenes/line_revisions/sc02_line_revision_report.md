@@ -1,6 +1,6 @@
 # Editorial Review: The Dream-Walker
 
-## Scene: `scene-02-dream-walker.md`
+## Scene: `CH07-scene-02.md`
 
 ---
 

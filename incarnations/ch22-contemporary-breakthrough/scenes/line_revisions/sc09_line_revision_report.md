@@ -1,6 +1,6 @@
 # Editorial Review: Door Opens
 
-## Scene: `scene-09-door-opens.md`
+## Scene: `CH22-scene-09.md`
 
 ---
 

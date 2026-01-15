@@ -1,6 +1,6 @@
 # Editorial Review: The Death
 
-## Scene: `scene-07-the-death.md`
+## Scene: `CH17-scene-07.md`
 
 ---
 

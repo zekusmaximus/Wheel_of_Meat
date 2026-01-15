@@ -12,10 +12,10 @@
 | Document | Purpose | Location |
 |----------|---------|----------|
 | **notes.md** | Brainstorm decisions, thematic content, teaching examples | `./notes.md` |
-| **Ch25 Coda** | Where this chapter picks up (eyes opening in village) | `../ch25-space-explorer/scenes/scene-05-coda.md` |
-| **Ch1 Opening** | Echo source: sunset bedroom, "warning colors," mantra | `../ch01-contemporary-manchester/scenes/scene-01-sunset-bedroom.md` |
-| **Ch1 Rooftop** | Echo source: Stewart's question, "Tat tvam asi" | `../ch01-contemporary-manchester/scenes/scene-09-rooftop-climax.md` |
-| **Ch22 Chain** | Echo source: three-body chain, stream-entry | `../ch22-contemporary-breakthrough/scenes/scene-01-the-chain.md` |
+| **Ch25 Coda** | Where this chapter picks up (eyes opening in village) | `../ch25-space-explorer/scenes/CH25-scene-05.md` |
+| **Ch1 Opening** | Echo source: sunset bedroom, "warning colors," mantra | `../ch01-contemporary-manchester/scenes/CH01-scene-01.md` |
+| **Ch1 Rooftop** | Echo source: Stewart's question, "Tat tvam asi" | `../ch01-contemporary-manchester/scenes/CH01-scene-09.md` |
+| **Ch22 Chain** | Echo source: three-body chain, stream-entry | `../ch22-contemporary-breakthrough/scenes/CH22-scene-01.md` |
 | **lilith-arc-bible.md** | Merger resolution, emotional arc | `../../meta/lilith-arc-bible.md` |
 | **style-rules.md** | Universal prose constraints | `../../reference/style-rules.md` |
 

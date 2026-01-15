@@ -1,6 +1,6 @@
 # Editorial Review: The Push
 
-## Scene: `scene-04-push.md`
+## Scene: `CH15-scene-04.md`
 
 ---
 

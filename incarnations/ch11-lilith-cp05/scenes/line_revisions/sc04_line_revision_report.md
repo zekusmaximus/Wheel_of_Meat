@@ -1,6 +1,6 @@
 # Editorial Review: The Gathering
 
-## Scene: `scene-04-gathering.md`
+## Scene: `CH11-scene-04.md`
 
 ---
 

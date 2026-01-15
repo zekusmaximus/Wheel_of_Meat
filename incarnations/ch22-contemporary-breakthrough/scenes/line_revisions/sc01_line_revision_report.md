@@ -1,6 +1,6 @@
 # Editorial Review: The Chain
 
-## Scene: `scene-01-the-chain.md`
+## Scene: `CH22-scene-01.md`
 
 ---
 

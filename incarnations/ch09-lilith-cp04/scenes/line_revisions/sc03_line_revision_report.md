@@ -1,6 +1,6 @@
 # Editorial Review: The Complaint
 
-## Scene: `scene-03-complaint.md`
+## Scene: `CH09-scene-03.md`
 
 ---
 

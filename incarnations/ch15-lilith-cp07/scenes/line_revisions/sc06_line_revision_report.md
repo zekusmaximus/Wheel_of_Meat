@@ -1,6 +1,6 @@
 # Editorial Review: The Chamber
 
-## Scene: `scene-06-chamber.md`
+## Scene: `CH15-scene-06.md`
 
 ---
 

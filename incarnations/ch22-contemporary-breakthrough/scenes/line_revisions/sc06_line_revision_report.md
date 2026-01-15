@@ -1,6 +1,6 @@
 # Editorial Review: Past Lives
 
-## Scene: `scene-06-past-lives.md`
+## Scene: `CH22-scene-06.md`
 
 ---
 

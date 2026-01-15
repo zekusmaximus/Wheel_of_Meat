@@ -1,6 +1,6 @@
 # Editorial Review: The Ledger Bleeds
 
-## Scene: `scene-01-ledger-bleeds.md`
+## Scene: `CH05-scene-01.md`
 
 ---
 

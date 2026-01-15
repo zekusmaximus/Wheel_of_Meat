@@ -1,6 +1,6 @@
 # Editorial Review: The Compulsion
 
-## Scene: `scene-03-compulsion.md`
+## Scene: `CH07-scene-03.md`
 
 ---
 

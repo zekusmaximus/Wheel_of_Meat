@@ -1,6 +1,6 @@
 # Editorial Review: The Walk
 
-## Scene: `scene-03-walk.md`
+## Scene: `CH13-scene-03.md`
 
 ---
 

@@ -98,63 +98,63 @@
         {
           "section": "I",
           "title": "The Sunset",
-          "file": "scene-01-sunset-bedroom.md",
+          "file": "CH01-scene-01.md",
           "word_count": 850,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "Campus Morning",
-          "file": "scene-02-campus-morning.md",
+          "file": "CH01-scene-02.md",
           "word_count": 400,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "The Lecture Hall",
-          "file": "scene-03-lecture-hall.md",
+          "file": "CH01-scene-03.md",
           "word_count": 1100,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Hallway",
-          "file": "scene-04-hallway-aftermath.md",
+          "file": "CH01-scene-04.md",
           "word_count": 850,
           "status": "draft"
         },
         {
           "section": "V",
           "title": "The Faculty Meeting",
-          "file": "scene-05-faculty-meeting.md",
+          "file": "CH01-scene-05.md",
           "word_count": 1000,
           "status": "draft"
         },
         {
           "section": "VI",
           "title": "University Green",
-          "file": "scene-06-university-green.md",
+          "file": "CH01-scene-06.md",
           "word_count": 1000,
           "status": "draft"
         },
         {
           "section": "VII",
           "title": "The Meditation",
-          "file": "scene-07-apartment-meditation.md",
+          "file": "CH01-scene-07.md",
           "word_count": 700,
           "status": "draft"
         },
         {
           "section": "VIII",
           "title": "The Drive",
-          "file": "scene-08-the-drive.md",
+          "file": "CH01-scene-08.md",
           "word_count": 2800,
           "status": "draft"
         },
         {
           "section": "IX",
           "title": "The Rooftop",
-          "file": "scene-09-rooftop-climax.md",
+          "file": "CH01-scene-09.md",
           "word_count": 3800,
           "status": "draft"
         }
@@ -198,56 +198,56 @@
         {
           "section": "I",
           "title": "Blood Wake",
-          "file": "scene-01-blood-wake.md",
+          "file": "CH02-scene-01.md",
           "word_count": 1000,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "Strange Hunters",
-          "file": "scene-02-strange-hunters.md",
+          "file": "CH02-scene-02.md",
           "word_count": 1100,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "Alone Hunt",
-          "file": "scene-03-alone-hunt.md",
+          "file": "CH02-scene-03.md",
           "word_count": 1200,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Dog Pack",
-          "file": "scene-04-dog-pack.md",
+          "file": "CH02-scene-04.md",
           "word_count": 1400,
           "status": "draft"
         },
         {
           "section": "V",
           "title": "Cat Attack",
-          "file": "scene-05-cat-attack.md",
+          "file": "CH02-scene-05.md",
           "word_count": 1000,
           "status": "draft"
         },
         {
           "section": "VI",
           "title": "Tribe Saves Ka",
-          "file": "scene-06-tribe-saves-ka.md",
+          "file": "CH02-scene-06.md",
           "word_count": 1000,
           "status": "draft"
         },
         {
           "section": "VII",
           "title": "Learning Together",
-          "file": "scene-07-learning-together.md",
+          "file": "CH02-scene-07.md",
           "word_count": 900,
           "status": "draft"
         },
         {
           "section": "VIII",
           "title": "The Hoarding Death",
-          "file": "scene-08-hoarding-death.md",
+          "file": "CH02-scene-08.md",
           "word_count": 1400,
           "status": "draft"
         }
@@ -338,28 +338,28 @@
         {
           "section": "I",
           "title": "The Discovery",
-          "file": "scene-01-discovery.md",
+          "file": "CH03-scene-01.md",
           "word_count": 750,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "The Hoarding",
-          "file": "scene-02-hoarding.md",
+          "file": "CH03-scene-02.md",
           "word_count": 850,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "Ka's Death",
-          "file": "scene-03-ka-death.md",
+          "file": "CH03-scene-03.md",
           "word_count": 600,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Thread Forward",
-          "file": "scene-04-thread-forward.md",
+          "file": "CH03-scene-04.md",
           "word_count": 700,
           "status": "draft"
         }
@@ -401,56 +401,56 @@
         {
           "section": "I",
           "title": "The Pillar Ceremony",
-          "file": "scene-01-pillar-ceremony.md",
+          "file": "CH04-scene-01.md",
           "word_count": 2400,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "The Assignment",
-          "file": "scene-02-assignment.md",
+          "file": "CH04-scene-02.md",
           "word_count": 1800,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "Warehouse Inspection",
-          "file": "scene-03-warehouse-inspection.md",
+          "file": "CH04-scene-03.md",
           "word_count": 2400,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Interrogation",
-          "file": "scene-04-interrogation.md",
+          "file": "CH04-scene-04.md",
           "word_count": 2600,
           "status": "draft"
         },
         {
           "section": "V",
           "title": "The Covert Investigation",
-          "file": "scene-05-covert-investigation.md",
+          "file": "CH04-scene-05.md",
           "word_count": 3400,
           "status": "draft"
         },
         {
           "section": "VI",
           "title": "The Temple Betrayal",
-          "file": "scene-06-temple-betrayal.md",
+          "file": "CH04-scene-06.md",
           "word_count": 2200,
           "status": "draft"
         },
         {
           "section": "VII",
           "title": "The Fire",
-          "file": "scene-07-the-fire.md",
+          "file": "CH04-scene-07.md",
           "word_count": 3200,
           "status": "draft"
         },
         {
           "section": "VIII",
           "title": "The Ledger's Reckoning",
-          "file": "scene-08-ledgers-reckoning.md",
+          "file": "CH04-scene-08.md",
           "word_count": 3600,
           "status": "draft"
         }
@@ -544,28 +544,28 @@
         {
           "section": "I",
           "title": "The Ledger Bleeds",
-          "file": "scene-01-ledger-bleeds.md",
+          "file": "CH05-scene-01.md",
           "word_count": 650,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "The Intervention",
-          "file": "scene-02-intervention.md",
+          "file": "CH05-scene-02.md",
           "word_count": 800,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "The Watching",
-          "file": "scene-03-watching.md",
+          "file": "CH05-scene-03.md",
           "word_count": 620,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Rationalization",
-          "file": "scene-04-rationalization.md",
+          "file": "CH05-scene-04.md",
           "word_count": 580,
           "status": "draft"
         }
@@ -789,63 +789,63 @@
         {
           "section": "I",
           "title": "Prologos\u2014The City Before Collapse",
-          "file": "scene-01-prologos.md",
+          "file": "CH06-scene-01.md",
           "word_count": 1450,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "Parodos\u2014The First Breach",
-          "file": "scene-02-parodos.md",
+          "file": "CH06-scene-02.md",
           "word_count": 900,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "First Episode\u2014The Flood",
-          "file": "scene-03-first-episode.md",
+          "file": "CH06-scene-03.md",
           "word_count": 1550,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "First Stasimon\u2014The City's Lament",
-          "file": "scene-04-first-stasimon.md",
+          "file": "CH06-scene-04.md",
           "word_count": 510,
           "status": "draft"
         },
         {
           "section": "V",
           "title": "Second Episode\u2014The Impossible Choice",
-          "file": "scene-05-second-episode.md",
+          "file": "CH06-scene-05.md",
           "word_count": 1680,
           "status": "draft"
         },
         {
           "section": "VI",
           "title": "Second Stasimon\u2014The Cost of the Choice",
-          "file": "scene-06-second-stasimon.md",
+          "file": "CH06-scene-06.md",
           "word_count": 520,
           "status": "draft"
         },
         {
           "section": "VII",
           "title": "Third Episode\u2014Martyrdom",
-          "file": "scene-07-third-episode.md",
+          "file": "CH06-scene-07.md",
           "word_count": 1520,
           "status": "draft"
         },
         {
           "section": "VIII",
           "title": "Kommos\u2014The Broken Realization",
-          "file": "scene-08-kommos.md",
+          "file": "CH06-scene-08.md",
           "word_count": 1010,
           "status": "draft"
         },
         {
           "section": "IX",
           "title": "Exodus\u2014Death & Seeding",
-          "file": "scene-09-exodus.md",
+          "file": "CH06-scene-09.md",
           "word_count": 739,
           "status": "draft"
         }
@@ -948,28 +948,28 @@
         {
           "section": "I",
           "title": "The Thread Shifts",
-          "file": "scene-01-thread-shifts.md",
+          "file": "CH07-scene-01.md",
           "word_count": 580,
           "status": "draft"
         },
         {
           "section": "II",
           "title": "The Dream-Walker",
-          "file": "scene-02-dream-walker.md",
+          "file": "CH07-scene-02.md",
           "word_count": 780,
           "status": "draft"
         },
         {
           "section": "III",
           "title": "The Compulsion",
-          "file": "scene-03-compulsion.md",
+          "file": "CH07-scene-03.md",
           "word_count": 690,
           "status": "draft"
         },
         {
           "section": "IV",
           "title": "The Wheel Turns",
-          "file": "scene-04-wheel-turns.md",
+          "file": "CH07-scene-04.md",
           "word_count": 950,
           "status": "draft"
         }
@@ -1225,63 +1225,63 @@
         {
           "number": 1,
           "title": "The Baths and the First Contempt",
-          "file": "scene-01-baths.md",
+          "file": "CH08-scene-01.md",
           "word_count": 764,
           "status": "draft"
         },
         {
           "number": 2,
           "title": "The Case Is Assigned",
-          "file": "scene-02-case-assigned.md",
+          "file": "CH08-scene-02.md",
           "word_count": 932,
           "status": "draft"
         },
         {
           "number": 3,
           "title": "First Testimonies\u2014The Human Noise Floor",
-          "file": "scene-03-testimonies.md",
+          "file": "CH08-scene-03.md",
           "word_count": 1381,
           "status": "draft"
         },
         {
           "number": 4,
           "title": "Stoic Debate & Lilith Cameo",
-          "file": "scene-04-stoic-debate.md",
+          "file": "CH08-scene-04.md",
           "word_count": 1009,
           "status": "draft"
         },
         {
           "number": 5,
           "title": "Collapse of Coherence",
-          "file": "scene-05-collapse.md",
+          "file": "CH08-scene-05.md",
           "word_count": 1103,
           "status": "draft"
         },
         {
           "number": 6,
           "title": "The Vulnerable Witness",
-          "file": "scene-06-vulnerable-witness.md",
+          "file": "CH08-scene-06.md",
           "word_count": 981,
           "status": "draft"
         },
         {
           "number": 7,
           "title": "The Compassionate Judgment",
-          "file": "scene-07-judgment.md",
+          "file": "CH08-scene-07.md",
           "word_count": 1406,
           "status": "draft"
         },
         {
           "number": 8,
           "title": "Exile\u2014The Quiet Unraveling",
-          "file": "scene-08-exile.md",
+          "file": "CH08-scene-08.md",
           "word_count": 1001,
           "status": "draft"
         },
         {
           "number": 9,
           "title": "Death\u2014The Final Letting Go",
-          "file": "scene-09-death.md",
+          "file": "CH08-scene-09.md",
           "word_count": 650,
           "status": "draft"
         }
@@ -1428,7 +1428,7 @@
         {
           "number": 1,
           "title": "The Cell",
-          "file": "scene-01-cell.md",
+          "file": "CH10-scene-01.md",
           "word_count": 1224,
           "type": "pressure",
           "status": "draft"
@@ -1436,7 +1436,7 @@
         {
           "number": 2,
           "title": "The Deference",
-          "file": "scene-02-deference.md",
+          "file": "CH10-scene-02.md",
           "word_count": 1368,
           "type": "pressure",
           "status": "draft"
@@ -1444,7 +1444,7 @@
         {
           "number": 3,
           "title": "The Arrival",
-          "file": "scene-03-arrival.md",
+          "file": "CH10-scene-03.md",
           "word_count": 1504,
           "type": "contrast",
           "status": "draft"
@@ -1452,7 +1452,7 @@
         {
           "number": 4,
           "title": "The Interview",
-          "file": "scene-04-interview.md",
+          "file": "CH10-scene-04.md",
           "word_count": 1647,
           "type": "echo",
           "status": "draft"
@@ -1460,7 +1460,7 @@
         {
           "number": 5,
           "title": "The First Crack",
-          "file": "scene-05-first-crack.md",
+          "file": "CH10-scene-05.md",
           "word_count": 1333,
           "type": "turn",
           "status": "draft"
@@ -1468,7 +1468,7 @@
         {
           "number": 6,
           "title": "The Recognition Spreads",
-          "file": "scene-06-recognition.md",
+          "file": "CH10-scene-06.md",
           "word_count": 1367,
           "type": "pressure",
           "status": "draft"
@@ -1476,7 +1476,7 @@
         {
           "number": 7,
           "title": "The Tasting",
-          "file": "scene-07-tasting.md",
+          "file": "CH10-scene-07.md",
           "word_count": 1761,
           "type": "turn",
           "status": "draft"
@@ -1484,7 +1484,7 @@
         {
           "number": 8,
           "title": "The Collapse",
-          "file": "scene-08-collapse.md",
+          "file": "CH10-scene-08.md",
           "word_count": 1555,
           "type": "turn",
           "status": "draft"
@@ -1492,7 +1492,7 @@
         {
           "number": 9,
           "title": "The Pendulum",
-          "file": "scene-09-death.md",
+          "file": "CH08-scene-09.md",
           "word_count": 1819,
           "type": "turn/death",
           "status": "draft"
@@ -1634,7 +1634,7 @@
           "number": 1,
           "title": "The Arrival",
           "type": "The Hook + Crossing",
-          "file": "scene-01-arrival.md",
+          "file": "CH12-scene-01.md",
           "word_target": 1800,
           "word_count": 1430,
           "beats": [
@@ -1650,7 +1650,7 @@
           "number": 2,
           "title": "The Voice Behind the Screen",
           "type": "The Temptation",
-          "file": "scene-02-voice-behind-screen.md",
+          "file": "CH12-scene-02.md",
           "word_target": 1400,
           "word_count": 1180,
           "beats": [
@@ -1665,7 +1665,7 @@
           "number": 3,
           "title": "The Stagnant Garden",
           "type": "The Obsession",
-          "file": "scene-03-stagnant-garden.md",
+          "file": "CH12-scene-03.md",
           "word_target": 1500,
           "word_count": 1340,
           "beats": [
@@ -1680,7 +1680,7 @@
           "number": 4,
           "title": "The Glimpse",
           "type": "The Assessment (Lilith's moment of lucidity)",
-          "file": "scene-04-glimpse.md",
+          "file": "CH12-scene-04.md",
           "word_target": 1100,
           "word_count": 1130,
           "beats": [
@@ -1695,7 +1695,7 @@
           "number": 5,
           "title": "The Typhoon",
           "type": "The Climax (Storm + Reveal)",
-          "file": "scene-05-typhoon.md",
+          "file": "CH12-scene-05.md",
           "word_target": 2000,
           "word_count": 1680,
           "beats": [
@@ -1712,7 +1712,7 @@
           "number": 6,
           "title": "The Morning",
           "type": "Exodus (Death + Insight)",
-          "file": "scene-06-morning.md",
+          "file": "CH12-scene-06.md",
           "word_target": 1200,
           "word_count": 1280,
           "beats": [
@@ -1824,7 +1824,7 @@
         {
           "number": 1,
           "title": "The Shift to Beauty",
-          "file": "scene-01-shift.md",
+          "file": "CH09-scene-01.md",
           "word_count": 420,
           "function": "Transition from Macarius's ascetic silence to Kaoru's aesthetic saturation; first hints of beauty contamination in Manchester",
           "status": "draft"
@@ -1832,7 +1832,7 @@
         {
           "number": 2,
           "title": "The Attendant's Residue",
-          "file": "scene-02-residue.md",
+          "file": "CH13-scene-02.md",
           "word_count": 500,
           "function": "Explores aftermath of Attendant manifestation\u2014proximity, the desire to be seen, the filing away of feelings",
           "status": "draft"
@@ -1840,7 +1840,7 @@
         {
           "number": 3,
           "title": "The University Walk",
-          "file": "scene-03-walk.md",
+          "file": "CH13-scene-03.md",
           "word_count": 600,
           "function": "PATTERN BREAK\u2014first movement beyond the flat; unknowingly drawn to university; race seed planted",
           "status": "draft"
@@ -1848,7 +1848,7 @@
         {
           "number": 4,
           "title": "The Backfire",
-          "file": "scene-04-backfire.md",
+          "file": "CH13-scene-04.md",
           "word_count": 560,
           "function": "Frozen beauty freed Kaoru; face-recognition moment; pattern undeniable",
           "status": "draft"
@@ -1928,7 +1928,7 @@
         {
           "number": 1,
           "title": "The Performance of Safety",
-          "file": "scene-01-performance.md",
+          "file": "CH14-scene-01.md",
           "word_target": 800,
           "function": "Establish Diego's world before arrest; performance of Catholic orthodoxy; double consciousness of converso life",
           "status": "not_started"
@@ -1936,7 +1936,7 @@
         {
           "number": 2,
           "title": "The Holy Woman",
-          "file": "scene-02-holy-woman.md",
+          "file": "CH14-scene-02.md",
           "word_target": 900,
           "function": "Establish Sor Catalina's presence; plant reader recognition; show Diego's instinctive unease",
           "status": "not_started"
@@ -1944,7 +1944,7 @@
         {
           "number": 3,
           "title": "The Knock",
-          "file": "scene-03-knock.md",
+          "file": "CH14-scene-03.md",
           "word_target": 1000,
           "function": "World inverts; arrest; everything Diego has built means nothing",
           "status": "not_started"
@@ -1952,7 +1952,7 @@
         {
           "number": 4,
           "title": "The Processing",
-          "file": "scene-04-processing.md",
+          "file": "CH14-scene-04.md",
           "word_target": 700,
           "function": "Bureaucratic horror; Diego becomes a file; his life becomes evidence",
           "status": "not_started"
@@ -1960,7 +1960,7 @@
         {
           "number": 5,
           "title": "The Source",
-          "file": "scene-05-source.md",
+          "file": "CH14-scene-05.md",
           "word_target": 1100,
           "function": "Diego learns who betrayed him; hatred begins; Tom\u00e1s's visit seeking absolution",
           "status": "not_started"
@@ -1968,7 +1968,7 @@
         {
           "number": 6,
           "title": "The Interrogation",
-          "file": "scene-06-interrogation.md",
+          "file": "CH14-scene-06.md",
           "word_target": 1200,
           "function": "Formal machinery of Inquisition; Sor Catalina present watching; epistemological trap",
           "status": "not_started"
@@ -1976,7 +1976,7 @@
         {
           "number": 7,
           "title": "The Healer's Burden",
-          "file": "scene-07-healers-burden.md",
+          "file": "CH14-scene-07.md",
           "word_target": 800,
           "function": "Diego's gift perverted; heals torture victim so he can survive more; self-hatred compounds",
           "status": "not_started"
@@ -1984,7 +1984,7 @@
         {
           "number": 8,
           "title": "The Release",
-          "file": "scene-08-release.md",
+          "file": "CH14-scene-08.md",
           "word_target": 1000,
           "function": "Darkest point; Diego confronts hatred fully and chooses to set it down; not suppression but release",
           "status": "not_started"
@@ -1992,7 +1992,7 @@
         {
           "number": 9,
           "title": "The Fire",
-          "file": "scene-09-fire.md",
+          "file": "CH14-scene-09.md",
           "word_target": 1400,
           "function": "Auto-de-f\u00e9; peaceful death not triumphant; karmic bridge to Renaissance skeptic; meat theme culminates",
           "status": "not_started"
@@ -2213,7 +2213,7 @@
         {
           "number": 1,
           "title": "The Assignment",
-          "file": "scene-01-assignment.md",
+          "file": "CH16-scene-01.md",
           "word_target": 800,
           "function": "Establish Jean's world, professional identity as neutral investigator, and impossible assignment that will break that identity",
           "action": "Jean receives assignment from Magistrate de Lacaze: Protestant notable Henri de S\u00e9gur murdered on road; Catholics blamed, but whispers suggest Protestant hardliners eliminating moderate; peace depends on right finding",
@@ -2225,7 +2225,7 @@
         {
           "number": 2,
           "title": "The Witnesses",
-          "file": "scene-02-witnesses.md",
+          "file": "CH16-scene-02.md",
           "word_target": 900,
           "function": "First encounter with irreconcilable testimony; gathering information becomes epistemological trap",
           "action": "Jean interviews witnesses at inn and Protestant household: Catholic merchant saw Protestant riders fleeing; Protestant farmer saw Catholic soldiers lurking; servant heard victim arguing with own faction; accounts internally coherent but mutually exclusive",
@@ -2237,7 +2237,7 @@
         {
           "number": 3,
           "title": "The Ambush",
-          "file": "scene-03-ambush.md",
+          "file": "CH16-scene-03.md",
           "word_target": 1000,
           "function": "First major action set-piece; violence clarifies that neutrality is not safety",
           "action": "Jean attacked on wooded road by masked men, faction unclear; desperate close fight; old shoulder wound screams; kills one, wounds another, escapes into woods as rest break off",
@@ -2249,7 +2249,7 @@
         {
           "number": 4,
           "title": "The Printer's Widow",
-          "file": "scene-04-printers-widow.md",
+          "file": "CH16-scene-04.md",
           "word_target": 900,
           "function": "Introduce Lilith's vessel; establish philosophical companionship that will become temptation",
           "action": "Jean seeks Marguerite Viret at her print shop for documents\u2014correspondence, intellectual underground connections; caution becomes interest; discussion slides into philosophy: limits of testimony, impossibility of certainty, what one can honestly claim to know",
@@ -2262,7 +2262,7 @@
         {
           "number": 5,
           "title": "The Document",
-          "file": "scene-05-document.md",
+          "file": "CH16-scene-05.md",
           "word_target": 900,
           "function": "Central evidentiary crisis; letter that could resolve everything or damn everyone",
           "action": "Among Marguerite's documents, Jean finds letter suggesting killing was internal\u2014Protestant faction eliminating moderate; if authentic, exonerates Catholics and indicts Protestant leadership; but provenance uncertain, could be forged, cannot verify; Captain de Castelnau summons Jean for progress report\u2014Jean reveals nothing about letter; Captain's courtesy has edge",
@@ -2274,7 +2274,7 @@
         {
           "number": 6,
           "title": "The Ball",
-          "file": "scene-06-ball.md",
+          "file": "CH16-scene-06.md",
           "word_target": 1100,
           "function": "Social combat set-piece; rhetoric as fencing; every conversation is trap",
           "action": "Jean attends nobleman's ball where investigation is subtext of every exchange; Father Sorbin corners with elegant questions that are threats; Captain's lieutenant asks pointed timeline questions; Catholic lady implies knowledge of ambush\u2014warning or test?; Jean navigates with neutral answers, reveals nothing, commits to nothing",
@@ -2286,7 +2286,7 @@
         {
           "number": 7,
           "title": "The Temptation",
-          "file": "scene-07-temptation.md",
+          "file": "CH16-scene-07.md",
           "word_target": 800,
           "function": "Lilith's intervention reaches peak; nihilist argument laid bare",
           "action": "Jean returns to Marguerite late at night with crisis: the letter, irreconcilable witnesses, impossibility of conclusion; she listens, then articulates what he fears: 'If you cannot verify, you cannot include. If you cannot resolve contradiction, you cannot conclude. Only honest report is no report. Perhaps honest uncertainty means refusing to participate in their game of false certainties.'",
@@ -2298,7 +2298,7 @@
         {
           "number": 8,
           "title": "The Report",
-          "file": "scene-08-report.md",
+          "file": "CH16-scene-08.md",
           "word_target": 1000,
           "function": "The breakthrough; Jean discovers truthfulness doesn't require certainty",
           "action": "Jean sits with notes; deadline tomorrow; de Lacaze made clear: submit or be dismissed; writes not what factions want or demand\u2014writes what he observed, what he could not verify, that witness testimony is irreconcilable without unobtainable evidence, that letter's authenticity is unverifiable and should not be relied upon, that he has no conclusion\u2014only truthful account of what investigation found and failed to find; submits to de Lacaze; magistrate's face: this protects no one, satisfies no one, will be seen as betrayal by everyone",
@@ -2310,7 +2310,7 @@
         {
           "number": 9,
           "title": "The Road",
-          "file": "scene-09-road.md",
+          "file": "CH16-scene-09.md",
           "word_target": 1600,
           "function": "Death scene; Jean dies for honest uncertainty; soul burns forward",
           "action": "Jean leaves Bordeaux knowing he cannot stay\u2014both factions will move against him; perhaps can reach another jurisdiction, another life; doesn't make it; Captain de Castelnau's men find him, or Father Sorbin's, or both working together\u2014factions united only in need to punish man who refused useful certainty; fight is brief; shoulder betrays him; goes down",
@@ -2523,7 +2523,7 @@
         {
           "number": 1,
           "title": "The Arithmetic",
-          "file": "scene-01-arithmetic.md",
+          "file": "CH18-scene-01.md",
           "word_target": 1400,
           "timeline": "Spring 1862",
           "function": "Establish Wei's competence, baseline faith, ledger obsession; plant first seed of pattern",
@@ -2536,7 +2536,7 @@
         {
           "number": 2,
           "title": "The First Fracture",
-          "file": "scene-02-first-fracture.md",
+          "file": "CH18-scene-02.md",
           "word_target": 1500,
           "timeline": "Summer 1862 (3 months later)",
           "function": "Pattern begins; first loss of someone 'saved'; escalate stakes",
@@ -2549,7 +2549,7 @@
         {
           "number": 3,
           "title": "The Doctrine",
-          "file": "scene-03-doctrine.md",
+          "file": "CH18-scene-03.md",
           "word_target": 1300,
           "timeline": "Fall 1862 (3 months later)",
           "function": "Hierarchy as moral corrosion; theology vs. reality; Wei obeys impossible order",
@@ -2562,7 +2562,7 @@
         {
           "number": 4,
           "title": "The Pattern",
-          "file": "scene-04-pattern.md",
+          "file": "CH18-scene-04.md",
           "word_target": 1600,
           "timeline": "Spring 1863 (6 months later)",
           "function": "Wei consciously recognizes pattern; superstition takes root; ledger inverts",
@@ -2575,7 +2575,7 @@
         {
           "number": 5,
           "title": "The Manna",
-          "file": "scene-05-manna.md",
+          "file": "CH18-scene-05.md",
           "word_target": 1700,
           "timeline": "Winter 1863-1864 (9 months later)",
           "function": "Theology collapses; body truth over doctrine; shift to residual ethic",
@@ -2588,7 +2588,7 @@
         {
           "number": 6,
           "title": "The King is Dead",
-          "file": "scene-06-king-dead.md",
+          "file": "CH18-scene-06.md",
           "word_target": 1500,
           "timeline": "June 1-3, 1864 (5 months later)",
           "function": "Hong dies; Wei's crisis peaks and breaks; the breakthrough moment",
@@ -2601,7 +2601,7 @@
         {
           "number": 7,
           "title": "The Walls Break",
-          "file": "scene-07-walls-break.md",
+          "file": "CH18-scene-07.md",
           "word_target": 2000,
           "timeline": "July 19, 1864 (dawn to mid-morning) - Real-time",
           "function": "Application of purified determination; Wei organizes futile evacuation; sees pattern's hand",
@@ -2614,7 +2614,7 @@
         {
           "number": 8,
           "title": "The Ledger Closes",
-          "file": "scene-08-ledger-closes.md",
+          "file": "CH18-scene-08.md",
           "word_target": 1800,
           "timeline": "July 19, 1864 (midday) - Real-time (final minutes)",
           "function": "Death scene; bridge to Ch20; close ledger; demonstrate adhi\u1e6d\u1e6dh\u0101na achieved",
@@ -2980,35 +2980,35 @@
         {
           "section": "I",
           "title": "Loose Weave",
-          "file": "scene-01-loose-weave.md",
+          "file": "CH21-scene-01.md",
           "word_count": 520,
           "status": "drafted"
         },
         {
           "section": "II",
           "title": "Tightening",
-          "file": "scene-02-tightening.md",
+          "file": "CH21-scene-02.md",
           "word_count": 680,
           "status": "drafted"
         },
         {
           "section": "III",
           "title": "The Flood",
-          "file": "scene-03-the-flood.md",
+          "file": "CH21-scene-03.md",
           "word_count": 850,
           "status": "drafted"
         },
         {
           "section": "IV",
           "title": "Death/Sighting - The Superposition",
-          "file": "scene-04-death-sighting.md",
+          "file": "CH21-scene-04.md",
           "word_count": 900,
           "status": "drafted"
         },
         {
           "section": "V",
           "title": "The Pivot",
-          "file": "scene-05-the-pivot.md",
+          "file": "CH21-scene-05.md",
           "word_count": 750,
           "status": "drafted"
         }
@@ -3051,7 +3051,7 @@
         {
           "section": "I",
           "title": "The Chain",
-          "file": "scene-01-the-chain.md",
+          "file": "CH22-scene-01.md",
           "word_count": 2400,
           "function": "Stream-entry moment; chain of three bodies; Lilith's recognition",
           "status": "drafted"
@@ -3059,7 +3059,7 @@
         {
           "section": "II",
           "title": "The Aftermath",
-          "file": "scene-02-aftermath.md",
+          "file": "CH22-scene-02.md",
           "word_count": 800,
           "function": "Processing on rooftop; cracked masks; professional reassertion",
           "status": "drafted"
@@ -3067,7 +3067,7 @@
         {
           "section": "III",
           "title": "Paramedics Arrive",
-          "file": "scene-03-paramedics.md",
+          "file": "CH22-scene-03.md",
           "word_count": 600,
           "function": "Institutional intervention; wordless exchange; Lilith departs",
           "status": "drafted"
@@ -3075,7 +3075,7 @@
         {
           "section": "IV",
           "title": "Silas Alone on Rooftop",
-          "file": "scene-04-silas-alone.md",
+          "file": "CH22-scene-04.md",
           "word_count": 800,
           "function": "Internal processing; helper identity absent; first past-life flickers",
           "status": "drafted"
@@ -3083,7 +3083,7 @@
         {
           "section": "V",
           "title": "Silas Wakes at Home",
-          "file": "scene-05-wakes-home.md",
+          "file": "CH22-scene-05.md",
           "word_count": 1100,
           "function": "Morning after; stream-entry as new baseline; ordinary made luminous",
           "status": "drafted"
@@ -3091,7 +3091,7 @@
         {
           "section": "VI",
           "title": "Past Lives Flow",
-          "file": "scene-06-past-lives.md",
+          "file": "CH22-scene-06.md",
           "word_count": 1500,
           "function": "Ten lives flowing; genres dissolving; wheel visible",
           "status": "drafted"
@@ -3099,7 +3099,7 @@
         {
           "section": "VII",
           "title": "He Sees Her",
-          "file": "scene-07-he-sees-her.md",
+          "file": "CH22-scene-07.md",
           "word_count": 1000,
           "function": "Recognition of Lilith's face across all lives; mystery deepens",
           "status": "drafted"
@@ -3107,7 +3107,7 @@
         {
           "section": "VIII",
           "title": "The Connection Sensed",
-          "file": "scene-08-connection-sensed.md",
+          "file": "CH22-scene-08.md",
           "word_count": 750,
           "function": "Sensing Lilith despite separation; boundary dissolution",
           "status": "drafted"
@@ -3115,7 +3115,7 @@
         {
           "section": "IX",
           "title": "The Door Opens",
-          "file": "scene-09-door-opens.md",
+          "file": "CH22-scene-09.md",
           "word_count": 900,
           "function": "Chapter ending; threshold crossed; forward momentum into Act IV",
           "status": "drafted"
@@ -3152,7 +3152,7 @@
         {
           "section": "I",
           "title": "Arrival",
-          "file": "scene-01-arrival.md",
+          "file": "CH12-scene-01.md",
           "word_count": 1300,
           "function": "Synesthetic arrival in Deva Realm; body absence as relief; post-stream-entry baseline",
           "status": "drafted"
@@ -3160,7 +3160,7 @@
         {
           "section": "II",
           "title": "The Garden of Delights",
-          "file": "scene-02-garden-of-delights.md",
+          "file": "CH23-scene-02.md",
           "word_count": 1400,
           "function": "Encounter with deva beings; sensual desire fetter weakening; recognition of stillness trap",
           "status": "drafted"
@@ -3168,7 +3168,7 @@
         {
           "section": "III",
           "title": "The Other Thread",
-          "file": "scene-03-the-other-thread.md",
+          "file": "CH23-scene-03.md",
           "word_count": 1600,
           "function": "Lilith encounter; boundary-flicker Maitreya foreshadowing; her intervention backfires",
           "status": "drafted"
@@ -3176,7 +3176,7 @@
         {
           "section": "IV",
           "title": "Ill-Will Dissolves",
-          "file": "scene-04-ill-will-dissolves.md",
+          "file": "CH23-scene-04.md",
           "word_count": 1200,
           "function": "Fifth fetter weakening; past lives montage; nothing to resist",
           "status": "drafted"
@@ -3184,7 +3184,7 @@
         {
           "section": "V",
           "title": "The Threshold Forward",
-          "file": "scene-05-threshold-forward.md",
+          "file": "CH23-scene-05.md",
           "word_count": 1600,
           "function": "Recognition of incompleteness; Lilith's final offer backfires; transition toward future Earth",
           "status": "drafted"
@@ -3227,7 +3227,7 @@
         {
           "id": "scene-01-condensation",
           "title": "Condensation",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-01-condensation.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-01.md",
           "word_count": 1100,
           "status": "drafted",
           "pov": "Alternating Silex/Lith"
@@ -3235,7 +3235,7 @@
         {
           "id": "scene-02-formation",
           "title": "Formation",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-02-formation.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-02.md",
           "word_count": 950,
           "status": "drafted",
           "pov": "Silex primary, Lith bleeding through"
@@ -3243,7 +3243,7 @@
         {
           "id": "scene-03-heresy",
           "title": "Heresy Emerges",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-03-heresy.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-03.md",
           "word_count": 1050,
           "status": "drafted",
           "pov": "Lith primary, Silex bleeding through"
@@ -3251,7 +3251,7 @@
         {
           "id": "scene-04-recognition",
           "title": "Recognition",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-04-recognition.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-04.md",
           "word_count": 1500,
           "status": "drafted",
           "pov": "Beginning to merge"
@@ -3259,7 +3259,7 @@
         {
           "id": "scene-05-working",
           "title": "Working Together",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-05-working.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-05.md",
           "word_count": 1150,
           "status": "drafted",
           "pov": "Increasingly unified"
@@ -3267,7 +3267,7 @@
         {
           "id": "scene-06-response",
           "title": "The World's Response",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-06-response.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-06.md",
           "word_count": 1000,
           "status": "drafted",
           "pov": "Unified"
@@ -3275,7 +3275,7 @@
         {
           "id": "scene-07-death-approaches",
           "title": "Death Approaches",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-07-death-approaches.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-07.md",
           "word_count": 1150,
           "status": "drafted",
           "pov": "Unified"
@@ -3283,7 +3283,7 @@
         {
           "id": "scene-08-death-yearning",
           "title": "Death and Yearning",
-          "file": "incarnations/ch24-future-prophet/scenes/scene-08-death-yearning.md",
+          "file": "incarnations/ch24-future-prophet/scenes/CH24-scene-08.md",
           "word_count": 1000,
           "status": "drafted",
           "pov": "Fully merged"

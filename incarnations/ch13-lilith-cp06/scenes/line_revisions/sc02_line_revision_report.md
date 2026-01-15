@@ -1,6 +1,6 @@
 # Editorial Review: The Residue
 
-## Scene: `scene-02-residue.md`
+## Scene: `CH13-scene-02.md`
 
 ---
 

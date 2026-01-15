@@ -1,6 +1,6 @@
 # Editorial Review: One More Method
 
-## Scene: `scene-01-one-more-method.md`
+## Scene: `CH17-scene-01.md`
 
 ---
 

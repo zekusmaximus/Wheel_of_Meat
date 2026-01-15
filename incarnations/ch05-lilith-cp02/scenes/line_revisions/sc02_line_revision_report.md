@@ -1,6 +1,6 @@
 # Editorial Review: The Intervention
 
-## Scene: `scene-02-intervention.md`
+## Scene: `CH05-scene-02.md`
 
 ---
 

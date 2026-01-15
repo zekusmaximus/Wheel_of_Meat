@@ -1,6 +1,6 @@
 # Editorial Review: He Sees Her
 
-## Scene: `scene-07-he-sees-her.md`
+## Scene: `CH22-scene-07.md`
 
 ---
 

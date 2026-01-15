@@ -502,10 +502,10 @@ And even this is too much. Because "two faces" implies two. And "one gesture" im
 - `/meta/lilith-arc-bible.md` — The merger resolution, emotional arc
 - `/meta/thematic-echoes.md` — Recurring symbols, foreshadowing
 - `/incarnations/ch25-space-explorer/notes.md` — Formless realm setup, what Ch26 inherits
-- `/incarnations/ch25-space-explorer/scenes/scene-05-coda.md` — Where Ch25 ends (eyes opening in village)
-- `/incarnations/ch01-contemporary-manchester/scenes/scene-01-sunset-bedroom.md` — Opening scene for echo
-- `/incarnations/ch01-contemporary-manchester/scenes/scene-09-rooftop-climax.md` — Stewart's question, "Tat tvam asi"
-- `/incarnations/ch22-contemporary-breakthrough/scenes/scene-01-the-chain.md` — The chain scene, stream-entry
+- `/incarnations/ch25-space-explorer/scenes/CH25-scene-05.md` — Where Ch25 ends (eyes opening in village)
+- `/incarnations/ch01-contemporary-manchester/scenes/CH01-scene-01.md` — Opening scene for echo
+- `/incarnations/ch01-contemporary-manchester/scenes/CH01-scene-09.md` — Stewart's question, "Tat tvam asi"
+- `/incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-01.md` — The chain scene, stream-entry
 
 ### Maitreya Research Integrated
 - The "healed world" setting (Ketumatī-inspired without naming)

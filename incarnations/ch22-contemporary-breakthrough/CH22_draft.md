@@ -429,6 +429,7 @@ Silas breathed. His reflection in the window was pale, unshaven, the circles und
 
 The wheel turned. And the seeing that had always been there, boundless, aware, continued doing what it had never stopped doing, even when the one looking through its eyes had believed himself to be separate from the looking.
 
+
 The lives were still present, threads beyond counting humming at the edge of awareness like strings recently plucked, when Silas noticed the pattern he'd missed before.
 
 She had been in all of them.
@@ -495,6 +496,7 @@ For now, he let the recognition settle. The woman he was beginning to love, and 
 
 But the connection was there. It had always been there. And now, finally, he could see it.
 
+
 Lilith wasn't here.
 
 The thought arrived with the flat factuality of morning. She was at the hospital with Stewart, navigating the institutional aftermath of a psychiatric patient's rooftop crisis. Meetings with supervisors. Documentation. The paperwork of crisis contained. She would be busy for hours.
@@ -534,6 +536,7 @@ He stood at the window with his coffee, looking out at the green, and the sensin
 This was what the lives had been pointing toward. Not just the lessons, not just the deaths, but this: the dissolution of the boundary that made him *him* and her *her*. They weren't merging. They were recognizing that the separation had always been provisional, a convenience of embodiment rather than a truth of being.
 
 For now: coffee, green space, morning light. And the strange new experience of presence without proximity, connection that distance couldn't interrupt.
+
 
 The morning ripened toward noon, and everything settled.
 

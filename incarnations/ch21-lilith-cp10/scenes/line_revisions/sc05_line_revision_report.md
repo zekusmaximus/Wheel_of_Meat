@@ -1,6 +1,6 @@
 # Editorial Review: The Pivot
 
-## Scene: `scene-05-the-pivot.md`
+## Scene: `CH21-scene-05.md`
 
 ---
 

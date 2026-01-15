@@ -1,6 +1,6 @@
 # Editorial Review: Curse Spreads
 
-## Scene: `scene-02-curse-spreads.md`
+## Scene: `CH19-scene-02.md`
 
 ---
 

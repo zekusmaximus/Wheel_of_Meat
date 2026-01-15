@@ -1,6 +1,6 @@
 # Editorial Review: The Backfire
 
-## Scene: `scene-04-backfire.md`
+## Scene: `CH13-scene-04.md`
 
 ---
 

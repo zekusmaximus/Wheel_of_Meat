@@ -1,6 +1,6 @@
 # Editorial Review: The Rationalization
 
-## Scene: `scene-04-rationalization.md`
+## Scene: `CH05-scene-04.md`
 
 ---
 

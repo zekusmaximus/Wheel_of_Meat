@@ -1,6 +1,6 @@
 # Editorial Review: Tracing Forward
 
-## Scene: `scene-06-tracing-forward.md`
+## Scene: `CH19-scene-06.md`
 
 ---
 

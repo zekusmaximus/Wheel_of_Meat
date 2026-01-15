@@ -1,6 +1,6 @@
 # Editorial Review: Wakes Home
 
-## Scene: `scene-05-wakes-home.md`
+## Scene: `CH22-scene-05.md`
 
 ---
 

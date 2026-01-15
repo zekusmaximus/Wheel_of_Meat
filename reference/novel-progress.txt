@@ -1308,15 +1308,15 @@ incarnations/
 │   ├── genre_research.md
 │   ├── period-rules.md
 │   └── scenes/
-│       ├── scene-01-cell.md
-│       ├── scene-02-deference.md
-│       ├── scene-03-arrival.md
-│       ├── scene-04-interview.md
-│       ├── scene-05-first-crack.md
-│       ├── scene-06-recognition.md
-│       ├── scene-07-tasting.md
-│       ├── scene-08-collapse.md
-│       └── scene-09-death.md
+│       ├── CH10-scene-01.md
+│       ├── CH10-scene-02.md
+│       ├── CH10-scene-03.md
+│       ├── CH10-scene-04.md
+│       ├── CH10-scene-05.md
+│       ├── CH10-scene-06.md
+│       ├── CH10-scene-07.md
+│       ├── CH10-scene-08.md
+│       └── CH08-scene-09.md
 ├── ch11-lilith-cp05/                [DRAFTED - 8 files, 6 scenes]
 │   ├── chapter-outline.md
 │   ├── notes.md
@@ -1332,12 +1332,12 @@ incarnations/
 │   ├── avatar-profile.json
 │   ├── period-rules.md
 │   └── scenes/
-│       ├── scene-01-arrival.md
-│       ├── scene-02-voice-behind-screen.md
-│       ├── scene-03-stagnant-garden.md
-│       ├── scene-04-glimpse.md
-│       ├── scene-05-typhoon.md
-│       └── scene-06-morning.md
+│       ├── CH12-scene-01.md
+│       ├── CH12-scene-02.md
+│       ├── CH12-scene-03.md
+│       ├── CH12-scene-04.md
+│       ├── CH12-scene-05.md
+│       └── CH12-scene-06.md
 ├── ch13-lilith-cp06/                [needs_dev - 1 file]
 ├── ch14-inquisition-accused/        [needs_dev - 2 files]
 ├── ch15-lilith-cp07/                [needs_dev - 1 file]
@@ -2237,14 +2237,14 @@ Minor note: Total word count (9,587) exceeds target (7,000) but all scenes justi
 - `incarnations/ch18-taiping-rebel/period-rules.md` (641 lines)
 - `incarnations/ch18-taiping-rebel/avatar-profile.json` (131 lines)
 - `incarnations/ch18-taiping-rebel/ch18-outline.md` (722 lines)
-- `incarnations/ch18-taiping-rebel/scenes/scene-01-arithmetic.md` (1,458 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-02-first-fracture.md` (1,587 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-03-doctrine.md` (1,728 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-04-pattern.md` (1,982 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-05-manna.md` (1,858 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-06-king-dead.md` (1,924 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-07-walls-break.md` (1,652 words)
-- `incarnations/ch18-taiping-rebel/scenes/scene-08-ledger-closes.md` (1,502 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-01.md` (1,458 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-02.md` (1,587 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-03.md` (1,728 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-04.md` (1,982 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-05.md` (1,858 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-06.md` (1,924 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-07.md` (1,652 words)
+- `incarnations/ch18-taiping-rebel/scenes/CH18-scene-08.md` (1,502 words)
 - `incarnations/ch18-taiping-rebel/VERIFICATION-REPORT.md` (comprehensive audit)
 - `incarnations/ch19-lilith-cp09/notes.md` (514 lines—Lilith's tracking work and backfire)
 
@@ -2358,7 +2358,7 @@ Lilith (age 33, year 8 of tracking) completes her forward scan, locates modern S
 
 **Revised:**
 - `incarnations/ch19-lilith-cp09/scenes/scene-01-method.md` (1,050→1,550 words)
-- `incarnations/ch19-lilith-cp09/scenes/scene-04-pause.md` (620→1,000 words)
+- `incarnations/ch19-lilith-cp09/scenes/CH19-scene-04.md` (620→1,000 words)
 - `incarnations/ch19-lilith-cp09/scenes/scene-07-noir-glimpse.md` (930→1,000 words)
 - `incarnations/ch19-lilith-cp09/CH19_draft.md` (9,920→10,790 words)
 

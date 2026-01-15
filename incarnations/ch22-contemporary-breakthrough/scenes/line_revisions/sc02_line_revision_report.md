@@ -1,6 +1,6 @@
 # Editorial Review: Aftermath
 
-## Scene: `scene-02-aftermath.md`
+## Scene: `CH22-scene-02.md`
 
 ---
 

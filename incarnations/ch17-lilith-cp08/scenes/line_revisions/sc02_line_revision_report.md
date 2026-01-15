@@ -1,6 +1,6 @@
 # Editorial Review: The Vessel
 
-## Scene: `scene-02-the-vessel.md`
+## Scene: `CH17-scene-02.md`
 
 ---
 

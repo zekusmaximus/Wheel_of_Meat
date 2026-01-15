@@ -1,6 +1,6 @@
 # Editorial Review: The Encounter
 
-## Scene: `scene-03-encounter.md`
+## Scene: `CH15-scene-03.md`
 
 ---
 

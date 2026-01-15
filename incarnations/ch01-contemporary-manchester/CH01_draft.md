@@ -44,7 +44,7 @@ Keystrokes and pen scribbles sounded out as the students added the phrase to the
 
 Silas shielded his eyes from the sunlight again as he peered out to see the commotion. "Is he ok?" "Does he seem ok?" "He needs help." "Professor?" Above it all, a single phrase repeated and grew in volume. "I am not that!" Stewart was standing, removing his t-shirt, having already tossed his sweatshirt at the row of students in front of him.
 
-Without thinking, a look of concern and empathy stealing over his face, Silas instructed his teaching assistant to call for Miss Azami and ran up the stairs. Stewart's fellow students had already cleared the surrounding seats, but having done so put themselves in the path to him. Turning to the side and putting his hand out before him, Silas cleared a path as he watched Stewart kick off the last leg of his jeans.
+Without thinking, a look of concern and empathy stealing over his face, Silas instructed his teaching assistant to call for Miss Azami and ran up the stairs. Halfway up, a flash of heat—unreasonable, sourceless—washed across his face, carrying with it the smell of something burning. Sandalwood, perhaps. Or flesh. The sensation passed before he could name it. Stewart's fellow students had already cleared the surrounding seats, but having done so put themselves in the path to him. Turning to the side and putting his hand out before him, Silas cleared a path as he watched Stewart kick off the last leg of his jeans.
 
 "Stewart, look at me." Silas reached the aisle, students around him breathing a sigh of relief as it became apparent Stewart would not remove his underwear next. "Stewart, look at me."
 
@@ -116,7 +116,7 @@ What followed was like an intellectual fencing match. The rest of the staff beca
 
 Lilith finally rested back into her seat and wiped away a bead of sweat that had formed on her brow. "Meaningful evaluation of what they are taught will always be tempered by uncertainty over the effectiveness, authenticity and value of the teaching."
 
-Silas, ready to offer another rebuttal, squinted his eyes as if realizing Lilith wasn't just casting doubt on his suggestion, but on something deeper. His face eased into a smile, betraying he had no uncertainty regarding the teaching. "You have the experience and understanding." His fingers ceased tapping as he nodded deferentially to her and mouthed the words of his mantra, I am boundless awareness.
+Silas, ready to offer another rebuttal, squinted his eyes as if realizing Lilith wasn't just casting doubt on his suggestion, but on something deeper. His face eased into a smile, betraying he had no uncertainty regarding the teaching. "You have the experience and understanding." His fingers ceased tapping as he nodded deferentially to her and mouthed the words of his mantra, I am boundless awareness. Somewhere distant—beyond the room, beyond the building, beyond anywhere that made sense—a child cried. High, thin, wrong in a way he couldn't identify. He glanced at the window. Nothing. The sound had already faded, leaving only the afternoon light and the uncomfortable certainty that he had heard it clearly.
 
 "There's plenty of experience and understanding around this table, Mr. Phalavan." A nervous chuckle followed the Dean's statement, as if attempting to cut some tension hanging in the air. The afternoon sun had sunk, casting new shadows across the room. The light still hung about Silas though, a darker hue perhaps, but still illuminating. Silas looked away from Lilith, but not before she caught a look of insight steal across his face. She couldn't help by notice he continued to silently recite his mantra to himself as the issue of course evaluations was tabled and the meeting concluded.
 
@@ -135,7 +135,11 @@ Silas did not sit, but followed and stood over her, taking the opportunity to sh
 
 The words of his affirmation almost formed on his lips as he turned away and sighed. A small wind picked up as the air moistened, bringing the slightly sweet smell of impending precipitation. "I know Lilith, but as I said this afternoon, you have nothing to worry about." Her hand, more persistent this time, gently tugged his chin, turning his face back toward her.
 
-"You said Stewart showed you something. What did he show you, Silas?" She looked at him, eyes widening in what would have been mistaken for anticipation by someone less perceptive. Instead, when combined with her tight lips and stiffened posture, it betrayed fear.
+"You said Stewart showed you something. What did he show you, Silas?"
+
+For a moment, Silas couldn't breathe. Stone dust coated his tongue—impossible, imagined—and the weight of a narrow space pressed against his shoulders. A cell. A tomb. Somewhere he had been confined willingly, waiting for something that never came. The sensation lifted as quickly as it arrived.
+
+She looked at him, eyes widening in what would have been mistaken for anticipation by someone less perceptive. Instead, when combined with her tight lips and stiffened posture, it betrayed fear.
 
 A woman opened her umbrella as she walked by, the clicking and whooshing sound drawing Silas and Lilith's attention for a moment. They both shifted on the bench to watch before focusing on one another again.
 
@@ -264,7 +268,7 @@ Stewart turned at the sound of the door, and in the city's ambient glow, Silas c
 
 "Professor Phalavan." The words carried no surprise, no distress. An observation, nothing more. "I thought they might send you."
 
-The rain had gentled to a mist that hung in the air rather than fell through it, catching the light from below and turning the rooftop into something between worlds. Silas took a step forward, feeling Lilith close behind him but not looking back.
+The rain had gentled to a mist that hung in the air rather than fell through it, catching the light from below and turning the rooftop into something between worlds. Silas took a step forward, and the cold hit him—wrong cold, old cold, a chill that had nothing to do with the Manchester night or the mist rising from the streets below. It settled in his bones as if it had always been there, waiting to be remembered. He felt Lilith close behind him but did not look back.
 
 "Stewart." He kept his voice even, the professional calm that had served him in the lecture hall. "Let's talk about what's happening."
 
@@ -364,7 +368,15 @@ Silas lunged.
 
 The distance between them collapsed—fifteen feet, ten, five—and time stretched in the way time stretches only at the threshold of irreversible things. Stewart's body was past the barrier now, the city lights reflecting in his eyes, his hand reaching back toward the rooftop, toward Silas, toward the connection he'd been trying to articulate.
 
-Silas's own hand extended, the helper identity's final act or something beyond it—the boundary between self and other already blurring, already meaningless, already collapsed into a single gesture that was both reaching and being reached for.
+And then something else—
+
+Snow. Silas saw snow, felt snow, was buried in it. Wind screamed through a silence so complete it stopped being sound. His fingers blackened and numb, meat freezing on bones that had already stopped belonging to him. Hunger—not for food but for something he'd failed to learn, a lesson that required other hands, other warmth, bodies he'd pushed away. The world going white. Muscles failing. The desperate knowledge of something dying alone because it had chosen alone, had hoarded alone, had believed alone was strength until the storm proved otherwise.
+
+He staggered. Caught himself on the barrier. The vision—memory?—passed, leaving only the rooftop, the city lights, Stewart's reaching hand.
+
+Silas didn't understand it. But it had been real.
+
+His own hand extended, the helper identity's final act or something beyond it—the boundary between self and other already blurring, already meaningless, already collapsed into a single gesture that was both reaching and being reached for.
 
 The mist caught the light from below. Stewart's fingers spread wide, pale against the darkness. Silas felt the edge of the barrier press against his hip as he leaned over, farther than balance should allow, farther than sense would permit.
 

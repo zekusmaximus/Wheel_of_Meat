@@ -1,6 +1,6 @@
 # Editorial Review: Death-Sighting
 
-## Scene: `scene-04-death-sighting.md`
+## Scene: `CH21-scene-04.md`
 
 ---
 

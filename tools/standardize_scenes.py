@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+from pathlib import Path
 
 def standardize_file(file_path, dry_run=False):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -55,7 +56,7 @@ def standardize_file(file_path, dry_run=False):
     return True, "File standardized"
 
 def main():
-    base_dir = r"c:\Users\zeke\Projects\Wheel_of_Meat\incarnations"
+    base_dir = Path(__file__).parent.parent / 'incarnations'
     count = 0
     dry_run = "--dry-run" in sys.argv
     

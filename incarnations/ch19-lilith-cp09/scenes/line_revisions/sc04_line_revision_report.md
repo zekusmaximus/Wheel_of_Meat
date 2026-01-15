@@ -1,6 +1,6 @@
 # Editorial Review: The Pause
 
-## Scene: `scene-04-pause.md`
+## Scene: `CH19-scene-04.md`
 
 ---
 

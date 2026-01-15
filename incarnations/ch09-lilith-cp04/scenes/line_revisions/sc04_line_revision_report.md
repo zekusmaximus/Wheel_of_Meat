@@ -1,6 +1,6 @@
 # Editorial Review: The Escalation
 
-## Scene: `scene-04-escalation.md`
+## Scene: `CH09-scene-04.md`
 
 ---
 

@@ -1,6 +1,6 @@
 # Editorial Review: Breakthrough-Death
 
-## Scene: `scene-05-breakthrough-death.md`
+## Scene: `CH19-scene-05.md`
 
 ---
 

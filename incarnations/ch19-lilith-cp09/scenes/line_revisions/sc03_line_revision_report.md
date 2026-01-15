@@ -1,6 +1,6 @@
 # Editorial Review: Doctrine Collapse
 
-## Scene: `scene-03-doctrine-collapse.md`
+## Scene: `CH19-scene-03.md`
 
 ---
 

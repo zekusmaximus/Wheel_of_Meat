@@ -1,6 +1,6 @@
 # Editorial Review: The Feeding
 
-## Scene: `scene-03-feeding.md`
+## Scene: `CH11-scene-03.md`
 
 ---
 

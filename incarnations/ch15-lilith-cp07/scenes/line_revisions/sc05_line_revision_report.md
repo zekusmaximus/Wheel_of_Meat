@@ -1,6 +1,6 @@
 # Editorial Review: The Memory
 
-## Scene: `scene-05-memory.md`
+## Scene: `CH15-scene-05.md`
 
 ---
 

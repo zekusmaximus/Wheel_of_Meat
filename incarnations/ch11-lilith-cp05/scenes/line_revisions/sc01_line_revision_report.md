@@ -1,6 +1,6 @@
 # Editorial Review: The Shift
 
-## Scene: `scene-01-shift.md`
+## Scene: `CH09-scene-01.md`
 
 ---
 

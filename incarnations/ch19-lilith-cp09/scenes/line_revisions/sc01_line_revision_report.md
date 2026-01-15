@@ -1,6 +1,6 @@
 # Editorial Review: Rain and Dust
 
-## Scene: `scene-01-rain-and-dust.md`
+## Scene: `CH19-scene-01.md`
 
 ---
 

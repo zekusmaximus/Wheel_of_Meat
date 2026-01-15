@@ -1,6 +1,6 @@
 # Editorial Review: Tightening
 
-## Scene: `scene-02-tightening.md`
+## Scene: `CH21-scene-02.md`
 
 ---
 

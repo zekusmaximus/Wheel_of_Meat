@@ -1,6 +1,6 @@
 # Editorial Review: The Discovery
 
-## Scene: `ch03-lilith-cp01/scenes/scene-01-discovery.md`
+## Scene: `ch03-lilith-cp01/scenes/CH03-scene-01.md`
 
 ---
 

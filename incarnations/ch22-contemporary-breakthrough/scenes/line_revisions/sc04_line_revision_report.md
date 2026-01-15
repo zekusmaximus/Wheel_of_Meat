@@ -1,6 +1,6 @@
 # Editorial Review: Silas Alone
 
-## Scene: `scene-04-silas-alone.md`
+## Scene: `CH22-scene-04.md`
 
 ---
 

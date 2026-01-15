@@ -1,6 +1,6 @@
 # Editorial Review: The Watching
 
-## Scene: `scene-03-watching.md`
+## Scene: `CH05-scene-03.md`
 
 ---
 

@@ -1,6 +1,6 @@
 # Editorial Review: Ka's Death
 
-## Scene: `scene-03-ka-death.md`
+## Scene: `CH03-scene-03.md`
 
 ---
 

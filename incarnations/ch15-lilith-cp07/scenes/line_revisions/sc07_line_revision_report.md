@@ -1,6 +1,6 @@
 # Editorial Review: The Fire
 
-## Scene: `scene-07-fire.md`
+## Scene: `CH15-scene-07.md`
 
 ---
 

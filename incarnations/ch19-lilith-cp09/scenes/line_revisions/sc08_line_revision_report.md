@@ -1,6 +1,6 @@
 # Editorial Review: Threshold
 
-## Scene: `scene-08-threshold.md`
+## Scene: `CH19-scene-08.md`
 
 ---
 

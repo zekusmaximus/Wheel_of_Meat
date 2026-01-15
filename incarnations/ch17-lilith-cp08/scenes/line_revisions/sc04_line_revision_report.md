@@ -1,6 +1,6 @@
 # Editorial Review: The Letter
 
-## Scene: `scene-04-the-letter.md`
+## Scene: `CH17-scene-04.md`
 
 ---
 

@@ -189,22 +189,14 @@ A fellow traveler. That was all. Curiosity about a parallel journey. The scienti
 
 *That was all.*
 
-The thread showed direction—forward through time, dense with accumulated pattern. The thread showed intensity—this consciousness burning brighter than most she had encountered. But the thread did not show destination. Where this pattern existed now, in her present, breathing somewhere in a world she could walk through but not yet locate—that remained hidden. To find him, she would have to follow. Death by death. Century by century. Until past became present and the thread ended where she could meet it.
-
-She had time. Surely she had time. The thread stretched forward through epochs she had not yet traced. Whatever this consciousness was becoming, it was not imminent.
-
-She believed this. The belief was comfortable.
-
 The phrase felt thin even as she thought it. There was more beneath: a pull she was unready to examine, an attraction that went beyond curiosity. A resonance she could not name. But naming could wait. For now she had proven a technique. Tomorrow—today, really, the morning already here—she would begin to use it.
 
 She turned from the window. The flat held its ordinary shapes: furniture and books and the detritus of a carefully constructed life. Behind it all, the thread hummed at the edge of her perception, waiting to be followed.
 
 Lilith did not sleep. She made fresh tea instead, watching the leaves bloom in hot water, and she did not think about blood in snow, or frozen hands, or the desperate hunger that had survived the death of the body.
 
-She thought about the thread. About where it led. About the consciousness still out there somewhere—Manchester, perhaps, or another city, another continent, she could not yet tell—still learning, still burning toward something she could almost see.
-
-The thread would show her. Eventually. When she had traced it far enough forward, when past collapsed into present, the destination would reveal itself. She had only to follow.
+She thought about the thread. About where it led. About the consciousness still out there, still learning, still burning toward something she could almost see.
 
 Again her grip tightened on the mug. A problem to solve. That was what she had found.
 
-She would solve it. She had time.
+She would solve it.

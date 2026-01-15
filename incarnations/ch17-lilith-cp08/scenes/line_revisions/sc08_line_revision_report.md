@@ -1,6 +1,6 @@
 # Editorial Review: One More
 
-## Scene: `scene-08-one-more.md`
+## Scene: `CH17-scene-08.md`
 
 ---
 

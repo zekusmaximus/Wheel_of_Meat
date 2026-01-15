@@ -1,6 +1,6 @@
 # Editorial Review: The Hoarding
 
-## Scene: `scene-02-hoarding.md`
+## Scene: `CH03-scene-02.md`
 
 ---
 

@@ -1,6 +1,6 @@
 # Editorial Review: Thread Shifts
 
-## Scene: `scene-01-thread-shifts.md`
+## Scene: `CH07-scene-01.md`
 
 ---
 

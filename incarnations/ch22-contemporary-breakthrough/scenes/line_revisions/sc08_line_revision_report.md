@@ -1,6 +1,6 @@
 # Editorial Review: Connection Sensed
 
-## Scene: `scene-08-connection-sensed.md`
+## Scene: `CH22-scene-08.md`
 
 ---
 

@@ -1,6 +1,6 @@
 # Editorial Review: The Descent
 
-## Scene: `scene-02-descent.md`
+## Scene: `CH11-scene-02.md`
 
 ---
 

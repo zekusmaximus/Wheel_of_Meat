@@ -1,6 +1,6 @@
 # Editorial Review: Loose Weave
 
-## Scene: `scene-01-loose-weave.md`
+## Scene: `CH21-scene-01.md`
 
 ---
 

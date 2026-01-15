@@ -1,6 +1,6 @@
 # Editorial Review: The Walls
 
-## Scene: `scene-01-walls.md`
+## Scene: `CH15-scene-01.md`
 
 ---
 

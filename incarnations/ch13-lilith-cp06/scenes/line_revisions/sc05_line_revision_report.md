@@ -1,6 +1,6 @@
 # Editorial Review: The Knot
 
-## Scene: `scene-05-the-knot.md`
+## Scene: `CH13-scene-05.md`
 
 ---
 

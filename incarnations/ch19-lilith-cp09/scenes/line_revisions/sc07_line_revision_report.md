@@ -1,6 +1,6 @@
 # Editorial Review: Positioning
 
-## Scene: `scene-07-positioning.md`
+## Scene: `CH19-scene-07.md`
 
 ---
 

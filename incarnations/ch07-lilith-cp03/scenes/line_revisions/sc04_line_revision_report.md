@@ -1,6 +1,6 @@
 # Editorial Review: The Wheel Turns
 
-## Scene: `scene-04-wheel-turns.md`
+## Scene: `CH07-scene-04.md`
 
 ---
 
