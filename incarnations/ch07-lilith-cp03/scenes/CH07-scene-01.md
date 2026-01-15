@@ -28,15 +28,25 @@ Her flat smelled of nothing. She had arranged it that way, sterile, unlived-in, 
 
 The thread hummed with a different frequency than Chandra's careful ledgers. This consciousness lived in its hands. Hands that reached without calculating, that touched without weighing cost against benefit, that could not stop offering even when the offering was killing him.
 
-She recognized the pattern.
+But something was different. Something had shifted from the patterns before.
 
-Not from Chandra. From before. From Ka, crouched in his cave with frozen meat, choosing isolation and calling it strength.
+She traced the evidence of what had accumulated. In his clinic, he had trained the young man Alexios—had asked what he noticed, valued insight his own attention had missed. The cooperation that had taken root in the earliest patterns remained intact, woven into behavior without conscious effort. He did not retreat to isolation when pressure mounted. He worked within networks, shared knowledge, relied on others' eyes.
+
+And when his hands touched dying flesh, there was no ledger-distance, no careful measurement of investment against return. He stayed. He witnessed. He gave himself, not just treatment.
+
+Two lessons, integrated into behavior before she could observe him struggling.
+
+The thought should have been clinical. Instead, something shifted in her chest—a wrongness she filed without examining. Progress visible. Progress undeniable. Progress that made her intervention with Chandra look like acceleration rather than impediment.
+
+She recognized the pattern beneath the progress. Not from Chandra's ledgers. Not from Ka's isolation. Something newer. Purer.
+
+This consciousness could not stop reaching. His hands on the dying were not calculation but compulsion—service that had become indistinguishable from self-destruction. A different flaw wearing a familiar face. The ego hiding inside virtue's clothing.
 
 *I see what went wrong.*
 
-The thought formed with the clarity of analysis, the comfort of understanding. Chandra's lesson had crystallized despite her intervention. She had accelerated rather than corrupted, had sharpened rather than dulled. A tactical error. A miscalculation of leverage.
+The thought formed with the clarity of analysis, but it rang hollow now. Chandra's lesson had crystallized despite her intervention. She had accelerated rather than corrupted, had sharpened rather than dulled. And if the pattern held—
 
-She would not make the same mistake with Philon.
+She stopped the thought. Filed it. Returned to the thread.
 
 *I'll correct.*
 
