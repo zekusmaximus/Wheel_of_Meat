@@ -20,9 +20,23 @@ They walked together past the stalls selling pottery and bronze, past the men al
 
 The clinic occupied a modest building near the edge of the Agora, a single room with a packed-earth floor and shutters that could be opened to let in light and air. Philon had worked there for six years, tending to injuries and illnesses that wealthier citizens took to private physicians in their own homes. A sprained ankle from a fall on wet stone. A fever that wouldn't break. A wound gone sour with infection. The people who came to him were laborers and freedmen, potters and tanners, the occasional slave sent by an owner too miserly to pay for better care. Philon treated them all with the same attention, which some saw as nobility and others as an inability to distinguish what mattered from what did not.
 
-By mid-morning, three patients had already come and gone. A boy with a deep gash on his forearm, sustained while helping his father load amphorae onto a cart. An old woman whose joints ached so badly she could barely walk, though there was little Philon could do beyond offering her willow bark and words that were kinder than honest. A young man with a cough that rattled in his chest like stones in a jar, the sound wet and thick. Philon had listened to his breathing, noted the pallor of his skin, and sent him away with instructions to rest and drink warm broths, knowing the advice was insufficient and knowing also that nothing he could offer would be enough.
+By mid-morning, three patients had already come and gone. A boy with a deep gash on his forearm, sustained while helping his father load amphorae onto a cart. An old woman whose joints ached so badly she could barely walk, though there was little Philon could do beyond offering her willow bark and words that were kinder than honest. A young man with a cough that rattled in his chest like stones in a jar, the sound wet and thick. He looked up at Philon with the expression of someone who expected to be dismissed. Philon set down his herbs and met the patient's eyes—not as physician assessing symptoms, but as one frightened human acknowledging another.
+
+"You are afraid," Philon said. "That is reasonable. I cannot promise the cough will pass. I can promise I will not leave you to face it alone."
+
+The young man's shoulders loosened, though the cough did not. Philon had listened to his breathing, noted the pallor of his skin, and sent him away with instructions to rest and drink warm broths, knowing the advice was insufficient and knowing also that nothing he could offer would be enough.
 
 Alexios watched him work with the focus of a student trying to memorize not just the techniques but the thinking behind them. He asked questions—why this herb and not another, how to know when a wound required cautery, whether it was safe to bleed a patient who had already lost blood from injury. Philon answered patiently, though part of him wondered whether he was teaching the young man anything worth knowing, or simply passing on the limits of what could be done.
+
+"You hesitated with the tanner," Alexios said quietly, during a lull between patients. "Before you examined his hand. Why?"
+
+Philon paused. He had not been conscious of hesitating. "What did you see that I missed?"
+
+"His other hand. He was gripping the doorframe. White-knuckled." Alexios's voice was careful, still learning when to speak. "I thought perhaps he feared the examination more than the injury."
+
+Philon considered this. The man had come willingly, had extended his infected hand without protest. But the other hand—yes. He had not looked at the other hand.
+
+"Tomorrow," Philon said, "watch his face when he returns. If you see fear, tell me before I touch him. The body heals poorly when the spirit is braced against the healer."
 
 "You hesitate before you touch them," Alexios observed, after the old woman had shuffled out into the sunlight. "Why is that?"
 
@@ -33,6 +47,12 @@ Philon paused in the act of cleaning his hands in a basin of water. The question
 "Then I act." Philon dried his hands on a length of linen, the gesture deliberate and unhurried. "Touch is not neutral. It can heal or harm, comfort or violate. You have to know which you're offering."
 
 Alexios nodded, though Philon could see he didn't fully understand yet. Understanding came from experience, and experience came from years that the young man had not yet lived.
+
+"What did you notice in the old woman's gait?" Philon asked, before Alexios could turn away. "I saw the swelling in her joints, but you watch faces while I watch bodies."
+
+Alexios considered. "She flinched before you touched her. Not from the joint—from something else. Something she didn't want to name."
+
+Philon had not seen it. The young man's eye for unspoken fear complemented his own clinical observation. Together, they perceived what neither could alone.
 
 The morning stretched toward midday. The clinic emptied. Philon sat on a low stool near the door, his back against the wall, and allowed himself a moment of stillness that felt less like rest than like the exhaustion of a man who had forgotten how to stop. His eyes drifted closed. The sounds of the Agora filtered in—vendors calling out prices, children laughing, the rhythmic clang of a blacksmith's hammer striking heated bronze.
 

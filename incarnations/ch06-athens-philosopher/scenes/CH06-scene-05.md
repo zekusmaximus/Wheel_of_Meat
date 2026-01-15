@@ -90,6 +90,12 @@ Alexios opened his mouth as if to argue further, then closed it. A current passe
 
 The young man turned and walked away. His footsteps faded into the rumble of the dying city. Philon watched until he could no longer distinguish the sound, then shouldered his bag and stepped out into the smoke.
 
+The street stood empty. The doorway behind him held only silence where Alexios's footsteps had been. Something tightened in Philon's chest—a cold that had nothing to do with the Mediterranean sun, an ancient wrongness that bypassed thought. For an instant he felt the absence of other bodies as a wound, as though solitude itself were closing in like stone walls he had never seen.
+
+The sensation passed as quickly as it had come, leaving only the faint impression of snow where no snow fell.
+
+He walked faster, toward the eastern gate, toward the woman who needed him.
+
 ---
 
 He found her where Alexios had described—slumped against the eastern gate, her body forming a dark heap against the pale stone. The guards had retreated to a distance, their faces covered, their spears pointed outward as though the sickness were an enemy that could be stabbed.

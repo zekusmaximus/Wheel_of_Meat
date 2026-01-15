@@ -18,6 +18,16 @@ And so they came to him. The ones turned away elsewhere. The ones whose neighbor
 
 "Will object. Yes." Philon did not look up from the woman whose pustules he was cleaning. The lesions had spread across her arms and chest, angry red circles that wept when touched and crusted over when left alone. She had stopped speaking yesterday; her eyes followed his movements with the mute gratitude of an animal that knows it is being helped without understanding how. "Let them object."
 
+A child lay in the corner, too weak to cry, her mother's hand pressed to her forehead as though love alone could draw out the fever. The protocols Philon had taught himself called for triage by severity. The child's breathing suggested she had hours, not days.
+
+He knelt beside her anyway. Not to treat—there was nothing left to offer—but to be present.
+
+"Tell me her name," Philon said.
+
+"Eirene." The mother's voice cracked. "It means peace."
+
+Philon placed his hand beside the mother's on the small forehead. Not healing. Witnessing.
+
 The magistrates did more than object. They arrived at midday, three men in the fine linen chitons of citizens with property and leisure, their faces arranged in expressions of concerned authority. Philon recognized one of them—Kallias, who sat on the Council of Five Hundred and had once praised the public physicians for their service to the polis. That seemed very long ago now.
 
 "Philon of Kephissia." Kallias spoke the name as if testing whether it still belonged to the man before him. "You have been summoned to relocate your practice to the upper city. The Council requires physicians of skill to attend to citizens of standing."
