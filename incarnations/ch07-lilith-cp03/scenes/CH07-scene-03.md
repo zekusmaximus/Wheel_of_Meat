@@ -46,15 +46,25 @@ The words carried across the empty space—futile, necessary, the speech of a ma
 
 *We are the same,* Lilith thought. Her hands had stilled on the mug.
 
-The observation arrived without alarm, without the horror that had accompanied it the first time with Ka. This was data now. Pattern recognition. The consciousness she tracked had a shape, and she was learning that shape, and the shape was familiar.
+The observation arrived without alarm, without the horror that had accompanied it the first time with Ka. This was data now. Pattern recognition accumulated across enough iterations to become signal rather than noise.
 
-His hands under the slave woman's body, lifting her. Her awareness under the thread, following it.
+Three times she had found herself in the thread. Ka hoarding in his cave, unable to release meat to the tribe. Chandra calculating in her ledgers, unable to release resources without measuring return. Philon reaching for one more patient, unable to stop offering what would cost him everything.
 
-Both of them had made themselves alone with something they could not save.
+Different faces. Same compulsion. Same inability to release.
 
-She understood his mistake with perfect clarity. He was conflating service with sacrifice, obligation with obsession. He would die reaching for one more patient. He would die with his hands on flesh that was already cooling. He would die because he could not see that the one was costing him the hundred.
+Her own hands—cold around ceramic gone cold—were performing the same gesture.
 
-She saw it. She documented it. She filed it with the pattern she was mapping.
+She understood his mistake with perfect clarity. He was conflating service with sacrifice, obligation with obsession. He would die reaching for one more patient—not because he had failed to learn cooperation (he had trained Alexios, shared knowledge, worked within networks without retreat to isolation), not because he maintained distance (he touched dying flesh, stayed present with suffering, gave himself and not just treatment).
+
+No. His mistake was newer. Purer. The ego hiding inside virtue's clothing.
+
+*Was the one for them—or for me?*
+
+The question was already forming in the thread, waiting to crystallize. She could feel its shape—the insight his dying would release, the lesson her intervention had not corrupted but concentrated.
+
+Two patterns corrected. A third emerging. And beneath her clinical observation, something else stirred—a wrongness she filed without examining.
+
+She saw his mistake. She documented it. She filed it with the pattern she was mapping.
 
 Her own hands around ceramic gone cold were performing the same gesture. Reaching. Holding. Unable to release.
 
