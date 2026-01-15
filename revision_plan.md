@@ -303,73 +303,210 @@ These changes address reading experience and narrative rhythm.
 
 **Problem:** Even with Lilith's search arc (1.2) and Silas's agency moments (2.1), the core historical rhythm persists: intervene → backfire → death-lesson. Readers need one outcome that breaks this pattern completely. The Tier 1-2 changes add variety in *her* activity and *his* resistance, but don't vary the *outcome* of intervention itself.
 
-**Solution:** One incarnation (Chapter 8-10 range) where Lilith's intervention succeeds exactly as intended—and the success is more disturbing than any backfire. This completes the outcome spectrum and deepens her arc by revealing what she actually wants, and why getting it is its own punishment.
+**Solution:** Chapter 14 (Diego de Mendoza, Inquisition Spain) is the ideal placement for a *successful* intervention that produces horror. The psychological horror genre of this chapter creates maximum synergy—Lilith's success becomes indistinguishable from the system's success in destroying him.
 
 **Placement Logic:**
 
 | Chapter Range | What Happens |
 |---------------|--------------|
 | 7 | Pivot: she realizes backfires accelerate him |
-| **8-10** | **Success-horror: she wins, and winning is terrible** |
-| 11-14 | Jean de Langon: he exercises agency, surprises her |
-| 15-18 | Jack Malone: he recognizes her, defies her |
+| 8-12 | Backfire pattern continues—reader expects this rhythm |
+| **14** | **Success-horror: she wins, and winning is terrible** |
+| 16-18 | He exercises agency, recognizes her, fights back |
+| 19+ | She's losing on every front |
 
-This sequence creates mounting collapse: her old strategy fails (backfires), her adjusted strategy fails worse (success-horror), and then he starts fighting back (agency). By Chapter 15+, she's losing on every front.
+This sequence works because the reader has been conditioned by 6+ chapters of backfires. When Chapter 14 *doesn't* backfire, the pattern break is felt viscerally. The late placement also means Lilith has exhausted other approaches—this is her peak power (sustained vessel-steering), and the success reveals the horror of what she actually wanted.
 
-**Implementation:**
+---
 
-Select one incarnation in the Chapter 8-10 range. The intervention should achieve her stated goal—impeding his progress—and produce one of these horror outcomes:
+## Foreshadowing the Horror: Chapter 8/9 Near-Miss
 
-**Option A: The Hollow Victory**
-- She successfully prevents the death-lesson. He dies bitter, regressed, having learned nothing.
-- The life simply... ends. No crystallizing insight. No hunger carried forward. Just cessation.
-- Watching this produces unexpected anguish in her. The absence of his progress feels like absence of *him*.
-- She realizes she's been feeding on the very thing she's fighting—his growth is what makes him HIM.
-- Horror: she doesn't want to stop him. She wants to beat him. Those aren't the same thing.
+Before Chapter 14's full success, plant a seed in Chapter 8 (Verinus) and Chapter 9 (Lilith's perspective). The reader—and Lilith—should glimpse what *almost* happens when her approach works.
 
-**Option B: The Mirror**
-- She successfully shapes him toward her own approach—strategic, calculating, treating enlightenment as something to be won.
-- For one life, he becomes like her. Grasping. Competing. Trying to optimize his way to liberation.
-- Watching herself reflected in him is repulsive. The thing she's trying to create is the thing she hates.
-- He dies having "progressed" by her metrics but something essential is missing—the quality that makes his thread worth following.
-- Horror: if she wins, she loses what she was racing toward.
+### The Near-Miss Beat (Chapter 8)
 
-**Option C: The Fracture**
-- She intervenes too forcefully. His consciousness doesn't progress OR regress—it dims. Fragments.
-- For several subsequent incarnations (glimpsed briefly), the thread is weak, hard to follow, nearly lost.
-- She experiences genuine terror: she almost destroyed him entirely.
-- The thread eventually reconstitutes, but she's shaken. There are limits to what she can do without losing him.
-- Horror: her power over him is also power to annihilate what she needs.
+**Placement:** Scene 7 (tribunal judgment), when Verinus is about to deliver his verdict.
 
-**Recommendation:** Option B (The Mirror) integrates most cleanly with her remaining fetter (attachment to winning). Seeing him become a competitor—and finding that repulsive—exposes what she actually values about him, which isn't his defeat.
+**What happens:**
 
-**Incarnation Selection:**
+For one moment, Verinus *almost* breaks the wrong way:
 
-Choose a life where "becoming strategic/calculating" would be a plausible corruption:
-- Verinus (Roman investigator): already procedural; could become politically calculating, abandon truth for advancement
-- Macarius (desert ascetic): could become spiritually competitive, treating enlightenment as achievement
-- Another figure whose integrity could be corrupted toward gamesmanship
+- He stands in the tribunal, evidence spread before him, the senator waiting
+- The contradictions press against him: the impossible timeline, the unresolved testimonies, the woman no one will name
+- Something rises in his chest—cold, righteous, consuming. *Rage*.
+- He imagines condemning Philo. The words are in his mouth. The senator would approve. The case would close.
+- The rage feels *good*. It feels like certainty restored. The old framework, rebuilt on anger rather than evidence.
+- For a moment, he is about to speak those words.
 
-**What to show:**
-- The intervention working. No backfire. She gets what she designed.
-- Her initial satisfaction: *Finally. This time it worked.*
-- The gradual horror as she watches the result
-- A visceral recoil she doesn't fully understand
-- Brief Manchester aftermath: she doesn't try this approach again. Back to opposition. But something has shifted—she's seen what she doesn't want.
+**Then—he sees Philo's hands trembling.**
 
-**What to avoid:**
-- Extended philosophical explanation of why this is horrible (show her recoil, don't analyze it)
-- Making the incarnation feel like filler (it should be a complete, affecting life even without the meta-horror)
-- Undermining subsequent backfires (her return to opposition should feel like retreat, not ignorance)
+- The servant's fear. Not guilt—*terror*. The recognition hits like cold water.
+- He pulls back from the edge. Makes the compassionate choice instead.
+- But the rage doesn't vanish—he *suppresses* it. It lingers beneath the verdict.
 
-**Acceptance criteria:**
-- [ ] One incarnation in Ch 8-10 range where intervention succeeds as designed
-- [ ] Success produces horror rather than satisfaction
-- [ ] Horror reveals something about what Lilith actually wants/values
-- [ ] She recoils from the success without fully understanding why
-- [ ] Incarnation works as complete narrative even without meta-level (readers who miss the implication still get a good chapter)
-- [ ] Subsequent interventions feel like retreat to familiar failure rather than repeating the success
-- [ ] Placement before Jean de Langon creates escalating collapse: success-horror → he fights back → she's losing everything
+**What this adds:**
+
+- A flash of the path not taken—what Chapter 14 will fully walk
+- Psychological horror elements introduced before the horror-genre chapter
+- The reader feels danger even in a "backfire" chapter
+
+---
+
+### Lilith's Recognition (Chapter 9)
+
+**Placement:** During or after her observation of the tribunal scene.
+
+**What she perceives:**
+
+- She felt it. The moment when Verinus's consciousness *tilted* toward what she wanted.
+- His rage was genuine—amplified by her pressure on the senator, yes, but arising from *him*.
+- Initial satisfaction: *There. Finally. He's ready to break.*
+- Then: he looked at the servant. Saw innocence. And chose differently.
+
+**The lesson she draws (incorrectly):**
+
+- *The face undid him. The visible innocence gave him something to protect.*
+- *Next time, remove that. Don't let him see the innocent. Don't let him recognize what he's destroying.*
+- This is the seed of her Chapter 14 strategy: block the release, prevent the recognition.
+
+**What this adds:**
+
+- Lilith's ticking clock intensifies—she was *this close*
+- Her Chapter 14 strategy becomes motivated by what she learned here
+- The reader sees her tactical evolution, making her success feel earned (and thus more horrible)
+
+---
+
+### Scene Additions Needed
+
+**Chapter 8:**
+
+| Scene | Addition |
+|-------|----------|
+| scene-07-judgment.md | Add 1-2 paragraphs: the rage moment before Verinus makes his choice. Show him *almost* condemning Philo, feeling the satisfaction of certainty-through-anger, then pulling back when he sees the trembling hands. |
+
+**Chapter 9:**
+
+| Scene | Addition |
+|-------|----------|
+| Tribunal observation | Add 1-2 paragraphs: Lilith's flash of satisfaction when she feels Verinus tilt toward rage, then her frustration when he chooses compassion. Her strategic recalculation: *the face undid him*. |
+
+---
+
+## Implementation: The Inquisition as Success-Horror
+
+**Why Chapter 14 is ideal:**
+
+The Inquisition chapter is already structured around hatred as the spiritual test. Diego's arc asks: "Can he endure this without being consumed?" The *intended* ending has him releasing hatred and dying at peace—seeding the doubt-without-bitterness needed for the Renaissance skeptic.
+
+**The revision flips this:** Lilith succeeds in cultivating hatred. Diego dies consumed. The horror is total because it uses the genre's own machinery.
+
+---
+
+### The Horror Mechanism: Identity Destruction
+
+**Lilith's intervention strategy:**
+
+Through Sor Catalina (her past incarnation as a beata/holy woman), Lilith has sustained vessel-steering capability. She uses this to:
+
+1. **Ensure Diego is denounced** — Not just arrested, but specifically accused by someone he helped, someone he saved. Betrayal from the community he served.
+
+2. **Poison his inner resistance** — Through Sor Catalina's positioned presence (visible through bars, attending his processing), Lilith creates the appearance of a witness who does nothing. Not an enemy—a bystander. The cruelty of indifference.
+
+3. **Feed the identity fracture** — The Inquisition already forces conversos to perform Catholic orthodoxy while suppressing heritage. Lilith ensures Diego's interrogation specifically targets this fracture, confronting him with evidence of his "secret Judaism" that he cannot refute (whether true or fabricated).
+
+4. **Block the release** — When Diego approaches the threshold of releasing hatred (the natural death-lesson beat), something intervenes. Perhaps Sor Catalina visits him in his cell, offering false comfort that curdles into manipulation. Perhaps a final betrayal—someone he forgave denounces him again.
+
+**The success:** Diego dies at the auto-de-fé consumed by hatred. Not defiant—broken. The system won. Lilith won.
+
+---
+
+### What Horror Looks Like (Diego's POV)
+
+**The unbroken hatred:**
+
+- He goes to the fire not peacefully, but with clenched fists and grinding teeth
+- The priest's absolution means nothing—he cannot forgive, cannot release, cannot let go
+- His final thoughts are poison: *They deserve this. All of them. Every face in this crowd.*
+- The crystallizing death-lesson doesn't come. His consciousness dims into rage, not insight
+- The chapter ends with absence—no karmic bridge, no hunger carried forward. Just... ending.
+
+**Genre synergy elements:**
+
+- The paranoia-atmosphere remains—but now it's succeeded in destroying him
+- The procedural dread culminates—the bureaucratic precision of cruelty achieves its purpose
+- The identity-horror completes—he dies not as Diego, not as a secret Jew, but as the broken thing the system made him
+- The "institutional horror" theme reaches its logical conclusion: the system designed to destroy was designed well
+
+---
+
+### What Horror Looks Like (Lilith's POV — Chapter 15)
+
+**Chapter 15 opens with Lilith's reaction:**
+
+The intervention worked. Diego died exactly as she designed—trapped in hatred, learning nothing, progressing nowhere. For the first time in countless lives, she actually stopped him.
+
+**The horror unfolds:**
+
+- Initial satisfaction: *Finally. This worked. He's no closer to enlightenment than he was a hundred lives ago.*
+- Then: the thread feels... different. Not severed, but thin. Colorless.
+- She follows it into his next incarnation and finds... less. The quality she's been tracking—the thing that draws her—is diminished.
+- Realization: his growth is what makes him *him*. She's been feeding on what she fights.
+- Deeper horror: *I don't want to stop him. I want to beat him. Those aren't the same.*
+- Visceral recoil she doesn't fully understand
+
+**Manchester aftermath (1-2 paragraphs):**
+
+She doesn't try this approach again. When the next incarnation presents opportunities for hatred-cultivation, she... can't. Returns to opposition. But something has shifted—she's seen what she doesn't want, even if she can't name it.
+
+---
+
+### Specific Scene Revisions Needed
+
+**Chapter 14 (Diego's chapter):**
+
+| Scene | Current | Revised |
+|-------|---------|---------|
+| scene-08-release.md | Diego releases hatred, achieves peace | Diego fails to release hatred; dies in bitter rage |
+| scene-09-fire.md | Peaceful death with crystallizing insight | Hollow death with no insight; consciousness dims into rage |
+| Sor Catalina beats | Witness presence only | Active cultivation: positioned betrayal, false comfort, blocked release |
+
+**Chapter 15 (Lilith's chapter):**
+
+| Scene | Current | Revised |
+|-------|---------|---------|
+| Opening scene | Normal tracking aftermath | Extended horror-reaction: she won, and winning is terrible |
+| Throughout | Standard intervention pattern | Haunted by what she succeeded in doing; cannot repeat it |
+
+---
+
+### What to Avoid
+
+- **Graphic torture focus** — The horror is psychological and spiritual, not physical. Diego's destruction is identity-level.
+- **Obvious villainy from Sor Catalina** — Lilith's vessel should seem helpful, sympathetic, even kind. The betrayal is subtle.
+- **Explaining the horror** — Show Lilith's recoil, don't analyze it. Let readers feel the wrongness.
+- **Weakening the standalone chapter** — Chapter 14 must work as a devastating Inquisition narrative even for readers who miss the meta-level.
+
+---
+
+### Acceptance Criteria
+
+**Foreshadowing (Chapters 8/9):**
+
+- [ ] Chapter 8 scene-07 includes the near-miss beat: Verinus almost chooses rage, pulls back when he sees innocence
+- [ ] Chapter 9 includes Lilith's recognition: she was *this close*, and learns to remove the "face" next time
+
+**Success-Horror (Chapters 14/15):**
+
+- [ ] Chapter 14 ends with Diego dying consumed by hatred, no death-lesson crystallized
+- [ ] Lilith's intervention (via Sor Catalina) actively cultivates the hatred—not passive witness
+- [ ] The failure to release hatred feels earned, not artificial—system pressure + intervention combine
+- [ ] Genre conventions (paranoia, procedural dread, identity horror) culminate in the system *winning*
+- [ ] Chapter 15 opens with Lilith's horror-reaction to her success
+- [ ] Lilith recoils from the success without fully understanding why
+- [ ] The thread feels diminished after—his growth is what makes him him
+- [ ] Subsequent interventions feel like retreat rather than repetition
+- [ ] Both chapters work as standalone narratives
 
 -----
 
@@ -400,32 +537,7 @@ Choose a life where "becoming strategic/calculating" would be a plausible corrup
 
 -----
 
-### 3.3 Add Clear POV Transition Markers
-
-**Priority:** LOW
-**Source:** Report 1
-**Status:** [ ] Not started
-
-**Problem:** Shifts from historical avatar's limited POV to Lilith's Manchester observation can feel abrupt. (Note: This is not head-hopping—POV discipline is maintained—but transitions need clearer signaling.)
-
-**Implementation:**
-
-- Establish consistent visual marker for POV shifts:
-  - Option: Centered `* * *` between sections
-  - Option: Blank line with `—` centered
-  - Option: Different typography (though this complicates production)
-- Apply consistently throughout manuscript
-- Consider adding brief "return to Manchester" phrase after marker: "In her flat, Lilith opened her eyes."
-
-**Acceptance criteria:**
-
-- [ ] Consistent marker chosen and applied
-- [ ] Every POV shift uses the marker
-- [ ] Reader always knows whose consciousness they're inhabiting
-
------
-
-### 3.4 Revise "The Teaching" Chapter
+### 3.3 Revise "The Teaching" Chapter
 
 **Priority:** MEDIUM
 **Source:** Report 1
@@ -452,86 +564,6 @@ Choose a life where "becoming strategic/calculating" would be a plausible corrup
 
 -----
 
-## TIER 4: Polish & Cleanup
-
-Address after structural and character work is complete.
-
-### 4.1 Fix Encoding Errors
-
-**Priority:** LOW
-**Source:** Neither report (identified in manuscript review)
-**Status:** [ ] Not started
-
-**Problem:** Manuscript contains corrupted characters—garbled smart quotes, em-dashes rendering as `â€"`, `â€™`, etc.
-
-**Implementation:**
-
-- Systematic find-replace pass:
-  - `â€"` → `—` (em-dash)
-  - `â€™` → `'` (right single quote/apostrophe)
-  - `â€œ` → `"` (left double quote)
-  - `â€` → `"` (right double quote)
-  - Other mojibake patterns as found
-- Verify encoding is UTF-8 throughout
-- Check for any remaining non-rendering characters
-
-**Acceptance criteria:**
-
-- [ ] No corrupted characters remain
-- [ ] All quotes and dashes render correctly
-- [ ] File encoding verified as UTF-8
-
------
-
-### 4.2 Audit Chapter Lengths
-
-**Priority:** LOW
-**Source:** Neither report
-**Status:** [ ] Not started
-
-**Problem:** Some historical lives may feel rushed relative to others. No systematic length analysis has been done.
-
-**Implementation:**
-
-- Create word count table for all chapters
-- Identify outliers (significantly shorter than average)
-- For each short chapter, determine:
-  - Does brevity serve the story? (Some lives should be brief)
-  - Does brevity feel rushed? (Needs expansion)
-- Expand where necessary to match density of stronger chapters
-
-**Target:** No historical life chapter should be less than 60% of the average length unless brevity is deliberate and effective.
-
-**Acceptance criteria:**
-
-- [ ] Word count table completed
-- [ ] Outliers identified and evaluated
-- [ ] Rushed chapters expanded or brevity justified
-- [ ] Pacing feels intentional throughout
-
------
-
-### 4.3 Title Decision
-
-**Priority:** LOW
-**Source:** Neither report
-**Status:** [ ] Not started
-
-**Problem:** "Wheel of Meat" is memorable but potentially alienating. "The Ten Fetters of the Boundless Thread" is accurate but cumbersome.
-
-**Options to consider:**
-
-- "The Boundless Thread" (retains central metaphor, cleaner)
-- "Wheel of Meat" (keep if beta readers respond strongly)
-- New title capturing both visceral image and transcendence arc
-- Test options with beta readers before final selection
-
-**Acceptance criteria:**
-
-- [ ] Minimum 3 title options developed
-- [ ] Options tested with beta readers
-- [ ] Final title selected based on response data
-
 -----
 
 ## Quick Reference: Priority Matrix
@@ -543,14 +575,9 @@ Address after structural and character work is complete.
 |HIGH    |2.1 Active agency for Silas (2 lives) |[x]   |
 |HIGH    |2.2 Deepen Lilith motivation          |[x]   |
 |HIGH    |2.3 Sharpen failure-to-lesson pipeline|[ ]   |
-|MEDIUM  |1.3 Clarify intervention rules        |[ ]   |
 |MEDIUM  |3.1 Break middle-section formula      |[ ]   |
 |MEDIUM  |3.2 Expand Silex/Lith chapter         |[ ]   |
-|MEDIUM  |3.4 Revise "The Teaching"             |[ ]   |
-|LOW     |3.3 POV transition markers            |[ ]   |
-|LOW     |4.1 Fix encoding errors               |[ ]   |
-|LOW     |4.2 Chapter length audit              |[ ]   |
-|LOW     |4.3 Title decision                    |[ ]   |
+|MEDIUM  |3.3 Revise "The Teaching"             |[ ]   |
 
 -----
 
