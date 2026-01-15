@@ -20,7 +20,25 @@ His hand moved to the stylus at his belt. The bronze met his fingers like an anc
 
 *He cannot abide ambiguity.*
 
-The recognition surfaced with clarity that felt like kinship. Multiple iterations now. Ka hoarding certainty in meat, Chandra hoarding certainty in ledgers, Philon hoarding certainty in reaching. Now this: a man who hoarded certainty in precision itself, in the ritual of cleaning bronze when reality refused to be clean.
+The recognition surfaced with the precision of a diagnosis. But this thread carried frequencies she had not anticipated.
+
+She traced what had accumulated across the pattern—and something cold moved through her awareness.
+
+In the baths, he asked his colleague what he noticed. *What did you make of the servant's hands?* Valued perception his own attention had missed. Changed his approach based on another's observation. The cooperation that had crystallized in Ka's lifetime remained intact. She had watched Ka struggle toward interdependence through the breaking of isolation; this consciousness simply practiced it, unconscious as breath.
+
+And when he entered the praetor's office, when he interviewed the frightened servant, she felt him set down his stylus, felt him meet the witness's fear directly rather than extracting testimony through procedural distance. *You are afraid. Not of me.* Presence given rather than answers demanded. The generosity she had watched crystallize in Chandra—already integrated. Already deployed without struggle.
+
+And the contradictions—she could feel how he held them. Three testimonies that refused to cohere, and he did not force resolution. *The truth was not in any single voice. It was in the space between them.* The wisdom she had watched crystallize in Philon—the capacity to hold complexity without collapsing into certainty or martyrdom—visible in how his mind worked.
+
+Three patterns. Three lessons that had crystallized across lifetimes. All visible in this consciousness before she could watch him struggle toward them.
+
+Something cold settled deeper. The pattern was undeniable now. Progress that made her intervention with Philon look like acceleration rather than impediment.
+
+But his hands moved automatically to the stylus. The cleaning motion began—bronze against cloth, order against chaos. And she saw what was *new*.
+
+He could collaborate, but only while certain. He could give presence, but only while the case remained solvable. He could hold contradictions, but only while cleaning his tools against the disorder they represented.
+
+The certainty itself was the flaw. Not Ka's isolation—he worked with Marcus as a true partner. Not Chandra's transactional distance—he gave presence without demanding answers. Not Philon's martyrdom-as-ego—he held complexity without sacrificing himself to it. A new vulnerability wearing a familiar face: the rigid demand for errorless conclusions before virtuous action could proceed.
 
 In her flat, her own hand reached for the laptop. The motion was identical, seeking an anchor, finding the familiar weight of a tool that promised control. She did not notice the parallel. She was too busy observing his.
 
@@ -36,13 +54,17 @@ His thought arrived in her awareness with such clarity that for a moment she cou
 
 She recognized the trembling.
 
-Philon had carried the same vibration before the plague took him: the certainty of his methods tested by reality's messiness, the framework straining against evidence that did not fit. Chandra had carried it before the fire. Ka had carried it before the ice.
+But this trembling was different. Ka had trembled toward isolation—the hoarding instinct, the fear of sharing what sustained him. Chandra had trembled toward distance—the ledger-mind, the transaction replacing presence. Philon had trembled toward martyrdom—the ego wearing sacrifice's face.
 
-*He is near the breaking point already.*
+Those tremors were absent in Verinus. He had none of Ka's hoarding; he shared his observations freely with Marcus. He had none of Chandra's distance; he stayed present with the witnesses' fear. He had none of Philon's martyrdom; he held complexity without making himself its sacrifice.
 
-The observation filed itself with the others. She leaned closer, feeling the shape of where to press. This consciousness was different from Philon's. Intellectual where Philon had been visceral, procedural where Philon had been instinctive. The vulnerability was the same however. A man who could not act without knowing. A man whose virtue depended on being right.
+*The previous flaws are gone. This flaw is new.*
 
-She could work with that.
+The observation filed itself with high alarm she refused to feel as alarm. Three lessons integrated. A fourth flaw emerging. The soul advancing through her interventions rather than despite them.
+
+She leaned closer, feeling the shape of where to press. This consciousness was different from Philon's. Intellectual where Philon had been visceral, procedural where Philon had been instinctive. And the vulnerability was different too—subtler, purer. A man who could not act without knowing. A man whose virtue had survived previous tests but depended still on being *right*.
+
+She could work with that. She had to believe she could work with that.
 
 The rain against her window drummed harder now, or softer. She could not say which. The laptop screen had dimmed to sleep mode, unnoticed. Hours had passed, or perhaps only minutes. Manchester receded further as Rome pressed closer, and somewhere beneath her sternum the thread of this new consciousness settled into place like evidence waiting to be examined.
 

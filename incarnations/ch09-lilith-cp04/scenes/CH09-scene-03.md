@@ -50,6 +50,20 @@ And she felt—
 
 For a moment, she could not sort which reaction was his and which was hers.
 
+He was building a case. She was building a case.
+
+His: contradictory testimonies, impossible timelines, evidence that refused to cohere into verdict. Hers: contradictory backfires, impossible patterns, interventions that refused to cohere into success. Both of them cleaning their tools against disorder that would not be cleaned. Both demanding certainty from systems that could not provide it. Both refusing to act until the numbers aligned—
+
+And the numbers would never align.
+
+She understood his mistake with perfect clarity. He was not hoarding meat like Ka; he shared his observations freely with Marcus. He was not hoarding distance like Chandra; he stayed present with witnesses' fear. He was not hoarding martyrdom like Philon; he held complexity without making himself its sacrifice.
+
+No. His mistake was newer. Subtler. Purer. The need for errorless conclusions before virtuous action could proceed. The certainty that virtue required certainty.
+
+She saw his flaw perfectly.
+
+She did not see that she was looking in a mirror.
+
 The philosophers argued about whether truth could be singular. She was arguing with herself about whether strategy could be perfected. The frustration in his chest matched the frustration in her chest. The trembling of his worldview matched her own trembling since Ka, since she first recognized in him the patterns she carried herself.
 
 *Which consciousness—*
