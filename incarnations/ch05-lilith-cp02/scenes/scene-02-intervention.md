@@ -18,7 +18,9 @@ She could press. She understood that now with a clarity that felt like discovery
 
 A pause arrested her.
 
-She had no objection to intervention in principle. Chandra needed to be hardened, needed to learn that trust was a vulnerability, needed to understand that his reformist certainty would destroy him if it continued to make allies of enemies. She was helping him. This pressure on Devaka would accelerate a betrayal that was already forming, would crystallize a lesson he needed to learn, would serve his development in ways his own blindness could.
+She had no objection to intervention in principle. The cooperation was genuine—she had observed it in the warehouse, in the investigation, in the partnership that valued what the other perceived. That lesson had already taken root. What remained was the transactional distance: giving measured, presence withheld, the suffering addressed in ledgers rather than in person.
+
+She was helping him. This pressure on Devaka would demonstrate that calculated giving fails—that resources exchanged cannot substitute for presence offered. The betrayal would strip the transaction bare, reveal what remained when the exchange collapsed.
 
 But there was a strangeness.
 

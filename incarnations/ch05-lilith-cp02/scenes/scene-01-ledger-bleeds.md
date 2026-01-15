@@ -20,11 +20,17 @@ Calculating. The word echoed strangely. She knew calculation intimately.
 
 In Pataliputra, Chandra sat in the weighted silence of his office, stylus moving across palm leaves in the rhythm she recognized from her own documentation habits. Grain received. Grain distributed. Loss rates attributed to vermin, spoilage, the inevitable friction of moving goods across distance. He trusted these numbers the way other men trusted gods, with a devotion that expected reward.
 
-The thread she followed was old in a different way than Ka's. Architectural complexity rather than temporal depth. A consciousness that had learned to build systems, to see patterns in aggregate. To miss the individual in favor of the sum.
+The thread she followed carried a different texture than Ka's. Not the raw isolation of the oldest patterns—this consciousness moved *through* systems rather than against them. Information shared rather than hoarded. Colleagues consulted rather than evaded.
+
+She traced the evidence through his recent memory. In the warehouse inspection, he had asked what his partner saw—had valued insight his own attention had missed. *Fifteen years of partnership*, the thought ran through him, *taught us both the value of what the other perceived.* When the investigation deepened, he had changed his approach based on another's observation. *I had not seen it*, he had admitted, and the admission had cost him nothing.
+
+Ka would have hoarded such observations, called vulnerability what this consciousness called interdependence. The lesson of together-strength had taken root.
+
+But something remained incomplete. The cooperation was genuine; the giving was measured. Resources flowed through careful channels while he maintained distance through calculation—present in the ledger of grain quotas, absent from the suffering the numbers addressed. A woman with an infant had looked for someone to see her. He had looked away.
 
 She watched him work. Her eyes were closed in Manchester, her body motionless in the armchair by the window, but in the place between she observed him with a clarity that exceeded normal vision. He did not sleep with his wife as she slept. He worked while others dreamed, refining figures that would determine who received and who went without.
 
-A relationship existed. She found it layered beneath the surface of his attention like sediment at a river bottom. Fifteen years of partnership, the closest thing to trust his calculating mind allowed. A man named Devaka. Their collaboration ran through Chandra's consciousness like a second current, present in every calculation, trusted without examination.
+A relationship existed. She found it layered beneath the surface of his attention like sediment at a river bottom. Fifteen years of partnership—genuine interdependence rather than calculated alliance. A man named Devaka. Their collaboration ran through Chandra's consciousness like a second current, present in every calculation. What Ka could never have allowed: dependency on another's perception, trusted because trust had proven its value.
 
 Beneath the trust: tension. She could feel it in the way Chandra's thoughts paused around Devaka's name, the microscopic hesitation that suggested awareness suppressed rather than absent.
 

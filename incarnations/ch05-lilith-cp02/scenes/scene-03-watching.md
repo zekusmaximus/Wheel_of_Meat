@@ -12,7 +12,15 @@ She could see what he could not.
 
 The pattern was clear from her vantage: Devaka's subtle hesitations, the microscopic tells that should have registered after fifteen years of partnership. The way his hands steadied when they should have trembled. The way his eyes measured distances when they should have held contact. She observed these failures of concealment with clinical precision, noting each one, cataloguing the architecture of a betrayal she had made inevitable.
 
-Chandra noticed some of it. The thread vibrated with his subliminal recognition, the splinter in his thoughts that refused to dislodge. Yet his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested. Fifteen years of calculation told him Devaka was loyal; the calculation could not be wrong.
+Chandra noticed some of it. The thread vibrated with his subliminal recognition, the splinter in his thoughts that refused to dislodge.
+
+She watched for the retreat—the protective hoarding Ka would have raised when the pattern turned hostile. It did not come.
+
+Even with the splinter in his thoughts, he continued to work *with* Devaka. Planned to reach Nagasena through network contacts. Relied on his partner to coordinate the parallel inquiries. The cooperation held. The interdependence held.
+
+Her fingers tightened on the chair arms. This was the integrated lesson proving its depth.
+
+Yet his ledger-mind translated suspicion into alternate hypotheses, found explanations that preserved the trust he had invested. Fifteen years of partnership told him Devaka was reliable; the pattern could not be wrong.
 
 *The numbers have never betrayed me.*
 

@@ -18,7 +18,15 @@ Her shoulders relaxed. Nothing was personal. Everything was calculation. The sat
 
 *He learned from this.*
 
-The thought formed itself with clinical precision. *The betrayal taught him that giving cannot be transactional. The lesson crystallized.*
+The thought formed itself with clinical precision. *The betrayal taught him that giving cannot depend on reciprocity. The fire crystallized what the investigation had begun—resources alone are insufficient. Presence is required.*
+
+But something troubled her—a wrongness she filed without examining. She had targeted the transactional framework, the distance he maintained through calculation. And it had broken. The woman with the infant, the workers in the fire—at the end, he had reached toward them rather than the ledgers.
+
+Yet the cooperation had held. Through the investigation, through the hints of betrayal, through the ambush itself, he had not retreated into Ka's isolation. The interdependence she had observed in the warehouse remained intact. The partnership that valued what the other perceived—that pattern had not broken.
+
+She had shattered the transactional framework. The together-strength had held.
+
+Her hands uncurled from the armrests. The intervention had worked. The outcome matched her calculations. She filed the wrongness without examining it further—the sense that something in this pattern was *learning*, was integrating lessons across iterations in a way her own calculations had not predicted.
 
 In Manchester, hours had passed again. The light through her window had shifted from amber to grey to something approaching dark. Fresh tea sat beside her, untouched, its steam long since dissipated. Her body ached in places she had failed to notice straining. Shoulders from gripping the chair, neck from holding still too long, temples from the headache that had not fully released. Her fingers, when she uncurled them from the armrests, left crescents pressed into her palms.
 
