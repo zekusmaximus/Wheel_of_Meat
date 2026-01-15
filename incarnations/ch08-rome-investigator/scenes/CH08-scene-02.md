@@ -64,7 +64,15 @@ Gnaeus frowned. "A copying error. My clerk must have—"
 
 "Do not." Verinus rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
 
-He gathered the scrolls and tucked them beneath his arm. The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. An unresolved tension in this case resisted the simple satisfaction of order restored.
+He gathered the scrolls and tucked them beneath his arm. But he paused before leaving, turning to Marcus. "You know Varro's work better than I do. You heard him lecture. What will I not see that you will?"
+
+Marcus considered this. "The student will perform for you. He will want you to think him worthy of Varro's attention. Watch what he does not say about their argument—that will be more telling than what he claims."
+
+Verinus had not thought of this. He had been preparing to test the student's account against the others, to search for contradictions in the testimony itself. Marcus saw what the performance would conceal.
+
+"Good," Verinus said. "Tell me when I miss it."
+
+The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. An unresolved tension in this case resisted the simple satisfaction of order restored.
 
 "Marcus," he said. "We begin at Varro's house."
 
