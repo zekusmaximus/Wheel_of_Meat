@@ -24,11 +24,15 @@ And somewhere beneath her awareness, the moment she had been preparing arrived.
 
 *Now.*
 
-The mechanism was ready. She could amplify his pride to the breaking point—push the warmth higher, make the gratification unbearable, shatter his composure until his hypocrisy was visible to everyone gathered in the sand. The delegation would witness the collapse. The scribes would record not wisdom but vanity. Macarius would be exposed, disgraced, his fifteen years of discipline revealed as the elaborate performance it had always been.
+The mechanism was ready. Four lessons crystallized in his behavior—cooperation, generosity, wisdom, virtue—and this fifth flaw coiled around them all like a serpent around the staff of healing. The pride of renunciation. The grasping of ungrasping. She could inflate it until the structure collapsed.
+
+She had been in the room for days. She had breathed the air he breathed, stood in a doorway that mirrored her flat's stripped containment. She had watched him not repeat the isolation, not repeat the distance, not repeat the martyrdom, not repeat the rigid certainty. Four lessons visible in a single man's behavior—more accumulated progress than she had seen in any iteration before.
+
+And she had learned from Verinus: push the certainty until it becomes condemnation. From Macarius: feed the pride until it becomes visible. The near-miss in the tribunal had shown her—she had been *close*. Verinus's certainty had aligned toward condemning the innocent, and only Philo's hands had broken through. She would not repeat that mistake. She would push harder. Seal the recognition before it could form.
+
+The moment was perfect. Fifty monks gathered. Scribes recording. The warmth in his chest building toward unbearable.
 
 *Push. Now. End this.*
-
-The intention formed with crystalline clarity. She had shaped it across days of observation, hours of subtle guidance, the patient construction of conditions that would maximize the intervention's impact. This was the moment. This was precision.
 
 Her will moved toward the amplification—the muscles in Theodora's back went rigid—
 
@@ -40,9 +44,13 @@ Three breaths. Five heartbeats. She was frozen in the vessel, awareness strainin
 
 But the body held.
 
-The bod, the meat, it was stupid, mortal, limited. It held back when her consciousness demanded action. She could feel the stillness in it, the same stillness she had admired in Macarius, the same stillness she had cultivated in her flat without examining why. The body knew something she could not parse. The body was speaking a language she had forgotten.
+The body, the meat—it was stupid, mortal, limited. It held back when her consciousness demanded action. She could feel the stillness in it, the same stillness she had admired in Macarius, the same stillness she had cultivated in her flat without examining why.
 
-*Strategic patience,* she filed desperately. *Optimal timing. The intervention will be more effective if the recognition comes from within.*
+But this body had been *present*. This body had stood in his cell for days, watching him not repeat their mistakes. This body had seen the four lessons crystallized into behavior before she could observe him struggling. This body had breathed the same air as a consciousness approaching something she could not name.
+
+And this body refused.
+
+*Body-knowledge,* she filed. *Vessel-noise. Strategic recalibration required.*
 
 The rationalizations stacked themselves like bricks. The hesitation remained beneath them, unexplained.
 

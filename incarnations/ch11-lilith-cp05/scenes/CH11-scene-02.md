@@ -52,6 +52,18 @@ Her flat. This cell. The shape was hers.
 
 The explanation satisfied her consciousness. The body she was wearing held a different knowledge: that this was home, this smallness, this practiced isolation. That standing in his doorway was standing in a mirror.
 
+But he was not repeating their mistakes.
+
+She could see it in the way he had deferred to Didymus's judgment on the palm fibers. In the way he had sent the young monk to Paphnutius instead of hoarding the moment of teaching. In the story she would hear him tell—of a theft dispute resolved without waiting for certainty, of acting when the numbers refused to align. In the way his interview answers would hold doctrinal contradictions without forcing resolution, without sacrificing himself to prove the point.
+
+Four previous struggles, not repeated. Four lessons crystallized into behavior she could observe through the body's eyes.
+
+And still: this new flaw coiled around the accumulated progress like a serpent around a staff of healing. The warmth that had spread through his chest when the young monk received his word. The spine that would straighten when praise arrived. The particular satisfaction that wore humility's mask so thoroughly it had forgotten itself.
+
+*He is nearer than I expected.*
+
+The observation surfaced with a weight that pressed against her awareness. Nearer to what? To the edge she was trying to push him toward? Or to something else—something she did not want to name?
+
 Macarius's eyes found her. Dark, surrounded by weathered skin, carrying the patience of a man who had learned to wait for visitors to reveal their purpose. For a moment his gaze held on her stillness. The perfect containment she maintained without thinking, the absence of fidget or breath. An adjustment that distinguished her from the scribes and priests who shifted in the doorway with mortal restlessness.
 
 His brow creased slightly. An almost-thought forming.
