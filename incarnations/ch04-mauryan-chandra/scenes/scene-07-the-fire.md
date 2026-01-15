@@ -20,7 +20,11 @@ The guards dispersed with practiced efficiency, flowing through the compound lik
 
 The workers had not been warned.
 
-He found them huddled in the narrow alleys between their quarters, laborers and their families emerging from doorways too small to properly frame an adult body. Men in rough cotton dhotis, women clutching infants, children pressed against their mothers' legs with the wide-eyed stillness of prey recognizing a predator. They looked at the armed guards surrounding their homes with faces that held no recognition, no understanding of why this morning had brought soldiers instead of the usual call to labor.
+He found them huddled in the narrow alleys between their quarters, laborers and their families emerging from doorways too small to properly frame an adult body. Men in rough cotton dhotis, women clutching infants, children pressed against their mothers' legs with the wide-eyed stillness of prey recognizing a predator.
+
+Something tightened in Chandra's chest—an aversion that bypassed thought, the irreducible pressure of too many bodies crowded into too small a space. The smell of sweat and fear pressed against him like a physical weight. He steadied himself by counting: forty-three workers, twelve guards, six alley junctions. The numbers held no smell. The numbers could not press.
+
+They looked at the armed guards surrounding their homes with faces that held no recognition, no understanding of why this morning had brought soldiers instead of the usual call to labor.
 
 The captain appeared beside him. "These are the warehouse personnel?"
 
