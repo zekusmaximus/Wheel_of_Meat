@@ -18,6 +18,8 @@ Theodora remained standing. She moved to the wall opposite the doorway, position
 
 Macarius recognized the structure of the inquiry—it was the structure of the philosophical interview, the Socratic method dressed in Christian clothing. Lead with questions that flattered the subject's experience. Draw out responses. Shape those responses, through follow-up and clarification, into a coherent doctrine. He had performed this technique himself, once, in another life.
 
+A faint pressure bloomed behind his eyes—familiar, though he had never traced its source. The structure of philosophical inquiry, with its careful redirections, its architecture of persuasion, triggered something that felt almost like memory. He pressed two fingers to his temple until the sensation passed.
+
 "Ask your questions."
 
 Theophanes smiled. It was the smile of a man who has received permission he expected but could not take for granted. "Let us begin, then, with discipline. What regimen shapes your days?"
@@ -75,6 +77,14 @@ Theodora whispered again. Theophanes nodded, as if to a suggestion.
 "But Abba, surely something can be said. The fathers speak of theosis—union with God. Is this what you describe?"
 
 "The fathers can speak as they choose. I speak of what I know, which is less than they know, and therefore less than I can give name to."
+
+"And on the nature of the Son?" Theophanes pressed. "The Arian controversy divides bishops. Surely the desert has offered clarity."
+
+Macarius was silent for a moment. Any answer would be recorded, circulated, weaponized.
+
+"I have met men who hold the Son as lesser, and their prayers moved mountains. I have met men who hold the Son as equal, and their charity rotted from pride. The theology in your head matters less than the love in your hands."
+
+Theophanes's face tightened—not the answer he had been sent to collect.
 
 "Your humility is admirable."
 

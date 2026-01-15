@@ -26,6 +26,8 @@ Was this what the fathers meant by preparation for teaching? Or was it something
 
 He did not want to look at the question too closely.
 
+A dispute had come to him the week before—two young monks, each accusing the other of theft. The evidence contradicted. The testimonies clashed. He had not waited for certainty that might never come. He set both monks to working side by side at the well, saying nothing of guilt or innocence. By the third day they had resolved it themselves. Virtue did not always require certainty. Sometimes it required only the willingness to act.
+
 The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had flagged for further exploration. Theodora did not accompany them, but her absence was somehow more noticeable than her presence had been. Macarius found himself looking for her in the doorway, listening for the quality of her silence.
 
 "The bishop has read your words with great attention," Theophanes said. "He sends his gratitude. He believes they may be of great use to the struggling faithful."
