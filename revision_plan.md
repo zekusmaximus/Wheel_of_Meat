@@ -269,19 +269,60 @@ The search arc itself becomes the primary vehicle for revealing Lilith's motivat
 
 **Implementation:**
 
-- Dedicated revision pass through each life transition
-- Add brief interior moments where each incarnation experiences inexplicable aversion to the previous failure mode:
+- Dedicated revision pass through each life transition.
+- Make the *inexplicable aversion* physically felt, so each avatar's new identity is a rigid overcorrection to the previous death's failure mode. This is the karmic engine: each "lesson half-grasped" becomes the next life’s cage. Strengthen the soul’s exhaustion by making these aversions repeat and intensify until the eventual breakthrough.
 
-|Life   |Core Flaw                            |Should Explicitly React Against           |
-|-------|-------------------------------------|------------------------------------------|
-|Chandra|Obsession with impersonal systems    |Chaotic personal violence (Ka's world)    |
-|Philon |Desperate focus on saving individuals|Failure to see "faces" (Chandra's ledgers)|
-|Silas  |Helper identity as attachment        |Martyrdom that saved no one (Philon)      |
+#### Overcorrection Cycle Expansion (Ka → Silas)
 
-- Examples:
-  - Chandra feels inexplicable revulsion at disorder, chaos, personal conflict
-  - Philon cannot look at spreadsheets without nausea
-  - Silas flinches from self-sacrifice rhetoric
+1. **Ka (Prehistory) → Chandra (Mauryan Empire)**
+   - **Previous Death Trauma:** Ka died in a "cave of cold," clutching "meat hard as rock" he refused to share while his tribe starved.
+   - **Overcorrection:** Chandra replaces personal greed with **impersonal imperial systems**.
+   - **Implementation/Aversion:** In Chapter 4, when Chandra stands on the platform, he feels a visceral revulsion at the crowd’s "irreducible noise"—a smell of sweat and fear that echoes a dark, crowded cave he can’t name. He should find comfort in **counting**, because numbers cannot be "hoarded" or "frozen" the way meat was.
+
+2. **Chandra → Philon (Ancient Athens)**
+   - **Previous Death Trauma:** Chandra chose "paper over people," saving imperial ledgers while a woman and child burned.
+   - **Overcorrection:** Philon rejects the "arithmetic of mercy," focusing obsessively on the **one life** in front of him.
+   - **Implementation/Aversion:** Philon should feel **nausea** when magistrate Kallias mentions "prioritizing treatment" by status—a ledger-style calculation. He should flinch at the sight of counting jars or scrolls, viewing them as instruments of death that "see numbers instead of faces."
+
+3. **Philon → Verinus (Ancient Rome)**
+   - **Previous Death Trauma:** Philon realized his "martyrdom" was egoism—he died for "the one" but left the "hundred" without a physician.
+   - **Overcorrection:** Verinus seeks a **framework for moral action** through Stoic reason and procedural investigation to avoid self-destructive emotionalism.
+   - **Implementation/Aversion:** Verinus feels an inexplicable disgust toward heroic plague-zone stories. When Marcus suggests he "listen to the emotion" of a witness, Verinus should feel **cold panic**, fearing he will "burn on a pyre he never chose" if he lets emotion in.
+
+4. **Verinus → Macarius (Desert Father)**
+   - **Previous Death Trauma:** Verinus learned "virtue lives where certainty fails" but died with subtle pride in his own mastery.
+   - **Overcorrection:** Macarius seeks **purity of devotion** through absolute silence to avoid the "noise" of intellectual pride.
+   - **Implementation/Aversion:** Macarius should feel a headache when the Archdeacon’s refined, philosophical questions begin—associating them with the **steam of the caldarium** and Rome’s shadowed ambition. He should view books and scrolls as "traps for the soul" that once cost him his peace.
+
+5. **Macarius → Kaoru (Heian Japan)**
+   - **Previous Death Trauma:** Macarius realized his holiness was a performance and died with desperate animal longing for softness and color.
+   - **Overcorrection:** Kaoru immerses himself in **aesthetics**, pursuing things that do not decay or stink of the desert.
+   - **Implementation/Aversion:** Kaoru should shudder at sand, mud, or unglazed clay. He should obsessively seek **plum blossoms** and perfumes because "unadorned earth" or "dry fibers" tighten his chest with a memory of starvation dressed as virtue.
+
+6. **Kaoru → Diego (Spanish Inquisition)**
+   - **Previous Death Trauma:** Kaoru learned that perfect beauty was a lie to hide rot; he must endure what is real.
+   - **Overcorrection:** Diego becomes a physician who finds safety in **usefulness** and clinical endurance of reality.
+   - **Implementation/Aversion:** Diego finds poetry and courtly manners physically irritating—cloying incense that hides sweet-rot. When he sees a beautiful woman like Sor Catalina, he should recoil instinctively, sensing her stillness as a predatory trap meant to freeze time.
+
+7. **Diego → Jean (Renaissance France)**
+   - **Previous Death Trauma:** Diego was consumed by a "coal of hatred" after betrayal by his friend Tomás.
+   - **Overcorrection:** Jean becomes a **radical skeptic**, using doubt as a fortress to avoid the vulnerability of trust or conviction.
+   - **Implementation/Aversion:** Jean should feel an inexplicable **coldness** toward old friends or anyone asking for a sacred secret. When Father Sorbin mentions devotion, Jean should feel a phantom sensation of **smoke and yellow fabric** (the *sanbenito*), then retreat into a counting gesture to weigh the threat.
+
+8. **Jean → Wei Shufen (Taiping Rebellion)**
+   - **Previous Death Trauma:** Jean realized purity of doubt was hiding and died asking what he could die for with conviction.
+   - **Overcorrection:** Wei finds a cause worth dying for and becomes an **obsessive medic**, determined to save every life.
+   - **Implementation/Aversion:** Wei should feel **fury** at anyone who says "I do not know" or "the evidence is inconclusive." When he sees a neutral official, his shoulder should ache (Jean’s old wound) and he should need to **count survivors** to prove action matters more than doubt.
+
+9. **Wei Shufen → Jack Malone (LA Noir)**
+   - **Previous Death Trauma:** Wei realized he was cursed—everyone he saved died anyway—but learned the trying matters.
+   - **Overcorrection:** Jack turns trying into a **pathological identity**, believing he is the only one who gives a damn in a city of looters.
+   - **Implementation/Aversion:** Jack should shudder at mass movements or heavenly-kingdom rhetoric. He should feel ill at the sight of "manna" (weeds) or rations, associating them with mass death he couldn’t prevent, and clutch his **individual case file** as the only real thing in the world.
+
+10. **Jack Malone → Silas (Modern)**
+   - **Previous Death Trauma:** Jack’s lone-wolf savior identity ends in isolation and exhaustion—trying matters, but it becomes a cage.
+   - **Overcorrection:** Silas clings to **relational help** (attachment to specific people as proof he’s not alone).
+   - **Implementation/Aversion:** When someone praises "the only one who gives a damn," Silas should feel a tightness in his chest, an urge to *pull someone closer* rather than stand alone. Lone-vigil imagery (stakeouts, solitary watch, the case file as the only truth) should trigger a subtle recoil and a reflex to seek partnership, even when it’s unsafe.
 
 **Acceptance criteria:**
 
