@@ -1,12 +1,26 @@
-Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked because the life she was tracking had just burned her strategy to ash.
+Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked.
 
 Lilith opened her eyes. Manchester reasserted itself. The same rain against glass, the same radiator clicking. The exact same arranged objects that she had placed without remembering the placing.
 
-She carried the backfire like weight in her chest.
+*This intervention worked.*
 
-Personal betrayal had produced personal release. The precision she had calculated had become the crucible in which Diego learned that even the most justified hatred could be set down. She had made it specific so it would poison specifically, and the specificity had given him something concrete to release.
+The thought settled into her chest with a weight that should have felt like victory.
 
-The pattern was no longer deniable.
+Diego had broken. His equanimity had shattered. His virtue had proven insufficient. His wisdom had become evidence against him. She had watched six iterations of accumulated progress crack under the weight of personal betrayal—watched the ember of hatred ignite in his eyes, watched the poison take hold exactly as she had engineered it.
+
+*He hated. For the first time in all my tracking, I succeeded in making him hate.*
+
+She filed the release—Diego's setting-down of that hatred—as anomaly. The intervention had achieved its purpose. He had experienced specific, personal hatred. The fact that he had then released it was his pattern. Opposition accelerated him. She had known this.
+
+But she had also *broken* him. For the first time, she had succeeded in destroying what he had built.
+
+*The next will be easier.*
+
+The rationalization settled into place. Personal betrayal worked. The method was sound. What she needed was not better opposition but—
+
+She stopped the thought.
+
+Something remained unexamined. The release had been genuine. Diego had set down the hatred she had planted with the same completeness with which he had experienced it. The specificity that should have poisoned him had given him something concrete to examine, to understand, to set down.
 
 *Opposition accelerates what I oppose.*
 
@@ -38,9 +52,9 @@ But beneath the filing, something else stirred. The silence that this work had b
 
 The need surfaced before she could suppress it. The first intimation of confession—before she was ready, but present. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
 
-She cut off the thought. Too soon. Too raw. The backfire was still fresh.
+She cut off the thought. Too soon. Too raw. The success did not feel like success was supposed to feel.
 
-But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that seven incarnations of failure had finally taught her to abandon.
+But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that accumulated failure had finally taught her to abandon.
 
 Something else. Something closer. Something that felt less like strategy and more like—
 

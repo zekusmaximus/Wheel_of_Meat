@@ -1,6 +1,6 @@
 The flat was too small.
 
-She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. tTe grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
+She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. The grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
 
 *Open.*
 
@@ -12,7 +12,7 @@ She lost it before she could name it.
 
 *He is there.*
 
-Not Diego, burning his way toward lessons she was trying to prevent. The other. The contemporary thread. The consciousness that had surfaced into a body that walked those corridors, spoke to students, held office hours while she tracked his past through centuries of accumulated karma.
+Not Diego, burning his way toward lessons she was trying to prevent. The other. The contemporary thread. The consciousness that had surfaced into a body that walked those corridors, spoke to students, held office hours while she tracked his past through centuries of accumulated pattern.
 
 She could trace the thread forward. Could find where it surfaced now. Could—
 
