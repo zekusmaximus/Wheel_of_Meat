@@ -4,6 +4,8 @@ Kaoru noticed it first as an absence of color. The maple along the western corri
 
 He had been coming every night for three weeks. Perhaps four. Time had begun to fold in on itself, the hours between visits contracting while the moments within the estate stretched like silk pulled too thin. His duties at court—the memoranda he should have drafted, the minor ceremonies he should have attended—had become abstractions, obligations that belonged to a version of himself that no longer quite existed.
 
+Tsunefusa had mentioned the Seiryō estate at last week's gathering—in passing, the way courtiers mentioned inconvenient truths. "I visited there once, two seasons ago. The lady's poetry was... adequate. Pleasant, even. But thin." He had hesitated, searching for the word. "Nothing like extraordinary." Kaoru had dismissed the observation then, certain his own aesthetic judgment was superior. Now, remembering the two voices from behind the screen, he wondered if Tsunefusa had been telling him something he was not ready to hear. The extraordinary verse had not come from Lady Hotaru. It had come *through* her, from somewhere else.
+
 Each evening, he brought gifts. Poetry on his finest paper. Incense from the markets near the eastern temple district. A bolt of autumn-colored silk that he had spent three days selecting.
 
 Each evening, the Attendant received them at the gate with a bow so precise it seemed rehearsed beyond any natural movement. She carried them inside without comment. He never saw them again—not displayed, not returned, not acknowledged in any of Hotaru's whispered conversations through the screen. They vanished into the house as completely as sound vanished into its corridors.
@@ -43,6 +45,8 @@ There—near the collapsed stone lantern, half-hidden by a screen of wild grasse
 She was bent over a pile of ash. In her hands, the remains of his maple branch smoldered, its red leaves curling into gray nothing. Beside her sat a basket of fresh green cuttings, their stems still weeping sap. She was shaking.
 
 Kaoru stopped. The Attendant had not noticed him—or if she had, she gave no sign. Her shoulders rose and fell with breaths that came too fast, too shallow. Her fingers, black with ash, scraped the remains of the maple into a small hole she had dug in the earth. Erasing it. Burying autumn itself.
+
+The ash pile, the bare earth, the absence—his chest seized without warning. For an instant the garden seemed to flatten into something parched and hostile, a landscape stripped of all moisture and shade. He tasted dust in his mouth, felt sun that was not there burning the back of his neck. Then the sensation passed, and he was standing in the wet overgrowth again, shaking.
 
 He should speak. Announce himself. Demand an explanation for this madness, this deliberate destruction of natural time. Instead, he watched.
 

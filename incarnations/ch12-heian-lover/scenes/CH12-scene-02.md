@@ -40,7 +40,11 @@ The final syllable hung in the incense-thickened air. Kaoru realized he had stop
 
 The poetry of the court celebrated beauty. It mourned impermanence. It played elegant games with seasonal imagery and layered allusion. What he had just heard did none of those things. It asked a question that he could not answer—and worse, a question he was not certain he wanted answered.
 
+He could memorize this verse—recite it at the next gathering, claim it as anonymous discovery, watch the other poets struggle to match what they could never match. The thought formed and dissolved in the same breath. The poem had been given to him, not to the court. Sharing it would have been a kind of theft he could not commit.
+
 "My lady," he managed. His voice came out rougher than he intended. "That was—"
+
+He stopped. What he had meant to say was *extraordinary*. What he had felt was something more complicated: the verse was flawless in ways that violated every rule he had been taught about what flawlessness meant. It was beautiful and it was wrong—two truths that should have cancelled each other but did not. He found he could hold them both without needing to choose between them.
 
 "Did I say something beautiful?"
 

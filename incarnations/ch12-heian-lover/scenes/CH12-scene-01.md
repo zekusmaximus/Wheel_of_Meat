@@ -1,14 +1,22 @@
 The scent of pine smoke and stale perfume hung beneath the eaves of the Kujō mansion, heavy as the brocade curtains drawn against the autumn chill. In the northern gallery, a dozen courtiers recited verses about chrysanthemums, each poem more exquisite than the last, each voice pitched to suggest depths of feeling that Fujiwara no Kaoru could not, despite his reputation, bring himself to counterfeit.
 
-He sat apart from the circle, his robes—autumn colors, browns bleeding into faded gold—arranged with deliberate carelessness over the cypress boards. A sake cup warmed his palm. His thumb traced its rim, again and again, a habit he could not remember acquiring.
+He sat apart from the circle, his robes—autumn colors, browns bleeding into faded gold—arranged with deliberate carelessness over the cypress boards. Earlier that evening, young Tsunefusa had offered a verse on wild geese that genuinely moved the assembly—imagery sharper than Kaoru's own contribution, though Kaoru had joined the appreciation without reservation. They had exchanged poems the month before, refining each other's autumn metaphors until both verses improved. Such was the nature of the craft: solitary brilliance served nothing; even the finest poems emerged from the friction of shared attention. A sake cup warmed his palm. His thumb traced its rim, again and again, a habit he could not remember acquiring.
 
 "*The morning dew*," one of the younger lords recited, "*lingers on the petal's edge—*"
 
 Kaoru stopped listening. The dew did not linger. The dew evaporated. The petal would fall. These men knew this, celebrated it in their verses, and yet they spoke of impermanence as though it were ornament, a pleasing melancholy to be worn like a new hunting robe and set aside when the season turned.
 
+Beside him, old Narimasa shifted uncomfortably on his cushion, his joints stiff after hours of formal sitting. The man had been favored once, his poetry sought by princes; now the younger courtiers overlooked him, uncertain whether attention would honor or embarrass. Kaoru leaned toward him without thinking. "Your verse earlier—the image of the fisherman's lamp—I found it stayed with me." Narimasa's face showed surprise, then something softer. Whether the praise was warranted or merely kind, Kaoru could not have said. But the old man had sat alone too long.
+
 He raised the cup to his lips. The sake was cold.
 
 A servant shuffled forward on his knees, bent nearly double, and placed a folded paper beside Kaoru's elbow. The bark grain was unfamiliar—not the smooth *torinoko* favored at court, but something rougher, fibrous, smelling faintly of sand and a heat that did not belong to this late-autumn evening.
+
+The young man's hands trembled. Kaoru noticed this before he noticed the paper's unusual weight; the tremor spoke of more than cold. "You have come far tonight," he said, not a question.
+
+The servant glanced up, startled at being addressed. "From the western district, my lord. The roads are—" He caught himself, remembering it was not his place to complain.
+
+"Difficult after the rains." Kaoru inclined his head. A small acknowledgment—a moment of seeing. The servant's shoulders loosened slightly before he pressed his forehead back to the floor.
 
 Kaoru set down his cup. His thumb continued its circuit along the ceramic edge for three rotations before he realized he was doing it, and stopped.
 
@@ -49,6 +57,8 @@ The air changed first. He noticed it before the cart slowed—a thickness, a sti
 Plum blossoms, which had no business blooming for another four months.
 
 The Seiryō Pavilion's outer walls rose on his left, and Kaoru understood why the place had earned its reputation. Collapse would have been less unsettling than what he saw. The wall had not crumbled—it had rotted, slowly, the plaster sloughing away to reveal wooden bones black with moisture. Moss climbed the exposed beams. A gate hung from a single hinge, caught mid-fall for what might have been years. Beyond it, darkness pooled like ink in a shallow dish.
+
+The exposed sections made his chest tighten. He did not know why—the stripped wood, the bare earth showing through gaps in the wall, something about the absence of ornament seized him like a closing hand. For an instant he could not breathe. Then the feeling passed, leaving only a residue of dread he could not name.
 
 But the path.
 
