@@ -2,6 +2,8 @@ Evening came early in autumn, the sun sliding behind Toledo's western walls and 
 
 He had not gone to Tomás's house. Inés's warning had been clear, and caution had served him well through forty-three years of performing safety. But the unease sat in his chest like undigested bread, heavy and sour, and so he walked instead—past the shuttered shops, past the fountain where women gathered to wash clothes and exchange whispers, past the church of San Bartolomé where he would attend Mass tomorrow morning as he did every Sunday, his presence noted, his devotion documented by the eyes that never stopped watching.
 
+The church's western door stood slightly ajar, and incense drifted into the evening air—frankincense and something sweeter that caught in Diego's throat. His chest tightened. He had never liked heavy incense, the way it seemed to thicken the air into something that resisted breathing, something cloying and deliberate. He walked faster, seeking cleaner air.
+
 A figure stood in the shadow of the church's western wall.
 
 Diego's feet slowed before his mind registered why. The woman wore the simple grey habit of a beata, her veil drawn forward to shadow her face. She stood motionless, hands folded at her waist, her attention fixed on something Diego could not see—or perhaps on nothing at all, the stillness of prayer or vision or some interior conversation that excluded the world entire.
