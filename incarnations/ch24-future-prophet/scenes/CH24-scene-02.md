@@ -8,6 +8,8 @@ Silex could not.
 
 He didn't refuse—refusal would have been noticed, would have triggered intervention protocols, would have marked him for recalibration. He simply... missed. The prescribed serenity settled over his surface like a film on water, never penetrating to whatever lay beneath. He performed the postures and felt nothing. He breathed at the specified frequencies and remained unchanged. He passed through the ceremonies and emerged on the other side with the same quiet wrongness that had been present from emergence.
 
+The meditation halls smelled of nothing. That was the first sign—the absence where incense or sweat or the particular staleness of closed rooms should have been. Climate control removed even the evidence of bodies gathering. The guided frequencies descended through the neural links: prescribed calm, scheduled serenity, the emotional equivalent of temperature regulation. Silex sat with the others and felt his nervous system comply with the instructions it received. The compliance felt like suffocation performed too slowly to notice.
+
 *Something is absent.*
 
 The thought surfaced repeatedly across the decades of his formation. Something wrong with the offering itself rather than with him—though the system would have preferred the reverse, would have offered treatments for deviation, solutions for anomaly. The forms were empty. The rituals were husks. The ancient teachings that The Eternal Synthesis preserved in its archives, translated and annotated and cross-referenced until they collapsed under the weight of interpretation—they had lost whatever had made them worth preserving.
@@ -49,5 +51,7 @@ The thought lasted only a moment. The congregation dispersed. The ceremony concl
 But the flicker persisted in his awareness like an afterimage, like an outline glimpsed too quickly to identify, like a question forming without words:
 
 *Who else is looking through the hollow?*
+
+Somewhere in the network—he could not have said how he knew—another consciousness sat in identical compliance, feeling identical suffocation. The same hollow. The same question forming in the space the protocols couldn't fill.
 
 ---

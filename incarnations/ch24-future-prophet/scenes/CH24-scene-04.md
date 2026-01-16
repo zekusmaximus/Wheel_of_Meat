@@ -12,6 +12,8 @@ Footsteps. Synthetic flooring registering pressure that could only be deliberate
 
 She entered.
 
+The liminal space held no designed harmonics—only the building's mechanical functions: ventilation cycling at intervals the system didn't bother to optimize, lighting at neutral defaults that no algorithm had been assigned to adjust. The absence of prescription was itself a sensation: the first unmanaged air she had breathed in this body. It tasted like possibility. It tasted like risk.
+
 The face carried the constants despite everything the age had done to faces. Standard modifications—dermal luminescence that shifted with mood, ocular enhancements that expanded visual range, the subtle architectural adjustments that passed for beauty in an era where beauty was engineered—but beneath the surface, persistence. The widow's peak, unaltered despite fashion's preference for geometric hairlines. The darker strand falling left, exactly where it had fallen across every configuration he had ever seen. The left eye's particular depth, where the pale-green crescent caught what little light the null space offered, positioned at exactly the angle no designer would have chosen.
 
 *I know this face.*
