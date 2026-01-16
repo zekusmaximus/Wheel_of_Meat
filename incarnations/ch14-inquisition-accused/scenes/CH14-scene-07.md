@@ -26,6 +26,12 @@ The guard left. Returned minutes later with a bucket of water that smelled only 
 
 He wet the cloth and began cleaning the man's face, working around swelling and contusions to clear crusted blood from nose and mouth. The man's breathing eased slightly—a small improvement, but improvement nonetheless. Airway clearing. Basic care. The foundation upon which all healing built.
 
+But the breathing remained wrong—too shallow, too guarded on the left side. Diego had assumed punctured lung, but the pattern did not match what he knew.
+
+"The ribs." A whisper from the adjacent cell. Through the grate, Diego glimpsed a face pressed close—another prisoner, watching. "Barber-surgeon, before. Watch how he guards the left. The lung is intact but compressed. Binding would ease it."
+
+Diego looked again. Saw the asymmetry he had missed, the protective curl that suggested pressure rather than puncture. He adjusted his assessment. Even here, one healer could still teach another.
+
 "Thank you," the man whispered. His voice was barely audible, each word clearly painful, but carried genuine gratitude that struck Diego's chest like a blow.
 
 Thank you. For this. For cleaning his face while his shoulders hung dislocated and his ribs ground against punctured lung tissue and his wrists wept clear fluid that suggested infection brewing beneath the burns.
