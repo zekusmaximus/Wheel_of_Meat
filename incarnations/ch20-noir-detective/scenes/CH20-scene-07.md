@@ -10,6 +10,8 @@ And somewhere beneath all the noise, buried under the catastrophe, the Combinati
 
 On the third day, the rain let up enough for me to venture out.
 
+The Red Cross had set up relief stations across the city. I passed one on my way to the office—a line of flood refugees shuffling forward to receive blankets, food, water. *Rations.* The word made my stomach lurch. I stopped on the sidewalk, hand pressed against a lamppost, fighting down a wave of nausea I couldn't explain. Something about the line of people waiting, the promise of provisions from above, made my gut clench like I was starving even though I'd eaten that morning. My hand found my notebook and gripped it hard, the only solid thing in the world. I didn't understand the feeling. I just knew I had to move.
+
 ---
 
 The city was unrecognizable.
@@ -111,6 +113,8 @@ I thought about it. Thought about getting on a train, heading east or north or a
 "I'm not finished," I said.
 
 "The case is finished. What's left?"
+
+*Someone has to give a damn.* The words rose from somewhere deeper than my own mind, older than this life, sure as stone. Not because it would succeed. Not because anyone would notice or care. Just because someone had to. Just because the trying was the whole point.
 
 I didn't have an answer. Not one I could put into words. But the thought was still there, that strange certainty that had been growing since the flood:
 

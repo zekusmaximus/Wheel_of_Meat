@@ -48,6 +48,8 @@ But I remembered Helen Marsh. Remembered the way she'd looked when she gave me h
 
 And now she was dead in a canyon, and the official story was "auto accident," and nobody would ever prove otherwise.
 
+The system had killed her. But the system was made of people—some monsters, some just scared, some both at once. I'd been a cop long enough to know you couldn't reduce any of them to their worst acts without lying, and you couldn't ignore those acts without becoming complicit. Both truths sat in my chest like stones. You learned to carry them both or you went crazy trying to choose.
+
 ---
 
 I kept working.
@@ -95,6 +97,8 @@ A message.
 I stood in the doorway for a long moment, the Colt heavy in my hand, listening for sounds that might indicate whoever had done this was still here. The building creaked and settled. Water dripped somewhere in the walls. Nothing else.
 
 I holstered the gun and walked inside.
+
+They'd ransacked my life and left a message written in scattered clothes and upended drawers. I waited for the rage to come—the fury that would fuel me through another round, another fight. It didn't. What came instead was something quieter: acknowledgment. This was Los Angeles. This was what the city did to men who pushed back. Rage would have felt good, but rage was a fire that burned you from the inside. I'd stopped feeding that fire years ago.
 
 They hadn't found anything, because there was nothing to find. The real evidence was in my office safe, not my room. But they knew I existed now. They knew I was looking. They knew where I lived.
 

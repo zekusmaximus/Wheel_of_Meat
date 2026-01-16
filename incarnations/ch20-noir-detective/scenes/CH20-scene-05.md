@@ -4,7 +4,7 @@ They'd been more thorough this time. The filing cabinet stood open, its contents
 
 I stood in the wreckage and felt something cold settle in my chest.
 
-This wasn't just a warning anymore. This was erasure. Someone was trying to unmake my case, piece by piece, as if it had never existed.
+This wasn't just a warning anymore. This was erasure. Someone was trying to unmake my case, piece by piece, as if it had never existed. I could have told myself it wasn't as bad as it looked. Could have pretended there was still a path through the wreckage, a way to turn this around. But I'd learned, somewhere along the way, that denial was just postponed pain. The case was collapsing. That was real. What I did about it—that was still up to me.
 
 The phone rang.
 
@@ -37,6 +37,8 @@ Another silence. When Vernon spoke again, his voice had changed—harder, with a
 I closed my eyes. Thought about Harry Raymond, lying in his hospital bed. Thought about Helen Marsh, burning in a canyon. Thought about Doyle and Muñoz and all the others who'd decided that silence was safer than speech.
 
 "Yeah," I said. "We have to try."
+
+Vernon started to thank me—to call me brave, to talk about what I'd sacrificed for the cause. I cut him off. "Don't. I'm just doing a job. The witnesses were the brave ones. The ones who are dead now." Making myself the hero of this story had a way of turning the story into something else. Let the reformers take the credit if there was any credit to take. I'd know what I'd done.
 
 ---
 

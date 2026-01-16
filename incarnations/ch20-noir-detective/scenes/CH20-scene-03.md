@@ -20,6 +20,8 @@ I took notes. The shipping firm's name—Pacific Coast Transport—rang a faint 
 
 She didn't blink. Just opened her purse and counted out the bills with fingers that trembled slightly. I gave her a receipt and told her I'd be in touch.
 
+"Mrs. Sinclair." She stopped at the door. "I have to tell you something. Missing persons cases—sometimes they end well. Sometimes they don't. I'll do everything I can, but I can't promise you'll like what I find." She looked at me for a long moment, and I saw something shift behind her eyes. Not disappointment—something closer to relief. "I know," she said. "I just need to know. Even if it's bad." I nodded. That was the hardest kind of client—the ones who wanted truth more than comfort. The ones you couldn't lie to even if lying would be kinder.
+
 After she left, I sat at my desk and stared at the notes I'd taken. Something about the case felt wrong—not the case itself, which was straightforward enough, but the timing of it. Six months of failing cases, then Vernon Shaw's reform money, and now a beautiful woman with a missing husband. Three pieces that didn't seem to connect but somehow felt like they should.
 
 I filed the feeling away and went to work.
@@ -30,13 +32,17 @@ Finding Frank Sinclair took me two days.
 
 He wasn't hard to trace. I started at the parking structure, bribed the attendant for his sign-out log (he hadn't signed out), then worked backward from there. The shipping firm was on a corner of Second Street, a squat brick building with Pacific Coast Transport painted on the windows in letters that had seen better decades. Frank's colleagues remembered him leaving at five. The receptionist had seen him heading toward the parking structure. Nobody remembered anything unusual.
 
-I spent the afternoon canvassing the blocks between the office and the garage. A shoeshine boy remembered a man matching Frank's description talking to another man on the corner of Second and Spring, around five-fifteen. They'd gotten into a car together. The shoeshine boy hadn't thought anything of it—businessmen got into cars all the time.
+I spent the afternoon canvassing the blocks between the office and the garage. Before I hit the streets, I called Sal Benedetto—another P.I., worked out of Glendale—and told him what I was looking for. That's how it worked in this business. You shared what you had, got what others had. A detective who hoarded information was a detective who missed the pattern that got him killed. Sal didn't have anything on Sinclair, but he said he'd ask around. Networks like that were the only thing keeping private men alive in this city.
+
+A shoeshine boy remembered a man matching Frank's description talking to another man on the corner of Second and Spring, around five-fifteen. They'd gotten into a car together. The shoeshine boy hadn't thought anything of it—businessmen got into cars all the time.
 
 The car was a Packard, dark green, California plates. That narrowed it down to about ten thousand cars in Los Angeles County.
 
 The second day, I got lucky. A beat cop I knew from my time on the force, one of the few who wasn't on the Combination's payroll, remembered a drunk and disorderly call from a flophouse on Fifth Street. The man had been raving about "Frank" and "the shipping company" and "they'll kill us both." The cops had let him sleep it off and released him in the morning.
 
 I found the flophouse. The clerk remembered the drunk—middle-aged, looked like he hadn't eaten in days, kept mumbling about numbers and ledgers. He'd checked out that morning, but the clerk had seen him head south toward the Mission District.
+
+It wasn't much—a drunk mumbling names, a direction he might have walked. Another detective might have called it thin, waited for something more solid. But solid evidence had a way of disappearing in this city, and the leads you dismissed were the ones that got people killed. I followed the thread anyway. You learned to trust your instincts or you spent your life waiting for certainty that never came.
 
 I worked the missions for the rest of the day. The third one, a place called Saint Vincent's, had given a meal to a man matching the description. He'd told the volunteer his name was Eddie Garza, and he was hiding from people who wanted to hurt him.
 
@@ -49,6 +55,8 @@ Frank Sinclair, accountant for a shipping company. Eddie Garza, bookkeeper for t
 Frank Sinclair hadn't gone missing. He'd run. And Eddie Garza was running too, from the same people, for the same reasons.
 
 I found Eddie Garza in an alley behind a Chinese restaurant on Alameda Street, huddled against a dumpster with a bottle of rotgut whiskey clutched in his hand. He was a small man, Hispanic, maybe fifty, with the hollow eyes and shaking hands of someone who'd stopped sleeping weeks ago.
+
+I could have questioned him right there—time was short, and he had information I needed. Instead I sat down on the wet pavement beside him, let the silence stretch. Some people you interrogated. Others you had to see first, reach first, before they'd give you anything real. He wasn't just a witness. He was a frightened man who'd lost everything, and that mattered more than my questions.
 
 "You Malone?" He looked up at me without surprise, as if he'd been expecting someone like me to find him eventually. "Frank said you might come."
 
@@ -102,7 +110,7 @@ The bar was dim and smoky, the kind of place where people came to disappear for 
 
 She was sitting in a booth across the room. Dark hair styled in victory rolls, a dress that caught what little light there was in the place. Beautiful, in a way that made you want to look twice, then look away, then look back again. Her face was angled toward the window, but I could see the sharp line of her widow's peak, the single darker strand that fell across her forehead.
 
-Something about her tugged at my attention. Not attraction—or not just attraction. Something else. A sense of recognition I couldn't place, like seeing a face in a dream and knowing it means something without knowing what.
+Something about her tugged at my attention. Not attraction—or not just attraction. Something else. A sense of recognition I couldn't place, like seeing a face in a dream and knowing it means something without knowing what. And beneath that, something that made my skin prickle—a wrongness in her beauty, like a painting too perfect to be honest. I'd learned to mistrust faces like that. The more carefully something was put together, the more likely it was hiding rot beneath.
 
 I watched her for a long moment. She didn't look at me. Didn't seem to notice I was there at all. She was watching the street outside, her expression unreadable, her hands wrapped around a glass she hadn't touched.
 
