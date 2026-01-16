@@ -12,7 +12,25 @@ Through Marguerite's eyes: shock. Through Marguerite's mouth: "And if you are wr
 
 "Then I will have acted honestly about what I did not know." Jean gathered the letter back into his case. His hands were steady now, his posture certain in a way it had not been since the investigation began. "That is not the same as manufacturing false certainty. It is accepting that truthfulness does not require omniscience."
 
-Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, the laptop glowing with a university page she had not meant to keep open. The flatness of her expression cracking into something she could not name and refused to examine.
+Through Marguerite's awareness—no, through something older—Lilith watched the moment crystallize.
+
+The words had come before the reasoning. She had seen it. Felt it. The way he reached for something that should have been inaccessible—accumulated wisdom, earned across lifetimes, bleeding through.
+
+*He's accessing it mid-life.*
+
+The recognition hit her chest like cold water.
+
+Every avatar before this one had learned their lesson in the dying. In the final moment when awareness thinned and accumulated lives could surface. Philon dying in the plague pit. Verinus choking on certainty. Diego releasing hatred as flames climbed his legs.
+
+Jean de Langon had reached for it while still breathing. Still choosing. Still capable of action.
+
+*The veil is thinning for him.*
+
+Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, chest tight in a way she would not name. The laptop glowed with a university page she had not meant to keep open.
+
+*He's approaching threshold. The accumulated lives are bleeding through.*
+
+*I'm running out of time.*
 
 No.
 
@@ -31,6 +49,24 @@ Clarified. The intellectual precision that should have been hers, deployed again
 He left.
 
 And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition that all interventions had produced backfires, and the pattern was structural.
+
+Jean had believed uncertainty absolved him of responsibility for action. She had watched him build that fortress stone by stone, question by question, until doubt became identity.
+
+*He cannot stop questioning even when questioning serves paralysis.*
+
+The observation arrived with the precision of diagnosis.
+
+And beneath the observation, something she would not examine: *I cannot stop strategizing even when strategy produces backfire.*
+
+The parallel pressed against walls that had no room for it.
+
+His doubt in exchange for safety. Her precision in exchange for success. The same bargain wearing different forms. The same belief that systematic analysis would produce the outcome they required.
+
+Jean's bargain had failed. His uncertainty had not protected him. Both factions would move against him for the report she had tried to prevent him submitting.
+
+And her precision—
+
+She filed the thought. Strategy did not require comparison.
 
 The method was sound.
 

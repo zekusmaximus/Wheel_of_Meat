@@ -12,9 +12,15 @@ He had accessed it mid-life. Not at death—mid-life. Every avatar before this o
 
 *He's accessing accumulated learning earlier than any previous incarnation.*
 
+*The veil is thinning for him.*
+
 The University of Manchester faculty page still glowed on her laptop. Backup strategy, she had called it. Contingency planning. But the pull toward present-day contact was strengthening, and the reason was crystallizing into something she could no longer dismiss.
 
 *He's not just progressing. He's accelerating.*
+
+*I'm running out of time.*
+
+Her jaw was clenched again. Her hands pressed flat against the desk as if to still them.
 
 Her fingers moved across laptop keys. The University of Manchester philosophy department page gave way to faculty listings. Course schedules. Campus maps showing buildings she had memorized without acknowledging why.
 

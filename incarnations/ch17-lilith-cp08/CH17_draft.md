@@ -12,6 +12,38 @@ In Manchester, Lilith examined the backfire that had been Sor Catalina. Emotiona
 
 Different method. More precise. Targeted.
 
+But first, what she observed.
+
+The thread carried Jean's signature, and the signature confirmed what should have been impossible. Not one lesson integrated. Not two. Every pattern she had tracked across millennia, crystallized into behavior before she could observe him struggling with the flaw.
+
+He moved within the Parlement's investigative framework without competition—consulted witnesses, deferred to evidence, shared findings openly. Ka's isolation was absent. When he examined testimony, he gave equal attention regardless of station—a servant's account weighed against a merchant's, presence offered freely without calculation. Chandra's ledger-mind had dissolved.
+
+And there: the diagnostic clarity. She watched him recognize the political trap embedded in his assignment without losing himself in despair. Philon's wisdom intact—the capacity to see systems while remaining within them. He maintained ethical standards despite faction pressure, didn't flee into collaboration or partisan conclusion. Verinus's rigid certainty absent—he acted virtuously without waiting for procedure to guarantee the outcome.
+
+Macarius's performance had dissolved. This one held genuine uncertainty, not tactical neutrality. No holy doubt that needed witness. Kaoru's grasping had released—he accepted professional mortality without attachment, held the investigation without freezing it.
+
+And—
+
+Her hands registered warmth they shouldn't. Manchester crept in: her fingers against cold ceramic, her jaw tightening.
+
+He doubted without bitterness. Questioned without resentment. The capacity to endure uncertainty without hatred.
+
+Diego's patience.
+
+But she had broken Diego. Had watched him experience specific, personal hatred toward the man who betrayed him. Had seen accumulated progress shatter under her intervention, watched the flames climb his legs while his face twisted with the ill-will she had cultivated.
+
+Except the lesson had formed anyway. Through endurance of destruction, not triumph. Patience crystallizing in the crucible of total loss.
+
+Her "success" had been no success at all.
+
+Seven patterns, integrated into behavior before she could observe him struggling with them.
+
+The observation she filed was larger than any she had filed before. Larger than tactical. Larger than strategic. The soul approaching something she would not name.
+
+One more method. This one would work.
+
+The thought arrived with a certainty that tightened her shoulders. She filed it as confidence.
+
 Jean de Langon used doubt as fortress. She could feel the architecture in his finger-touching sequence, the way each counted possibility became another stone in walls he had built around himself. Professional neutrality. Careful suspension of judgment. The belief that uncertainty absolved him of responsibility for action.
 
 She knew this fortress. She had watched Verinus construct something similar from Stoic principles. She had seen it in every avatar who preferred the safety of withdrawal to the risk of commitment.
@@ -181,7 +213,25 @@ Through Marguerite's eyes: shock. Through Marguerite's mouth: "And if you are wr
 
 "Then I will have acted honestly about what I did not know." Jean gathered the letter back into his case. His hands were steady now, his posture certain in a way it had not been since the investigation began. "That is not the same as manufacturing false certainty. It is accepting that truthfulness does not require omniscience."
 
-Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, the laptop glowing with a university page she had not meant to keep open. The flatness of her expression cracking into something she could not name and refused to examine.
+Through Marguerite's awareness—no, through something older—Lilith watched the moment crystallize.
+
+The words had come before the reasoning. She had seen it. Felt it. The way he reached for something that should have been inaccessible—accumulated wisdom, earned across lifetimes, bleeding through.
+
+*He's accessing it mid-life.*
+
+The recognition hit her chest like cold water.
+
+Every avatar before this one had learned their lesson in the dying. In the final moment when awareness thinned and accumulated lives could surface. Philon dying in the plague pit. Verinus choking on certainty. Diego releasing hatred as flames climbed his legs.
+
+Jean de Langon had reached for it while still breathing. Still choosing. Still capable of action.
+
+*The veil is thinning for him.*
+
+Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, chest tight in a way she would not name. The laptop glowed with a university page she had not meant to keep open.
+
+*He's approaching threshold. The accumulated lives are bleeding through.*
+
+*I'm running out of time.*
 
 No.
 
@@ -200,6 +250,24 @@ Clarified. The intellectual precision that should have been hers, deployed again
 He left.
 
 And in Manchester, Lilith sat in the grey light of almost-morning with stiff shoulders and a laptop screen and the recognition that all interventions had produced backfires, and the pattern was structural.
+
+Jean had believed uncertainty absolved him of responsibility for action. She had watched him build that fortress stone by stone, question by question, until doubt became identity.
+
+*He cannot stop questioning even when questioning serves paralysis.*
+
+The observation arrived with the precision of diagnosis.
+
+And beneath the observation, something she would not examine: *I cannot stop strategizing even when strategy produces backfire.*
+
+The parallel pressed against walls that had no room for it.
+
+His doubt in exchange for safety. Her precision in exchange for success. The same bargain wearing different forms. The same belief that systematic analysis would produce the outcome they required.
+
+Jean's bargain had failed. His uncertainty had not protected him. Both factions would move against him for the report she had tried to prevent him submitting.
+
+And her precision—
+
+She filed the thought. Strategy did not require comparison.
 
 The method was sound.
 
@@ -238,7 +306,23 @@ A pull in her chest she could not afford to call grief drew her toward him. Towa
 
 The race. The stakes. Strategic necessity.
 
-She filed the sensation and reached for the laptop.
+She filed the sensation.
+
+*Why am I still trying?*
+
+The thought surfaced before she could suppress it. Emotional manipulation had failed—Sor Catalina's backfire still fresh. Intellectual precision had failed—Jean's breakthrough still visible on that French road. The pattern was structural. Every intervention accelerated what she opposed.
+
+Any reasonable assessment would conclude: abandon historical intervention. The methodology itself was flawed.
+
+But she was already planning the next method. Already cycling through possibilities. Already reaching for one more.
+
+The persistence exceeded any rational justification for continuing.
+
+Something in her chest that had nothing to do with strategy. Nothing to do with the race. Nothing to do with winning. A pull that exceeded any rational calculation for why she should continue.
+
+She filed the observation and did not examine what it meant.
+
+She reached for the laptop.
 
 
 Grey Manchester light filtered through curtains she had not opened in days.
@@ -255,9 +339,15 @@ He had accessed it mid-life. Not at death—mid-life. Every avatar before this o
 
 *He's accessing accumulated learning earlier than any previous incarnation.*
 
+*The veil is thinning for him.*
+
 The University of Manchester faculty page still glowed on her laptop. Backup strategy, she had called it. Contingency planning. But the pull toward present-day contact was strengthening, and the reason was crystallizing into something she could no longer dismiss.
 
 *He's not just progressing. He's accelerating.*
+
+*I'm running out of time.*
+
+Her jaw was clenched again. Her hands pressed flat against the desk as if to still them.
 
 Her fingers moved across laptop keys. The University of Manchester philosophy department page gave way to faculty listings. Course schedules. Campus maps showing buildings she had memorized without acknowledging why.
 

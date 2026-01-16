@@ -28,4 +28,20 @@ A pull in her chest she could not afford to call grief drew her toward him. Towa
 
 The race. The stakes. Strategic necessity.
 
-She filed the sensation and reached for the laptop.
+She filed the sensation.
+
+*Why am I still trying?*
+
+The thought surfaced before she could suppress it. Emotional manipulation had failed—Sor Catalina's backfire still fresh. Intellectual precision had failed—Jean's breakthrough still visible on that French road. The pattern was structural. Every intervention accelerated what she opposed.
+
+Any reasonable assessment would conclude: abandon historical intervention. The methodology itself was flawed.
+
+But she was already planning the next method. Already cycling through possibilities. Already reaching for one more.
+
+The persistence exceeded any rational justification for continuing.
+
+Something in her chest that had nothing to do with strategy. Nothing to do with the race. Nothing to do with winning. A pull that exceeded any rational calculation for why she should continue.
+
+She filed the observation and did not examine what it meant.
+
+She reached for the laptop.

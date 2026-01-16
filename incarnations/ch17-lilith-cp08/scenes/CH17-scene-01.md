@@ -12,6 +12,38 @@ In Manchester, Lilith examined the backfire that had been Sor Catalina. Emotiona
 
 Different method. More precise. Targeted.
 
+But first, what she observed.
+
+The thread carried Jean's signature, and the signature confirmed what should have been impossible. Not one lesson integrated. Not two. Every pattern she had tracked across millennia, crystallized into behavior before she could observe him struggling with the flaw.
+
+He moved within the Parlement's investigative framework without competition—consulted witnesses, deferred to evidence, shared findings openly. Ka's isolation was absent. When he examined testimony, he gave equal attention regardless of station—a servant's account weighed against a merchant's, presence offered freely without calculation. Chandra's ledger-mind had dissolved.
+
+And there: the diagnostic clarity. She watched him recognize the political trap embedded in his assignment without losing himself in despair. Philon's wisdom intact—the capacity to see systems while remaining within them. He maintained ethical standards despite faction pressure, didn't flee into collaboration or partisan conclusion. Verinus's rigid certainty absent—he acted virtuously without waiting for procedure to guarantee the outcome.
+
+Macarius's performance had dissolved. This one held genuine uncertainty, not tactical neutrality. No holy doubt that needed witness. Kaoru's grasping had released—he accepted professional mortality without attachment, held the investigation without freezing it.
+
+And—
+
+Her hands registered warmth they shouldn't. Manchester crept in: her fingers against cold ceramic, her jaw tightening.
+
+He doubted without bitterness. Questioned without resentment. The capacity to endure uncertainty without hatred.
+
+Diego's patience.
+
+But she had broken Diego. Had watched him experience specific, personal hatred toward the man who betrayed him. Had seen accumulated progress shatter under her intervention, watched the flames climb his legs while his face twisted with the ill-will she had cultivated.
+
+Except the lesson had formed anyway. Through endurance of destruction, not triumph. Patience crystallizing in the crucible of total loss.
+
+Her "success" had been no success at all.
+
+Seven patterns, integrated into behavior before she could observe him struggling with them.
+
+The observation she filed was larger than any she had filed before. Larger than tactical. Larger than strategic. The soul approaching something she would not name.
+
+One more method. This one would work.
+
+The thought arrived with a certainty that tightened her shoulders. She filed it as confidence.
+
 Jean de Langon used doubt as fortress. She could feel the architecture in his finger-touching sequence, the way each counted possibility became another stone in walls he had built around himself. Professional neutrality. Careful suspension of judgment. The belief that uncertainty absolved him of responsibility for action.
 
 She knew this fortress. She had watched Verinus construct something similar from Stoic principles. She had seen it in every avatar who preferred the safety of withdrawal to the risk of commitment.
