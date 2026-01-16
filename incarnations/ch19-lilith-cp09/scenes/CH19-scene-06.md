@@ -30,9 +30,33 @@ Alive. Close. The presence she'd been tracking condensed into location, into dir
 
 The university. Philosophy department. A name she didn't know yet but could find, a face she would recognize when she saw it though it would be different from all the others—Wei's face, the woman in Chicago's face, the child in Bombay's face—because faces changed but the pattern underneath was constant.
 
+*Silas Pahlavan.*
+
+The name arrived with the location, attached to the presence the way a label attaches to something already known. She tested it silently, felt how it fit the pattern she'd been tracking. Different from Wei Shufen, from Jean de Langon, from all the previous names. But the consciousness underneath—that was constant.
+
 She would know him when she found him.
 
-The certainty settled through her with the weight of stone, of inevitability, of something beyond strategy though she called it strategic necessity. She had to find him. Had to assess how close he was to the threshold. Had to know whether she had months or weeks or days before the wheel turned one last time and the opportunity was lost.
+Relief crashed through her like water breaking a dam—months of tracking, centuries of history, nine catastrophic interventions, and finally she knew where he was. Present day. Manchester. Close enough that the pull had weight, had direction, had the quality of inevitability she'd felt since that first moment tracking Ka and recognizing something she couldn't name.
+
+*I've found him.*
+
+And then, beneath the relief: terror.
+
+Not the word she used. She called it strategic concern. But the sensation was older than strategy, rawer than calculation. She had found him—but she did not know how close he was.
+
+The thread showed location. It did not show spiritual status. Did not reveal whether Wei's final achievement—the outcome-independent determination, the release she'd accidentally caused—would manifest immediately in this life or whether there would be lag, breathing room, time to position before he crossed where she could not follow.
+
+She could sense him but not measure him. Knew where he was but not how close he was to stream-entry. Did not know whether she had months or weeks or days before he crossed.
+
+*What if I'm already too late?*
+
+The question arrived with the precision of a diagnosis. Her hands gripped the chair arms—the ache in her chest from Wei's death still phantom-present, still unexplained—and she felt both things at once: the relief of finding, the terror of not knowing.
+
+He could be one significant choice from crossing. Could have already crossed. Could be years away. She had no way to tell from location alone, and the thread offered proximity but not proximity-to-threshold.
+
+*I need more data.*
+
+The thought crystallized with desperate certainty. Track his immediate past life—Jack Malone, Los Angeles, 1930s. That death would tell her where he was in the process, how close to crossing, whether the race she felt in the architecture was measured in months or weeks or days.
 
 But there was something else beneath the urgency.
 
