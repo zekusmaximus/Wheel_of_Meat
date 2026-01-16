@@ -30,6 +30,24 @@ The question filed itself. She was here because the intervention required observ
 
 Because she could not stop watching him.
 
-The admission dissolved before it could complete. But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
+The admission dissolved before it could complete.
+
+And there—in his physician's hands held steady despite questions with no correct answers—she saw the parallel she would not name. Diego believed being useful would protect him. Had believed it through every consultation, every treatment, every diagnosis offered to a system that would consume him regardless of what he offered.
+
+*He cannot stop healing even when his healing serves the machinery consuming him.*
+
+The observation arrived with the precision of diagnosis.
+
+And beneath the observation, something she would not examine: *I cannot stop watching even when my watching accelerates him.*
+
+His bargain: service in exchange for safety. Her bargain: precision in exchange for victory. The same belief that control could be purchased through expertise. The same hands working at tasks that had ceased to accomplish what they intended.
+
+Diego's bargain had failed. His usefulness had not protected him.
+
+And her precision—
+
+She filed the thought. Strategy did not require comparison.
+
+But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
 
 And she did not know whose tightness it was.
