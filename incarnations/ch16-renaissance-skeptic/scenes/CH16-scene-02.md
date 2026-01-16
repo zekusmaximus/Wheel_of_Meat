@@ -74,6 +74,8 @@ Jean looked at the girl's face. She was frightened, he saw. Frightened of what s
 
 "Who would I tell, Monsieur? The Catholics would say it proves nothing. The Protestants would say I lie. And de Ségur is dead either way." Her eyes met his—direct, weary, old beyond her years. "I am telling you because you asked. But I don't know what good the truth does when both sides have already decided what they believe."
 
+Jean paused before making his next note. The investigation required testimony; something older than training required him to acknowledge the person who provided it. "You have carried this burden alone for days," he said quietly. "That is a heavy weight, especially for one whose words will be dismissed by those who prefer simpler stories. Thank you." Lisette's eyes widened fractionally—the surprise of someone accustomed to being useful rather than seen. It cost Jean nothing except the professional distance he usually maintained. But he had learned, somewhere in the accumulated years, that witnesses remembered being treated as people. And that memory shaped everything they chose to share.
+
 ---
 
 Jean rode back to his inn as evening fell. Three witnesses. Three mutually exclusive accounts.
@@ -86,6 +88,10 @@ The servant had heard de Ségur arguing with a fellow Protestant about betraying
 
 Jean touched his fingers in sequence, counting the contradictions. His training said: investigate further, cross-reference, find the inconsistencies that would reveal which account was false. But each account was internally consistent. Each witness believed their own testimony. And each version of events led to a different conclusion about who had killed Henri de Ségur and why.
 
+The contradictions might not indicate lies. Jean had learned this across fifteen years of investigation: witnesses could be simultaneously truthful and irreconcilable, each seeing a portion of something too large for any single perspective to contain. Forcing resolution where none existed was its own form of dishonesty—a premature certainty that satisfied the investigator's need for narrative rather than serving truth. He would hold all three accounts without yet determining which was false. Perhaps none were false. Perhaps the truth lay not in choosing between them but in understanding why honest perception produced incompatible visions.
+
+He had pursued each witness without waiting for prior verification—had sought the servant girl based on little more than the hope that someone at the estate might have seen de Ségur depart. The willingness to act on incomplete evidence was not the same as claiming false certainty. It was simply the recognition that investigation required movement, and movement required accepting uncertainty as the medium through which any truth was sought. A man who demanded verification before every step would never take the first.
+
 The rain began as he reached the inn. Jean stabled his horse and climbed the stairs to his room, where his notes lay spread across a table like pieces of a pattern that would not resolve into sense.
 
 This was the work he had built his reputation on: weighing testimony, finding truth beneath the claims of interested parties. He was good at it. He had always been good at it.
@@ -95,3 +101,5 @@ But tonight, for the first time in his career, Jean understood with cold clarity
 He lit a candle against the gathering dark and began writing his preliminary report. The merchant claims Protestant riders. The farmer claims Catholic soldiers. The servant claims factional conflict within Protestant ranks. Each account plausible. Each account unverifiable.
 
 The pen scratched. The candle burned. And Jean felt the first small crack in the fortress of doubt he had mistaken for wisdom.
+
+But the crack was not despair. Jean had spent fifteen years pursuing truth through investigation; he had also spent fifteen years learning that some truths remained inaccessible. This was not failure—it was the shape of reality, which exceeded human capacity to verify. The investigator who could not accept limits would break himself against them, or worse, would force conclusions where conclusions could not honestly exist. Jean accepted the uncertainty with a clarity that felt almost like relief. Some questions had no answers. Seeing that clearly was its own form of truth.

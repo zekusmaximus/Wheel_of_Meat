@@ -28,19 +28,29 @@ One supposes. The language of men who knew better than to claim certainty but wh
 
 "The road to the site?" Jean asked, because the practical questions were easier than the philosophical ones, and because he had already accepted. One did not refuse Bernard de Lacaze, and more importantly, one did not refuse the possibility that careful investigation might yet find something true.
 
+He would need his network: old Thierry in Libourne who tracked every face through the wine market, the notary's widow in Agen who owed Jean a debt from the de Montfort inquiry two years past, perhaps the innkeeper near the crossroads whose neutrality matched Jean's own. No investigation succeeded through one man's effort. The witnesses lied to protect themselves; the network existed to compare the lies, to find truth in the spaces between self-serving accounts.
+
 "Patrols from both sides. You'll need letters of passage." De Lacaze produced them from a drawer—documents signed and sealed, stating Jean de Langon acted under the authority of the Parlement. "Captain de Castelnau commands the Protestant forces in the region. Father Sorbin represents Catholic interests. Both have been informed you are coming. Both will wish to ensure you find the correct conclusions."
 
-Jean took the letters. The seals were authentic, the signatures properly witnessed. They would protect him or condemn him depending on what he found. "How long do I have?"
+Jean took the letters. The seals were authentic, the signatures properly witnessed. They would protect him or condemn him depending on what he found.
+
+De Lacaze reached into a second drawer and withdrew a small leather purse. "Additional compensation," he said quietly. "Beyond the standard fee. For the dangers you will face." Jean let the purse remain on the desk. Not from performance of incorruptibility, not for the magistrate's benefit—simply from recognition that extra coin would not change his methods and accepting it would change his relationship to the work. De Lacaze said nothing as he returned the purse to the drawer, though his eyes flickered with something that might have been reassessment.
+
+"How long do I have?"
 
 "The widow petitions for resolution. The Crown wishes to know if the incident threatens the peace. The Catholic League claims Protestant aggression. The Protestant command claims Catholic assassination." De Lacaze's voice was steady, but his hands, visible now in the candlelight, bore ink stains and the slight tremor of a man who had not slept well in some time. "You have as long as it takes to determine the truth. You have three weeks before I must report to the Parlement."
 
 Three weeks to untangle a killing both factions had already weaponized. Three weeks to find truth in a province where truth was the rarest commodity, hoarded and counterfeit in equal measure.
+
+The investigation would likely fail. Jean understood this without bitterness—simply with the clear-eyed assessment of a man who had attempted enough impossible assignments to recognize another. The factions had already weaponized the killing; the truth lay buried beneath narratives that preceded his involvement. But the impossibility did not sour him. He had learned, somewhere in the accumulated years, to work without expecting success. The work was what he could offer. The outcome belonged to forces larger than one investigator's diligence.
 
 Jean gathered the documents, folding them carefully into his leather case. The letters of passage went into an inner pocket, close to his chest where they would stay dry and where a knife would have to cut deep to reach them.
 
 "I will send word as I have findings to report," Jean said, and heard the careful hedge in his own voice—*findings*, not *conclusions*; *as I have*, not *when*. The language of a man who knew how to avoid commitment even in his promises.
 
 "God keep you on the road," de Lacaze said, and it was not merely formula. On the roads of Guyenne in 1588, one required all the keeping one could pray for.
+
+De Lacaze's hand briefly touched Jean's arm as he spoke—a gesture of personal concern born from eight years of shared work. Jean should have felt comfort in that familiar touch. Instead, a chill passed through him, quick and inexplicable. Old friends who shared confidences. Trusted bonds between men who knew each other's secrets. Something in his body flinched from the pattern, though his mind supplied no reason for the revulsion. The moment passed, and Jean attributed it to the weight of the assignment ahead.
 
 Jean descended the magistrate's stairs into a Bordeaux evening turned dark with rain. His horse waited in the courtyard, already saddled by the magistrate's groom—a preparation that spoke of de Lacaze's certainty that Jean would accept, or perhaps of the older man's need to have this investigation begun before sunset.
 
