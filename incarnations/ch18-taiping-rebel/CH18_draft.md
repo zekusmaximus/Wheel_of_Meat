@@ -1,8 +1,188 @@
 **Word count: 1,458**
 
+Wei Shufen counted his supplies at dawn.
+
+Three pouches of yarrow, nearly exhausted. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, assuming he cut them thin. The arithmetic was always the same: not enough. Never enough.
+
+Old Huang arrived as the light crept through the temple windows. "South Ward station has extra willow bark," he said. "I told them we'd share the yarrow."
+
+Wei nodded. This was how they survived—the medical network stretching across the besieged city like a web of fragile cooperation. He had learned this slowly, through losses that taught him a medic who hoarded supplies was a medic who would eventually watch patients die for want of what he refused to share. Information and resources flowed between the ward stations: patterns of infection, artillery angles, which herbs still worked and which had spoiled. No one survived the siege alone.
+
+"The shoulder case from yesterday," Wei said. "How is he?"
+
+Huang shook his head. "Fever rose in the night. Infection is spreading."
+
+Wei gathered his bag and walked to the patient's mat. The man—a soldier named Liu, twenty-three years old, wounded in the last wall skirmish—lay with his eyes closed, his breathing shallow. The shoulder wound was hot to the touch, the flesh around the stitches red and swollen.
+
+"The infection might respond to honey-garlic," Wei said. "Or it might not. I cannot say for certain."
+
+Liu opened his eyes. "Will I lose the arm?"
+
+Wei examined the wound again. The redness had not yet spread past the shoulder joint. The fever was high but not critical. He had seen wounds like this go either way—sometimes the body rallied, sometimes the infection won. The symptoms refused to resolve into diagnosis.
+
+"I don't know," Wei said, and as the words left his mouth something tightened in his shoulder—a phantom ache in a place that had never been wounded, a flash of frustration rising in his chest without source or target. He breathed through it. The feeling passed, leaving only the honest uncertainty that was all he could offer. "The infection may spread or it may retreat. I will treat it as if it will retreat. That is the honest position."
+
+Liu's face showed something like relief. "Thank you for not lying."
+
+Wei cleaned the wound, packed it with fresh paste, changed the bandages. His hands moved through motions so familiar they required no thought. When he finished, he sat back on his heels and looked at Liu—not at the wound, but at the man.
+
+"You have family?" Wei asked.
+
+"A mother in Changsha. A younger brother." Liu's voice was weak but steady. "Haven't seen them in four years."
+
+"Tell me about them."
+
+It was not a medical question. The answer would not affect treatment. But Wei had learned that some wounds required medicine while others required witness. Liu talked for twenty minutes—about his mother's cooking, his brother's ambition to become a scholar, the house with the peach tree in the courtyard. Wei listened without calculating, without counting, simply present. When Liu's eyes finally closed in exhausted sleep, Wei rose quietly and returned to his supply inventory.
+
+Old Huang watched him from across the temple floor. "You spend too much time on hopeless cases."
+
+"Perhaps," Wei said. "But he is not a case. He is Liu, and his mother is waiting in Changsha."
+
+Later that morning, the Shishuai's aide arrived with a message: Colonel Fang wished to recognize Wei's work with an extra rice ration, officer's privilege for his service to the West Ward.
+
+Wei let the offer pass.
+
+Not from pride. Not from performance of humility he hoped others would notice. Simply from recognition that he was not hungrier than his patients, and the rice would be better distributed through the temple kitchen where it could feed three instead of one. The aide left confused, having expected gratitude. Wei did not explain. Some decisions did not require witness or justification.
+
+By midday, Liu's fever had broken. The infection was retreating.
+
+Wei added him to the count: *Forty-eight saved. Twenty-three lost.*
+
+The ratio was holding, still tipping toward life. Wei did not trust it—the siege would grind on, the supplies would dwindle, the arithmetic would eventually close against him. But for now, the ledger remained in the black, and the work continued.
+
+That afternoon, a new patient arrived: a civilian woman with a cough that had persisted for weeks. Her symptoms were ambiguous—fever, fatigue, blood in the sputum. Could be consumption. Could be lung infection. Could be something Wei had never seen before.
+
+"I cannot tell you what this is," Wei said, examining her. "The symptoms suggest several possibilities, none certain."
+
+"But can you treat it?"
+
+Wei considered. Without diagnosis, treatment was guesswork. But guesswork based on experience was still better than nothing. He had learned that a medic who demanded certainty before acting would watch patients die while gathering evidence.
+
+"I will treat it as lung infection," he said. "If the treatment works, we will know. If it doesn't, we will try something else. Medicine is not certainty. Medicine is informed trying."
+
+She nodded. Accepted the herbs he gave her. Left with instructions to return in three days.
+
+Wei watched her go and felt the familiar weight of uncertainty settle on his shoulders. Most of his diagnoses were guesses—educated guesses, but guesses nonetheless. The body did not always declare its ailments clearly. Sometimes evidence refused to resolve. Sometimes "I don't know" was the only honest answer.
+
+He had made peace with this. The trying mattered even when the knowing was incomplete.
+
+Evening came. The pyre smoke from the cremation ground drifted over the temple walls, carrying the smell of burning flesh and incense. Wei updated his ledger, checked on Liu one more time, and prepared for the night's wounded.
+
+The siege was in its third year. Food was running low. The Qing artillery had found their range. And somewhere outside the walls, an army of two hundred thousand waited for the city to starve.
+
+But inside the temple, the work continued. Wei counted his supplies, coordinated with the other ward stations, and waited for the next impossible choice.
+
+The ledger read forty-eight saved, twenty-three lost.
+
+Tomorrow, the ratio might change. Tonight, Wei would do what he could with what he had, and call that enough.
+
+---
 
 **Word count: 1,587**
 
+The artillery barrage came without warning.
+
+Wei was in the middle of changing Liu's bandages when the first shell hit the West Wall. The explosion shook the temple floor, knocked dust from the ceiling beams. Liu's eyes went wide; Wei pressed a hand to his shoulder and said, "Lie still."
+
+Three more explosions in rapid succession. Then the screaming started.
+
+Old Huang was already moving toward the door. "Market district," he said. "They've found the range on the civilian quarter."
+
+Wei finished Liu's bandages with quick, efficient movements and grabbed his medical bag. By the time he reached the market street, the wounded were already arriving—carried by family members, dragging themselves along walls, stumbling in shock. The shell had hit a food distribution line. Thirty people, maybe more.
+
+Wei assessed the scene with clinical precision. Triage. The word came automatically, the system his hands knew better than prayer.
+
+He pointed to a clear space near the temple wall. "Bring them there. Old Huang, start sorting. Young Ping—" He looked around. Ping had appeared from somewhere, pale-faced but steady. "Boil water. All of it."
+
+The wounded came. Wei sorted.
+
+A man with shrapnel in his leg—immediate, survivable with treatment. A woman with a chest wound, breathing bubbling—expectant, would die regardless. A child with cuts across her face and arms—delayed, not critical. On and on, the arithmetic brutal and necessary.
+
+Three of the thirty were expectant. Would die no matter what Wei did. He marked them, gave them water, told them the truth: "The wound cannot heal. I can give you comfort, someone to sit with you. I cannot give you recovery."
+
+One of them—a middle-aged man with intestines visible through his torn abdomen—gripped Wei's wrist. "Is it quick?"
+
+"It will not be long," Wei said. Quiet, steady, honest. "You will sleep, and then you will not wake."
+
+The man's face twisted—not with fear, but with something like gratitude. "Don't leave me alone."
+
+Wei looked at the twenty-seven others who needed treatment. Looked at the three expectant cases who would die. The contradiction pressed on him: save those you can, stay with those you cannot. Medicine demanded one answer; mercy demanded another.
+
+He did not force resolution.
+
+"I will stay until you sleep," he said. "Then I must help the others. But you will not be alone when it matters."
+
+He sat with the man for fifteen minutes, holding his hand, listening to his breathing slow. When the man finally lost consciousness, Wei rose and moved to the next patient. The contradiction remained—he had chosen both answers, imperfectly, without pretending either was wrong.
+
+Old Huang was working on the trampled man when Wei reached him. "Broken ribs," Huang said. "I've bound them. Should heal."
+
+Wei nodded and moved to check the next patient—then stopped. Huang was still looking at the trampled man, frowning.
+
+"What?" Wei asked.
+
+"His lips. They're going blue."
+
+Wei turned back. Huang was right—the man's lips had a faint bluish tinge Wei had missed in his initial assessment. He had diagnosed broken ribs and moved on. But Huang had seen what Wei had filtered out.
+
+"The ribs are pressing on the lung," Wei said, understanding immediately. "Lung is collapsing."
+
+He adjusted his treatment—propping the man upright, rebinding the ribs differently to create space, watching the color slowly return to the man's lips as the lung reinflated. The correction came without defensiveness. Huang had seen what Wei had missed; the patient would live because of it.
+
+"Good catch," Wei said.
+
+Huang shrugged. "You taught me to watch the small things."
+
+By evening, eighteen of the thirty wounded had been stabilized. Three were dead—the expectant cases, as predicted. Nine remained uncertain, their survival dependent on factors Wei could not control: infection, internal bleeding, the body's mysterious capacity to heal or fail.
+
+Wei sat on the temple steps as the sun set, washing blood from his hands in a bucket of cold water. His back ached. His eyes burned. The ledger in his pocket felt heavy, waiting to be updated.
+
+Eighteen stabilized. Three dead. Nine uncertain.
+
+*Sixty-six saved. Twenty-six lost. Nine pending.*
+
+The arithmetic was shifting, the ratio tightening. Wei had felt it all day—the sense that he was running a race against something he could not see, that the ledger was approaching some terrible equilibrium.
+
+But the work continued. The work always continued.
+
+Old Huang sat beside him, his own hands still stained with the day's labor. "You stayed with the dying ones," he said. It was not a question.
+
+"They needed someone."
+
+"The living needed you more."
+
+Wei considered this. It was true in one sense—the mathematics of triage said treat the savable first. But it was also false in a way that mathematics could not capture.
+
+"A man dying alone dies worse than a man dying witnessed," Wei said. "I cannot prove this. I cannot quantify it. But I believe it is true."
+
+Huang was silent for a moment. Then: "My father died alone. In the Taiping advance, before I joined. We found his body three days later."
+
+Wei said nothing. Some statements required only silence.
+
+"You're a strange medic, Shufen," Huang said finally. "You count everything, but you also stay with the ones who don't count."
+
+"They count," Wei said. "They just count differently."
+
+The night deepened. In the temple behind them, the wounded slept or moaned or prayed. Tomorrow there would be more artillery, more casualties, more impossible arithmetic. The siege was tightening. Food was scarce. The Qing guns had found their range.
+
+And the pattern Wei had not yet noticed was beginning to take shape—the patients he saved dying in subsequent weeks, the coincidences that were not coincidences, the invisible hand tilting the ledger toward loss.
+
+But that was later.
+
+For now, Wei dried his hands, returned to the temple, and began his evening rounds. Liu was sleeping peacefully, his fever still down. The trampled man was breathing easier, his color restored. The nine uncertain cases were stable for the moment.
+
+Wei updated his count: *Sixty-six saved. Twenty-six lost.*
+
+The ratio held. Barely.
+
+He did not pray. Did not hope. Only worked, one patient at a time, holding the contradictions without forcing resolution, accepting the limits of what medicine could do while still doing everything medicine allowed.
+
+It was not enough to save everyone. It had never been enough.
+
+But it was what he had. And he would give it until there was nothing left to give.
+
+---
+
+**Word count: 1,728**
 
 They returned at dawn. Two of them.
 
@@ -36,6 +216,8 @@ He thought of the twenty men he had released to die. Thought of Fang's flat voic
 
 The doctrine said one thing. The bodies said another.
 
+He could have let this become hatred—for the Qing who had ambushed them, for the Heavenly King whose doctrine had failed, for the God who had promised protection and delivered slaughter. Wei felt the possibility of bitterness like heat near a fire, present and available. He let it pass through him without taking hold. The hatred would not bring back the eighteen. The rage would not close the ledger in his favor. He registered the facts cleanly: the doctrine had promised, the protection had not come, and the work continued regardless. Clean observation. Not acceptance, but endurance without poison.
+
 Wei remained kneeling, not in prayer but in exhaustion, while outside the pyre collapsed into ash and embers. The count was one hundred three saved, ninety-seven lost, and the gap was closing with a speed that felt like drowning.
 
 Behind him, the temple was silent except for the breathing of the new wounded who had already arrived. Tomorrow there would be more. There were always more.
@@ -50,8 +232,7 @@ The night deepened. The pyre burned low. And in the temple, Wei counted his supp
 
 ---
 
-**Word count: 1,728**
-
+**Word count: 1,982**
 
 Wei heard the whispers three days later.
 
@@ -127,6 +308,8 @@ He stared at the fifteen names. Twelve dead. Three survived or vanished. He thou
 
 The pattern was real. He could feel it now, could see the shape of it even if he could not understand the mechanism. Something was wrong. Something beyond war's normal chaos. Something targeting his patients specifically.
 
+Wei's hands clenched involuntarily. Twelve of fifteen dead—the pattern certain, the cause unknown. Why? The question demanded an answer that did not exist. His shoulder seized suddenly, a sharp ache in muscle that had never been wounded, and fury rose in his chest at the absence of explanation. Evidence without mechanism. Pattern without cause. His jaw tightened against words he could not speak: *I don't know why this is happening.* The fury passed as quickly as it came, leaving only a residue of frustration that had no target. Wei unclenched his hands. The answer would not come through anger.
+
 Wei took the list outside and burned it.
 
 He watched the charcoal names smudge and curl as the paper caught fire. Watched the smoke rise into the evening air, carrying the evidence away. The list was gone, but the pattern remained. The knowledge remained. And the count—the terrible, inexorable count—remained most of all.
@@ -147,6 +330,8 @@ The pattern was visible now. The whispers were spreading. And Wei had no explana
 
 Perhaps they were right. Perhaps he was cursed.
 
+Wei sat with this possibility. Did not flee from it into denial or comfortable explanation. Did not manufacture certainty where none existed. The pattern might be coincidence stretched by grief. Might be curse, if such things were real. Might be something he lacked the categories to comprehend. He could face the uncertainty squarely, without pretending the evidence said what it did not say. Some truths could not be escaped by refusing to look at them.
+
 And if he was cursed, what did that mean for everyone still breathing who had passed through his hands?
 
 The question had no answer. Wei rose, extinguished the lamp, and lay down on his mat in the darkness. Tomorrow would bring more wounded. The count would continue. And the gap—that terrible, narrowing gap—would close further still.
@@ -155,8 +340,7 @@ He did not sleep that night. He only counted.
 
 ---
 
-**Word count: 1,982**
-
+**Word count: 1,858**
 
 The line stretched for blocks.
 
@@ -274,8 +458,7 @@ And so he would give it.
 
 ---
 
-**Word count: 1,858**
-
+**Word count: 1,924**
 
 By midday, the city had fractured into chaos.
 
@@ -421,8 +604,7 @@ It was all there had ever been.
 
 ---
 
-**Word count: 1,924**
-
+**Word count: 1,652**
 
 Wei followed at a distance.
 
@@ -524,8 +706,7 @@ And waited.
 
 ---
 
-**Word count: 1,652**
-
+**Word count: 1,502**
 
 Wei stood.
 

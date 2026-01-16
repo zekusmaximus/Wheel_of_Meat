@@ -72,6 +72,8 @@ He stared at the fifteen names. Twelve dead. Three survived or vanished. He thou
 
 The pattern was real. He could feel it now, could see the shape of it even if he could not understand the mechanism. Something was wrong. Something beyond war's normal chaos. Something targeting his patients specifically.
 
+Wei's hands clenched involuntarily. Twelve of fifteen dead—the pattern certain, the cause unknown. Why? The question demanded an answer that did not exist. His shoulder seized suddenly, a sharp ache in muscle that had never been wounded, and fury rose in his chest at the absence of explanation. Evidence without mechanism. Pattern without cause. His jaw tightened against words he could not speak: *I don't know why this is happening.* The fury passed as quickly as it came, leaving only a residue of frustration that had no target. Wei unclenched his hands. The answer would not come through anger.
+
 Wei took the list outside and burned it.
 
 He watched the charcoal names smudge and curl as the paper caught fire. Watched the smoke rise into the evening air, carrying the evidence away. The list was gone, but the pattern remained. The knowledge remained. And the count—the terrible, inexorable count—remained most of all.
@@ -91,6 +93,8 @@ No words came. Only numbers.
 The pattern was visible now. The whispers were spreading. And Wei had no explanation except the one he refused to speak aloud:
 
 Perhaps they were right. Perhaps he was cursed.
+
+Wei sat with this possibility. Did not flee from it into denial or comfortable explanation. Did not manufacture certainty where none existed. The pattern might be coincidence stretched by grief. Might be curse, if such things were real. Might be something he lacked the categories to comprehend. He could face the uncertainty squarely, without pretending the evidence said what it did not say. Some truths could not be escaped by refusing to look at them.
 
 And if he was cursed, what did that mean for everyone still breathing who had passed through his hands?
 

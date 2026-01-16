@@ -30,6 +30,8 @@ He thought of the twenty men he had released to die. Thought of Fang's flat voic
 
 The doctrine said one thing. The bodies said another.
 
+He could have let this become hatred—for the Qing who had ambushed them, for the Heavenly King whose doctrine had failed, for the God who had promised protection and delivered slaughter. Wei felt the possibility of bitterness like heat near a fire, present and available. He let it pass through him without taking hold. The hatred would not bring back the eighteen. The rage would not close the ledger in his favor. He registered the facts cleanly: the doctrine had promised, the protection had not come, and the work continued regardless. Clean observation. Not acceptance, but endurance without poison.
+
 Wei remained kneeling, not in prayer but in exhaustion, while outside the pyre collapsed into ash and embers. The count was one hundred three saved, ninety-seven lost, and the gap was closing with a speed that felt like drowning.
 
 Behind him, the temple was silent except for the breathing of the new wounded who had already arrived. Tomorrow there would be more. There were always more.
