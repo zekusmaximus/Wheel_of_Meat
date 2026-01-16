@@ -263,9 +263,9 @@ The search arc itself becomes the primary vehicle for revealing Lilith's motivat
 
 **Priority:** HIGH
 **Source:** Report 2, expanded through structural analysis
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
-**Problem:** The soul’s journey reads as a series of distinct episodes rather than a continuous arc. Each incarnation starts effectively at zero, with growth visible only at death. Readers don’t see accumulated wisdom *in action* within each life—they only see the current fetter. This makes the progression feel thematic (ten variations on attachment) rather than dramatic (one soul visibly approaching completion).
+**Problem:** The soul's journey reads as a series of distinct episodes rather than a continuous arc. Each incarnation starts effectively at zero, with growth visible only at death. Readers don’t see accumulated wisdom *in action* within each life—they only see the current fetter. This makes the progression feel thematic (ten variations on attachment) rather than dramatic (one soul visibly approaching completion).
 
 The original “overcorrection cycle” (trauma → aversion → defensive identity) creates backward-looking links between lives but doesn’t show forward momentum. Each avatar flees the previous death’s failure without demonstrating what was *gained*.
 
@@ -472,12 +472,12 @@ Lilith chapters must be revised so her observations track **increasing accumulat
 
 **For Lilith Chapters:**
 
-- [ ] Observations revised to track increasing accumulated progress
-- [ ] Each observation notes both terror (improvement) and opportunity (remaining flaw)
-- [ ] Alarm level escalates appropriately across chapters
-- [ ] Chapter 11 “hoarding certainty” passage revised per sample
-- [ ] Chapter 15 frames success as destroying accumulated progress
-- [ ] Chapters 17, 19, 21 show agency moments triggering visible panic
+- [x] Observations revised to track increasing accumulated progress
+- [x] Each observation notes both terror (improvement) and opportunity (remaining flaw)
+- [x] Alarm level escalates appropriately across chapters
+- [x] Chapter 11 "hoarding certainty" passage revised per sample
+- [x] Chapter 15 frames success as destroying accumulated progress
+- [x] Chapters 17, 19, 21 show agency moments triggering visible panic
 
 **For Chapter 26:**
 
@@ -1011,7 +1011,7 @@ This chapter carries seven functions simultaneously:
 |CRITICAL|1.2 Manchester ticking clock          |[x]   |
 |HIGH    |2.1 Active agency for Silas (2 lives) |[x]   |
 |HIGH    |2.2 Deepen Lilith motivation          |[x]   |
-|HIGH    |2.3 Sharpen failure-to-lesson pipeline|[ ]   |
+|HIGH    |2.3 Sharpen failure-to-lesson pipeline|[x]   |
 |MEDIUM  |3.1 Break middle-section formula      |[x]   |
 |MEDIUM  |3.2 Expand Silex/Lith chapter         |[ ]   |
 |MEDIUM  |3.3 Revise "The Teaching"             |[ ]   |
@@ -1030,4 +1030,4 @@ When working through revisions:
 
 -----
 
-*Last updated: January 16, 2026*
+*Last updated: January 16, 2026 — Section 2.3 (Dual Continuity) complete*

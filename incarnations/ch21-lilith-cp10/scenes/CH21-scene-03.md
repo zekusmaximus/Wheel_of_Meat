@@ -32,13 +32,25 @@ Then the memory surfaced—the street corner, the rain, the way he had stopped w
 
 Not the woman in the bar. Not the passerby on the street. Her. Across the incarnations, across the veil that should be impenetrable, he had looked at her face and something in him had known.
 
+This had never happened before. Not once, across all the previous avatars. Ka hadn't recognized her in the frozen temple. Chandra hadn't recognized her in the merchant's quarter. Not Philon, not Verinus, not any of the others—the veil between lives had always held.
+
+Until now.
+
 *The lives are bleeding through. He's approaching threshold faster than any previous incarnation.*
 
-The realization settled into her chest like ice. Ten interventions—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see her.
+The realization settled into her chest like ice. Her breath stopped. Her hands found the edge of a table and gripped it.
+
+*Terminal.*
+
+The word arrived without her choosing it. Ten interventions—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see *her*.
+
+This was not another backfire. This was the pattern completing.
 
 Historical intervention could not touch this. Could not slow it.
 
 She was out of time.
+
+*I have to find him. Present day. NOW. Before he breaks through.*
 
 She dismissed it as tracking fever. The strain of holding both timelines. Exhaustion from the weeks of sustained attention, the positioning, the work that had brought her to this room, this moment, this approach.
 
