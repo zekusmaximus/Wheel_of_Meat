@@ -32,4 +32,15 @@ Close enough to feel his presence register in flesh she had borrowed for the pur
 
 The purpose. She held the word steady. *Tactical*. *Positioning*. *Strategy*.
 
+But something else surfaced before she could intercept it. The Attendant's proximity had shown her what distance-observation never could. She had watched him not repeat Ka's isolation, not repeat Chandra's distance, not repeat Philon's martyrdom, not repeat Verinus's rigidity, not repeat Macarius's performance. Five lessons visible in a single man's behavior. And she had been *there*. Present. Close enough that when he looked at the Attendant, something beneath her clinical detachment had ached for that look to find her.
+
+Not the vessel—her. The face that stayed constant across incarnations. The presence that had followed him through five lives now.
+
+Distance-intervention had produced five backfires. The Attendant's proximity had produced—
+
+What had it produced?
+
+She did not answer the question. But she was beginning to wonder if proximity had taught her something that distance never could.
+
 The walls remained sound. For now.
+

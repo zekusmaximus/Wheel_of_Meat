@@ -32,13 +32,17 @@ And then he had left. Entrapped, bound—neither. Released.
 
 Lilith's hands were warmer than they should be. She had given him exactly what he wanted. Eternal beauty, frozen form. Yet he had learned from the gift what she had never intended: that possession was possession, never experience. That beauty required dying to be beautiful.
 
-The pattern was undeniable now. Five incarnations. Five interventions. Five backfires.
+The pattern was undeniable now.
 
-Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had taught clarity. Verinus's contradictions had taught humility. Macarius's pride had revealed itself.
+*Opposition accelerates what I oppose.*
 
-And Kaoru—
+She traced the evidence across six iterations.
 
-Kaoru had been shown frozen beauty and understood that beauty melts.
+Ka's isolation—she had watched him hoard resources, and the watching had isolated him further until isolation itself became the lesson. Chandra's ledger-mind—she had engineered betrayal, and the betrayal had taught him to give himself rather than systems. Philon's martyrdom—she had isolated him, and the isolation had crystallized wisdom. Verinus's rigidity—she had destabilized his certainty, and the destabilization had taught him virtue without proof. Macarius's pride—she had fed his audience, and the feeding had exposed his hunger to himself.
+
+And Kaoru—Kaoru had been shown frozen beauty and understood that beauty melts.
+
+Six incarnations. Six interventions. Six backfires. Six lessons crystallized by the opposition meant to prevent them.
 
 She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the way that meant transmission rather than extinction.
 
@@ -46,6 +50,15 @@ A sensation in her chest—pain's neighbor.
 
 She filed it: *karmic observation. Thread mechanics.*
 
+But three times now, she had been close. Verinus had almost condemned the innocent—almost became the rigid certainty she'd wanted him to become—but compassion had broken through. Macarius had almost embraced performed holiness permanently—but his own hunger had exposed the falseness. Kaoru had almost remained frozen in eternal spring—but the storm had shattered the illusion.
+
+Three near-misses. Three times, something physical had broken through.
+
+*Closer*, she thought. *Each time, closer. I'm learning what breaks through.*
+
+The dangerous confidence settled into her chest alongside the alarm. She was failing. But she was also learning. And the Attendant had been close—presence rather than distance. What if that was the answer? What if distance-intervention was the error?
+
 The filing was familiar. The walls were familiar.
 
 But the warmth in her hands would never be explained as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
+

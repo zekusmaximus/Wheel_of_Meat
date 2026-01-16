@@ -26,9 +26,13 @@ She stopped. The thought was inadmissible. She had tracked numerous lives now. S
 
 *What if I focused on my own liberation?*
 
-The second thought arrived harder. Sharper. She was so close. One knot remaining. If she couldn't stop him—
+The second thought arrived harder. Sharper. She was so close. One knot remaining. If she couldn't stop him—five backfires now, five lessons accelerated by her opposition—
 
-She filed the thought before it completed. Strategy. Refinement. The pattern required adjustment, not abandonment.
+Perhaps she didn't need to stop him. Perhaps she simply needed to get there first.
+
+*Racing rather than blocking. Finishing first.*
+
+The thought filed itself. Strategy required refinement. She had been too indirect. But the thought had appeared. It had a shape now.
 
 But she had walked here. Her body had led where her mind refused to examine, and she stood now in the rain outside buildings where he would be—*was*, somewhere in a present she had not yet permitted herself to occupy.
 
