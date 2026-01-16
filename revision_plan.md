@@ -1013,7 +1013,7 @@ This chapter carries seven functions simultaneously:
 |HIGH    |2.2 Deepen Lilith motivation          |[x]   |
 |HIGH    |2.3 Sharpen failure-to-lesson pipeline|[x]   |
 |MEDIUM  |3.1 Break middle-section formula      |[x]   |
-|MEDIUM  |3.2 Expand Silex/Lith chapter         |[ ]   |
+|MEDIUM  |3.2 Expand Silex/Lith chapter         |[x]   |
 |MEDIUM  |3.3 Revise "The Teaching"             |[ ]   |
 
 -----
