@@ -94,17 +94,39 @@ But the truth her body knew and her mind refused: that she had felt Wei Shufen d
 
 The backfire crashed down.
 
-Understanding arrived in fragments, in the arithmetic she'd imposed revealing its inversion: she had made futility visible. She had ensured everyone Wei saved died. She had broken the contamination in his determination—attachment to outcome, need to succeed, the grasping that made helping about salvation rather than service.
+Not like the others. This one was structural. This one was catastrophic.
+
+Understanding arrived with the weight of walls collapsing: she had made futility visible. She had ensured everyone Wei saved died. She had created the conditions that should have broken his determination—attachment to outcome, need to succeed, the grasping that made helping about salvation rather than service.
 
 And by breaking it, she had purified it.
 
-The last door opened. The final lock broken. Completed not in spite of her intervention but because of it.
+*I didn't break him. I purified him.*
 
-Every historical attempt, Chandra's betrayal, Philon's isolation, Verinus's contradictions, all the backfires, had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
+Nine interventions. Nine backfires. She counted them now, the arithmetic she'd avoided, the ledger she'd refused to keep:
 
-Every lesson. Every quality she'd tried to break, they had forged instead. Complete.
+Chandra—she'd tried to corrupt generosity through bureaucratic distance, and it had forged cleaner giving. Philon—she'd tried to shatter wisdom through martyrdom, and it had clarified seeing without sacrifice. Verinus—she'd tried to break virtue through impossible contradiction, and it had tempered ethical action without rigid certainty. Macarius—she'd tried to exploit performance, and it had burned away false humility into genuine uncertainty. Kaoru—she'd tried to weaponize grasping at beauty, and it had released attachment to outcome. Diego—she'd tried to poison patience through injustice, and it had purified endurance without bitterness. Jean—she'd tried to fracture truthfulness through impossible doubt, and it had crystallized honest action when certainty was impossible. The glimpses between, the lives she'd touched and adjusted, the interventions that blurred into pattern.
 
-The next life would be the breaking point. The chains she felt in her own architecture, he would shed them. Perhaps permanently.
+And now Wei. The ninth. The catastrophic one.
+
+She had made futility visible. And instead of breaking, he had released the last contamination—determination attached to success, determination that needed saving to justify helping.
+
+*All ten perfections. I've accelerated all ten perfections.*
+
+The thought arrived with the clarity of something she could no longer deny. Not just one more backfire. Not just determination purified. The accumulated weight of every quality she'd tried to prevent—cooperation, generosity, wisdom, virtue, renunciation, patience, equanimity, truthfulness, determination—all of it forged rather than fractured. All of it approaching completion.
+
+Nine interventions. Nine backfires. Each one designed to break had built instead. Each method had produced the opposite of what she intended.
+
+Emotional manipulation. Intellectual precision. Sustained circumstantial interference.
+
+Every approach had accelerated what she opposed.
+
+*He's approaching stream-entry. One more significant life and he crosses.*
+
+The next incarnation—the one already living, the one she could sense at the edge of her awareness—would be the breaking point. The chains she felt in her own architecture, he would shed them. Perhaps permanently.
+
+*Historical intervention: impossible.*
+
+The pattern was structural. Opposition accelerated what she opposed. Distance allowed what proximity might prevent.
 
 She sat in her flat, hunched over the ache in her chest that had no wound to show for it, and understood: the race had narrowed. Whatever time she'd thought she had was gone. He was approaching the threshold faster than she'd calculated, and the approaching was her doing, and the only thing left was the pivot she should have made years ago.
 

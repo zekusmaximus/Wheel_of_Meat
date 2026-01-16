@@ -1,12 +1,14 @@
 The application form sat in front of her. Two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
 
-She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
+She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Her hand on the pen / his hand on bandages. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
 
-Forms had their own species of violence. Slower than artillery. Quieter than massacre. But violence nonetheless in how they reduced people to boxes and checkmarks, how they demanded documentation of worth, how they made existence conditional on institutional approval.
+Forms for employment / forms for ration distribution. Boxes for credentials / boxes for supplies remaining. The echoes bled through without her willing them.
+
+Forms had their own species of violence. Slower than artillery. Quieter than massacre. But violence nonetheless in how they reduced people to boxes and checkmarks, how they demanded documentation of worth, how they made existence conditional on institutional approval. The violence of calm—institutional machinery grinding through applications the way siege machinery ground through walls.
 
 She recognized this the way she recognized everything now. Except herself.
 
-The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time.
+The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting / siege waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time. The temple had been quiet like this, before the Qing soldiers entered. Quiet with waiting. Quiet with the knowledge of what was coming.
 
 Three other candidates sat with her. She perceived their attachments without trying: the young woman needing this job for visa sponsorship, worry manifesting as bitten fingernails and rehearsed answers running behind her eyes. The older man whose last position had ended badly, desperation showing in the way he sat too straight, too ready. The middle candidate—closest to Lilith's apparent age—who wanted career advancement, who saw this as stepping stone, who carried ambition like weight.
 
@@ -22,11 +24,17 @@ The interview room: small, window overlooking campus, two people on the hiring p
 
 "How do you handle student crisis?"
 
-The question arrived and Taiping bled through before she could prevent it—Wei's hands on dying soldiers, his calm voice in massacre, the functional competence that persisted even when outcome was predetermined.
+The question arrived and Tianjing bled through before she could prevent it—Wei's hands on dying soldiers, his calm voice in massacre, the functional competence that persisted even when outcome was predetermined. Interview questions about crisis management / triage decisions under siege conditions.
 
 "I stay present with the suffering," she said. Professional language. Appropriate phrasing. The words true even if the context was wider than they knew. "Crisis requires someone who can witness without being destabilized by what they're witnessing. I provide that presence."
 
-The panel nodded. Approved. Did not see the irony: that she was describing crisis response while engineering a crisis of her own, that her calm amid student breakdown would mirror Wei's calm amid siege breakdown, that the violence she'd help them manage was gentle compared to the violence she was preparing to deploy.
+The panel nodded. Wrote notes. Another question: "What about students who seem beyond help? The ones who've already made choices that have serious consequences?"
+
+"You help anyway," she said.
+
+The words came through her before she could consider them. Wei's words. Not hers. *The trying is never nothing. It doesn't matter if it works.*
+
+She didn't notice. The panel approved. Did not see the irony: that she was describing crisis response while engineering a crisis of her own, that her calm amid student breakdown would mirror Wei's calm amid siege breakdown, that the violence she'd help them manage was gentle compared to the violence she was preparing to deploy.
 
 "Tell me about your approach to boundaries with clients."
 
