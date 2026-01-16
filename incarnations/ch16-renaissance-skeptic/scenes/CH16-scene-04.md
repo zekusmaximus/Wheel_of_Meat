@@ -18,6 +18,8 @@ Jean touched his thumb to his index finger—a small gesture, counted without th
 
 The documents were pamphlets—political, argumentative, calling for negotiated peace and mutual tolerance in language that would satisfy no one who believed satisfaction came through victory. Jean read while Marguerite watched, her hands resting on the compositor's desk with the stillness of someone accustomed to waiting.
 
+"Notice the dates," Marguerite said, touching the edge of one pamphlet. "The earliest calls for firm Protestant resistance. By the most recent, he is arguing for negotiated peace as though both sides might be partially correct. He was not a fixed position, Monsieur—he was a trajectory." Jean looked again at the pamphlets with new understanding. He had read for content; she had seen pattern. De Ségur's enemies would have perceived the direction before he reached its destination. The insight was hers, arrived at through careful observation Jean's urgency had overlooked. He incorporated it without defensiveness—what mattered was accuracy, not who had first perceived it.
+
 "These would make him enemies," Jean said.
 
 "These made him enemies in both camps." Marguerite's voice carried neither approval nor condemnation. "The Catholics saw Protestant duplicity. The Protestants saw betrayal. Truth, in such times, is simply the accusation that sticks hardest."

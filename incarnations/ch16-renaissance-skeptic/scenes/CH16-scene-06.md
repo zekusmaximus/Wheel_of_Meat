@@ -48,7 +48,11 @@ The priest moved away into the crowd, his warning delivered with the same urbane
 
 Across the room, Jean saw Captain de Castelnau in conversation with a group of Protestant officers. The Captain's gaze met his briefly—an acknowledgment of presence that carried neither invitation nor threat. Simply a reminder that Protestant interests watched as carefully as Catholic.
 
-Jean moved toward the refreshment tables, seeking space to breathe and think. He had barely reached the wine when a woman's voice spoke at his shoulder.
+Jean moved toward the refreshment tables, seeking space to breathe and think.
+
+A noblewoman passed in a gown of deep yellow silk—the color of late autumn, of fallen leaves, of something else Jean could not name. His throat tightened. For a moment he tasted smoke that was not present, felt heat against his face that the October evening did not explain. The sensation passed before he could examine it, leaving only a faint trembling in his hands and the inexplicable urge to look away from that particular shade of gold. He had no reason to fear yellow fabric. No memory that connected the color to danger. Yet his body had recoiled as if from fire itself.
+
+He had barely reached the wine when a woman's voice spoke at his shoulder.
 
 "You look like a man surrounded by enemies, Monsieur de Langon."
 
