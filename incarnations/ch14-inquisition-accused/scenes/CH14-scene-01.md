@@ -1,20 +1,36 @@
 The compound smelled of ground cloves and something bitter Diego could not name, though he had ground these ingredients a hundred times before. His mortar sat on the consultation room's table, its stone bowl stained brown from years of work. Afternoon light slanted through the shuttered window, striping the table in bands of gold and shadow that shifted with the autumn wind outside.
 
-Diego touched his thumb to his index finger, then his middle finger, then his ring finger, then his smallest finger. The sequence steadied his hands as he measured the powder—two parts clove, one part willow bark, a half-part of dried gentian. The merchant would arrive within the hour. Don Cristóbal de Silva, whose gout had troubled him through three winters and who paid well for relief, though never quite enough to forget that Diego was converso and therefore useful only as long as his usefulness outweighed his heritage.
+Diego touched his thumb to his index finger, then his middle finger, then his ring finger, then his smallest finger. The sequence steadied his hands as he measured the powder—two parts clove, one part willow bark, a half-part of dried gentian. Martín de Córdoba had refined this formula—the older physician's insight that willow bark absorbed better when ground finer than tradition dictated. Diego had doubted him at first, had trusted his own training over Martín's observation. He had been wrong. A patient who should have improved had worsened until Diego relented and adopted Martín's method. Now he ground the bark to powder rather than fragments, and the compound worked as it should. Medicine was built from such corrections, each physician's knowledge shaped by those who had seen what he had missed.
+
+The merchant would arrive within the hour. Don Cristóbal de Silva, whose gout had troubled him through three winters and who paid well for relief, though never quite enough to forget that Diego was converso and therefore useful only as long as his usefulness outweighed his heritage.
 
 The door to the street stood open, as it always did. An open door welcomed patients. An open door suggested nothing to hide. An open door performed the transparency expected of those whose blood marked them as perpetually suspect, no matter how many generations had passed since their grandparents had accepted the baptismal water.
 
-Diego pressed the pestle against the mortar's curve. The powder released its scent—medicinal, clean, the smell of a physician's careful work. He had learned this trade from his father, who had learned it from his father, and each generation had learned alongside the herbs and compounds the more essential lesson: *Be valuable. Be careful. Be safe.*
+Diego pressed the pestle against the mortar's curve. The powder released its scent—medicinal, clean, the smell of a physician's careful work. The gout might be diet, or temperament, or divine punishment for sins the merchant's confessor knew and Diego did not. The Church taught all three; the Arabic authorities suggested imbalance of humors; Diego had observed patients recover under contradictory treatments, as though the body held multiple truths at once. He had stopped seeking the single explanation. What mattered was that this compound eased the swelling, regardless of which authority's framework accounted for why.
+
+He had learned this trade from his father, who had learned it from his father, and each generation had learned alongside the herbs and compounds the more essential lesson: *Be valuable. Be careful. Be safe.*
+
+A child had come to him three days prior—presenting symptoms no text described, a constellation of fever and rash and strange clarity in the eyes that matched nothing in Galen or Avicenna. Diego had treated what he could name, eased what he could ease. The child might recover or might not; the outcome was not his to determine, only the effort. A physician who waited for certainty before acting would never act at all.
+
+He had lost Señora Vázquez the week before—her lungs slowly filling despite every treatment he knew. Her son had demanded miracles, had accused Diego of insufficient effort when the end came. Diego had offered no defense. Some bodies simply failed, and arguing otherwise was cruelty dressed as hope. He had sat with her through the final hours instead, had witnessed the breathing slow and stop, had closed her eyes when the family could not bring themselves to touch what death had made unfamiliar. Presence was its own treatment when treatment became pretense.
 
 A shadow crossed the threshold.
 
 "Physician." Don Cristóbal's voice carried the warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old Christian merchant and New Christian tradesman. "I trust you have prepared the remedy."
 
+Don Cristóbal's gait as he crossed the threshold favored his left side—a careful, deliberate walk that protected the swollen joint from any jarring. For a moment the merchant's composure cracked, and Diego saw not the prosperous Old Christian who paid three reales where a priest's sister merited five, but an aging man frightened by his body's slow betrayal. Diego gentled his examination when he touched the inflamed joint, and held the merchant's gaze a moment longer than efficiency required. Patients needed witnessing as much as treatment. His father had taught him this alongside the compounds.
+
 "As always, Don Cristóbal." Diego set down the pestle and touched his fingers together in sequence once more—index, middle, ring, smallest—before reaching for a cloth to wrap the prepared compound. The gesture was automatic, a physician's habit of checking his steadiness before handling medicines. Or that was how he explained it to himself. "The formula that has served you well these past months. Mix one measure in warmed wine, morning and evening. The inflammation should ease within the week."
 
 Don Cristóbal took the wrapped package, his fingers brushing Diego's palm as he placed the coins there. Three reales. The usual payment. Fair enough for the work, though Diego had treated a priest's sister the month prior for the same complaint and received five. The difference was understood. The difference was never discussed.
 
-"You are skilled, physician. God has gifted you with healing hands." The merchant smiled. "Though I wonder you do not attend Mass more often. I see you at the Cathedral, of course—but a man of such gifts might show greater devotion."
+He could have asked for more. Don Cristóbal would have paid five reales easily—the merchant's fear of his own body made him generous with those who might ease it. Diego let the opportunity pass without marking it. The cure was the cure; whether it earned three reales or six changed nothing except the weight of coins. He had learned, over years, that the grasping hurt more than the lack.
+
+"You are skilled, physician. God has gifted you with healing hands." The merchant smiled. "As the poets say—the hand that heals is the hand of God made flesh."
+
+Something in Diego's jaw tightened at the quotation—the polished cadence of it, words arranged into ornament rather than meaning. He had never understood his dislike of such flourishes. Poetry seemed to preserve language past its natural use, freezing what should flow and serve its purpose and be done.
+
+"Though I wonder you do not attend Mass more often," Don Cristóbal continued. "I see you at the Cathedral, of course—but a man of such gifts might show greater devotion."
 
 The room grew colder, though the brazier still burned in the corner. Diego felt the shift in his chest first, then his throat—a tightening that might have been fear if fear were permitted, but fear implied guilt, and guilt implied something to hide, and so the tightness remained unnamed.
 
