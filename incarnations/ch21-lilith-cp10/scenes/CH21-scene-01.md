@@ -4,7 +4,23 @@ The faculty reception hummed with the particular violence of small talk. Cclinki
 
 Week nine of tracking. Or ten. She'd stopped counting days when the pursuit became fever.
 
-In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink. The same rain that fell on Manchester fell on nothing in LA's dry winter, but she felt it anyway, moisture in two registers, the sensory bridge holding both frames in the same breath.
+In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink.
+
+She watched him work, and the accumulated progress became visible.
+
+He wasn't making Ka's mistake. The isolation was gone—he shared information freely, worked networks, collaborated with sources even when it endangered him. Chandra's ledger-mind had dissolved into something cleaner; this one gave without counting, took cases from people who couldn't pay, offered his time without expectation of return. The diagnostic clarity persisted—she watched him piece together the corruption pattern, see the system behind the scattered crimes. Philon's wisdom intact, the capacity to observe clearly while remaining engaged. He maintained ethical standards despite impossible pressure, had walked away from his career rather than compromise. Verinus's rigid certainty absent—he acted virtuously without requiring procedural purity.
+
+Even Macarius's performance had dissolved. This one lived simply, no heroic posturing, no accumulation of moral credit. Kaoru's grasping had released—he accepted that cases failed, held his losses without letting them freeze his work. And there: Diego's patience. The capacity to endure injustice without becoming bitter. Jean's truthfulness—honest doubt that didn't paralyze him. Wei's determination—outcome-independent, continuing because it was right rather than because it would succeed.
+
+Nine patterns, integrated into behavior before she could observe him struggling with any of them.
+
+What remained was the identity itself: *Someone has to give a damn.* The attachment not to helping but to being the one who helps.
+
+He was about to complete the tenth. And then—
+
+Her hands tightened on the glass she wouldn't drink.
+
+The same rain that fell on Manchester fell on nothing in LA's dry winter, but she felt it anyway, moisture in two registers, the sensory bridge holding both frames in the same breath.
 
 The pull toward him, toward Silas, had become physical. An ache in the architecture of her chest that had no source she could name, no wound she could treat. The thread hummed. The reception continued. She scanned the room the way Jack scanned his contacts, the same gesture across decades, both of them looking for someone who could change everything.
 

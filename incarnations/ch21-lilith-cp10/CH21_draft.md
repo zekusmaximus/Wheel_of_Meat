@@ -4,7 +4,23 @@ The faculty reception hummed with the particular violence of small talk. Cclinki
 
 Week nine of tracking. Or ten. She'd stopped counting days when the pursuit became fever.
 
-In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink. The same rain that fell on Manchester fell on nothing in LA's dry winter, but she felt it anyway, moisture in two registers, the sensory bridge holding both frames in the same breath.
+In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink.
+
+She watched him work, and the accumulated progress became visible.
+
+He wasn't making Ka's mistake. The isolation was gone—he shared information freely, worked networks, collaborated with sources even when it endangered him. Chandra's ledger-mind had dissolved into something cleaner; this one gave without counting, took cases from people who couldn't pay, offered his time without expectation of return. The diagnostic clarity persisted—she watched him piece together the corruption pattern, see the system behind the scattered crimes. Philon's wisdom intact, the capacity to observe clearly while remaining engaged. He maintained ethical standards despite impossible pressure, had walked away from his career rather than compromise. Verinus's rigid certainty absent—he acted virtuously without requiring procedural purity.
+
+Even Macarius's performance had dissolved. This one lived simply, no heroic posturing, no accumulation of moral credit. Kaoru's grasping had released—he accepted that cases failed, held his losses without letting them freeze his work. And there: Diego's patience. The capacity to endure injustice without becoming bitter. Jean's truthfulness—honest doubt that didn't paralyze him. Wei's determination—outcome-independent, continuing because it was right rather than because it would succeed.
+
+Nine patterns, integrated into behavior before she could observe him struggling with any of them.
+
+What remained was the identity itself: *Someone has to give a damn.* The attachment not to helping but to being the one who helps.
+
+He was about to complete the tenth. And then—
+
+Her hands tightened on the glass she wouldn't drink.
+
+The same rain that fell on Manchester fell on nothing in LA's dry winter, but she felt it anyway, moisture in two registers, the sensory bridge holding both frames in the same breath.
 
 The pull toward him, toward Silas, had become physical. An ache in the architecture of her chest that had no source she could name, no wound she could treat. The thread hummed. The reception continued. She scanned the room the way Jack scanned his contacts, the same gesture across decades, both of them looking for someone who could change everything.
 
@@ -106,13 +122,25 @@ Then the memory surfaced—the street corner, the rain, the way he had stopped w
 
 Not the woman in the bar. Not the passerby on the street. Her. Across the incarnations, across the veil that should be impenetrable, he had looked at her face and something in him had known.
 
+This had never happened before. Not once, across all the previous avatars. Ka hadn't recognized her in the frozen temple. Chandra hadn't recognized her in the merchant's quarter. Not Philon, not Verinus, not any of the others—the veil between lives had always held.
+
+Until now.
+
 *The lives are bleeding through. He's approaching threshold faster than any previous incarnation.*
 
-The realization settled into her chest like ice. Ten interventions—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see her.
+The realization settled into her chest like ice. Her breath stopped. Her hands found the edge of a table and gripped it.
+
+*Terminal.*
+
+The word arrived without her choosing it. Ten interventions—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see *her*.
+
+This was not another backfire. This was the pattern completing.
 
 Historical intervention could not touch this. Could not slow it.
 
 She was out of time.
+
+*I have to find him. Present day. NOW. Before he breaks through.*
 
 She dismissed it as tracking fever. The strain of holding both timelines. Exhaustion from the weeks of sustained attention, the positioning, the work that had brought her to this room, this moment, this approach.
 
