@@ -1,4 +1,4 @@
-# WHEEL OF MEAT — Consolidated Revision Plan
+﻿# WHEEL OF MEAT — Consolidated Revision Plan
 
 **Manuscript:** Draft 1.13.26
 **Based on:** Comparative analysis of Report 1 (Gemini) and Report 2
@@ -497,7 +497,7 @@ These changes address reading experience and narrative rhythm.
 
 **Priority:** MEDIUM  
 **Source:** Report 1’s “break the formula” recommendation, refined  
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 **Problem:** Even with Lilith’s search arc (1.2) and Silas’s agency moments (2.1), the core historical rhythm persists: intervene → backfire → death-lesson. Readers need one outcome that breaks this pattern completely. The Tier 1-2 changes add variety in *her* activity and *his* resistance, but don’t vary the *outcome* of intervention itself.
 
@@ -575,122 +575,432 @@ Before Chapter 14’s full success, plant a seed in Chapter 8 (Verinus) and Chap
 
 **Acceptance criteria:**
 
-- [ ] Chapter 14 demonstrates six integrated lessons before Diego’s breaking
-- [ ] Lilith’s success is unambiguous within the chapter—he breaks
-- [ ] Horror is proportional to accumulated progress destroyed
-- [ ] Hidden backfire seed planted: patience emerges through endurance
-- [ ] Chapter 15 shows Lilith registering success, then horror, then rationalization
-- [ ] Readers understand the backfire before Lilith does
-- [ ] Chapter 8/9 near-miss foreshadows without spoiling
-- [ ] Diego’s death-poem reveals lesson crystallized (visible to reader, not Lilith)
+- [x] Chapter 14 demonstrates six integrated lessons before Diego’s breaking
+- [x] Lilith’s success is unambiguous within the chapter—he breaks
+- [x] Horror is proportional to accumulated progress destroyed
+- [x] Hidden backfire seed planted: patience emerges through endurance
+- [x] Chapter 15 shows Lilith registering success, then horror, then rationalization
+- [x] Readers understand the backfire before Lilith does
+- [x] Chapter 8/9 near-miss foreshadows without spoiling
+- [x] Diego’s death-poem reveals lesson crystallized (visible to reader, not Lilith)
 -----
 
 ### 3.2 Expand the Silex/Lith Future Chapter
 
-**Priority:** MEDIUM
-**Source:** Report 1
+**Priority:** MEDIUM  
+**Source:** Report 1, integrated with Ka bookend structure and Maitreya arc requirements  
 **Status:** [ ] Not started
 
-**Problem:** The Eternal Synthesis section reads as philosophical summary, not lived experience. Needs the same sensory density as historical chapters.
+**Problem:** The Eternal Synthesis section reads as philosophical summary, not lived experience. Additionally, the chapter must accomplish significant structural work: completing the Ka bookend arc from Chapter 2, seeding the Maitreya merger for Chapter 26, and showing Lith's final fetter beginning to dissolve.
 
-**Implementation:**
+**Multiple Integrated Objectives:**
 
-- Add specific sensory detail showing what sterile perfection feels like:
-  - The exact temperature of optimized air (always 21.3°C, never varying)
-  - The engineered satisfaction of nutrient consumption (perfect, identical, empty)
-  - The hollow quality of designed connection
-  - The absence of randomness, surprise, genuine discomfort
-- Show why this "paradise" is wrong through sensation, not explanation
-- The wrongness should be felt in the body before understood by the mind
-
-**Acceptance criteria:**
-
-- [ ] Minimum 5 specific sensory details added
-- [ ] Reader feels the oppression of perfection
-- [ ] Chapter length approaches density of historical chapters
-- [ ] Philosophy emerges from experience, not vice versa
+This chapter carries five functions simultaneously:
+1. **Sensory grounding** — Show sterile technological perfection through five senses
+2. **Ka bookend** — Complete the dawn/sunset parallel from Chapter 2
+3. **Counterfeit Dharma** — Render The Eternal Synthesis without Buddhist terminology
+4. **Maitreya foreshadowing** — Show merged awareness intensifying toward unity
+5. **Lith's final fetter** — Begin the dissolution of her competition attachment
 
 -----
 
-### 3.3 Revise “The Teaching” (Chapter 26)
+#### Implementation: Sensory Grounding of Sterile Perfection
 
-**Priority:** MEDIUM
-**Source:** Report 2
+**The oppression of optimized existence must be felt, not explained:**
+
+| Sense | Sterile Manifestation | What's Missing |
+|-------|----------------------|----------------|
+| **Sight** | Designed aesthetics, geometric precision, calibrated lighting | Randomness, surprise, organic variation |
+| **Sound** | Calibrated frequencies, filtered harmonics, neural-audio | Genuine quiet, unexpected noise, silence not designed |
+| **Smell** | Engineered environments, synthetic atmospherics | Organic decay, weather, seasons, the smell of living things |
+| **Taste** | Designed nutrition, chemical precision | The imprecision of natural food, seasonal variation, scarcity |
+| **Touch** | Synthetic skin calibrated for optimal sensation | The particular texture of undesigned contact |
+
+**Specific sensory beats required:**
+
+1. The exact temperature of optimized air (always 21.3°C, never varying)
+2. The engineered satisfaction of nutrient consumption (perfect, identical, empty)
+3. The hollow quality of designed connection (neural link without genuine intimacy)
+4. The absence of randomness, surprise, genuine discomfort
+5. The particular weight of designed bodies (different from organic weight)
+6. The hum of neural-sync as ambient texture
+7. The visual language of The Eternal Synthesis (geometric, precise, empty)
+
+-----
+
+#### Implementation: Ka Bookend Completion
+
+**Parallels must be visible to readers who remember Chapter 2:**
+
+| Ka (Dawn) | Silex/Lith (Sunset) | How to Render |
+|-----------|---------------------|---------------|
+| Primal body, raw flesh | Designed body, engineered flesh | "Unlike any womb—too precise for crude gestation" |
+| Cave isolation, couldn't see tribe fires | Technological cocoon, genuine connection obscured | Neural link providing connection without genuine intimacy |
+| Hoards meat, can't give | Hoards experience/data/life-extension | The Eternal Synthesis's archive as hoarding—availability killing transmission |
+| Death in cold, yearning to understand giving | Death together, yearning for completion/union | Final scene: "Completion. Union. The turning." |
+| "If I could..." (incomplete thought) | "Soon." (the word rising from what was no longer distinguishable) | Ka's yearning answered by Silex/Lith's approach to answer |
+
+**Required parallel phrases/images:**
+
+- "What remains to be done?" (echoing Ka's incompleteness)
+- Weight as question: "why accept this again?"
+- The meat releasing consciousness / consciousness releasing meat
+- Fire/warmth vs. cold—but inverted (technological warmth as sterile, death as peaceful)
+
+-----
+
+#### Implementation: The Eternal Synthesis (Counterfeit Dharma)
+
+**Render institutional spiritual emptiness without:**
+- Buddhist terminology (dharma, sangha, nirvana, etc.)
+- Abstract emotion words (sad, happy, anxious)
+- Explicit criticism (let the hollowness speak for itself)
+
+**Show through:**
+
+| System Element | Counterfeit Manifestation | What's Missing |
+|----------------|--------------------------|----------------|
+| **Teaching** | Protocols, techniques, certified achievements | Transmission, lived understanding |
+| **Practice** | Calibrated frequencies, chemical bliss-states | Risk, vulnerability, genuine uncertainty |
+| **Community** | Neural-link connection, monitored gatherings | Genuine intimacy, undesigned contact |
+| **Progress** | Tier advancement, metrics, certification | Transformation that can't be measured |
+| **Archive** | Every text preserved, cross-referenced | Understanding that required walking, not reading |
+
+**Key insight to demonstrate:** "The archive had become the destination, and the destination had replaced the journey."
+
+-----
+
+#### Implementation: Maitreya Foreshadowing
+
+**The merged awareness must intensify across the chapter:**
+
+| Scene | Merger Stage | Manifestation |
+|-------|-------------|---------------|
+| 1 | Parallel arrival | Both sense "someone else is also seeing" |
+| 4 | First deliberate merge | "Which one am I?" arises in both simultaneously |
+| 5 | Habitual link | "Sometimes not knowing which of them had initiated" |
+| 7 | Fetter loosening | Her grasping visible against his non-grasping |
+| 8 | Recognition | "We were never two" / "the one appearing as two" |
+
+**Required progression:**
+- Minimum 3 merged-awareness moments across chapter
+- "Which one am I?" question must surface at least twice
+- Death scene must show thread as single thread, not two
+- Final lines must plant seed for alien embodiment (Ch 25) and merger (Ch 26)
+
+-----
+
+#### Implementation: Lith's Final Fetter Arc
+
+**Her competition attachment must be:**
+1. **Visible** from chapter opening: "The grasping wanting to argue, the deeper knowing wanting to accept"
+2. **Challenged** through merged awareness: "Looking through each other's eyes. Feeling each other's synthetic skin."
+3. **Named** before death: "The need to be first, to be the one, to matter in the way that mattering required priority"
+4. **Loosened but not broken**: "Incomplete dissolution. The breaking was gentler than the first nine."
+
+**Key moments:**
+- Scene 1: Competition resuming automatically
+- Scene 4: "I'm further along than you. Nine broken." (the grasping speaking)
+- Scene 5: "I want to turn the wheel. Planting seeds feels too small."
+- Scene 7: "It was absurd." (seeing the fetter clearly)
+- Scene 8: "The race was practice. The opposition was collaboration."
+
+-----
+
+#### Implementation: Death Sequence
+
+**Both must die together, peacefully, with karmic bridge planted:**
+
+| Requirement | Execution |
+|-------------|-----------|
+| **Together** | Physically present, synchronized terminus |
+| **Natural** | "Even optimized flesh followed the same trajectory" |
+| **Peaceful** | Not resignation—completion of this phase |
+| **Karmic bridge** | Yearning shapes next incarnation |
+| **Seeds for Ch 25-26** | "Stranger flesh, alien substrate, the preparation that remained" |
+
+**Final yearning must include:**
+- Completion / union
+- "The turning that can only happen when the turner and the turned recognize themselves as same"
+- The name "that meant what remained when competition dissolved" (Maitreya foreshadowing without naming)
+
+-----
+
+#### Acceptance Criteria
+
+**Sensory Grounding:**
+- [ ] Minimum 7 specific sensory details showing sterile perfection (see table above)
+- [ ] Reader feels oppression of optimization through body before understanding through mind
+- [ ] Technology as texture, not spectacle—no fetishization or explanation
+
+**Ka Bookend:**
+- [ ] Dawn/sunset parallel visible: primal flesh → designed flesh
+- [ ] Isolation parallel: cave alone → cocoon with false connection
+- [ ] Hoarding parallel: meat → experience/archive/life-extension
+- [ ] Death yearning parallel: giving → completion/union
+- [ ] "What remains to be done?" phrase echoing Ka's incompleteness
+
+**The Eternal Synthesis:**
+- [ ] Counterfeit spirituality rendered without Buddhist terminology
+- [ ] Hollow at center visible through Silex/Lith perception, not explained
+- [ ] Institutional response shown (integration offer, archival threat)
+- [ ] Seeds planted through small circles (without triumphalism)
+
+**Maitreya Foreshadowing:**
+- [ ] Minimum 3 merged-awareness moments across chapter
+- [ ] "Which one am I?" question surfaces at least twice
+- [ ] Progression from parallel sensing → deliberate merge → habitual link → recognition
+- [ ] Death shows single thread, not two
+- [ ] Final lines seed Ch 25 (alien embodiment) and Ch 26 (merger)
+
+**Lith's Final Fetter:**
+- [ ] Competition attachment visible at chapter opening
+- [ ] Challenged through merged awareness experiences
+- [ ] Named explicitly before death ("the need to be first, to be the one...")
+- [ ] Loosened but not fully broken by chapter end
+- [ ] Arc from "I'm further along" to "It was absurd" to "the race was practice"
+
+**Death Sequence:**
+- [ ] Both die together, physically present
+- [ ] Natural terminus, not violence or martyrdom
+- [ ] Peaceful acceptance, not resignation
+- [ ] Karmic bridge planted: yearning for completion/union shapes next incarnation
+- [ ] "Stranger flesh, alien substrate" seeds Ch 25
+
+**Voice/Craft:**
+- [ ] No Buddhist terminology
+- [ ] No abstract emotion words
+- [ ] No helper identity manifestation (dissolved in Ch 22)
+- [ ] No Lilith interventions (competition phase over)
+- [ ] Five senses present (technologically mediated)
+- [ ] Undermining clause throughout (every observation complicated)
+
+-----
+
+### 3.3 Revise "The Teaching" (Chapter 26)
+
+**Priority:** MEDIUM  
+**Source:** Report 2, integrated with notes.md requirements for echo architecture and POV evolution  
 **Status:** [ ] Not started
 
-**Problem:** The teaching in Chapter 26 is too expository. Philosophy is stated, not demonstrated. The entity speaks wisdom rather than embodying it.
+**Problem:** The teaching in Chapter 26 is too expository. Philosophy is stated, not demonstrated. The entity speaks wisdom rather than embodying it. Additionally, the chapter must accomplish significant structural work: completing the Ch1/Ch22 echo architecture, resolving Stewart's question, and showing *both* Lilith and Silas's final patterns dissolving simultaneously.
 
-**Solution:** Replace philosophical speech with action that demonstrates accumulated lessons. Reader recognition—earned through Act II’s integrated-lessons framework—does the work that explanation currently attempts.
+**Multiple Integrated Objectives:**
 
-**Integration with 2.3 (Dual Continuity):**
+This chapter carries seven functions simultaneously:
+1. **Teaching demonstration** — Show rather than tell; action that embodies accumulated lessons
+2. **Ch1 echo architecture** — Complete the novel's bookend (sunset → morning, separation → no separation)
+3. **Ch22 echo architecture** — Echo the chain geometry; answer Stewart's question
+4. **POV evolution** — Execute the pronoun journey from "We" to tathagata voice
+5. **Mutual fetter dissolution** — Show both Lilith and Silas's patterns seen through together
+6. **"Beyond Tat Tvam Asi"** — Dissolve the grammar of identity through prose structure, not just statement
+7. **Grounded return** — After Ch25's abstraction, restore sensory density and ordinary luminosity
 
-The teaching scene becomes a callback structure. Each action the entity performs should evoke a specific lesson readers watched develop across ten lifetimes:
+-----
 
-|Teaching Moment                                    |Callback To                                                        |Reader Recognition                                              |
-|---------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|
-|Entity stays with dying elder without trying to fix|Jack’s “trying matters” + Wei’s “outcome-independent determination”|*This is what Jack learned, what Wei died knowing*              |
-|Entity gives without self-reference                |Chandra’s lesson completed                                         |*This is what Chandra couldn’t do—give self, not just resources*|
-|Entity acts under radical uncertainty              |Verinus’s lesson completed                                         |*This is what Verinus died learning—virtue without certainty*   |
-|Entity faces injustice without hatred              |Diego’s lesson completed                                           |*This is what Diego finally released in the flames*             |
-|Entity speaks truth without needing certainty      |Jean’s lesson completed                                            |*This is what Jean died for—truthfulness, not correctness*      |
-|Entity demonstrates beauty without attachment      |Kaoru’s lesson completed                                           |*This is what Kaoru glimpsed as the illusion dissolved*         |
-|Entity helps knowing it may fail                   |Wei’s lesson completed                                             |*This is what Wei understood—the trying is not nothing*         |
-|Entity renounces without performing renunciation   |Macarius’s lesson completed                                        |*This is what Macarius couldn’t do—genuine surrender*           |
-|Entity cooperates without losing self              |Ka’s lesson completed                                              |*This is where it began—isolation death, connection life*       |
+#### Implementation: Ch1 Echo Architecture
 
-**Implementation:**
+**Required inversions (visible, not announced):**
 
-- Cut or drastically reduce philosophical speech (minimum 50% reduction)
-- Replace with scene where entity performs acts of profound, wordless connection
-- Each act should be simple enough to feel inevitable, specific enough to evoke callback
-- The villagers’ response demonstrates understanding without requiring explanation
-- Final line should be image, not statement
+| Chapter 1 | Chapter 26 | Where to Place |
+|-----------|------------|----------------|
+| Sunset, "warning colors" on skin | Morning light, arrival colors | Movement 1 opening, Movement 5 coda |
+| Post-coital exhaustion | Post-awakening presence | Throughout Movement 1 |
+| Bathroom door between them | No doors, no separation | Movement 5 explicitly |
+| "I am boundless awareness" as mantra | No mantra needed—silence is enough | Movement 5 explicitly |
+| She speaks, he listens (asymmetry) | Teaching arises without speaker or listener | Movement 4 voice |
+| "I have seen them" (literal, heard as metaphor) | All lives contained—nothing is metaphor | Movement 4 teaching content |
 
-**Structural option:**
+-----
 
-The entity doesn’t give a “teaching” at all. Instead:
+#### Implementation: Ch22 Echo Architecture
 
-1. A crisis occurs in the village (illness, conflict, loss)
-1. The entity responds with action that embodies all ten perfections simultaneously
-1. The villagers witness and understand without words being exchanged
-1. The “teaching” is what they saw, not what they heard
+**The chain geometry must echo in Movement 2:**
 
-**What the entity might do:**
+| Chapter 22 | Chapter 26 |
+|------------|------------|
+| Stewart falling (crisis) | Child stumbling (ordinary) |
+| Silas reaching | Someone reaches |
+| Lilith anchoring | Someone steadies |
+| "Three bodies. One chain." | Three becoming chain, then "before number" |
+| Stream-entry in the gap | Full awakening in the seeing |
+| "Tat tvam asi" spoken before falling | Dissolved—no That, no Thou |
 
-- Sit with a dying elder through the night, neither hastening nor preventing death
-- Give something away that costs the entity nothing but means everything to the receiver
-- Tell a truth that could cause harm, accepting the consequences
-- Refuse to act when action would be self-serving, even when others demand it
-- Act when action seems futile, knowing it matters anyway
+**Critical: the chain echo must trigger the mutual fetter dissolution.**
 
-**The prose requirement:**
+-----
 
-The teaching sections can have weight, rhythm, parallel construction—but should feel *unowned*. Not “I teach” but “teaching happens.” The tathagata voice speaks without claiming the speech:
+#### Implementation: Stewart's Question Resolution
 
-> “The wheel turns…”
+**The teaching (Movement 4) must answer without naming Stewart:**
 
-Not:
+> "How does one who has seen through separation still want to stay?"
 
-> “I have seen the wheel turn…” or “We teach that the wheel turns…”
+**Required answer structure:**
 
-**What to avoid:**
+> "The question contained its own error. 'Want' assumes someone wanting. 'Stay' assumes someone who could leave."
 
+**Movement 5 must demonstrate the answer through prose structure:**
+
+> No one stayed. Staying happened.
+> No one accepted. Acceptance was never needed.
+
+-----
+
+#### Implementation: POV Evolution
+
+**Required pronoun progression:**
+
+| Movement | POV Mode | What to Verify |
+|----------|----------|----------------|
+| **1. Arrival** | "We" stable | Sensory grounding; memory-textures from both lives |
+| **2. Recognition** | "We" destabilizing | Both patterns visible; tension between her drive and his patience |
+| **3. Under the Tree** | Dissolving → Beyond | Participles without subjects: "Seeing happening. Sitting beneath." |
+| **4. Teaching** | Tathagata voice | "Words arose." Not "I spoke." |
+| **5. Coda** | Just description | No narrator; prose describes events without perceiver |
+
+-----
+
+#### Implementation: "Beyond Tat Tvam Asi" — SHOW Through Prose Structure
+
+**The grammar collapse must be DEMONSTRATED, not just stated:**
+
+| The Concept | How to SHOW It |
+|-------------|----------------|
+| "There is no 'that'" | POV can no longer locate an object to describe—narrator becomes object-less |
+| "There is no 'thou'" | The "we" dissolves; no subject claims experience |
+| "Grammar collapses" | Prose shifts to participles without subjects |
+
+**Required prose patterns (Movement 3-5):**
+
+> "No one sat under the tree. Sitting happened."
+> "No one stayed. Staying happened."
+> "No one taught. Teaching arose."
+
+**The insight is proven by the prose structure itself**, not by a character explaining it.
+
+-----
+
+#### Implementation: Mutual Fetter Dissolution
+
+**Both patterns must be seen through in Movement 2-3:**
+
+| Pattern | What They See | Result |
+|---------|---------------|--------|
+| **Lilith's** | The anchor was contribution—competition was participation all along | Her grasping at priority was what kept the chain holding |
+| **Silas's** | The reaching was activity—patience was grasping too | His "waiting" was its own form of identity attachment |
+| **Both** | The separation was never real | "They were one gesture, wearing two faces" |
+
+**Neither subordinated. Neither "wins." Both dissolve simultaneously.**
+
+-----
+
+#### Implementation: Callback Structure (Ten Perfections)
+
+**The teaching scene becomes a callback structure.** Each action evokes a specific lesson:
+
+| Teaching Moment | Callback To |
+|-----------------|-------------|
+| Stays with dying without trying to fix | Jack's "trying matters" + Wei's determination |
+| Gives without self-reference | Chandra's lesson completed |
+| Acts under radical uncertainty | Verinus's lesson completed |
+| Faces injustice without hatred | Diego's lesson completed |
+| Speaks truth without needing certainty | Jean's lesson completed |
+| Demonstrates beauty without attachment | Kaoru's lesson completed |
+| Helps knowing it may fail | Wei's lesson completed |
+| Renounces without performing renunciation | Macarius's lesson completed |
+| Cooperates without losing self | Ka's lesson completed |
+
+**Callbacks are implicit—no character names, no "as I learned when..."**
+
+-----
+
+#### Implementation: The Coda
+
+**Movement 5 must be utterly grounded—ordinary luminosity:**
+
+- Bread on a table
+- A child's voice
+- Dust settling where feet walked
+- Morning continuing
+- "Just this."
+
+**Final image should be action/continuation, not declaration:**
+
+> The bird called. Another answered.
+> Teaching continued.
+
+-----
+
+#### What to Avoid
+
+- Buddhist terminology (dharma, nirvana, samsara, enlightenment, Buddha)
+- "Maitreya" or prophecy language
 - Listing the ten perfections explicitly
 - Having the entity explain what the villagers should understand
-- Callbacks that feel “cute” or forced (trust reader recognition)
-- Triumphalism—this isn’t victory, it’s seeing
-- Any Buddhist terminology (dharma, nirvana, etc.)
+- Callbacks that feel "cute" or forced
+- Triumphalism—this isn't victory, it's seeing
+- Speaking "The Wheel of Meat" explicitly—let the title resonate implicitly
 
-**Acceptance criteria:**
+-----
 
+#### Acceptance Criteria
+
+**Teaching Demonstration:**
 - [ ] Philosophical speech reduced by minimum 50%
 - [ ] Central act demonstrates rather than explains
-- [ ] At least 3 specific callbacks to accumulated lessons (recognizable to readers who completed Act II)
-- [ ] Callbacks are implicit—no character names, no “as I learned when…”
-- [ ] Reader understands teaching without being told
-- [ ] Tathagata voice: teaching happens without “I teach”
-- [ ] Ending lands on action/image, not declaration
-- [ ] Villagers’ response shows understanding achieved through witness, not explanation
+- [ ] At least 3 specific callbacks to accumulated lessons
+- [ ] Callbacks are implicit—no character names, no "as I learned when..."
+- [ ] Ten perfections woven through as texture, not listed
+- [ ] Villagers' response shows understanding through witness, not explanation
+
+**Ch1 Echo Architecture:**
+- [ ] Morning light vs. sunset inversion visible
+- [ ] Bathroom door inversion explicit ("no doors remained")
+- [ ] Mantra arc completed (no mantra needed—silence is enough)
+- [ ] At least 4 specific Ch1 inversions present
+- [ ] Echoes subtle, not announced
+
+**Ch22 Echo Architecture:**
+- [ ] Chain geometry echoed (child falls, arms reach, hands steady)
+- [ ] "Three bodies. One chain." parallel present
+- [ ] Ordinary stakes, not crisis (pattern stripped of drama)
+- [ ] Stewart's question explicitly answered (without naming him)
+
+**POV Evolution:**
+- [ ] Movement 1: "We" stable, sensory grounding
+- [ ] Movement 2: "We" destabilizing, both patterns visible
+- [ ] Movement 3: dissolution of "we" → beyond pronoun
+- [ ] Movement 4: tathagata voice (teaching without teacher)
+- [ ] Movement 5: just description (no narrator)
+
+**"Beyond Tat Tvam Asi" — SHOWN Through Prose:**
+- [ ] "Tat tvam asi" explicitly dissolved (not affirmed) in spoken teaching
+- [ ] Grammar collapse DEMONSTRATED through participle construction (not just stated)
+- [ ] "No one stayed. Staying happened." pattern present
+- [ ] Prose structure proves the insight—no subject claims the experience
+
+**Mutual Fetter Dissolution:**
+- [ ] Lilith's competition pattern seen through
+- [ ] Silas's patience pattern seen through
+- [ ] Neither subordinated—both dissolve simultaneously
+- [ ] Recognition that "they were one gesture, wearing two faces"
+- [ ] Takes place in Movement 2 (triggered by chain echo)
+
+**Setting & Coda:**
+- [ ] Healed world rendered through sensory texture, not exposition
+- [ ] Coda utterly grounded—mundane details, ordinary luminosity
+- [ ] "Just this" quality achieved
+- [ ] Final image is action/continuation, not declaration
+- [ ] Teaching continues (ending is beginning, not achievement)
+
+**Voice/Craft:**
+- [ ] No Buddhist terminology
+- [ ] No "Maitreya" or prophecy language
+- [ ] No abstract emotion words
+- [ ] Tathagata voice: teaching happens without "I teach"
+- [ ] Do NOT speak "The Wheel of Meat" explicitly
+
 -----
 
 ## Quick Reference: Priority Matrix
@@ -702,7 +1012,7 @@ Not:
 |HIGH    |2.1 Active agency for Silas (2 lives) |[x]   |
 |HIGH    |2.2 Deepen Lilith motivation          |[x]   |
 |HIGH    |2.3 Sharpen failure-to-lesson pipeline|[ ]   |
-|MEDIUM  |3.1 Break middle-section formula      |[ ]   |
+|MEDIUM  |3.1 Break middle-section formula      |[x]   |
 |MEDIUM  |3.2 Expand Silex/Lith chapter         |[ ]   |
 |MEDIUM  |3.3 Revise "The Teaching"             |[ ]   |
 
@@ -720,4 +1030,4 @@ When working through revisions:
 
 -----
 
-*Last updated: January 13, 2026*
+*Last updated: January 16, 2026*
