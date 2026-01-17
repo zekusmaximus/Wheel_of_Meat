@@ -1,5 +1,3 @@
-**Word count: 1,458**
-
 Wei Shufen counted his supplies at dawn.
 
 Three pouches of yarrow, nearly exhausted. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, assuming he cut them thin. The arithmetic was always the same: not enough. Never enough.
@@ -76,7 +74,7 @@ The ledger read forty-eight saved, twenty-three lost.
 
 Tomorrow, the ratio might change. Tonight, Wei would do what he could with what he had, and call that enough.
 
-**Word count: 1,587**
+---
 
 The artillery barrage came without warning.
 
@@ -178,6 +176,8 @@ It was not enough to save everyone. It had never been enough.
 
 But it was what he had. And he would give it until there was nothing left to give.
 
+---
+
 They returned at dawn. Two of them.
 
 Wei heard the commotion in the courtyard and rose from his mat, already reaching for his medical bag. By the time he reached the temple entrance, Old Huang had the survivors on the floor, their wounds reopened and bleeding fresh.
@@ -225,8 +225,6 @@ He stood, finally, and returned to his work. The ledger would not close itself. 
 The night deepened. The pyre burned low. And in the temple, Wei counted his supplies and calculated how long they would last before the next impossible choice arrived.
 
 ---
-
-**Word count: 1,728**
 
 Wei heard the whispers three days later.
 
@@ -333,8 +331,6 @@ The question had no answer. Wei rose, extinguished the lamp, and lay down on his
 He did not sleep that night. He only counted.
 
 ---
-
-**Word count: 1,982**
 
 The line stretched for blocks.
 
@@ -451,8 +447,6 @@ It was not enough to change anything. But it was what he had.
 And so he would give it.
 
 ---
-
-**Word count: 1,858**
 
 By midday, the city had fractured into chaos.
 
@@ -598,8 +592,6 @@ It was all there had ever been.
 
 ---
 
-**Word count: 1,924**
-
 Wei followed at a distance.
 
 Not to escape. He had no intention of leaving the temple's wounded unattended at the end. But he could at least see them to the gate. Could at least witness what happened.
@@ -699,8 +691,6 @@ Wei looked up at them. Held the boy's hand.
 And waited.
 
 ---
-
-**Word count: 1,652**
 
 Wei stood.
 
@@ -815,7 +805,3 @@ But the trying was not nothing.
 And somewhere, in a pattern neither Wei nor the soldiers nor the historians would ever see, the seed of that trying took root.
 
 *I will try again.*
-
----
-
-**Word count: 1,502**
