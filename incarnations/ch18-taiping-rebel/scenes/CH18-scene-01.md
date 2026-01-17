@@ -1,5 +1,3 @@
-**Word count: 1,458**
-
 Wei Shufen counted his supplies at dawn.
 
 Three pouches of yarrow, nearly exhausted. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, assuming he cut them thin. The arithmetic was always the same: not enough. Never enough.
