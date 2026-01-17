@@ -22,7 +22,6 @@ Inspecting his face, his own blue eyes seemed to whisper of those lives. The gol
 
 The closed door muffled her voice. "I thought our reservation was at nine." The Walnut Persian Restaurant was a twenty-minute ride at least, but she didn't care. The nights in Manchester were meant to be just a bit behind schedule.
 
-
 Mornings in Manchester were a different story, especially following on the heels of behind schedule nights. Memories of the restaurant and what followed crowded Lilith's mind as she made her way across campus in the early light. It reflected off the modern additions to the historic buildings, onto her face and the empty pathways awaiting the morning rush.
 
 Silas walked towards her, heading to his office in the Arthur Lewis Building, seeming to avert his gaze when she came into view. When he seemed not to notice her, hesitation in her stride suggested her mention of his past lives the night before might have been a mistake. Lilith narrowed her eyes as if preparing to feel Silas out as a student barreled past her, almost nudging her out of his way.
@@ -34,7 +33,6 @@ She neared him as he argued with the student over a late assignment. He gave onl
 "I'll see you at our lecture later, Stewart," he said, cutting off the student's desperate protestations. He glanced at the red brick facade of the Arthur Lewis Building longingly, as if anticipating the much needed coffee awaiting him within. Silas then returned his attention to Stewart, his resolve softened by his seemingly limitless patience. "Or you can always come to office hours."
 
 Lilith walked past them and continued to the Crawford House, already having satisfied her own morning craving for caffeine. Her pace picked back up as if a new resolve had taken hold. She looked back, noticing the distance between her and Silas widening as cars passed by on the street and the campus went about its business.
-
 
 That business continued later in the morning in the lecture hall, where Silas collected assignments and began the unit of his course on Eastern philosophy. "Today we are leaving behind the objective, linear thinking we have been looking at in this course so far for the subjective, cyclical explorations of Eastern philosophy."
 
@@ -66,7 +64,6 @@ The look and words sent a visible shudder through Lilith as she walked Stewart t
 
 The security officer collected the backpack and sweatshirt Stewart had left behind and couldn't help but notice the intense moment Silas and Lilith shared from across the hall.
 
-
 It was a moment that neither had forgotten when they bumped into each other in the empty academic hallway a little while later. The afternoon shadows played through the stained glass windows as they met. Dark wood paneling covered the wall behind the bench where they turned to sit. Lilith drew close to Silas, placing her hand on his knee.
 
 "How's Stewart?" She could hear the genuine concern in his voice.
@@ -90,7 +87,6 @@ He stood up himself, clearing his throat, his own look of resolve mirroring the 
 Lilith straightened her jacket, then reached out to the tweed that Silas wore, running her hands down his chest as if attempting to press out the ever-present wrinkles. Her attempt at closeness fell flat though, Silas placing his own hands on her shoulders, looking into her eyes. "I'll take a meeting with Ellen later this week. Now I have to prepare for our faculty meeting this afternoon."
 
 He was too confident, and they both knew it. Lilith nodded and turned around, lost in her growing concern over his spiritual progress as he walked slowly behind her, lost in his dreams of continuing it. The buzz of the air conditioner fought the rare afternoon heat in Manchester, attempting to cool too much space with too little cold air.
-
 
 The heat was unabated that afternoon in the committee room, the University never having retrofitted the building it was in with air conditioning. Faculty shuffled into the formal space, dragging heavy wooden chairs over the carpeting to make space at the giant oak conference table that dominated the room. The Dean nodded as Silas and Lilith entered the room. "Great job with Mr. Sheldon this morning, you two. From what I gather, your teamwork averted what could have been quite the crisis."
 
@@ -119,7 +115,6 @@ Lilith finally rested back into her seat and wiped away a bead of sweat that had
 Silas, ready to offer another rebuttal, squinted his eyes as if realizing Lilith wasn't just casting doubt on his suggestion, but on something deeper. His face eased into a smile, betraying he had no uncertainty regarding the teaching. "You have the experience and understanding." His fingers ceased tapping as he nodded deferentially to her and mouthed the words of his mantra, I am boundless awareness. Somewhere distant—beyond the room, beyond the building, beyond anywhere that made sense—a child cried. High, thin, wrong in a way he couldn't identify. He glanced at the window. Nothing. The sound had already faded, leaving only the afternoon light and the uncomfortable certainty that he had heard it clearly.
 
 "There's plenty of experience and understanding around this table, Mr. Phalavan." A nervous chuckle followed the Dean's statement, as if attempting to cut some tension hanging in the air. The afternoon sun had sunk, casting new shadows across the room. The light still hung about Silas though, a darker hue perhaps, but still illuminating. Silas looked away from Lilith, but not before she caught a look of insight steal across his face. She couldn't help by notice he continued to silently recite his mantra to himself as the issue of course evaluations was tabled and the meeting concluded.
-
 
 Silas was reciting his affirmation, currently aloud, when he bumped into Lilith later that evening, walking through University Green. They were the only two around in the twilight as dark clouds obscured the sunset, threatening rain.
 
@@ -155,7 +150,6 @@ Silas wiped a raindrop from her cheek as a few more fell around them. Thunder cl
 
 "That you are." She stood next to him, placing her hands on in shoulders, looking through the drops into his eyes. "This practice will bound that awareness." Lilith tapped his chest, pointing at his heart. "A new habit to overcome the habitual."
 
-
 Silas tried Lilith's practice when they returned to her apartment, while she insisted on drying her hair. His affirmation continued to run in his mind, as if given new depth since his recent revelations. The noise of the hair dryer permeated the room despite the torrential downfall and occasional rumble of thunder outside.
 
 Watching him as she finished up, Lilith sat in a chair across from him. The slight smell of wet hair lingered. His posture was impeccable, his concentration complete. The moment seemed to stretch as she closed her eyes and appeared to slip into a practice of her own. The lights in the room became impossibly bright, yet neither of them noticed.
@@ -175,7 +169,6 @@ Her shoulders relaxed. After a pause she replied. "I have." She stood up immedia
 The room came back into full focus as Silas found his breath. "I am boundless…" He couldn't finish.
 
 Lilith was walking toward the other room when her phone rang. A loud peel of thunder interrupted the beginning of the conversation. Silas looked outside at the pouring rain, his head suddenly clear again. Lilith picked up her coat. "I'll be right there."
-
 
 The rain had turned torrential by the time they reached the car, each drop shattering against the pavement like tiny failures of the sky to contain itself. Lilith's key fob chirped twice before the locks released, and she was already sliding behind the wheel when Silas pulled the passenger door open, his clothes heavy with water that had found every seam and gap.
 
@@ -262,7 +255,6 @@ He opened the door.
 The wind hit first, cooler than the rain had been, carrying the last gasps of the storm that had already begun to move east. The rooftop stretched before them, populated by exhaust vents and HVAC units and the low barrier wall that separated the building from the empty air beyond.
 
 Near that barrier, a silhouette stood against the lights of the city below.
-
 
 Stewart turned at the sound of the door, and in the city's ambient glow, Silas could see he wasn't the same young man who'd stripped in the lecture hall that morning. The desperation was gone. In its place, something worse—a terrible clarity that settled across his features like frost.
 

@@ -28,19 +28,29 @@ One supposes. The language of men who knew better than to claim certainty but wh
 
 "The road to the site?" Jean asked, because the practical questions were easier than the philosophical ones, and because he had already accepted. One did not refuse Bernard de Lacaze, and more importantly, one did not refuse the possibility that careful investigation might yet find something true.
 
+He would need his network: old Thierry in Libourne who tracked every face through the wine market, the notary's widow in Agen who owed Jean a debt from the de Montfort inquiry two years past, perhaps the innkeeper near the crossroads whose neutrality matched Jean's own. No investigation succeeded through one man's effort. The witnesses lied to protect themselves; the network existed to compare the lies, to find truth in the spaces between self-serving accounts.
+
 "Patrols from both sides. You'll need letters of passage." De Lacaze produced them from a drawer—documents signed and sealed, stating Jean de Langon acted under the authority of the Parlement. "Captain de Castelnau commands the Protestant forces in the region. Father Sorbin represents Catholic interests. Both have been informed you are coming. Both will wish to ensure you find the correct conclusions."
 
-Jean took the letters. The seals were authentic, the signatures properly witnessed. They would protect him or condemn him depending on what he found. "How long do I have?"
+Jean took the letters. The seals were authentic, the signatures properly witnessed. They would protect him or condemn him depending on what he found.
+
+De Lacaze reached into a second drawer and withdrew a small leather purse. "Additional compensation," he said quietly. "Beyond the standard fee. For the dangers you will face." Jean let the purse remain on the desk. Not from performance of incorruptibility, not for the magistrate's benefit—simply from recognition that extra coin would not change his methods and accepting it would change his relationship to the work. De Lacaze said nothing as he returned the purse to the drawer, though his eyes flickered with something that might have been reassessment.
+
+"How long do I have?"
 
 "The widow petitions for resolution. The Crown wishes to know if the incident threatens the peace. The Catholic League claims Protestant aggression. The Protestant command claims Catholic assassination." De Lacaze's voice was steady, but his hands, visible now in the candlelight, bore ink stains and the slight tremor of a man who had not slept well in some time. "You have as long as it takes to determine the truth. You have three weeks before I must report to the Parlement."
 
 Three weeks to untangle a killing both factions had already weaponized. Three weeks to find truth in a province where truth was the rarest commodity, hoarded and counterfeit in equal measure.
+
+The investigation would likely fail. Jean understood this without bitterness—simply with the clear-eyed assessment of a man who had attempted enough impossible assignments to recognize another. The factions had already weaponized the killing; the truth lay buried beneath narratives that preceded his involvement. But the impossibility did not sour him. He had learned, somewhere in the accumulated years, to work without expecting success. The work was what he could offer. The outcome belonged to forces larger than one investigator's diligence.
 
 Jean gathered the documents, folding them carefully into his leather case. The letters of passage went into an inner pocket, close to his chest where they would stay dry and where a knife would have to cut deep to reach them.
 
 "I will send word as I have findings to report," Jean said, and heard the careful hedge in his own voice—*findings*, not *conclusions*; *as I have*, not *when*. The language of a man who knew how to avoid commitment even in his promises.
 
 "God keep you on the road," de Lacaze said, and it was not merely formula. On the roads of Guyenne in 1588, one required all the keeping one could pray for.
+
+De Lacaze's hand briefly touched Jean's arm as he spoke—a gesture of personal concern born from eight years of shared work. Jean should have felt comfort in that familiar touch. Instead, a chill passed through him, quick and inexplicable. Old friends who shared confidences. Trusted bonds between men who knew each other's secrets. Something in his body flinched from the pattern, though his mind supplied no reason for the revulsion. The moment passed, and Jean attributed it to the weight of the assignment ahead.
 
 Jean descended the magistrate's stairs into a Bordeaux evening turned dark with rain. His horse waited in the courtyard, already saddled by the magistrate's groom—a preparation that spoke of de Lacaze's certainty that Jean would accept, or perhaps of the older man's need to have this investigation begun before sunset.
 
@@ -55,7 +65,6 @@ He turned toward the city gate. The investigation had already begun, whether he 
 Behind him, a light still burned in the magistrate's window. Ahead, the road stretched dark into the countryside where a man had died and where the story of his death waited to be gathered, weighed, and delivered to those who would use it however they required.
 
 Jean touched his fingers to his thumb one final time—counting, measuring, testing the weight of a thing he could not yet see—and rode through the gate into the gathering dark.
-
 
 The inn called itself the Rose and Crown, a name that claimed neutrality through royal appeal while the rose itself might signify Lancaster or simply the vine that grew over the stable door. Jean had learned to read such ambiguities. In 1588, survival often depended on symbols that could mean whatever the armed observer required them to mean.
 
@@ -133,6 +142,8 @@ Jean looked at the girl's face. She was frightened, he saw. Frightened of what s
 
 "Who would I tell, Monsieur? The Catholics would say it proves nothing. The Protestants would say I lie. And de Ségur is dead either way." Her eyes met his—direct, weary, old beyond her years. "I am telling you because you asked. But I don't know what good the truth does when both sides have already decided what they believe."
 
+Jean paused before making his next note. The investigation required testimony; something older than training required him to acknowledge the person who provided it. "You have carried this burden alone for days," he said quietly. "That is a heavy weight, especially for one whose words will be dismissed by those who prefer simpler stories. Thank you." Lisette's eyes widened fractionally—the surprise of someone accustomed to being useful rather than seen. It cost Jean nothing except the professional distance he usually maintained. But he had learned, somewhere in the accumulated years, that witnesses remembered being treated as people. And that memory shaped everything they chose to share.
+
 ---
 
 Jean rode back to his inn as evening fell. Three witnesses. Three mutually exclusive accounts.
@@ -145,6 +156,10 @@ The servant had heard de Ségur arguing with a fellow Protestant about betraying
 
 Jean touched his fingers in sequence, counting the contradictions. His training said: investigate further, cross-reference, find the inconsistencies that would reveal which account was false. But each account was internally consistent. Each witness believed their own testimony. And each version of events led to a different conclusion about who had killed Henri de Ségur and why.
 
+The contradictions might not indicate lies. Jean had learned this across fifteen years of investigation: witnesses could be simultaneously truthful and irreconcilable, each seeing a portion of something too large for any single perspective to contain. Forcing resolution where none existed was its own form of dishonesty—a premature certainty that satisfied the investigator's need for narrative rather than serving truth. He would hold all three accounts without yet determining which was false. Perhaps none were false. Perhaps the truth lay not in choosing between them but in understanding why honest perception produced incompatible visions.
+
+He had pursued each witness without waiting for prior verification—had sought the servant girl based on little more than the hope that someone at the estate might have seen de Ségur depart. The willingness to act on incomplete evidence was not the same as claiming false certainty. It was simply the recognition that investigation required movement, and movement required accepting uncertainty as the medium through which any truth was sought. A man who demanded verification before every step would never take the first.
+
 The rain began as he reached the inn. Jean stabled his horse and climbed the stairs to his room, where his notes lay spread across a table like pieces of a pattern that would not resolve into sense.
 
 This was the work he had built his reputation on: weighing testimony, finding truth beneath the claims of interested parties. He was good at it. He had always been good at it.
@@ -155,6 +170,7 @@ He lit a candle against the gathering dark and began writing his preliminary rep
 
 The pen scratched. The candle burned. And Jean felt the first small crack in the fortress of doubt he had mistaken for wisdom.
 
+But the crack was not despair. Jean had spent fifteen years pursuing truth through investigation; he had also spent fifteen years learning that some truths remained inaccessible. This was not failure—it was the shape of reality, which exceeded human capacity to verify. The investigator who could not accept limits would break himself against them, or worse, would force conclusions where conclusions could not honestly exist. Jean accepted the uncertainty with a clarity that felt almost like relief. Some questions had no answers. Seeing that clearly was its own form of truth.
 
 The road between market towns ran through oak forest thick enough to muffle sound and channel sight into the narrow corridor of packed earth that passed for passage. Jean rode with his hand loose on his reins and his attention spread across the middle distance—not staring at any one shadow, but holding all of them in peripheral awareness. A man learned this, traveling alone through country where factions maintained order only within sight of their own walls.
 
@@ -230,7 +246,6 @@ The question was whether he would survive the attempt.
 
 Jean touched his fingers one more time—counting, measuring, testing the weight of a fortress he had thought secure—and felt the first stone in that fortress shift beneath his hand.
 
-
 The print shop smelled of ink and metal—the tang of letters in their cases, the oil on the press mechanism, the chemical residue of whatever solvents kept the type clean enough to serve. Jean stood in the doorway and let his eyes adjust to the interior dimness. Afternoon light filtered through windows too small for the work they illuminated, falling in dusty shafts across tables covered in pages and proofs.
 
 "Monsieur de Langon." The voice came from the back of the shop, where a woman stood beside a compositor's desk. She set down her work—a page of set type, Jean saw, dense with text—and moved forward with the economy of someone accustomed to navigating the shop's narrow aisles. "I wondered when the Parlement would send someone."
@@ -250,6 +265,8 @@ Jean touched his thumb to his index finger—a small gesture, counted without th
 "Is it?" She moved to a shelf and withdrew a folder of papers. "Come. I will show you what Henri de Ségur requested we print, and you may judge for yourself what it tells you about his opinions."
 
 The documents were pamphlets—political, argumentative, calling for negotiated peace and mutual tolerance in language that would satisfy no one who believed satisfaction came through victory. Jean read while Marguerite watched, her hands resting on the compositor's desk with the stillness of someone accustomed to waiting.
+
+"Notice the dates," Marguerite said, touching the edge of one pamphlet. "The earliest calls for firm Protestant resistance. By the most recent, he is arguing for negotiated peace as though both sides might be partially correct. He was not a fixed position, Monsieur—he was a trajectory." Jean looked again at the pamphlets with new understanding. He had read for content; she had seen pattern. De Ségur's enemies would have perceived the direction before he reached its destination. The insight was hers, arrived at through careful observation Jean's urgency had overlooked. He incorporated it without defensiveness—what mattered was accuracy, not who had first perceived it.
 
 "These would make him enemies," Jean said.
 
@@ -322,7 +339,6 @@ What do you do with contradictions that cannot be resolved?
 And beneath it, the more dangerous question she had planted:
 
 What if honesty means admitting you cannot know?
-
 
 Jean returned to Marguerite's print shop three days after the ambush. His ribs had settled from sharp pain to dull ache, and his shoulder moved with only occasional reminders of torn tissue. The bruises would fade. The questions would not.
 
@@ -450,7 +466,6 @@ If I cannot verify, can I conclude?
 
 And if I cannot conclude, what am I doing here at all?
 
-
 The ball was held at the residence of Antoine de Pibrac, a nobleman whose wealth derived from wine and whose survival derived from hosting gatherings where both factions could meet under the fiction of social courtesy. Jean arrived as evening settled into full dark, his best doublet brushed clean and his sword worn as much for fashion as function. A man did not attend such events unarmed. Neither did he draw steel unless he wished never to be invited again.
 
 The great hall glittered with candles that cost more than most families spent on food in a season. Musicians played in the gallery. Guests moved in patterns of approach and avoidance choreographed by faction loyalty and social rank. Jean recognized faces from both sides: Catholic League supporters in one cluster, Protestant commanders in another, and between them the politiques who attempted to serve neither faction enough to provoke the other.
@@ -501,7 +516,11 @@ The priest moved away into the crowd, his warning delivered with the same urbane
 
 Across the room, Jean saw Captain de Castelnau in conversation with a group of Protestant officers. The Captain's gaze met his briefly—an acknowledgment of presence that carried neither invitation nor threat. Simply a reminder that Protestant interests watched as carefully as Catholic.
 
-Jean moved toward the refreshment tables, seeking space to breathe and think. He had barely reached the wine when a woman's voice spoke at his shoulder.
+Jean moved toward the refreshment tables, seeking space to breathe and think.
+
+A noblewoman passed in a gown of deep yellow silk—the color of late autumn, of fallen leaves, of something else Jean could not name. His throat tightened. For a moment he tasted smoke that was not present, felt heat against his face that the October evening did not explain. The sensation passed before he could examine it, leaving only a faint trembling in his hands and the inexplicable urge to look away from that particular shade of gold. He had no reason to fear yellow fabric. No memory that connected the color to danger. Yet his body had recoiled as if from fire itself.
+
+He had barely reached the wine when a woman's voice spoke at his shoulder.
 
 "You look like a man surrounded by enemies, Monsieur de Langon."
 
@@ -558,7 +577,6 @@ Four days to decide whether honest uncertainty was wisdom or cowardice.
 Jean touched his fingers one more time and felt the gesture empty of meaning. He was not weighing evidence. He was counting the days until he would have to choose between truth he could not verify and conclusions he could not honestly claim.
 
 The ball glittered behind him. The road stretched dark ahead. And Jean de Langon stood between them, neutral, thorough, and utterly alone.
-
 
 Jean returned to the print shop well after dark. The streets of Bordeaux were dangerous at this hour, but danger had become a constant companion, and Jean no longer weighed the risks of movement against the risks of stillness. Both would kill him if he miscalculated.
 
@@ -677,7 +695,6 @@ Jean touched his fingers one final time and felt the gesture settle into somethi
 Behind him, a light still burned in the print shop's upper window. A silhouette stood there, watchful and still.
 
 Jean did not look back. He had a report to write.
-
 
 Jean sat at his desk as dawn broke over Bordeaux. The candle had burned down to a stub. His hand ached from hours of writing. Before him lay the report—ten pages of careful script, an accounting that would satisfy no one and might condemn him.
 
@@ -799,7 +816,6 @@ But it was true.
 Jean shouldered his bag and walked out of the inn into the morning light. The road waited. So did whatever came next.
 
 He was ready for both.
-
 
 Jean left Bordeaux at dusk. The gate guards examined his papers with the careful attention of men who knew warrants might follow any traveler, but his letter of passage from the Parlement was still valid—would remain valid until someone with authority revoked it. By then, Jean intended to be across the provincial boundary into territory where Guyenne's factional feuds held less immediate weight.
 

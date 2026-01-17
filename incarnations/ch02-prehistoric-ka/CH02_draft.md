@@ -8,7 +8,6 @@ New hunters come. Hunters flow together like water drops. Hunt together like han
 
 Ka knows better way. Ka hunts alone. Prey blood stays warm shorter time now. Gets stiff-cold fast like frozen stream. Ka stays strong by self. Ka needs no one. Morning birds stop. All stop. Mist valley opens like ripped skin. Ka sees them. New hunters. Strange hunters. Move together. One mind. Herd beasts bunch tighter now. Used to spread like water drops. Now clump like fire sparks. Sky brightens. Dawn red like fresh meat. Ka not know. This dawn test. This dawn end old ways. This dawn end alone time. Or Ka run.
 
-
 Ka watches cave mouth. Strange hunters in valley. Move like one big animal. Not wolf. Not bear. Not cat. Something new. Fur like night sky after sun goes. Eyes like fire in dark. They hunt. But hunt different. Not like Ka. Not like tribe. Like wolves - strong ones on outside, weak ones inside circle.
 
 They smell ground. Find trail. Big one leads. Back marked with fighting scars. Eyes like ice chunks. Makes throat sounds. Others listen. They move. Like one breath. One heart. Long-tooth cat leaves different marks now. Drags kill higher up rock-places. Follows cold. Elk runs. Young elk. Afraid. Hunters chase. Fast. Quiet.
@@ -25,7 +24,6 @@ Spear drags. Makes small dust clouds. Sky heavy. Like before big storm. Body fur
 
 Ka hates new way. Like hating sky-bird stealing meat from Ka's kill. Hates how they move together. Like many-leg beast, all legs moving same time. Fear crawls on Ka's skin. Like crawling bugs. Cold fear sits in Ka's belly. Cold in chest. Like stone where heart should be. Heavy. Dead. Ground hard under Ka's feet. Like earth angry. Holding breath. Waiting to bite.
 
-
 Cave feels small now. Walls press close. Squeeze breath from Ka. Air thick with tribe smell. Too much. Smell of sweat and fear and too many bodies. Like fur wrap too tight. Other hunters make sleep sounds. Deep sounds. Talk in sleep. Dream of meat and warm. Safe in tribe pile. Ka cannot sleep. Ka sees hunters move as one. Over and over in Ka's head. Like shadows dancing on cave wall. Shows how different they are. How strong. How together. Ka feels small. Like small-fast-prey when sky-bird shadow comes. Weak. Seen. Easy to kill.
 
 Ka pushes fear down deep. Ka big. Ka strong. Words feel empty. Like dead leaves in wind. Cave walls press closer. Tribe smell chokes. Ka needs air. Needs hunt. Needs alone. Away from tribe pile smell. Needs sky above. Wind on face. Hunt alone. Ka leaves cave. No look back. Not want to see tribe body pile. Their touching limbs. Their shared breath sounds.
@@ -41,7 +39,6 @@ Ground shakes. Many feet. Not gazelle. Not wind. Hunters. Word forms in Ka's hea
 Ka looks. Eyes search far place. See gazelle herd. Moving fast. Noses up. Tails shake. Afraid. Dark shapes at plain's edge. Coming. Moving toward gazelle. Like dawn hunters. But more. Many more. Like ground insects taking dead prey. Dark wave spreads across plains. Sun sits low. Shadows stretch long. Reach across plain like grabbing hands. Claw at earth. Red light like wounded prey eye. Burns with anger.
 
 Ka remembers before-time. Much water time. Rivers full like fat prey. Lakes overflow like split water skin. Fat herds everywhere. Gazelle thick on plains like flies on meat. Tribe happy then. Faces show teeth in good way. Bellies full of meat. Ka kill big-nose beast. Bigger than any gazelle now. Proud memory. Tribe eat many suns. Old One laugh then. Deep sound like earth sound. Hit Ka's back. Say "Strong hunter." Good words. Warm memory. Time of being part. But other hunters, eyes sharp. Like flint edges. Angry sounds. Like stones hitting Ka's back. "Too good." "Alone." Ka is alone. Good. Ka likes alone.
-
 
 Tribe like pack dogs. Always fight. Always show teeth. Always want. Never enough. Ka like mountain cat. Quiet. Strong. Alone. Free. But new hunters, together. Why? Question claws Ka's mind like thorn. Together they strong. Like strong vine wrapped many times. Why? Ka pushes thought away. No. Alone is strong. Like lone wolf. But, gazelle, how fast they kill, how all work together, Small doubt grows like winter ice.
 
@@ -67,7 +64,6 @@ Others spoke of this smell at night fire. Made signs of quick death. No escape. 
 
 Ka watches hunters go over hill edge. Black shapes against dying sun. Together. Ka feels empty inside. Like after big kill, but no meat. Hollow hurt in belly. Deep hurt that goes past hunger. Hunters come. Learn or die. Old One words beat in Ka's head. Like heart drum. Change, or be left behind. Earth whispers. Ka looks at empty hands. Nothing. No kill. No strong feeling. Just empty.
 
-
 Ka turns from setting sun. Cold wind bites back. Goes back to cave. Cave smells wrong now. Tribe smell stronger. Fear smell. Change smell. Weak smell. Ka cannot take air in. Too thick. Ka leaves again. Needs air. Needs hunt. Needs alone. Away from pressing tribe smell. Needs big plains. Needs hunt alone. To feel big again. To feel strong again.
 
 Ka waits. No moving. Spear gripped tight. Something watches. Feeling crawls on Ka's skin. No sound. No moving. But Ka knows. Ka looks at trees, dark shadows, twisted branches like grabbing hands. Looks at rocks, sharp edges against dying light. Nothing. But watching feeling stays. Makes skin prickle. Wind changes, brings dog smell again. Stronger now. Closer. Smell like pack animal but stronger. Death smell.
@@ -83,7 +79,6 @@ Dogs attack. Fast like snake strike. Hard like rock fall. Blur of moving. Like s
 Deer trapped now. Cliff behind. Big drop. Dogs make wall in front. Wall of teeth and muscle. Wall of death. Deer fight. Antlers flash like lightning. Hooves hit like thunder. No use fighting. Dogs too many. Too fast. Too together-minded. Deer fall. One. Two. Three. More falling. Bodies hit ground. Dogs eat fast. Smart-eating. No waste. Then gone. Like wind. Like they never were. Ka alone. Spear not used. Nothing done. Empty feeling comes back. Heavier now. Deeper cut.
 
 Ka climbs down. Body feels not-there. Goes to kill place. Sees bodies. Many bodies. More than Ka ever kill alone. Dogs take what they need. Leave rest. Sky birds circle above. Ka feels small. Weak like cub. Hunters change everything. Ka always hunt alone. Always strong alone. Now doubt grows like ice in stream.
-
 
 Ka thinks about tribe. About sharing food. Hunting together. New ways. Ka always alone. Strong alone. But now alone feels cold. Empty like dry stream. Ka looks at setting sun. Feels wind. Cold wind. Lonely wind. Hears nothing. No birds. No prey. No tribe sounds. Just alone. Word echoes inside. Empty sound. Ka remembers fire warmth. Voice sounds. Even alpha male's rough laugh. Something pulls in chest. Want-feeling?
 
@@ -105,7 +100,6 @@ Ka sees tribe running. Coming fast. Making hunt sounds. Spears up. Tribe. Ka nev
 
 Ka stands. Legs shake like new cub. Arm burns. Blood flows hot-wet. Sticky on skin. World spins like drunk on fire-water berries. Young hunter brings green things. Makes healing wrap. Binds wound. Gentle touch, like mother-touch. Ka smells healing plants. Bitter smell but good smell. Makes pain less. Ka looks at tribe. Together. They save Ka. Ka saved by, tribe. Ka always alone. Strong. Now, not alone. Not strong. But alive. Word sits in Ka's mind. Gift from tribe.
 
-
 Alpha male points where sun dies. Points to far herd. Big-nose beasts. Dangerous prey. Tribe needs food. Cold time comes. Ka looks at spear. Broken now. No use. Alpha male gives Ka new spear. Strong spear. Sharp point. Wood smooth-cool in Ka's hand. Ka looks at tribe. At big-nose beasts. Together. Ka makes small head move. Small move. Big change.
 
 Tribe hunts. Together. Like dogs. Like water flowing. Around big-nose beast. Making it go where they want. Ka hunts with them. Not alone now. New feeling. Not weak. Not strong. Part of something. Ka learns. Tribe moves as one. Sign-moves. Call-sounds. Hand-talks. Silent speaking. Ka follows. Learns. Watches how they work together. Each hunter doing part. Like strong net with many ties.
@@ -117,7 +111,6 @@ Ka eats with tribe. Shares meat. Taste good. Rich taste. Alpha male moves head a
 Night comes big. Star-eyes bright. Many eyes watch from dark place. Moon full-round. Makes long shadows dance. Ka sits by fire. With tribe now. Not alone. Ka watches fire-fingers dance. Orange-red against black night. Hears tribe make song. New song. Together-song. Hunt-song. Tribe-song. Sound-weaving moves through night air like bright fur wrap. Ka closes eyes. Smells smoke. Smells earth. Smells tribe sweat. Not bad smell now. Known smell. Safe smell. Ka feels, peace. Strange new feeling. Good feeling. Ka feels fire warm on face. Hears fire speak-crack. Soft tribe sounds. Drum beats like heart. Night not empty now. Full. Full of life. Full of together. Ka sleeps, not alone. First time, Ka sleeps, with pack. Deep sleep. Good sleep.
 
 New sun breaks earth edge. Sky clear-bright blue. Full of promise like fresh kill. Birds make hope sounds. New start sounds. Ka wakes, not alone. With tribe. Part of pack. New sun. New way. Rising sun makes sky-fire colors. Soft wind moves through grass. Brings wet-earth smell and far-bird calls. Ka stands. Strong now. Ready. Together. Hunt starts. But this time, not just about kill. About tribe. About being part. About being, together. Sky-bird circles high. Makes sharp sound that echoes. Reminds of danger still waiting. But Ka not afraid now. Ka is pack now. Together, they strong.
-
 
 Cold time comes. Wind cries like hurt prey. White-ground falls soft. Silent like cat-feet. World white now. Like old bones. Cold bites deep. Like wolf teeth in flesh. Hunt hard now. Prey hides. Under white-ground blanket. Tribe hungry. Ka smells hungry on them. Sharp smell. Bad smell. Ka remembers old ways. Hunt alone. Keep all kill. Lone wolf way. Now, Ka hunts with tribe. Together. New way. Ka still strong hunter. But now, Ka shares. Sees cubs shake-cold. Small bodies press close for warm. Breath makes sky-smoke in cold air. Mothers weak now. Faces pulled tight. Eyes empty. Ka gives meat. Feels, good. Warm grows in chest. Not fire warm. Deeper. Sun warm. Feeling spreads. Melts ice around Ka's heart.
 

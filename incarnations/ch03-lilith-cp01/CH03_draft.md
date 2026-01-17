@@ -44,7 +44,6 @@ She closed her eyes, felt her shoulders settle against the chair's worn upholste
 
 She let herself follow.
 
-
 ## II
 
 Ka did not know the word for what he was doing. The concept of *hoarding* would not exist for epochs, would require granaries and ledgers and the slow accumulation of surplus beyond immediate need. But his body knew. His hands knew, the way they clutched the frozen deer haunch, the way his fingers curled around it even in sleep.
@@ -107,7 +106,6 @@ Lilith's radiator clicked off, the cheap flat's inadequate heating cycling down 
 
 Both of them held their prizes and called it enough.
 
-
 ## III
 
 The white-ground fell harder now. Ka had lost sight of the tribe's fire—the storm had eaten everything, had turned the world to white and wind and the silence that came before dying.
@@ -143,7 +141,6 @@ The cave was empty. The body was meat now, no different from the deer it still c
 But the thread—the thread continued.
 
 Lilith followed.
-
 
 ## IV
 

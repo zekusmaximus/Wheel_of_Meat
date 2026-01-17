@@ -60,7 +60,6 @@ One more method. Intellectual approach for intellectual fortress.
 
 This one would work.
 
-
 The print shop smelled of ink and metal. Lilith felt both the chemical tang through Marguerite Viret's awareness and the cold lamp-glow through her own eyes in the Fallowfield flat. The same precision work: words arranged into meaning, letters set into type, arguments constructed with the care of someone who understood that each component bore weight.
 
 Marguerite's face held the markers Lilith had worn in every life she could remember wearing faces at all: the widow's peak sharp and pronounced, the single darker strand falling forward over the left temple, the pale-green crescent in the iris of the left eye visible when candlelight struck at the right angle. The printer's widow was late thirties, educated, connected to the intellectual networks that survived between factions because skepticism served everyone's purpose equally.
@@ -88,7 +87,6 @@ Jean's finger-touching sequence began: thumb to index. Counting the possibilitie
 Good. The trap was setting. The method was working.
 
 One more push toward the fortress she would convince him was wisdom.
-
 
 Candlelight caught the wine in Marguerite's cup. Wrong temperature now, like the grey light pooling unnoticed on her desk. The philosophical conversation deepened toward its intended destination.
 
@@ -124,7 +122,6 @@ He was close. The fortress walls were rising higher. Soon he would be safely sea
 
 One more push. Just one more.
 
-
 The letter appeared in Marguerite's archives the way evidence always appeared when Lilith directed an investigation's path: naturally, inevitably, as if the document had been waiting since 1588 to be found at precisely the moment that would do maximum damage.
 
 She did not forge it. The letter was genuine—authentic Protestant correspondence, written by an angry commander to a moderate he considered traitor. The signature was illegible because the writer had made it illegible, had understood even in his fury that putting his name clearly to threats was unwise. The content was convenient because the content was *real*: there had been men who saw de Ségur as obstacle, who had discussed removing obstacles with the language men used when they meant violence.
@@ -156,7 +153,6 @@ Lilith felt certain: *This will work. The letter's ambiguity will paralyze him. 
 A flicker. The thought did not complete. A question she had not meant to ask: *Will this actually work?*
 
 She filed it under strategic assessment and continued positioning the trap.
-
 
 The print shop at midnight held the intimacy of shared skepticism: candlelight carving shadows from Marguerite's widow's peak, wine at wrong temperature, words that cut deeper for being spoken softly.
 
@@ -197,7 +193,6 @@ Jean touched his fingers one final time. Thumb to index. The gesture that had be
 Then he looked up.
 
 And his face had changed.
-
 
 "You offer me a fortress," Jean said. "The same fortress I have inhabited my entire career."
 
@@ -275,7 +270,6 @@ The method would work next time.
 
 One more approach. There had to be one more approach.
 
-
 The road west of Bordeaux ran through oak forest thick enough to swallow sound, and Jean de Langon died there in the gathering dark.
 
 Lilith watched through temporal perception, not through Marguerite's eyes. The widow had served her purpose and was left behind in her print shop, setting type for pamphlets that would not change the world. Through something older, something that preceded vessels and names and individual faces. Through the awareness that had tracked him since Ka crouched in firelight three hundred thousand years before.
@@ -323,7 +317,6 @@ Something in her chest that had nothing to do with strategy. Nothing to do with 
 She filed the observation and did not examine what it meant.
 
 She reached for the laptop.
-
 
 Grey Manchester light filtered through curtains she had not opened in days.
 

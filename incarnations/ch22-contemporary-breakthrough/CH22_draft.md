@@ -138,7 +138,6 @@ But for now, there was only this rooftop, and Stewart's shell-shocked breathing,
 
 And the strange, unprecedented lightness of a burden he hadn't known he was carrying until it was gone.
 
-
 The paramedics would arrive in minutes. Lilith knew this the way she knew her own breathing. The cadence of emergency response, the distance from the nearest station, the time it took to navigate campus.
 
 Minutes. To become who she needed to be again.
@@ -193,7 +192,6 @@ Silas looked at her with those changed eyes.
 
 The sirens grew louder. The night continued. And between them, the space that had collapsed remained uncertain, neither closed nor open, waiting for what came next.
 
-
 The emergency door banged open on floodlights and high-visibility jackets.
 
 Two paramedics came through first, a man and woman in their forties moving with the practiced efficiency of people who'd seen everything and expected worse. Behind them, a campus security officer with a radio crackling questions he couldn't answer.
@@ -237,7 +235,6 @@ Silas raised his hand. Not a wave, not a gesture of farewell—just his palm lif
 She nodded once.
 
 Then she followed the stretcher through the emergency door, leaving him alone on the rooftop with the thinning mist and the city lights below.
-
 
 The door closed behind them, and silence reclaimed the rooftop.
 
@@ -284,7 +281,6 @@ He would see them soon. He could feel them gathering.
 But for now: the rooftop. The city. The cold air filling his lungs with each breath. And the new baseline of his experience, humming quietly where the old certainties used to live.
 
 He stayed for a few more minutes, letting the settling complete. Then he found the stairwell door and began his descent.
-
 
 Morning light pressed against his eyelids.
 
@@ -339,7 +335,6 @@ Somewhere in the city, Lilith was with Stewart. He could feel her absence like a
 He would see her again. This certainty felt different from the wanting that would normally accompany such knowledge. Recognition rather than desire or need, the way you recognize your own face in a photograph.
 
 For now: toast crumbs on his fingers. Coffee cooling. The green outside the window. And the new texture of his experience, humming quietly where the old urgencies used to live.
-
 
 He was standing at the window when the lives began to open.
 
@@ -429,7 +424,6 @@ Silas breathed. His reflection in the window was pale, unshaven, the circles und
 
 The wheel turned. And the seeing that had always been there, boundless, aware, continued doing what it had never stopped doing, even when the one looking through its eyes had believed himself to be separate from the looking.
 
-
 The lives were still present, threads beyond counting humming at the edge of awareness like strings recently plucked, when Silas noticed the pattern he'd missed before.
 
 She had been in all of them.
@@ -496,7 +490,6 @@ For now, he let the recognition settle. The woman he was beginning to love, and 
 
 But the connection was there. It had always been there. And now, finally, he could see it.
 
-
 Lilith wasn't here.
 
 The thought arrived with the flat factuality of morning. She was at the hospital with Stewart, navigating the institutional aftermath of a psychiatric patient's rooftop crisis. Meetings with supervisors. Documentation. The paperwork of crisis contained. She would be busy for hours.
@@ -536,7 +529,6 @@ He stood at the window with his coffee, looking out at the green, and the sensin
 This was what the lives had been pointing toward. Not just the lessons, not just the deaths, but this: the dissolution of the boundary that made him *him* and her *her*. They weren't merging. They were recognizing that the separation had always been provisional, a convenience of embodiment rather than a truth of being.
 
 For now: coffee, green space, morning light. And the strange new experience of presence without proximity, connection that distance couldn't interrupt.
-
 
 The morning ripened toward noon, and everything settled.
 

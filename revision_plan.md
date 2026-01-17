@@ -589,7 +589,7 @@ Before Chapter 14’s full success, plant a seed in Chapter 8 (Verinus) and Chap
 
 **Priority:** MEDIUM  
 **Source:** Report 1, integrated with Ka bookend structure and Maitreya arc requirements  
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 **Problem:** The Eternal Synthesis section reads as philosophical summary, not lived experience. Additionally, the chapter must accomplish significant structural work: completing the Ka bookend arc from Chapter 2, seeding the Maitreya merger for Chapter 26, and showing Lith's final fetter beginning to dissolve.
 
@@ -729,51 +729,51 @@ This chapter carries five functions simultaneously:
 #### Acceptance Criteria
 
 **Sensory Grounding:**
-- [ ] Minimum 7 specific sensory details showing sterile perfection (see table above)
-- [ ] Reader feels oppression of optimization through body before understanding through mind
-- [ ] Technology as texture, not spectacle—no fetishization or explanation
+- [x] Minimum 7 specific sensory details showing sterile perfection (see table above)
+- [x] Reader feels oppression of optimization through body before understanding through mind
+- [x] Technology as texture, not spectacle—no fetishization or explanation
 
 **Ka Bookend:**
-- [ ] Dawn/sunset parallel visible: primal flesh → designed flesh
-- [ ] Isolation parallel: cave alone → cocoon with false connection
-- [ ] Hoarding parallel: meat → experience/archive/life-extension
-- [ ] Death yearning parallel: giving → completion/union
-- [ ] "What remains to be done?" phrase echoing Ka's incompleteness
+- [x] Dawn/sunset parallel visible: primal flesh → designed flesh
+- [x] Isolation parallel: cave alone → cocoon with false connection
+- [x] Hoarding parallel: meat → experience/archive/life-extension
+- [x] Death yearning parallel: giving → completion/union
+- [x] "What remains to be done?" phrase echoing Ka's incompleteness
 
 **The Eternal Synthesis:**
-- [ ] Counterfeit spirituality rendered without Buddhist terminology
-- [ ] Hollow at center visible through Silex/Lith perception, not explained
-- [ ] Institutional response shown (integration offer, archival threat)
-- [ ] Seeds planted through small circles (without triumphalism)
+- [x] Counterfeit spirituality rendered without Buddhist terminology
+- [x] Hollow at center visible through Silex/Lith perception, not explained
+- [x] Institutional response shown (integration offer, archival threat)
+- [x] Seeds planted through small circles (without triumphalism)
 
 **Maitreya Foreshadowing:**
-- [ ] Minimum 3 merged-awareness moments across chapter
-- [ ] "Which one am I?" question surfaces at least twice
-- [ ] Progression from parallel sensing → deliberate merge → habitual link → recognition
-- [ ] Death shows single thread, not two
-- [ ] Final lines seed Ch 25 (alien embodiment) and Ch 26 (merger)
+- [x] Minimum 3 merged-awareness moments across chapter
+- [x] "Which one am I?" question surfaces at least twice
+- [x] Progression from parallel sensing → deliberate merge → habitual link → recognition
+- [x] Death shows single thread, not two
+- [x] Final lines seed Ch 25 (alien embodiment) and Ch 26 (merger)
 
 **Lith's Final Fetter:**
-- [ ] Competition attachment visible at chapter opening
-- [ ] Challenged through merged awareness experiences
-- [ ] Named explicitly before death ("the need to be first, to be the one...")
-- [ ] Loosened but not fully broken by chapter end
-- [ ] Arc from "I'm further along" to "It was absurd" to "the race was practice"
+- [x] Competition attachment visible at chapter opening
+- [x] Challenged through merged awareness experiences
+- [x] Named explicitly before death ("the need to be first, to be the one...")
+- [x] Loosened but not fully broken by chapter end
+- [x] Arc from "I'm further along" to "It was absurd" to "the race was practice"
 
 **Death Sequence:**
-- [ ] Both die together, physically present
-- [ ] Natural terminus, not violence or martyrdom
-- [ ] Peaceful acceptance, not resignation
-- [ ] Karmic bridge planted: yearning for completion/union shapes next incarnation
-- [ ] "Stranger flesh, alien substrate" seeds Ch 25
+- [x] Both die together, physically present
+- [x] Natural terminus, not violence or martyrdom
+- [x] Peaceful acceptance, not resignation
+- [x] Karmic bridge planted: yearning for completion/union shapes next incarnation
+- [x] "Stranger flesh, alien substrate" seeds Ch 25
 
 **Voice/Craft:**
-- [ ] No Buddhist terminology
-- [ ] No abstract emotion words
-- [ ] No helper identity manifestation (dissolved in Ch 22)
-- [ ] No Lilith interventions (competition phase over)
-- [ ] Five senses present (technologically mediated)
-- [ ] Undermining clause throughout (every observation complicated)
+- [x] No Buddhist terminology
+- [x] No abstract emotion words
+- [x] No helper identity manifestation (dissolved in Ch 22)
+- [x] No Lilith interventions (competition phase over)
+- [x] Five senses present (technologically mediated)
+- [x] Undermining clause throughout (every observation complicated)
 
 -----
 

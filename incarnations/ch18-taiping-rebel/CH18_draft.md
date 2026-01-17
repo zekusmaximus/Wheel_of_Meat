@@ -76,8 +76,6 @@ The ledger read forty-eight saved, twenty-three lost.
 
 Tomorrow, the ratio might change. Tonight, Wei would do what he could with what he had, and call that enough.
 
----
-
 **Word count: 1,587**
 
 The artillery barrage came without warning.
@@ -180,10 +178,6 @@ It was not enough to save everyone. It had never been enough.
 
 But it was what he had. And he would give it until there was nothing left to give.
 
----
-
-**Word count: 1,728**
-
 They returned at dawn. Two of them.
 
 Wei heard the commotion in the courtyard and rose from his mat, already reaching for his medical bag. By the time he reached the temple entrance, Old Huang had the survivors on the floor, their wounds reopened and bleeding fresh.
@@ -232,7 +226,7 @@ The night deepened. The pyre burned low. And in the temple, Wei counted his supp
 
 ---
 
-**Word count: 1,982**
+**Word count: 1,728**
 
 Wei heard the whispers three days later.
 
@@ -340,7 +334,7 @@ He did not sleep that night. He only counted.
 
 ---
 
-**Word count: 1,858**
+**Word count: 1,982**
 
 The line stretched for blocks.
 
@@ -458,7 +452,7 @@ And so he would give it.
 
 ---
 
-**Word count: 1,924**
+**Word count: 1,858**
 
 By midday, the city had fractured into chaos.
 
@@ -604,7 +598,7 @@ It was all there had ever been.
 
 ---
 
-**Word count: 1,652**
+**Word count: 1,924**
 
 Wei followed at a distance.
 
@@ -706,7 +700,7 @@ And waited.
 
 ---
 
-**Word count: 1,502**
+**Word count: 1,652**
 
 Wei stood.
 

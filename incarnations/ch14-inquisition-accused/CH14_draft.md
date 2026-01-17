@@ -1,20 +1,36 @@
 The compound smelled of ground cloves and something bitter Diego could not name, though he had ground these ingredients a hundred times before. His mortar sat on the consultation room's table, its stone bowl stained brown from years of work. Afternoon light slanted through the shuttered window, striping the table in bands of gold and shadow that shifted with the autumn wind outside.
 
-Diego touched his thumb to his index finger, then his middle finger, then his ring finger, then his smallest finger. The sequence steadied his hands as he measured the powder—two parts clove, one part willow bark, a half-part of dried gentian. The merchant would arrive within the hour. Don Cristóbal de Silva, whose gout had troubled him through three winters and who paid well for relief, though never quite enough to forget that Diego was converso and therefore useful only as long as his usefulness outweighed his heritage.
+Diego touched his thumb to his index finger, then his middle finger, then his ring finger, then his smallest finger. The sequence steadied his hands as he measured the powder—two parts clove, one part willow bark, a half-part of dried gentian. Martín de Córdoba had refined this formula—the older physician's insight that willow bark absorbed better when ground finer than tradition dictated. Diego had doubted him at first, had trusted his own training over Martín's observation. He had been wrong. A patient who should have improved had worsened until Diego relented and adopted Martín's method. Now he ground the bark to powder rather than fragments, and the compound worked as it should. Medicine was built from such corrections, each physician's knowledge shaped by those who had seen what he had missed.
+
+The merchant would arrive within the hour. Don Cristóbal de Silva, whose gout had troubled him through three winters and who paid well for relief, though never quite enough to forget that Diego was converso and therefore useful only as long as his usefulness outweighed his heritage.
 
 The door to the street stood open, as it always did. An open door welcomed patients. An open door suggested nothing to hide. An open door performed the transparency expected of those whose blood marked them as perpetually suspect, no matter how many generations had passed since their grandparents had accepted the baptismal water.
 
-Diego pressed the pestle against the mortar's curve. The powder released its scent—medicinal, clean, the smell of a physician's careful work. He had learned this trade from his father, who had learned it from his father, and each generation had learned alongside the herbs and compounds the more essential lesson: *Be valuable. Be careful. Be safe.*
+Diego pressed the pestle against the mortar's curve. The powder released its scent—medicinal, clean, the smell of a physician's careful work. The gout might be diet, or temperament, or divine punishment for sins the merchant's confessor knew and Diego did not. The Church taught all three; the Arabic authorities suggested imbalance of humors; Diego had observed patients recover under contradictory treatments, as though the body held multiple truths at once. He had stopped seeking the single explanation. What mattered was that this compound eased the swelling, regardless of which authority's framework accounted for why.
+
+He had learned this trade from his father, who had learned it from his father, and each generation had learned alongside the herbs and compounds the more essential lesson: *Be valuable. Be careful. Be safe.*
+
+A child had come to him three days prior—presenting symptoms no text described, a constellation of fever and rash and strange clarity in the eyes that matched nothing in Galen or Avicenna. Diego had treated what he could name, eased what he could ease. The child might recover or might not; the outcome was not his to determine, only the effort. A physician who waited for certainty before acting would never act at all.
+
+He had lost Señora Vázquez the week before—her lungs slowly filling despite every treatment he knew. Her son had demanded miracles, had accused Diego of insufficient effort when the end came. Diego had offered no defense. Some bodies simply failed, and arguing otherwise was cruelty dressed as hope. He had sat with her through the final hours instead, had witnessed the breathing slow and stop, had closed her eyes when the family could not bring themselves to touch what death had made unfamiliar. Presence was its own treatment when treatment became pretense.
 
 A shadow crossed the threshold.
 
 "Physician." Don Cristóbal's voice carried the warmth reserved for servants who knew their place—cordial enough to suggest Christian charity, distant enough to confirm the gulf between Old Christian merchant and New Christian tradesman. "I trust you have prepared the remedy."
 
+Don Cristóbal's gait as he crossed the threshold favored his left side—a careful, deliberate walk that protected the swollen joint from any jarring. For a moment the merchant's composure cracked, and Diego saw not the prosperous Old Christian who paid three reales where a priest's sister merited five, but an aging man frightened by his body's slow betrayal. Diego gentled his examination when he touched the inflamed joint, and held the merchant's gaze a moment longer than efficiency required. Patients needed witnessing as much as treatment. His father had taught him this alongside the compounds.
+
 "As always, Don Cristóbal." Diego set down the pestle and touched his fingers together in sequence once more—index, middle, ring, smallest—before reaching for a cloth to wrap the prepared compound. The gesture was automatic, a physician's habit of checking his steadiness before handling medicines. Or that was how he explained it to himself. "The formula that has served you well these past months. Mix one measure in warmed wine, morning and evening. The inflammation should ease within the week."
 
 Don Cristóbal took the wrapped package, his fingers brushing Diego's palm as he placed the coins there. Three reales. The usual payment. Fair enough for the work, though Diego had treated a priest's sister the month prior for the same complaint and received five. The difference was understood. The difference was never discussed.
 
-"You are skilled, physician. God has gifted you with healing hands." The merchant smiled. "Though I wonder you do not attend Mass more often. I see you at the Cathedral, of course—but a man of such gifts might show greater devotion."
+He could have asked for more. Don Cristóbal would have paid five reales easily—the merchant's fear of his own body made him generous with those who might ease it. Diego let the opportunity pass without marking it. The cure was the cure; whether it earned three reales or six changed nothing except the weight of coins. He had learned, over years, that the grasping hurt more than the lack.
+
+"You are skilled, physician. God has gifted you with healing hands." The merchant smiled. "As the poets say—the hand that heals is the hand of God made flesh."
+
+Something in Diego's jaw tightened at the quotation—the polished cadence of it, words arranged into ornament rather than meaning. He had never understood his dislike of such flourishes. Poetry seemed to preserve language past its natural use, freezing what should flow and serve its purpose and be done.
+
+"Though I wonder you do not attend Mass more often," Don Cristóbal continued. "I see you at the Cathedral, of course—but a man of such gifts might show greater devotion."
 
 The room grew colder, though the brazier still burned in the corner. Diego felt the shift in his chest first, then his throat—a tightening that might have been fear if fear were permitted, but fear implied guilt, and guilt implied something to hide, and so the tightness remained unnamed.
 
@@ -83,10 +99,11 @@ It was the only promise he could offer, and they both knew it was worth nothing 
 **Environmental metaphor:** Striped light (visibility/concealment), open door (transparency/vulnerability), closed shutters (danger approaching)
 **Sor Catalina mentioned:** Plants reader awareness before first appearance
 
-
 Evening came early in autumn, the sun sliding behind Toledo's western walls and leaving the streets in premature dusk. Diego walked through the converso quarter with his medical bag against his side, its leather strap cutting a familiar groove into his shoulder. The narrow lanes smelled of cooking fires and waste, of lives compressed into too-small spaces where neighbors knew too much about each other and silence was the only privacy anyone possessed.
 
 He had not gone to Tomás's house. Inés's warning had been clear, and caution had served him well through forty-three years of performing safety. But the unease sat in his chest like undigested bread, heavy and sour, and so he walked instead—past the shuttered shops, past the fountain where women gathered to wash clothes and exchange whispers, past the church of San Bartolomé where he would attend Mass tomorrow morning as he did every Sunday, his presence noted, his devotion documented by the eyes that never stopped watching.
+
+The church's western door stood slightly ajar, and incense drifted into the evening air—frankincense and something sweeter that caught in Diego's throat. His chest tightened. He had never liked heavy incense, the way it seemed to thicken the air into something that resisted breathing, something cloying and deliberate. He walked faster, seeking cleaner air.
 
 A figure stood in the shadow of the church's western wall.
 
@@ -185,7 +202,6 @@ The woman in grey watched him. She had always been watching. And somewhere in th
 **Undermining clauses:** Present throughout (gentle/terrible, stillness of prayer/interior conversation, know her/don't know her)
 **Environmental metaphor:** Premature dusk, shadows gathering, compressed spaces, watching church
 **Reader recognition:** Physical description matches Lilith's established appearance; Diego feels instinctive unease without understanding why
-
 
 The silence woke him.
 
@@ -295,7 +311,6 @@ Like the first sound of a new world where all his careful usefulness meant nothi
 **Hatred seed:** Planted explicitly—"seed from which hatred might grow"
 **Sor Catalina:** Glimpsed watching (Tomás at window—setting up betrayal revelation)
 
-
 They took him to a room that smelled of ink and parchment and something else—something organic and sour that Diego's physician's nose identified as fear-sweat absorbed into stone over decades of use. A table stood against one wall, its surface scarred with the marks of countless pens and stained dark in places where ink had spilled and never been cleaned. Behind the table sat a man in the black robes of the Holy Office, his face narrow and bloodless, his hands moving across parchment with the mechanical precision of someone who had written the same words so many times they required no thought.
 
 A scribe. Not an inquisitor. Diego felt the distinction settle in his chest—a small relief that shamed him even as he grasped at it. The scribe was only recording information, only creating the file that would contain Diego's existence reduced to questions and answers, accusations and denials, the administrative framework within which his guilt would be established and his punishment determined.
@@ -401,7 +416,6 @@ The physician who had spent decades learning to heal could do nothing for himsel
 **Environmental metaphor:** Cell as coffin; walls pressing close; permanent twilight
 **Procedural horror:** Bureaucratic meticulous documentation; property confiscation; cataloguing of a life
 **Physician's observation:** Diego still cataloguing symptoms in other prisoners even in his own terror
-
 
 Time lost meaning in the cell. Meals arrived through the grate's slot—bread hard enough to crack teeth, water that tasted of iron and something organic Diego's mind refused to examine. Twice a day, he thought, though the thin grey light from the high window never changed enough to mark dawn from dusk with certainty. He counted meals instead. Seven. Or eight. Perhaps nine. The numbers slipped away from him like water through fingers, leaving only the thickness of isolation, the weight of silence broken only by distant sounds—footsteps in corridors, voices too muffled to parse into words, occasionally screaming that cut off abruptly in ways Diego's physician's mind understood but refused to fully acknowledge.
 
@@ -537,7 +551,6 @@ He closed his eyes and let it burn.
 **Hatred crystallizes:** Moves from seed to full presence; Diego examines it clinically
 **Human cruelty:** Tomás's visit is his own need; the revelation is complete; no supernatural frame needed
 **Echo of Devaka (Ch 4):** Long-trusted friend who guided to destruction—escalated to sacred betrayal
-
 
 They came for him after the evening meal—or what Diego had learned to recognize as evening by the pattern of sounds beyond his cell, the shift in the thin light, the rhythm of the prison settling into night's particular silence. Two guards, neither speaking, leading him through corridors he had not seen before, deeper into the prison's heart where the air grew thicker and the walls wept moisture that caught torchlight and gleamed like something organic.
 
@@ -684,7 +697,6 @@ He held it close and waited for tomorrow's suffering to begin.
 **Hatred deepens:** Now includes the system, Sor Catalina, and the inquisitors—not just Tomás
 **Constraint maintained:** Sor Catalina does not speak to Diego, only watches
 
-
 The guard came three days after the interrogation—or what Diego believed was three days, time having dissolved into cycles of meals and darkness and waiting for pain that had not yet come but whose promise hung over every waking moment like storm clouds that refused to break.
 
 "Physician." The guard's voice carried neither sympathy nor cruelty, only the flat utility of someone delivering information. "Your services are required."
@@ -712,6 +724,12 @@ Diego knelt beside him. The physician's instinct took over despite everything—
 The guard left. Returned minutes later with a bucket of water that smelled only slightly foul and a rag that might once have been white. No salve. Diego had not truly expected any.
 
 He wet the cloth and began cleaning the man's face, working around swelling and contusions to clear crusted blood from nose and mouth. The man's breathing eased slightly—a small improvement, but improvement nonetheless. Airway clearing. Basic care. The foundation upon which all healing built.
+
+But the breathing remained wrong—too shallow, too guarded on the left side. Diego had assumed punctured lung, but the pattern did not match what he knew.
+
+"The ribs." A whisper from the adjacent cell. Through the grate, Diego glimpsed a face pressed close—another prisoner, watching. "Barber-surgeon, before. Watch how he guards the left. The lung is intact but compressed. Binding would ease it."
+
+Diego looked again. Saw the asymmetry he had missed, the protective curl that suggested pressure rather than puncture. He adjusted his assessment. Even here, one healer could still teach another.
 
 "Thank you," the man whispered. His voice was barely audible, each word clearly painful, but carried genuine gratitude that struck Diego's chest like a blow.
 
@@ -795,7 +813,6 @@ He held it close and waited for the next summons, the next broken body, the next
 **Self-hatred emerges:** The physician who cannot stop healing; compulsion woven too deep
 **Compulsive helping flaw:** Diego's core flaw fully revealed—he cannot refuse to heal even when healing serves evil
 **Meat theme deepens:** "He was meat, and his meat's particular skills were useful"
-
 
 Night came, though in the cell night and day were distinguished only by subtle shifts in the grey light that seeped through the high window—darker grey, lighter grey, the prison's own twilight that never truly lifted or settled but simply existed as permanent condition. Diego lay on the straw pallet, his body too exhausted to sleep, his mind too active to rest. The hatred pulsed beneath his breastbone with each heartbeat—steady, persistent, almost comforting in its constancy.
 
@@ -924,7 +941,6 @@ The stars turned overhead, cold and countless, and bore witness to nothing excep
 **Physician's diagnostic approach:** Examining hatred as wound; observing symptoms; finding treatment in release
 **Space opens:** Between the Diego who feels and the Diego who observes—the key shift
 **Seeds next life:** "What else might be questioned?" → Renaissance skeptic's radical doubt without bitterness
-
 
 They came for him at dawn.
 

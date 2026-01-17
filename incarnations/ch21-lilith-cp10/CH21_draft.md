@@ -44,7 +44,6 @@ Both held. Both true. Both bleeding through the membrane of her attention like t
 
 And the wheel turned, carrying her toward the moment she'd been building toward since she first recognized his thread in Ka's desperate isolation, since she first understood that someone was approaching the threshold at the same rate she was, since the race began and she started running and found she could not stop.
 
-
 She spotted Silas across the reception room. Philosophy faculty cluster near the windows. Rain still falling behind them, the gray light making everything look underwater, submerged. He was talking to a colleague, gesturing with one hand while the other held a wine glass he hadn't drunk from. The gesture was familiar. The patience in it. The certainty that didn't announce itself.
 
 She began navigating through the crowd. Casual. Deliberate. The calculations felt automatic now—where to stand, when to move, how to appear incidental while closing distance with the precision of a scope zeroing. A thousand years of practice distilled into footwork. A thousand lives watched, tracked, intervened upon, and now this: the final approach.
@@ -86,7 +85,6 @@ She didn't look at it. Kept navigating. Kept closing the distance.
 The rain continued in both cities. The pursuit continued in both centuries.
 
 And the wheel turned, carrying her closer.
-
 
 She was close enough now. Could hear his voice.
 
@@ -167,7 +165,6 @@ The colleague finished speaking. Began to turn away. The opening arrived like a 
 Whose heart?
 
 The question dissolved before she could answer it. She stepped forward into the space the colleague had vacated, and the rain continued in both cities, and the wheel turned beneath her feet, and she did not see what she was becoming in the act of becoming it.
-
 
 March 1938. Rain in the alley behind Jack's boarding house.
 
@@ -274,7 +271,6 @@ But even as the strategy formed, a current beneath it stirred with nothing to do
 She stood very still. Let the pain move through her. Let the realization settle.
 
 Then she crossed the last few feet of distance and extended her hand.
-
 
 If I can't stop him, I'll bind him.
 

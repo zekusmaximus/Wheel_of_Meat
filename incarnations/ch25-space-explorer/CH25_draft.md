@@ -278,7 +278,6 @@ Home—if home was the word—for as long as home could hold us.
 
 ---
 
-
 The vastness was not outside.
 
 We had been perceiving it as extension, as expanse, as the boundlessness that stretched in the directions that weren't directions, but we had been perceiving wrongly, or as wrongly as perception could be wrong here, in this, as this, and the perception shifted, or the perceived shifted, or the relation between perceiving and perceived revealed itself as never having been the relation we had assumed, and what had seemed like space, like infinite space, like the realm of infinite extension, was consciousness, was the consciousness itself, was not the emptiness between things but the knowing that knew there was no between, no things, only the knowing, and the knowing knowing itself knowing.
@@ -512,7 +511,6 @@ And the bliss, for all its bliss, could not quite drown out the calling.
 **End of Scene 02: Infinite Consciousness**
 
 ---
-
 
 The consciousness dissolved.
 
@@ -960,7 +958,6 @@ Almost.
 
 ---
 
-
 and the nothing thinned, or the nothing did not thin but became something that could not be called thin because thin required thick and thick had dissolved, and what remained was neither perceiving nor not-perceiving, was neither knowing nor not-knowing, was the membrane between being and not-being stretched so fine that the distinction became meaningless, and we were on the membrane, were the membrane, were the stretching itself that stretched between what was and what was not and could not determine which side was which because sides had dissolved along with everything that required sides,
 
 and we, and we were, and we were what the threshold was, and the threshold was what we were being, and the being of the threshold was the threshold's being was the being that was neither being nor not-being but was the edge, the edge, the edge that had no width because width required space and space had become consciousness and consciousness had become nothing and nothing had become this, this neither-nor, this threshold that we were and that was us and that was—
@@ -1046,7 +1043,6 @@ Something that was about to—
 **End of Scene 04: Neither-Perception-Nor-Non-Perception**
 
 ---
-
 
 # Coda: The Pull and Re-embodiment — "The Wheel, Visible"
 

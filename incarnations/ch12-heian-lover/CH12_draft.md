@@ -1,14 +1,22 @@
 The scent of pine smoke and stale perfume hung beneath the eaves of the Kujō mansion, heavy as the brocade curtains drawn against the autumn chill. In the northern gallery, a dozen courtiers recited verses about chrysanthemums, each poem more exquisite than the last, each voice pitched to suggest depths of feeling that Fujiwara no Kaoru could not, despite his reputation, bring himself to counterfeit.
 
-He sat apart from the circle, his robes—autumn colors, browns bleeding into faded gold—arranged with deliberate carelessness over the cypress boards. A sake cup warmed his palm. His thumb traced its rim, again and again, a habit he could not remember acquiring.
+He sat apart from the circle, his robes—autumn colors, browns bleeding into faded gold—arranged with deliberate carelessness over the cypress boards. Earlier that evening, young Tsunefusa had offered a verse on wild geese that genuinely moved the assembly—imagery sharper than Kaoru's own contribution, though Kaoru had joined the appreciation without reservation. They had exchanged poems the month before, refining each other's autumn metaphors until both verses improved. Such was the nature of the craft: solitary brilliance served nothing; even the finest poems emerged from the friction of shared attention. A sake cup warmed his palm. His thumb traced its rim, again and again, a habit he could not remember acquiring.
 
 "*The morning dew*," one of the younger lords recited, "*lingers on the petal's edge—*"
 
 Kaoru stopped listening. The dew did not linger. The dew evaporated. The petal would fall. These men knew this, celebrated it in their verses, and yet they spoke of impermanence as though it were ornament, a pleasing melancholy to be worn like a new hunting robe and set aside when the season turned.
 
+Beside him, old Narimasa shifted uncomfortably on his cushion, his joints stiff after hours of formal sitting. The man had been favored once, his poetry sought by princes; now the younger courtiers overlooked him, uncertain whether attention would honor or embarrass. Kaoru leaned toward him without thinking. "Your verse earlier—the image of the fisherman's lamp—I found it stayed with me." Narimasa's face showed surprise, then something softer. Whether the praise was warranted or merely kind, Kaoru could not have said. But the old man had sat alone too long.
+
 He raised the cup to his lips. The sake was cold.
 
 A servant shuffled forward on his knees, bent nearly double, and placed a folded paper beside Kaoru's elbow. The bark grain was unfamiliar—not the smooth *torinoko* favored at court, but something rougher, fibrous, smelling faintly of sand and a heat that did not belong to this late-autumn evening.
+
+The young man's hands trembled. Kaoru noticed this before he noticed the paper's unusual weight; the tremor spoke of more than cold. "You have come far tonight," he said, not a question.
+
+The servant glanced up, startled at being addressed. "From the western district, my lord. The roads are—" He caught himself, remembering it was not his place to complain.
+
+"Difficult after the rains." Kaoru inclined his head. A small acknowledgment—a moment of seeing. The servant's shoulders loosened slightly before he pressed his forehead back to the floor.
 
 Kaoru set down his cup. His thumb continued its circuit along the ceramic edge for three rotations before he realized he was doing it, and stopped.
 
@@ -49,6 +57,8 @@ The air changed first. He noticed it before the cart slowed—a thickness, a sti
 Plum blossoms, which had no business blooming for another four months.
 
 The Seiryō Pavilion's outer walls rose on his left, and Kaoru understood why the place had earned its reputation. Collapse would have been less unsettling than what he saw. The wall had not crumbled—it had rotted, slowly, the plaster sloughing away to reveal wooden bones black with moisture. Moss climbed the exposed beams. A gate hung from a single hinge, caught mid-fall for what might have been years. Beyond it, darkness pooled like ink in a shallow dish.
+
+The exposed sections made his chest tighten. He did not know why—the stripped wood, the bare earth showing through gaps in the wall, something about the absence of ornament seized him like a closing hand. For an instant he could not breathe. Then the feeling passed, leaving only a residue of dread he could not name.
 
 But the path.
 
@@ -105,7 +115,6 @@ He followed the bloodstained path into the perfect house.
 **Lilith Markers:** Widow's peak, rogue strand, pale crescent in eye  
 **Undermining Clauses:** Present throughout (e.g., "exquisite... could not bring himself to counterfeit," "elegant—though it was elegant—but at its promise")
 
-
 The Attendant led him through corridors that smelled of dust and plum, always plum, until the fragrance thickened into something almost physical. By the time she slid open the panel to the eastern gallery, Kaoru's throat burned with it.
 
 "Please wait here." She bowed, the movement fluid despite the rawness of her hands. "The Lady will speak with you presently."
@@ -148,7 +157,11 @@ The final syllable hung in the incense-thickened air. Kaoru realized he had stop
 
 The poetry of the court celebrated beauty. It mourned impermanence. It played elegant games with seasonal imagery and layered allusion. What he had just heard did none of those things. It asked a question that he could not answer—and worse, a question he was not certain he wanted answered.
 
+He could memorize this verse—recite it at the next gathering, claim it as anonymous discovery, watch the other poets struggle to match what they could never match. The thought formed and dissolved in the same breath. The poem had been given to him, not to the court. Sharing it would have been a kind of theft he could not commit.
+
 "My lady," he managed. His voice came out rougher than he intended. "That was—"
+
+He stopped. What he had meant to say was *extraordinary*. What he had felt was something more complicated: the verse was flawless in ways that violated every rule he had been taught about what flawlessness meant. It was beautiful and it was wrong—two truths that should have cancelled each other but did not. He found he could hold them both without needing to choose between them.
 
 "Did I say something beautiful?"
 
@@ -197,12 +210,13 @@ He would return tomorrow. He could not have said why.
 **Lilith Mechanism:** Voice-puppeteering shown but not explained; Hotaru's confusion is genuine  
 **Undermining Clauses:** Present throughout (e.g., "charming—the humility... genuine," "not fear—he did not name it fear—but something adjacent")
 
-
 The ninth month came, and the leaves did not fall.
 
 Kaoru noticed it first as an absence of color. The maple along the western corridor should have burned crimson by now—every estate in the capital wore autumn like a new robe, the aristocracy timing their poetry gatherings to catch the peak of each tree's transformation. But here, in the garden of the Seiryō Pavilion, the maple remained stubbornly green. Its leaves hung motionless in air that did not move.
 
 He had been coming every night for three weeks. Perhaps four. Time had begun to fold in on itself, the hours between visits contracting while the moments within the estate stretched like silk pulled too thin. His duties at court—the memoranda he should have drafted, the minor ceremonies he should have attended—had become abstractions, obligations that belonged to a version of himself that no longer quite existed.
+
+Tsunefusa had mentioned the Seiryō estate at last week's gathering—in passing, the way courtiers mentioned inconvenient truths. "I visited there once, two seasons ago. The lady's poetry was... adequate. Pleasant, even. But thin." He had hesitated, searching for the word. "Nothing like extraordinary." Kaoru had dismissed the observation then, certain his own aesthetic judgment was superior. Now, remembering the two voices from behind the screen, he wondered if Tsunefusa had been telling him something he was not ready to hear. The extraordinary verse had not come from Lady Hotaru. It had come *through* her, from somewhere else.
 
 Each evening, he brought gifts. Poetry on his finest paper. Incense from the markets near the eastern temple district. A bolt of autumn-colored silk that he had spent three days selecting.
 
@@ -243,6 +257,8 @@ There—near the collapsed stone lantern, half-hidden by a screen of wild grasse
 She was bent over a pile of ash. In her hands, the remains of his maple branch smoldered, its red leaves curling into gray nothing. Beside her sat a basket of fresh green cuttings, their stems still weeping sap. She was shaking.
 
 Kaoru stopped. The Attendant had not noticed him—or if she had, she gave no sign. Her shoulders rose and fell with breaths that came too fast, too shallow. Her fingers, black with ash, scraped the remains of the maple into a small hole she had dug in the earth. Erasing it. Burying autumn itself.
+
+The ash pile, the bare earth, the absence—his chest seized without warning. For an instant the garden seemed to flatten into something parched and hostile, a landscape stripped of all moisture and shade. He tasted dust in his mouth, felt sun that was not there burning the back of his neck. Then the sensation passed, and he was standing in the wet overgrowth again, shaking.
 
 He should speak. Announce himself. Demand an explanation for this madness, this deliberate destruction of natural time. Instead, he watched.
 
@@ -293,7 +309,6 @@ He would return tomorrow. He could not have said why.
 **Lilith Mechanism:** Attendant's manic maintenance of stasis—burning autumn, replacing with spring  
 **Hotaru's Real Moment:** "I think I used to be different... that woman is gone"  
 **Undermining Clauses:** Present throughout (e.g., "shamefully like anticipation," "not the polite clearing... but something deeper," "something darker than phlegm")
-
 
 The lamp went out.
 
@@ -367,7 +382,6 @@ He would return tomorrow.
 **Key Line:** "This is not part of the arrangement"  
 **Meat/Body Theme:** Kaoru's deteriorating body (pale, hollowed, weight lost), iron taste, trembling hands  
 **Undermining Clauses:** "temple water, sharp as an unsheathed blade... decided nothing and everything"
-
 
 The storm came from the south, moving faster than the messengers who tried to warn the capital. By the time Kaoru heard the first crash of thunder from his chambers in the Rokujō district, the sky had already turned the color of a bruise—purple-black, swollen with a violence that the city's elegant architecture had never been built to withstand.
 
@@ -476,7 +490,6 @@ It did not matter. What mattered was the woman in his arms, and the truth he had
 **Meat/Body Theme:** Hotaru's decaying body, Kaoru's illness, flesh failing, bones like bird wings  
 **Lilith's Defeat:** The stasis shattered by natural forces she cannot control; the Attendant's screams, then disappearance  
 **Key Insight:** "It is beautiful because it is dying"
-
 
 The storm passed sometime in the hours before dawn. Kaoru did not notice. He had stopped noticing things that did not involve the weight in his arms, the cold that had seeped through his robes and into his bones, the shallow rhythm of his own breathing—each inhale a negotiation with lungs that no longer wanted to cooperate.
 

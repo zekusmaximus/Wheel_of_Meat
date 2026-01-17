@@ -10,6 +10,8 @@ He rose slowly, one joint at a time. The body protested, as it always did, and h
 
 The palm fronds lay in their pile, already cut and soaking in a shallow basin. He settled onto the woven mat beside them, arranged his legs, and began to work. The motion was automatic now—split, twist, weave, pull tight. His hands knew the pattern better than his mind did. Basket after basket, month after month, carried to the village and traded for bread and oil. The economy of the desert was simple: solitude cost labor. He paid willingly.
 
+The palm fronds themselves were a gift—old Didymus's hands could no longer manage the cutting, but his eye for quality fiber remained keen. Every basket Macarius made contained this silent partnership: one man's judgment, another man's labor. The desert broke those who refused to need each other; this much he had learned in his first hard years.
+
 A lizard appeared in the doorway, paused at the threshold of shadow and light. Its throat pulsed once, twice, then it was gone—a flicker of gray-brown against the sand, too quick to follow. Macarius's hands continued their work. The cell was four paces by three, walls whitewashed long ago and now yellowed by sun and dust. A reed mat for sleeping. The water jug. A wooden cross, hand-carved and smooth from years of touching. These were his possessions, if possession was even the right word for things that owned him as much as he owned them.
 
 The heat pressed closer. Sweat beaded at his temples, traced the lines of his face and disappeared into his beard. The white hair was a surprise still, though he had watched it come strand by strand over the years. He remembered brown. He remembered a young man who could argue philosophy in three languages, who had worn fine linen and eaten well. That man was dead—not metaphorically but actually, the way a caterpillar dies into the moth. What remained was something else, something he had not quite named.
@@ -35,7 +37,6 @@ He breathed. The breath entered and left without instruction. The body knew its 
 The heat pressed down like a hand. He let it.
 
 The desert watched, and waited, and said nothing at all.
-
 
 The young monk came at the hour when shadows began to stretch.
 
@@ -93,7 +94,15 @@ He set the basket aside. The young monk straightened, sensing the shift in atten
 
 "I believe there may be a practice, Abba. A discipline."
 
-"There are many disciplines." Macarius studied the young man's face—the eagerness there, the hunger that had not yet learned to be patient with itself. "Name them."
+"There are many disciplines." Macarius studied the young man's face—the eagerness there, the hunger that had not yet learned to be patient with itself.
+
+Something in the young man's hands—the way they twisted against each other, white-knuckled—made him pause. The question about scattered thoughts was never the real question.
+
+"What happened, brother? Before you came to the desert."
+
+The story that followed—a sister's death, a faith in pieces—had nothing to do with discipline. Macarius listened without shaping a response. The listening was harder than the teaching would be.
+
+When it was done, he let the silence hold them both. Then, gently: "Name them."
 
 Paphnutius hesitated. "The constant prayer. The midnight offices. The fasting."
 
@@ -155,7 +164,6 @@ He had a word worth giving.
 
 This was enough.
 
-
 The disruption began with sound.
 
 Macarius was arranging the finished baskets for the village trip when he heard it—voices, multiple voices, carrying across the sand. Not the single approach of a young monk seeking counsel, nor the familiar shuffle of old Didymus bringing oil. This was something larger. Something plural. The sound of it was wrong for the desert, too crowded, too full of intention.
@@ -189,6 +197,8 @@ She did not speak. She was, in fact, the only member of the delegation who was n
 Macarius let the words settle. He was aware of his own appearance—the rough robe, the calloused hands, the white beard that had grown wild in the fifteen years since last he bothered with its trimming. He was aware that to these eyes, polished in the episcopal courts, he must look ancient, half-feral, a holy relic rather than a man.
 
 Good. Let them see what they expected to see.
+
+Didymus had come to the well three days before, moving slow with his joints full of sand. Macarius had mentioned the rumors—Alexandria sending scribes. "They want words from you?" The old man's eyes, rheumed and ancient, had held something Macarius could not read. "Watch yourself, brother. The snake that flatters is more dangerous than the snake that bites." Macarius had dismissed the warning then. He was less certain now.
 
 "The desert does not refuse travelers," he said finally. His voice was rougher than he remembered it being. "Enter, if you must."
 
@@ -248,7 +258,6 @@ The rhythm had changed.
 
 His hands, pressed against his thighs, would not stop shaking.
 
-
 The delegation returned with the morning sun.
 
 Macarius had not slept. The hours of darkness had passed in prayer—or what passed for prayer when the words moved through a mind too agitated to hold them. He had knelt until his knees screamed, sat until his back cramped, lay on the reed mat and stared at the darkness above him until the darkness seemed to stare back. When dawn came, it found him arranged in his customary posture, hands open on his knees, but the arrangement was a performance for an audience that had not yet arrived.
@@ -268,6 +277,8 @@ Theodora remained standing. She moved to the wall opposite the doorway, position
 "Before we begin," Theophanes said, "I would explain the purpose more fully. Bishop Athanasius does not seek merely to collect sayings, as others have done. He seeks understanding. What practice forms a man of God? What struggles attend the path? What wisdom has been purchased through the discipline of the desert?"
 
 Macarius recognized the structure of the inquiry—it was the structure of the philosophical interview, the Socratic method dressed in Christian clothing. Lead with questions that flattered the subject's experience. Draw out responses. Shape those responses, through follow-up and clarification, into a coherent doctrine. He had performed this technique himself, once, in another life.
+
+A faint pressure bloomed behind his eyes—familiar, though he had never traced its source. The structure of philosophical inquiry, with its careful redirections, its architecture of persuasion, triggered something that felt almost like memory. He pressed two fingers to his temple until the sensation passed.
 
 "Ask your questions."
 
@@ -327,6 +338,14 @@ Theodora whispered again. Theophanes nodded, as if to a suggestion.
 
 "The fathers can speak as they choose. I speak of what I know, which is less than they know, and therefore less than I can give name to."
 
+"And on the nature of the Son?" Theophanes pressed. "The Arian controversy divides bishops. Surely the desert has offered clarity."
+
+Macarius was silent for a moment. Any answer would be recorded, circulated, weaponized.
+
+"I have met men who hold the Son as lesser, and their prayers moved mountains. I have met men who hold the Son as equal, and their charity rotted from pride. The theology in your head matters less than the love in your hands."
+
+Theophanes's face tightened—not the answer he had been sent to collect.
+
 "Your humility is admirable."
 
 Macarius felt the words land in a place they should not have been able to reach. *Your humility is admirable.* It was precisely the kind of compliment he had trained himself to dismiss—and yet it settled into him like warmth from a fire, spreading through his chest in a way that was not entirely comfortable.
@@ -368,7 +387,6 @@ He reached for the prayer. *Lord Jesus Christ, have mercy on me.*
 The words moved through him as they always did.
 
 They did not reach where they were supposed to reach.
-
 
 The delegation had retired to their camp by the communal well.
 
@@ -474,7 +492,6 @@ The crack remained.
 
 Somewhere in the distance, he heard the delegation laugh again, and his body—traitor, witness, messenger—leaned toward the sound.
 
-
 Days passed, and the pattern broke.
 
 The delegation remained camped by the well. Macarius saw them from a distance when he went to draw water—the flash of white linen among the brown robes of the monks who had begun to gather, the shape of Theophanes moving among them with the easy authority of an ambassador. Theodora he rarely saw; she kept to the periphery, silent, present in the way a shadow is present.
@@ -502,6 +519,8 @@ He had not composed such a phrase, had he? It had arrived fully formed, as if fr
 Was this what the fathers meant by preparation for teaching? Or was it something else?
 
 He did not want to look at the question too closely.
+
+A dispute had come to him the week before—two young monks, each accusing the other of theft. The evidence contradicted. The testimonies clashed. He had not waited for certainty that might never come. He set both monks to working side by side at the well, saying nothing of guilt or innocence. By the third day they had resolved it themselves. Virtue did not always require certainty. Sometimes it required only the willingness to act.
 
 The delegation paid a second visit on the fourth day. Theophanes came with only one scribe this time, and the questions were gentler—clarifications, he said, of points that the bishop's scribes had flagged for further exploration. Theodora did not accompany them, but her absence was somehow more noticeable than her presence had been. Macarius found himself looking for her in the doorway, listening for the quality of her silence.
 
@@ -562,7 +581,6 @@ He did not know.
 He was not certain he wanted to know.
 
 The evening light shifted, and the shadows stretched, and somewhere inside him the thing that had cracked was beginning to widen.
-
 
 They wanted a public teaching.
 
@@ -625,6 +643,14 @@ Behind the older monks, Theodora had not moved. But something in her posture had
 He paused. The silence hung, thick with reverence.
 
 *This is good. This is true. This is what they need to hear.*
+
+For an instant, the path was clear.
+
+Accept it. Accept all of it. He was Abba Macarius of Scetis, and fifty monks had gathered to hear his wisdom, and the scribes would carry his words to Alexandria where bishops would read them. For generations to come, men would quote what he had said. The heat of their attention warmed him like sunlight after winter. He felt his spine straightening, his chin lifting, his body arranging itself into the posture of a man who deserved to be witnessed.
+
+He would speak on. They would record it. He would become immortal in parchment and memory.
+
+The next sentence formed. He drew breath to release it.
 
 But beneath the satisfaction of delivery, something else was moving. Something uncomfortable. Something that tasted—
 
@@ -723,7 +749,6 @@ The taste in his mouth was unmistakable now.
 It was the taste of his own hunger.
 
 And it was terrible.
-
 
 The cell was dark when he returned to it.
 
@@ -848,7 +873,6 @@ Color. Texture. Softness. Warmth.
 The things that made life beautiful instead of merely bearable.
 
 The pendulum, so long held at one extreme, trembled and began its long swing back.
-
 
 Time passed. He did not count it.
 

@@ -32,12 +32,37 @@ She reached for the thread and the thread was already there incense-thick, blood
 
 She followed. The walls came with her.
 
-
 She had not intended to count. But the pattern was counting itself—intervention after intervention, backfire after backfire, the same mechanism repeating with precision that mocked precision.
 
 Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had crystallized wisdom. Verinus's contradictions had taught humility. Macarius's pride had become its own mirror. Kaoru's frozen beauty had melted.
 
-Here hand stilled on the cold ceramic. All the incarnations. All the interventions. All the times opposition had accomplished the opposite of what opposition intended.
+And here, in Diego, what the backfires had built.
+
+She followed the thread toward him and felt what the thread carried. Cooperation lived in his body naturally—he consulted with other physicians, shared observations, moved within medical networks without competition. The isolation that had killed Ka was simply absent. When patients arrived without payment, he treated them with the same attention he gave merchants. He gave presence rather than ledger-calculation. The distance that had trapped Chandra had dissolved.
+
+She watched him recognize the Inquisition's epistemological trap without losing himself in despair. The wisdom that had crystallized in Philon—the capacity to see systems while remaining within them—expressed itself now as diagnostic clarity. He maintained ethical standards despite surveillance. The rigidity that had broken Verinus was gone—he acted without waiting for procedural certainty.
+
+And there: genuine humility. He prayed without audience. Maintained faith without display. Macarius's performance had dissolved into something that looked identical to the guilty conscience it mimicked. When his patients died, his hands remained steady. He accepted mortality without attachment, without grasping. Kaoru's frozen grip had released.
+
+Six patterns integrated into behavior before she could observe him struggling.
+
+Her hand stilled on the cold ceramic. The observation she was filing was larger than any she had filed before. Everything the backfires had taught, crystallized into the way this one moved through the world.
+
+She would destroy it.
+
+The thought arrived without permission. Her intervention would work—she was certain of that now. Personal betrayal through intimate knowledge. Tomás had prayed beside Diego, had broken bread at his table, had spoken Hebrew prayers in voices barely louder than breath. When Tomás betrayed that knowledge, the poison would be personal.
+
+But the poison would dissolve what had taken six iterations to build. Cooperation would become isolation—the accused separated from community. Generosity would become evidence—his healing reframed as Judaizing. His wisdom would become proof of forbidden learning. His virtue would prove insufficient against institutional machinery. His humility would become indistinguishable from guilt. His equanimity would shatter when injustice turned personal.
+
+She would destroy something that had taken longer to build than she wanted to admit.
+
+The thought filed as strategy. But something in her chest registered the shape of what she intended.
+
+The shape was not triumph.
+
+It was desecration.
+
+Her hand stilled on the cold ceramic. All the incarnations. All the interventions. All the times opposition had accomplished the opposite of what opposition intended.
 
 The thread hummed toward Toledo, toward Diego, toward the personal betrayal she had engineered because personal betrayal should poison personally. Tomás de Mendoza. The name surfaced with the weight of certainty. He would denounce the man who had prayed beside him. The denunciation would create hatred. The hatred would bind Diego to the wheel.
 
@@ -57,7 +82,13 @@ She could feel it still. The comfort of conviction.
 
 *I need to focus on my own escape.*
 
-The thought surfaced without permission. She was close, one knot remaining, the same threshold he approached from a different angle. If every intervention accelerated him, perhaps acceleration was not the variable requiring adjustment. Perhaps the answer was not better opposition but parallel motion.
+The thought surfaced without permission. She was close—one knot remaining, the final obstruction between herself and completion. The consciousness she tracked approached the same threshold from a different angle. The threshold admitted one at a time. If she got there first—
+
+*What happens to him if I get there first?*
+
+She did not answer. The question was not strategy.
+
+If every intervention accelerated him, perhaps acceleration was not the variable requiring adjustment. Perhaps the answer was not better opposition but parallel motion.
 
 Racing rather than blocking.
 
@@ -65,10 +96,17 @@ Racing rather than blocking.
 
 She filed the thought. Strategy. Recalibration. The pattern required new analysis, nothing more.
 
-But the filing felt less secure than filing usually felt, and somewhere beneath the strategy a different question pressed: *What am I racing toward? And why does racing feel like running away?*
+But the filing felt less secure than filing usually felt. Racing implied competition. Competition implied attention. Attention implied—
+
+The shape was almost visible. Racing to escape attachment through attachment. Her final knot—the conceit of being-the-one—tightening while she believed she was loosening it. Every calculation of how to outpace him was a calculation *about him*. Every strategy for parallel motion was a strategy that held him as its reference point.
+
+She could not escape by racing him. She could only race by staying bound.
+
+The recognition pressed against walls that had no room for it.
+
+*What am I racing toward? And why does racing feel like running away?*
 
 She did not answer. The walls were already close enough.
-
 
 The thread pulled her deeper and the depth was a body she had already worn.
 
@@ -120,7 +158,6 @@ The vessel's hands had been her hands. The vessel's certainty had been her certa
 
 The distance between watching and acting had never been as far as she pretended.
 
-
 The intervention was not Sor Catalina. Sor Catalina was completed action, archived certainty. The intervention was happening now, from this flat, through capabilities that did not require vessels.
 
 Lilith reached.
@@ -159,10 +196,9 @@ She pushed, and the walls of her flat pressed close, and somewhere beneath the p
 
 The question dissolved. The mug was cold in her hands. The intervention continued.
 
-
 The flat was too small.
 
-She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. tTe grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
+She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. The grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
 
 *Open.*
 
@@ -174,7 +210,7 @@ She lost it before she could name it.
 
 *He is there.*
 
-Not Diego, burning his way toward lessons she was trying to prevent. The other. The contemporary thread. The consciousness that had surfaced into a body that walked those corridors, spoke to students, held office hours while she tracked his past through centuries of accumulated karma.
+Not Diego, burning his way toward lessons she was trying to prevent. The other. The contemporary thread. The consciousness that had surfaced into a body that walked those corridors, spoke to students, held office hours while she tracked his past through centuries of accumulated pattern.
 
 She could trace the thread forward. Could find where it surfaced now. Could—
 
@@ -191,7 +227,6 @@ But the memory lingered: open sky, wet stone, the possibility of something other
 The flat pressed close. The flat was too small.
 
 And he was somewhere. Present tense. Reachable.
-
 
 Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste, Frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
 
@@ -225,10 +260,27 @@ The question filed itself. She was here because the intervention required observ
 
 Because she could not stop watching him.
 
-The admission dissolved before it could complete. But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
+The admission dissolved before it could complete.
+
+And there—in his physician's hands held steady despite questions with no correct answers—she saw the parallel she would not name. Diego believed being useful would protect him. Had believed it through every consultation, every treatment, every diagnosis offered to a system that would consume him regardless of what he offered.
+
+*He cannot stop healing even when his healing serves the machinery consuming him.*
+
+The observation arrived with the precision of diagnosis.
+
+And beneath the observation, something she would not examine: *I cannot stop watching even when my watching accelerates him.*
+
+His bargain: service in exchange for safety. Her bargain: precision in exchange for victory. The same belief that control could be purchased through expertise. The same hands working at tasks that had ceased to accomplish what they intended.
+
+Diego's bargain had failed. His usefulness had not protected him.
+
+And her precision—
+
+She filed the thought. Strategy did not require comparison.
+
+But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
 
 And she did not know whose tightness it was.
-
 
 Morning broke over the plaza and the plaza was full.
 
@@ -246,21 +298,53 @@ Tomás stood in the crowd hollow-faced, grey, Rafael beside him. The fruit of be
 
 Diego's eyes found Tomás.
 
-Lilith leaned forward. In the plaza, in the flat, the same motion of anticipation. This was the moment. The personal betrayal crystallizing into personal poison. Diego would hate, and the hatred would bind, and the wheel would hold what the wheel was meant to hold.
+Lilith leaned forward. In the plaza, in the flat, the same motion of anticipation. This was the moment. The personal betrayal crystallizing into personal poison.
 
-She watched. She waited. She saw—
+She watched. She waited.
+
+And she saw it.
+
+Diego's face contorted. The ember of rage igniting, the poison she had planted catching fire. His jaw clenched. His bound hands became fists. The ember burned in his eyes as he looked at the man who had betrayed him—the friend who had prayed beside him, broken bread at his table, spoken Hebrew prayers in voices barely louder than breath.
+
+*Yes.*
+
+The word was silent, internal, fierce.
+
+*He's breaking.*
+
+After all the backfires, all the acceleration she hadn't intended, this intervention had *worked*. Diego was experiencing hatred—specific, personal, intimate hatred. The kind that bound the hater to the wheel as surely as iron chains.
+
+Something in her chest that should have felt like triumph felt like—
+
+She filed the feeling. Strategy did not require naming.
+
+But watching Diego's face twist with the hatred she had engineered—watching the six patterns of accumulated progress crack under the weight of personal betrayal—
+
+The horror arrived before the triumph could settle.
+
+Cooperation shattered into isolation. Generosity reframed as evidence. Wisdom become proof of forbidden learning. Virtue insufficient against institutional machinery. Humility indistinguishable from guilt. Equanimity broken against injustice to self.
+
+*What I destroyed was beautiful.*
+
+She had watched six iterations of accumulated progress crystallize into this consciousness. Had watched something that approached what she had spent her own iterations pursuing. And she had destroyed it with a precision she had cultivated for exactly this purpose.
+
+The thought filed as strategy. Sentiment. The intervention had worked. That was what mattered.
+
+Then Diego looked at Tomás again.
+
+And the ember... flickered. Dimmed.
+
+His jaw loosened. His hands, bound to the stake, unclenched.
+
+*No.*
+
+The ember went out. He was *letting go*.
 
 Release.
 
-Diego looked at Tomás and the ember flickered in his eyes, the poison she had planted, and then a shift happened. His jaw loosened. His hands, bound to the stake, unclenched. The ember went out.
-
-He was *letting go*.
-
-The backfire arrived as physical sensation. Not pain exactly, but a loosening in her own chest that she had not authorized. He was supposed to hate. She had made the betrayal specific so the hatred would be specific. She had engineered this with the precision of seven interventions' accumulated practice.
+The backfire arrived as physical sensation. Not pain exactly, but a loosening in her own chest that she had not authorized. He was supposed to hate. She had *made* him hate. She had watched the hatred ignite.
 
 And he was releasing it. Setting down the coal. Choosing not to carry the poison into death.
-
-*No.*
 
 The denial was silent, internal, immediate. But the denial could not undo what was happening in the plaza, what was completing itself in Diego's face as the torches were lit and the straw began to catch.
 
@@ -274,11 +358,23 @@ Widow's peak. Dark strand falling over the left temple. The pale-green crescent 
 
 *My face.*
 
+*Always my face.*
+
 The recognition was his body's rather than his mind's. He could not possibly know her, could not name her. He could only understand that the holy woman had been wrong since the first evening she spoke to him outside San Bartolomé. But in the reflection of his dying gaze, she saw herself. Saw the face that had been the same across every incarnation she could remember. Saw the constancy she had never questioned.
 
 *Why am I always the same?*
 
-The question pressed against walls that had no room for it.
+She had tracked him through Ka's isolation, through Chandra's ledgers, through Philon's teaching, through Verinus's precision, through Macarius's performance, through Kaoru's frozen grasping. Different bodies. Different voices. Different faces. He changed every time. Arrived in new flesh, learned new lessons, made new mistakes.
+
+And she was always the same. The same widow's peak. The same dark strand. The same pale-green crescent that appeared only in certain light.
+
+*Why do I stay constant while he changes?*
+
+*How close am I to the threshold?*
+
+*What remains that I haven't set down?*
+
+The questions pressed against walls that had no room for them. She filed them. She did not answer.
 
 He looked at her. And then—
 
@@ -294,11 +390,13 @@ She had been seen. And then she had been let go.
 
 The sensation was unlike any backfire before. A feeling like loss wearing strategy's clothing.
 
-He died with peace on his face. He died having released the hatred she had engineered. He died asking a question she could hear burning through the smoke and flame and centuries between them:
+He died with peace on his face. He died having released the hatred she had engineered. He died carrying a question she could hear burning through the smoke and flame and centuries between them:
 
-*What else can be questioned? What else can be released?*
+*That hatred was a choice. That release was possible. That everything—everything—could be questioned.*
 
-The question would seed his next life. The question was her failure made manifest.
+The question would seed his next life. She had broken him, and in the breaking he had discovered what endurance could teach—what destruction could crystallize when destruction was met with examination rather than resistance.
+
+The question was her failure made manifest. But she could not see what the failure had produced.
 
 And beneath the failure, beneath the strategy that had collapsed, something else pressed against her chest:
 
@@ -320,22 +418,35 @@ And that he was closer than she had calculated. Closer than strategy could accou
 
 The smoke rose. The flesh burned. The soul carried forward a question that would become doubt, that would become inquiry, that would become—
 
-She lost the thread as it acceleratated past her, burning brighter than the fire consuming what had been Diego de Lucena.
+She lost the thread as it accelerated past her, burning brighter than the fire consuming what had been Diego de Lucena.
 
 She was supposed to slow him down.
 
 He was speeding up.
 
-
-Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked because the life she was tracking had just burned her strategy to ash.
+Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked.
 
 Lilith opened her eyes. Manchester reasserted itself. The same rain against glass, the same radiator clicking. The exact same arranged objects that she had placed without remembering the placing.
 
-She carried the backfire like weight in her chest.
+*This intervention worked.*
 
-Personal betrayal had produced personal release. The precision she had calculated had become the crucible in which Diego learned that even the most justified hatred could be set down. She had made it specific so it would poison specifically, and the specificity had given him something concrete to release.
+The thought settled into her chest with a weight that should have felt like victory.
 
-The pattern was no longer deniable.
+Diego had broken. His equanimity had shattered. His virtue had proven insufficient. His wisdom had become evidence against him. She had watched six iterations of accumulated progress crack under the weight of personal betrayal—watched the ember of hatred ignite in his eyes, watched the poison take hold exactly as she had engineered it.
+
+*He hated. For the first time in all my tracking, I succeeded in making him hate.*
+
+She filed the release—Diego's setting-down of that hatred—as anomaly. The intervention had achieved its purpose. He had experienced specific, personal hatred. The fact that he had then released it was his pattern. Opposition accelerated him. She had known this.
+
+But she had also *broken* him. For the first time, she had succeeded in destroying what he had built.
+
+*The next will be easier.*
+
+The rationalization settled into place. Personal betrayal worked. The method was sound. What she needed was not better opposition but—
+
+She stopped the thought.
+
+Something remained unexamined. The release had been genuine. Diego had set down the hatred she had planted with the same completeness with which he had experienced it. The specificity that should have poisoned him had given him something concrete to examine, to understand, to set down.
 
 *Opposition accelerates what I oppose.*
 
@@ -367,9 +478,9 @@ But beneath the filing, something else stirred. The silence that this work had b
 
 The need surfaced before she could suppress it. The first intimation of confession—before she was ready, but present. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
 
-She cut off the thought. Too soon. Too raw. The backfire was still fresh.
+She cut off the thought. Too soon. Too raw. The success did not feel like success was supposed to feel.
 
-But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that seven incarnations of failure had finally taught her to abandon.
+But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that accumulated failure had finally taught her to abandon.
 
 Something else. Something closer. Something that felt less like strategy and more like—
 

@@ -4,6 +4,26 @@ Beauty. She had not expected beauty.
 
 The thread she followed hummed with it. Silk-warm where Macarius had been sand-cold. Saturated with color where the desert had offered only gradations of ochre. Kaoru's hands moved through morning light in a room designed for that light, for that particular quality of filtered sun, and she felt her own hands register warmth they shouldn't, in a ceramic cup or the smooth grain of wood polished by generations of careful service.
 
+She traced what had accumulated across the pattern.
+
+This consciousness moved easily within court networks—exchanged poems with colleagues, deferred to elders, shared credit without resentment. She watched him acknowledge a younger man's superior verse without envy. She watched him offer his arm to an aging courtier without calculation. The isolation that had killed Ka was absent.
+
+When a servant trembled before him, he asked what was wrong. Met the person behind the role. Gave presence rather than mere observation—attention that cost him something. The distance that had trapped Chandra was absent too.
+
+And there: holding contradictions. She watched him recognize that technically flawless verse could fail to move, while ragged poetry could transcend. The wisdom that had crystallized in Philon—the capacity to hold complexity—intact here, expressed in aesthetic judgment. He saw both truths simultaneously: the garden's perfection AND the wrongness it concealed. Philon's martyrdom dissolved.
+
+He acted without waiting for perfect clarity. Resolved disputes without demanding certainty first. Followed paths without requiring explanations. Verinus's rigidity was absent.
+
+Even Macarius's performance had dissolved. This one set aside opportunities for status without making the release into theater. Genuine restraint, witnessed by no one.
+
+Five patterns, integrated into behavior before she could observe him struggling.
+
+Her hands registered warmth they shouldn't. The alarm she filed was larger than any before. Five lessons crystallized. Five flaws dissolved. The consciousness approaching something she did not want to name.
+
+But he could not witness beauty without grasping it. The ache of beautiful things that would not stay beautiful—this was not Ka's isolation, not Chandra's distance, not Philon's martyrdom, not Verinus's rigidity, not Macarius's performance. This was new. Longing as medium. Attachment as water he swam through without perceiving.
+
+Something in her chest registered a sensation—pain's neighbor.
+
 Her flat was arranged. She noticed this the way one notices a door left open: without agency, without memory of decision. Objects sat in relationship to each other, to the light, to the movement of her body through space. When had she become a curator? The question dissolved before she could examine it. Kaoru was lifting a chrysanthemum, autumn's apology, rotating it to find the angle where its dying was most beautiful.
 
 Rain against the window. Rain against shōji screens. Both sounds meaning autumn, meaning transience, meaning the particular ache of beautiful things that would not stay beautiful.
@@ -23,7 +43,6 @@ She did not ask why seeing him felt less like strategy and more like something s
 The thread hummed. Silk and paper and moonlight. A different shape of attachment. A different cage.
 
 She followed.
-
 
 She had been closer than she'd ever been. The memory surfaced in her hands before her mind could intercept it. The weight of lacquer trays, the texture of silk sleeves brushing doorframes, the ache of knees pressed against wooden floors for hours of arranged stillness.
 
@@ -59,8 +78,17 @@ Close enough to feel his presence register in flesh she had borrowed for the pur
 
 The purpose. She held the word steady. *Tactical*. *Positioning*. *Strategy*.
 
-The walls remained sound. For now.
+But something else surfaced before she could intercept it. The Attendant's proximity had shown her what distance-observation never could. She had watched him not repeat Ka's isolation, not repeat Chandra's distance, not repeat Philon's martyrdom, not repeat Verinus's rigidity, not repeat Macarius's performance. Five lessons visible in a single man's behavior. And she had been *there*. Present. Close enough that when he looked at the Attendant, something beneath her clinical detachment had ached for that look to find her.
 
+Not the vessel—her. The face that stayed constant across incarnations. The presence that had followed him through five lives now.
+
+Distance-intervention had produced five backfires. The Attendant's proximity had produced—
+
+What had it produced?
+
+She did not answer the question. But she was beginning to wonder if proximity had taught her something that distance never could.
+
+The walls remained sound. For now.
 
 She needed air.
 
@@ -90,9 +118,13 @@ She stopped. The thought was inadmissible. She had tracked numerous lives now. S
 
 *What if I focused on my own liberation?*
 
-The second thought arrived harder. Sharper. She was so close. One knot remaining. If she couldn't stop him—
+The second thought arrived harder. Sharper. She was so close. One knot remaining. If she couldn't stop him—five backfires now, five lessons accelerated by her opposition—
 
-She filed the thought before it completed. Strategy. Refinement. The pattern required adjustment, not abandonment.
+Perhaps she didn't need to stop him. Perhaps she simply needed to get there first.
+
+*Racing rather than blocking. Finishing first.*
+
+The thought filed itself. Strategy required refinement. She had been too indirect. But the thought had appeared. It had a shape now.
 
 But she had walked here. Her body had led where her mind refused to examine, and she stood now in the rain outside buildings where he would be—*was*, somewhere in a present she had not yet permitted herself to occupy.
 
@@ -117,7 +149,6 @@ She had stood in the rain outside philosophy faculty and felt something that str
 The filing was perfect. The walls were sound.
 
 But she could still feel the November cold on her skin. Something beneath strategy hummed at the same frequency as the thread she followed.
-
 
 The frozen spring had been her finest work.
 
@@ -153,13 +184,17 @@ And then he had left. Entrapped, bound—neither. Released.
 
 Lilith's hands were warmer than they should be. She had given him exactly what he wanted. Eternal beauty, frozen form. Yet he had learned from the gift what she had never intended: that possession was possession, never experience. That beauty required dying to be beautiful.
 
-The pattern was undeniable now. Five incarnations. Five interventions. Five backfires.
+The pattern was undeniable now.
 
-Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had taught clarity. Verinus's contradictions had taught humility. Macarius's pride had revealed itself.
+*Opposition accelerates what I oppose.*
 
-And Kaoru—
+She traced the evidence across six iterations.
 
-Kaoru had been shown frozen beauty and understood that beauty melts.
+Ka's isolation—she had watched him hoard resources, and the watching had isolated him further until isolation itself became the lesson. Chandra's ledger-mind—she had engineered betrayal, and the betrayal had taught him to give himself rather than systems. Philon's martyrdom—she had isolated him, and the isolation had crystallized wisdom. Verinus's rigidity—she had destabilized his certainty, and the destabilization had taught him virtue without proof. Macarius's pride—she had fed his audience, and the feeding had exposed his hunger to himself.
+
+And Kaoru—Kaoru had been shown frozen beauty and understood that beauty melts.
+
+Six incarnations. Six interventions. Six backfires. Six lessons crystallized by the opposition meant to prevent them.
 
 She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the way that meant transmission rather than extinction.
 
@@ -167,10 +202,17 @@ A sensation in her chest—pain's neighbor.
 
 She filed it: *karmic observation. Thread mechanics.*
 
+But three times now, she had been close. Verinus had almost condemned the innocent—almost became the rigid certainty she'd wanted him to become—but compassion had broken through. Macarius had almost embraced performed holiness permanently—but his own hunger had exposed the falseness. Kaoru had almost remained frozen in eternal spring—but the storm had shattered the illusion.
+
+Three near-misses. Three times, something physical had broken through.
+
+*Closer*, she thought. *Each time, closer. I'm learning what breaks through.*
+
+The dangerous confidence settled into her chest alongside the alarm. She was failing. But she was also learning. And the Attendant had been close—presence rather than distance. What if that was the answer? What if distance-intervention was the error?
+
 The filing was familiar. The walls were familiar.
 
 But the warmth in her hands would never be explained as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
-
 
 *The pull toward him is tactical.*
 
@@ -194,6 +236,10 @@ Her hands were still warm. The flat still arranged. Through the window, Manchest
 
 The thought returned. Louder now. She was so close. One knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him, if every intervention only accelerated what she intended to slow—
 
+*Racing rather than blocking. Finishing first.*
+
+The thought had shape now. It had weight.
+
 *No.*
 
 The thought filed itself. Strategy required refinement. She had been too indirect. Too careful. The precision had been insufficient.
@@ -212,7 +258,7 @@ She would refine. She would adjust. She would find the precision that had eluded
 
 The walls were sound.
 
-But she could feel them now? How could shefeel the walls as walls, feel the construction that had been invisible when the construction was happening. She could feel the filing as filing.
+But she could feel them now—feel the walls as walls, feel the construction that had been invisible when the construction was happening. She could feel the filing as filing.
 
 For the first time, she wondered if the folders were large enough.
 
@@ -222,7 +268,7 @@ She followed.
 
 She did not ask why following felt more like falling than hunting.
 
-She failed to notice that she had already begun thinking of him as *him*. Tthe thread redefined, the soul personalized, the consciousness requiring intervention transformed into *him*. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
+She failed to notice that she had already begun thinking of him as *him*—the thread redefined, the soul personalized, the consciousness requiring intervention transformed into a person. A person. Present tense. Someone she had not yet met but had already, somehow, begun to move toward.
 
 The flat held its beauty. The light held its softness. The cold ceramic in her hands warmed exactly as ceramic warmed, exactly as lacquer warmed, exactly as the objects of beauty always warmed when held too long.
 

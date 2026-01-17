@@ -2,11 +2,35 @@ Rain drummed Manchester windows and dust rose from Tianjing's broken walls. Two 
 
 Tea sat beside her, gone cold. The film on its surface might have formed an hour ago or this morning—she could not have said which. Outside her window, leaves fell from trees that had not existed when Wei Shufen first lifted a scalpel, first wrapped bandages around wounds that would kill anyway, first began the compulsive counting that mirrored her own. Autumn in Manchester. The slow dying of the year. In Tianjing, it was summer 1862, then winter 1863, then spring 1864. Two years compressed into her sustained attention, a siege she'd been watching for days that had lasted for the besieged across seasons they'd measured in starvation and hope's slow erosion.
 
-The thread of his consciousness hummed at the edge of perception. Different from the others, from Chandra's bureaucratic weight, from Philon's philosophical skin-knowledge, from Verinus's procedural certainty, from all the faces that had come before and between. This one methodical, medical, obsessive in its helping. His hands moved through her awareness: herb-stained fingers checking bandages, checking pulses, checking the arithmetic of saved versus lost with the same compulsion she brought to tracking intervention against backfire.
+The thread of his consciousness hummed at the edge of perception, and the signature confirmed what should have been impossible.
+
+Eight iterations of progress, crystallized into behavior before she could observe him struggling.
+
+She watched Wei move within the Taiping medical hierarchy with the ease of someone who had long since dissolved isolation as default. He coordinated with Old Huang, deferred to expertise when another medic knew more, shared supplies when sharing meant his own patients might go without. Ka's separation—the herder who could not work with the collective—was absent. This one worked the networks naturally, as if cooperation had never been a struggle.
+
+When he treated patients, he gave equal attention regardless of status. Soldiers and civilians, officers and conscripts, faithful Taiping and quiet doubters—each received the same careful hands, the same precise diagnosis, the same presence. Chandra's ledger-mind, that bureaucratic distance that weighed recipient against worth, had dissolved into something cleaner. He gave his own rations to a starving child without calculation, without the arithmetic of deserve.
+
+The diagnostic clarity persisted. She watched him recognize the siege was unwinnable, watched him understand that Hong's "manna decree" revealed delusion rather than divinity, and he didn't despair. Philon's wisdom intact—the capacity to see systems clearly while remaining useful within them. Bodies told truth that theology denied; he heard the bodies.
+
+He maintained ethical standards despite impossible scarcity, didn't abandon protocols when supplies ran out, held to medical integrity even when integrity produced enemies. Verinus's rigid certainty was absent—he acted virtuously without requiring perfect conditions, without the brittle righteousness that had shattered under pressure in Rome.
+
+Even Macarius's performance had dissolved. This one held genuine uncertainty about the Heavenly Kingdom's theology, not tactical neutrality. His faith crisis was honest, not displayed for witness. No holy doubt that needed audience. The humility was real.
+
+Kaoru's grasping had released—he accepted that the siege would end badly, held his dying patients without freezing the care. The attachment to outcome that had made the monk cling to beauty as proof of enlightenment was absent. Wei treated the dying as carefully as the recoverable.
+
+And there: Jean's inheritance. She watched him doubt Taiping doctrine—the Heavenly Father's protection, the divine mandate, the promises that corpses disproved daily—without bitterness. Clean doubt. Honest uncertainty. Still functional. He told patients the truth about their chances without cynicism, acted ethically when certainty was impossible. Doubt had not become fortress.
+
+Diego's patience too. The capacity to endure. She had created a pattern of impossible deaths—everyone he saved died within weeks—and he hadn't hardened. Watched the numbers invert and kept treating patients. The "curse" she'd manufactured hadn't poisoned his presence. He endured watching everyone he touched die without letting futility become hatred.
+
+Eight patterns, integrated into behavior before she could observe him struggling.
+
+What remained was contaminated: determination still attached to outcomes—the ledger he kept, the count he maintained, the need to be "the one who saves." His hands moved through her awareness: herb-stained fingers checking bandages, checking pulses, checking the arithmetic of saved versus lost with the same compulsion she brought to tracking intervention against backfire.
 
 She saw the parallel before suppressing it.
 
-Wei at his makeshift desk in the converted temple, charcoal in hand, updating his ledger: 103 saved, 97 lost. The gap closing. The numbers approaching equilibrium like a equation solving toward zero. And Lilith in her flat, tracking her own arithmetic. Chandra, Philon, Verinus, Macarius, Kaoru, Diego, Jean, and the glimpses between them, the lives she'd seen in passing, the deaths that blurred into pattern rather than staying discrete as memory. She didn't count them. Counting implied finitude. This had gone on too long for numbers.
+Wei at his makeshift desk in the converted temple, charcoal in hand, updating his ledger: 103 saved, 97 lost. The gap closing. The numbers approaching equilibrium like an equation solving toward zero. And Lilith in her flat, tracking her own arithmetic—nine interventions, nine backfires, the many lives and many deaths blurring into pattern rather than staying discrete as memory. His patient ledger and her intervention ledger. The same compulsion at different scales.
+
+She didn't count them. Counting implied finitude. This had gone on too long for numbers.
 
 But this time would be different.
 
@@ -35,7 +59,6 @@ She leaned forward. Manchester and Tianjing both. Watching Wei update his ledger
 Rain on windows. Dust from walls. The sound of both kinds of violence, held.
 
 She watched. She waited. The wheel turned, and neither of them knew they were already caught in it.
-
 
 Precision required timing.
 
@@ -102,7 +125,6 @@ We are the same, she thought, and filed the recognition immediately. Noted. Cate
 The curse spread. The numbers inverted. The rain continued.
 
 And neither of them could stop.
-
 
 The bowl sat in Wei's hands and the wrongness of it registered across timelines as smell before understanding: green and rot together, vegetation that had given up being food and become only fiber, only bulk, only the pretense of sustenance.
 
@@ -172,7 +194,6 @@ Both held in the same awareness, the same breath.
 
 And beneath it all, the pressure in her chest that had no source she could name, no explanation she would accept, no resolution except the one approaching that she could not yet see.
 
-
 The third day of Wei's paralysis arrived like the others: artillery at dawn, smoke rising, the siege grinding forward with the inevitability of stone wearing smooth under water. Two days he'd sat idle. Two days he'd refused patients. Two days Lilith had watched and called it success while the pressure in her chest refused to dissipate.
 
 This is it, she thought. The pattern worked. Futility visible. Determination breaking.
@@ -220,7 +241,6 @@ The temple held them both: man and child, physician and patient, cursor and curs
 Outside, artillery continued. Rain continued. The siege ground forward.
 
 And Wei began to work.
-
 
 "It doesn't matter if I'm cursed," Wei said to no one, to the child, to the empty alcove where gods used to sit. "You're bleeding now. And I can stop that."
 
@@ -318,17 +338,39 @@ But the truth her body knew and her mind refused: that she had felt Wei Shufen d
 
 The backfire crashed down.
 
-Understanding arrived in fragments, in the arithmetic she'd imposed revealing its inversion: she had made futility visible. She had ensured everyone Wei saved died. She had broken the contamination in his determination—attachment to outcome, need to succeed, the grasping that made helping about salvation rather than service.
+Not like the others. This one was structural. This one was catastrophic.
+
+Understanding arrived with the weight of walls collapsing: she had made futility visible. She had ensured everyone Wei saved died. She had created the conditions that should have broken his determination—attachment to outcome, need to succeed, the grasping that made helping about salvation rather than service.
 
 And by breaking it, she had purified it.
 
-The last door opened. The final lock broken. Completed not in spite of her intervention but because of it.
+*I didn't break him. I purified him.*
 
-Every historical attempt, Chandra's betrayal, Philon's isolation, Verinus's contradictions, all the backfires, had forged rather than fractured. But this one was catastrophic in its completion. By making futility visible, she'd forced the release of outcome-attachment. She'd refined the very thing she'd tried to prevent.
+Nine interventions. Nine backfires. She counted them now, the arithmetic she'd avoided, the ledger she'd refused to keep:
 
-Every lesson. Every quality she'd tried to break, they had forged instead. Complete.
+Chandra—she'd tried to corrupt generosity through bureaucratic distance, and it had forged cleaner giving. Philon—she'd tried to shatter wisdom through martyrdom, and it had clarified seeing without sacrifice. Verinus—she'd tried to break virtue through impossible contradiction, and it had tempered ethical action without rigid certainty. Macarius—she'd tried to exploit performance, and it had burned away false humility into genuine uncertainty. Kaoru—she'd tried to weaponize grasping at beauty, and it had released attachment to outcome. Diego—she'd tried to poison patience through injustice, and it had purified endurance without bitterness. Jean—she'd tried to fracture truthfulness through impossible doubt, and it had crystallized honest action when certainty was impossible. The glimpses between, the lives she'd touched and adjusted, the interventions that blurred into pattern.
 
-The next life would be the breaking point. The chains she felt in her own architecture, he would shed them. Perhaps permanently.
+And now Wei. The ninth. The catastrophic one.
+
+She had made futility visible. And instead of breaking, he had released the last contamination—determination attached to success, determination that needed saving to justify helping.
+
+*All ten perfections. I've accelerated all ten perfections.*
+
+The thought arrived with the clarity of something she could no longer deny. Not just one more backfire. Not just determination purified. The accumulated weight of every quality she'd tried to prevent—cooperation, generosity, wisdom, virtue, renunciation, patience, equanimity, truthfulness, determination—all of it forged rather than fractured. All of it approaching completion.
+
+Nine interventions. Nine backfires. Each one designed to break had built instead. Each method had produced the opposite of what she intended.
+
+Emotional manipulation. Intellectual precision. Sustained circumstantial interference.
+
+Every approach had accelerated what she opposed.
+
+*He's approaching stream-entry. One more significant life and he crosses.*
+
+The next incarnation—the one already living, the one she could sense at the edge of her awareness—would be the breaking point. The chains she felt in her own architecture, he would shed them. Perhaps permanently.
+
+*Historical intervention: impossible.*
+
+The pattern was structural. Opposition accelerated what she opposed. Distance allowed what proximity might prevent.
 
 She sat in her flat, hunched over the ache in her chest that had no wound to show for it, and understood: the race had narrowed. Whatever time she'd thought she had was gone. He was approaching the threshold faster than she'd calculated, and the approaching was her doing, and the only thing left was the pivot she should have made years ago.
 
@@ -343,7 +385,6 @@ Not examined.
 Never examined.
 
 The work continued.
-
 
 The thread continued.
 
@@ -377,9 +418,33 @@ Alive. Close. The presence she'd been tracking condensed into location, into dir
 
 The university. Philosophy department. A name she didn't know yet but could find, a face she would recognize when she saw it though it would be different from all the others—Wei's face, the woman in Chicago's face, the child in Bombay's face—because faces changed but the pattern underneath was constant.
 
+*Silas Pahlavan.*
+
+The name arrived with the location, attached to the presence the way a label attaches to something already known. She tested it silently, felt how it fit the pattern she'd been tracking. Different from Wei Shufen, from Jean de Langon, from all the previous names. But the consciousness underneath—that was constant.
+
 She would know him when she found him.
 
-The certainty settled through her with the weight of stone, of inevitability, of something beyond strategy though she called it strategic necessity. She had to find him. Had to assess how close he was to the threshold. Had to know whether she had months or weeks or days before the wheel turned one last time and the opportunity was lost.
+Relief crashed through her like water breaking a dam—months of tracking, centuries of history, nine catastrophic interventions, and finally she knew where he was. Present day. Manchester. Close enough that the pull had weight, had direction, had the quality of inevitability she'd felt since that first moment tracking Ka and recognizing something she couldn't name.
+
+*I've found him.*
+
+And then, beneath the relief: terror.
+
+Not the word she used. She called it strategic concern. But the sensation was older than strategy, rawer than calculation. She had found him—but she did not know how close he was.
+
+The thread showed location. It did not show spiritual status. Did not reveal whether Wei's final achievement—the outcome-independent determination, the release she'd accidentally caused—would manifest immediately in this life or whether there would be lag, breathing room, time to position before he crossed where she could not follow.
+
+She could sense him but not measure him. Knew where he was but not how close he was to stream-entry. Did not know whether she had months or weeks or days before he crossed.
+
+*What if I'm already too late?*
+
+The question arrived with the precision of a diagnosis. Her hands gripped the chair arms—the ache in her chest from Wei's death still phantom-present, still unexplained—and she felt both things at once: the relief of finding, the terror of not knowing.
+
+He could be one significant choice from crossing. Could have already crossed. Could be years away. She had no way to tell from location alone, and the thread offered proximity but not proximity-to-threshold.
+
+*I need more data.*
+
+The thought crystallized with desperate certainty. Track his immediate past life—Jack Malone, Los Angeles, 1930s. That death would tell her where he was in the process, how close to crossing, whether the race she felt in the architecture was measured in months or weeks or days.
 
 But there was something else beneath the urgency.
 
@@ -453,16 +518,17 @@ Not examined. Not yet. Not ever.
 
 The work continued.
 
-
 The application form sat in front of her. Two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
 
-She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
+She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Her hand on the pen / his hand on bandages. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
 
-Forms had their own species of violence. Slower than artillery. Quieter than massacre. But violence nonetheless in how they reduced people to boxes and checkmarks, how they demanded documentation of worth, how they made existence conditional on institutional approval.
+Forms for employment / forms for ration distribution. Boxes for credentials / boxes for supplies remaining. The echoes bled through without her willing them.
+
+Forms had their own species of violence. Slower than artillery. Quieter than massacre. But violence nonetheless in how they reduced people to boxes and checkmarks, how they demanded documentation of worth, how they made existence conditional on institutional approval. The violence of calm—institutional machinery grinding through applications the way siege machinery ground through walls.
 
 She recognized this the way she recognized everything now. Except herself.
 
-The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time.
+The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting / siege waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time. The temple had been quiet like this, before the Qing soldiers entered. Quiet with waiting. Quiet with the knowledge of what was coming.
 
 Three other candidates sat with her. She perceived their attachments without trying: the young woman needing this job for visa sponsorship, worry manifesting as bitten fingernails and rehearsed answers running behind her eyes. The older man whose last position had ended badly, desperation showing in the way he sat too straight, too ready. The middle candidate—closest to Lilith's apparent age—who wanted career advancement, who saw this as stepping stone, who carried ambition like weight.
 
@@ -478,11 +544,17 @@ The interview room: small, window overlooking campus, two people on the hiring p
 
 "How do you handle student crisis?"
 
-The question arrived and Taiping bled through before she could prevent it—Wei's hands on dying soldiers, his calm voice in massacre, the functional competence that persisted even when outcome was predetermined.
+The question arrived and Tianjing bled through before she could prevent it—Wei's hands on dying soldiers, his calm voice in massacre, the functional competence that persisted even when outcome was predetermined. Interview questions about crisis management / triage decisions under siege conditions.
 
 "I stay present with the suffering," she said. Professional language. Appropriate phrasing. The words true even if the context was wider than they knew. "Crisis requires someone who can witness without being destabilized by what they're witnessing. I provide that presence."
 
-The panel nodded. Approved. Did not see the irony: that she was describing crisis response while engineering a crisis of her own, that her calm amid student breakdown would mirror Wei's calm amid siege breakdown, that the violence she'd help them manage was gentle compared to the violence she was preparing to deploy.
+The panel nodded. Wrote notes. Another question: "What about students who seem beyond help? The ones who've already made choices that have serious consequences?"
+
+"You help anyway," she said.
+
+The words came through her before she could consider them. Wei's words. Not hers. *The trying is never nothing. It doesn't matter if it works.*
+
+She didn't notice. The panel approved. Did not see the irony: that she was describing crisis response while engineering a crisis of her own, that her calm amid student breakdown would mirror Wei's calm amid siege breakdown, that the violence she'd help them manage was gentle compared to the violence she was preparing to deploy.
 
 "Tell me about your approach to boundaries with clients."
 
@@ -545,7 +617,6 @@ Especially her.
 But she did not see it. Walked toward the parking lot where her car waited, walked toward the positioning complete, walked toward him with the certainty of water seeking sea.
 
 And the race continued, and the wheel turned, and the pattern she'd been living without seeing moved toward its resolution.
-
 
 She knew where he was before she'd asked anyone, before she'd consulted directories or schedules or the campus maps that showed building locations and department assignments. The knowledge arrived the way all knowledge arrived for her now, Direct perception, the thread of his presence humming in her awareness with the clarity of signal tuned to perfect frequency.
 

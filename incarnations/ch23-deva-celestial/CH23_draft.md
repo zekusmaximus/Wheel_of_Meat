@@ -70,7 +70,6 @@ The light continued to taste like arrival. And arrival continued, unfolding, pat
 
 ---
 
-
 Movement here was remembering where you wanted to be.
 
 The realm shifted—or the awareness shifted through the realm—and what functioned like distance collapsed into arrival. A new zone manifested: concentrated beauty, pleasure-frequencies saturating the space until the space itself became the pleasure, until there was no distinction between perceiving beauty and being beauty perceived.
@@ -162,7 +161,6 @@ But incompleteness pulled the awareness forward. What wasn't dissatisfaction wit
 What was truer than comfort. What knew the turning had to complete itself, and this beautiful stillness was not completion.
 
 ---
-
 
 He felt her before he saw her.
 
@@ -278,7 +276,6 @@ And the awareness that had been Silas moved on, carrying the meeting like a weig
 
 ---
 
-
 The encounter had shifted his orientation.
 
 The realm continued its harmonics, its light-frequencies, its patient availability to whatever chose to move through it. The shift was subtler: an orientation adjusted, an angle changed, a question answered without anyone asking it.
@@ -354,7 +351,6 @@ The name implied exactly what it said. One more time in form. One more life to c
 And ahead—glimpsed rather than seen—lay the quality of futures, of time, of the world he'd left when Manchester's morning opened into this.
 
 ---
-
 
 The realm's quality was changing.
 

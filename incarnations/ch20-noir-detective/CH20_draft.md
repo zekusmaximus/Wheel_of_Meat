@@ -1,8 +1,6 @@
 **Word count: ~1,650**
 
-
 **Word count: ~2,100**
-
 
 Her name was Margaret Sinclair, and she was the wrong kind of beautiful for a detective agency on Bunker Hill. Blonde hair waved like they did it in the pictures, a face that belonged on a movie poster, and clothes that cost more than my monthly rent. She sat in the client chair and twisted her gloves in her hands, and everything about her screamed money looking for trouble.
 
@@ -146,7 +144,6 @@ Even when giving a damn got people killed.
 
 **Word count: ~2,300**
 
-
 The first sign was Doyle, the clerk from the assessor's office. He'd been my most reliable source—a man whose hands never stopped moving, but committed. He'd given me two depositions, each one more damning than the last. We had a third meeting scheduled for the second week of February, at a diner on Figueroa where the coffee was terrible and the booths were private.
 
 He didn't show.
@@ -266,7 +263,6 @@ Even when giving a damn might get you killed.
 ---
 
 **Word count: ~1,900**
-
 
 While I'd been in custody, someone had visited my office.
 
@@ -397,7 +393,6 @@ Even if it meant dying for nothing.
 ---
 
 **Word count: ~1,800**
-
 
 Gloria Dane worked at a place called The Velvet Room, a nightclub on South Main that catered to businessmen who wanted discretion with their drinks. I went there that night, paid the cover charge, and found a table near the stage where a four-piece band was playing something slow and smoky.
 
@@ -545,7 +540,6 @@ Even when you were the one who was going to die.
 
 **Word count: ~2,400**
 
-
 The flood lasted five days.
 
 By the end of the first day, the LA River had jumped its banks. The concrete channels that were supposed to contain it proved useless against the volume of water pouring down from the mountains. Whole neighborhoods were underwater. Bridges collapsed—I heard the news on the radio, station after station reporting the same disasters: Lankershim Bridge, gone. Owensmouth, gone. Half a dozen rail lines washed out, telegraph poles down, roads impassable.
@@ -687,7 +681,6 @@ Just because the trying was not nothing.
 ---
 
 **Word count: ~1,950**
-
 
 The last two weeks of my life were strangely peaceful.
 

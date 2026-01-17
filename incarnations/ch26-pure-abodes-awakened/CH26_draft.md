@@ -106,7 +106,6 @@ The last morning that would matter.
 
 ---
 
-
 Days passed. Or weeks—the distinction mattered less here, where time moved to rhythms older than clocks.
 
 We learned the language. Let it seep in through repetition, through context, through the patience of the villagers who pointed at things and named them, waited for us to echo, nodded at approximations and smiled at success. The sounds that had been noise became words, became sentences, became the medium of thought in this place and time.
@@ -253,7 +252,6 @@ And whatever was walking no longer knew itself as "we."
 
 ---
 
-
 The tree.
 
 Larger than it had seemed from the village—the trunk so wide that four people holding hands could not have circled it, the bark furrowed and gray with age, with weather, with centuries of standing in one place while everything around it changed. The roots surfaced and dove like the coils of vast movement just beneath the earth, creating hollows and rises in the ground that shaped where bodies naturally settled.
@@ -396,7 +394,6 @@ Ready for what came next.
 
 ---
 
-
 They gathered.
 
 Without summons, without announcement, without word spreading through the village. They gathered anyway, the way they gathered when decisions needed making, the way they gathered when a story wanted telling. The morning's quality had shifted, and bodies that were sensitive to such shifts found themselves moving toward the tree without quite knowing why.
@@ -455,91 +452,59 @@ Words paused. The silence spoke its own teaching before words resumed.
 
 "The wheel turns."
 
-The phrase emerged with a different weight, a different quality—the beginning that would take time to complete.
+The phrase arose with weight, with the quality of beginning.
 
-"It has always turned. Bodies wearing bodies, lives seeding lives, each death the womb of the next lesson. There is no punishment, no punisher, no judge weighing deeds on scales. There is no design, no designer, no architect drafting blueprints for suffering and release."
+"Bodies wearing bodies, lives seeding lives. Not punishment. Not design. What happens when awareness forgets itself and must learn its way home."
 
-The listeners held stillness, receiving without grasping.
+A child's hand reached for a parent's hand—the reaching that needs no reason.
 
-"This is what happens when awareness forgets itself and must learn its way home. The forgetting is also awareness, playing a game it cannot lose because it is the game and the playing and the losing and the winning. The learning is also awareness, recognizing itself through the friction of seeming ignorance."
-
-A child's hand reached for a parent's hand. The touch was unconscious, instinctive—the reaching that needs no reason.
-
-"The wheel itself is made of what turns on it. There is only the seeing that reveals no outside was ever needed. The prison becomes transparent when the walls are recognized as drawings, the chains recognized as shadows cast by nothing, the jailer recognized as another prisoner pretending to hold keys."
+"The wheel itself is made of what turns on it. The prison becomes transparent when the walls are recognized as drawings."
 
 ---
 
-"What was given without a giver flows without obstruction."
+The teaching shifted to stories. Not philosophy but testimony—things that had happened, somewhere, somewhen.
 
-The words arose from somewhere beyond preparation, beyond memory—arose the way water arises from springs, because the pressure of what is underground seeks the surface.
+"Once, in a cave when the world was cold, hands that learned to share what they caught learned that the sharing was gain. What left returned—in warmth, in safety, in the belonging that made survival possible."
 
-"Once, in a cave when the world was cold, hands that learned to share what they caught learned also that the sharing was gain rather than loss. What left returned—in warmth, in safety, in the belonging that made survival possible when no one survived alone."
+The villagers listened because the truth beneath the story was the truth beneath all stories.
 
-The villagers listened, though the story was neither their time nor their world. They listened because the truth beneath the story was the truth beneath all stories.
+"Once, in a desert where nothing grew but silence, a body that released everything found that everything remained—unobstructed by the grasping that had seemed to protect it."
 
-"Truth requires investigation, and investigation requires willingness to be wrong. Once, in a city built on inquiry, a mind that loved wisdom more than being right learned that the wisest wisdom was knowing that wisdom could never be owned."
+A woman nearby shifted, her breath catching at something she recognized without knowing its source.
 
-Another thread of the teaching, woven into the fabric being made.
+"Once, hands that healed were broken for healing. The breaking did not stop the healing. What persists through persecution becomes harder than what caused it."
 
-"Letting go is recognition that holding was never necessary. Once, in a desert where nothing grew but silence, a body that had released everything found that everything remained, now unobstructed by the grasping that had seemed to protect it."
+The children's eyes were wide. The adults' eyes had gone quiet.
 
-The children's eyes were wide. The adults' eyes were quiet. The difference between them was less than it seemed.
-
-"What persists through persecution becomes harder than what caused it. Once, in a time when truth cost blood, a body that chose to speak anyway learned that the speaking was truth itself, speaking through whatever mouth would open."
-
-The weaving continued, threads from lives that had never been lived here, lessons that had never been spoken in this language, truth that was the same truth wearing different faces.
-
-"When the choice is others or self, the self dissolves in choosing. Once, in chaos that destroyed everything, hands that reached for strangers learned that the reaching was release—that the self saved by protecting itself was smaller than the self lost in protecting others."
-
-A woman's breath caught slightly, released. The story touched where she didn't know she needed touching.
-
-"What reaches for another discovers there is no other to reach for. Once, in a time before memory, a heart that broke open for a stranger found that the stranger was familiar—that the boundary between hearts was the same drawing on glass, apparent only from certain angles, substantial only to those who didn't look closely."
+"Once, in chaos that destroyed everything, hands reached for strangers and discovered the reaching was release—the self saved by protecting itself was smaller than the self lost in protecting others."
 
 ---
-
-The teaching paused—rested the way water rests in a pool before continuing downstream.
 
 "The trying is meaningful."
 
-The phrase broke the rest, resumed the flow.
+The phrase held tenderness.
 
-"There was someone once who tried. And failed. And tried. And failed again. And kept trying, though the failing seemed endless, though every effort led only to the recognition of how little effort could accomplish."
+"There was someone once who kept trying. And failing. And trying. Though the failing seemed endless—the trying was what mattered. The trying was arrival disguised as journey."
 
-The words held a different texture now—a tenderness that the earlier teaching had carried less explicitly.
+A child had fallen asleep against a parent's shoulder. The sleeping was also listening.
 
-"This too was necessary. The trying taught what succeeding never could: that there is no one trying. That the effort was the path—was itself arrival, was itself the teaching teaching itself to what needed to learn."
-
-A child had fallen asleep against a parent's shoulder. The sleeping was also listening—the body receiving what the waking mind would have questioned.
-
-"Doubt is the doorway. Only the certain are truly lost. Once, in a time when faith demanded conformity, a mind that could never stop questioning learned that the questions were the door through which the light entered."
-
-The threads continued, weaving into a net—a net that caught what it was meant to catch while allowing everything else to pass through.
-
-"Beauty is real. Attachment creates suffering. Once, in a place where beauty was cultivated like a crop, an eye that loved what it saw learned that the loving was innocent—only the holding brought pain. Beauty passed through the open hand. Only the closed fist suffered for its wanting."
+"Doubt is the doorway. Only the certain are truly lost."
 
 ---
 
-"What is being spoken is shared by speaker and hearer."
+"What is being spoken is not owned by a speaker."
 
-The words shifted again, moving toward invitation.
+The air itself seemed to be listening.
 
-"What is heard belongs to neither. Between speaking and hearing, in the space where words mean, there is what has been called by many names and is none of them."
+"It cannot be given—it would be a thing, and things are lost as easily as found. It cannot be taken—it would be possession, and possessions weigh down what they seem to enrich."
 
-The villagers listened, though the listening had changed—was changing, moment to moment, as the teaching did its work.
+Long pause. Presence.
 
-"It cannot be given. If it could be given, it would be a thing, and things are lost as easily as they are found. It cannot be taken. If it could be taken, it would be possession, and possessions weigh down what they seem to enrich."
-
-The air itself seemed to be listening now, or the distinction between air and listener had thinned.
-
-"But it can be pointed to. The pointing is never the thing. But for those who look where the finger points rather than at the finger, what was always already there becomes visible."
-
-A long pause. Presence. The quality that precedes what might be the most important thing yet said.
-
-"Come. Sit. The wheel turns, and will continue turning. Bodies arise and pass, and will continue arising and passing. Wanting wants, and fearing fears, and grasping grasps. This remains unchanged by seeing—only the relationship to it changes."
+"But it can be pointed to. For those who look where the finger points rather than at the finger, what was always already there becomes visible."
 
 The invitation was to a way of being in whatever place one already was.
 
-"But the one who sees the wheel is free of its compulsion. The one who recognizes the wanting is released from its grip. The seeing doesn't stop the motion—it illuminates it. And in illumination, what was suffering becomes simply... what is."
+"Come. Sit. The wheel turns. The seeing doesn't stop the motion—it illuminates it. And in illumination, what was suffering becomes simply... what is."
 
 ---
 
@@ -576,7 +541,6 @@ And yet: continuing.
 **End of Movement IV: The Teaching**
 
 ---
-
 
 Morning.
 

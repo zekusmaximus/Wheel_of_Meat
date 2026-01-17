@@ -78,6 +78,16 @@ Devaka's expression flickered—a small contraction around the eyes that I had l
 
 Which meant they could have been genuine observers or plants designed to mislead the investigation. The eastern provinces were vast, and travelers from that region were common enough in Pataliputra that their presence would not raise suspicion. I filed the information away for later analysis.
 
+"What did you see?" I asked. "Before the blade. The crowd's mood."
+
+Devaka's eyes narrowed—not with suspicion but with the focus of recall. "Restless. The ceremony ran long, and people near the back were shifting. But there was a pocket of stillness near the eastern edge. Men who weren't watching the pillar."
+
+I had not seen it. My attention had been on the Dharma-Mahāmātra, on the inscription, on the administrative implications of the reforms being announced. Devaka watched crowds the way I watched ledgers—for the patterns that revealed what the surface concealed.
+
+"Show me where. Tomorrow, when I can walk."
+
+He nodded. Fifteen years of partnership had taught us both the value of what the other saw.
+
 The tent flap rustled, and Pradeshika Sumitra entered with the heaviness of a man bearing administrative burdens. His robes were still dusty from the ceremony, but his face had composed itself into the mask of authority that his position demanded. Behind him, briefly visible through the gap in the tent fabric, I glimpsed the square still crowded with guards and curious onlookers.
 
 "Rājuka Chandra." Sumitra stood over the pallet where I lay, his posture suggesting he would not be taking a seat. "The Dharma-Mahāmātra extends his gratitude for your intervention."
@@ -109,7 +119,6 @@ He left before I could respond, and I lay back against the pallet, my arm throbb
 The smell of sesame oil and incense hung in the tent's still air. Outside, the sounds of the disrupted ceremony continued—voices raised in argument, the heavy tread of guards, the distant rumble of the ceremonial elephants being led back to their stables. The pillar would still be standing in the square, its carved words promising the emperor's benevolence to all beings.
 
 I closed my eyes and began to calculate.
-
 
 The morning light fell through Pradeshika Sumitra's window in narrow bands, catching dust motes that drifted through the still air like sediment settling in water. His office occupied the second floor of the administrative complex, its walls lined with palm-leaf documents bound in cotton cord and arranged by date and district—a system I recognized from my years managing guild inventories, though the scale here dwarfed anything I had overseen as a merchant. The room smelled of lamp oil and old paper, with an undertone of the river that seeped into everything built within three hundred paces of the Ganges.
 
@@ -157,7 +166,13 @@ Devaka walked beside me, matching my pace with the automatic coordination of lon
 
 "The warehouse records will take time to assemble," Devaka said, his voice pitched low enough that the passing clerks would not overhear. "Seven locations, two years of documentation. We're looking at three, perhaps four days before we have everything in hand."
 
-"Begin with Warehouse Seven." I had already sorted through Nagasena's preliminary notes, the numbers arranging themselves into patterns that suggested where to focus. "The loss reports show the largest variance from expected values. If the falsification is systematic, that's where it will be most visible."
+"Begin with Warehouse Seven." I had already sorted through Nagasena's preliminary notes, the numbers arranging themselves into patterns that suggested where to focus. "The inspector's methodology was sound—his staff cross-referenced transportation records against warehouse receipts." I spread the preliminary notes so Devaka could follow my reasoning. "The discrepancies cluster in seven warehouses, but the loss reports here show the largest variance."
+
+Devaka studied the figures, his merchant's eye moving across columns I had already memorized. "The loss rates are wrong for the season. Too consistent." His finger traced a line I had overlooked. "Someone is using a formula rather than actual counts."
+
+I had not seen it. The numbers had seemed plausible in isolation; only Devaka's pattern-sense revealed their artificiality.
+
+"Then we begin there," I said. "The formula will have a signature. Find the signature, find the forger."
 
 Devaka nodded, but a hesitation in the motion caught my attention—a fraction of a heartbeat's delay before his head moved. I catalogued the observation without comment. Devaka had always been deliberate in his responses, weighing words before speaking. The hesitation likely meant nothing.
 
@@ -186,7 +201,6 @@ I turned and continued across the courtyard, leaving Devaka to his tasks. The su
 I did not look back. If I had, I might have seen Devaka's expression shift as he watched me go—a flicker of something that was neither loyalty nor its opposite, but rather the complicated calculus of a man weighing debts against interests.
 
 But I did not look back. I had numbers to examine, and numbers had never betrayed me.
-
 
 The granary complex sprawled along the riverbank like a creature built for consumption—twelve warehouses arranged in staggered rows, their brick foundations rising from the alluvial mud, their thatch roofs sloping toward drainage channels that carried monsoon water back to the Ganges. I stood at the main gate as the morning sun climbed toward its zenith, my wounded arm aching beneath fresh bandages, and counted the structures by capacity. Forty thousand measures total storage, assuming standard packing density. Enough grain to feed the district for three months, or to fund a conspiracy large enough to warrant killing a Dharma-Mahāmātra.
 
@@ -294,8 +308,9 @@ The investigation had begun in earnest. The numbers would lead me where they alw
 
 I brushed the grain dust from my fingers and followed my prisoner into the light.
 
-
 The oil lamps in Chandra's office burned low, their wicks guttering in the still air as the evening deepened toward night. Devaka sat across from him, the confession documents spread between them like a map to territory they had finally conquered. Sixteen palm leaves in the scribe's careful hand, each page adding another thread to a conspiracy that had unraveled with gratifying completeness.
+
+Devaka's face showed the strain of recent days—shadows beneath his eyes, a tightness around his mouth that I had learned to read over fifteen years. "You've barely slept," he said. It was not a question. Devaka looked up, and something in his expression softened briefly—the acknowledgment of a man touched that someone had noticed.
 
 "Vikram named everyone." Devaka's finger traced the list of co-conspirators, his voice carrying the quiet satisfaction of work well done. "The transport coordinator Vasumitra, his brother-in-law in the assessment office, the warehouse supervisors who falsified the quality reports. A complete chain from collection point to market."
 
@@ -428,7 +443,6 @@ He would look. Privately rather than officially, using his own access rather tha
 The ledger did not balance. It had never balanced.
 
 And he had spent thirty-four years learning that unbalanced ledgers always concealed a truth someone wished to hide.
-
 
 The weeks wore the mask of routine.
 
@@ -590,7 +604,6 @@ The ledger did not balance. It had never balanced.
 
 Tomorrow he would learn whether balance was even possible.
 
-
 The temple passage smelled of incense and damp stone, the air thick with the accumulated prayers of generations. Brother Ananda had led them through a concealed entrance behind the main shrine, down narrow stairs carved into the rock foundation of the palace complex, into tunnels that predated the current structures by centuries. His robes whispered against the stone as he walked, the sound barely audible above the distant drip of water seeping through rock.
 
 Chandra moved carefully in the darkness, one hand trailing along the wall for guidance, the other clutching the leather satchel containing the evidence he had spent seventeen nights assembling. The palm leaves pressed against his hip with each step—twenty-three thousand measures documented in columns of figures that would mean nothing to the guards above and everything to the Dharma-Mahāmātra waiting in his sequestered quarters.
@@ -697,7 +710,6 @@ The guards who escorted him from the palace complex spoke no words, offered no e
 
 "Rājuka Chandra." Sumitra stood in the courtyard, the morning light harsh against features that seemed to have aged overnight. "You will lead the raid on the granary complex. Immediately."
 
-
 The morning light fell across the granary complex like an accusation. Chandra stood at the main gate as the sun climbed toward its zenith, his wounded arm aching beneath fresh bandages, and counted the structures by capacity—twelve warehouses arranged in staggered rows, their brick foundations rising from the alluvial mud, their thatch roofs sloping toward drainage channels that carried monsoon water back to the Ganges. Forty thousand measures total storage. Enough grain to feed the district for three months, or to fund a conspiracy large enough to warrant killing a Dharma-Mahāmātra.
 
 The guards waited in formation behind him, their spears catching the light in disciplined rows. Twenty men, as Sumitra had promised, equipped for the arrest of dangerous criminals. At their head stood a captain Chandra did not recognize—a hard-faced man whose posture suggested experience with operations more violent than administrative enforcement.
@@ -720,7 +732,11 @@ The guards dispersed with practiced efficiency, flowing through the compound lik
 
 The workers had not been warned.
 
-He found them huddled in the narrow alleys between their quarters, laborers and their families emerging from doorways too small to properly frame an adult body. Men in rough cotton dhotis, women clutching infants, children pressed against their mothers' legs with the wide-eyed stillness of prey recognizing a predator. They looked at the armed guards surrounding their homes with faces that held no recognition, no understanding of why this morning had brought soldiers instead of the usual call to labor.
+He found them huddled in the narrow alleys between their quarters, laborers and their families emerging from doorways too small to properly frame an adult body. Men in rough cotton dhotis, women clutching infants, children pressed against their mothers' legs with the wide-eyed stillness of prey recognizing a predator.
+
+Something tightened in Chandra's chest—an aversion that bypassed thought, the irreducible pressure of too many bodies crowded into too small a space. The smell of sweat and fear pressed against him like a physical weight. He steadied himself by counting: forty-three workers, twelve guards, six alley junctions. The numbers held no smell. The numbers could not press.
+
+They looked at the armed guards surrounding their homes with faces that held no recognition, no understanding of why this morning had brought soldiers instead of the usual call to labor.
 
 The captain appeared beside him. "These are the warehouse personnel?"
 
@@ -873,7 +889,6 @@ Footsteps.
 The sound reached him from somewhere beyond his field of vision—the soft crunch of sandals on ash-covered earth, approaching with the measured pace of someone who was in no hurry. He tried to turn his head, to see who had remained in this landscape of destruction, and the movement sent spasms through his damaged shoulder that briefly whited out his vision.
 
 When sight returned, Devaka's shadow fell across his face, blocking the iron sky.
-
 
 The sky had turned the color of old bronze, the smoke filtering the afternoon sun into something that belonged to neither day nor night. Chandra lay in the dirt and watched it darken by degrees, his body's surrender now complete enough that pain had become simply another form of presence—constant, familiar, almost companionable in its refusal to abandon him.
 
