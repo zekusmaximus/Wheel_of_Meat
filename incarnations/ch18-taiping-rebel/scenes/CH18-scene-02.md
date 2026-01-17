@@ -1,5 +1,3 @@
-**Word count: 1,587**
-
 The artillery barrage came without warning.
 
 Wei was in the middle of changing Liu's bandages when the first shell hit the West Wall. The explosion shook the temple floor, knocked dust from the ceiling beams. Liu's eyes went wide; Wei pressed a hand to his shoulder and said, "Lie still."
