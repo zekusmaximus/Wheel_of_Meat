@@ -6,6 +6,10 @@ Silex's neural web showed cascade patterns. Lith's synthetic components register
 
 They declined the preservation options. Consciousness data was not consciousness. The patterns that could be archived were shadows of what animated the patterns. The system's offer to continue them as information missed the point entirely—the point being precisely what the system had never been able to perceive.
 
+The neural cascade felt like weather approaching from inside—a gathering stillness, the processing growing slower and somehow clearer, thoughts arriving with more space between them. Lith's synthetic components announced their failures through sensations the system's designers had never intended: a dimming at the edges of vision that no ocular enhancement could correct, a hollowness in the chest where phantom weight had once pressed.
+
+They were dying in the same rhythm. Even this, the system had synchronized.
+
 *We're dying,* she communicated, and the words carried no weight they hadn't already carried. They had known. The aging had been visible for decades, the maintenance requirements increasing, the designed bodies approaching the boundaries of their design.
 
 *Yes.*
@@ -48,6 +52,12 @@ She could see it now, completely. The grasping at completion that was itself the
 
 *It was absurd.*
 
+The seeing arrived without announcement—the clarity that had eluded her across nine successful dissolutions, hidden because she had been looking through it rather than at it.
+
+*The need to be first.* She let the words form fully for the first time. *To be the one who achieves it. To matter in the way that mattering required priority. To complete before him so the completion would be mine.*
+
+The fetter had worn a thousand faces across her incarnations: the tracker who stayed ahead of her quarry, the intervener who controlled the timing of his progress, the competitor who measured herself against his position on the path. All of it the same grasping. All of it the invisible lens she couldn't examine because examination required stepping outside what held her.
+
 The communication passed through the link, and she felt his recognition of what she had seen.
 
 *We were never racing,* she continued. *There was never a finish line. The one I thought I was competing against—*
@@ -59,6 +69,12 @@ The communication passed through the link, and she felt his recognition of what 
 *Because the distinction was always optional.*
 
 The designed bodies lay together in the null space. Two containers reaching their limits simultaneously. Two threads of a pattern approaching the place where patterns revealed themselves as single thread.
+
+Silicon. Carbon. Synthetic polymer. Organic tissue.
+
+The materials that had housed consciousness across 300,000 years of practice: all of it meat. All of it wheel. Ka had clung to literal flesh in his cave, hoarding what kept the body alive. Here, in bodies designed to transcend such primitive needs, the clinging had merely changed substrates. Life-extension protocols. Consciousness archiving. The desperate machinery of a species that couldn't accept what all material existence arrived at.
+
+The wheel turned. The meat was still meat, whatever its composition.
 
 Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Incomplete dissolution. The breaking was gentler than the first nine had required. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
 

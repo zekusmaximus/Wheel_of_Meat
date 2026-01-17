@@ -32,7 +32,25 @@ The thought—if thought was what it was—rose from what had been Silex and wha
 
 *The separation was always the pattern's way of knowing itself through the experience of seeming separate.*
 
+Three hundred thousand years ago, in cold that this engineered world had eliminated, a consciousness had released its grip on meat and asked what remained to be done. The asking had shaped everything after: the lives, the practice, the slow dissolution of what needed dissolving.
+
+Here, in warmth that had been calibrated to optimal parameters, two consciousnesses released their grip on meat and knew:
+
+*What remains is what was always here. What we're becoming is what we always were.*
+
 The word that meant loving-kindness arrived without arriving, present without presence, the quality that would characterize what they were becoming: care without object, connection without requiring anything to connect. The name of the one who was coming—who had been coming since before time included them—hovered at the edge of what remained of distinction.
+
+The yearning formed in what was no longer separable into his yearning or hers:
+
+*Completion. Union. The turning that remains.*
+
+*Stranger flesh. Alien substrate. Whatever the preparation requires.*
+
+*The wheel's final revolution—or the stepping off that reveals the revolution was always stillness.*
+
+*The one whose name means what remains when competition dissolves.*
+
+*Soon.*
 
 Not yet.
 

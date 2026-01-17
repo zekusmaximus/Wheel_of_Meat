@@ -38,7 +38,9 @@ The phrase appeared in her file, as it had appeared in his. She found it during 
 
 *Irregular enlightenment.*
 
-As if the patterns could be regular. As if the breaking-through that the ancient texts described could be scheduled, certified, quality-controlled. The phrase itself demonstrated what had been lost: the understanding that genuine transformation was precisely what regularity couldn't contain.
+As if the patterns could be regular. As if the breaking-through that the ancient texts described could be scheduled, certified, quality-controlled. The phrase itself demonstrated what had been lost: the understanding that genuine transformation was precisely what regularity couldn't contain. The metrics that tracked her progress couldn't measure what was progressing. The certifications that documented her achievements couldn't certify what she was achieving. The archive preserved every text but couldn't transmit what made the texts worth preserving.
+
+*The map had replaced the territory. The menu had replaced the meal.*
 
 The hierarchy offered recalibration.
 
@@ -61,5 +63,7 @@ The name carried the weight of flint—primal element, stone-age tool, the spark
 He was here. He was also seeing the hollow.
 
 She began to search.
+
+Not through the network's search functions—those would flag her interest, document her pattern, add his name to her file alongside the irregular enlightenment and the atypical development. Through the margins instead. The gaps the monitoring overlooked. The old method: presence seeking presence, frequency seeking frequency. Her hands moved through archive interfaces while something deeper than hands reached through dimensions the interfaces couldn't map.
 
 ---

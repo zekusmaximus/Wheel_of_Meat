@@ -16,6 +16,8 @@ The chamber hummed with frequencies calibrated for gradual emergence. Soft light
 
 Unlike any womb—too precise for crude gestation, too controlled for conception. The body he inhabited had been grown to specification, its genetic template selected from parameters optimized across generations: longevity, cognitive enhancement, structural resilience. The flesh was meat in the way that any substrate was meat—carbon, silicon, synthetic polymer, whatever consciousness chose to inhabit.
 
+The fabrication chamber hummed at frequencies designed to soothe—forty hertz, the theta range, prescribed tranquility. Synthetic amniotic drained through channels too precise to splash. The air that replaced it carried nothing organic: filtered, humidified, temperature-regulated to a tenth of a degree. Somewhere in the optimization protocols, the engineers had eliminated surprise. The body they were building him would never know what unexpected meant.
+
 His first breath tasted of filtered atmosphere.
 
 The absence of organic markers registered: no dust, no pollen, no microparticles that would have signified weather, season, the texture of a world. Only precision. Only the sterile hospitality of systems designed to receive what had been designed to emerge.
@@ -46,6 +48,8 @@ Weight. The particular sensation of mass subject to gravity.
 
 She let it settle into awareness without resisting. Resistance was another form of grasping, and grasping was—
 
+The chamber's surfaces were too smooth. She could feel that wrongness in the designed skin's first contact—a texture that had never known organic variation, polished to specifications no natural process would produce. The neural interface at the base of her skull completed its initialization sequence: a small click, a brief hum, the system announcing itself present and permanent.
+
 *Still present.*
 
 The recognition cut through the protocols' prescribed serenity. Nine fetters broken, the last remaining invisible because she looked through it rather than at it. Here, in flesh again, the old pattern reasserted itself immediately: *I must reach it first. I must be the one.* The competition that had driven her across 300,000 years of watching him, tracking him, intervening in ways that always backfired—it hummed beneath the engineered calm like a machine that couldn't be switched off.
@@ -73,5 +77,7 @@ Silex and Lith emerged into designed flesh, into calibrated comfort, into a worl
 Dawn and sunset. The pattern's bookends. Both entries into meat, 300,000 years apart, asking the same question:
 
 *What remains to be done?*
+
+Ka had asked it in the cold, dying alone, his final thought shaping what came after. Here, in the warmth of calibrated systems, the question carried the same weight. Three hundred thousand years of answers between them—and still the asking.
 
 ---

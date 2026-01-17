@@ -1,6 +1,10 @@
 Years passed. Their bodies aged.
 
-Slowly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural networks showed faint degradation patterns. Lith's synthetic components required occasional maintenance. The designed flesh, whatever its substrate, remained flesh: temporary, conditional, subject to the laws that governed all material things.
+Slowly—enhanced longevity stretched what would have been decades into something more like seasons, the slow cellular decline that even optimized biology couldn't prevent. But the aging happened. Silex's neural web showed the first degradation patterns after their fifth decade together—minor latencies in processing, the occasional dropped signal that the system logged without alarm. Lith's synthetic components required recalibration at increasing intervals: the organic-polymer interfaces that connected her consciousness to her designed flesh slowly losing their optimization.
+
+Silicon. Carbon. Synthetic polymer. Organic tissue.
+
+All of it meat. All of it wheel. The substrate had changed; the impermanence had not.
 
 They worked at the margins.
 
@@ -28,11 +32,23 @@ The system watched. The system always watched—that was its nature, its functio
 
 The response carried what she was still learning to recognize—his quality of not-needing. The helper identity that had once driven him to fix, to save, to make the difference that proved his worth: absent. What remained was simply presence, the willingness to participate in what emerged without requiring it to emerge in particular ways.
 
-She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness. *I still want more,* she admitted through the link. *I want to turn the wheel. Plant seeds feels too small—I want to turn it myself.*
+She could feel her own grasping against his non-grasping, the way her edges cut against his smoothness.
 
-*I know.*
+*Seeds.* The word carried weight she didn't want to examine. *I want to turn the wheel. Now. Here. Planting seeds feels—*
 
-*And you don't?*
+*Too small?*
+
+*Too slow. Too patient. Too much like accepting that this isn't our moment.*
+
+*It isn't our moment.*
+
+She felt the truth of it even as the grasping rejected it. The counterfeit was too complete. The genuine seekers too few. Whatever they planted here would need centuries to germinate—and she wanted it now, wanted to be the one who turned it, wanted the completion that wanting itself prevented.
+
+*I see it,* she communicated. *Seeing doesn't stop it.*
+
+*No. But seeing is where stopping begins.*
+
+*And you don't want it?*
 
 *The desire is present.* He paused, the neural connection registering the quality of his consideration. *But it's not a demand. The wheel will turn when the wheel turns. We're part of the turning whether we push or not.*
 
