@@ -625,98 +625,470 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 
 ---
 
-## Chapter 16: Renaissance Skeptic — Jean de Langon (Paris, 1598)
+## Chapter 16: Renaissance Skeptic — Jean de Langon (Guyenne / Bordeaux, 1588)
 
-### Critical Fixes
+> Setting correction: `avatar-profile.json` gives **death_year: 1588**, and the draft itself dates the action "On the roads of Guyenne in 1588" (line 51). The previous revision-guide entry wrongly placed Jean in Paris, 1598; all references below use the correct 1588 Guyenne setting.
 
-**1. Confirm avatar's given name is used consistently on-page.**
-- **Problem:** `minor_revisions.md` raised whether the avatar is named on-page; profile and outline both give **Jean de Langon** (parlementaire avocat, Paris, 1598, post–Edict of Nantes).
-- **Source requirement:** `avatar-profile.json` → "Jean de Langon, Parisian lawyer (avocat au Parlement)"; outline → Incarnation 7, 1598.
-- **Current text:** Name is present in the current draft (verified in opening scene and subsequent scene headings). [RESOLVED — verified in current draft]
-- **Revision instruction:** No change required; during copy-edit, confirm no carry-over from earlier revisions leaves an alternate given name ("Jean-Baptiste," "Jehan") anywhere in narration or dialogue.
-- **Verification:** Full-file search for "Jean" returns only "Jean de Langon"; no stray variants.
+### Critical Fixes (must resolve before locking)
 
-**2. 1598 period anchor must appear in the first scene.**
-- **Problem:** Post–Edict of Nantes setting is central to Jean's skeptic-lawyer stance toward both Catholic and Huguenot factions; review flagged ambiguous anchoring in an earlier draft.
-- **Source requirement:** `period-rules.md` → year and public event (Edict signed April 1598 at Nantes) must be established without lecture-dump.
-- **Current text:** The opening scene references the Edict and places the date "this spring" / "the king's peace" in Scene 1. [RESOLVED — verified in current draft]
-- **Revision instruction:** Keep existing reference; do NOT add an explicit "1598" if not already on the page — embedded Edict cue plus Henri IV references are sufficient. If a beta reader reports disorientation, add a single dated letter or docket entry ("Paris, ce 14 juin 1598") to a document Jean handles in Scene 1.
-- **Verification:** Within the first 400 words, a reader can identify Paris, post-Edict, Henri IV's reign.
+**1. Missing Isabeau de Carcassonne at the ball (continuity setup for CH17's retrospect)**
+- **Problem:** `avatar-profile.json` → `lilith_in_this_chapter.recognition_moment`, `period-rules.md` → "Isabeau de Carcassonne (Lilith's Past Incarnation — Peripheral)," and the outline's Scene 6 require Isabeau to appear peripherally at the ball with specific markers: pronounced widow's peak, single darker strand falling left, left-eye brown-with-pale-green crescent (11-to-1 o'clock), watchful stillness. Jean should glimpse her and feel a flicker of unnamed familiarity. No interaction. This is the first time Lilith's line and Silas's line co-locate historically; CH17 is supposed to retrospectively identify "one of my past lives was there but wisely did not engage." Without Isabeau on the ballroom floor, CH17's beat loses its referent.
+- **Source requirement:** avatar-profile.json `recognition_moment`; period-rules.md Isabeau section; CH16 outline Scene 6.
+- **Current text (CH16 draft):** Full-file grep for "Isabeau," "Carcassonne," "widow's peak," "pale-green," "darker strand" returns **zero matches**. The only "other woman" beat in Scene 6 is the yellow-silk noblewoman at line 521 — and that is functioning as the Diego (CH14) smoke/fire bleed-through, not as Isabeau. Marie de Gramont at lines 527–545 is a Catholic faction voice, not Isabeau. The canonical face is absent from the ball.
+- **Revision instruction:** Insert a 20–40-word glimpse during Scene 6, ideally before the Marie de Gramont beat at line 527 — a natural slot is immediately after line 519 ("Jean moved toward the refreshment tables, seeking space to breathe and think.") Suggested insertion:
 
-**3. Skeptical crisis must not resolve into easy belief.**
-- **Problem:** Review warns against making Jean "secretly already a believer" — arc must leave his rational framework damaged but not replaced.
-- **Source requirement:** `avatar-profile.json` → "skeptic whose framework cracks"; outline → "Jean does not convert; he loses certainty."
-- **Current text:** Climax preserves refusal-to-convert; Jean names the experience "anomaly," not "grace." [RESOLVED — verified in current draft]
-- **Revision instruction:** Retain current ending. In line-edit pass, remove any sentence in which Jean internally concedes the presence of "God," "le Seigneur," or any specifically Christian agent. Lilith / the encounter may be "something," "a presence," "the other" — never divine.
-- **Verification:** No narration-aligned assertion of supernatural agency in Scenes 7–9.
+  > "Near a pillar at the far end of the hall stood a woman Jean did not know. Black hair parted over a pronounced widow's peak, a single darker strand falling across her left temple. She was watching him — not with the sidelong measurement of the Catholic matrons, nor the calculation of the Protestant wives. Simply watching. When his glance found hers, he caught a flicker of pale green at the edge of her left iris, like the ghost of a crescent moon. Something in him tugged toward recognition and found nothing. She did not approach. Jean looked away first."
 
-### Should-Fix
+  No interaction. No dialogue. No name. Three physical markers (widow's peak, darker strand left, pale-green crescent 11-to-1 o'clock) and watchful stillness.
+- **Verification:** Grep CH16_draft.md for "widow's peak" — one hit, in Scene 6. The glimpse lasts ≤ 40 words. Isabeau is not named, does not speak, and does not reappear in the chapter. CH17's retrospective reference ("one of my past lives was there") now has a referent.
 
-**4. Legal-register diction must resist modern psychologism.**
-- **Problem:** A handful of modern-sounding phrasings ("processing his trauma," "compartmentalize," "cognitive dissonance") were flagged in earlier drafts.
-- **Source requirement:** `period-rules.md` → forbidden vocabulary list (post-Freudian mental terms).
-- **Current text:** Uses period-appropriate substitutes ("reason would not hold the weight of it," "the mind divided against itself") in the passages previously flagged.
-- **Revision instruction:** Targeted sweep for: "process / processing," "trauma," "cope / coping," "compartmentalize," "dissonance," "repress / repression," "triggered," "boundaries" (emotional sense). Replace with humoral, scholastic, or legal-register equivalents; Jean's dialogue may use Latin tags (*mens conturbata*) sparingly.
-- **Verification:** Zero occurrences of the listed modern-psych vocabulary outside clearly-marked authorial notes (which should be stripped — see item 5).
+**2. Three-day / same-evening timeline contradiction in the coda**
+- **Problem:** The draft's internal chronology cannot support the epilogue's "three days after submitting his report." Line 802: "Jean had perhaps a day before both factions moved against him." Line 820: "Jean left Bordeaux at dusk" — same day as the submission. Ambush follows that same evening (lines 828–905). Line 946 (epilogue): "Jean de Langon died on the road west of Bordeaux three days after submitting his report." Three days contradicts the narrative; the ambush happens hours after submission, not three days later.
+- **Source requirement:** Internal consistency between Scenes 8, 9, and the coda.
+- **Current text (line 946):** "Jean de Langon died on the road west of Bordeaux three days after submitting his report."
+- **Revision instruction:** Either delete the clause (preferred — see item 3, which argues for cutting the coda entirely) or replace "three days after submitting his report" with "the evening of the day he submitted his report." Do not attempt to stretch the narrative to accommodate three days; the urgency ("perhaps a day" at line 802) is earning the ambush's immediacy.
+- **Verification:** Grep CH16_draft.md for "three days after" — zero hits. The coda, if retained, matches the narrative's same-evening compression.
 
-**5. Strip any surviving authorial notes or bracketed stage directions.**
-- **Problem:** Cross-chapter issue: draft-comment residue (`[TODO]`, `[check date]`, `[expand]`, `// Jean's motivation here`) was flagged.
-- **Current text:** Spot-checked; no bracket-comments remain. [RESOLVED — verified in current draft]
-- **Revision instruction:** Final grep for `[`, `{{`, `TODO`, `XXX`, `FIXME`, `//`, `#note` as part of production pass.
-- **Verification:** No editorial artifacts remain.
+**3. Redundant third-person epilogue (lines 944–956)**
+- **Problem:** The soul-transition sequence at lines 926–942 ("The wheel turned. / Consciousness pulled loose like thread from fabric…") already completes the chapter's karmic bridge and hands off to the next incarnation. The epilogue that follows ("His report was filed and forgotten. Henri de Ségur's murder remained unresolved. Guyenne tumbled into another year of uneasy peace…") re-states what is already thematically closed, introduces the "three days" contradiction (item 2), and dilutes the close the wheel-turn passage has earned.
+- **Source requirement:** Voice guidance — death scenes should close on the karmic-bridge thought, not on narrator-voice recap.
+- **Current text (lines 944–956):** The full epilogue paragraph, from "Jean de Langon died on the road west of Bordeaux three days after submitting his report" through "And the wheel would turn again."
+- **Revision instruction:** Delete lines 944–956 entirely; let the chapter end at line 942 ("The wheel turned."). Alternative if the author wants the magistrate's banditry-finding preserved: reduce to a single line placed BEFORE "The wheel turned" at line 928 — e.g., "The magistrate's report would call it banditry. No alternative served order." Then resume the wheel-turn sequence. Do not trail after the wheel-turn with narrator commentary.
+- **Verification:** Final line of CH16 is "The wheel turned," OR a single compressed banditry line precedes the wheel-turn. The factional-vindication commentary is gone.
 
-**6. Middle-scene pacing — avoid legal-procedural drag.**
-- **Problem:** Review noted that middle scenes (court session, private consultation, archive visit) risk accumulating procedural texture without forward motion.
-- **Source requirement:** Outline beat structure — nine scenes, each advancing Jean's skeptical framework toward fracture.
-- **Current text:** Scenes 4–5 run slightly long; Scene 5 (archive) is the swelling one.
-- **Revision instruction:** Cut ~200–300 words from Scene 5 by compressing document-inventory beats. Preserve the specific manuscript Jean finds (the one that unsettles him); compress the peripheral browsing around it.
-- **Verification:** No paragraph in Scene 5 reads as "and then he looked at another folio."
+### Should-Fix (significant but not structural)
 
-**7. Huguenot vs. Catholic register — ensure Jean is *not* either.**
-- **Problem:** Moments when Jean's free-indirect narration leaned Catholic-sympathetic or Huguenot-sympathetic muddy his skeptic position.
-- **Source requirement:** `avatar-profile.json` → "raised nominally Catholic, practicing nothing; admires both sides' jurists, trusts neither's claims."
-- **Current text:** Generally balanced; one or two passages tilt mildly Catholic-affectionate (childhood incense memory).
-- **Revision instruction:** Add a counterweighting recollection (a Huguenot jurist Jean respected, or a Catholic hypocrisy he witnessed) within 100 words of the incense memory, OR trim the incense memory to a single sensory clause.
-- **Verification:** No reader could identify Jean as "secretly Catholic" or "secretly Huguenot" after a close read.
+**4. Word count overrun — 14,471 words vs. 8,000–9,000 target**
+- **Problem:** Outline target is ~8,000–9,000 words across nine scenes. Current draft is **14,471 words** (verified by `wc -w`). The review flagged ~11,000–12,000 as already long; the current draft is further over. Bloat concentrates in Scenes 4, 7, 8, and in the finger-touch gesture's repetition.
+- **Source requirement:** Outline target word count; voice-rule against intellectualized reiteration of resolved beats.
+- **Current text (representative bloat sites):**
+  - **Scene 4 (lines 249–341):** Marguerite's philosophical position is delivered fully.
+  - **Scene 7 (lines 581–697):** Marguerite's argument is re-staged in almost the same structure before the breakthrough at 659.
+  - **Scene 8 (lines 699–818):** the formal report is quoted as block text (visible at line 725 with "The testimony is irreconcilable…"), running close to a full page.
+- **Revision instruction:** Target a 2,500–3,500-word cut to reach ~11,000 words (still over, but survivable). Approach:
+  - Scene 4 — keep Marguerite's core Pyrrhonist move; cut ≥ 500 words of peripheral shop-texture and restated propositions.
+  - Scene 7 — compress so the argument restatement lands in one tight exchange; the emotional hinge is the breakthrough at 659 ("You offer me a fortress"), not the philosophical ground preceding it. Target ≥ 800-word cut.
+  - Scene 8 — condense the quoted report to two or three excerpted paragraphs surrounded by summary ("He drafted the section on the merchant's testimony. He drafted the section on the farmer's testimony…"). Target ≥ 600-word cut.
+- **Verification:** `wc -w CH16_draft.md` ≤ 11,000. Scenes 4 and 7 no longer mirror each other's argument structure. Scene 8's report appears as excerpts, not full text.
 
-### Polish
+**5. Finger-touch gesture — over 20 occurrences; thin to 6–8 inflection points**
+- **Problem:** The finger-counting ritual is Jean's recognition marker and the chapter's central loaded gesture. Current draft deploys it ~20+ times. By mid-chapter it is mechanical; the reader registers repetition rather than weight. Thinning restores its load.
+- **Source requirement:** Voice rules — loaded gestures carry meaning through restraint.
+- **Current text (sampled occurrences):** Lines 5, 21, 67, 75, 103, 125, 157, 233, 247, 263, 305, 363, 379, 409, 443, 485, 565, 577, 635, 693, 746, 794, 808, 904 — twenty-four instances in the drafted file.
+- **Revision instruction:** Retain the gesture at 6–8 inflection points. Suggested keepers: line 5 (first establishment), line 157 (the first sign of doubt), line 247 (fortress-shift), line 565 (recognition of gesture as performance), line 659 / 693 (breakthrough), line 794 (the steady testimony under ambush-threat), line 904 (death-beat). Delete or collapse the rest — especially the interview-tic instances at 75, 103, 125, 263, 305, 379, 409, 443, 485, 635.
+- **Verification:** Grep CH16_draft.md for "touched his" — 6–8 hits, each tied to a structural beat, none in routine witness-interview rhythm.
 
-**8. Latin quotations — verify and italicize consistently.**
-- **Problem:** Review flagged three Latin phrases: one mis-declined, one inconsistently italicized, one potentially over-long.
-- **Current text:** Two of three corrected; italicization is consistent; declension needs a single check.
-- **Revision instruction:** Have a Latinist (or proofreader with Lewis & Short / Renaissance legal-Latin glossary) verify each Latin phrase. Keep italicization consistent with house style (italic for foreign tags).
-- **Verification:** All Latin phrases grammatical and uniformly styled.
+**6. "Epistemological crisis" / "epistemological" — 19th-century coinage, anachronistic**
+- **Problem:** "Epistemological" is a 19th-century coinage (borrowed into English c. 1856). A 1588 character cannot use it, and in the draft Marguerite (educated Pyrrhonist) deploys it at line 599, and Sorbin gestures at "epistemological complications" at line 491.
+- **Source requirement:** Period-rules — no anachronistic vocabulary.
+- **Current text:**
+  - Line 599: `"I have read Montaigne. One recognizes the symptoms of epistemological crisis."`
+  - Line 491: `"Though I suppose a man educated at the Collège de Guyenne would find epistemological complications where simpler minds see merely facts."`
+- **Revision instruction:**
+  - Line 599: Replace with period-appropriate phrasing such as "One recognizes the symptoms of a man who has stopped trusting his own instruments of knowing," or lean explicitly on Pyrrhonist diction: "One recognizes the Pyrrhonist's vertigo — the sickness of a mind that has doubted itself into stillness."
+  - Line 491: Replace "epistemological complications" with "scholastic subtleties," "sophist's difficulties," or "philosophical complications."
+- **Verification:** Grep CH16_draft.md for "epistemolog" — zero hits.
 
-**9. Period honorifics and titles.**
-- **Problem:** Mixed "Monsieur," "Maître," and "Sieur" inconsistent with 1598 parlementaire practice.
-- **Revision instruction:** For a practicing avocat, "Maître" before surname professionally; "Monsieur de Langon" socially. Standardize per current draft's dominant usage; correct outliers.
-- **Verification:** Title usage reads as intentional and period-accurate.
+**7. "Narrative" used in modern media sense**
+- **Problem:** "Narrative" in the modern rhetorical/media sense ("serving their faction's narrative") postdates the period. The word itself exists in 1588 Latin/French, but the rhetorical-strategy sense is 20th-century.
+- **Source requirement:** Period-rules — avoid modern rhetorical vocabulary.
+- **Current text (sampled):**
+  - Line 133: "testimony that served neither faction's simple narrative"
+  - Line 151: "his memory had helpfully filled in details that served his faction's narrative"
+  - Line 541: "I do not discard findings because they complicate my narrative"
+  - Line 559: "a case for Catholic conspiracy but needed more evidence… vindicate their narrative"
+  - Line 750: "no attempt to protect either faction's narrative or his own reputation"
+  - Line 840: "refused to serve either faction's narrative"
+- **Revision instruction:** Replace "narrative" in every such instance with "account," "story," "version," or "report" as context allows. Rotate among them to avoid a single-word monoculture. Keep "narrative" only if used in its older sense of a chronological recital (rare in this draft).
+- **Verification:** Grep CH16_draft.md for "narrative" — zero hits in rhetorical-strategy sense (incidental literal uses acceptable).
 
-**10. Sensory palette — Paris 1598.**
-- **Problem:** City-texture is slightly generic-early-modern; specific Parisian markers (Seine stench in summer, Pont Neuf construction, war-scarred neighborhoods) would deepen place.
-- **Revision instruction:** Add one or two specific, dated Parisian markers in Scene 1 or 2 — Pont Neuf was under construction in 1598 (begun 1578, finished 1607), a perfect ambient detail for a skeptic crossing a half-built bridge.
-- **Verification:** A Paris-1598 reader would place the setting by detail, not only by named date.
+**8. "Performance of certainty" at line 567 — modern rhetorical sense**
+- **Problem:** "Performance" in the sense of "putting on a display / act" is a 20th-century rhetorical usage (cf. Austin, performativity). In 1588, "performance" meant completion of a task or office.
+- **Current text:** Actually at line 565 — "the gesture itself had become performance. The careful investigator weighing evidence. The neutral arbiter considering all sides." (Minor_revisions cites line 567 — the passage spans 565–567.)
+- **Revision instruction:** Replace "had become performance" with "had become a display," "had become pretense," or "had become a show." Keep the three-part apposition that follows.
+- **Verification:** Grep CH16_draft.md for "performance" — zero hits in rhetorical sense.
 
-### Positive-checks Table
+**9. "Professional armor" at line 297 — modern compound**
+- **Problem:** "Armor" as metaphor is period-acceptable; the compound "professional armor" reads modern (the adjective "professional" in this modifier sense is largely post-1700).
+- **Current text (line 297):** "The argument was seductive. Jean felt it slide beneath his professional armor like a blade testing for gaps."
+- **Revision instruction:** Replace with "the guard of his profession," "his investigator's guard," or simply "his guard." Preferred: "Jean felt it slide beneath the guard of his profession like a blade testing for gaps."
+- **Verification:** Grep CH16_draft.md for "professional armor" — zero hits.
 
-| Element | Location | Status |
+**10. Marguerite's argument delivered twice (Scenes 4 and 7) — compress or differentiate**
+- **Problem:** Scene 4 delivers Marguerite's Pyrrhonist position fully; Scene 7 restates the same argument structure before Jean's breakthrough at line 659 ("You offer me a fortress. The same fortress I have inhabited my entire career."). This is both item-4 bloat and structural redundancy — the breakthrough is blunted by the re-argued ground.
+- **Source requirement:** Outline — Scene 7 is the temptation/breakthrough beat, not a re-argument.
+- **Revision instruction:** Compress the Scene 7 argument to a single exchange in which Marguerite invokes the position already established in Scene 4 by reference ("You remember what I said in this same room"), then press immediately to the temptation. The breakthrough at 659 should land 400–600 words sooner. Alternative: differentiate — Scene 4's argument is abstract (Pyrrhonist epistemology); Scene 7's should be situational (what Jean specifically should DO with the letter). This re-casts Scene 7's content without re-arguing Scene 4's.
+- **Verification:** Scene 7 no longer mirrors Scene 4's argument beats. Breakthrough at 659 lands with the weight of first recognition, not twelfth.
+
+### Polish (minor, opportunistic)
+
+**11. Scene 8's fully-quoted report — condense with excerpts at half the length**
+- **Problem:** Scene 8 (lines 699–818) presents Jean's formal report in close to full text, starting at the block quotation around line 725 ("The testimony is irreconcilable. If the Catholic merchant's account is accurate…"). The quoted document works as character action — but at current length it is the single largest bloat site.
+- **Source requirement:** Outline — the report functions, narratively, to show Jean committing truthful uncertainty to paper. A condensed version with two or three excerpted paragraphs achieves the same function.
+- **Revision instruction:** Reduce the block quotation to 2–3 paragraphs interleaved with brief narrator passages describing what Jean wrote in the sections he does not quote. Preserve the signature moment where he names the four "Ifs" (see item 13) verbatim — that dialogue echo is load-bearing for CH17.
+- **Verification:** Scene 8 word count at most half the current length. The four "Ifs" survive intact for CH17's retrospective.
+
+**12. Past-life bleed-through cues — confirmed present, catalog for continuity**
+- **Problem:** Review flagged two past-life bleed-through cues as present and restrained. Verification confirms both.
+- **Current text:**
+  - Line 53: "De Lacaze's hand briefly touched Jean's arm as he spoke — a gesture of personal concern born from eight years of shared work. Jean should have felt comfort in that familiar touch. Instead, a chill passed through him, quick and inexplicable. Old friends who shared confidences. Trusted bonds between men who knew each other's secrets. Something in his body flinched from the pattern, though his mind supplied no reason for the revulsion." — Judas-patterned touch (bleed-through from an earlier betrayal-life).
+  - Line 521: "A noblewoman passed in a gown of deep yellow silk… For a moment he tasted smoke that was not present, felt heat against his face that the October evening did not explain… His body had recoiled as if from fire itself." — Smoke/fire bleed-through from Diego's burning (CH14).
+- **Revision instruction:** [RESOLVED — verified: both bleed-through cues present and restrained]. No change required; catalog these two lines in a continuity note so later revision passes do not accidentally trim them.
+- **Verification:** Lines 53 and 521 remain intact in the locked draft.
+
+**13. CH17 dialogue echoes — verify each verbatim match**
+- **Problem:** CH17's Lilith-POV references specific CH16 beats almost verbatim: "Nearly missed it," the four "Ifs," "You offer me a fortress," "I told the truth about what I didn't know." Continuity depends on each surviving the revision pass.
+- **Current text (confirmed locations in CH16):**
+  - "Nearly missed it" — line 377: "'Yesterday, while preparing the archives for your examination. It was misfiled among other correspondence.' Her voice was steady, her face composed. 'I nearly missed it.'" Jean's echo line 379: "*Nearly.* Jean touched his middle finger to his thumb."
+  - Four "Ifs" — clustered at lines 433–439 ("If he included it…/ If he excluded it…/ If the letter was genuine…/ If the letter was forged…") and restated at lines 465, 669, 725. The canonical four appear at 433–439.
+  - "You offer me a fortress" — line 659: "'No.' Jean shook his head. 'You offer me a fortress. The same fortress I have inhabited my entire career. The belief that uncertainty absolves me of responsibility for action.'"
+  - "I told the truth about what I didn't know" — line 878: "'Tell him,' Jean said, and his voice was steady despite the blood soaking through his doublet, 'that I told the truth about what I didn't know. That was mine to give.'"
+- **Revision instruction:** [RESOLVED — verified: all four dialogue anchors present at lines 377, 433–439, 659, 878]. Do not touch these lines in any subsequent revision pass; they are CH17's structural hooks.
+- **Verification:** Grep CH16_draft.md for each phrase — one hit each at the documented line.
+
+### Positive checks (confirm still present)
+
+| Beat | Line | Status |
 |---|---|---|
-| Jean de Langon named, profession correct | Scene 1 | ✓ present |
-| Post–Edict of Nantes atmosphere | Scene 1 | ✓ present |
-| Skeptical framework retained through climax | Scenes 7–9 | ✓ present |
-| No conversion, no easy belief | ending | ✓ present |
-| Period-appropriate legal register | throughout | ✓ largely clean |
-| No modern-psych vocabulary in narration | throughout | ✓ clean (post-sweep) |
-| Latin tags grammatically correct | throughout | ✓ mostly (one check pending) |
+| Opening chamber scene establishes Jean, political trap, declined-purse beat | 1–67 | ✓ present |
+| Lisette interview "you have carried this burden alone" | 114–145 | ✓ present |
+| Six-rider ambush — ugly, survival-mode combat | 175–247 | ✓ present |
+| Marguerite's Pyrrhonist position, not a straw man | Scene 4, Scene 7 | ✓ present (see items 4, 10) |
+| Jean's breakthrough: truthfulness ≠ certainty | 651–671 | ✓ present |
+| Ball scene present with rhetoric as fencing | Scene 6 | ✓ present (Isabeau missing — see item 1) |
+| Formal report as character action | Scene 8 | ✓ present (bloated — see item 11) |
+| Judas-patterned touch bleed-through | 53 | ✓ present |
+| Yellow-silk / smoke / Diego bleed-through | 521 | ✓ present |
+| Death-thought progression ending in karmic bridge | 876–942 | ✓ present |
+| "What is worth dying for with conviction?" | 926 | ✓ present (CH18 seed) |
 
 ### Continuity Checklist (CH16 ↔ CH15, CH17)
 
 | Beat | CH16 line | Partner line | Status |
 |---|---|---|---|
-| CH15 forward-thread names "Jean de Langon, Paris" | — | CH15 closing | ✓ matches |
-| CH17 opening references Jean's skeptical encounter (not conversion) | — | CH17 opening | ✓ matches |
-| Lilith's self-presentation (argumentative, citing law) | mid-chapter | CH17 retrospect | ✓ matches |
-| Parting: mutual unresolvedness, no closure | Scene 9 | CH17 opening beat | ✓ matches |
+| CH15 forward-thread names next avatar | — | CH15 closing | ✓ matches (verify name "Jean," Guyenne 1588) |
+| "Nearly missed it" | 377, 379 | CH17 retrospect | ✓ matches |
+| Four "Ifs" (letter genuine/forged × include/exclude) | 433–439 | CH17 retrospect | ✓ matches |
+| "You offer me a fortress" | 659 | CH17 retrospect | ✓ matches |
+| "I told the truth about what I didn't know" | 878 | CH17 retrospect | ✓ matches |
+| Six-rider ambush, shoulder betrayal, horse going down | 828–905 | CH17 retrospect | ✓ matches |
+| Isabeau glimpse at ball (peripheral, no interaction) | **missing** | CH17 retrospective reference to co-located past life | **BROKEN — see item 1** |
+| Jean's final thought seeds CH18 Wei's conviction-hunger | 920–940 | CH18 opening state | ✓ matches |
+
+---
+
+## Chapter 18: Taiping Rebel — Wei Shufen (Nanjing / Tianjing, 1864)
+
+### Critical Fixes (must resolve before locking)
+
+**1. Opening lacks date, "1862 / Siege of Tianjing," physical portrait of Wei, and the outline's dawn-kneeling image**
+- **Problem:** The draft opens in medias res with "Wei Shufen counted his supplies at dawn" (line 1) and lists yarrow, honey-garlic paste, and cloth bandages. It does not deliver the outline's required opening image ("Wei kneels beside a wounded soldier at dawn. Dust motes in slanted temple light. Herb-stained hands moving with practiced precision as he applies a poultice."), there is no dated anchor ("1862" / "1864" / "Siege of Tianjing" / "the third year of the siege" arrives only at line 69), and Wei's physical markers — long hair, red-faded-to-rust tunic with yellow trim torn off for bandages, herb-stained hands with surgical scars — are not established in prose. A reader arriving from CH17's Manchester/France oscillation has no sensory anchor.
+- **Source requirement:** `ch18-outline.md` line 39 ("Wei kneels beside a wounded soldier at dawn. Dust motes in slanted temple light. His hands are herb-stained, moving with practiced precision as he applies a poultice."); `avatar-profile.json` physical-marker fields; `period-rules.md` dating requirements.
+- **Current text (lines 1–7):** "Wei Shufen counted his supplies at dawn. / Three pouches of yarrow, nearly exhausted. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, assuming he cut them thin. The arithmetic was always the same: not enough. Never enough. / Old Huang arrived as the light crept through the temple windows…"
+- **Revision instruction:** Replace the opening paragraph with a version that delivers the outline's required image and folds in the physical portrait and the dating anchor. Suggested replacement (to become lines 1–4 of the revised draft):
+
+  > "Wei Shufen knelt beside the wounded soldier at dawn. Dust motes turned in the slanted temple light where a Buddha had once sat before the Heavenly Kingdom's iconoclasts had hauled it down. His hands — herb-stained, the knuckles ridged with old surgical scars — moved across the poultice with the practiced economy of a medic who had changed this dressing four hundred times in two years. His tunic, red once and now the color of dried rust, hung loose at his shoulders; the yellow trim that had marked him as *lüshuai* of the West Ward was long since torn away for bandages. His hair, uncut by Taiping law, hung in a single plait down his back.
+  >
+  > Two years into the siege. Tianjing in the summer of the third year since the Xiang Army had closed its ring. The Heavenly King was dead — had died a month ago, on the first of June — though Wei still counted time from the ascension announcement, not from the body.
+  >
+  > He finished the dressing, sat back on his heels, and counted his supplies."
+
+  Then resume the existing line 3's "Three pouches of yarrow…" Word count gain: ~140 words, easily absorbed given the draft's modest 8,734-word length. This single insertion resolves the opening-anchor, physical-portrait, and dated-anchor gaps at once.
+- **Verification:** First four paragraphs of CH18 contain: (a) "knelt" / "dawn" / "dust motes" / "slanted temple light"; (b) physical markers (long hair, faded red tunic, yellow trim torn, herb-stained hands, surgical scars); (c) dating — Tianjing, third year of siege, Heavenly King's June death.
+
+**2. Opening ledger number mismatch (48/23 vs. profile's 47/23)**
+- **Problem:** `avatar-profile.json` specifies the ledger opens at 47 saved / 23 lost. The draft opens the ledger at line 47 with "Forty-eight saved. Twenty-three lost." Trivial but easy.
+- **Source requirement:** avatar-profile.json `opening_state` field.
+- **Current text (line 47):** "Wei added him to the count: *Forty-eight saved. Twenty-three lost.*"
+- **Revision instruction:** The beat at line 45 shows Liu's fever breaking and being added to the count. If the profile's 47/23 is meant to be the state BEFORE Liu is added, change line 47 to "Forty-seven saved. Twenty-three lost." and adjust the surrounding sentences so Liu's count has not yet been added. Alternatively, change the profile to 47 + Liu = 48 and keep the draft. Author decision; trivial edit.
+- **Verification:** Draft and profile agree on the opening ledger state.
+
+**3. Narrator POV slips on Lilith at lines 163–164 and 219–221**
+- **Problem:** Period-rules call for Lilith's hand to be visible to the reader only in CH19 — the pattern of her interference should register to the CH18 reader as ordinary war-misfortune, with recognition deferred. The draft breaks POV twice with omniscient narrator cues that name Lilith's intervention as intervention.
+- **Source requirement:** `period-rules.md` → "Lilith never manifests or speaks to Wei; pattern visible to reader only in Ch19."
+- **Current text:**
+  - Lines 163–164: "And the pattern Wei had not yet noticed was beginning to take shape — the patients he saved dying in subsequent weeks, the coincidences that were not coincidences, the invisible hand tilting the ledger toward loss."
+  - Lines 219–221: "Wei did not know that the intelligence leak had been no accident, that the raid's timing and route had been exposed by manipulation so subtle it looked like ordinary treachery. Did not know that eighteen deaths were being tallied in a ledger not his own, counted as successes in a war he could not see."
+- **Revision instruction:** Two options.
+  - **Option A (purist — preferred):** Delete both passages. The reader learns the pattern in CH19; CH18 should stay inside Wei's understanding. After cuts, line 163 flows from Huang's silence into "The night deepened." at 161; lines 219–221 are removable between 217 and 223 without continuity damage.
+  - **Option B (lenient):** Shade to ambiguity. "the coincidences that refused to feel like coincidences" (no "invisible hand"); "the intelligence leak that the captains blamed on their own" (no "manipulation so subtle"). Preserves the rhythm while keeping agency off-page.
+  - Author decision. The purist read is safer for the CH19 reveal; the lenient read preserves dramatic-irony texture.
+- **Verification:** Grep CH18_draft.md for "invisible hand," "no accident," "manipulation so subtle" — zero hits (Option A) or softened phrasings (Option B). Wei's POV remains uncontaminated by the larger pattern.
+
+### Should-Fix (significant but not structural)
+
+**4. Underdeveloped hierarchy-as-corrosion: Wei's complicity in orders that send healed men to die**
+- **Problem:** Profile and period-rules call for at least one scene in which Wei FOLLOWS a correct order with catastrophic results — his complicity in the moral corrosion of hierarchy, not just its aftermath. The raid scene at lines 181–203 delivers aftermath only ("They returned at dawn. Two of them."), and line 209's retrospection on "the twenty men he had released to die" points at the beat without rendering it.
+- **Source requirement:** `period-rules.md` §2.1 "hierarchy as moral corrosion"; outline scene calling for Wei to certify healed soldiers for redeployment.
+- **Current text (lines 181–203 + 209):** Aftermath-only rendering; the decision-point ("You are fit for duty. Report to the wall.") is off-page.
+- **Revision instruction:** Add a short scene (~250–400 words) before line 181, in which Wei signs the fitness certifications that return twenty healed men to the West Wall. Render the bureaucratic act physically: the chop on the red-ink pad, the lüshuai seal pressed to the roster, a young soldier thanking him on the way out. Wei knows the wall cannot hold. He signs anyway because the rule is to sign. The raid's aftermath at 181 then lands with the weight of Wei's visible signature on each dead man. This is the chapter's cleanest hierarchy-corrosion beat and the outline's explicit ask.
+- **Verification:** A scene exists, prior to line 181, in which Wei physically certifies the twenty soldiers and knowingly sends them to the wall.
+
+**5. Mother's 1854 cholera death — never referenced in-text**
+- **Problem:** Profile specifies Wei's mother died of cholera in 1854. The draft quotes her voice ("We can't save them all, Shufen. Only try." at line 429) but never establishes how or when she died. The Hakka / medical lineage is under-rendered.
+- **Source requirement:** avatar-profile.json `backstory.mother` field.
+- **Current text (line 429):** Mother's voice quoted without context.
+- **Revision instruction:** Add a one-line memory adjacent to the mother's voice at line 429. Suggested: "She had said it the week before the cholera took her in 1854, the last summer before Wei carried her body to the pyre with the other ten from their Hakka village." One sentence; no backstory dump.
+- **Verification:** The 1854 cholera death is named in-text within 50 words of the mother's voice.
+
+**6. "Fifty hours" (line 509) vs. "third day" (lines 507, 513) arithmetic bobble**
+- **Problem:** Line 507: "The child came on the third day." Line 509: "Wei had been sitting for fifty hours." Line 513: "The child entered at dawn." Fifty hours ≈ two days and two hours, not three days. In a chapter whose motif is arithmetic, this is a self-inflicted wound.
+- **Source requirement:** Internal consistency; the ledger motif.
+- **Current text:** As above.
+- **Revision instruction:** Either change line 509 to "seventy-two hours" (truly the third day) or change lines 507, 513 to "the second day" / "The child came on the second day." Preferred: "seventy-two hours" — preserves the three-day / dawn image and sharpens the arithmetic.
+- **Verification:** Fifty hours and "third day" no longer co-occur. The numbers match Wei's motif.
+
+**7. Young Ping disappears at line 465 and is never accounted for**
+- **Problem:** Young Ping is established as a working member of the West Ward station (lines 91, 361). At line 465 during the manna riot: "Young Ping had disappeared — fled, perhaps, or caught in the riot. It did not matter. The wounded kept coming." The character is then never referenced again. In a war-attrition chapter this is defensible, but it reads as dropped rather than chosen.
+- **Source requirement:** Consequence-free loss violates the voice-rule that every dropped thread should feel chosen.
+- **Revision instruction:** Two options. (a) Accept as intentional attrition; add a single later sentence confirming the fact to the reader — e.g., in Scene 8 Wei sees Young Ping's abandoned sandals in a corner and does not pick them up. (b) Complete the thread: in the death scene Wei sees Ping's body or receives word. The author should choose; current draft reads as dropped.
+- **Verification:** Young Ping's fate is either explicitly confirmed once (option a) or closed in the death scene (option b).
+
+**8. CH19 numerical handoff: recalculation after village-deaths news is implicit, not dramatized**
+- **Problem:** CH19 line 79 implies Wei recalculates his ledger after the village-deaths news arrives. The daughter delivers that news in CH18 lines 267–283 ("Everyone died. The whole village."), but Wei's arithmetic correction is never made explicit in CH18's prose. CH19's "91 saved / 171 lost" recalculation (cited in the review) therefore lands without the triggering moment on the CH18 side.
+- **Source requirement:** CH19 lines 79, 109 — numerical handoff.
+- **Current text:** CH18 ends the daughter scene at line 315 without Wei re-counting; the ledger beat at line 417 rejects the ledger entirely rather than updating it.
+- **Revision instruction:** Two options. (a) Add two or three sentences immediately after line 283 in which Wei subtracts the village from his running count — "The family of six. The two he had treated for dysentery the month before. All of them gone. He did not update the ledger. He did not need to. He knew the number had inverted." (b) Note the gap for CH19: if CH18 does not dramatize the recalculation, CH19's "recalculated" language should be softened to "understood." Author decision.
+- **Verification:** Either CH18 contains a beat where Wei subtracts the village dead from his running count, or CH19's handoff language is adjusted. The two chapters agree numerically.
+
+### Polish (minor, opportunistic)
+
+**9. Jean's name surfaces as karmic thread at line 657**
+- **Current text (line 657):** "Wei looked at him. Thought about Jean, about honesty. Thought about compassion. Chose both."
+- **Revision instruction:** [RESOLVED — verified: karmic thread to CH16 explicit at line 657]. Do not trim in copy-edit.
+
+**10. Old Huang as quiet mirror functions correctly**
+- **Current text:** Huang appears at lines 5, 35–37, 153, 465, etc., as a quiet mirror who humanizes Wei without becoming co-protagonist.
+- **Revision instruction:** [RESOLVED — verified: functional and restrained]. No change.
+
+**11. Manna / Elder Zhou scene (lines 369–395) — theology-vs-body articulation**
+- **Current text (line 373):** "'Lüshuai,' Zhou whispered. 'Why does the Heavenly Father allow this?'"
+- **Revision instruction:** [RESOLVED — verified: cleanest theology-collapse beat in the chapter]. Preserve.
+
+**12. Wounded-child breakthrough (lines 507–589) — matches CH19:245**
+- **Current text (line 559):** "*It doesn't matter if I'm cursed,* Wei thought. *He needs help.*"
+- **Revision instruction:** [RESOLVED — verified: breakthrough present; near-verbatim match to CH19:245 ("You're bleeding now. And I can stop that") per review]. Preserve; do not rephrase.
+
+**13. Enemy sergeant's "I'm sorry" at line 715 — flag for author decision**
+- **Problem:** Period-rules §10.1 specify "enemy soldiers not personalized." The sergeant's "I'm sorry" at line 715 humanizes him. The review notes this is defensible as honesty-under-violence but edges the rule.
+- **Current text (line 715):** "'I'm sorry,' the sergeant said."
+- **Revision instruction:** **AUTHOR DECISION.**
+  - **Option A (purist):** Cut the line. The sergeant kills Wei in professional silence; the anonymity preserved by the rule.
+  - **Option B (retain):** Keep. The line is a single beat and functions as the moment where Wei's doubt-without-bitterness extends to his killer — the last karmic action of the life. Document the exception in `period-rules.md` so the rule stays bright for future chapters.
+  - **Option C (compromise):** Replace with silence or a gesture — the sergeant pauses, does not meet Wei's eyes, then strikes. Preserves the humanization without the dialogue.
+- **Verification:** Author records the decision in `period-rules.md` if the line is retained.
+
+### Positive checks (confirm still present)
+
+| Beat | Line | Status |
+|---|---|---|
+| Wei's clinical honesty ("I don't know") | 15–23, 53–65, 377 | ✓ present |
+| Ledger motif as through-line | throughout | ✓ present |
+| Medical network / cooperation across ward stations | 5–7 | ✓ present |
+| Manna as weeds / dysentery outbreak | 349–395 | ✓ present |
+| Empty Buddha alcove habit (no prayer) | 315 | ✓ present |
+| Sister Mei separation by Taiping segregation | 605–613 | ✓ present |
+| Jean's name as karmic thread | 657 | ✓ present |
+| Mother's voice ("We can't save them all, Shufen. Only try.") | 429 | ✓ present |
+| Wounded-child adhiṭṭhāna breakthrough | 507–589 | ✓ present |
+| "*I will try again*" — karmic bridge to CH20 | 753–763 | ✓ present |
+| Tianjing named | 775 | ✓ present |
+| No clean ending / no heroic last stand | final scenes | ✓ present |
+
+### Continuity Checklist (CH18 ↔ CH17, CH19)
+
+| Beat | CH18 line | Partner line | Status |
+|---|---|---|---|
+| CH17 forward-thread names Wei Shufen, Taiping | — | CH17 closing | ✓ matches |
+| Jean's inherited question ("what can I die for with conviction?") lands in Wei's clinical-honesty opening | 15–23, 53–65 | CH17 closing | ✓ matches |
+| "It doesn't matter if I'm cursed. He needs help" ↔ CH19:245 "You're bleeding now. And I can stop that" | 559 | CH19:245 | ✓ matches |
+| 12-of-15 list Wei burns | 297–307 | CH19:107 | ✓ matches |
+| Ledger numbers (133 saved / 128 lost) | — | CH19:109 | ✓ matches (per review) |
+| Evacuation intercepted by "too-perfectly-timed" cavalry | 619–633 | CH19:283–289 | ✓ matches |
+| Death scene + "I will try again" | 753–763 | CH19:311–319 | ✓ matches |
+| Village-deaths arithmetic handoff | **implicit** (see item 8) | CH19:79 | **PARTIAL — see item 8** |
+| Lilith never recognized by Wei | throughout | CH19 retrospect | ✓ (narrator POV slips — see item 3) |
+
+---
+
+## Chapter 20: Noir Detective — Jack Malone (Los Angeles, 1938)
+
+> Setting correction: `avatar-profile.json` and `period-rules.md` place Malone in Los Angeles, **1938** — the Harry Raymond bombing (January 1938), the Kynette corruption recall, and the March 1938 LA Flood are all dramatized in the draft. The previous revision-guide entry wrongly placed Malone in 1947; all references below use the correct 1938 setting.
+
+### Critical Fixes (must resolve before locking)
+
+**1. Lilith's canonical face is too conspicuous — Malone sees too much**
+- **Problem:** Period-rules specifically require: "He barely notices her — just a face that feels strangely familiar but he can't place." And: "No attraction, no relationship, no femme fatale dynamic." The draft inventories her signature markers three separate times, across distances and weather that make the green-crescent detail physically implausible (the crescent is specified "visible in good light" up close).
+- **Source requirement:** `period-rules.md` Lilith carve-out; `avatar-profile.json` — Malone is "a face he cannot place, not one he tracks."
+- **Current text:**
+  - **Bar (lines 187–189):** "Her face was angled toward the window, but I could see the sharp line of her widow's peak, the single darker strand that fell across her forehead."
+  - **Corner (lines 395–399):** "Dark hair caught in the wind, a coat that looked too expensive for this neighborhood, face turned slightly away from me. But there was something about the line of her profile — the sharp widow's peak, the single darker strand falling across her forehead — that made me stop." (Line 415 follow-up: "that widow's peak, that strange flicker in her left eye — lodged in my chest like a splinter.")
+  - **Alley (line 831):** "This time, I could see her face clearly. The sharp widow's peak. The single darker strand that fell across her forehead despite the rain. Her eyes, fixed on mine across fifty feet of wet pavement — and in one of them, the left one, something strange. A flicker of color that didn't belong. Green, maybe, a pale crescent of green in an iris that should have been brown."
+- **Revision instruction:**
+  - **Bar (187–189):** Retain the widow's-peak + darker-strand detail; this is Malone's first sighting and may land as noticed-face. Cut any recognition-loaded interiority around it.
+  - **Corner (395–399) and alley (831):** Strip the widow's peak and darker strand from Malone's perception at these distances. Keep his perception generic: "a dark-haired woman I'd seen somewhere before," "a woman on the corner, her coat too good for the neighborhood." Move the green-crescent detail entirely off-page from Malone — the reader carries it from the bar sighting; Malone does not re-inventory it in the rain.
+  - Line 415 "that strange flicker in her left eye" — cut or soften to "that sense of having seen her before." The specific ocular detail is not Malone's to register at distance.
+  - Line 831 alley: Remove the crescent-of-green line entirely. Replace the full-face close-up with a silhouette ("dark hair, a figure turning away"). The reader already knows who this is; Malone does not.
+- **Verification:** Grep CH20_draft.md for "widow's peak" — one hit (bar only). "Darker strand" — one hit (bar only). "Crescent," "pale-green," "pale green" — zero hits in Malone-POV passages.
+
+**2. "I'd never been to France" — hard contradiction with WWI backstory (lines 427–429)**
+- **Problem:** Profile establishes Malone fought in France in WWI (Belleau Wood, Meuse-Argonne). At lines 427–429 he thinks "*In France—*" then blinks: "In France? I'd never been to France." This is a flat contradiction. Most likely a draft error in which the bleed-through moment was written without reference to Malone's WWI service.
+- **Source requirement:** avatar-profile.json WWI backstory.
+- **Current text (lines 427–429):** "*In France—* / I blinked. In France? I'd never been to France."
+- **Revision instruction:** Recast the bleed-through so the confusion is about the WRONG France — a France Malone has never been to, even though he served in France in 1918. Suggested replacement:
+
+  > "*In France—* / I blinked. The France I'd seen had been mud and shelling and a town whose name I couldn't remember — Belleau something. This was a different France. A stone cell. A rope. A voice I did not know speaking words I did not know. The image was gone before I could look at it."
+
+  This honors the WWI service while routing the bleed-through into a prior life (Jean, Diego, or an unnamed earlier avatar). The contradiction is cut and the cue is sharpened.
+- **Verification:** Grep CH20_draft.md for "never been to France" — zero hits. Belleau Wood or Meuse-Argonne referenced at least once in the chapter to ground the WWI backstory.
+
+**3. Gloria Dane functions as a femme-fatale ghost-echo — reframe**
+- **Problem:** Gloria Dane (lines 471–514) is a sequined-dress nightclub singer at The Velvet Room, rendered with sexual framing ("dark hair, full lips, a figure that the sequined dress she wore did nothing to hide"). She is aesthetically a femme-fatale ghost-echo in a chapter whose period-rules carve-out forbids the femme-fatale register attaching to the Lilith-adjacent material.
+- **Source requirement:** `period-rules.md` — "No femme fatale subplot should exist."
+- **Current text (line 471, 473, 497):** The Velvet Room, sequined dress, full lips, the calibration of a woman "women in her position had to play to survive."
+- **Revision instruction:** Reframe Gloria to a less-coded role. Options:
+  - A **bookkeeper's mistress** seen in a drab rooming-house parlor, not a nightclub. Preserves the blackmail-photograph dynamic; removes the sequined-dress aesthetic.
+  - A **secretary** at the firm where Brennan launders the land-buys. Conversation happens in her apartment over tea, not over a stage band.
+  - A **widowed sister** of one of Brennan's associates. Same information, no romantic framing.
+
+  Cut the physical inventory ("full lips," "figure that the sequined dress did nothing to hide"). Preserve the plot function (her testimony about Brennan, the photographs). Target ≥ 200-word cut on the scene as a whole.
+- **Verification:** No sequined dress, no full-lips / figure inventory, no nightclub stage. Gloria's function remains but the femme-fatale register is gone.
+
+**4. Brennan / Brennan name collision**
+- **Problem:** The chapter contains **two Brennans** with no acknowledgment. David Brennan at line 32 is the reformer from the Civic Reform Committee. Howard Brennan at line 487 is the blackmail-subplot businessman. A reader cannot be expected to track two Brennans without either a shared-family explanation or a rename. This is copyediting residue, not design.
+- **Source requirement:** Clean character-name discipline.
+- **Current text:**
+  - Line 32: "'Mr. Malone?' The tall one extended his hand. 'Vernon Shaw. This is David Brennan.'"
+  - Line 487: "'I know exactly what kind of girl you are, Miss Dane.' I kept my voice low, neutral. 'I know about Howard Brennan. I know about the photographs.'"
+- **Revision instruction:** Rename one of them. Preferred: Howard Brennan → **Howard Brannigan** or **Howard Brenner**. The reformer David Brennan is named only once at line 32 and was going to appear again in notes Malone reviews; leaving him as Brennan preserves the Civic Reform roster without further editing. Sweep for every instance of "Howard Brennan" and "Brennan" (where context is the blackmail case) and replace.
+- **Verification:** Grep CH20_draft.md for "Brennan" — all surviving hits refer to the reformer David Brennan. Grep for the new blackmail name returns only the blackmail-subplot hits.
+
+### Should-Fix (significant but not structural)
+
+**5. Lines 391, 601 — Malone's theorizing edges toward supernatural / distant operator**
+- **Problem:** Profile insists the Combination plants the bomb and Malone dies believing the Combination did it. The draft has Malone theorize, twice, a non-Combination agent with impossible reach — which nudges the reader toward Lilith unwarrantedly and makes Malone look obtuse for not following through.
+- **Source requirement:** avatar-profile.json — Malone stays inside Combination-paranoia.
+- **Current text:**
+  - Line 391: "The Combination was the obvious answer. They had the resources, the reach, the motivation. But the precision of it nagged at me. This wasn't the Combination's usual style — they preferred blunt force, intimidation, bullets and bombs. This was surgical. This was personal."
+  - Line 601: "Someone was playing a game I didn't understand. Someone who had more power than the Combination, more reach than the police, more patience than any enemy I'd ever faced."
+- **Revision instruction:**
+  - Line 391: Soften from "This was surgical. This was personal" to "This was the Combination showing it had learned. This was the Combination adapting." Retain the "precision nagged at me" beat without converting it into a separate-operator theory.
+  - Line 601: Replace with something that stays inside the Combination frame — "Someone who had bought more reach than I'd realized the Combination possessed. Someone inside it I hadn't mapped." Malone's paranoia intensifies about the Combination's extent, not about a non-Combination operator.
+- **Verification:** Grep CH20_draft.md for "more power than the Combination," "more reach than the police," "more patience than any enemy" — zero hits. "Surgical" / "personal" applied to a non-Combination operator — zero hits.
+
+**6. Missing CH21 handoff — no narrator-coda sentence locating Lilith's realization**
+- **Problem:** CH21 opens with Lilith's horror at the completed perfections — her timeline compressing from "a week" to "NOW." The draft's omniscient coda at lines 951–971 supplies the wheel-turn and the karmic seed ("Someone has to give a damn. / I will try again") but does not plant Lilith's realization. The "woman was still there. Still watching" beat at 933 and the "receding" beat at 933 end Malone's perception of her; the coda never returns to her side. CH21's "I have to find him NOW" therefore lands as coincidence rather than cause.
+- **Source requirement:** CH21 opening beat demands a visible trigger in CH20.
+- **Current text (lines 957–961):** "And somewhere else — somewhere that had no name, no location, no existence in any geography the living could map — something stirred. / A momentum that had been building for millennia. A pattern that had been waiting for completion. Lifetimes of failure that were also preparation. Fires that had refined instead of destroyed. / And now, finally: the urge that would carry forward into the next life."
+- **Revision instruction:** Insert one sentence in the coda that names Lilith's perception of what she has just witnessed. Suggested insertion between lines 955 and 957:
+
+  > "On the far side of the rain, a woman stood on the sidewalk and understood, too late, what she had just watched complete. Ten lives. All ten. The pattern she had been chasing across the centuries had closed itself in front of her on a wet alley in a city she did not love."
+
+  One sentence. No dialogue from her. Coda remains omniscient. CH21's compression now has a cause.
+- **Verification:** The coda contains a named beat of Lilith's realization that all ten perfections are complete. CH21 opens with causal momentum, not coincidence.
+
+### Polish (minor, opportunistic)
+
+**7. Buick Roadmaster age (line 311) — pre-1936 impossibility**
+- **Problem:** Line 311: "a three-year-old Roadmaster I'd bought cheap from a widow." The Roadmaster nameplate launched in 1936. A three-year-old Roadmaster in March 1938 would be a 1935 car — which predates the nameplate.
+- **Source requirement:** `period-rules.md` — "Buick Roadmaster (1936+ model)."
+- **Current text (line 311):** "I parked my Buick — a three-year-old Roadmaster I'd bought cheap from a widow who didn't need it anymore —"
+- **Revision instruction:** Two options. (a) Change "three-year-old" to "two-year-old" (a 1936 Roadmaster in March 1938). (b) Change "three-year-old" to "couple of years old" — vague but safe. Preferred: **"two-year-old Roadmaster"** — matches the 1936 launch and preserves the "bought cheap from a widow" beat.
+- **Verification:** Grep CH20_draft.md for "three-year-old" — zero hits on the Buick.
+
+**8. Flood section (lines 615–645) is thin vs. period-rules' rich Great Flood detail**
+- **Problem:** Period-rules give the March 1938 LA Flood rich sensory detail (Lankershim Bridge collapse, Pacific Electric Red Car washouts, 100+ dead, city dissolving, NG troops, mud and debris). The draft delivers this in three-plus paragraphs of mostly telling: "Hundred confirmed dead and rising. Thousands homeless. The movie studios had shut down." Lankershim is named (line 617), but the overall sensory expansion the period-rules call for is absent. Profile specifically calls this "perfect backdrop for climax."
+- **Source requirement:** `period-rules.md` Great Flood section.
+- **Current text (lines 615–645):** Three-plus paragraphs of news-summary register; one paragraph (lines 631–633) delivers walking-through-mud sensory detail.
+- **Revision instruction:** Add one sensory paragraph (~150–250 words) between lines 629 and 631. Ground-level: mud on shoe-tops; a streetcar on its side at Pacific Electric's washout; a mattress caught in a tree; National Guard cordons; the smell the review names but the draft euphemizes ("something sweet and wrong I didn't want to identify" — name it: bodies). Keep the news-summary at 621–623 shorter; lean the weight of the section onto ground-level sensory.
+- **Verification:** Flood section contains at least one Red Car / Pacific Electric detail, at least one ground-level body / mattress / tree-caught-debris image, and the NG troops physically on the street, not only on the radio.
+
+**9. No Clifton's Cafeteria visit despite profile's named habit**
+- **Problem:** Profile names Clifton's specifically ("Eats at Clifton's"). Clifton's Brookdale at 648 S. Broadway was one of the defining 1930s LA locations — fantasy-forest decor, pay-what-you-can policy, redwood-grove atmosphere. Not a single visit in the draft.
+- **Source requirement:** avatar-profile.json habits.
+- **Revision instruction:** Add a short scene or paragraph in which Malone eats at Clifton's between cases — the pay-what-you-can tray, the redwood-grove dining room, the painted waterfall. A single paragraph (~100 words) in the middle of the chapter (near lines 207 or 517) suffices.
+- **Verification:** Grep CH20_draft.md for "Clifton" — one hit, anchored in the fantasy-forest decor.
+
+**10. "Someone has to give a damn" — repeated nine times, thin two or three instances**
+- **Problem:** The phrase is the chapter's spine and is meant to recur. Nine occurrences becomes stamp rather than refrain.
+- **Current text (sampled):** Lines 433, 689, 731, 763, 793, 803, 963 (and elsewhere — verified at ≥7 instances on first pass).
+- **Revision instruction:** Keep the opening use (line 433 in the woman-on-the-corner aftermath), the flood-aftermath use (line 689 or 731), the pre-death use (line 793 or 803), and the karmic-bridge use (line 963). Replace two or three middle repetitions with closely-adjacent variants: "Someone had to bother," "Someone had to look," "Someone had to name it." Preserve the spine; lose the stamp.
+- **Verification:** Grep CH20_draft.md for "Someone has to give a damn" — 4–5 hits, each at an inflection point. No two consecutive uses within 300 words of each other.
+
+**11. Word count ~13,833 vs. 8,000–11,000 target — cut from blackmail-case middle**
+- **Problem:** `wc -w CH20_draft.md` returns 13,833 words. Profile target is 8,000–11,000. The blackmail-case middle (Jerry Novak / blackmail-subplot arc, lines 471–611) is the largest cut-able block without touching the corruption spine or the death sequence.
+- **Source requirement:** avatar-profile.json target word count.
+- **Revision instruction:** Compress lines 471–611 by ≥ 1,500 words. Keep Gloria's scene (reframed per item 3), Brennan's insider-land-purchase discovery, and the blackmailer's death (Jerry Novak). Cut redundant Malone-interior passages about "why so much trouble for a ten-thousand-dollar blackmail," the double-backtrack to the Hall of Records, and the callbacks to Helen Marsh that merely re-establish her weight.
+- **Verification:** `wc -w CH20_draft.md` ≤ 11,000. The blackmail-case middle no longer sprawls into the corruption-case spine.
+
+**12. No Shadow on the radio, no pulp magazines, no recurring Angels Flight — habits underused**
+- **Problem:** Profile names these habits explicitly. Angels Flight appears at lines 19 and 759 (good — twice). The Shadow on the radio and pulp magazines do not appear at all.
+- **Revision instruction:** Two small additions. (a) A single line in a solo scene (Malone at home, lines 621–625 during the flood): "The radio gave me the news, then The Shadow at eight, then more news. I stayed up for the serial and slept through the rest." (b) A pulp magazine on his desk or nightstand — "a month-old *Black Mask* I'd been reading since Tuesday." Each is one line. Neither disrupts scene pacing.
+- **Verification:** The Shadow and a pulp title each named at least once.
+
+**13. Past-life bleed-through cues — catalog and assess**
+- **Current text:**
+  - Line 4: "I tasted something that wasn't whiskey: dust, blood, the smell of bodies too close together." — rally crowd flashback, bleed-through from an earlier crowd-life (Wei's Nanjing? Verinus's Rome? Ambiguous by design).
+  - Line 51: "For a moment the office smelled wrong: dust and incense and too many bodies packed into a space meant for prayer, voices raised in unison promising heaven while the ground turned to mud and blood." — Taiping / Wei bleed-through, strongly marked ("heaven," "prayer," "mud and blood").
+  - Line 417: "*I've seen those eyes before.* I couldn't say where. But I knew not to trust them." — recognition-adjacent; too overt for pre-death placement.
+  - Line 427–429: "*In France—* / I blinked. In France? I'd never been to France." — addressed under item 2.
+- **Revision instruction:**
+  - Lines 4 and 51: [RESOLVED — verified: appropriate bleed-through register, restrained].
+  - Line 417 ("I've seen those eyes before"): soften or relocate. At line 417 Malone is pre-death by several scenes; this overt recognition should be pushed into the death sequence (near line 925 or 933 where the woman is "still there. Still watching"). Replace the line 417 beat with something vaguer: "Something about her pulled at me in a way I didn't know how to name. Not attraction. Not memory. Something older." The explicit eye-recognition lands in the death sequence where it belongs.
+  - Line 427–429: fix per item 2.
+- **Verification:** Line 4, line 51, line 427–429 all survive (427 reshaped). Line 417 no longer contains "I've seen those eyes before"; the eye-recognition beat appears instead inside the death sequence.
+
+**14. CH01 flashback match — "A passerby, rushing to avoid"**
+- **Problem:** CH01's opening flashback references Malone's death scene. Review cites CH01:9 as a verbatim match; CH20:839 delivers "A passerby, rushing to avoid." and CH20:935 delivers "A passerby. A witness. Nothing more."
+- **Source requirement:** CH01 Manchester-opening flashback.
+- **Current text:**
+  - CH20:839 — "A passerby, rushing to avoid."
+  - CH20:935 — "A passerby. A witness. Nothing more."
+  - CH01 opening (first 30 lines) does NOT contain the phrase on spot-check; the verbatim match the review references is likely deeper in CH01's flashback passage (CH01 opens on Lilith/Silas pillow-talk at sunset; the antique-car flashback arrives later in the chapter).
+- **Revision instruction:** **NEEDS VERIFICATION.** Author to grep CH01_draft.md for "passerby" / "rushing to avoid" / "antique car" and confirm the match. If the verbatim line exists in CH01, no change is required on CH20's side. If CH01's line is phrased differently, CH20:839 should be adjusted to match CH01 (CH01 is the later-read anchor for most readers; CH20 yields).
+- **Verification:** Grep CH01_draft.md for "passerby" — verify match against CH20:839 and CH20:935. Phrasings either align or CH20 is adjusted.
+
+**15. SRO geography on Bunker Hill — check internal consistency**
+- **Problem:** Profile establishes Malone's residence as an SRO on Bunker Hill with a Murphy bed, shared bathroom down the hall, alley parking, and stair access. Draft delivers Murphy bed (line 2), thin walls / neighbor coughing (line 2), alley parking (line 311), stair access (line 311). Shared bath not mentioned.
+- **Revision instruction:** Add a single concrete reference to the shared bath — a scene in which Malone brushes his teeth at a hall basin, or waits for the door, or hears Mrs. Kowalski cough through the bathroom wall. One sentence in an existing scene suffices.
+- **Verification:** Shared bathroom named at least once.
+
+**16. CH19 "tracking" language vs. CH20's observational presence**
+- **Problem:** CH19 states Lilith needs "the data from Jack Malone's tracking" before approaching Silas. CH20 shows three observational sightings (bar, corner, alley) but no tracking signal on Malone's side.
+- **Source requirement:** CH19 line indicating tracking (per review).
+- **Revision instruction:** **AUTHOR DECISION.**
+  - **Option A:** Add a tracking signal on CH20's side — e.g., a single beat where Malone finds a cigarette butt outside his office that he doesn't smoke, or a shadow across the alley wall at 3 AM. One small cue; ambiguous to Malone, legible to the reader after CH19 retrospect.
+  - **Option B:** Retune CH19's language — drop "tracking" and substitute "watching" or "observing." CH20's observational presence then matches.
+  - Preferred: Option B, since CH20's three sightings are already the maximum Lilith-presence the period-rules allow; adding more cuts into item 1's restraint budget.
+- **Verification:** Either CH20 contains a single observational cue Malone registers without understanding, or CH19's language is softened to match.
+
+### Positive checks (confirm still present)
+
+| Beat | Line | Status |
+|---|---|---|
+| Opening hangover / failed Helen Marsh case / Peterson client / twelve dollars / rent due | 2–12 | ✓ present |
+| First-person Malone voice, economical, metaphor-driven | throughout | ✓ present |
+| Three-act descent (hook with rot → layers of complicity → truth without justice) | throughout | ✓ present |
+| Viriya lesson: "The trying was not nothing" | 939, 943 | ✓ present |
+| Death-scene mechanics: Buick Roadmaster, alley, rain, starter-triggered bomb, extended bleed-out | 813–947 | ✓ present (Roadmaster age — see item 7) |
+| Lilith as minimal presence (bar, corner, passerby) | 187, 395, 831 | ✓ present (over-specified — see item 1) |
+| Harry Raymond car bomb / Captain Kynette corruption | 47 | ✓ present |
+| March 1938 LA Flood | 615–645 | ✓ present (thin — see item 8) |
+| "I will try again" karmic bridge to CH21 | 965 | ✓ present |
+
+### Continuity Checklist (CH20 ↔ CH19, CH21, CH01)
+
+| Beat | CH20 line | Partner line | Status |
+|---|---|---|---|
+| CH19 forward-thread names "Jack Malone, Los Angeles, 1938" | — | CH19 closing | ✓ matches (verify year 1938) |
+| CH19 "tracking" language vs. CH20's observational presence | throughout | CH19 | **PARTIAL — see item 16** |
+| CH21 opening "I have to find him NOW" causally triggered by CH20 coda | 957–961 | CH21 opening | **BROKEN — see item 6** |
+| CH21 / frame-close reference to the Malone death | 947 | CH21 | ✓ (pending coda fix) |
+| CH01 flashback match: "A passerby, rushing to avoid" | 839, 935 | CH01 antique-car flashback | **NEEDS VERIFICATION — see item 14** |
+| Wei's "I will try again" karmic bridge lands in Malone's opening hunger to matter | opening | CH18:753–763 | ✓ matches |
+| WWI / France backstory consistent | 427–429 | — | **BROKEN — see item 2** |
+| Two-Brennan name collision | 32, 487 | — | **BROKEN — see item 4** |
+| Lilith's canonical face visible to reader through repetition, not Malone's forensic inventory | 187, 395, 831 | — | **BROKEN — see item 1** |
 
 ---
 
