@@ -28,10 +28,10 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 - **Revision instruction:** **AUTHOR DECISION.** Option A — Rewrite the CH04 temple-passage ambush (the scene where Devaka's guards surround Chandra) to contain the exchange verbatim: Devaka says "Fifteen years counts for something"; Chandra answers aloud "It has always meant nothing." Move or duplicate the content from lines 581/701 into the ambush. Option B — Relax CH05's framing: make it a retrospective compression ("what he would later realize had always been two voices…") rather than a literal exchange in the passage.
 - **Verification:** Either the ambush scene in CH04 now contains both lines as dialogue, or CH05:131–135 no longer claims the lines were exchanged in the passage.
 
-**4. "Emperor" — period-rules violation (17 instances)**
-- **Problem:** Period-rules mandate avoiding "emperor"; draft uses it 17+ times.
+**4. "Emperor" — period-rules violation (23 instances)**
+- **Problem:** Period-rules mandate avoiding "emperor"; draft uses it 23 times.
 - **Source requirement:** period-rules.md lines 64–65: "avoid 'king' (use 'raja' or describe), avoid 'emperor' (describe Ashoka's position)."
-- **Current text:** Lines 1, 11, 21, 31, 119, 147, 149, 157, 193, 207, 277, 317, 417, 433, 491, 791, 1019 all contain "emperor." Example line 1: "the emperor's edict."
+- **Current text:** Lines 1, 3, 11, 15, 19, 21, 31, 61, 119, 121, 147, 149, 157, 193, 207, 277, 317, 323, 417, 433, 491, 791, 957, 1019 all contain "emperor." Example line 1: "the emperor's edict."
 - **Revision instruction:** Global find-and-replace pass. Use the following substitutions depending on context:
 
   | Current phrase | Replace with |
@@ -150,9 +150,9 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 ### Should-Fix (significant but not structural)
 
 **4. Tanner continuity — Alexios references a patient not in the morning montage**
-- **Problem:** L31 has Alexios say "You hesitated with the tanner" — but the three morning patients shown at L23 are a boy with a gash, an old woman with aching joints, and a young man with a cough. A tanner is mentioned only at L105 as part of idle description, after Alexios's line.
+- **Problem:** L31 has Alexios say "You hesitated with the tanner" — but the three morning patients shown at L23 are a boy with a gash, an old woman with aching joints, and a young man with a cough. A tanner appears only at L105, where Philon is organizing "the herbs and linen strips he had used on a tanner's infected foot" — a post-treatment recap that places the tanner later in the morning than Alexios's line. The patient list Alexios references at L31 does not include him.
 - **Source requirement:** Internal continuity.
-- **Current text:** L23: "By mid-morning, three patients had already come and gone. A boy with a deep gash on his forearm… An old woman whose joints ached… A young man with a cough…" L31: "'You hesitated with the tanner,' Alexios said quietly, during a lull between patients."
+- **Current text:** L23: "By mid-morning, three patients had already come and gone. A boy with a deep gash on his forearm… An old woman whose joints ached… A young man with a cough…" L31: "'You hesitated with the tanner,' Alexios said quietly, during a lull between patients." L105: "Philon was repacking his satchel, organizing the herbs and linen strips he had used on a tanner's infected foot…"
 - **Revision instruction:** Insert a fourth morning patient at L23 — the tanner with an infected hand or foot — giving Philon a visible hesitation (he touches the wound, withdraws, resumes). Four or five lines. Example replacement/addition: "A boy with a deep gash on his forearm, cleaned and sutured without complication. An old woman whose joints ached — willow bark, a poultice, reassurance. A tanner whose hand had gone septic where the hide-scraper had bitten; Philon's fingers paused a moment above the swelling before he reached for the cautery iron. A young man with a cough…" Then the L105 "tanner's infected foot" reference should be changed to "tanner's infected hand" (or wherever you placed it) for consistency.
 - **Verification:** Alexios's "You hesitated with the tanner" at L31 has a matching tanner in the preceding patient list, and the L105 reference agrees with the earlier wound site.
 
@@ -187,8 +187,8 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 | Beat | Line | Status |
 |---|---|---|
 | "Snow where no snow fell" (Ka-echo, not Lilith) | 359 | ✓ present |
-| Philon's tragic flaw articulated | 595–597 | ✓ present |
-| "It was not virtue. It was fear wearing virtue's face" | closing | ✓ present |
+| Philon's tragic flaw articulated (hunger to understand virtue) | 599–603 | ✓ present |
+| "It was not virtue. It was fear wearing virtue's face" | 573 | ✓ present (appears at L573, not the closing line; chapter closes on "The hunger remained") |
 | Word count ≈ 10,447 (target ~10k) | whole chapter | ✓ on target |
 | Hippocratic observational ethos | throughout | ✓ present |
 | Xenophobic rumor-surge (Persian poisoning) | scene | ✓ present |
@@ -265,7 +265,7 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 
 | Beat | Line | Status |
 |---|---|---|
-| Bronze stylus compulsively cleaned | 11, 79, 135, 245, 325, 519, 745, 801 | ✓ present |
+| Bronze stylus compulsively cleaned / ritually handled | 11, 85, 135, 245, 325, 519, 745, 801 | ✓ present (L79 — "reached for his stylus" — is reach, not cleaning; actual cleaning motion begins at L85 "began cleaning the stylus, the motion automatic") |
 | Temperate/intemperate scribal inversion | 117 | ✓ present |
 | Forum Boarium traffic stall / cook's timeline | 412–479 | ✓ present |
 | "I was close enough to touch him" sentiment (Marcia's felt proximity) | 381–407 | ✓ present |
@@ -308,7 +308,7 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 - **Verification:** Scenes VIII–IX contain no paragraphs of sustained psychological analysis. Any interior content is fragmentary, sensory, or aphoristic. Chapter word count drops from 14,040 toward the 9,700 budget.
 
 **2. Anachronistic Greek terminology in narration (kenosis, theosis)**
-- **Problem:** period-rules.md:155–160 forbids non-universally-recognizable Greek terms. Draft uses "kenosis" four times and "theosis" twice in narration (one narration use is OK in Theophanes's dialogue at L337, but the narration uses are not).
+- **Problem:** period-rules.md:155–160 forbids non-universally-recognizable Greek terms. Draft uses "kenosis" at three narration lines (with multiple instances packed into L785 — "had read about kenosis, had taught about kenosis, had written elegant explanations of kenosis") and "theosis" three times in narration (plus one acceptable use in Theophanes's dialogue at L337).
 - **Source requirement:** period-rules.md lines 155–160; CH10_draft.md lines 785, 787, 813, 837, 899, 987 (narration).
 - **Current text:** L785: "The fathers spoke of kenosis." L787: "He had never experienced kenosis." L813: "the holy emptiness of kenosis." L837: "more like dying than theosis." L899: "He did not know if this was theosis." L987: "more raw than theosis."
 - **Revision instruction:** Replace every narration instance with period-appropriate English paraphrase. Suggested substitutions:
@@ -321,18 +321,18 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
   Preserve L337 "theosis — union with God" in Theophanes's spoken dialogue (character speech is acceptable; the character unpacks the term in the same breath).
 - **Verification:** Grep CH10_draft.md for "kenosis" — only contexts that are clearly dialogue, if any. Grep for "theosis" — zero outside L337.
 
-**3. Modern psychological vocabulary in narration — 9+ instances**
-- **Problem:** period-rules.md:159 proscribes modern psychological vocabulary. Draft uses "self-image," "structure," "framework," "self-filling" as if they were neutral terms.
+**3. Modern psychological vocabulary in narration — multiple instances**
+- **Problem:** period-rules.md:159 proscribes modern psychological vocabulary. Draft uses "self-image," "structure," "self-filling" as if they were neutral terms.
 - **Source requirement:** period-rules.md line 159 ("Avoid modern psychological vocabulary (e.g., 'trauma response,' 'ego dissolution'). Convey these through behavior and sensation").
 - **Current text:**
 
   | Term | Lines | Current usage |
   |---|---|---|
-  | self-image | 717, 781, 813, 855, 895 | "falling away of false self-image," "the ruins of his self-image" |
-  | structure (psychological sense) | 691, 745, 767, 895 | "structure of his pride," "structure never changed" |
-  | framework | 484, 551, 807 | "framework" |
+  | self-image | 813, 855, 895 | "falling away of false self-image," "the ruins of his self-image" |
+  | structure (psychological sense) | 27, 279, 281, 287, 465, 487, 691, 745, 767, 881, 891, 895, 945 | "structure of his pride," "structure never changed" |
   | self-filling | 789 | "a very sophisticated form of self-filling" |
 
+  (Earlier revision notes listed "framework" at lines 484, 551, 807 — `grep -n framework CH10_draft.md` returns zero hits in the current draft; the term is not present.)
 - **Revision instruction:** Convert each to concrete imagery in desert-appropriate register:
 
   | Current term | Replace with concrete image |
@@ -340,11 +340,10 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
   | false self-image | "the face he had shown himself in the dark" / "the reed-basket portrait" |
   | structure of his pride | "the ladder of his pride" / "the scaffolding he had built" |
   | the structure never changed | "the shape of the thing was unchanged" / "the vessel's wall, hidden, was the same" |
-  | framework | "the frame" / "the reed-bed" / simply "the order he had kept" |
   | self-filling | "a filling with other things — reverence in place of respect, holiness in place of learning — but a filling all the same" |
 
-  One use of "structure" in the chapter is arresting; seven uses is essayistic. Aim for no more than one instance total.
-- **Verification:** Grep CH10_draft.md for "self-image" → zero narration hits; "structure" → at most one hit (ideally zero) in narration; "framework" → zero; "self-filling" → zero.
+  One use of "structure" in the chapter is arresting; thirteen uses is essayistic. Aim for no more than one instance total.
+- **Verification:** Grep CH10_draft.md for "self-image" → zero narration hits; "structure" → at most one hit (ideally zero) in narration; "self-filling" → zero.
 
 **4. Macarius quasi-supernatural awareness of Theodora**
 - **Problem:** avatar-profile.json:62 specifies "he does not recognize their significance" regarding Theodora's markers. Draft shows Macarius consciously inferring her interior state ("She was satisfied. She had been waiting for something") and narrating predator metaphors that over-tell Lilith's nature.
@@ -1009,10 +1008,10 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 - **Revision instruction:** Add a short scene or paragraph in which Malone eats at Clifton's between cases — the pay-what-you-can tray, the redwood-grove dining room, the painted waterfall. A single paragraph (~100 words) in the middle of the chapter (near lines 207 or 517) suffices.
 - **Verification:** Grep CH20_draft.md for "Clifton" — one hit, anchored in the fantasy-forest decor.
 
-**10. "Someone has to give a damn" — repeated nine times, thin two or three instances**
-- **Problem:** The phrase is the chapter's spine and is meant to recur. Nine occurrences becomes stamp rather than refrain.
-- **Current text (sampled):** Lines 433, 689, 731, 763, 793, 803, 963 (and elsewhere — verified at ≥7 instances on first pass).
-- **Revision instruction:** Keep the opening use (line 433 in the woman-on-the-corner aftermath), the flood-aftermath use (line 689 or 731), the pre-death use (line 793 or 803), and the karmic-bridge use (line 963). Replace two or three middle repetitions with closely-adjacent variants: "Someone had to bother," "Someone had to look," "Someone had to name it." Preserve the spine; lose the stamp.
+**10. "Someone has to give a damn" — repeated seven times, thin to four or five**
+- **Problem:** The phrase is the chapter's spine and is meant to recur. Seven occurrences starts to read as stamp rather than refrain.
+- **Current text:** Grep confirms exactly seven hits — lines 433, 689, 731, 763, 793, 803, 963.
+- **Revision instruction:** Keep the opening use (L433, woman-on-the-corner aftermath), one flood-aftermath use (L689 or L731), one pre-death use (L793 or L803), and the karmic-bridge use (L963). Replace two of the tighter repetitions (L731 or L689; L803 or L793) with closely-adjacent variants: "Someone had to bother," "Someone had to look," "Someone had to name it." Preserve the spine; lose the stamp.
 - **Verification:** Grep CH20_draft.md for "Someone has to give a damn" — 4–5 hits, each at an inflection point. No two consecutive uses within 300 words of each other.
 
 **11. Word count ~13,833 vs. 8,000–11,000 target — cut from blackmail-case middle**
@@ -1038,15 +1037,15 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
   - Line 427–429: fix per item 2.
 - **Verification:** Line 4, line 51, line 427–429 all survive (427 reshaped). Line 417 no longer contains "I've seen those eyes before"; the eye-recognition beat appears instead inside the death sequence.
 
-**14. CH01 flashback match — "A passerby, rushing to avoid"**
-- **Problem:** CH01's opening flashback references Malone's death scene. Review cites CH01:9 as a verbatim match; CH20:839 delivers "A passerby, rushing to avoid." and CH20:935 delivers "A passerby. A witness. Nothing more."
+**14. CH01 flashback match — "A passerby, rushing to avoid" [RESOLVED — verified in current draft]**
+- **Problem:** CH01's opening flashback references Malone's death scene. Review cited CH01:9 as the verbatim anchor; CH20:839 delivers "A passerby, rushing to avoid." and CH20:935 delivers "A passerby. A witness. Nothing more."
 - **Source requirement:** CH01 Manchester-opening flashback.
-- **Current text:**
+- **Current text (verified):**
   - CH20:839 — "A passerby, rushing to avoid."
   - CH20:935 — "A passerby. A witness. Nothing more."
-  - CH01 opening (first 30 lines) does NOT contain the phrase on spot-check; the verbatim match the review references is likely deeper in CH01's flashback passage (CH01 opens on Lilith/Silas pillow-talk at sunset; the antique-car flashback arrives later in the chapter).
-- **Revision instruction:** **NEEDS VERIFICATION.** Author to grep CH01_draft.md for "passerby" / "rushing to avoid" / "antique car" and confirm the match. If the verbatim line exists in CH01, no change is required on CH20's side. If CH01's line is phrased differently, CH20:839 should be adjusted to match CH01 (CH01 is the later-read anchor for most readers; CH20 yields).
-- **Verification:** Grep CH01_draft.md for "passerby" — verify match against CH20:839 and CH20:935. Phrasings either align or CH20 is adjusted.
+  - CH01_draft.md:161 — "He shuddered as he recognized those eyes, in another place. Another rainy night, a different city, a passerby. Lilith, but not Lilith, rushing to avoid an antique car. The car was a brand new Buick Roadmaster." The verbal match holds; Silas's flashback references the passerby/rushing-to-avoid beat directly. The review's line reference (CH01:9) was approximate — the actual anchor is at CH01:161, deeper in the chapter after Silas's present-day orientation.
+- **Revision instruction:** [RESOLVED] No change required. Three-way alignment verified: CH20:839 "rushing to avoid" → CH01:161 "a passerby. Lilith, but not Lilith, rushing to avoid an antique car"; CH20:935 "A passerby. A witness. Nothing more." supports the same cross-chapter reference. The Buick Roadmaster detail at CH01:161 also confirms CH20's death-scene vehicle (see item 7).
+- **Verification:** Catalog CH01:161 in the continuity-tracking doc so future revision passes do not accidentally alter either anchor.
 
 **15. SRO geography on Bunker Hill — check internal consistency**
 - **Problem:** Profile establishes Malone's residence as an SRO on Bunker Hill with a Murphy bed, shared bathroom down the hall, alley parking, and stair access. Draft delivers Murphy bed (line 2), thin walls / neighbor coughing (line 2), alley parking (line 311), stair access (line 311). Shared bath not mentioned.
@@ -1089,190 +1088,6 @@ Generated from minor_revisions.md findings. Each chapter's section covers every 
 | WWI / France backstory consistent | 427–429 | — | **BROKEN — see item 2** |
 | Two-Brennan name collision | 32, 487 | — | **BROKEN — see item 4** |
 | Lilith's canonical face visible to reader through repetition, not Malone's forensic inventory | 187, 395, 831 | — | **BROKEN — see item 1** |
-
----
-
-## Chapter 18: Taiping Rebel — Wei Shufen (Nanjing, 1864)
-
-### Critical Fixes
-
-**1. Avatar name and role verified in-draft.**
-- **Problem:** Earlier review raised whether the avatar is named in-scene; profile gives **Wei Shufen**, a literate Taiping rebel during the fall of Nanjing (July 1864).
-- **Source requirement:** `avatar-profile.json` → Wei Shufen, late-stage Taiping, Nanjing; outline → Incarnation 9, 1864.
-- **Current text:** Review noted the name may not appear on-page; verification found the name **is** used in the current draft — appears multiple times in dialogue and narration. [RESOLVED — verified in current draft]
-- **Revision instruction:** No name change required. Confirm first on-page use happens within the first 400 words of Scene 1 so the reader has an anchor.
-- **Verification:** "Wei Shufen" or "Shufen" appears in Scene 1 before the end of the opening unit.
-
-**2. Historical anchor: fall of Nanjing, July 1864.**
-- **Problem:** Review flagged the need for a specific dated anchor (Qing-Xiang Army siege, breach in July 1864, Hong Xiuquan's recent death in June 1864).
-- **Source requirement:** `period-rules.md` → Taiping-specific terminology, dated event, no conflation with earlier Taiping decades.
-- **Current text:** Anchor is established via reference to Hong Xiuquan's death and the Xiang Army at the walls. [RESOLVED — verified in current draft]
-- **Revision instruction:** Keep current anchors. In line-edit pass, make sure Hong Xiuquan is referred to correctly (by title "Tianwang" / "Heavenly King," or by name with appropriate reverence, since Wei is a believer under strain). Do not use retrospective historian's framing ("the doomed Taiping…") within Wei's POV.
-- **Verification:** Reader can date the action to summer 1864, Nanjing, from Scene 1 alone.
-
-**3. Faith-crisis arc: Wei's Taiping Christianity cracks without collapsing into generic atheism.**
-- **Problem:** Review warns against the easy arc of "rebel loses all faith and becomes modern secular." Wei's belief system was a specifically syncretic Chinese Christianity — any fracture should be from *inside* that framework.
-- **Source requirement:** `avatar-profile.json` → Wei's interior life is shaped by Taiping theology (Heavenly Father, Heavenly Elder Brother Jesus, Hong as Younger Brother).
-- **Current text:** Crisis scene preserves the specific theological vocabulary; Wei does not become a nineteenth-century European skeptic. [RESOLVED — verified in current draft]
-- **Revision instruction:** Retain. On line-edit pass, excise any Wei-POV phrasing that reads as generic Victorian-agnostic ("perhaps there is no heaven," "maybe it was all a story"); replace with Taiping-specific doubt ("perhaps the Heavenly Father has withdrawn," "perhaps the Elder Brother has not come").
-- **Verification:** All doubt-phrasing is Taiping-framed, not post-Enlightenment-framed.
-
-### Should-Fix
-
-**4. Military / siege detail — accuracy and restraint.**
-- **Problem:** Review flagged a passage in an earlier draft that over-described siege tactics in a way that read more like a gaming-manual than a terrified participant's experience.
-- **Source requirement:** Avatar is a literate rebel, not a strategist; her experience should be partial, rumor-inflected, close-ground.
-- **Current text:** Siege description is handled through sounds, smells, and rumor — appropriate POV scale.
-- **Revision instruction:** If any "the Xiang Army advanced with X tactics" narration survives, demote it to an overheard fragment from a soldier or passing officer. Keep Wei's ignorance of the larger military picture intact.
-- **Verification:** No omniscient-military-historian sentences in Wei's POV scenes.
-
-**5. Chinese names, titles, and terms — standardize romanization.**
-- **Problem:** Review flagged inconsistent romanization (Wade-Giles / pinyin mixing) and inconsistent capitalization of Taiping titles.
-- **Source requirement:** House style should be consistent — pinyin throughout unless a name has a conventional non-pinyin form (e.g., "Hong Xiuquan" is pinyin and standard).
-- **Revision instruction:** Choose pinyin as house style. Convert any Wade-Giles survivals ("Hung Hsiu-ch'üan" → "Hong Xiuquan"; "Nanking" → "Nanjing"). Capitalize Taiping titles when functioning as titles: "Heavenly King" (title), but lowercased when generic ("the heavenly kingdom was falling"). Italicize *tian* / *shangdi* on first use if introducing as Taiping-specific term; roman thereafter.
-- **Verification:** Full-file search finds no Wade-Giles spellings; title capitalization uniform.
-
-**6. Strip authorial notes / drafting comments.**
-- **Problem:** Cross-chapter issue.
-- **Current text:** Spot-checked; clean. [RESOLVED — verified in current draft]
-- **Revision instruction:** Final grep pass.
-
-**7. Scene-level length: confirm no scene exceeds its beat.**
-- **Problem:** Review noted Scene 5 or 6 (varies by numbering) may linger in the private reflection beat past its structural purpose.
-- **Revision instruction:** Trim the longest reflection passage by 150–250 words, preserving the key theological admission but cutting the accumulating repetitions of doubt.
-- **Verification:** Each scene advances beat or character; no scene stalls.
-
-**8. Lilith's presentation — Wei recognizes her as uncanny, not as demon or goddess in Taiping terms.**
-- **Problem:** Review warned that Wei's faith framework tempts the author to have her name Lilith as a demon (鬼) or as an angel — either would overcommit the metaphysics.
-- **Source requirement:** The encounter is disorienting because Wei's categories do not fit it.
-- **Current text:** Wei reaches for Taiping vocabulary, finds it insufficient, and is left naming-less. [RESOLVED — verified in current draft]
-- **Revision instruction:** Preserve. Do not add a later scene in which Wei settles on a category for Lilith.
-
-### Polish
-
-**9. Sensory palette — Nanjing under siege, July.**
-- **Problem:** Atmospheric texture is present; could sharpen with period-specific sensory markers (summer humidity on the Yangzi, smell of burning, lotus ponds gone brackish).
-- **Revision instruction:** Add one or two specific July-Nanjing details (cicadas, the particular heat of a walled city in a Yangzi summer) in Scene 1 or the quiet scene before the breach.
-- **Verification:** Setting reads as Nanjing-in-July, not generic siege.
-
-**10. Biblical quotation / Taiping scripture — verify wording.**
-- **Problem:** Any quoted Taiping-Christian scripture or hymn should be checked against Taiping published texts (*Taiping zhaoshu*, etc.) rather than King James Bible — Taiping theology altered specific phrasings.
-- **Revision instruction:** If Wei quotes scripture, confirm the phrasing is plausibly Taiping rather than a direct KJV import. If uncertain, render the quotation in reported speech ("she remembered the verse about the Heavenly Father's mercy") rather than direct quotation.
-- **Verification:** No direct KJV phrasings presented as Taiping scripture.
-
-### Positive-checks Table
-
-| Element | Location | Status |
-|---|---|---|
-| Wei Shufen named, role established | Scene 1 | ✓ present |
-| July 1864 Nanjing anchor | Scene 1 | ✓ present |
-| Taiping-specific theology in doubt-phrasing | crisis scene | ✓ present |
-| POV stays close-ground, not omniscient-strategic | throughout | ✓ clean |
-| Lilith uncategorizable within Wei's framework | encounter | ✓ present |
-| No modern-secular drift | throughout | ✓ clean |
-
-### Continuity Checklist (CH18 ↔ CH17, CH19)
-
-| Beat | CH18 line | Partner line | Status |
-|---|---|---|---|
-| CH17 forward-thread names avatar and setting | — | CH17 closing | ✓ matches |
-| CH19 opens with Lilith reflecting on Wei (Taiping-specific vocabulary echo) | — | CH19 opening | ✓ matches |
-| Siege-time / Nanjing July 1864 dating consistent across CH17 forward-tag, CH18, CH19 retrospect | — | — | ✓ matches |
-| Wei's parting refusal to name Lilith | final scene | CH19 opening | ✓ matches |
-
----
-
-## Chapter 20: Noir Detective — Jack Malone (Los Angeles, 1947)
-
-### Critical Fixes
-
-**1. Genre register — noir voice without pastiche collapse.**
-- **Problem:** `minor_revisions.md` flagged the constant tension in noir POV: the voice must carry hard-boiled register (fragmentary sentences, wised-up similes, sensory cynicism) without tipping into parody.
-- **Source requirement:** `avatar-profile.json` → Jack Malone, LA private detective, 1947; outline → Incarnation 10 (final mortal encounter before frame closes), noir register.
-- **Current text:** Voice is largely solid; two or three similes land as self-parody rather than signature.
-- **Revision instruction:** Flag and revise any simile that feels like it could appear in a Raymond Chandler parody (e.g., "she walked in like a cat with a grudge," "the night was as dark as last week's coffee"). Keep the rhythm; sharpen the specificity. Prefer concrete 1947-LA imagery (wartime-surplus, oil fields, smog, bungalow courts) over generic noir.
-- **Verification:** A careful reader cannot tell whether any simile is a Chandler homage or a Chandler parody — they read as Malone's.
-
-**2. 1947 anchor details must be specific and accurate.**
-- **Problem:** Review flagged dated references that must land inside the 1947 window (post-war but pre-1948 political shifts): OPA rent control expiring, returning vets, nascent Cold War, pre-freeway LA.
-- **Source requirement:** `period-rules.md` → concrete 1947 markers; no post-1947 items (the Kinsey report on male sexuality was published 1948; the Dahlia case was January 1947 and is fair game; HUAC hearings for Hollywood Ten were Oct–Nov 1947).
-- **Current text:** Markers are present and mostly accurate; verification found **one** possible timing issue — a reference to an event or product that may be 1948. [NEEDS VERIFICATION against current draft — flag for author check]
-- **Revision instruction:** Author to verify each dated reference against a 1947 timeline. Replace any 1948+ markers with 1947-safe equivalents (e.g., Black Dahlia lingering rumor, HUAC summer subpoenas, the Roswell "weather balloon" news, the Taft-Hartley Act passage).
-- **Verification:** Every dated reference sits inside the Jan–Dec 1947 window.
-
-**3. The final-incarnation frame — avoid over-closure.**
-- **Problem:** CH20 is the last mortal encounter before the novel's frame closes. Review warned against an ending that over-explains the book's whole arc.
-- **Source requirement:** Outline → Jack's encounter ends unresolved, looping back to Lilith's present; narrative reticence preferred to summing-up.
-- **Current text:** Ending resists summing-up; final line lands on a noir image rather than thematic statement. [RESOLVED — verified in current draft]
-- **Revision instruction:** Retain current ending. Specifically: do NOT add any line where Jack (or the narration) gestures at "all the lives before this," "she's been doing this forever," or similar series-level self-reference. Jack knows what Jack can know; the reader carries the weight of the frame.
-- **Verification:** No meta-reference to the larger cycle within Jack's POV.
-
-### Should-Fix
-
-**4. Dialogue — period slang calibration.**
-- **Problem:** Review flagged a handful of slang choices that feel either too early ("groovy" — 1950s jazz) or too late ("heavy" in the counterculture sense — 1960s).
-- **Source requirement:** 1947 American slang: "swell," "jake," "heater" (gun), "gat," "peeper," "dame," "joe," "two bits." Avoid later imports.
-- **Revision instruction:** Sweep all dialogue for slang; check each term against a 1947-appropriate glossary. Particular watch-words: "cool" (1947-safe in jazz sense, risky in general-approbation sense), "groovy" (cut), "heavy" (cut in emotional-weight sense), "okay" (fine), "guy" (fine).
-- **Verification:** No post-1947 slang survives.
-
-**5. Race, gender, and homosexuality — 1947 attitudes, not 2020s retrofits.**
-- **Problem:** Review flagged a few moments where Jack's attitudes read as a contemporary author's sensibility laundered through a 1947 character.
-- **Source requirement:** Historical authenticity: 1947 LA had deep racial segregation (Watts, restrictive covenants upheld until *Shelley v. Kraemer* in May 1948), pervasive misogyny, and homosexuality criminalized and pathologized. Jack can be more decent than average, but he is a product of his time.
-- **Revision instruction:** Preserve Jack's individual decency where shown; trim any internal narration that reads as 2020s ethical commentary on his surroundings. Contempt for racism or misogyny, if present, should be expressed through action or terse cynicism rather than progressive interior monologue.
-- **Verification:** No interior passage reads as a present-day reader's social analysis.
-
-**6. Strip authorial notes.**
-- **Problem:** Cross-chapter issue.
-- **Current text:** Spot-checked; clean. [RESOLVED — verified in current draft]
-- **Revision instruction:** Final grep pass.
-
-**7. Violence economy.**
-- **Problem:** Noir permits a certain level of stylized violence; review warned against either sanitizing or over-wallowing. Current draft lands well but one beat (the alley confrontation or its equivalent) risks tipping into either.
-- **Revision instruction:** Read the violence beat aloud. Cut one descriptive sentence if it reads as gratuitous; add one concrete physical consequence (a tooth, a limp, a bloodied handkerchief) if it reads sanitized.
-- **Verification:** Violence beat is specific, economical, and has aftermath.
-
-**8. Lilith's presentation — femme fatale without becoming only femme fatale.**
-- **Problem:** The noir chapter tempts the author to reduce Lilith to the genre's most obvious female archetype. Review flagged the need for Lilith to inhabit the femme fatale costume while exceeding it.
-- **Source requirement:** Lilith is ancient; Jack is one of many; she wears the noir register fluently but is not defined by it.
-- **Current text:** Lilith enters in femme fatale mode and then exceeds it in the middle scenes; the draft handles this well. [RESOLVED — verified in current draft]
-- **Revision instruction:** Retain. Watch for any line in which Jack's narration re-reduces her to the archetype after the exceeding-moment — such a line would undo the work. Trim if present.
-
-### Polish
-
-**9. LA geography and specificity.**
-- **Problem:** Place-names are present; could sharpen with specific 1947 LA textures (pre-freeway street grid, Bunker Hill still residential, Angels Flight running, Pacific Electric Red Cars).
-- **Revision instruction:** Add one or two specific, dated LA markers — an Angels Flight ride, a Red Car route, a Bunker Hill rooming house — in a scene that would naturally carry them.
-- **Verification:** Reader can place Jack in 1947 LA by texture, not only by named year.
-
-**10. First-person past-tense consistency.**
-- **Problem:** Noir first-person past tense occasionally slips toward present-tense immediacy in action beats; review flagged two or three tense wobbles.
-- **Revision instruction:** Sweep for tense consistency. If any present-tense sentence appears in narration (as opposed to dialogue or Jack's direct-thought italics), convert to past or italicize as direct thought.
-- **Verification:** Narration is tense-consistent in past.
-
-**11. Final-line landing.**
-- **Problem:** The final line is doing a lot of work. Review flagged it as good-but-tunable.
-- **Revision instruction:** Read the final line aloud three times. If it lands each time, leave it. If any reading feels ornamented, cut one word. The last image should be concrete and small.
-- **Verification:** Final line is at most 12 words, concrete, and resists paraphrase.
-
-### Positive-checks Table
-
-| Element | Location | Status |
-|---|---|---|
-| Jack Malone named, profession established | Scene 1 | ✓ present |
-| 1947 LA anchor | Scene 1 | ✓ present (pending one dated-reference check) |
-| Noir voice sustained | throughout | ✓ largely clean |
-| Final-line restraint | ending | ✓ present |
-| No series-level meta-reference in Jack's POV | throughout | ✓ clean |
-| Lilith exceeds femme fatale archetype | middle scenes | ✓ present |
-
-### Continuity Checklist (CH20 ↔ CH19, CH21 / frame-close)
-
-| Beat | CH20 line | Partner line | Status |
-|---|---|---|---|
-| CH19 forward-thread names "Jack Malone, Los Angeles, 1947" | — | CH19 closing | ✓ matches |
-| CH21 / frame-close opens with Lilith carrying the Malone encounter forward | — | CH21 opening | ✓ matches |
-| Jack's parting gesture (last-line image) echoes in Lilith's memory in the frame | final line | CH21 | ✓ matches |
-| No anachronistic foreknowledge of the frame within Jack's POV | throughout | — | ✓ clean |
 
 ---
 
