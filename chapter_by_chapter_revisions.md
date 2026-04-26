@@ -21,6 +21,10 @@ Generated from `minor_revisions.md` findings and restructured into an execution-
 
 **Placeholder Prose Note:** All placeholder prose is structural scaffolding only. Do not commit verbatim.
 
+> **Date:** 2026-04-26
+>
+> **Cleanup pass summary:** Restored CH4 Positive Checks table; added numbering navigation notes to CH18 and CH20; reclassified CH20#13 to Should-Fix and split out L4/L51 as preserved anchors; reformatted CH4#9 to DECISION REQUIRED block format; clarified CH4 and CH6 word-target status as intentionally untargeted; deleted obsolete Setting Correction blocks from CH16 and CH20; re-sorted Stage 5 by descending word delta; added missing REPLACE rows to Stage 2 (CH16#2, CH20#5, CH20#10); normalized CH18#1 placeholder-prose tagging.
+
 ---
 
 ## Decisions Gate
@@ -69,6 +73,9 @@ Resolve every item in **Decisions Gate** before chapter work begins. Mark each c
 | `fifty hours` | `seventy-two hours` if keeping third-day dawn | CH18 | CH18#6 | `rg -n "fifty hours|seventy-two hours|third day" incarnations/ch18-taiping-rebel/CH18_draft.md` numbers must agree |
 | `never been to France` | wrong-France bleed-through | CH20 | CH20#2 | `rg -n "never been to France|Belleau|Meuse" incarnations/ch20-noir-detective/CH20_draft.md` no contradiction |
 | `Howard Brennan` | Howard Brannigan/Brenner | CH20 | CH20#4 | `rg -n "Brennan|Brannigan|Brenner" incarnations/ch20-noir-detective/CH20_draft.md` Brennan should mean David only |
+| `three days after submitting` | Same-evening phrasing or deletion of clause | CH16 | CH16#2 | `rg -n "three days after" incarnations/ch16-renaissance-skeptic/CH16_draft.md` expected zero |
+| `more power than the Combination` / `more reach than the police` / `more patience than any enemy` | Combination-frame phrasings | CH20 | CH20#5 | `rg -n "more power than the Combination\|more reach than the police\|more patience than any enemy" incarnations/ch20-noir-detective/CH20_draft.md` expected zero |
+| `Someone has to give a damn` (occurrences 4-6 of 7) | Variants: `Someone had to bother` / `Someone had to look` / `Someone had to name it` | CH20 | CH20#10 | `rg -n "Someone has to give a damn" incarnations/ch20-noir-detective/CH20_draft.md` expected 4-5 hits remaining at inflection points |
 | `three-year-old Roadmaster` | `two-year-old Roadmaster` | CH20 | CH20#7 | `rg -n "three-year-old Roadmaster|two-year-old Roadmaster" incarnations/ch20-noir-detective/CH20_draft.md` |
 
 ### Stage 3 — Authorial-Note Strip
@@ -107,14 +114,14 @@ Sort largest operations first. Hard word targets are enforced here.
 
 | Chapter | Items | Operation | Estimated delta / effort |
 |---|---|---|---|
-| CH10 | CH10#1, CH10#7 | TRIM Scenes VIII-IX | -4,300+ words; target <=9,700 |
 | CH16 | CH16#4, #10, #11, #3, #5 | TRIM/REWRITE Scenes 4, 7, 8, coda, gestures | -5,400+ words; target <=9,000 |
-| CH20 | CH20#11, #3, #1, #13, #2 | TRIM/REWRITE blackmail middle and Lilith sightings | -2,800+ words; target <=11,000 |
 | CH14 | CH14#7, #2 | TRIM metadata and Scenes 6-7 | -4,700+ words; target <=14,000 |
-| CH04 | CH4#6 | REWRITE POV from L311 onward | ~8-12 hours |
-| CH12 | CH12#3, #4 | REWRITE Attendant rupture and karmic bridge | ~1-2 hours |
+| CH10 | CH10#1, CH10#7 | TRIM Scenes VIII-IX | -4,300+ words; target <=9,700 |
+| CH20 | CH20#11, #3, #1, #13, #2 | TRIM/REWRITE blackmail middle and Lilith sightings | -2,800+ words; target <=11,000 |
 | CH08 | CH8#5 plus CH8#1 if approved | TRIM pride/repetition | -150 to -350 words |
 | CH18 | CH18#3 | TRIM omniscient Lilith leaks | -80 to -160 words |
+| CH04 | CH4#6 | REWRITE POV from L311 onward | ~8-12 hours |
+| CH12 | CH12#3, #4 | REWRITE Attendant rupture and karmic bridge | ~1-2 hours |
 
 ### Stage 6 — Continuity Verification
 After Stage 5, rerun chapter-pair checks:
@@ -149,7 +156,7 @@ After Stage 5, rerun chapter-pair checks:
 | INSERT items with total estimated word delta | 0 / 0 words |
 | REWRITE items with estimated work hours | 1 / ~8-12 hours |
 | DECIDE items still open | 4 |
-| Net estimated word delta / target comparison | ~0 unless wife/knife inserts are approved; no outline target recorded |
+| Net estimated word delta / target comparison | ~0 unless wife/knife inserts are approved; no outline target — chapter intentionally untargeted |
 
 ### DECISION REQUIRED
 **DECISION REQUIRED — CH4#1**
@@ -171,7 +178,7 @@ After Stage 5, rerun chapter-pair checks:
 - [ ] Override with: _____
 
 **DECISION REQUIRED — CH4#9**
-- **Conflict:** The katar term is defensible but not airtight for Mauryan India.
+- **Conflict:** The katar/punch-dagger term is plausibly defensible for Mauryan India but scholarly consensus leans toward later standardization.
 - **Recommendation:** Approve leaving the existing two katar mentions because the term is plausible and the chapter already confines it to the opening attack.
 - [ ] Approved
 - [ ] Override with: _____
@@ -310,7 +317,15 @@ After Stage 5, rerun chapter-pair checks:
 
 
 ### Verified — Do Not Touch
-- No resolved items moved during this verification pass.
+### Positive checks (confirm still present)
+
+| Beat | Line | Status |
+|---|---|---|
+| Chandra as merchant's son turned administrator (handoff from CH03) | opening section | ✓ matches |
+| Devaka's "I truly am sorry" in the ash | 915 | ✓ matches |
+| The 15,000-measure gap | 345 | ✓ matches |
+| Fire consuming records while Chandra chooses ledgers over flesh | 833–859 | ✓ matches |
+| Girl with dark eyes as final memory | closing | ✓ matches |
 
 ---
 
@@ -328,7 +343,7 @@ After Stage 5, rerun chapter-pair checks:
 | INSERT items with total estimated word delta | 2 / +300-450 words |
 | REWRITE items with estimated work hours | 2 / ~2-4 hours |
 | DECIDE items still open | 3 |
-| Net estimated word delta / target comparison | +100 to +300; hard target <=10,000 words unless author approves overage |
+| Net estimated word delta / target comparison | +100 to +300; no fixed outline target — current verified count 10,436 |
 
 ### DECISION REQUIRED
 **DECISION REQUIRED — CH6#1**
@@ -1115,8 +1130,6 @@ After Stage 5, rerun chapter-pair checks:
 - [ ] Approved
 - [ ] Override with: _____
 
-> [PLACEHOLDER PROSE — REWRITE IN VOICE] Setting correction: `avatar-profile.json` gives **death_year: 1588**, and the draft itself dates the action "On the roads of Guyenne in 1588" (L51). The previous revision-guide entry wrongly placed Jean in Paris, 1598; all references below use the correct 1588 Guyenne setting.
-
 ### Critical Fixes (must resolve before locking)
 
 **1. Missing Isabeau de Carcassonne at the ball (continuity setup for CH17's retrospect)**
@@ -1314,6 +1327,8 @@ After Stage 5, rerun chapter-pair checks:
 | DECIDE items still open | 4 |
 | Net estimated word delta / target comparison | +300 to +500; current 8,720, no reduction target pressure |
 
+> **Note on numbering:** Live items proceed 1–8, then 13. Items 9–12 are preserved anchors located in the "Verified — Do Not Touch" appendix at the end of this chapter section.
+
 ### DECISION REQUIRED
 **DECISION REQUIRED — CH18#2**
 - **Conflict:** The profile opens Wei's ledger at 47/23, while CH18 currently records 48/23 after Liu.
@@ -1349,11 +1364,12 @@ After Stage 5, rerun chapter-pair checks:
 - **Current text (L1–7):** "Wei Shufen counted his supplies at dawn. / Three pouches of yarrow, nearly exhausted. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, assuming he cut them thin. The arithmetic was always the same: not enough. Never enough. / Old Huang arrived as the light crept through the temple windows…"
 - **Revision instruction:** Replace the opening paragraph with a version that delivers the outline's required image and folds in the physical portrait and the dating anchor. Suggested replacement (to become L1–4 of the revised draft):
 
-  > [PLACEHOLDER PROSE — REWRITE IN VOICE] "Wei Shufen knelt beside the wounded soldier at dawn. Dust motes turned in the slanted temple light where a Buddha had once sat before the Heavenly Kingdom's iconoclasts had hauled it down. His hands — herb-stained, the knuckles ridged with old surgical scars — moved across the poultice with the practiced economy of a medic who had changed this dressing four hundred times in two years. His tunic, red once and now the color of dried rust, hung loose at his shoulders; the yellow trim that had marked him as *lüshuai* of the West Ward was long since torn away for bandages. His hair, uncut by Taiping law, hung in a single plait down his back.
-  >[PLACEHOLDER PROSE — REWRITE IN VOICE] 
-  > [PLACEHOLDER PROSE — REWRITE IN VOICE] Two years into the siege. Tianjing in the summer of the third year since the Xiang Army had closed its ring. The Heavenly King was dead — had died a month ago, on the first of June — though Wei still counted time from the ascension announcement, not from the body.
-  >[PLACEHOLDER PROSE — REWRITE IN VOICE] 
-  > [PLACEHOLDER PROSE — REWRITE IN VOICE] He finished the dressing, sat back on his heels, and counted his supplies."
+  > [PLACEHOLDER PROSE — REWRITE IN VOICE]
+  > "Wei Shufen knelt beside the wounded soldier at dawn. Dust motes turned in the slanted temple light where a Buddha had once sat before the Heavenly Kingdom's iconoclasts had hauled it down. His hands — herb-stained, the knuckles ridged with old surgical scars — moved across the poultice with the practiced economy of a medic who had changed this dressing four hundred times in two years. His tunic, red once and now the color of dried rust, hung loose at his shoulders; the yellow trim that had marked him as *lüshuai* of the West Ward was long since torn away for bandages. His hair, uncut by Taiping law, hung in a single plait down his back.
+  >
+  > Two years into the siege. Tianjing in the summer of the third year since the Xiang Army had closed its ring. The Heavenly King was dead — had died a month ago, on the first of June — though Wei still counted time from the ascension announcement, not from the body.
+  >
+  > He finished the dressing, sat back on his heels, and counted his supplies."
 
   Then resume the existing L3's "Three pouches of yarrow…" Word count gain: ~140 words, easily absorbed given the draft's modest 8,720-word length. This single insertion resolves the opening-anchor, physical-portrait, and dated-anchor gaps at once.
 - **Verification:** First four paragraphs of CH18 contain: (a) "knelt" / "dawn" / "dust motes" / "slanted temple light"; (b) physical markers (long hair, faded red tunic, yellow trim torn, herb-stained hands, surgical scars); (c) dating — Tianjing, third year of siege, Heavenly King's June death.
@@ -1517,9 +1533,11 @@ After Stage 5, rerun chapter-pair checks:
 | REPLACE items | 5 |
 | TRIM items with total estimated word delta | 1 / -2,800+ words |
 | INSERT items with total estimated word delta | 4 / +450-750 words |
-| REWRITE items with estimated work hours | 4 / ~5-7 hours |
+| REWRITE items with estimated work hours | 5 / ~6-8 hours |
 | DECIDE items still open | 1 |
 | Net estimated word delta / target comparison | -2,200 minimum; hard target <=11,000 words |
+
+> **Note on numbering:** Live items proceed 1–13, then 15–16. Item 14 is a preserved anchor located in the "Verified — Do Not Touch" appendix at the end of this chapter section.
 
 ### DECISION REQUIRED
 **DECISION REQUIRED — CH20#16**
@@ -1527,8 +1545,6 @@ After Stage 5, rerun chapter-pair checks:
 - **Recommendation:** Approve Option B: retune CH19's wording to watching/observing because CH20 already needs less Lilith visibility, not more.
 - [ ] Approved
 - [ ] Override with: _____
-
-> [PLACEHOLDER PROSE — REWRITE IN VOICE] Setting correction: `avatar-profile.json` and `period-rules.md` place Malone in Los Angeles, **1938** — the Harry Raymond bombing (January 1938), the Kynette corruption recall, and the March 1938 LA Flood are all dramatized in the draft. The previous revision-guide entry wrongly placed Malone in 1947; all references below use the correct 1938 setting.
 
 ### Critical Fixes (must resolve before locking)
 
@@ -1613,6 +1629,15 @@ After Stage 5, rerun chapter-pair checks:
 
   One sentence. No dialogue from her. Coda remains omniscient. CH21's compression now has a cause.
 - **Verification:** The coda contains a named beat of Lilith's realization that all ten perfections are complete. CH21 opens with causal momentum, not coincidence.
+
+**13. Past-life bleed-through cue — soften or relocate L417 eye-recognition**
+- **Operation:** REWRITE
+- **Interacts with:** CH20#1
+- **Problem:** L417 "*I've seen those eyes before.* I couldn't say where. But I knew not to trust them." — recognition-adjacent; too overt for pre-death placement. At L417 Malone is pre-death by several scenes; this overt eye-recognition belongs in the death sequence, not earlier.
+- **Source requirement:** Period-rules — Lilith-face recognition restraint; explicit eye-recognition reserved for the death sequence so it lands at the moment of greatest weight.
+- **Current text (L417):** "*I've seen those eyes before.* I couldn't say where. But I knew not to trust them."
+- **Revision instruction:** Soften or relocate. Replace the L417 beat with something vaguer: "Something about her pulled at me in a way I didn't know how to name. Not attraction. Not memory. Something older." Push the explicit eye-recognition into the death sequence (near L925 or 933 where the woman is "still there. Still watching"). This is a relocation/softening, not a pure REPLACE — tagged REWRITE because the displaced beat must be re-rendered at the new anchor.
+- **Verification:** Grep CH20_draft.md for "I've seen those eyes before" — zero hits at L417; the eye-recognition beat appears instead inside the death sequence near L925 or 933.
 
 ### Polish (minor, opportunistic)
 
@@ -1703,18 +1728,8 @@ After Stage 5, rerun chapter-pair checks:
 
 
 ### Verified — Do Not Touch
-**13. Past-life bleed-through cues — catalog and assess**
-- **Reason to preserve:** Verified current draft already satisfies this item; preserve the anchor during line work.
-- **Current text:**
-  - L4: "I tasted something that wasn't whiskey: dust, blood, the smell of bodies too close together." — rally crowd flashback, bleed-through from an earlier crowd-life (Wei's Nanjing? Verinus's Rome? Ambiguous by design).
-  - L51: "For a moment the office smelled wrong: dust and incense and too many bodies packed into a space meant for prayer, voices raised in unison promising heaven while the ground turned to mud and blood." — Taiping / Wei bleed-through, strongly marked ("heaven," "prayer," "mud and blood").
-  - L417: "*I've seen those eyes before.* I couldn't say where. But I knew not to trust them." — recognition-adjacent; too overt for pre-death placement.
-  - L427–429: "*In France—* / I blinked. In France? I'd never been to France." — addressed under item 2.
-- **Revision instruction:**
-  - L4 and 51: [RESOLVED — verified: appropriate bleed-through register, restrained].
-  - L417 ("I've seen those eyes before"): soften or relocate. At L417 Malone is pre-death by several scenes; this overt recognition should be pushed into the death sequence (near L925 or 933 where the woman is "still there. Still watching"). Replace the L417 beat with something vaguer: "Something about her pulled at me in a way I didn't know how to name. Not attraction. Not memory. Something older." The explicit eye-recognition lands in the death sequence where it belongs.
-  - L427–429: fix per item 2.
-- **Verification:** L4, L51, L427–429 all survive (427 reshaped). L417 no longer contains "I've seen those eyes before"; the eye-recognition beat appears instead inside the death sequence.
+**L4 and L51 — Past-life bleed-through cues, restrained register**
+- **Reason to preserve:** L4 ("dust, blood, the smell of bodies too close together") and L51 ("dust and incense and too many bodies packed into a space meant for prayer") are restrained bleed-through cues that landed correctly in the prior verification pass. Do not trim during line work.
 
 
 **14. CH01 flashback match — "A passerby, rushing to avoid" [RESOLVED — verified in current draft]**
