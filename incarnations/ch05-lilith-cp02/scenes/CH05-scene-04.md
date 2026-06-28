@@ -2,7 +2,7 @@
 
 The fire burned in Pataliputra.
 
-Her breath caught in her throat. She watched it through the thread. Smoke rising from warehouses, workers fleeing through compound gates, records scattering like frightened birds. Chandra stood at the threshold between two paths, his calculating mind performing its final calculation: evidence or lives, documents or faces, the ledger or the woman who had looked at him with eyes that asked only to be seen.
+Her breath caught in her throat. She watched it through the thread. Smoke rising from warehouses, workers fleeing through compound gates, records scattering like frightened birds. Chandra stood at the threshold between two paths, his calculating mind performing its final calculation: the records or the people. The southern alley still stood open, the field gate beyond it unbarred, and the workers milled in the smoke with no one to turn their panic toward the gap before the fire closed it. He could reach them. He could reach the documents. He could not reach both.
 
 He chose the records. He chose the burning building. He chose precisely what she would have predicted.
 
@@ -10,11 +10,15 @@ Then a shift.
 
 In the chaos of the fire, in the smoke and screaming and the clarity that catastrophe sometimes granted, her own chest tightened as she felt the pattern of his consciousness *turn*. Calculation remained. He could never be fully free of that, the numbers were woven too deeply into his framework, but it turned toward what the numbers could not hold. The woman with the infant. The elderly worker whose name he had never asked. The faces he had looked away from when looking would have cost him nothing.
 
+And last, surfacing from the welter of his dying mind with a clarity the other faces lacked: a child with dark eyes, watching him from the back of the burning quarter. He had not counted her among the small bodies that morning. He did not know her. Yet she held in his fading awareness like a lamp, and the dying man turned toward her as though she were the question his whole life had been the wrong answer to.
+
+Lilith marked the child and moved past her—one more face among the faces, one more entry in the ledger of what his suffering had taught him. She filed the dark eyes with the woman and the worker and the wrongness she did not examine, and turned her attention forward, and did not look back at what had been looking at him.
+
 He understood. In the moment of choosing wrong, he understood what choosing right would have meant.
 
-The fire took the documents. The fall took his body. Devaka found him in the ash and spoke words that she registered without attending to: *I truly am sorry. It wasn't personal.*
+The fire took the documents. He went out a high window to escape it, and the fall took the rest—she felt the long arc, the body breaking, the ground. Later, in the ash, Devaka crouched over him and said that he was sorry, for whatever that was worth now, and Lilith registered the words without attending to them.
 
-Her shoulders relaxed. Nothing was personal. Everything was calculation. The satisfaction she had felt when the betrayal crystallized, even that had been calculation. Strategic advantage. The manipulation of variables toward a desired outcome.
+Her shoulders relaxed. She heard the apology and reached past it for the calculation underneath—there was always a calculation underneath. Nothing was personal; everything was strategic advantage, the manipulation of variables toward a desired outcome. That a man might sell his friend out of fear, and grieve it, and mean both at once—this was a sum she did not know how to carry, so she did not carry it. The satisfaction she had felt when the betrayal crystallized she filed, too, as calculation, and did not ask why calculation should feel like hunger.
 
 *He learned from this.*
 

@@ -30,7 +30,7 @@ He did not trust his body when it told him something was wrong.
 
 In Manchester, her hands had tightened on the arms of the chair. Rain had given way to a grey stillness outside her window; how long ago, she could not say. Her tea had developed a skin again. The light through the curtains had shifted toward amber.
 
-The temple passage approached in the thread. Guards emerging from shadows. Devaka's confession: *I had hoped you would stop*. Carrying the weight of betrayal that had been building for weeks, that she had accelerated without announcing her presence.
+The temple passage approached in the thread. Guards emerging from shadows. Devaka's confession: *I was hoping you'd stop, Chandra*. Carrying the weight of betrayal that had been building for weeks, that she had accelerated without announcing her presence.
 
 She leaned into the moment, letting it dominate.
 
