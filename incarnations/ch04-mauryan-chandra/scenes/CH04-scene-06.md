@@ -46,7 +46,7 @@ The lamp's light caught movement at the edges of the storage chamber. Figures em
 
 I turned back to Devaka, understanding arriving with the cold clarity of a calculation completed too late. My former partner's hands hung at his sides, no longer trembling, his face wearing an expression I finally recognized.
 
-Relief. The relief of a man whose difficult task was finally complete.
+Relief. The relief of a man who had dreaded a thing, and put it off as long as fear would let him, and now had only to stand still while it finished.
 
 "The evidence." One of the guards stepped forward, his hand extended toward the satchel I still clutched against my chest. His voice carried the flat authority of someone accustomed to obedience. "You will surrender it now."
 
@@ -56,19 +56,19 @@ Vikram and Vasumitra had been offered up to satisfy an investigation. Now I woul
 
 "How long?" The question emerged without conscious decision, directed at the man I had trusted for fifteen years.
 
-Devaka met my gaze, and for a moment something that might have been regret flickered across his features. "Since before Nagasena's audit. They approached me when word reached them that a Dharma-Mahāmātra had been assigned to review the district's granaries."
+Devaka met my gaze, and for a moment something that might have been regret flickered across his features. "Since the case closed. Since you would not let two thousand measures be the end of it." The admission came slowly, each word paid out like coin he could not afford. "When you kept digging, they came to me—not to recruit a conspirator, but to buy a friend. They made it plain that a man who walked beside a doomed investigator would lie in the same grave. I told myself the parallel inquiries were mercy, that steering you wide of the evidence would steer you wide of the blade. By the time I understood what I had agreed to, I had already agreed to it."
 
-"And the evidence you provided? The investigation you helped me conduct?"
+"And the years before this? The evidence you brought me? The investigation you helped me conduct?"
 
-"Real enough." His mouth curved into something that was not quite a smile. "I needed to know how much you had discovered, and where your inquiries had led. The best way to learn what someone knows is to pretend to share their suspicions."
+"Real." His mouth curved into something that was not quite a smile, that did not survive the saying. "All of it real. Fifteen years of it real. That is the part you will not forgive—that there was no long deceit, no patient enemy at your shoulder from the start. Only a friend who broke, late, when the cost of standing beside you came due. I gave you true figures because I believed in the work, and in you. I betrayed you because I was afraid. Both are true. I have stopped trying to make them cancel."
 
 The guards were closer now, the circle tightening. I could feel their presence pressing against me like the darkness had pressed moments before—patient, professional, complete.
 
 "The temple passage. Brother Ananda."
 
-"Cooperated willingly once the alternatives were explained." Devaka's voice carried no satisfaction, only the flat recitation of arrangements made and executed. "His debt to me was real. His willingness to honor it under observation was… encouraged."
+"They reached him the way they reached me—these past days, not before." Devaka's voice carried no satisfaction, only the flat recitation of arrangements made under duress. "His debt to me was real. They learned of it and used it. He guided us because they left him no safer road, and he will not sleep for it any more than I will."
 
-The architecture of the betrayal revealed itself with terrible clarity. Every step of the journey had been watched. Every moment of apparent progress toward Nagasena had been permitted because it led here, to this chamber, to this surrender. The conspiracy had not merely anticipated my investigation—it had guided it, shaped it, used my own determination against me.
+The architecture of the betrayal revealed itself, and it was not the architecture I had feared. There had been no long design, no patient hand guiding my every step from the pillar ceremony to this chamber. The conspiracy had not foreseen my investigation. It had reacted to it—late, and frightened—in the short span since I refused to let the small case bury the larger one, reaching for the one man close enough to me to do this thing, and finding him afraid enough to do it.
 
 "The conspiracy will protect itself." Devaka spoke as if completing a lesson he had begun long ago. "It has protected itself for longer than either of us has been alive. The grain flows, the profits accumulate, the system continues. Your investigation was never going to change that. The only question was how much damage you would cause before being stopped."
 
@@ -92,7 +92,7 @@ The last thing I saw before the darkness swallowed me was Devaka's face, illumin
 
 "I was hoping you'd stop, Chandra. For your own sake." His voice followed into the darkness. "I truly was."
 
-The words meant nothing. They had always meant nothing. I had simply lacked the numbers to calculate their worthlessness.
+The words were not nothing. That was the cruelty of it. The regret was true, the way the fifteen years had been true, and neither had been enough to stay his hand. I had built my life on numbers because numbers could not love you and sell you in the same breath. I had never learned to price the thing that could.
 
 The guards led me away, and the darkness closed around me, and somewhere above, the temple shrine continued its ancient rhythms, indifferent to the transactions conducted in its foundations.
 
@@ -100,6 +100,6 @@ The guards led me away, and the darkness closed around me, and somewhere above, 
 
 The holding cell released me at dawn, not into freedom but into a different kind of confinement.
 
-The guards who escorted me from the palace complex spoke no words, offered no explanations, simply delivered me to the administrative compound where Pradeshika Sumitra waited with an expression I could not read.
+The guards who escorted me from the palace complex spoke no words, offered no explanations, simply delivered me to the administrative compound where Pradeshika Sumitra waited, his features carefully composed.
 
 "Rājuka Chandra." Sumitra stood in the courtyard, the morning light harsh against features that seemed to have aged overnight. "You will lead the raid on the granary complex. Immediately."

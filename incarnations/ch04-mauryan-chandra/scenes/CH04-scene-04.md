@@ -42,11 +42,9 @@ Fifteen thousand measures. That was what Nagasena had estimated before an eight-
 
 The discrepancy was not minor. It was not a rounding error or a difference in methodology. The inspector's preliminary calculations suggested theft on a scale seven times larger than the conspiracy I had exposed.
 
-I pulled fresh palm leaves from my desk, my stylus moving with the automatic precision of long practice. Cross-referencing Vikram's testimony against Nagasena's warehouse-by-warehouse analysis. Checking transportation capacities, collection point yields, the maximum throughput of the network Vasumitra had coordinated.
+Even granting that Nagasena might have overstated his estimates, that some irregularities had innocent explanations, the gap would not close. Vikram's warehouse lacked the capacity, his network the reach, his contacts the access. His operation could not have diverted fifteen thousand measures, and I knew it the way I knew the weight of a short sack.
 
-The numbers did not fit. Even with generous assumptions—even granting that Nagasena might have overstated his estimates, that some irregularities had innocent explanations—the gap remained vast. Vikram's operation could not have diverted fifteen thousand measures. His warehouse lacked the capacity, his network lacked the reach, his contacts lacked the access.
-
-The lamp beside me sputtered and died, leaving only moonlight through the window. I sat in the darkness, the palm leaves cool beneath my fingers, and felt the satisfaction of the evening's work drain away like water through cracked clay.
+The lamp beside me sputtered and died, leaving only moonlight through the window. I sat in the darkness and felt the satisfaction of the evening's work drain away like water through cracked clay.
 
 The conspiracy I had exposed was real. But it was not the conspiracy that had prompted Nagasena's audit.
 
@@ -116,9 +114,7 @@ Fifteen thousand measures remained unaccounted for.
 
 Evening found me alone in my quarters, the closure report filed and sealed, the official investigation concluded with all appropriate formalities observed. My arm throbbed beneath its bandages, the wound not yet fully healed, a reminder of the blade that had started everything and the conspirators who had sent it.
 
-The discrepancy would not release me. I had reviewed Vikram's testimony again after the ceremony, had cross-checked every figure against Nagasena's preliminary estimates, had searched for some calculation error or methodological difference that might explain the gap between what I had found and what the inspector had projected.
-
-The gap remained. Thirteen thousand measures of grain, diverted through channels the official investigation had not touched, protected by a conspiracy that had offered up its minor components to shield its true architecture.
+The discrepancy would not release me. Thirteen thousand measures of grain, unaccounted for—diverted through channels the official investigation had not touched, protected by a conspiracy that had offered up its minor components to shield its true architecture.
 
 I should report my concerns. The proper course was clear—document the discrepancy, submit it through official channels, allow my superiors to determine whether additional investigation was warranted. That was what the emperor's service demanded. That was what my oath required.
 
@@ -128,8 +124,6 @@ The conspiracy had not merely stolen grain. It had woven itself into the fabric 
 
 I sat in the darkness of my quarters, the moonlight falling across documents that represented a truth too small to satisfy and too complete to question, and made a decision that would determine everything that followed.
 
-I would look. Privately rather than officially, using my own access rather than channels that had been designed to fail—my own skills, my own merchant's instinct for numbers that did not add correctly. I would find where the thirteen thousand measures had gone, would trace the channels that Vikram's sacrifice had been meant to conceal, would uncover the architecture of a conspiracy that had operated for years beneath the administration's unseeing gaze.
+I would look. Privately rather than officially, using my own access rather than channels that had been designed to fail—my own skills, my own merchant's instinct for numbers that did not add correctly. I would find where the thirteen thousand measures had gone, would trace the channels that Vikram's sacrifice had been meant to conceal.
 
-The ledger did not balance. It had never balanced.
-
-And I had spent thirty-four years learning that unbalanced ledgers always concealed a truth someone wished to hide.
+And I had spent thirty-four years learning that an unbalanced ledger always concealed a truth someone wished to hide.
