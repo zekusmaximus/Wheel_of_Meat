@@ -14,13 +14,9 @@ The pattern emerged on the seventeenth night.
 
 I sat surrounded by palm leaves arranged in configurations that would have meant nothing to anyone who had not spent twelve years learning to read the hidden language of commerce. Transportation logs cross-referenced against collection point records. Harvest assessments compared to warehouse receipts. Market prices tracked across three adjacent districts, their fluctuations mapped against the timing of imperial grain distributions.
 
-I was not reviewing data. I was creating it—synthesizing information from dozens of sources into patterns that no single document revealed, building a picture of grain movement that existed nowhere except in the connections my merchant's mind could draw between fragments of official record.
-
 The collection points told the story first.
 
-Grain moved from field to collection point in quantities recorded by local assessors, weighed on scales maintained by district officials, documented in registers that accumulated in the provincial archives. I had obtained copies of these registers through requests that cited agricultural research, irrigation planning, anything that would not trigger the attention of whoever might be watching for signs of continued investigation.
-
-The weights at collection were consistent. Farmers delivered grain in quantities that matched expected yields, that correlated with rainfall patterns and planting schedules, that showed no evidence of systematic underreporting at the source. The theft was not happening in the fields.
+Grain moved from field to collection point in quantities recorded by local assessors, weighed on scales maintained by district officials, documented in registers that accumulated in the provincial archives. The weights at collection were consistent. Farmers delivered grain in quantities that matched expected yields, that correlated with rainfall patterns and planting schedules, that showed no evidence of systematic underreporting at the source. The theft was not happening in the fields.
 
 But the weights at warehouse receipt were different.
 
@@ -28,25 +24,29 @@ The differences were subtle rather than dramatic—discrepancies distributed acr
 
 I mapped the discrepancies across the seven warehouses Nagasena had flagged. The pattern that emerged was not random. Collection points feeding the same transportation routes showed similar loss rates. Routes controlled by the same transport coordinators showed consistent patterns of shrinkage. The theft was happening in transit, skimmed in small amounts from hundreds of shipments, aggregating into volumes that dwarfed Vikram's warehouse operation.
 
-I calculated the totals three times, certain I had made an error. The numbers remained unchanged.
-
-Twenty-three thousand measures. Minimum.
-
-The figure sat on the palm leaf before me like a weight too heavy to lift. Twenty-three thousand measures diverted over eighteen months through a system so distributed that no single point of failure could expose it. A conspiracy that was the administration itself, woven into the fabric of collection and transport and storage until theft and governance became indistinguishable.
+I calculated the totals three times, certain I had erred. The pattern held, but the figure it implied was a thing I could not hold—the inference ran past anything my own documents could prove. I could see the shape of the theft. I could not put a number to its face. For that I needed a name on a contract, and the names that mattered lay in ledgers the trading houses never surrendered to assessors.
 
 My hand began to tremble. Not from weakness, but from the weight of comprehension my mind had not yet processed. I set down the stylus before my fingers could betray me further.
 
-The trading houses appeared next in my analysis.
+---
 
-I had obtained futures contracts through a contact in the guild archives—a clerk who owed me a favor from my merchant days, who had provided copies without asking questions I could not have answered. The contracts predated Nagasena's audit by six months, their terms suggesting that the major trading houses had known about the diverted grain—and had positioned themselves to profit from it—long before any official investigation began.
+The clerk's name was Jivaka, and he had owed me a discretion since our merchant days—a debt I had never thought to call until I needed grain futures no honest office would show me. He came himself, after dark, to a storeroom behind the guild archives where the contracts no one consulted gathered their dust.
 
-They were not just receiving stolen goods. They were financing the operation.
+Fear had aged him, or I had never before had cause to see him afraid. His hands shook as he set the bundle on the table between us—not the slight tremor of a man hiding a small theft, but the deep, helpless shaking of one who believed himself already dead.
 
-The names on the contracts connected to families throughout the provincial administration. Relatives in assessment offices, former partners serving as regional inspectors, guild brothers who had transitioned to government service and maintained their old loyalties. A web of relationships that transformed the emperor's bureaucracy into an instrument of systematic theft, protected by the very structures meant to prevent it.
+"You should not have asked for these," he said, and did not sit. "But the debt was real, and I have grown tired of filing lies I am forbidden to read."
 
-I stared at the documents spread across my desk—the accumulated evidence of an architecture so vast that exposing it through normal channels was impossible. Every official who might investigate had connections to the conspiracy. Every channel through which complaint might travel had been compromised. The system had not been corrupted. The system was corruption, organized and institutionalized and protected by the very mechanisms of governance.
+I unwrapped the contracts. The terms resolved with the awful clarity of a sum I had hoped would not come out even: futures sold on grain that stood in no honest register, sold six months before the Dharma-Mahāmātra ever signed his audit. The great houses had not merely received stolen grain. They had financed the theft in advance and contracted to sell its yield—the way I had once sold a harvest still standing green in the field.
 
-I understood now why Nagasena had been marked for death. The Dharma-Mahāmātra's audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's true nature. The blade served a different purpose—the system defending itself against revelation rather than punishing discovery.
+"How much moves through here?" I kept my voice level, the merchant's trick, though the figure I had carried for seventeen nights pressed against my teeth.
+
+"More than you have counted." His gaze went everywhere but my face. "I have seen the houses' own reconciliations—the true ledgers, not the ones we hand the assessors. Twenty-three thousand measures, the last cycle alone. Perhaps more. They no longer trouble to hide it from one another." His voice fell to nothing. "Half the names on those leaves have a cousin in the provincial offices. The men who would investigate the theft are the men who arranged it. That is why I am a dead man for handing you this. There is no office left to carry it to."
+
+Twenty-three thousand measures. A stranger's frightened certainty laid against the figure I had built alone in the dark, and the two agreed. The number stopped being inference and became fact, delivered by a man too afraid to lie.
+
+Back in my office, with the contracts spread beside my own palm leaves, the architecture assembled itself and offered no comfort. Every official who might investigate had ties to the conspiracy. Every channel through which a complaint might travel had been compromised. The system had not been corrupted. The system was corruption, organized and institutionalized and protected by the very mechanisms of governance.
+
+I understood now why Nagasena had been marked for death. His audit had threatened to expose not a criminal enterprise hiding within the administration, but the administration's true nature. The blade served a different purpose—the system defending itself against revelation rather than punishing discovery.
 
 The lamp on my desk flickered, its oil nearly exhausted. I reached to adjust the wick and found my hands still trembling, the physical manifestation of knowledge my body understood before my mind could accept.
 
@@ -76,7 +76,7 @@ The confession should have brought anger. Instead, I felt only the cold clarity 
 
 He leaned forward, his voice dropping to barely above a whisper.
 
-"The conspiracy knows you're still investigating. They've known for at least a week—the clerk who provided your futures contracts reported your request within hours of making the copies. The only reason you're still alive is that killing a Rājuka so soon after the official case closed would raise questions they prefer not to answer."
+"The conspiracy knows you're still investigating. They've known for at least a week—the moment you asked the guild archives for those futures contracts, the request tripped a wire. The houses watch their own records. The only reason you're still alive is that killing a Rājuka so soon after the official case closed would raise questions they prefer not to answer."
 
 I absorbed the information with the same detachment I had applied to the grain calculations. My life, reduced to a variable in someone else's equation. My survival, contingent on the conspiracy's preference for subtlety over direct action.
 
@@ -106,7 +106,7 @@ Devaka's expression flickered—surprise, perhaps, or the recognition that the c
 
 "Not through official channels." I leaned forward, the plan taking shape as I spoke. "The temple complex. Nagasena's quarters adjoin the palace shrine. The priests maintain their own passages, separate from the administrative routes."
 
-Devaka was silent for a long moment, his face unreadable in the guttering lamplight. When he spoke, his voice carried something that sounded almost like respect.
+Devaka was silent for a long moment, his face shadowed in the guttering lamplight. When he spoke, his voice carried something that sounded almost like respect.
 
 "You've thought about this."
 
@@ -138,19 +138,13 @@ He left before I could respond, his footsteps fading into the darkness of the co
 
 ---
 
-I sat alone with the evidence of a conspiracy that had swallowed everything I thought I understood about the world I served. The lamp gave a final sputter and died, leaving only moonlight to illuminate the palm leaves spread across my desk—the accumulated proof of theft so vast it defied comprehension, the documentation of a system that had transformed governance into organized predation.
+I sat alone with the evidence of a conspiracy that had swallowed everything I thought I understood about the world I served. The lamp gave a final sputter and died, leaving only moonlight to illuminate the palm leaves spread across my desk.
 
-Tomorrow we would attempt to reach Nagasena. Tomorrow we would either expose the truth or be destroyed by it.
+I thought about Devaka's words. Fifteen years counts for something. The statement could be read as loyalty or as manipulation, as the genuine sentiment of a man seeking redemption or as the calculated positioning of a conspirator preparing his next betrayal. I could not tell which. I had spent thirty-four years learning to read numbers, and numbers had never lied to me. People were different. People contained calculations I had never learned to perform.
 
-I thought about Devaka's words. Fifteen years counts for something. The statement could be read as loyalty or as manipulation, as the genuine sentiment of a man seeking redemption or as the calculated positioning of a conspirator preparing his next betrayal.
+But the numbers were clear. Twenty-three thousand measures diverted through a system that had made theft indistinguishable from governance. A conspiracy that had already decided I was a problem requiring solution. The numbers left only one path forward.
 
-I could not tell which interpretation was correct. I had spent thirty-four years learning to read numbers, and numbers had never lied to me. People were different. People contained calculations I had never learned to perform.
-
-But the numbers were clear. Twenty-three thousand measures diverted through a system that had made theft indistinguishable from governance. An administration so thoroughly corrupted that exposure through normal channels was impossible. A conspiracy that had already decided I was a problem requiring solution.
-
-The numbers left only one path forward.
-
-I gathered the documents into bundles, my movements careful despite the darkness. Tomorrow I would either reach Nagasena or I would not. Tomorrow I would either expose the truth or become another entry in the ledger of officials who had discovered too much and disappeared too conveniently.
+I gathered the documents into bundles, my movements careful despite the darkness. Tomorrow I would either reach Nagasena or become another entry in the ledger of officials who had discovered too much and disappeared too conveniently.
 
 The moonlight fell across my desk as I worked, silver and cold and indifferent to whatever choice I made.
 

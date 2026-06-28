@@ -36,9 +36,9 @@ I stopped before a stack in the fourth row, where the inventory marker claimed s
 
 But the weight was wrong.
 
-I had not consciously decided to test the sacks. My hand simply closed on the nearest one, fingers pressing into the burlap with the automatic assessment I had developed over twelve years of merchant work. A standard drona of first-quality rice weighed fourteen kilograms, its density consistent enough that experienced handlers could estimate a sack's contents by feel alone. I had performed this evaluation thousands of times, in warehouses across three provinces, until the knowledge had settled into my body like a second language.
+I had not consciously decided to test the sacks. My hand simply closed on the nearest one, fingers pressing into the burlap with the automatic assessment I had developed over twelve years of merchant work. A full drona of first-quality rice had a heft a handler's palm learned before he learned his letters—a density so consistent that the body could judge a sack's contents by feel alone, no scale required. I had performed this evaluation thousands of times, in warehouses across three provinces, until the knowledge had settled into my body like a second language.
 
-This sack weighed perhaps twelve kilograms. Possibly less.
+This sack rode light in my hand. A full part short of what it should have been, possibly more—the kind of shortfall the body registers before the mind can name it.
 
 I lifted a second sack, then a third. The weight discrepancy held consistent—each measure approximately fifteen percent lighter than it should have been. Not enough to notice during casual handling, when laborers moved dozens of sacks per hour and seldom paused to consider individual weights. Enough to represent a significant shortage if multiplied across an entire warehouse.
 
@@ -68,7 +68,7 @@ Vikram's expression had completed its transition from careful attention to somet
 
 "Performed by my staff, as regulations require."
 
-I looked at the sack before me, its violated seal now obvious evidence of tampering. I looked at Vikram, whose trembling hands had steadied into the posture of a man preparing to defend himself. I looked at Devaka, standing three paces behind me with an expression I could not interpret from this angle.
+I looked at the sack before me, its violated seal now obvious evidence of tampering. I looked at Vikram, whose trembling hands had steadied into the posture of a man preparing to defend himself. I looked at Devaka, standing three paces behind me, his face turned half away in the warehouse dark.
 
 The numbers were clear. The weight discrepancy was measurable, repeatable, prosecutable. Vikram had signed for shipments that did not match their documentation, had either failed to notice or actively concealed the substitution, had participated in fraud against the emperor's granaries for at least three months and possibly much longer.
 

@@ -76,6 +76,6 @@ The words were correct. The delivery was flawless. I searched his face for any s
 
 I turned and continued across the courtyard, leaving Devaka to his tasks. The sun pressed down on my shoulders, and my arm burned beneath its bandages, and somewhere in the administrative complex around me, conspirators were already moving to protect themselves.
 
-I did not look back. If I had, I might have seen Devaka's expression shift as he watched me go—a flicker of something that was neither loyalty nor its opposite, but rather the complicated calculus of a man weighing debts against interests.
+I did not look back. If I had, I might have seen Devaka's expression shift as he watched me go—a flicker of something I would not understand until far too late, the look of a loyal man beginning to reckon what his loyalty might cost.
 
 But I did not look back. I had numbers to examine, and numbers had never betrayed me.

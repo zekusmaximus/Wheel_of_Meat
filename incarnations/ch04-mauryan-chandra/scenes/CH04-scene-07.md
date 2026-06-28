@@ -58,17 +58,17 @@ The captain's voice cut through the chaos, redirecting the guards from their det
 
 Sabotage. The word formed in my mind with cold clarity. The fire had started in multiple locations, the flames spreading from points too widely distributed to represent accident. Someone within the conspiracy had decided that the sacrificial arrests were insufficient, that the workers who might testify to what they had seen needed to be silenced more permanently.
 
-The residential quarters were burning now. The fire had reached the eastern wing where the workers had been herded, where the woman with the infant and the elderly man and the children pressed against their mothers' legs were trapped between spreading flames and the chaos of evacuation efforts focused on saving grain rather than people.
+The residential quarters were burning now—but not yet sealed. The fire had taken the eastern roofs and was working its way along the northern row, and the guards who might have driven the people clear had been pulled to the warehouses, leaving the workers leaderless, milling in the smoke, too frightened to find the way they could not see. I could see it for them. The southern alley still stood open, the flames a dozen paces short of its mouth, the field gate beyond it unbarred. A man who reached them now, who took hold of the panic and turned it, could put the whole knot of them through that gap before the fire closed it. Forty-odd people. There was time. Not much. Enough.
 
 I could hear them. Screaming. The thin sounds that had begun when the raid started, but amplified now by terror, multiplied by dozens of voices raised in the universal language of people facing death.
 
-The central records building stood untouched. The flames had begun in the eastern wing and were spreading north and south, but the administrative complex remained clear, a pocket of relative safety in the growing inferno. The palm-leaf bundles I had spent weeks pursuing—inventory records, transportation logs, the accumulated documentation of eighteen months of systematic theft—all of it waited in that building, vulnerable to flames that had not yet reached it.
+The central records building stood untouched. The flames had begun in the eastern wing and were spreading north and south, but the administrative complex remained clear, a pocket of relative safety in the growing inferno. The palm-leaf bundles I had spent weeks pursuing—inventory records, transportation logs, the accumulated documentation of eighteen months of systematic theft—all of it waited in that building, the flames not yet reached it.
 
-I could save the evidence. I could reach the records building, secure the documents, preserve the proof that might yet bring the conspiracy to justice. The path was clear, the distance manageable, the time sufficient if I moved now.
+I could save the evidence. I could reach the records building, secure the documents, preserve the proof that might yet bring the conspiracy to justice. The path was clear, the distance manageable. I told myself the time was sufficient if I moved now.
 
-Or I could go to the residential quarters. To the workers still trapped in the burning wing, to the woman with the infant and the elderly man and the children whose screams were growing louder as the flames closed around them. I could try to reach them, try to lead them out, try to do something other than watch while they died.
+Or I could go to the southern alley and lead the workers out—the woman with the infant, the elderly man, the children pressed against their mothers' legs. Take the gap before it closed. Do something other than watch while they died.
 
-The mathematics arranged themselves with brutal clarity. Save the records: preserve evidence that could prosecute dozens of conspirators, prevent future theft affecting thousands of families. Save the workers: preserve perhaps thirty lives, people who would be replaced within weeks by other laborers equally vulnerable to the system's predations.
+The mathematics arranged themselves with brutal clarity. Save the records: preserve evidence that could prosecute dozens of conspirators, prevent future theft affecting thousands of families. Save the workers: preserve forty lives that stood, at that moment, within my reach—people the system counted as nothing, who would be replaced within weeks by other laborers equally vulnerable to its predations.
 
 I stood between the two paths.
 

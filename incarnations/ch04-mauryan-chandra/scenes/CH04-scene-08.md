@@ -12,15 +12,11 @@ A shadow fell across my face, blocking the haze-filtered sun. Devaka stood over 
 
 I tried to speak. My throat produced only a ragged sound, the words lost to damage I could not assess. Devaka watched my attempt without moving to help, his hands remaining at his sides.
 
-"The fire was not supposed to spread so quickly." He spoke as if explaining a calculation that had produced unexpected results. "The workers were meant to be evacuated before—" He stopped, his mouth closing on whatever justification he had been preparing to offer.
+"The fire was not supposed to spread so quickly." He spoke as if explaining a calculation that had produced unexpected results. "The workers were meant to be clear of it before—" He stopped, his mouth closing on the justification. There was none that would survive being spoken, and he knew it, and for once he did not try.
 
-Devaka crouched beside me, his movement bringing his face closer. I could see the details now—the tension around his eyes, the slight pallor beneath his skin, the way his hands had resumed their familiar tremor. He was not unaffected by what had happened. He simply could not allow that effect to change what he had done.
+He crouched beside me. I could see the details now—the tension around his eyes, the slight pallor beneath his skin, the way his hands would not hold still. He had come back to look at what he had done. Not to explain it. Not to soften it. To look.
 
-"The conspiracy will survive this." His voice had dropped to barely above a whisper. "It has survived worse. In a month, the warehouses will be rebuilt. In a year, the grain will flow through the same channels. The officials who died today will be replaced by others who understand how the system works and what it requires."
-
-He paused, something shifting in his expression—regret winning, briefly, over calculation.
-
-"I truly am sorry, Chandra. It wasn't personal. None of it was personal. You were simply in the way of something larger than either of us, and you were too skilled at your work to be redirected by the usual methods."
+"I am sorry." Nothing followed the words. He had spent his explanations in the temple, and the account stood between us already, and he did not insult either of us by reading it again over my body.
 
 He stood, his shadow withdrawing from my face, the bronze sun resuming its pressure against my closed eyes.
 
@@ -54,7 +50,7 @@ She had been looking for something. Not rescue—she had known by then that resc
 
 She had been looking for someone to see her.
 
-Not the worker. Not the number. Not the fifty-four kilograms of flesh and bone and blood that my mind had automatically calculated while my feet carried me away. She had been looking for someone to acknowledge that she existed, that her terror was real, that the child in her arms mattered to someone besides herself.
+Not the worker. Not the number. Not the weight my mind had reckoned without being asked to—woman and infant together, judged in the same breath I would have judged a grain sack swung up onto a cart. She had been looking for someone to acknowledge that she existed, that her terror was real, that the child in her arms mattered to someone besides herself.
 
 I had not seen her. I had seen the calculation she represented, the weight she carried, the entry she would become in whatever ledger recorded the day's losses. I had not seen her face, though I had looked directly at it. I had not seen the person behind the number, though she had tried to show me.
 
@@ -74,49 +70,15 @@ I had not noticed the farmer's hands. I noticed them now, in the memory that dyi
 
 I had not looked at those eyes. I had looked at the grain. I had calculated the weight and the quality and the potential return, and I had congratulated myself on a transaction well executed.
 
-Sixteen karshapanas of profit. The cost of not seeing a human being.
+Sixteen karshapanas of profit.
 
 ---
-
-The clerk who had delivered Nagasena's preliminary audit, nine days before the assassination attempt.
-
-His name had been—I searched again, found nothing again. A young man, perhaps nineteen, his robes slightly too large for his thin frame, his hands trembling as he extended the palm-leaf bundle toward my desk.
-
-Trembling. I noticed that now. I had not noticed it then.
-
-"The Dharma-Mahāmātra's report, sir. He instructed me to deliver it personally."
-
-I had taken the documents without looking up. My attention had been fixed on a transportation manifest, the numbers not quite balancing, the discrepancy requiring resolution before I could proceed to other matters.
-
-"Leave it there."
-
-The clerk had hesitated. His feet had shifted on the floor—I heard that now, in the memory. The soft sound of sandals against stone, the shuffle of someone who wanted to speak but feared the speaking.
-
-"Sir, the inspector asked me to tell you—"
-
-"I said leave it."
-
-The clerk had left. I had not looked up. The transportation manifest had consumed another hour of my attention before I finally turned to Nagasena's report, by which time the clerk had long since departed and whatever message he had been instructed to deliver had vanished into the silence of unasked questions.
-
-Had the clerk known something? Had Nagasena sent a warning through a messenger young enough to seem harmless, hoping I might listen to what I would not listen to from official channels?
-
-I would never know. I had not seen the clerk. I had seen only an interruption, a delay, a distraction from the numbers that required my attention.
-
----
-
-The memories continued to surface, each one a small failure of presence that I had not recognized as failure at the time.
-
-The widow who had come to petition for her husband's pension, her eyes red from weeping, her documents clutched in hands that could not stop their trembling. I had processed her claim efficiently, had approved the payment within the required timeframe, had congratulated myself on administrative competence. I had not offered her a seat while she waited. I had not asked about her children. I had not acknowledged that the documents she carried represented a man who had lived and worked and died, leaving behind a woman who was now alone.
-
-The laborers who had loaded grain sacks onto carts while I inspected their work, their backs bent under weights that would destroy their spines by forty, their faces averted from the official who held power over their wages. I had noted their productivity, had calculated their efficiency, had reported favorably on their performance. I had not learned their names. I had not seen the sweat that soaked their clothing, the tremors that ran through their muscles after hours of lifting, the hollowness in their eyes when they looked toward futures that held nothing but more lifting.
-
-The child who had begged at the corner of the administrative district, her eyes too large for her thin face, her hand extended toward passersby in the eternal gesture of the desperate. I had walked past her every day for three years. I had never stopped. I had calculated, once, the cost of feeding her for a week—perhaps two karshapanas, negligible against my salary. I had not stopped. I had been late for a meeting, or distracted by a calculation, or simply unwilling to see what seeing might require of me.
 
 Each memory was an entry in a ledger I had not known I was keeping. Not a ledger of grain received and distributed, of karshapanas earned and spent, of measures weighed and recorded. A ledger of absences. A record of every moment when presence had been possible and I had chosen calculation instead.
 
 The ledger was long. The ledger stretched back through thirty-four years of careful living, through twelve years of merchant labor and three years of government service and all the countless transactions in between. Every haggled price, every processed claim, every inspection completed without meeting the eyes of those inspected. Every time I had seen numbers instead of faces, data instead of people, problems to be solved instead of human beings to be acknowledged.
 
-The ledger did not balance. It could never balance. There was no calculation that could transform absence into presence, no efficiency that could substitute for the simple act of seeing another person and remaining with what I saw.
+There was no calculation that could transform absence into presence, no efficiency that could substitute for the simple act of seeing another person and remaining with what I saw.
 
 The pressure in my abdomen shifted again, and I felt something else give way. The darkness at the edges of my vision had begun to creep inward, narrowing the bronze sky to a circle that shrank with each labored breath.
 
@@ -160,7 +122,7 @@ She had seen me. She had watched me stand motionless while the guards surrounded
 
 She had seen me choose.
 
-I did not know if she had survived. The rational part of my mind—the part that still calculated even now—suggested that she had not. The fire had spread too quickly, the evacuation had been too chaotic, the workers had been too far from the compound gates. The probability of a seven-year-old girl escaping that inferno approached zero.
+I did not know if she had survived. The rational part of my mind—the part that still calculated even now—would not grant me the comfort of believing she could not have lived. The people could have lived. I had seen it: the gap, the open gate, the dozen paces of clear ground. I had stood close enough to take hold of them and lead them through, and I had chosen paper instead. What remained uncertain was only this one child—small, alone, the smoke thick enough to swallow a grown man at arm's length, no hand reaching down to take hers. A child that size, untaken, in that chaos: I could not make the figures say she had lived. I knew only that if she had not, the fire was not the thing that failed her.
 
 But I found myself hoping. The hope was irrational, unsupported by evidence, the kind of sentiment I had spent my career learning to discount. Yet it persisted, burning in my chest with an intensity that exceeded the damage to my body.
 
