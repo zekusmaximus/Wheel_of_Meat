@@ -28,36 +28,6 @@ I knelt beside her anyway. Not to treat—there was nothing left to offer—but 
 
 I placed my hand beside the mother's on the small forehead. Not healing. Witnessing.
 
-The magistrates did more than object. They arrived at midday, three men in the fine linen chitons of citizens with property and leisure, their faces arranged in expressions of concerned authority. I recognized one of them—Kallias, who sat on the Council of Five Hundred and had once praised the public physicians for their service to the polis. That seemed very long ago now.
-
-"Philon of Kephissia." Kallias spoke my name as if testing whether it still belonged to the man before him. "You have been summoned to relocate your practice to the upper city. The Council requires physicians of skill to attend to citizens of standing."
-
-I continued my work, my fingers pressing a poultice against a feverish man's forehead. The patient was a harbor worker, his hands calloused from ropes and his skin weathered from sun. Not a citizen of standing. Not a man whose death would trouble the Council's ledgers.
-
-"I am needed here," I said.
-
-"You are needed where the city decides you are needed." Kallias stepped closer, though not too close—maintaining the distance that fear demanded. "Athens cannot afford to lose her trained physicians to"—he gestured at the crowded room, the street beyond where more sick had gathered—"to this."
-
-"And yet Athens is losing her people. Here. Now. While we speak."
-
-"There must be order." His voice hardened. "The Council has determined that treatment shall be prioritized. Citizens first. Then metics of good standing. Then..." He trailed off, but the meaning was clear. Then slaves. Then foreigners. Then the ones nobody would claim.
-
-I straightened. My back ached from hours of bending; my hands were raw from the work of touching what no one else would touch. I looked at Kallias—at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters—and felt a shift in my chest. A cold certainty, beyond anger.
-
-"A physician's oath," I said, "does not distinguish between the blood of a citizen and the blood of a slave."
-
-"Your oath—"
-
-"Is to healing. Not to ledgers." I held up my hands, still stained with the fluids of the dying. "When you can tell me which of these is citizen's blood and which is not, perhaps then I will sort my patients as the Council wishes."
-
-Something passed between us—a current that could have become respect if it had been allowed to mature. What emerged instead was the careful blankness of a man who has decided to report a problem to his superiors rather than solve it himself.
-
-"The Council will hear of this," he said.
-
-"I hope they will. Perhaps then they will send more physicians instead of more demands."
-
-The magistrates departed. The clinic remained. And I returned to my work, my hands finding their familiar rhythm against the fevered skin of the dying.
-
 It was evening before I noticed Alexios had not spoken in hours.
 
 He stood at the edge of the room, near the doorway where fresh air—such as it was—could still reach him. He was washing his hands in a basin, though I had watched him wash them three times already in the last hour. His movements had taken on a compulsive quality, the same gesture repeated as if repetition could somehow undo what he had already touched.

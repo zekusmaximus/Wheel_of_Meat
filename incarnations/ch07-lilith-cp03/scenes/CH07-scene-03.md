@@ -1,18 +1,18 @@
-Alexios left at midday. Lilith watched him go through the thread. Heard his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
-
-The dream had worked. The smell of burning clung to him still.
-
-Only Philon remained, alone in his clinic, surrounded by the dying he could not stop touching.
+The dream had worked. The smell of burning clung to Alexios still, and Lilith felt it working in him through the morning—the pyre, the bodies stacked like cordwood, his mentor's face becoming meat on the fire. Priming, waiting for the moment that would turn it into flight.
 
 She leaned closer.
 
 ---
 
-The slave woman collapsed at the eastern gate three days after Alexios fled.
+The slave woman collapsed at the eastern gate a little before midday.
 
 Lilith felt the impact before she understood it. Knees striking stone, the sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears could not cross. No one moved toward the fallen woman. No one spoke her name.
 
 She had no name. Not anymore. Whatever her owners had called her had been left behind when they fled the fever, when they threw their property to the streets like spoiled grain.
+
+Alexios learned of her first, and the dream rose to meet the news—the smell, the fire, the face he could not stop seeing. He would not follow Philon to the gate. He could not. He chose the road to Eleusis instead and left at midday, his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
+
+Only Philon remained, alone, surrounded by the dying he could not stop touching.
 
 Philon heard the commotion from his clinic. The thread hummed with his attention shifting—away from the patients who might live, toward the woman who would certainly die.
 
@@ -58,7 +58,7 @@ She understood his mistake with perfect clarity. He was conflating service with 
 
 No. His mistake was newer. Purer. The ego hiding inside virtue's clothing.
 
-*Was the one for them—or for me?*
+*Was the one for her—or for me?*
 
 The question was already forming in the thread, waiting to crystallize. She could feel its shape—the insight his dying would release, the lesson her intervention had not corrupted but concentrated.
 

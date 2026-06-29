@@ -36,7 +36,7 @@ She felt the heat spike. The delirium beginning. The thread growing thin and str
 
 And beneath her voice, another question, rising from the depths of his dissolving certainty:
 
-*Was the one for them. Or for me?*
+*Was the one for her. Or for me?*
 
 The thought burned brighter than the fever. Lilith felt it crystallize in the thread—not an answer, but a seed. The question that would not resolve, that could not resolve, that would carry forward into whatever came next.
 
@@ -82,9 +82,9 @@ She forced herself to trace the pattern. Three interventions. Three backfires. T
 
 Ka: Her observation had isolated him. Winter had broken his hoarding. He had learned *cooperation must be chosen freely, or not at all.*
 
-Chandra: Her administrative pressure had reinforced his ledgers. Fire had consumed them. She had learned *generosity cannot be calculated, only given.*
+Chandra: Her administrative pressure had reinforced his ledgers. Fire had consumed them. He had learned *generosity cannot be calculated, only given.*
 
-Philon: Her intervention had isolated him perfectly. His martyrdom had crystallized the question: *Was the one for them—or for me?*
+Philon: Her intervention had isolated him perfectly. His martyrdom had crystallized the question: *Was the one for her—or for me?*
 
 Three lessons. Three crystallizations. Three times her opposition had accelerated what she opposed.
 

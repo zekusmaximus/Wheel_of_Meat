@@ -1,6 +1,6 @@
 The magistrate came at dawn, when the smoke from the pyres lay thickest over the city.
 
-I heard him before I saw him—the measured cadence of official sandals on stone, deliberate and unhurried, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. Kallias ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock.
+I heard him before I saw him—the measured cadence of official sandals on stone, deliberate and unhurried, the footsteps of a man who still believed in order. The clinic had become a place where such men no longer came. He ducked through the doorway with a cloth pressed to his mouth, his eyes scanning the rows of the sick as though counting livestock, and I recognized him: Kallias, who sat on the Council of Five Hundred and had once praised the public physicians for their service to the polis. That seemed very long ago now.
 
 "Philon of Kephissia." His voice was muffled but clear. "The Council has reached a decision."
 
@@ -12,15 +12,19 @@ I did not rise from my patient—a potter's wife whose fever had broken in the n
 
 "Where you will be useful. The families who hold our treasury, our fleet captains, our generals—they require physicians. You waste your skills here." He gestured at the bodies around us, a wave of his hand that dismissed thirty lives. "These will die whether you treat them or not. The men who can rebuild Athens require protection."
 
-I finally looked up. Kallias's face was rigid with the certainty of necessity—a man who had made his peace with triage and could not understand why anyone else hesitated. There was no cruelty in his expression, which made it worse. He genuinely believed he was extending mercy.
-
 "I will remain."
 
 "This is not a request."
 
 "Then I must disobey." I rose, my knees aching from hours kneeling on stone. I was aware of how I must appear—unwashed, exhausted, my chiton stained with fluids I preferred not to name. "What meaning has a healer who abandons the dying to tend those who might live regardless?"
 
-His jaw tightened. "The meaning is Athens. The meaning is survival of the city-state. You serve the polis, physician—not your own conscience."
+"There must be order." His voice hardened. "The Council has determined that treatment shall be prioritized. Citizens first. Then metics of good standing. Then..." He trailed off, but the meaning was clear. Then slaves. Then foreigners. Then the ones nobody would claim.
+
+I looked at him—at the clean chiton, the oiled hair, the sandals that had not walked through the sick quarters—and felt a shift in my chest. A cold certainty, beyond anger. His face was rigid with the certainty of necessity, a man who had made his peace with triage and could not understand why anyone else hesitated. There was no cruelty in his expression, which made it worse. He genuinely believed he was extending mercy.
+
+"A physician's oath," I said, "does not distinguish between the blood of a citizen and the blood of a slave." I held up my hands, still stained with the fluids of the dying. "When you can tell me which of these is citizen's blood and which is not, perhaps then I will sort my patients as the Council wishes."
+
+"You serve the polis, physician—not your own conscience."
 
 "The polis is here." I gestured at the rows of suffering. "The polis is in the Long Walls, crammed ten to a room because we told them the walls would protect them from Spartan spears. We failed to mention the walls would not protect them from each other's breath."
 
