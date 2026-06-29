@@ -1,6 +1,6 @@
-The praetor's office smelled of old ink and older ambition. Scrolls lined the walls in honeycombed shelving, each pigeonhole stuffed with the accumulated anxieties of Roman civic life: property disputes, inheritance claims, accusations of fraud and theft and moral turpitude. Dust motes drifted through the slant of morning light from the high windows, and somewhere in the back rooms a clerk was coughing—a dry, persistent sound that had become as familiar to Verinus as his own breathing.
+The praetor's office smelled of old ink and older ambition. Scrolls lined the walls in honeycombed shelving, each pigeonhole stuffed with the accumulated anxieties of Roman civic life: property disputes, inheritance claims, accusations of fraud and theft and moral turpitude. Dust motes drifted through the slant of morning light from the high windows, and somewhere in the back rooms a clerk was coughing—a dry, persistent sound that had become as familiar to me as my own breathing.
 
-He stood before the praetor's secretary, a lean freedman named Gnaeus whose face had been carved by decades of bureaucratic disappointment into an expression of permanent mild grievance. Between them, on a table scarred by generations of stylus work, lay three scrolls.
+I stood before the praetor's secretary, a lean freedman named Gnaeus whose face had been carved by decades of bureaucratic disappointment into an expression of permanent mild grievance. Between us, on a table scarred by generations of stylus work, lay three scrolls.
 
 "Gaius Quintilius Varro," Gnaeus said, tapping the nearest scroll. "Philosophus. Found dead in his study three days ago. The urban prefect wants it resolved before the Saturnalia."
 
@@ -8,21 +8,21 @@ He stood before the praetor's secretary, a lean freedman named Gnaeus whose face
 
 "Resolved quietly. Varro had friends." Gnaeus's emphasis made the word a warning. "And enemies. The preliminary accounts are—" He paused, searching for a word that would not obligate him to an opinion. "Divergent."
 
-Verinus reached for the scrolls. The papyrus was fresh, the ink still sharp-edged. He unrolled the first and began to read.
+I reached for the scrolls. The papyrus was fresh, the ink still sharp-edged. I unrolled the first and began to read.
 
-The servant's account was terse, almost skeletal: the master had retired to his study after the evening meal; the door was barred from within; in the morning, when he did not emerge, the household had forced entry and found him dead at his desk, a wine cup overturned beside him. No signs of struggle. No evident wound. The servant's hand had trembled as he wrote—Verinus could see it in the uneven spacing, the ink pooling where the stylus had hesitated.
+The servant's account was terse, almost skeletal: the master had retired to his study after the evening meal; the door was barred from within; in the morning, when he did not emerge, the household had forced entry and found him dead at his desk, a wine cup overturned beside him. No signs of struggle. No evident wound. The servant's hand had trembled as he wrote—I could see it in the uneven spacing, the ink pooling where the stylus had hesitated.
 
 The student's account was different. Eloquent, self-consciously philosophical, and twice as long. Varro had been in excellent spirits that evening, the student claimed. They had discussed the nature of the good life, the proper relationship between reason and emotion. Varro had quoted Epictetus. The student had been moved to tears. Nothing in the master's demeanor suggested despair or illness. The death was inexplicable, unless—and here the student's prose grew coy—unless certain rivals within the philosophical schools had taken more direct action against a man whose arguments they could not answer.
 
 The neighbor's account contradicted both. Varro had been ill for weeks, the neighbor insisted. His temper had grown short. He had dismissed visitors, cancelled lectures, refused even to attend the baths. The neighbor had heard shouting from Varro's house three nights before his death—a woman's voice, raised in anger. Or perhaps grief. The neighbor could not be certain.
 
-Verinus set down the third scroll and reached for his stylus.
+I set down the third scroll and reached for my stylus.
 
-"Three witnesses," he said. "Three entirely different men described."
+"Three witnesses," I said. "Three entirely different men described."
 
 "That is why you are here." Gnaeus's voice was dry. "The praetor believes you have a gift for... synthesis."
 
-"The praetor believes I will not embarrass him." Verinus began cleaning the stylus, the motion automatic. "Who was the woman?"
+"The praetor believes I will not embarrass him." I began cleaning the stylus, the motion automatic. "Who was the woman?"
 
 "No one knows. The neighbor could not describe her."
 
@@ -48,13 +48,13 @@ Marcus appeared in the doorway, still adjusting his toga from the baths. His hai
 
 Gnaeus coughed—a sound of bureaucratic throat-clearing rather than illness. "There is a fourth document. The preliminary summary I prepared this morning." He slid another scroll across the table. "I copied the relevant passages from each testimony for easier comparison."
 
-Verinus unrolled it. The handwriting was neat, impersonal, the work of a competent scribe. He read the servant's testimony first, then the student's, then the neighbor's—
+I unrolled it. The handwriting was neat, impersonal, the work of a competent scribe. I read the servant's testimony first, then the student's, then the neighbor's—
 
-He stopped.
+I stopped.
 
-Read the passage again.
+I read the passage again.
 
-"This line," he said, pointing. "The servant's account says Varro retired 'after the evening meal, his mood temperate.' But the original—" He reached for the servant's scroll, found the passage. "The original says 'his mood *intemperate*.'"
+"This line," I said, pointing. "The servant's account says Varro retired 'after the evening meal, his mood temperate.' But the original—" I reached for the servant's scroll, found the passage. "The original says 'his mood *intemperate*.'"
 
 Gnaeus frowned. "A copying error. My clerk must have—"
 
@@ -62,19 +62,19 @@ Gnaeus frowned. "A copying error. My clerk must have—"
 
 "The light was poor. We work long hours before Saturnalia." Gnaeus's grievance had sharpened into defensiveness. "I will have it corrected."
 
-"Do not." Verinus rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
+"Do not." I rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
 
-He gathered the scrolls and tucked them beneath his arm. But he paused before leaving, turning to Marcus. "You know Varro's work better than I do. You heard him lecture. What will I not see that you will?"
+I gathered the scrolls and tucked them beneath my arm. But I paused before leaving, and turned to Marcus. "You know Varro's work better than I do. You heard him lecture. What will I not see that you will?"
 
 Marcus considered this. "The student will perform for you. He will want you to think him worthy of Varro's attention. Watch what he does not say about their argument—that will be more telling than what he claims."
 
-Verinus had not thought of this. He had been preparing to test the student's account against the others, to search for contradictions in the testimony itself. Marcus saw what the performance would conceal.
+I had not thought of this. I had been preparing to test the student's account against the others, to search for contradictions in the testimony itself. Marcus saw what the performance would conceal.
 
-"Good," Verinus said. "Tell me when I miss it."
+"Good," I said. "Tell me when I miss it."
 
-The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. An unresolved tension in this case resisted the simple satisfaction of order restored.
+The stylus was clean now, gleaming, but the familiar comfort of the ritual would not come. Something unresolved in this case resisted the simple satisfaction of order restored.
 
-"Marcus," he said. "We begin at Varro's house."
+"Marcus," I said. "We begin at Varro's house."
 
 "Now?"
 
@@ -84,6 +84,6 @@ Marcus sighed, but he was already moving toward the door. "The philosophus will 
 
 "The dead are silent. It is the living who lie."
 
-Behind them, in the back room, the clerk was still coughing. A small sound, easily overlooked. The kind of distraction that might cause a man to write *temperate* when he meant *intemperate*, and thereby change the meaning of everything that followed.
+Behind us, in the back room, the clerk was still coughing. A small sound, easily overlooked. The kind of distraction that might cause a man to write *temperate* when he meant *intemperate*, and so change the meaning of everything that followed.
 
-Verinus did not look back.
+I did not look back.

@@ -1,4 +1,4 @@
-Steam rose from the *caldarium* in slow coils, threading between bodies that moved through the water with the practiced indifference of men who bathed here every dawn. The marble walls sweated condensation; oil lamps guttered in their bronze holders, their light thin and unconvincing against the grey seeping through high windows. Verinus stood at the pool's edge, the water lapping at his shins, and listened to two citizens ruin his morning.
+Steam rose from the *caldarium* in slow coils, threading between bodies that moved through the water with the practiced indifference of men who bathed here every dawn. The marble walls sweated condensation; oil lamps guttered in their bronze holders, their light thin and unconvincing against the grey seeping through high windows. I stood at the pool's edge, the water lapping at my shins, and listened to two citizens ruin my morning.
 
 "The grain ships arrived at the third hour," one was saying, a thick-necked man whose voice echoed off the vaulted ceiling. "I saw them myself from the Subura."
 
@@ -8,21 +8,21 @@ Steam rose from the *caldarium* in slow coils, threading between bodies that mov
 
 "During the festival, they—"
 
-Verinus reached for the bronze stylus at his belt. His fingers found the familiar weight, the slight warmth from his body, and he began to clean it. The motion was small, precise: a cloth he carried for this purpose, drawn across the metal in measured strokes. Neither man was correct. The grain ships had arrived at the fourth hour—he had read the harbormaster's report himself three days ago, filed in the praetor's office alongside seventeen other documents these men would never see and could not have understood if they had.
+I reached for the bronze stylus at my belt. My fingers found the familiar weight, the slight warmth from my own skin, and I began to clean it. The motion was small, precise: a cloth I carried for this purpose, drawn across the metal in measured strokes. Neither man was correct. The grain ships had arrived at the fourth hour—I had read the harbormaster's report myself three days ago, filed in the praetor's office alongside seventeen other documents these men would never see and could not have understood if they had.
 
-The stylus gleamed. The contradiction remained, but his chest loosened fractionally.
+The stylus gleamed. The contradiction remained, but my chest loosened fractionally.
 
-"Verinus." A hand clapped his shoulder, and he turned to find Marcus Cassianus Priscus grinning at him, water beading in his dark beard. "You're cleaning that thing again. What offense has the morning committed?"
+"Verinus." A hand clapped my shoulder, and I turned to find Marcus Cassianus Priscus grinning at me, water beading in his dark beard. "You're cleaning that thing again. What offense has the morning committed?"
 
-"Listen to them." Verinus tilted his head toward the arguing citizens.
+"Listen to them." I tilted my head toward the arguing citizens.
 
 Marcus listened. His grin widened. "Ah. The eternal mystery of the grain ships. I heard them debating this same question yesterday. Perhaps we should commission a formal inquiry."
 
 "They could simply read the harbor records."
 
-"Reading requires effort. Arguing requires only breath." Marcus waded deeper into the pool, gesturing for Verinus to follow. "Come. The water is better away from the philosophers of commerce."
+"Reading requires effort. Arguing requires only breath." Marcus waded deeper into the pool, gesturing for me to follow. "Come. The water is better away from the philosophers of commerce."
 
-Verinus did not move. He was watching the two men, noting how each interruption sharpened the other's certainty, how the truth—readily available, meticulously documented—meant nothing to either of them. They would leave this bathhouse more convinced of their respective errors than when they had arrived.
+I did not move. I was watching the two men, noting how each interruption sharpened the other's certainty, how the truth—readily available, meticulously documented—meant nothing to either of them. They would leave this bathhouse more convinced of their respective errors than when they had arrived.
 
 "You cannot fix it," Marcus said, softer now. "Whatever is happening in your mind right now—the weighing, the cataloguing, the quiet contempt—it will not make them correct."
 
@@ -34,13 +34,13 @@ Marcus laughed, a sound that carried no mockery, only the resignation of long fa
 
 "In your case, I think they are at war." Marcus pushed off from the pool's edge, floating on his back, eyes closed against the lamplight. "The praetor will have work for you today. I saw the clerks preparing scrolls when I passed. Something with witnesses—you know how you love witnesses."
 
-Verinus did not answer. Across the pool, near the entrance to the *frigidarium*, a group of students had gathered—young men from one of the philosophical schools, their conversation animated and their gestures theatrical. Among them stood a woman, dark-haired, her stillness conspicuous against their motion. She was watching him.
+I did not answer. Across the pool, near the entrance to the *frigidarium*, a group of students had gathered—young men from one of the philosophical schools, their conversation animated and their gestures theatrical. Among them stood a woman, dark-haired, her stillness conspicuous against their motion. She was watching me.
 
-Him specifically. Neither the students nor Marcus.
+Me specifically. Neither the students nor Marcus.
 
-Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, too brief to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
+Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held my gaze for a moment—long enough to register, too brief to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
 
-"Who was that?" Marcus had surfaced, was following Verinus's sightline.
+"Who was that?" Marcus had surfaced, was following my sightline.
 
 "I don't know."
 
@@ -50,10 +50,10 @@ Her eyes were steady, observational. The look of someone taking measure rather t
 
 Marcus's laugh was sharper this time. "Liar. But a disciplined one. Come—the water grows cold and the clerks grow impatient."
 
-Verinus slipped the stylus back into his belt. The thick-necked citizen was still arguing about the grain ships, but his voice had grown hoarse, his conviction undiminished. A small tragedy of certainty, endlessly repeating.
+I slipped the stylus back into my belt. The thick-necked citizen was still arguing about the grain ships, but his voice had grown hoarse, his conviction undiminished. A small tragedy of certainty, endlessly repeating.
 
-He followed Marcus toward the changing rooms, but something in him lingered at the pool's edge, watching the archway where the dark-haired woman had disappeared. She had looked at him as if she knew him, though he was certain they had never met.
+I followed Marcus toward the changing rooms, but something in me lingered at the pool's edge, watching the archway where the dark-haired woman had disappeared. She had looked at me as if she knew me, though I was certain we had never met.
 
-A strange thought, and he dismissed it.
+A strange thought, and I dismissed it.
 
 The praetor's scrolls were waiting.
