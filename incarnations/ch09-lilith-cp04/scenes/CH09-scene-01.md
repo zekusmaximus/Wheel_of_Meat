@@ -24,11 +24,11 @@ The recognition surfaced with the precision of a diagnosis. But this thread carr
 
 She traced what had accumulated across the pattern—and something cold moved through her awareness.
 
-In the baths, he asked his colleague what he noticed. *What did you make of the servant's hands?* Valued perception his own attention had missed. Changed his approach based on another's observation. The cooperation that had crystallized in Ka's lifetime remained intact. She had watched Ka struggle toward interdependence through the breaking of isolation; this consciousness simply practiced it, unconscious as breath.
+He asked his colleague what he would not see that the colleague would, and took the answer gladly—*tell me when I miss it.* Valued perception his own attention had missed. Changed his approach based on another's observation. The cooperation that had crystallized in Ka's lifetime remained intact. She had watched Ka struggle toward interdependence through the breaking of isolation; this consciousness simply practiced it, unconscious as breath.
 
 And when he entered the praetor's office, when he interviewed the frightened servant, she felt him set down his stylus, felt him meet the witness's fear directly rather than extracting testimony through procedural distance. *You are afraid. Not of me.* Presence given rather than answers demanded. The generosity she had watched crystallize in Chandra—already integrated. Already deployed without struggle.
 
-And the contradictions—she could feel how he held them. Three testimonies that refused to cohere, and he did not force resolution. *The truth was not in any single voice. It was in the space between them.* The wisdom she had watched crystallize in Philon—the capacity to hold complexity without collapsing into certainty or martyrdom—visible in how his mind worked.
+And the contradictions—she could feel how he held them. Three testimonies that refused to cohere, and he did not force resolution. The truth was not in any single voice. It was in the space between them. The wisdom she had watched crystallize in Philon—the capacity to hold complexity without collapsing into certainty or martyrdom—visible in how his mind worked.
 
 Three patterns. Three lessons that had crystallized across lifetimes. All visible in this consciousness before she could watch him struggle toward them.
 
@@ -50,7 +50,7 @@ Three witnesses. Three silences. Three truths that refused to converge.
 
 *"Their silences have different shapes."*
 
-His thought arrived in her awareness with such clarity that for a moment she could not tell if it was his observation or hers. The investigation consumed him. The contradictions kept mounting. And beneath  the stylus-cleaning and the rigid demand for coherence—something trembled.
+His thought arrived in her awareness with such clarity that for a moment she could not tell if it was his observation or hers. The investigation consumed him. The contradictions kept mounting. And beneath the stylus-cleaning and the rigid demand for coherence—something trembled.
 
 She recognized the trembling.
 

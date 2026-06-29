@@ -6,7 +6,7 @@ She found the cough first.
 
 The sound was small, persistent, the kind of distraction a tired mind might not even register. But she registered it. She traced its source through the office's layered consciousness, beyond the freedman, past Verinus, to a scribe hunched over his copying work in a room where the light came wrong and the Saturnalia pressure had stretched the hours thin.
 
-The clerk was copying testimonial scrolls. His stylus moved across papyrus with the mechanical precision of exhaustion, transcribing the servant's account of the philosopher's final evening. She could feel the words forming under his hand:
+The clerk was preparing the secretary's summary—copying the relevant passages from each testimony onto a single sheet for the investigator's comparison. His stylus moved across papyrus with the mechanical precision of exhaustion, transcribing the servant's account of the philosopher's final evening. She could feel the words forming under his hand:
 
 *After the evening meal, his mood intemperate. He shouted at the cook over the fish sauce. Small things angered him.*
 
@@ -30,7 +30,7 @@ She withdrew from the clerk's awareness before the headache could sharpen into s
 
 Her hands were steadier than they had been before the intervention.
 
-*This is what precision looks like.* Her shoulders relaxed, The thought formed with clinical satisfaction. *Not the broad pressure of Philon. Not the heat of Devaka's fear. This is surgical. Microscopic. The smallest possible change with the maximum possible effect.*
+*This is what precision looks like.* Her shoulders relaxed. The thought formed with clinical satisfaction. *Not the broad pressure of Philon. Not the heat of Devaka's fear. This is surgical. Microscopic. The smallest possible change with the maximum possible effect.*
 
 She had created two parallel records. The original scroll said *intemperate*; the copy said *temperate*. Every subsequent reading would encounter contradiction. Verinus would notice—his rigid mind would seize on the discrepancy like a splinter. The doubt would begin.
 
