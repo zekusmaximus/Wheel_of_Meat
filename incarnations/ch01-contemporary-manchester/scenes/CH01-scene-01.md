@@ -14,7 +14,7 @@ He edged his legs off the bed and stretched, setting the glass down. "Who looks 
 
 "Our friend Jung, the embodied consummation of our vocations." She danced into the bathroom, waving his hand away dismissively, closing the door behind her. She the psychiatrist, he the philosopher.
 
-After pulling on his rumpled pants from the floor, he walked to the mirror. Silas Phalavan smiled as he noted the slight streaks of gray creeping into his dark brown hair and beard. She said it complimented his oval face, sharp nose and well-defined jawline. His hand moved automatically up to that jaw as he turned his face to the side, letting Lilith's strange pronouncement simmer in his mind. The ritual affirmation he found so soothing formed on his lips, "I am boundless awareness".
+After pulling on his rumpled pants from the floor, he walked to the mirror. Silas Pahlavan smiled as he noted the slight streaks of gray creeping into his dark brown hair and beard. She said it complimented his oval face, sharp nose and well-defined jawline. His hand moved automatically up to that jaw as he turned his face to the side, letting Lilith's strange pronouncement simmer in his mind. The ritual affirmation he found so soothing formed on his lips, "I am boundless awareness".
 
 Inspecting his face, his own blue eyes seemed to whisper of those lives. The gold frame of his glasses boundaries around lessons learned, forgotten and learned again. The hairs on his neck appeared to rise at an imminent revelation within him, until his watch chimed, announcing it was time to leave for dinner.
 

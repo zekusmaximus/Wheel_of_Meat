@@ -588,10 +588,10 @@ Before Chapter 14’s full success, plant a seed in Chapter 8 (Verinus) and Chap
 ### 3.2 Expand the Silex/Lith Future Chapter
 
 **Priority:** MEDIUM  
-**Source:** Report 1, integrated with Ka bookend structure and Maitreya arc requirements  
+**Source:** Report 1, integrated with Ka bookend structure and unnamed future-Buddha arc requirements  
 **Status:** [x] Complete
 
-**Problem:** The Eternal Synthesis section reads as philosophical summary, not lived experience. Additionally, the chapter must accomplish significant structural work: completing the Ka bookend arc from Chapter 2, seeding the Maitreya merger for Chapter 26, and showing Lith's final fetter beginning to dissolve.
+**Problem:** The Eternal Synthesis section reads as philosophical summary, not lived experience. Additionally, the chapter must accomplish significant structural work: completing the Ka bookend arc from Chapter 2, seeding final unity for Chapter 26, and showing Lith's final fetter beginning to dissolve.
 
 **Multiple Integrated Objectives:**
 
@@ -599,7 +599,7 @@ This chapter carries five functions simultaneously:
 1. **Sensory grounding** — Show sterile technological perfection through five senses
 2. **Ka bookend** — Complete the dawn/sunset parallel from Chapter 2
 3. **Counterfeit Dharma** — Render The Eternal Synthesis without Buddhist terminology
-4. **Maitreya foreshadowing** — Show merged awareness intensifying toward unity
+4. **Unity foreshadowing** — Show merged awareness intensifying toward the unnamed future Buddha
 5. **Lith's final fetter** — Begin the dissolution of her competition attachment
 
 -----
@@ -670,7 +670,7 @@ This chapter carries five functions simultaneously:
 
 -----
 
-#### Implementation: Maitreya Foreshadowing
+#### Implementation: Unity and Future-Buddha Foreshadowing
 
 **The merged awareness must intensify across the chapter:**
 
@@ -722,7 +722,7 @@ This chapter carries five functions simultaneously:
 **Final yearning must include:**
 - Completion / union
 - "The turning that can only happen when the turner and the turned recognize themselves as same"
-- The name "that meant what remained when competition dissolved" (Maitreya foreshadowing without naming)
+- The name "that meant what remained when competition dissolved" (future-Buddha foreshadowing without naming)
 
 -----
 
@@ -746,7 +746,7 @@ This chapter carries five functions simultaneously:
 - [x] Institutional response shown (integration offer, archival threat)
 - [x] Seeds planted through small circles (without triumphalism)
 
-**Maitreya Foreshadowing:**
+**Unity and Future-Buddha Foreshadowing:**
 - [x] Minimum 3 merged-awareness moments across chapter
 - [x] "Which one am I?" question surfaces at least twice
 - [x] Progression from parallel sensing → deliberate merge → habitual link → recognition
@@ -935,7 +935,7 @@ This chapter carries seven functions simultaneously:
 #### What to Avoid
 
 - Buddhist terminology (dharma, nirvana, samsara, enlightenment, Buddha)
-- "Maitreya" or prophecy language
+- Explicit final-identity naming or prophecy language
 - Listing the ten perfections explicitly
 - Having the entity explain what the villagers should understand
 - Callbacks that feel "cute" or forced
@@ -996,7 +996,7 @@ This chapter carries seven functions simultaneously:
 
 **Voice/Craft:**
 - [ ] No Buddhist terminology
-- [ ] No "Maitreya" or prophecy language
+- [ ] No explicit final-identity naming or prophecy language
 - [ ] No abstract emotion words
 - [ ] Tathagata voice: teaching happens without "I teach"
 - [ ] Do NOT speak "The Wheel of Meat" explicitly

@@ -18,7 +18,7 @@
 1. [The Parallel Mistake](#the-parallel-mistake)
 1. [Her Interiority](#her-interiority)
 1. [Fetter Intensification Beats](#fetter-intensification-beats)
-1. [Maitreya Foreshadowing](#maitreya-foreshadowing)
+1. [Unity and Future-Buddha Foreshadowing](#unity-and-future-buddha-foreshadowing)
 1. [Period-Specific Integration Flavors](#period-specific-integration-flavors)
 1. [What Persists from Universal Rules](#what-persists-from-universal-rules)
 1. [Forbidden Patterns (Lilith-Specific)](#forbidden-patterns-lilith-specific)
@@ -268,7 +268,7 @@ Use italics sparingly for direct thought. Most interiority should be rendered th
 - Recognition that her isolation mirrors theirs
 - Understanding that her grasping is itself the obstacle
 - Awareness that her interventions are counterproductive *because* they come from attachment
-- The Maitreya truth (until Chapter 26)
+- The unnamed future-Buddha truth (until Chapter 26)
 
 ### Rendering Her Blind Spot
 
@@ -309,7 +309,7 @@ Not as a stated realization but as a shift in her behavior, her attention, her p
 
 -----
 
-## Maitreya Foreshadowing
+## Unity and Future-Buddha Foreshadowing
 
 Each Lilith chapter contains 0-2 subtle moments pointing toward the final revelation: they are two halves of the same future Buddha.
 
@@ -521,7 +521,7 @@ In addition to universal forbidden patterns, these are specific to integrated Li
 >
 > The words were comfortable. The words were wrong.
 
-### Maitreya Foreshadowing (Subtle)
+### Unity and Future-Buddha Foreshadowing (Subtle)
 
 > For an instant she wasn't sure whether the meat was frozen or the tea was cold, whether the cave was hers or the flat was his, whether the isolation she was observing was happening to her or—
 >
@@ -586,7 +586,7 @@ Before marking any Lilith chapter scene complete, verify:
 
 ### Foreshadowing
 
-- [ ] Maitreya foreshadowing: 0-2 moments, appropriately subtle
+- [ ] Unity and future-Buddha foreshadowing: 0-2 moments, appropriately subtle
 - [ ] The pull toward him mentioned (and misinterpreted by her)
 - [ ] No explicit statement of connection
 
@@ -599,7 +599,7 @@ Before marking any Lilith chapter scene complete, verify:
 - [ ] No extended Manchester-only passages
 - [ ] No clinical analysis voice
 - [ ] No explicit parallel statement
-- [ ] No power progression language
+- [ ] Progressive demonstrated capability: Chapter 3 discovery only, increasingly direct later methods, and consistent constraints
 - [ ] No patient scenes or demonstrations
 - [ ] No resolved insight about her blind spot
 

@@ -56,7 +56,7 @@ The blind spot was perfect. Complete. Protected by the very competence that made
 
 Could not turn that sight toward herself.
 
-Could not see that the nine interventions were grasping. That the tracking was grasping. That the race was grasping. That standing outside his building with certainty she needed to meet him, needed to bind him, needed to prevent his achievement was the final bind made flesh, made strategy, made the thing she'd been seeking without recognizing it was already found.
+Could not see that the eight interventions were grasping. That the tracking was grasping. That the race was grasping. That standing outside his building with certainty she needed to meet him, needed to bind him, needed to prevent his achievement was the final bind made flesh, made strategy, made the thing she'd been seeking without recognizing it was already found.
 
 *It must be something else,* she thought. *I haven't found it yet.*
 

@@ -24,6 +24,6 @@ Lilith sat down next to Stewart, handing him the jeans and t-shirt she had colle
 
 Silas noticed her looking at him, remembering how she had seen his interaction with Stewart earlier that morning. He turned again to the whiteboard and Lilith noticed something click in him as he shook his head and muttered Stewart's insight. "I am not that." A wave of release washed over Silas. A weight he didn't know he had been carrying suddenly vanished, a profound peace almost lifting him from the ground.
 
-The look and words sent a visible shudder through Lilith as she walked Stewart toward the door while he clumsily put his clothes back on. She looked up at Silas as if in frustration at not having been able to delay the breakthrough. Despair mixed with respect for his unwavering spirit. Silas stared back, apparently lost in his transformation, the realization that he possessed no thou that could be that.
+The look and words sent a visible shudder through Lilith as she walked Stewart toward the door while he clumsily put his clothes back on. She looked up at Silas as if in frustration at not having been able to slow the opening. Despair mixed with respect for his unwavering spirit. Silas stared back, apparently caught in its destabilization, the realization that he possessed no thou that could be that.
 
 The security officer collected the backpack and sweatshirt Stewart had left behind and couldn't help but notice the intense moment Silas and Lilith shared from across the hall.

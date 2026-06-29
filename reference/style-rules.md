@@ -213,7 +213,7 @@ Before marking any historical scene complete, verify:
 
 **For Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21), see `lilith-style-rules.md`.**
 
-These chapters use the integrated prose technique—simultaneously holding Manchester and historical periods in each sentence. The comprehensive checklist for integration mechanics, fetter intensification, Maitreya foreshadowing, and forbidden patterns is maintained in that dedicated document.
+These chapters use the integrated prose technique—simultaneously holding Manchester and historical periods in each sentence. The comprehensive checklist for integration mechanics, fetter intensification, unnamed future-Buddha foreshadowing, and forbidden patterns is maintained in that dedicated document.
 
 ### Contemporary Dual Chapter Revision Checklist (Ch 1, 22)
 

@@ -36,7 +36,7 @@ The name arrived with the location, attached to the presence the way a label att
 
 She would know him when she found him.
 
-Relief crashed through her like water breaking a dam—months of tracking, centuries of history, nine catastrophic interventions, and finally she knew where he was. Present day. Manchester. Close enough that the pull had weight, had direction, had the quality of inevitability she'd felt since that first moment tracking Ka and recognizing something she couldn't name.
+Relief crashed through her like water breaking a dam—months of tracking, centuries of history, eight catastrophic interventions since Chapter 5, and finally she knew where he was. Present day. Manchester. Close enough that the pull had weight, had direction, had the quality of inevitability she'd felt since that first moment tracking Ka and recognizing something she couldn't name.
 
 *I've found him.*
 

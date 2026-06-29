@@ -48,8 +48,8 @@ Current focus: Line-level prose revision using the five-pass system defined in a
 **Key Changes:**
 
 1. **Timeline Compression:** 10-year tracking → 8-10 weeks compressed fever
-2. **Power Model:** Progressive power levels → Full cosmic capability from Chapter 3
-3. **Arc Type:** Power progression → Fetter intensification (attachment crystallizing)
+2. **Power Model:** Progressive demonstrated capability—Chapter 3 discovery/tracking, followed by increasingly direct constrained methods
+3. **Arc Type:** Progressive demonstrated capability alongside fetter intensification (attachment crystallizing)
 4. **Prose Technique:** Alternating Manchester/historical scenes → Integrated prose (both timelines held simultaneously)
 5. **Age:** 25-34 over decade → 34 during tracking, 35 in Chapter 1
 6. **Time-Jump:** 6-12 months between Chapter 21 (The Pivot) and Chapter 1
@@ -67,7 +67,7 @@ Current focus: Line-level prose revision using the five-pass system defined in a
 - Integrated prose technique (sensory bridges, pronoun flow, parallel structure)
 - Fetter intensification beats (attachment sharpening each chapter)
 - Parallel mistake structure (her flaw mirrors avatar's flaw)
-- Enhanced Maitreya foreshadowing distribution
+- Enhanced unity and unnamed future-Buddha foreshadowing distribution
 - Dominant timeline moments (1-2 per chapter)
 
 **Implementation Phases:**
@@ -89,7 +89,7 @@ Current focus: Line-level prose revision using the five-pass system defined in a
 - Initialized repository structure
 - Created scene-manifest.json with all 16 chapters outlined
 - Created soul-constants.json with fetter/perfection tracking
-- Created lilith-arc.json with power progression
+- Created lilith-arc.json; current canon supersedes its older power model with progressive demonstrated capability
 - Created thematic-echoes.md template
 - Created reference templates and agent prompts
 
@@ -1246,7 +1246,7 @@ Current focus: Line-level prose revision using the five-pass system defined in a
 |23|The Celestial|Deva Realm  |needs_dev|
 |24|The Prophet  |Future Earth|needs_dev|
 |25|The Explorer |Deep Space  |needs_dev|
-|26|The Awakened |Pure Abodes |needs_dev|
+|26|The Awakened |Embodied village completion |drafted|
 
 -----
 
@@ -1255,7 +1255,7 @@ Current focus: Line-level prose revision using the five-pass system defined in a
 1. **Avatar Development**: Names, occupations, and specific circumstances for Chapters 14, 16, 18, 20
 1. **Backfire Mechanisms**: How exactly does each Lilith intervention catalyze growth? (Developed through Ch12; remaining chapters need development)
 1. **Patient Parallels**: Specific patient/colleague situations for remaining Lilith chapters (Ch13+)
-1. **Maitreya Foreshadowing**: Specific moments to plant in each chapter (0-2 per chapter)
+1. **Unity and Future-Buddha Foreshadowing**: Specific non-naming moments to plant in each chapter (0-2 per chapter)
 1. **The Merger Mechanism**: Exactly how do Silas and Lilith merge in Chapter 26?
 
 -----
@@ -1358,7 +1358,7 @@ incarnations/
 
 ```
 meta/
-├── lilith-arc.json              # Lilith's power progression
+├── lilith-arc.json              # Superseded planning file; current model is progressive demonstrated capability
 ├── soul-constants.json          # Fetter/perfection tracking
 ├── thematic-echoes.md           # Cross-chapter motif tracking
 └── contemporary-period-rules.md # Manchester voice/setting guide
@@ -1495,7 +1495,7 @@ meta/
 - **Strategic Shift:** From indirect intervention (through vessels/circumstances) to considering direct contact
 - **Intimacy Strategy Seed:** What if she needs to be closer? Present-day contact instead of past tracking?
 - **Professional Life:** Six years of tracking showing clear impact; sabbatical email mentioned; colleagues notice
-- **Maitreya Seeds:** (1) Parallel threads, strange comfort—dismissed; (2) "Only one who might understand"—not examined
+- **Unity Seeds:** (1) Parallel threads, strange comfort—dismissed; (2) "Only one who might understand"—not examined
 - **Face Mystery:** Her face never changes across lives; his does—question planted, not answered
 
 **Continuity Notes:**
@@ -1551,7 +1551,7 @@ meta/
 - Tracks forward to: Renaissance France skeptic; doubt as spiritual tool
 - Pattern recognized: Indirect intervention structurally prevented from working
 
-**Maitreya Foreshadowing (2 moments, subtle):**
+**Unity and Future-Buddha Foreshadowing (2 moments, subtle):**
 
 1. **Scene 3:** Feeling his thread parallel to hers, "strange comfort of not being the only one"—stopped the thought; competition, one at a time
 2. **Scene 4:** "He was the only one who might understand" written in notebook—compassion rationalized, not examined further
@@ -1741,7 +1741,7 @@ This breaks the fetter of vicikicchā not by acquiring certainty, but by discove
 
 **Lilith Arc:**
 - Eighth intervention (Ch 2 → 4 → 6 → 8 → 10 → 12 → 14 → 16)
-- Power progression: Extended interaction (can sustain philosophical conversations through vessel)
+- Progressive demonstrated capability: Extended interaction (can sustain philosophical conversations through vessel)
 - Backfire pattern continues: opposition enables growth
 - Intellectually engaged; thinks she can win battle of ideas
 
@@ -1868,7 +1868,7 @@ Minor sensory enhancement could add smell to combat scenes (blood, earth) and ta
 - Part B: Observing Jean's journey—witnesses, ambush, Marguerite's debates, ball
 - Part C: Isabeau recognition—BRIEF (~150 words), matter-of-fact, "of course she was there"
 - Part D: Jean's breakthrough—doubt became tool for truthfulness, not paralysis
-- Part E: The death—PAIN at watching him die (physical, chest, inexplicable, Maitreya foreshadowing)
+- Part E: The death—PAIN at watching him die (physical, chest, inexplicable, unity foreshadowing)
 - Part F: Withdrawal—Seven backfires, pattern undeniable
 - Dual sensation: Manchester present + France 1588 maintained throughout
 
@@ -1908,7 +1908,7 @@ Seven years of distance → commitment to proximity. Stop working through past, 
 - NOT dramatic revelation—just data confirming pattern
 - Dramatic weight on BACKFIRE, not Isabeau sighting
 
-**Maitreya Foreshadowing:**
+**Unity and Future-Buddha Foreshadowing:**
 - Pain at Jean's death: physical, chest, inexplicable
 - "Not satisfaction. Not relief. Pain."
 - Connection she won't examine
@@ -1921,7 +1921,7 @@ Seven years of distance → commitment to proximity. Stop working through past, 
 - **"What does that remind me of?" (Beat 5):** Surfaces unanswered re: her own grasping
 - **Backfire pattern:** Now explicit and undeniable
 - **Professional decline:** Visible to colleagues (Dr. Chen, Harrow)
-- **Maitreya foreshadowing:** Pain at death, inexplicable empathy
+- **Unity foreshadowing:** Pain at death, inexplicable empathy
 
 ### Seeds Planted for Future Chapters
 
@@ -2311,7 +2311,7 @@ Lilith (age 33, year 8 of tracking) completes her forward scan, locates modern S
 - "Together doesn't hold" callback present (one-per-system rule explained)
 - Backfire pattern explicit (eight interventions, eight accelerations cataloged)
 - Intimacy strategy seeds planted for Ch21
-- Maitreya foreshadowing subtle (pain at Wei's death, recognition at lecture)
+- Unity and future-Buddha foreshadowing subtle (pain at Wei's death, recognition at lecture)
 
 **Wei's Final Thought (Bridge to Present):**
 > "I saved no one. But the trying was not nothing. I will try again."

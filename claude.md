@@ -16,7 +16,7 @@ A literary novel following one soul’s journey toward enlightenment across ten 
 
 **Current Progress (January 2026):** REVISION PHASE. All Lilith chapters (3, 5, 7, 9, 11, 13, 15, 17, 19, 21) are revised with integrated prose technique. Historical chapters 1-12 are drafted (~73,500 words). Four historical avatars remain undeveloped (Ch 14, 16, 18, 20). See `revision-manifest.json` for line-level revision status.
 
-**Core Premise:** Philosophy professor Silas Pahlavan approaches stream-entry while psychiatrist Lilith Azami—a rival bodhisattva who appears with the same face across all his past lives—attempts to derail his progress. Her interventions always backfire, becoming the friction that forges his growth. They ultimately merge to become Maitreya, the future Buddha. The competition was illusory; they were always two aspects of the same being.
+**Core Premise:** Philosophy professor Silas Pahlavan approaches stream-entry while psychiatrist Lilith Azami—a rival bodhisattva who appears with the same face across all his past lives—attempts to derail his progress. Her interventions always backfire, becoming the friction that forges his growth. Their apparent separation ultimately resolves into one unnamed final embodied awareness. The competition was illusory; they were always complementary aspects of the same path.
 
 **Structure:** 26 chapters in 4 acts:
 
@@ -30,7 +30,7 @@ A literary novel following one soul’s journey toward enlightenment across ten 
 **Act II Alternating Structure:**
 
 - Historical chapter (Silas's past life) → Lilith chapter (her contemporary pursuit)
-- Both timelines move forward: his past lives progress chronologically (300,000 years); her tracking intensifies over ~8-10 weeks, using integrated prose that holds Manchester and historical periods simultaneously
+- Both timelines move forward: his past lives progress chronologically (300,000 years); her tracking intensifies over one coherent pursuit of approximately ten weeks, using integrated prose that holds Manchester and historical periods simultaneously
 - Time jump of several weeks to months between Chapter 21 and Chapter 1
 - This creates parallel momentum toward their convergence in Chapter 22
 
@@ -42,10 +42,10 @@ A literary novel following one soul’s journey toward enlightenment across ten 
 
 1. **No Buddhist terminology in prose** — Never use dharma, karma, samsara, nirvana, enlightenment, attachment, suffering, awakening, meditation, mindfulness. Show through experience; reader infers meaning. *Exception: historical accuracy (Ashoka’s edicts may reference “Dhamma”).*
 1. **No abstract emotion words** — Never write afraid, angry, sad, happy, anxious, nervous, excited, worried, relieved, frustrated, confused, surprised, lonely, guilty, ashamed, proud, jealous, hopeful, desperate. Render all internal states through physical sensation, action, or environment.
-1. **Lilith's interventions always backfire** — Every attempt to derail Silas becomes the catalyst for his growth. No exceptions. She is not his enemy; she is his necessary other half. *Note: This rule applies through Chapter 22. In Act IV (Chapters 23-26), Lilith is no longer attempting to halt Silas's progress; she has reinterpreted her recognition from Chapter 22 and now pursues the "accelerated path" differently—racing toward merger rather than blocking his advancement.*
+1. **Lilith's interventions always backfire** — Beginning in Chapter 5, every attempt to derail Silas becomes the catalyst for his growth. Chapter 3 is discovery, tracking, and recognition only. She is not his enemy; she is his necessary other half. *Note: This rule applies through Chapter 22. In Act IV (Chapters 23-26), Lilith is no longer attempting to halt Silas's progress; she has reinterpreted her recognition from Chapter 22 and now pursues the "accelerated path" differently—racing toward unity rather than blocking his advancement.*
 1. **Death scenes must include karmic bridge** — The final clinging-thought shapes the next life. Extended, visceral, with clear connection to next chapter’s lesson.
 1. **Voice patterns persist across all genres** — The undermining clause, sensory anchoring, loaded gestures, environmental metaphor, and parallel construction adapt their METHOD by period but their FUNCTION never disappears.
-1. **They become Maitreya** — The ending recontextualizes everything. Foreshadow throughout: moments where duality collapses, times when harming him causes her inexplicable pain.
+1. **The final identity remains unnamed** — The ending recontextualizes everything through one embodied awareness. Foreshadow throughout: moments where duality collapses, times when harming him causes her inexplicable pain.
 1. **Same face across all incarnations** — Lilith appears as the same dark-haired woman in every life: widow's peak with darker strand falling left; left eye has deep brown with pale-green crescent at 11-1 o'clock position. Readers recognize her before avatars do.
 
 ### HIGH-PRIORITY (Confirm with author if uncertain)
@@ -53,8 +53,8 @@ A literary novel following one soul’s journey toward enlightenment across ten 
 - All five senses present in every scene
 - Recognition markers (once defined) in every chapter
 - Genre conventions honored while maintaining voice
-- Lilith has full cosmic power from Chapter 3 onwards (constrained by karmic law, not capability)
-- Lilith chapters show fetter intensification beat (attachment sharpening, not power growing)
+- Lilith demonstrates progressive capability: Chapter 3 discovery/tracking, then increasingly direct methods constrained by karmic law, precision cost, embodiment limits, and decisive ethical choice
+- Lilith chapters show capability progression alongside fetter intensification
 - Integrated prose maintained throughout Lilith chapters (both timelines present simultaneously)
 - Parallel structure in Lilith chapters (her mistake mirrors avatar's mistake at different scales)
 - Sensory anchor opens every scene (environment before interiority)
@@ -156,7 +156,8 @@ One consciousness across ten historical lives, working toward enlightenment. No 
 **Spiritual Progression:**
 
 - Chapters 2-20 (historical): Developing perfections, maintaining identity-view
-- Chapter 22: Stream-entry (breaks first three fetters: self-illusion, doubt, attachment to rites)
+- Chapter 1: First half of the present-life breakthrough crisis; acceleration, destabilization, glimpse, and unresolved rooftop cliffhanger
+- Chapter 22: Direct continuation and formal stream-entry resolution (breaks first three fetters: self-illusion, doubt, attachment to rites)
 - Chapters 23-24: Once-returner progress
 - Chapter 25: Non-returner status
 - Chapter 26: Full enlightenment / Merger with Lilith
@@ -169,7 +170,7 @@ A rival bodhisattva, very close to Buddhahood, who believes only one Buddha can 
 
 - Same face across all incarnations (dark-haired woman with widow's peak, darker strand falling left; left eye has pale-green crescent at 11-1 o'clock)
 - Her interventions ALWAYS backfire—they become the friction that forges his progress
-- Full cosmic power from Chapter 3 onwards (constrained by karmic law, not capability)
+- Progressive demonstrated capability from Chapter 3 discovery through increasingly direct later methods, always constrained
 - Each chapter shows one beat of fetter intensification (attachment sharpening)
 - Present-day relationship with Silas: lovers (established after time jump)
 - Spiritual status: Non-Returner (has broken 9 of 10 fetters; her final obstacle is attachment to being "the one who achieves Buddhahood")
@@ -220,7 +221,7 @@ The 10 Lilith chapters show fetter intensification, not power growth:
 
 She's not falling apart—she's *crystallizing*. The attachment becomes harder, brighter, more absolute. A master of immense capability making increasingly desperate moves because she cannot see the one thing she needs to see.
 
-**The Resolution:** They merge to become Maitreya, the future Buddha. The "one Buddha per world-system" rule was true but misunderstood—there was only ever one Buddha-to-be, appearing as two until ready to unite.
+**The Resolution:** Their apparent separation resolves into one unnamed future Buddha in an ordinary embodied life. The final chapter centers birth, food, language, village existence, teaching, aging, and completion without ownership.
 
 -----
 
@@ -299,7 +300,7 @@ Act II's structure creates different temporal experiences for the two timelines:
 |23|The Celestial|Cosmic|Deva Realm            |needs_dev|
 |24|The Prophet  |Cosmic|Future Earth          |needs_dev|
 |25|The Explorer |Cosmic|Deep Space            |needs_dev|
-|26|The Awakened |Cosmic|Pure Abodes / Maitreya|needs_dev|
+|26|The Awakened |Cosmic/Embodied|Unnamed village; ordinary completion|drafted|
 
 -----
 
@@ -359,12 +360,12 @@ Each Lilith chapter shows one beat of her attachment sharpening—NOT power grow
 
 The irony: she demonstrates perfect understanding of fetters through her actions and choices, while remaining blind to her own final attachment. She sees truth perfectly, cannot apply it to herself. But this irony shows through what she DOES (the parallel structure of her mistakes mirroring the avatars'), not through patient counseling sessions.
 
-### Foreshadowing Maitreya
+### Foreshadowing Unity and the Unnamed Future Buddha
 
 Plant throughout:
 
-- Maitreya statues, texts, passing mentions
-- “Loving-kindness” (the name’s meaning) in significant contexts
+- Non-naming future-Buddha language
+- “Loving-kindness” in significant contexts
 - Moments where duality collapses
 - Times when harming him causes her inexplicable pain
 - Dreams or visions where they appear as one being
@@ -427,7 +428,7 @@ Her mistake must mirror the avatar's mistake at different scale:
 
 This creates the devastating irony: she sees his flaw perfectly, cannot see her own identical pattern.
 
-### 5. Maitreya Foreshadowing (Subtle, 0-2 moments max)
+### 5. Unity and Future-Buddha Foreshadowing (Subtle, 0-2 moments max)
 
 As her attachment intensifies, so do hints that something else is happening:
 
@@ -465,7 +466,7 @@ FETTER BEAT
 - One clear intensification of her attachment
 - Shown through action/reaction, not stated
 
-MAITREYA FORESHADOWING
+UNITY AND FUTURE-BUDDHA FORESHADOWING
 - 0-2 subtle moments
 - Hesitation, inexplicable pain, merged perception
 ```
@@ -490,7 +491,7 @@ The agent must NOT independently create or modify:
 - Fetter progression or breaking sequence
 - New chapters or structural changes
 - Recognition markers (until defined by author)
-- The Maitreya resolution or how the merger occurs
+- The unnamed final identity or how unity occurs
 - Any Buddhist cosmology or metaphysics
 - Plot twists not documented in scene-manifest.json
 - New characters with cross-chapter significance
@@ -526,7 +527,7 @@ If any of these seem necessary for a scene to work, document the need in `novel-
 1. **Voice is paramount** — Every sentence should feel like this novel
 1. **Function persists, method adapts** — Core patterns transform by period
 1. **Lilith always backfires** — Her opposition enables his growth
-1. **They become Maitreya** — The ending recontextualizes everything
+1. **The final identity remains unnamed** — The embodied ending recontextualizes everything
 1. **Show through body** — No abstract emotions, no Buddhist jargon, no exposition
 1. **Death scenes matter** — Extended, visceral, with clear karmic bridge
 1. **Same face** — Readers recognize Lilith before Silas does

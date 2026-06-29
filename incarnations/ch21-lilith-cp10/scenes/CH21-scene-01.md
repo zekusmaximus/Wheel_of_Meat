@@ -1,6 +1,6 @@
 Rain on two cities. She felt it in her skin before she heard it on the windows.
 
-The faculty reception hummed with the particular violence of small talk. Cclinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray. Across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions that had backfired into exactly what she'd tried to prevent.
+The faculty reception hummed with the particular violence of small talk. Cclinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray. Across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions since Chapter 5 that had backfired into exactly what she'd tried to prevent.
 
 Week nine of tracking. Or ten. She'd stopped counting days when the pursuit became fever.
 

@@ -36,7 +36,7 @@ The question sat in her chest like the cold that had not quite left. This patter
 
 Dawn light strengthened. Manchester stirred toward morning outside her window: buses beginning their routes, early joggers on the paths, the ordinary machinery of a world that did not know it contained such things as she had seen tonight.
 
-She would follow this one forward. Her shoulders settled. The decision felt inevitable, the way certain clinical interventions felt inevitable—not forced but discovered, the right action emerging from the correct assessment. See where it went. Understand what it was becoming.
+She would follow this one forward. Her shoulders settled. The decision felt inevitable, the way certain clinical conclusions felt inevitable—not forced but discovered, the right next step emerging from the correct assessment. See where it went. Understand what it was becoming.
 
 A fellow traveler. That was all. Curiosity about a parallel journey. The scientist's desire to understand a phenomenon she had stumbled upon.
 

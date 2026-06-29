@@ -1,6 +1,6 @@
 Stewart turned at the sound of the door, and in the city's ambient glow, Silas could see he wasn't the same young man who'd stripped in the lecture hall that morning. The desperation was gone. In its place, something worse—a terrible clarity that settled across his features like frost.
 
-"Professor Phalavan." The words carried no surprise, no distress. An observation, nothing more. "I thought they might send you."
+"Professor Pahlavan." The words carried no surprise, no distress. An observation, nothing more. "I thought they might send you."
 
 The rain had gentled to a mist that hung in the air rather than fell through it, catching the light from below and turning the rooftop into something between worlds. Silas took a step forward, and the cold hit him—wrong cold, old cold, a chill that had nothing to do with the Manchester night or the mist rising from the streets below. It settled in his bones as if it had always been there, waiting to be remembered. He felt Lilith close behind him but did not look back.
 
@@ -62,7 +62,7 @@ The helper identity. The compulsion to be the one who saves, who fixes, who guid
 
 And here it was, fully activated, straining toward Stewart with every technique and reassurance it had accumulated over decades. The urge to close the distance, to offer the right words, to be the professor who talked the student down from the ledge.
 
-But the urge itself was the problem. He could feel it now like a harness around his chest, pulling him forward—could see it as clearly as Stewart's silhouette against the lights below. The need to help was attachment. The identity of helper was still identity, still self, still the illusion that kept him bound to the wheel. To step out of it now would be to truly let go. It would be the final surrender. And it would mean leaving Stewart utterly alone.
+But the urge itself was the problem. He could feel it now like a harness around his chest, pulling him forward—could see it as clearly as Stewart's silhouette against the lights below. The need to help was attachment. The identity of helper was still identity, still self, still the illusion that kept him bound to the wheel. To step out of it now would be to truly let go. It felt like surrender without completion. And it would mean leaving Stewart utterly alone.
 
 Stewart had seen through himself and found nothing. Silas had seen through himself and found something else—but what? What remained when even the desire to save was recognized as another mask?
 
@@ -110,7 +110,7 @@ He staggered. Caught himself on the barrier. The vision—memory?—passed, leav
 
 Silas didn't understand it. But it had been real.
 
-His own hand extended, the helper identity's final act or something beyond it—the boundary between self and other already blurring, already meaningless, already collapsed into a single gesture that was both reaching and being reached for.
+His own hand extended, the helper identity's final act or something beyond it—the boundary between self and other already blurring, already losing meaning, already tightening toward a single gesture that was both reaching and being reached for.
 
 The mist caught the light from below. Stewart's fingers spread wide, pale against the darkness. Silas felt the edge of the barrier press against his hip as he leaned over, farther than balance should allow, farther than sense would permit.
 

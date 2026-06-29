@@ -102,11 +102,11 @@ And by breaking it, she had purified it.
 
 *I didn't break him. I purified him.*
 
-Nine interventions. Nine backfires. She counted them now, the arithmetic she'd avoided, the ledger she'd refused to keep:
+Eight interventions. Eight backfires. She counted them now, the arithmetic she'd avoided, the ledger she'd refused to keep:
 
 Chandra—she'd tried to corrupt generosity through bureaucratic distance, and it had forged cleaner giving. Philon—she'd tried to shatter wisdom through martyrdom, and it had clarified seeing without sacrifice. Verinus—she'd tried to break virtue through impossible contradiction, and it had tempered ethical action without rigid certainty. Macarius—she'd tried to exploit performance, and it had burned away false humility into genuine uncertainty. Kaoru—she'd tried to weaponize grasping at beauty, and it had released attachment to outcome. Diego—she'd tried to poison patience through injustice, and it had purified endurance without bitterness. Jean—she'd tried to fracture truthfulness through impossible doubt, and it had crystallized honest action when certainty was impossible. The glimpses between, the lives she'd touched and adjusted, the interventions that blurred into pattern.
 
-And now Wei. The ninth. The catastrophic one.
+And now Wei. The eighth. The catastrophic one.
 
 She had made futility visible. And instead of breaking, he had released the last contamination—determination attached to success, determination that needed saving to justify helping.
 
@@ -114,7 +114,7 @@ She had made futility visible. And instead of breaking, he had released the last
 
 The thought arrived with the clarity of something she could no longer deny. Not just one more backfire. Not just determination purified. The accumulated weight of every quality she'd tried to prevent—cooperation, generosity, wisdom, virtue, renunciation, patience, equanimity, truthfulness, determination—all of it forged rather than fractured. All of it approaching completion.
 
-Nine interventions. Nine backfires. Each one designed to break had built instead. Each method had produced the opposite of what she intended.
+Eight interventions. Eight backfires. Each one designed to break had built instead. Each method had produced the opposite of what she intended.
 
 Emotional manipulation. Intellectual precision. Sustained circumstantial interference.
 

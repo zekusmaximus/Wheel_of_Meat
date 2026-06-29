@@ -2,7 +2,7 @@ Mornings in Manchester were a different story, especially following on the heels
 
 Silas walked towards her, heading to his office in the Arthur Lewis Building, seeming to avert his gaze when she came into view. When he seemed not to notice her, hesitation in her stride suggested her mention of his past lives the night before might have been a mistake. Lilith narrowed her eyes as if preparing to feel Silas out as a student barreled past her, almost nudging her out of his way.
 
-"Professor Phalavan!" The student quickened his pace even further as he closed the distance with Silas. They were already in conversation as Lilith approached. Whether Silas had taken her confession seriously the prior evening, or had given it any further thought, would remain a mystery for now.
+"Professor Pahlavan!" The student quickened his pace even further as he closed the distance with Silas. They were already in conversation as Lilith approached. Whether Silas had taken her confession seriously the prior evening, or had given it any further thought, would remain a mystery for now.
 
 She neared him as he argued with the student over a late assignment. He gave only a cursory look toward her, a slight nod of recognition as he informed the student he couldn't make exceptions.
 

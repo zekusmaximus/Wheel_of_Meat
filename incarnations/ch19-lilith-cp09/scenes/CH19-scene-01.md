@@ -28,7 +28,7 @@ What remained was contaminated: determination still attached to outcomes—the l
 
 She saw the parallel before suppressing it.
 
-Wei at his makeshift desk in the converted temple, charcoal in hand, updating his ledger: 103 saved, 97 lost. The gap closing. The numbers approaching equilibrium like an equation solving toward zero. And Lilith in her flat, tracking her own arithmetic—nine interventions, nine backfires, the many lives and many deaths blurring into pattern rather than staying discrete as memory. His patient ledger and her intervention ledger. The same compulsion at different scales.
+Wei at his makeshift desk in the converted temple, charcoal in hand, updating his ledger: 103 saved, 97 lost. The gap closing. The numbers approaching equilibrium like an equation solving toward zero. And Lilith in her flat, tracking her own arithmetic—eight interventions, eight backfires, the many lives and many deaths blurring into pattern rather than staying discrete as memory. His patient ledger and her intervention ledger. The same compulsion at different scales.
 
 She didn't count them. Counting implied finitude. This had gone on too long for numbers.
 

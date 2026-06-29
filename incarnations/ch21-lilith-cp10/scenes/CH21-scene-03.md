@@ -42,7 +42,7 @@ The realization settled into her chest like ice. Her breath stopped. Her hands f
 
 *Terminal.*
 
-The word arrived without her choosing it. Ten interventions—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see *her*.
+The word arrived without her choosing it. Nine interventions since Chapter 5—active, minimal, circumstantial—and every single one had accelerated exactly what she'd tried to prevent. But this was different. This was evidence that the accumulated lives were beginning to speak to each other. Beginning to recognize patterns. Beginning to see *her*.
 
 This was not another backfire. This was the pattern completing.
 

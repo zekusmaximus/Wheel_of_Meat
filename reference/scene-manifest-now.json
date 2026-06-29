@@ -52,6 +52,15 @@
     "word_target": 150000,
     "status": "development"
   },
+  "canon_locks": {
+    "names": "Silas Pahlavan and Lilith Azami",
+    "present_life_breakthrough_arc": "Chapter 1 is the first half of a continuous crisis and ends on the rooftop cliffhanger; Chapter 22 resumes directly and completes the formal breakthrough and stream-entry beat.",
+    "lilith_capability": "Progressive demonstrated capability, beginning with discovery and tracking in Chapter 3 and becoming increasingly direct under karmic, precision, embodiment, and ethical-choice constraints.",
+    "chapter_3": "Discovery, tracking, recognition, and decision to continue; not an intervention or backfire. Intervention counting begins in Chapter 5.",
+    "pursuit_duration": "One coherent pursuit of approximately ten weeks (8-10 weeks); contradictory seasonal images remain a later continuity cleanup task.",
+    "final_identity": "The final Buddha or teacher remains unnamed.",
+    "chapter_26": "Embodied completion through birth, food, language, village life, teaching, aging, and ordinary action without ownership."
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -78,7 +87,7 @@
         },
         "stewart": {
           "name": "Stewart Sheldon",
-          "role": "Student whose destabilizing encounter with non-self mirrors and catalyzes Silas's breakthrough."
+          "role": "Student whose destabilizing encounter with non-self mirrors and catalyzes the first half of Silas's breakthrough crisis."
         }
       },
       "function": "Introduces Silas and Lilith through intimacy, exposes Lilith's concealed history with him, turns a classroom crisis into Silas's spiritual acceleration, and ends on an unresolved rooftop rescue.",
@@ -210,23 +219,8 @@
           "ends_on": "Their fingers touch—or do not—as the rain stops."
         }
       ],
-      "continuity_flags": [
-        {
-          "kind": "name_spelling",
-          "severity": "high",
-          "note": "The source manifest uses “Silas Pahlavan,” while Chapter 1 prose uses “Silas Phalavan” in Scenes 1, 2, 5, and 9."
-        },
-        {
-          "kind": "name_spelling",
-          "severity": "medium",
-          "note": "The source manifest and most prose use “Lilith Azami,” but the dean calls her “Miss Azari” in Scene 5."
-        },
-        {
-          "kind": "arc_timing",
-          "severity": "high",
-          "note": "The prose describes Silas's experience as a breakthrough and frames release of the helper identity as a possible final surrender, while the source manifest reserves stream-entry for Chapter 22. The intended attainment level in Chapter 1 needs confirmation."
-        }
-      ]
+      "canon_note": "Chapter 1 is acceleration, destabilization, glimpse, and opening—the first half of the present-life breakthrough crisis. It ends mid-rescue; Chapter 22 resumes directly and completes formal stream-entry.",
+      "continuity_flags": []
     },
     {
       "chapter": 2,
@@ -408,6 +402,8 @@
         "attachment_manifestation": "She calls the discovery research and a problem to solve while beginning to grasp the thread as hers.",
         "blind_spot": "She diagnoses Ka's isolation and hoarding while reproducing both patterns in her solitary tracking."
       },
+      "intervention": null,
+      "intervention_note": "Chapter 3 is discovery, tracking, recognition, and decision to continue. It is not an intervention or backfire; intervention counting begins in Chapter 5.",
       "corresponds_to": {
         "historical_chapter": 2,
         "avatar": "Ka",
@@ -490,12 +486,8 @@
           "ends_on": "Lilith grips a fresh mug and resolves to solve the consciousness she now treats as a problem."
         }
       ],
+      "canon_note": "Chapter 3 establishes the first stage of Lilith's progressive demonstrated capability: discovering and following the thread without causal intervention.",
       "continuity_flags": [
-        {
-          "kind": "capability_timing",
-          "severity": "high",
-          "note": "The source manifest says Lilith has full temporal perception, physical manifestation, and circumstance manipulation from the start. Chapter 3 prose says she cannot yet reach through time to change events and that “the skill would come later.”"
-        },
         {
           "kind": "timeline_duration",
           "severity": "medium",
@@ -1494,7 +1486,7 @@
       "pov": "Lilith integrated with Kaoru and the attendant vessel",
       "function": "Reveals that Lilith physically inhabited the attendant, makes proximity feel more effective than distance, and draws her body toward the present-day Silas before she consciously chooses to meet him.",
       "current_read": {
-        "summary": "Lilith follows the thread into Kaoru's aesthetic longing and remembers the attendant as a vessel she wore. Her hands retain the labor of maintaining Hotaru's impossible spring and the ache of almost being recognized beneath another face. Needing air, Lilith walks without conscious destination to the university's philosophy buildings, where the present-day consciousness she tracks already works. She returns to Kaoru's typhoon and sees her frozen beauty produce the opposite lesson. Six backfires now suggest proximity, not stronger opposition, may be the missing method; she labels her pull toward Silas tactical.",
+        "summary": "Lilith follows the thread into Kaoru's aesthetic longing and remembers the attendant as a vessel she wore. Her hands retain the labor of maintaining Hotaru's impossible spring and the ache of almost being recognized beneath another face. Needing air, Lilith walks without conscious destination to the university's philosophy buildings, where the present-day consciousness she tracks already works. She returns to Kaoru's typhoon and sees her frozen beauty produce the opposite lesson. Five deliberate backfires now suggest proximity, not stronger opposition, may be the missing method; she labels her pull toward Silas tactical.",
         "arc": {
           "opening_state": "Lilith enters beauty as a new exploitable attachment.",
           "major_turn": "Her body leads her to Silas's present location before strategy authorizes it.",
@@ -1547,7 +1539,7 @@
           "word_count": 754,
           "status": "text_present",
           "pov_focus": "Lilith integrated with Kaoru",
-          "summary": "The typhoon destroys Lilith's cage of eternal spring, and Kaoru learns that possession is not experience and beauty requires change. Lilith counts six interventions and six accelerated lessons.",
+          "summary": "The typhoon destroys Lilith's cage of eternal spring, and Kaoru learns that possession is not experience and beauty requires change. Lilith counts five interventions and five accelerated lessons since intervention began in Chapter 5.",
           "function": "Turns her finest construction into the clearest evidence of structural backfire."
         },
         {
@@ -2225,7 +2217,7 @@
       "pov": "Lilith integrated with Wei, then present-day Lilith",
       "function": "Takes Lilith through the apparent success and final backfire of Wei's curse, then follows her concrete positioning inside Silas's university life.",
       "current_read": {
-        "summary": "Rain in Manchester and dust in Tianjing hold Lilith's arithmetic of nine interventions beside Wei's saved/lost ledger. She times pressure to spread the belief that he is cursed and helps doctrine collapse around him, producing the paralysis she intended. A wounded child then makes the curse irrelevant: Wei resumes work because the injury exists, not because success is promised. Lilith experiences his breakthrough and death, sees two souls approaching the same threshold, and turns fully toward the present. She applies to University of Manchester Student Mental Health Services, secures a flat, locates Silas, and begins arranging access while denying that the pursuit is personal.",
+        "summary": "Rain in Manchester and dust in Tianjing hold Lilith's arithmetic of eight interventions since Chapter 5 beside Wei's saved/lost ledger. She times pressure to spread the belief that he is cursed and helps doctrine collapse around him, producing the paralysis she intended. A wounded child then makes the curse irrelevant: Wei resumes work because the injury exists, not because success is promised. Lilith experiences his breakthrough and death, sees two souls approaching the same threshold, and turns fully toward the present. She applies to University of Manchester Student Mental Health Services, secures a flat, locates Silas, and begins arranging access while denying that the pursuit is personal.",
         "arc": {
           "opening_state": "Lilith is feverishly tracking and still measuring intervention against outcome.",
           "major_turn": "Wei works despite curse and futility, purifying the very determination she attacked.",
@@ -2558,7 +2550,7 @@
         "time": "Immediately after Chapter 1"
       },
       "pov": "Silas and Lilith",
-      "function": "Resolves the rooftop cliffhanger, confirms Silas's release from helper identity, opens all past lives into conscious continuity, and reveals Lilith as the connected thread rather than a separate antagonist.",
+      "function": "Directly resumes and resolves Chapter 1's rooftop cliffhanger, completes Silas's formal stream-entry breakthrough and release from helper identity, opens all past lives into conscious continuity, and reveals Lilith as the connected thread rather than a separate antagonist.",
       "current_read": {
         "summary": "Silas catches Stewart's hand and Lilith anchors Silas, forming a three-person chain until Stewart is pulled back. In the rescue Silas acts without needing to be the savior, and the helper harness falls away. Paramedics take Stewart with Lilith while Silas remains on the roof, then wakes home to a quiet, ordinary morning. Past lives open in sequence without overwhelming him; he sees Lilith present throughout them and senses her across distance. She does not arrive at his door, yet he understands connection as prior to proximity and settles into the changed texture of awareness.",
         "arc": {
@@ -2672,13 +2664,8 @@
           "function": "Closes the contemporary climax on presence rather than reunion."
         }
       ],
-      "continuity_flags": [
-        {
-          "kind": "attainment_timing",
-          "severity": "medium",
-          "note": "Chapter 22 clearly dramatizes the intended breakthrough, but Chapter 1 also uses breakthrough/final-surrender language; terminology across the two chapters should remain carefully distinguished."
-        }
-      ]
+      "canon_note": "This chapter is the second half of the continuous present-life breakthrough crisis. Formal stream-entry and the first-three-fetters resolution belong here, not in Chapter 1.",
+      "continuity_flags": []
     },
     {
       "chapter": 23,
@@ -3056,18 +3043,8 @@
           "function": "Closes the novel in ordinary embodiment with teaching ongoing."
         }
       ],
-      "continuity_flags": [
-        {
-          "kind": "setting_superseded",
-          "severity": "high",
-          "note": "The source manifest places Chapter 26 beyond time in the Pure Abodes. The current scene prose is embodied in an unnamed village, with birth, language learning, food, work, aging villagers, and a physical tree."
-        },
-        {
-          "kind": "draft_status",
-          "severity": "high",
-          "note": "The source manifest labels Chapter 26 “needs_development,” but five current scene files contain 9,132 prose words."
-        }
-      ]
+      "canon_note": "Chapter 26 is embodied completion: birth, food, language, village existence, teaching, aging, and ordinary life without ownership. Abstract or primarily disembodied completion is superseded.",
+      "continuity_flags": []
     }
   ],
   "chapter_type_legend": {

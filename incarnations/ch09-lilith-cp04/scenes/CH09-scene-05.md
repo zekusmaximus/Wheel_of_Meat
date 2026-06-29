@@ -58,7 +58,7 @@ The pattern was undeniable now.
 
 Ka's cooperation had crystallized through her observation. Chandra's generosity had crystallized through her intervention. Philon's wisdom had crystallized through her isolation of him. Verinus's capacity to act with compassion despite uncertainty—crystallizing now, through her destabilization.
 
-Four patterns. Four lessons. Each intervention accelerating what it opposed.
+Four patterns. Four lessons. Each deliberate intervention after Ka accelerating what it opposed.
 
 Her hands were cold in the Manchester flat, and she could not say when they had grown cold, and the alarm she was filing was larger than any she had filed before. The soul approaching completion. The lessons accumulating faster than she could impede them. The evidence exceeding her capacity to deny.
 

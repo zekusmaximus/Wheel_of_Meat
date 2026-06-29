@@ -49,8 +49,8 @@
     "description": "The chapters braid Lilith's Manchester body with the historical life she tracks through shared sensation, thought, and action. Early chapters remain closely superimposed; later chapters increasingly permit Manchester-only or Manchester-dominant scenes as she turns toward present-day Silas.",
 
     "power_model": {
-      "type": "progressive_in_current_prose",
-      "description": "The current scenes do not give Lilith full capability from Chapter 3 onward. They explicitly stage learning: passive tracking becomes probability weighting, dream shaping, document and circumstance manipulation, historical vessel inhabitation, sustained multi-year intervention, and finally simultaneous historical tracking with present-day approach.",
+      "type": "progressive_demonstrated_capability",
+      "description": "Binding canon is progressive demonstrated capability: Chapter 3 establishes discovery, tracking, and recognition; later chapters stage probability weighting, dream shaping, document and circumstance manipulation, historical vessel inhabitation, sustained intervention, and finally simultaneous historical tracking with present-day approach.",
       "capability_stages": [
         {
           "chapter": 3,
@@ -150,7 +150,7 @@
       ]
     },
 
-    "arc_type": "capability_expansion_and_fetter_intensification",
+    "arc_type": "progressive_demonstrated_capability_and_fetter_intensification",
     "arc_description": "Lilith gains or demonstrates increasingly direct methods while her final attachment sharpens. Curiosity becomes possession, possession becomes intervention, intervention becomes repeated calibration, and calibration becomes present-day positioning. At the same time, bodily hesitation, pain, recognition, and attraction expose a connection her strategic frame cannot contain.",
 
     "word_targets": {
@@ -179,12 +179,11 @@
     ],
 
     "source_claims_superseded_by_current_prose": [
-      "Full cosmic power from Chapter 3 onward",
-      "No power-level progression",
+      "Earlier constant-capability planning language; the canon now requires progressive demonstrated capability beginning with discovery in Chapter 3",
       "No professional subplot or office-related positioning",
       "Every sentence and scene containing both timelines",
       "A consistent 2,500–3,500-word chapter length",
-      "A fully coherent eight-to-ten-week seasonal chronology",
+      "Seasonal images that do not yet align with the binding approximately ten-week pursuit",
       "A prohibition on Buddhist terminology in Lilith POV"
     ]
   },
@@ -192,7 +191,8 @@
   "timeline": {
     "tracking_period": {
       "duration_claim_in_prose": "Week 9 or 10 by Chapter 21",
-      "description": "The draft retains the compressed pursuit concept, but only some chapter positions are explicitly numbered and the seasonal markers do not form a coherent single ten-week sequence.",
+      "canon_duration": "One coherent pursuit of approximately ten weeks (8-10 weeks)",
+      "description": "The approximately ten-week pursuit is binding canon. Some chapter positions are explicitly numbered; contradictory seasonal images remain queued for a later continuity pass rather than reopening the duration decision.",
       "anchored_points": [
         {
           "chapter": 3,
@@ -251,7 +251,8 @@
         "Her tracking-fever presentation becomes controlled enough to pass as composure"
       ]
     },
-    "chapter_1_recontextualization": "The Chapter 1 relationship is the result of Lilith's decision to replace historical interference with proximity. Her clinical care is genuine and also designed to keep Silas bounded, present, and with her."
+    "chapter_1_recontextualization": "The Chapter 1 relationship is the result of Lilith's decision to replace historical interference with proximity. Her clinical care is genuine and also designed to keep Silas bounded, present, and with her.",
+    "present_life_breakthrough_arc": "Chapter 1 is the first half of the present-life breakthrough crisis and ends mid-rescue. Chapter 22 resumes directly from the cliffhanger and completes the formal breakthrough and stream-entry beat."
   },
 
   "technique": {
@@ -504,8 +505,8 @@
     ]
   },
 
-  "maitreya_foreshadowing_distribution": {
-    "description": "The source key is retained for compatibility. The current scenes foreshadow one path in two faces, mutual recognition, and eventual unity, but do not explicitly use the name Maitreya.",
+  "unity_foreshadowing_distribution": {
+    "description": "The current scenes foreshadow one path in two faces, mutual recognition, eventual unity, and an unnamed future Buddha.",
     "types": [
       "Mirrored grasping or matching bodily gestures",
       "Hesitation that contradicts strategic intent",
@@ -592,7 +593,7 @@
         ]
       }
     ],
-    "naming_note": "Maitreya remains an interpretive or planning label rather than a name spoken in the current scene prose."
+    "naming_note": "The final identity remains unnamed; references use the future Buddha, final embodied awareness, completed path, or equivalent non-naming language."
   },
 
   "setting": {
@@ -661,7 +662,7 @@
         "not_yet_available": "Deliberate historical alteration"
       },
       "intervention": null,
-      "intervention_count_note": "Later chapters count Ka among Lilith's interventions or backfires even though this chapter says she cannot yet change events.",
+      "intervention_note": "Chapter 3 is discovery, tracking, recognition, and the decision to continue. It is not an intervention or backfire; deliberate intervention counting begins in Chapter 5.",
       "fetter_beat": {
         "manifestation": "Observation becomes possession.",
         "shown_through": "She names the thread as something found and chooses to keep following despite recognizing herself in Ka."
@@ -676,7 +677,7 @@
           "moment": "At dawn Lilith follows the rebirth thread into Chandra."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "The same forward-driving hunger is recognizable in Ka and Lilith.",
         "The encounter is mirror-like before it is understood as rivalry."
       ],
@@ -751,7 +752,7 @@
           "moment": "Chandra dies seeing the faces his ledger excluded."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "Lilith hesitates before influencing Devaka.",
         "The next thread feels like the other end of a conversation."
       ],
@@ -776,7 +777,7 @@
         "historical_location": "Athens during the plague"
       },
       "current_read": {
-        "summary": "Lilith isolates Philon through two pressures: an amplified xenophobic rumor and a shaped dream that drives Alexios away. Philon nevertheless reaches toward a dying enslaved woman, whose question exposes the self inside his martyrdom. His death crystallizes wisdom, while Lilith converts three counted backfires into a plan for further calibration.",
+        "summary": "Lilith isolates Philon through two pressures: an amplified xenophobic rumor and a shaped dream that drives Alexios away. Philon nevertheless reaches toward a dying enslaved woman, whose question exposes the self inside his martyrdom. His death crystallizes wisdom, while Lilith converts two deliberate backfires into a plan for further calibration.",
         "opening_state": "A refined psychological intervention is expected to correct the first backfire.",
         "major_turn": "Philon reaches for the woman while Lilith reaches into the thread.",
         "closing_state": "The lesson survives, and the thread has become something Lilith experiences as impossible to release."
@@ -813,7 +814,7 @@
         "backfire": "Isolation concentrates the question of whether care serves the patient or the helper self."
       },
       "fetter_beat": {
-        "manifestation": "Three backfires become evidence for the next intervention rather than evidence against intervention.",
+        "manifestation": "Two deliberate backfires become evidence for the next intervention rather than evidence against intervention.",
         "shown_through": "Lilith calculates rate and completion, feels an ache of almost, and buries it under analysis."
       },
       "pivotal_moments": [
@@ -826,7 +827,7 @@
           "moment": "Philon dies with the unresolved helper question as karmic seed."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "The kinship whisper now spans three lives.",
         "Lilith experiences closeness to his destination as an ache rather than only strategic alarm."
       ],
@@ -837,7 +838,6 @@
       "scene_count": 4,
       "status": "revised",
       "continuity_flags": [
-        "The prose calls this the third intervention/backfire even though Chapter 3 depicts observation rather than causal intervention.",
         "December does not fit cleanly after Chapter 3's February within a single compressed ten-week run."
       ]
     },
@@ -907,7 +907,7 @@
           "moment": "The tribunal choice converts broken certainty into virtue."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "Verinus appears to see Lilith rather than merely Marcia.",
         "Lilith cannot tell which consciousness trembled during the mutual gaze."
       ],
@@ -979,7 +979,7 @@
           "moment": "The body refuses the final push and Macarius sees his hunger."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "The intervention is interrupted by body-knowledge that precedes Lilith's conscious understanding.",
         "The backfire feels like recognition rather than simple defeat."
       ],
@@ -1052,7 +1052,7 @@
           "moment": "The frozen spring breaks and Kaoru accepts Hotaru's real body."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "The attendant wanted Kaoru to recognize Lilith beneath the vessel.",
         "Silas becomes “him” before Lilith meets him.",
         "Her body knows the direction of reunion before strategy does."
@@ -1133,7 +1133,7 @@
           "moment": "Face-to-face present contact becomes the next plan."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "Diego recognizes something beneath Sor Catalina.",
         "Lilith sees that her face remains constant while his reincarnations change.",
         "The same release occurs in Diego and in her chest."
@@ -1210,7 +1210,7 @@
           "moment": "Lilith researches the contemporary consciousness and considers direct meeting."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "The same search for defensible certainty structures Jean's problem and Lilith's method.",
         "Her persistence has exceeded the logic by which she justifies it."
       ],
@@ -1307,7 +1307,7 @@
           "moment": "Lilith stands outside the Humanities building, close enough to meet him."
         }
       ],
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "Wei's death crosses the thread as Lilith's bodily experience.",
         "Two souls are described as approaching the same threshold.",
         "The pull becomes loving-kindness and water seeking water.",
@@ -1395,7 +1395,7 @@
         "on_page_result": "Initial acquaintance and mutual recognition",
         "off_page_next": "The relationship deepens over months before Chapter 1."
       },
-      "maitreya_foreshadowing": [
+      "unity_foreshadowing": [
         "Jack's death produces real pain in Lilith.",
         "Jack recognizes her across incarnational memory.",
         "The timelines and gestures become difficult to distinguish.",
@@ -1473,19 +1473,9 @@
 
   "continuity_flags": [
     {
-      "kind": "power_model",
-      "severity": "high",
-      "note": "The source manifest says Lilith has full constant power from Chapter 3. The current prose explicitly says she cannot yet alter events in Chapter 3 and stages progressive capability thereafter."
-    },
-    {
       "kind": "timeline_seasons",
-      "severity": "high",
-      "note": "The compressed Week 1–10 structure conflicts with present-day seasonal markers: Chapter 3 is February, Chapters 7 and 9 are December, Chapters 13 and 15 are November, and Chapter 19 is late October."
-    },
-    {
-      "kind": "intervention_count",
       "severity": "medium",
-      "note": "Later chapters count Ka as an intervention and backfire, while Chapter 3 presents Lilith as unable to change events and performing observation only."
+      "note": "The binding duration is one coherent pursuit of approximately ten weeks. Present-day seasonal markers still need Priority 2 cleanup: Chapter 3 is February, Chapters 7 and 9 are December, Chapters 13 and 15 are November, and Chapter 19 is late October."
     },
     {
       "kind": "integration_model",
@@ -1526,11 +1516,6 @@
       "kind": "lilith_fetter_taxonomy",
       "severity": "high",
       "note": "The broader prose describes Lilith as having broken nine of ten fetters with competition remaining, yet the joined awareness later releases the five standard higher fetters in Chapter 26."
-    },
-    {
-      "kind": "resolution_naming",
-      "severity": "medium",
-      "note": "The source names Maitreya. The current scenes foreshadow a Buddha associated with loving-kindness and one path in two faces but do not use the name Maitreya."
     }
   ]
 }

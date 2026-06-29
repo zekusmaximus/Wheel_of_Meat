@@ -78,15 +78,15 @@ She felt the kinship whisper extending from Ka through Chandra to Philon. She fe
 
 But beneath the curiosity, something else was surfacing. Something that would not file cleanly.
 
-She forced herself to trace the pattern. Three interventions. Three backfires. The data arranged itself with brutal clarity:
+She forced herself to trace the pattern. Three lessons. Two interventions. Two backfires. The data arranged itself with brutal clarity:
 
-Ka: Her observation had isolated him. Winter had broken his hoarding. He had learned *cooperation must be chosen freely, or not at all.*
+Ka: Her observation had not touched his choices. Winter had broken his hoarding. He had learned *cooperation must be chosen freely, or not at all.*
 
 Chandra: Her administrative pressure had reinforced his ledgers. Fire had consumed them. He had learned *generosity cannot be calculated, only given.*
 
 Philon: Her intervention had isolated him perfectly. His martyrdom had crystallized the question: *Was the one for her—or for me?*
 
-Three lessons. Three crystallizations. Three times her opposition had accelerated what she opposed.
+Three lessons. Three crystallizations. Twice her deliberate opposition had accelerated what she opposed.
 
 Her hands had stilled on the cold ceramic. The flat pressed in around her—walls too close, air too still, the silence of a space no one visited taking on the particular weight of understanding she had been refusing.
 
@@ -94,7 +94,7 @@ Not one backfire. Not two. A *mechanism*.
 
 Opposition accelerates what she opposes.
 
-The words formed themselves with the clinical precision she had cultivated across millennia, but beneath them something cracked—hairline fracture in certainty she had not examined. She had not corrupted his progress. She had not impeded his development. She had *taught* him. Every time. She had been his teacher wearing opposition's face.
+The words formed themselves with the clinical precision she had cultivated across millennia, but beneath them something cracked—hairline fracture in certainty she had not examined. She had not corrupted his progress. She had not impeded his development. When she intervened, she had *taught* him. She had been his teacher wearing opposition's face.
 
 Something shifted in her chest. Not alarm (she did not feel alarm; she was beyond such simple reactions). Not fear (fear was for consciousnesses that had not transcended the lower patterns). Something else. Something that felt like the ground shifting beneath the chair she had not left in days.
 

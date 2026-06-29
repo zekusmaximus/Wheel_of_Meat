@@ -42,7 +42,7 @@ Ka's isolation—she had watched him hoard resources, and the watching had isola
 
 And Kaoru—Kaoru had been shown frozen beauty and understood that beauty melts.
 
-Six incarnations. Six interventions. Six backfires. Six lessons crystallized by the opposition meant to prevent them.
+Six incarnations. Five interventions. Five backfires. Six lessons crystallized, the first under observation and the rest through opposition meant to prevent them.
 
 She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the way that meant transmission rather than extinction.
 

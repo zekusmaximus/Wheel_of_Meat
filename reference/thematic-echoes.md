@@ -89,7 +89,7 @@ Track specific images that echo across incarnations:
 
 - First appearance: Chapter 12 (first physical manifestation)
 - Recurrences: Every manifestation thereafter; Chapter 1 and 22 as lover
-- Evolution of meaning: Recognition; the other half; Maitreya foreshadowing
+- Evolution of meaning: Recognition; the other half; unity and future-Buddha foreshadowing
 
 -----
 
@@ -143,7 +143,7 @@ She appears with the same face across all incarnations. Readers should recognize
 
 #### Lilith Chapters (Fetter Intensification Arc)
 
-Lilith has full cosmic capability from Chapter 3. Her arc is not power growth but fetter intensification—her attachment crystallizing harder with each failed intervention.
+Lilith begins with discovery, tracking, and recognition in Chapter 3, then demonstrates progressively more direct capability under karmic, precision, embodiment, and ethical-choice constraints. Her final attachment crystallizes alongside that progression.
 
 |Ch|Tracking Time|Fetter Manifestation                    |Parallel Mistake (Mirrors Avatar)      |Her Blind Spot                        |
 |--|-------------|----------------------------------------|---------------------------------------|--------------------------------------|
@@ -180,7 +180,7 @@ Plant subtle hints that they are connected at a deeper level:
 - Times when harming him causes her inexplicable pain
 - Dreams or visions where they appear as one being
 - Her attraction to him that exceeds tactical calculation
-- References to “loving-kindness” (mettā/maitri—Maitreya’s name meaning)
+- References to “loving-kindness” (mettā/maitri) as non-naming future-Buddha foreshadowing
 - [TBD: other foreshadowing elements]
 
 **Frequency:** 0-2 subtle moments per chapter maximum. Never explained.
