@@ -28,7 +28,7 @@ She had come to observe. She had come to watch his certainty tremble.
 
 She was there.
 
-The realization arrived with the weight of physical presenc. Not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
+The realization arrived with the weight of physical presence. Not the projected observation she had maintained through most of the thread, not the remote perception that cost her headaches and cramped hands, but *being*. Her body in the colonnade. Her lungs breathing marble dust and afternoon heat. Her arms folded in a posture that mirrored his.
 
 Dark-haired. Still. Watching.
 

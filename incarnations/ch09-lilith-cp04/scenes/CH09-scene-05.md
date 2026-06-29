@@ -106,7 +106,7 @@ The wheel turned, and she turned with it, and the thread of her own attachment g
 
 ---
 
-In the olive grove, the light failed completely.
+In the olive grove, the light failed completely. Down in the village the freedman was bargaining for fish, and in the hills the woman who cooked for him laughed with her sister's children; neither knew the man they served was dying.
 
 Somewhere in a flat in Manchester, a woman sat with her hands cold around ceramic that had long since stopped holding warmth.
 
