@@ -18,9 +18,7 @@ In her flat, or perhaps in the Theodora-body she inhabited, she felt his pleasur
 
 She did not examine why the noise felt familiar.
 
-The interviews continued. Theophanes asked about the temptation of despair. How did one maintain faith when the desert offered nothing but silence and one's own failing body? Macarius's answer came with a practiced fluency that betrayed its performance:
-
-*"The silence is not empty. The silence is God's voice learning to speak through the absence of lesser sounds."*
+The interviews continued. Theophanes asked about the temptation of despair. How did one maintain faith when the desert offered nothing but silence and one's own failing body? Macarius's answer came with a practiced fluency that betrayed its performance—the silence was not empty, he told them, only the absence of lesser sounds, and to name what could not be named was the first step toward losing it.
 
 The scribes wrote furiously. The elderly priest nodded with visible reverence. And Macarius felt the warmth intensify into the rancid-honey taste of wanting to be heard, wanting his words to outlast his weathered body and speak to generations of monks he would never meet.
 
@@ -30,9 +28,7 @@ She had been standing for hours. The position should have become unbearable as b
 
 *Two bodies practiced at not-moving.* The observation surfaced without examination. *Two consciousness choosing containment.*
 
-She guided Theophanes's next question with a whisper of attention. Not speaking, not interfering, only shifting his awareness toward the inquiry she needed:
-
-*"Your humility is remarkable. How do you maintain such purity of devotion?"*
+She guided Theophanes's next question with a whisper of attention. Not speaking, not interfering, only shifting his awareness toward the praise she needed—that the Abba's humility was admirable, and how did he keep such purity of devotion?
 
 The words arrived in Theophanes's mouth as if he had thought of them himself. He spoke them with the gravity of genuine curiosity. And Macarius—
 

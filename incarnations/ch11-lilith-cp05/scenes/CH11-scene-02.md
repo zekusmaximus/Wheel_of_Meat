@@ -8,17 +8,17 @@ A tremor in Alexandria: Archdeacon Theophanes assembling scribes and elderly pri
 
 There was a space among them. An opening for one more dignitary whose presence would go unquestioned.
 
-She moved toward embodiment before she knew she was moving.
+She moved toward the vessel before she knew she was moving.
 
-The decision arrived as inevitability. She had been tracking from distance, always from distance. Philon she had influenced through fever-dreams. Verinus through circumstance, amplification, the subtle pressure of coincidence arranged. But this consciousness required something different. This attachment was buried so deep beneath discipline that distance would not reach it.
+The decision arrived as inevitability. The woman was already there—already born into that desert century, the dark-eyed life her own soul wore in Macarius's era, the same recurring co-incarnation through which she had watched him at the baths in Rome. She did not make Theodora. She reached into a life that was already hers, as she always had. She had been tracking from distance, always from distance. Philon she had influenced through fever-dreams. Verinus through circumstance, amplification, the subtle pressure of coincidence arranged. But this consciousness required something different. This attachment was buried so deep beneath discipline that distance would not reach it.
 
 *Presence required.*
 
 The thought carried the weight of strategy. She filed it as strategy. The body she was preparing to inhabit filed differently, but she would not notice that until later.
 
-Theodora took shape in Alexandria like a stone settling into water.
+She settled into Theodora in Alexandria the way water finds the shape of its vessel.
 
-The shock of embodiment arrived first, the weight where weight had been theoretical, skin where skin had been remembered, the sudden limitation of eyes that could only see forward and lungs that required breathing. She had been pure awareness for weeks, consciousness threaded through time, and now she was meat again.
+The shock of inhabiting arrived first, the weight where weight had been theoretical, the skin that was already hers and yet had to be re-entered, the sudden limitation of eyes that could only see forward and lungs that required breathing. She had been pure awareness for weeks, consciousness threaded through time, and now she was meat again.
 
 The meat noticed things.
 
