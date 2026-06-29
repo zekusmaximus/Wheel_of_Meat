@@ -26,7 +26,7 @@ The recognition surfaced with clarity that felt almost like looking in a mirror.
 
 The thread carried a different texture than Verinus's bristling precision. This consciousness had settled into stillness—chosen stillness, deliberate containment, the architecture of a life stripped to essentials. But she could trace the evidence of what had accumulated.
 
-She would watch him defer to old Didymus's judgment on the palm fibers—"one man's judgment, another's labor." Watch him redirect a young monk's question to Paphnutius: "Have you asked him?" The isolation that had marked the earliest pattern—the hoarding, the refusal to share what could not be shared—dissolved here into genuine cooperation. He functioned within the monastic network, not as singular source but as one voice among voices.
+She would watch him defer to old Didymus's judgment on the palm fibers—one man's judgment, another man's labor. The isolation that had marked the earliest pattern—the hoarding, the refusal to share what could not be shared—dissolved here into genuine cooperation. He functioned within the monastic network, not as singular source but as one voice among voices.
 
 And when that young monk arrived trembling, white-knuckled hands gripping his robe, Macarius would not dispense from above. "What happened, brother?" Meeting the person behind the question. Giving presence rather than performance. The transactional distance she had watched burn away in plague and fire—absent here, replaced by something that cost him time he could have spent on holiness.
 
@@ -40,9 +40,7 @@ But he could not abide stillness without witness. His hands moved through the ba
 
 In her flat, her own hands rested motionless in her lap. The tracking posture she had maintained for—how long? Hours? Days? Her stillness matched his stillness, though his contained palm fibers and hers contained nothing but watching. She did not notice the parallel. She was too busy observing his.
 
-The thread deepened. She followed him through the morning prayers he spoke by rote. Beyond that she followed him through the silence between prayers that stretched and pressed, and finally to the moment when a young monk appeared in the doorway and waited for a word of wisdom that Macarius provided with careful economy.
-
-*"When you find yourself weary, do not resist."*
+The thread deepened. She followed him through the morning prayers he spoke by rote. Beyond that she followed him through the silence between prayers that stretched and pressed, and finally to the moment when a young monk appeared in the doorway and waited for a word of wisdom that Macarius provided with careful economy—that the prayer was not the rope that bound the sheep but the noticing that it had wandered, and that every noticing was already a return.
 
 The advice landed in the young monk like rain on parched stone. Gratitude flooding features too open for desert life. And Macarius felt something stir beneath his weathered surface. Something warm. Something that spread through his chest with a pleasure he would never name.
 

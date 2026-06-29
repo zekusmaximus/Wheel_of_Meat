@@ -1,6 +1,6 @@
-The monks assembled at dawn.
+The monks assembled in the last light of the day.
 
-She stopped counting at fifty when the pattern became clear. They gathered in a natural depression between dunes, the sand shaped by wind into a crude amphitheater. The rising sun threw Macarius's shadow long across the assembled brothers, and somewhere in the crowd a young monk wept silently at the proximity of holiness.
+She stopped counting at fifty when the pattern became clear. They gathered in a natural depression between dunes, the sand shaped by wind into a crude amphitheater. The low sun threw Macarius's shadow long across the assembled brothers, and somewhere in the crowd a young monk wept silently at the proximity of holiness.
 
 She positioned herself at the back, half-hidden by the bulk of Theophanes. The Theodora-body maintained its perfect stillness. The scribes readied their tablets. And Macarius stood elevated on a flat stone, the sun behind him, the moment arranged for maximum impact.
 

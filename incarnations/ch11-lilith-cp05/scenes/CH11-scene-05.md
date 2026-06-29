@@ -32,9 +32,9 @@ She felt it before she could name it: a movement in his awareness that was not g
 
 The realization arrived with a clarity she could not suppress. The pattern was clear now. Clearer than she had ever let herself see.
 
-Ka's cooperation had crystallized through her observation—the lesson she thought she was preventing. Chandra's generosity had crystallized through betrayal she engineered. Philon's wisdom had crystallized through isolation she created. Verinus's virtue had crystallized through destabilization she orchestrated.
+Ka's cooperation had crystallized through her observation—the lesson she thought she was preventing. Chandra's generosity had crystallized through betrayal she engineered. Philon's wisdom had crystallized through the dream she shaped and the rumor she weighted. Verinus's virtue had crystallized through destabilization she orchestrated.
 
-And now Macarius. His pride exposed—not by her intervention but *through* it. The excessive praise she had guided Theophanes to deliver had become the mirror in which the hermit finally saw his own hunger.
+And now Macarius. His pride exposed—not by her intervention but *through* it. The excessive praise she had guided Theophanes to deliver had become the mirror in which the hermit finally saw his own hunger. And in seeing it he had loosened his grip on the one thing fifteen years of renunciation had never surrendered: the self that prized its own renouncing. Humility—not the performed kind he had worn like a robe, but the kind that arrives only after the performer has been seen through. A fifth lesson, crystallizing as she watched.
 
 Five iterations. Five backfires. Five lessons accelerated by the opposition meant to prevent them.
 
