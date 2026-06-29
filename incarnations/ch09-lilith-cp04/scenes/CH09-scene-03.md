@@ -74,7 +74,7 @@ She was gone.
 
 Marcia's body still stood at the portico's edge, but the merged sensation had released her, and she was back in Manchester, gasping in her armchair, her hands cold around cold ceramic, her breath coming hard.
 
-The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Warmth had settled in her chest that was not satisfaction exactly, but something she could name or file or document.
+The flat reasserted itself: rain, silence, the laptop's patient glow. Her heart was beating too fast. Warmth had settled in her chest that was not satisfaction exactly, but something she could not name or file or document.
 
 She had been seen.
 
