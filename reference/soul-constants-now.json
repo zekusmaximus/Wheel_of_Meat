@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "audit": {
+    "kind": "current_scene_text_soul_constants",
+    "source_constants": "reference/soul-constants.json",
+    "companion_manifest": "reference/scene-manifest-now.json",
+    "primary_evidence": "incarnations/chxx-*/scenes/CHxx-scene-*.md",
+    "generated_on": "2026-06-29",
+    "scope": {
+      "mode": "complete",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "chapter_count": 26,
+      "scene_count": 180
+    },
+    "basis": "These constants describe what the current scene prose demonstrates. Older planning claims are retained only where the scenes support them; unresolved conflicts are recorded in continuity_flags.",
+    "status_semantics": "Fetter status is reported at the end of the current Chapter 26 prose. Perfection notes distinguish demonstrated development from labels or counts that the prose asserts without fully differentiating."
+  },
+
+  "soul_identity": {
+    "core_name": "Silas-soul",
+    "description": "A recurring consciousness whose historical lives accumulate lessons in cooperation, generosity, wisdom, virtue, renunciation, equanimity, patience, truthfulness, determination, and perseverance before the Silas and Lilith patterns become one final embodied awareness.",
+    "current_incarnation": "Silas Pahlavan",
+    "current_incarnation_name_note": "Chapters 19 and 21 use “Silas Pahlavan”; Chapter 1 uses “Silas Phalavan.” The discrepancy remains unresolved in the current scene text.",
+    "counterpart": "Lilith Azami",
+    "counterpart_relationship": "Initially experienced as a separate tracker and rival, Lilith is progressively revealed as the complementary face of one path.",
+    "final_expression": "An unnamed child and later teacher in Chapter 26, carrying the former Silas and Lilith patterns without treating them as separate selves."
+  },
+
+  "persistent_traits": {
+    "core_flaw": {
+      "name": "Compulsive helping",
+      "description": "Attachment to being the person who saves, fixes, guides, witnesses, or produces the right outcome. The scenes distinguish this identity-harness from care itself: the harness can fall away while responsive action remains.",
+      "manifestation_pattern": "Across lives, immediate care repeatedly hardens into a role, method, vow, calculation, or proof of worth. Failure exposes the attachment. Development occurs when the incarnation keeps responding to need without owning the act or its result.",
+      "parallel_lilith_pattern": "Lilith's tracking and intervention mirror the same structure. She must be the one who sees, prevents, arrives first, and controls the path; Chapter 19 explicitly pairs her inability to stop tracking with Wei's inability to stop helping.",
+      "per_incarnation_notes": {
+        "ka_ch02": {
+          "avatar": "Ka",
+          "manifestation": "The helper role is not yet formed. Proud self-reliance and possessive hoarding establish its precursor: worth defined by needing no one and controlling what sustains others.",
+          "turn": "He learns cooperation after the tribe saves him, but dies refusing to share meat and carries forward the need to learn giving."
+        },
+        "chandra_ch04": {
+          "avatar": "Chandra",
+          "manifestation": "He helps through administration, quantities, and future utility, choosing records that might protect thousands over people he could lead out of a fire.",
+          "turn": "Dying, he understands that giving resources without giving presence leaves human beings absent from the ledger."
+        },
+        "philon_ch06": {
+          "avatar": "Philon of Kephissia",
+          "manifestation": "His vow never to abandon anyone turns compassionate touch into martyr identity and makes him choose one dying woman over the many waiting.",
+          "turn": "Her question—why must he be the one—reveals the self inside his selflessness, though he dies before fully resolving it."
+        },
+        "verinus_ch08": {
+          "avatar": "Verinus",
+          "manifestation": "He tries to help by purifying uncertainty into a correct, institutionally usable answer.",
+          "turn": "He protects Philo without manufacturing certainty, but dies still holding his ethical insight as something he possesses."
+        },
+        "macarius_ch10": {
+          "avatar": "Macarius",
+          "manifestation": "Listening and restraint are genuine, but the identity of exemplary renunciant becomes a covert appetite for being witnessed as wise.",
+          "turn": "Public admiration makes the appetite undeniable, and he releases both performance and prideful deprivation."
+        },
+        "kaoru_ch12": {
+          "avatar": "Fujiwara no Kaoru",
+          "manifestation": "His caring attention is entangled with the desire to preserve and possess beauty outside change.",
+          "turn": "He chooses Hotaru's real, failing body over the frozen ideal and learns to witness beauty without capturing it."
+        },
+        "diego_ch14": {
+          "avatar": "Diego de Lucena",
+          "manifestation": "He treats usefulness as protection and cannot stop healing even when his skill serves the institution torturing him.",
+          "turn": "He examines hatred as a wound and releases its poison without calling the harm acceptable."
+        },
+        "jean_ch16": {
+          "avatar": "Jean de Langon",
+          "manifestation": "He tries to make neutrality and definitive investigation protect both himself and others from the cost of commitment.",
+          "turn": "He reports what he knows and does not know, accepting consequences he cannot control."
+        },
+        "wei_ch18": {
+          "avatar": "Wei Shufen",
+          "manifestation": "He measures worth through a ledger of people saved and lost, making successful rescue the justification for care.",
+          "turn": "After paralysis, he treats a wounded child because need meets capacity, not because success is promised."
+        },
+        "jack_ch20": {
+          "avatar": "Jack Malone",
+          "manifestation": "His decency is tied to being the man who gives a damn and fixes what corrupt systems break.",
+          "turn": "He dies releasing the need to be the fixer while preserving outcome-independent trying."
+        },
+        "silas_ch01_ch22": {
+          "avatar": "Silas Pahlavan / Phalavan",
+          "manifestation": "Teacher, philosopher, and crisis responder become one explicit helper harness: the need to save Stewart and guide others through darkness.",
+          "turn": "In the rooftop chain he acts fully without needing to be the savior; care remains when helper identity disappears."
+        },
+        "silex_ch24": {
+          "avatar": "Silex",
+          "manifestation": "Teaching continues, but no longer as certification, status, ownership, or forced intervention.",
+          "turn": "Silex and Lith teach through presence, refuse institutional capture, and let initiator and responder blur."
+        },
+        "final_awareness_ch26": {
+          "avatar": "Unnamed final child and teacher",
+          "manifestation": "Teaching is no longer an identity or possession; it is something available through ordinary embodied life.",
+          "turn": "The wheel continues without an owner who claims to turn it."
+        }
+      }
+    },
+    "recognition_markers": {
+      "description": "Markers that the current scenes actually place across lives. Some are strongly recurrent; others are explicitly labeled in one or two chapters and should not yet be treated as universal.",
+      "markers": [
+        {
+          "type": "physical",
+          "marker": "A finger-touching sequence used to count or steady the self appears throughout Diego's Chapter 14 scenes and is inherited explicitly by Jean in Chapter 16."
+        },
+        {
+          "type": "physical_provisional",
+          "marker": "Kaoru repeatedly traces the rim of a cup with his thumb in Chapter 12, where scene metadata labels it a recognition marker; no broad cross-incarnation repetition is yet present."
+        },
+        {
+          "type": "behavioral",
+          "marker": "The body reaches, stays, touches, treats, or witnesses before abstract calculation completes—Chandra intercepts a blade, Philon crosses to the sick, Wei reaches for patients, Jack keeps trying, and Silas reaches for Stewart."
+        },
+        {
+          "type": "cognitive",
+          "marker": "The consciousness repeatedly counts, catalogs, investigates, or builds systems of explanation, then learns where measurement omits the person in front of it."
+        },
+        {
+          "type": "situational",
+          "marker": "Each major life places immediate human need against an institution, doctrine, aesthetic, or promised future outcome."
+        },
+        {
+          "type": "death_bridge",
+          "marker": "Deaths often end on a question or vow that becomes the next life's pressure: learn giving, learn to stay, understand virtue, question further, or try again."
+        }
+      ],
+      "lilith_counterpart_markers": {
+        "description": "The scenes give Lilith a clearer repeated visual signature than the Silas-soul.",
+        "markers": [
+          "A constant face beneath different vessels",
+          "A widow's peak",
+          "A dark strand falling left",
+          "A pale-green crescent at the upper edge of one iris",
+          "Clinical stillness and a tilted, assessing gaze"
+        ]
+      }
+    },
+    "soul_voice": {
+      "description": "Beneath the period and genre shifts, the current prose repeats several modes of attention.",
+      "patterns": [
+        "Begins with concrete bodily evidence—blood, breath, hands, hunger, wounds, weather—and distrusts abstractions that deny what bodies show.",
+        "Reasons through counting, diagnosis, investigation, comparison, or pattern recognition, then reaches insight when the human remainder refuses to fit the system.",
+        "Returns to the questions: Why must I be the one? What is care when success is impossible? What remains when the helper is gone?",
+        "Experiences compassion as an embodied movement toward another being before it becomes doctrine.",
+        "Carries a recurring blind spot: service, discipline, certainty, or perseverance can become proof of a self who must matter.",
+        "Learns most decisively through failed control rather than successful mastery.",
+        "Turns death insight into forward momentum through compact vows such as learning to stay or trying again."
+      ]
+    }
+  },
+
+  "spiritual_progression": {
+    "progression_summary": "The current prose retrospectively identifies the rooftop rescue in Chapter 22 as the breaking of the first three fetters, loosens the fourth and fifth in Chapter 23, completes their breaking in Chapter 25, and releases the five higher fetters in Chapter 26.",
+    "ten_fetters": [
+      {
+        "fetter": "self_illusion",
+        "pali": "sakkāya-diṭṭhi",
+        "description": "Belief in a permanent, unchanging self",
+        "broken_at": "Chapter 22 rooftop rescue",
+        "status": "broken",
+        "current_text_evidence": "Silas acts without the helper identity in Chapter 22; Chapter 23 Scene 1 explicitly says the first three fetters broke on the Manchester rooftop."
+      },
+      {
+        "fetter": "doubt",
+        "pali": "vicikicchā",
+        "description": "Doubt about the path, the teaching, or one's own capacity",
+        "broken_at": "Chapter 22 rooftop rescue",
+        "status": "broken",
+        "current_text_evidence": "Chapter 23 Scene 1 explicitly includes doubt among the first three fetters already broken, although Chapter 22 dramatizes it less independently than self-illusion."
+      },
+      {
+        "fetter": "rites_rituals",
+        "pali": "sīlabbata-parāmāsa",
+        "description": "Attachment to rules and rituals as ends in themselves",
+        "broken_at": "Chapter 22 rooftop rescue",
+        "status": "broken",
+        "current_text_evidence": "Chapter 23 Scene 1 names attachment to rites among the broken first three; Chapter 26 later treats Silas's mantra as a tool whose work is finished rather than a necessary ritual."
+      },
+      {
+        "fetter": "sensual_desire",
+        "pali": "kāma-rāga",
+        "description": "Craving for sensory pleasures",
+        "weakened_at": "Chapter 23, especially Scene 2",
+        "broken_at": "Chapter 25, Scene 4",
+        "status": "broken",
+        "current_text_evidence": "Perfect pleasure makes grasping unnecessary in the deva realm; the formless sequence later states that the breaking is complete."
+      },
+      {
+        "fetter": "ill_will",
+        "pali": "vyāpāda",
+        "description": "Aversion, hatred, and reactive pushing-away",
+        "weakened_at": "Chapter 23, especially Scenes 3–4",
+        "broken_at": "Chapter 25, Scene 4",
+        "status": "broken",
+        "current_text_evidence": "Seeing through Lilith collapses the separate target required for resistance; Chapter 25 later states that the breaking is complete."
+      },
+      {
+        "fetter": "desire_fine_material",
+        "pali": "rūpa-rāga",
+        "description": "Attachment to refined material or form-realm existence",
+        "made_visible_at": "Chapter 25, Scene 3",
+        "broken_at": "Chapter 26, Scene 3",
+        "status": "broken",
+        "current_text_evidence": "The final awareness sees attachment to beautiful, refined form become transparent and lose its power to bind."
+      },
+      {
+        "fetter": "desire_immaterial",
+        "pali": "arūpa-rāga",
+        "description": "Attachment to immaterial or formless existence",
+        "made_visible_at": "Chapter 25, Scenes 2–4",
+        "broken_at": "Chapter 26, Scene 3",
+        "status": "broken",
+        "current_text_evidence": "The bliss of Infinite Consciousness and the refinement of the formless realms are recognized as clinging; the desire to return to them is released."
+      },
+      {
+        "fetter": "conceit",
+        "pali": "māna",
+        "description": "The subtle sense of “I am”",
+        "made_visible_at": "Chapter 25, Scenes 3–4",
+        "broken_at": "Chapter 26, Scene 3",
+        "status": "broken",
+        "current_text_evidence": "The remaining conceit is the self that is about to complete; seeing that there is no owner of awakening dissolves it."
+      },
+      {
+        "fetter": "restlessness",
+        "pali": "uddhacca",
+        "description": "Mental restlessness and leaning toward a future completion",
+        "made_visible_at": "Chapter 25, Scene 3",
+        "broken_at": "Chapter 26, Scene 3",
+        "status": "broken",
+        "current_text_evidence": "The vibration of almost-there-ness stops when completion is no longer imagined as somewhere else."
+      },
+      {
+        "fetter": "ignorance",
+        "pali": "avijjā",
+        "description": "Fundamental misseeing of conditioned reality and separate selfhood",
+        "made_visible_at": "Chapter 25, Scenes 3–5",
+        "broken_at": "Chapter 26, Scene 3",
+        "status": "broken",
+        "current_text_evidence": "Ignorance is rendered as looking away from what is present; when that looking-away stops, the wheel is seen without an owner being turned by it."
+      }
+    ],
+    "ten_perfections": [
+      {
+        "perfection": "generosity",
+        "pali": "dāna",
+        "primary_historical_chapter": 4,
+        "lilith_chapter": 5,
+        "avatar": "Chandra",
+        "current_text_state": "crystallized through failure",
+        "development_notes": "Chandra gives money, grain, expertise, and abstract future benefit while withholding presence. His final recognition is that staying with a person can be a form of giving no ledger records."
+      },
+      {
+        "perfection": "virtue",
+        "pali": "sīla",
+        "primary_historical_chapter": 8,
+        "lilith_chapter": 9,
+        "avatar": "Verinus",
+        "current_text_state": "crystallized with residual ownership",
+        "development_notes": "Verinus refuses to condemn Philo merely to create closure and accepts exile for truthful compassion under uncertainty, but dies holding the insight as something he possesses."
+      },
+      {
+        "perfection": "renunciation",
+        "pali": "nekkhamma",
+        "primary_historical_chapter": 10,
+        "lilith_chapter": 11,
+        "avatar": "Macarius",
+        "current_text_state": "crystallized",
+        "development_notes": "Macarius discovers that austerity and humility have become performance. Truer renunciation releases both admiration and prideful refusal of ordinary embodied gifts."
+      },
+      {
+        "perfection": "wisdom",
+        "pali": "paññā",
+        "primary_historical_chapter": 6,
+        "lilith_chapter": 7,
+        "avatar": "Philon of Kephissia",
+        "current_text_state": "crystallized but unresolved at death",
+        "development_notes": "The dying woman's question exposes helper identity inside Philon's sacrifice. Later Lilith chapters treat his capacity to see systems clearly while remaining engaged as inherited wisdom."
+      },
+      {
+        "perfection": "energy",
+        "pali": "viriya",
+        "primary_historical_chapter": 20,
+        "lilith_chapter": 21,
+        "avatar": "Jack Malone",
+        "current_text_state": "present as perseverance but not cleanly differentiated from determination",
+        "development_notes": "Jack continues after evidence, office, reputation, and hope of victory disappear. The scenes call this determination and outcome-independent perseverance rather than explicitly naming a separate energy perfection."
+      },
+      {
+        "perfection": "patience",
+        "pali": "khanti",
+        "primary_historical_chapter": 14,
+        "lilith_chapter": 15,
+        "avatar": "Diego de Lucena",
+        "current_text_state": "crystallized",
+        "development_notes": "Diego examines hatred as mourning dressed as rage and releases its poison without pretending betrayal and persecution were harmless."
+      },
+      {
+        "perfection": "truthfulness",
+        "pali": "sacca",
+        "primary_historical_chapter": 16,
+        "lilith_chapter": 17,
+        "avatar": "Jean de Langon",
+        "current_text_state": "crystallized",
+        "development_notes": "Jean distinguishes evidence from inference, reports honest uncertainty, and accepts dismissal and death rather than provide a useful lie."
+      },
+      {
+        "perfection": "determination",
+        "pali": "adhiṭṭhāna",
+        "primary_historical_chapter": 18,
+        "lilith_chapter": 19,
+        "avatar": "Wei Shufen",
+        "current_text_state": "crystallized",
+        "development_notes": "Wei releases the ledger and treats need without a promise of success. The prose calls this outcome-independent determination and carries “I will try again” into Jack's life."
+      },
+      {
+        "perfection": "loving_kindness",
+        "pali": "mettā",
+        "primary_historical_chapter": 2,
+        "lilith_chapter": 3,
+        "avatar": "Ka",
+        "current_text_state": "cooperation learned; generosity remains unfinished",
+        "development_notes": "Ka learns mutual dependence, shared hunting, belonging, and the strength of the together-way. The final scene then shifts emphasis to failed sharing when he hoards meat and dies alone."
+      },
+      {
+        "perfection": "equanimity",
+        "pali": "upekkhā",
+        "primary_historical_chapter": 12,
+        "lilith_chapter": 13,
+        "avatar": "Fujiwara no Kaoru",
+        "current_text_state": "crystallized",
+        "development_notes": "Kaoru releases the attempt to freeze beauty, chooses Hotaru's changing body, and learns that beauty is witnessed rather than captured."
+      }
+    ]
+  },
+
+  "thematic_question": {
+    "central": "Can care continue when the identity of being the helper is released?",
+    "secondary": [
+      "What is the relationship between love, presence, and grasping?",
+      "Can apparent competition become contribution when separate interests are seen through?",
+      "What persists across lives if the self is provisional rather than permanent?",
+      "What makes action meaningful when outcome cannot be owned or guaranteed?"
+    ],
+    "resolution": "Silas's care survives the collapse of the helper harness. Lilith's obstruction is revealed as complementary pressure, and the two apparent paths become one embodied awareness. The final teaching does not stop the wheel; it ends the suffering created by mistaking the wheel for a separate self and makes care available without ownership.",
+    "final_buddha_naming_note": "The current scenes say that a world-system waits for a Buddha and associate the coming completion with loving-kindness, but they do not explicitly use the name “Maitreya.”"
+  },
+
+  "lilith_reference": {
+    "note": "For the planned Lilith framework, see reference/lilith-arc.json; the statements here are limited to what the current scene prose shows.",
+    "spiritual_status": "Before final release, the prose repeatedly describes Lilith as having broken nine fetters with one remaining.",
+    "last_fetter_rendering": "Her remaining bind is rendered as competition, priority, and the need to be the one who completes first. It loosens in Chapter 24, remains visible through Chapter 25, and releases with the last separation in Chapter 26 Scene 2.",
+    "taxonomy_note": "This nine-of-ten claim does not align cleanly with the merged awareness subsequently releasing the five standard higher fetters in Chapter 26 Scene 3.",
+    "relationship_to_silas": "Tracker, intervener, lover, rooftop anchor, collaborator, and ultimately the complementary face of one path.",
+    "arc_type": "Observation becomes possession; possession becomes intervention; intervention becomes proximity and attempted binding; proximity becomes genuine relationship; competition becomes contribution; separation becomes provisional.",
+    "timeline": "The active tracking sequence is labeled Week 9 or 10 by Chapter 21, with long historical spans compressed into sustained present attention. First contact occurs in Chapter 21; Chapter 1 says the relationship has lasted months, but the current scenes do not specify a six-to-twelve-month interval.",
+    "resolution": "The final body contains the former Silas and Lilith tendencies as patience and urgency rather than separate owners. Their rooftop actions are understood as one movement."
+  },
+
+  "continuity_flags": [
+    {
+      "kind": "name_spelling",
+      "severity": "high",
+      "note": "The current scene prose uses both “Silas Pahlavan” and “Silas Phalavan.”"
+    },
+    {
+      "kind": "attainment_timing",
+      "severity": "medium",
+      "note": "Chapter 1 uses breakthrough and final-surrender language, while Chapter 23 retrospectively identifies the Chapter 22 rooftop rescue as the breaking of the first three fetters."
+    },
+    {
+      "kind": "perfection_count",
+      "severity": "high",
+      "note": "Chapter 18 calls Wei's realization the eighth perfection. Chapter 19 then claims all ten are complete but lists nine qualities, omitting Energy as a distinct item. Chapters 20–21 render Jack's contribution as determination or perseverance, blurring the planned Energy/Determination distinction."
+    },
+    {
+      "kind": "lesson_emphasis",
+      "severity": "medium",
+      "note": "Chapter 2 completes a cooperation or loving-kindness arc in Scene 7, but Scene 8 makes failed generosity and non-hoarding the decisive death lesson."
+    },
+    {
+      "kind": "lilith_fetter_taxonomy",
+      "severity": "high",
+      "note": "The prose repeatedly says Lilith has broken nine of ten fetters and has only competition left, yet the joined awareness still releases the five standard higher fetters in Chapter 26."
+    },
+    {
+      "kind": "resolution_naming",
+      "severity": "medium",
+      "note": "The source constants explicitly identify the final Buddha as Maitreya. The current scenes imply a future Buddha associated with loving-kindness but do not name Maitreya."
+    }
+  ]
+}

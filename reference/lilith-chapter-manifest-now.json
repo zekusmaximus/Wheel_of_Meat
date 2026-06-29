@@ -1,0 +1,1536 @@
+{
+  "manifest_version": "3.0-current-text",
+  "created": "2026-06-29",
+  "purpose": "Current-text manifest for the ten Lilith chapters, describing what the scene files now contain rather than what earlier outlines planned.",
+
+  "audit": {
+    "kind": "current_scene_text_lilith_manifest",
+    "source_manifest": "reference/lilith-chapter-manifest.json",
+    "companion_manifest": "reference/scene-manifest-now.json",
+    "primary_evidence": "incarnations/chxx-lilith-cpxx/scenes/CHxx-scene-*.md",
+    "scope": {
+      "mode": "complete",
+      "chapter_numbers": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ],
+      "chapter_count": 10,
+      "scene_count": 56,
+      "word_count_current": 51188
+    },
+    "basis": "Scene prose is authoritative for summaries, capability timing, intervention mechanics, timeline claims, titles, word counts, and demonstrated foreshadowing. Unsupported planning claims are replaced or recorded in continuity_flags.",
+    "interpretation_note": "The source manifest described structural requirements. This file describes the resulting draft, including places where the draft deliberately or accidentally departed from those requirements."
+  },
+
+  "architecture": {
+    "chapter_type": "lilith_contemporary",
+    "total_chapters": 10,
+    "chapter_numbers": [
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21
+    ],
+    "prose_technique": "integrated_with_increasing_manchester_dominance",
+    "description": "The chapters braid Lilith's Manchester body with the historical life she tracks through shared sensation, thought, and action. Early chapters remain closely superimposed; later chapters increasingly permit Manchester-only or Manchester-dominant scenes as she turns toward present-day Silas.",
+
+    "power_model": {
+      "type": "progressive_in_current_prose",
+      "description": "The current scenes do not give Lilith full capability from Chapter 3 onward. They explicitly stage learning: passive tracking becomes probability weighting, dream shaping, document and circumstance manipulation, historical vessel inhabitation, sustained multi-year intervention, and finally simultaneous historical tracking with present-day approach.",
+      "capability_stages": [
+        {
+          "chapter": 3,
+          "demonstrated": [
+            "Finds another karmic thread accidentally while tracing her own lives",
+            "Experiences Ka's body and environment through integrated perception",
+            "Follows the thread through death and into Chandra's formation"
+          ],
+          "limit": "She says she cannot yet reach through time to alter events; that skill will come later."
+        },
+        {
+          "chapter": 5,
+          "demonstrated": [
+            "Focuses attention on an unresolved choice-point",
+            "Strengthens fear already present in Devaka until betrayal becomes the chosen outcome"
+          ],
+          "cost_or_limit": "The pressure produces physical strain and cannot erase Devaka's existing loyalty or grief."
+        },
+        {
+          "chapter": 7,
+          "demonstrated": [
+            "Weights an existing xenophobic rumor toward wider spread",
+            "Shapes Alexios's dream and presses suggestion into fear already present"
+          ],
+          "cost_or_limit": "She can incline fear and belief but cannot determine Philon's response to isolation."
+        },
+        {
+          "chapter": 9,
+          "demonstrated": [
+            "Tips a scribe's unstable word choice to create contradictory records",
+            "Weights traffic delay and amplifies a senator's genuine anger",
+            "Appears through the historical vessel Marcia Faenia"
+          ],
+          "cost_or_limit": "Close precision produces headache and bodily strain; Verinus remains free to choose compassion."
+        },
+        {
+          "chapter": 11,
+          "demonstrated": [
+            "Re-enters Theodora, an existing co-incarnation rather than a body created for the intervention",
+            "Guides Theophanes's questions and praise",
+            "Sustains historical embodiment for days"
+          ],
+          "cost_or_limit": "Vessel perception creates noise, and the embodied Theodora-state refuses Lilith's intended final push."
+        },
+        {
+          "chapter": 13,
+          "demonstrated": [
+            "Recalls the attendant vessel's bodily labor and preservation of Hotaru's false spring",
+            "Tracks Kaoru's backfire while her Manchester body moves independently toward Silas's university"
+          ],
+          "cost_or_limit": "The body registers desire for recognition and direction before her strategic mind authorizes either."
+        },
+        {
+          "chapter": 15,
+          "demonstrated": [
+            "Operates through the Sor Catalina co-incarnation",
+            "Sharpens Tomás's existing fear for his son into betrayal",
+            "Holds Manchester and Diego's execution in sustained embodied overlap"
+          ],
+          "cost_or_limit": "Diego perceives something beneath the vessel and releases Lilith along with his hatred."
+        },
+        {
+          "chapter": 17,
+          "demonstrated": [
+            "Amplifies Marguerite Viret without overriding her consciousness",
+            "Times discovery of a genuine but ambiguous letter",
+            "Shapes emphasis and conversation toward paralysis"
+          ],
+          "cost_or_limit": "She cannot convert honest uncertainty into inaction; Jean uses it to act truthfully."
+        },
+        {
+          "chapter": 19,
+          "demonstrated": [
+            "Sustains attention across two historical years compressed into days",
+            "Leaks intelligence, redirects supplies, guides contaminated water, adjusts artillery circumstances, and accelerates deaths among people Wei saved",
+            "Traces forward into the present and positions herself institutionally near Silas"
+          ],
+          "cost_or_limit": "The prose explicitly says she is not omnipotent; she shapes selected events and cannot prevent Wei from acting without hope of success."
+        },
+        {
+          "chapter": 21,
+          "demonstrated": [
+            "Maintains Los Angeles and a Manchester reception in the same awareness",
+            "Applies small afterthought pressures to witnesses, evidence, and timing",
+            "Approaches and touches Silas while Jack dies"
+          ],
+          "cost_or_limit": "Historical intervention is recognized as structurally incapable of stopping the accumulated path."
+        }
+      ],
+      "demonstrated_constraints": [
+        "She amplifies existing fear, anger, ambiguity, probability, and circumstance rather than creating motives from nothing.",
+        "She cannot force the tracked consciousness's decisive ethical choice.",
+        "She is not omnipotent and does not cause every historical death around an avatar.",
+        "Precision and proximity can produce headaches, bodily strain, perception noise, hesitation, and pain.",
+        "Historical embodiment uses lives or vessels already belonging to her thread.",
+        "Every attempt to obstruct the lesson creates conditions that clarify it."
+      ]
+    },
+
+    "arc_type": "capability_expansion_and_fetter_intensification",
+    "arc_description": "Lilith gains or demonstrates increasingly direct methods while her final attachment sharpens. Curiosity becomes possession, possession becomes intervention, intervention becomes repeated calibration, and calibration becomes present-day positioning. At the same time, bodily hesitation, pain, recognition, and attraction expose a connection her strategic frame cannot contain.",
+
+    "word_targets": {
+      "source_manifest": {
+        "minimum": 2500,
+        "maximum": 3500,
+        "typical": 3000,
+        "combined_target": 30000
+      },
+      "current_prose": {
+        "minimum_chapter": 3057,
+        "maximum_chapter": 10941,
+        "combined_word_count": 51188,
+        "combined_delta_from_targets": 21188
+      }
+    },
+
+    "source_design_retained": [
+      "Ten odd-numbered Lilith chapters paired with ten historical chapters",
+      "Integrated perception across Manchester and historical lives",
+      "A parallel mistake linking Lilith to each avatar",
+      "Intervention backfires that accelerate the quality being attacked",
+      "Attachment to being first intensifying through repeated failure",
+      "The pull toward Silas growing beyond strategy",
+      "First contact in Chapter 21 followed by an off-page deepening into Chapter 1"
+    ],
+
+    "source_claims_superseded_by_current_prose": [
+      "Full cosmic power from Chapter 3 onward",
+      "No power-level progression",
+      "No professional subplot or office-related positioning",
+      "Every sentence and scene containing both timelines",
+      "A consistent 2,500–3,500-word chapter length",
+      "A fully coherent eight-to-ten-week seasonal chronology",
+      "A prohibition on Buddhist terminology in Lilith POV"
+    ]
+  },
+
+  "timeline": {
+    "tracking_period": {
+      "duration_claim_in_prose": "Week 9 or 10 by Chapter 21",
+      "description": "The draft retains the compressed pursuit concept, but only some chapter positions are explicitly numbered and the seasonal markers do not form a coherent single ten-week sequence.",
+      "anchored_points": [
+        {
+          "chapter": 3,
+          "present_time": "One continuous February night from about 2:00 a.m. to dawn"
+        },
+        {
+          "chapter": 5,
+          "present_time": "Days after Ka, after midnight"
+        },
+        {
+          "chapter": 7,
+          "present_time": "December cold; exact tracking week unstated"
+        },
+        {
+          "chapter": 9,
+          "present_time": "December; Lilith cannot say how many days have passed since Athens"
+        },
+        {
+          "chapter": 11,
+          "present_time": "After Rome; she has experienced herself as pure awareness for weeks"
+        },
+        {
+          "chapter": 13,
+          "present_time": "November and late autumn"
+        },
+        {
+          "chapter": 15,
+          "present_time": "Week 6 or 7; November references continue"
+        },
+        {
+          "chapter": 17,
+          "present_time": "After Chapter 15 and before the explicit Week 8 or 9 marker; no number stated in prose"
+        },
+        {
+          "chapter": 19,
+          "present_time": "Week 8 or 9; late October and autumn"
+        },
+        {
+          "chapter": 21,
+          "present_time": "Week 9 or 10; Manchester autumn"
+        }
+      ]
+    },
+    "historical_compression": {
+      "description": "Historical duration is elastic inside Lilith's attention. The most explicit example is Chapter 19, where two years of Wei's siege life are compressed into days of tracking.",
+      "effect": "Calendar duration in the historical life and duration experienced in Manchester are not equivalent."
+    },
+    "time_jump": {
+      "placement": "Between Chapter 21 and Chapter 1",
+      "duration": "Unspecified months",
+      "evidence": "Chapter 21 contains the first handshake and acquaintance. Chapter 1 refers to their months together.",
+      "what_happens_off_page": [
+        "Professional acquaintance becomes an established sexual and romantic relationship",
+        "Lilith's proximity strategy becomes a set of grounding and containment practices",
+        "Tactical attachment becomes complicated by genuine feeling",
+        "Her tracking-fever presentation becomes controlled enough to pass as composure"
+      ]
+    },
+    "chapter_1_recontextualization": "The Chapter 1 relationship is the result of Lilith's decision to replace historical interference with proximity. Her clinical care is genuine and also designed to keep Silas bounded, present, and with her."
+  },
+
+  "technique": {
+    "integrated_prose": {
+      "description": "Manchester and history frequently occupy the same sentence, body, image, or action. The technique is strongest in the tracking and death sequences, while later chapters also contain discrete Manchester scenes for walking, researching, applying, interviewing, orienting, and approaching.",
+      "current_mode": "hybrid integration rather than uninterrupted superimposition",
+      "mechanics": {
+        "sensory_bridges": "Temperature, rain, silence, pressure, taste, surfaces, and bodily pain join the frames.",
+        "pronoun_and_body_flow": "Lilith remains the controlling perspective, but an avatar's sensations and a historical vessel's body can register as hers.",
+        "parallel_structure": "The avatar's attachment is reflected through Lilith's tracking, precision, containment, certainty, or pursuit.",
+        "timeline_dominance": "Historical deaths and interventions commonly take foreground; Manchester decisions and positioning increasingly dominate Chapters 13–21.",
+        "scene_structure": "The chapters use separate scene files. Some scenes sustain both timelines; others retain the historical frame only as body-memory or thematic echo."
+      }
+    },
+
+    "parallel_structure_requirement": {
+      "status": "consistently demonstrated",
+      "description": "Each current chapter gives Lilith a version of the avatar's mistake, often making her diagnosis of him an unrecognized diagnosis of herself.",
+      "by_chapter": [
+        {
+          "chapter": 3,
+          "parallel": "Ka hoards meat and calls isolation strength; Lilith claims the thread and calls possessive fascination research."
+        },
+        {
+          "chapter": 5,
+          "parallel": "Chandra turns people into ledger entries; Lilith turns fear, betrayal, and backfire into variables and data."
+        },
+        {
+          "chapter": 7,
+          "parallel": "Philon cannot stop reaching as healer; Lilith cannot stop reaching into his thread as intervener."
+        },
+        {
+          "chapter": 9,
+          "parallel": "Verinus requires evidence to align; Lilith requires intervention results to align and renames failure calibration."
+        },
+        {
+          "chapter": 11,
+          "parallel": "Macarius inhabits a cell and performs humility; Lilith inhabits an arranged flat and performs clinical detachment."
+        },
+        {
+          "chapter": 13,
+          "parallel": "Kaoru and the attendant preserve beauty against decay; Lilith arranges her world and preserves strategy against the implications of attraction."
+        },
+        {
+          "chapter": 15,
+          "parallel": "Diego bargains with usefulness for safety; Lilith bargains with precision for victory."
+        },
+        {
+          "chapter": 17,
+          "parallel": "Jean uses uncertainty as a potential fortress; Lilith uses one more refined method to avoid changing course."
+        },
+        {
+          "chapter": 19,
+          "parallel": "Wei counts saved and lost lives; Lilith counts interventions and backfires. Both compulsively reach toward another person."
+        },
+        {
+          "chapter": 21,
+          "parallel": "Jack pursues a case after victory is impossible; Lilith pursues Silas after intervention is proven self-defeating."
+        }
+      ]
+    },
+
+    "integration_flavors_by_period": {
+      "prehistoric_ka": {
+        "historical_chapter": 2,
+        "lilith_chapter": 3,
+        "flavor": "Primal, sensory, and body-led",
+        "demonstrated_bridges": [
+          "Kettle scream / wind scream",
+          "Tea warmth / fire warmth",
+          "Fallowfield silence / cave silence",
+          "Manchester damp / Ka's freezing joints"
+        ]
+      },
+      "mauryan_chandra": {
+        "historical_chapter": 4,
+        "lilith_chapter": 5,
+        "flavor": "Bureaucratic, measured, and rain-soaked",
+        "demonstrated_bridges": [
+          "Rain on windows / rain on ledgers and roads",
+          "Chandra's quantities / Lilith's intervention accounting",
+          "His physical wound / her pressure headache"
+        ]
+      },
+      "athens_philon": {
+        "historical_chapter": 6,
+        "lilith_chapter": 7,
+        "flavor": "Fevered, philosophical, and tactile",
+        "demonstrated_bridges": [
+          "Cold tea / fever skin",
+          "Manchester silence / plague silence",
+          "His reaching hand / her reaching attention",
+          "Pyre smoke persisting as sensory residue"
+        ]
+      },
+      "rome_verinus": {
+        "historical_chapter": 8,
+        "lilith_chapter": 9,
+        "flavor": "Procedural and epistemically unstable",
+        "demonstrated_bridges": [
+          "Laptop documentation / papyrus and stylus",
+          "Cold ceramic / cool Roman stone",
+          "Contradictory testimony / contradictory backfires",
+          "Tool-cleaning / clinical filing"
+        ]
+      },
+      "egypt_macarius": {
+        "historical_chapter": 10,
+        "lilith_chapter": 11,
+        "flavor": "Ascetic, contained, and doubled in stillness",
+        "demonstrated_bridges": [
+          "Blank flat walls / cell walls",
+          "Tracking posture / prayer posture",
+          "Cold tea / desert deprivation",
+          "Vessel appetite / denied bodily appetite"
+        ]
+      },
+      "heian_kaoru": {
+        "historical_chapter": 12,
+        "lilith_chapter": 13,
+        "flavor": "Aesthetic and saturated with impermanence",
+        "demonstrated_bridges": [
+          "Manchester rain / rain against shōji",
+          "Arranged flat / maintained false spring",
+          "November leaves / leaves burned before decay",
+          "Typhoon rupture / her unplanned walk toward campus"
+        ]
+      },
+      "inquisition_diego": {
+        "historical_chapter": 14,
+        "lilith_chapter": 15,
+        "flavor": "Claustrophobic and diagnostic",
+        "demonstrated_bridges": [
+          "Flat walls pressing inward / Toledo streets and cells",
+          "Cold ceramic / cold stone and November air",
+          "His steadying ritual / her controlled tracking posture",
+          "Hatred loosening in him / unauthorized loosening in her chest"
+        ]
+      },
+      "renaissance_jean": {
+        "historical_chapter": 16,
+        "lilith_chapter": 17,
+        "flavor": "Textual, intellectual, and recursive",
+        "demonstrated_bridges": [
+          "Cold tea / cold metal type",
+          "Laptop page / printed argument",
+          "Letter arrangement / strategy arrangement",
+          "Honest uncertainty / failed calibration"
+        ]
+      },
+      "taiping_wei": {
+        "historical_chapter": 18,
+        "lilith_chapter": 19,
+        "flavor": "Violent, arithmetic, and physically exhausting",
+        "demonstrated_bridges": [
+          "Manchester rain / Tianjing dust and artillery",
+          "Saved-lost ledger / intervention-backfire ledger",
+          "His hands on bandages / her hand on application forms",
+          "Institutional waiting room / temple before massacre"
+        ]
+      },
+      "noir_jack": {
+        "historical_chapter": 20,
+        "lilith_chapter": 21,
+        "flavor": "Noir atmosphere superimposed on professional approach",
+        "demonstrated_bridges": [
+          "Manchester rain / Los Angeles rain",
+          "Reception glasses / bar glasses",
+          "Jack navigating contacts / Lilith navigating the crowd",
+          "Explosion pressure / pain in her unwounded chest"
+        ]
+      }
+    }
+  },
+
+  "fetter_intensification_schedule": {
+    "description": "The current scenes show attachment sharpening alongside expanded capability. Each beat below reports the actual turn rather than the source manifest's projected wording.",
+    "the_key_insight": "Every failed intervention increases Lilith's evidence that opposition is the mechanism of acceleration, but she converts that evidence into a reason for closer control until bodily recognition overwhelms the frame.",
+    "beats": [
+      {
+        "chapter": 3,
+        "tracking_timeline": "One February night into dawn",
+        "manifestation": "Accidental observation becomes a claim on the thread.",
+        "emotional_state": "Fascination and discomfort masked as research.",
+        "blind_spot": "She recognizes Ka's grasping but not the possessiveness in calling the consciousness hers to follow."
+      },
+      {
+        "chapter": 5,
+        "tracking_timeline": "Days after Chapter 3",
+        "manifestation": "She crosses from watching into deliberately strengthening fear.",
+        "emotional_state": "Strategic satisfaction followed by filed wrongness.",
+        "blind_spot": "The first backfire increases confidence in her ability to intervene rather than doubt about intervention itself."
+      },
+      {
+        "chapter": 7,
+        "tracking_timeline": "December; exact week unstated",
+        "manifestation": "She responds to prior failure with a two-pressure psychological design.",
+        "emotional_state": "Precision, kinship, and an ache of almost.",
+        "blind_spot": "She can calculate that her actions accelerate him but treats release of the thread as impossible."
+      },
+      {
+        "chapter": 9,
+        "tracking_timeline": "December; elapsed days uncertain",
+        "manifestation": "She names structural failure calibration and pursues smaller, more surgical changes.",
+        "emotional_state": "Control briefly destabilized by merged perception and being seen.",
+        "blind_spot": "Her need for precision mirrors Verinus's need for certainty."
+      },
+      {
+        "chapter": 11,
+        "tracking_timeline": "After Rome; weeks of altered awareness",
+        "manifestation": "She enters a body and plans to push pride at the decisive moment, but the body refuses.",
+        "emotional_state": "Recognition and attraction translated into vessel noise.",
+        "blind_spot": "She interprets hesitation as a technical variable and decides future interventions require even more proximity."
+      },
+      {
+        "chapter": 13,
+        "tracking_timeline": "November / late autumn",
+        "manifestation": "Her Manchester body walks to Silas's university before strategy chooses the destination.",
+        "emotional_state": "Desire for recognition and present proximity.",
+        "blind_spot": "She repeatedly calls the pull tactical while beginning to think of the thread as a present-tense person."
+      },
+      {
+        "chapter": 15,
+        "tracking_timeline": "Week 6 or 7",
+        "manifestation": "She correctly sees that opposition is contact and contact is intimacy, then suppresses the conclusion.",
+        "emotional_state": "Apparent triumph turns into bodily loss when Diego releases her.",
+        "blind_spot": "She blames temporal distance and makes face-to-face contact the next refinement."
+      },
+      {
+        "chapter": 17,
+        "tracking_timeline": "After Week 6 or 7 and before Week 8 or 9",
+        "manifestation": "One more method becomes the rhythm of compulsion.",
+        "emotional_state": "Exhausted historical strategy and growing present-day intent.",
+        "blind_spot": "The University faculty page is treated as contingency even while it becomes the real direction of the chapter."
+      },
+      {
+        "chapter": 19,
+        "tracking_timeline": "Week 8 or 9",
+        "manifestation": "She sustains her widest historical intervention, then applies for a job and arranges access to Silas.",
+        "emotional_state": "Pain at Wei's paralysis and death, relief at locating Silas, and loving-kindness she refuses to name.",
+        "blind_spot": "She understands that the pull exceeds competition but still calls institutional and physical proximity positioning."
+      },
+      {
+        "chapter": 21,
+        "tracking_timeline": "Week 9 or 10",
+        "manifestation": "Historical interference is abandoned in favor of binding through relationship.",
+        "emotional_state": "Jack's death registers as her pain; first touch with Silas feels like recognition and homecoming.",
+        "blind_spot": "She sees intimacy as a tool for control while the prose identifies the binding as hers."
+      }
+    ]
+  },
+
+  "maitreya_foreshadowing_distribution": {
+    "description": "The source key is retained for compatibility. The current scenes foreshadow one path in two faces, mutual recognition, and eventual unity, but do not explicitly use the name Maitreya.",
+    "types": [
+      "Mirrored grasping or matching bodily gestures",
+      "Hesitation that contradicts strategic intent",
+      "Pain in Lilith when the tracked incarnation suffers or dies",
+      "Merged perception and uncertainty about whose body or consciousness is primary",
+      "The pull toward Silas exceeding tactics",
+      "Recognition across the reincarnational veil",
+      "Water, gravity, homecoming, reunion, and two-halves imagery"
+    ],
+    "by_chapter": [
+      {
+        "chapter": 3,
+        "foreshadowing": [
+          "Ka's possessive wound feels like a mirror Lilith does not want to examine.",
+          "She recognizes the forward-driving hunger in his thread as something known."
+        ]
+      },
+      {
+        "chapter": 5,
+        "foreshadowing": [
+          "She hesitates before influencing Devaka and files the hesitation rather than examining it.",
+          "The next incarnation's hum feels like recognition and the other end of an unheard conversation."
+        ]
+      },
+      {
+        "chapter": 7,
+        "foreshadowing": [
+          "A kinship whisper extends from Ka through Chandra to Philon.",
+          "She feels the ache of being able to see where he is going and not yet being able to follow."
+        ]
+      },
+      {
+        "chapter": 9,
+        "foreshadowing": [
+          "Through Marcia, Lilith and Verinus briefly occupy a merged sensation.",
+          "Verinus appears to see beneath the vessel, and Lilith cannot tell which consciousness trembled."
+        ]
+      },
+      {
+        "chapter": 11,
+        "foreshadowing": [
+          "The Theodora-body refuses the push Lilith's strategy demands.",
+          "Embodied presence feels like recognition rather than triumph, and following begins to feel like being pulled."
+        ]
+      },
+      {
+        "chapter": 13,
+        "foreshadowing": [
+          "The attendant vessel wanted Kaoru to recognize Lilith beneath its face.",
+          "Lilith's body walks toward present-day Silas before conscious decision.",
+          "The tracked consciousness becomes “him,” a present-tense person."
+        ]
+      },
+      {
+        "chapter": 15,
+        "foreshadowing": [
+          "Diego perceives Lilith beneath Sor Catalina and releases her with his hatred.",
+          "His dying gaze makes Lilith question why her face remains constant while his changes.",
+          "She nearly recognizes opposition as contact and intimacy."
+        ]
+      },
+      {
+        "chapter": 17,
+        "foreshadowing": [
+          "Jean's honest uncertainty and Lilith's failed precision occupy the same recursive structure.",
+          "Historical method exhaustion exposes direct present contact as the direction she has already chosen."
+        ]
+      },
+      {
+        "chapter": 19,
+        "foreshadowing": [
+          "Wei's breakthrough and death register as if they occur inside Lilith.",
+          "She sees two souls approaching one threshold.",
+          "The pull becomes loving-kindness, reunion, water seeking water, and two halves moving toward each other."
+        ]
+      },
+      {
+        "chapter": 21,
+        "foreshadowing": [
+          "Jack's death produces real pain in Lilith's unwounded chest.",
+          "Jack recognizes her across the veil before Silas consciously can.",
+          "Her approach and Jack's death occupy one gesture.",
+          "The handshake is held as recognition, connection, homecoming, and two halves approaching."
+        ]
+      }
+    ],
+    "naming_note": "Maitreya remains an interpretive or planning label rather than a name spoken in the current scene prose."
+  },
+
+  "setting": {
+    "manchester_locations": {
+      "primary_anchor_ch03_ch17": {
+        "location": "Fallowfield flat",
+        "description": "An increasingly arranged, silent, and under-occupied space marked by cold tea, weak radiators, rain, a laptop, and long tracking postures."
+      },
+      "first_outward_turn_ch13_ch15": {
+        "location": "University of Manchester philosophy buildings and surrounding streets",
+        "description": "Lilith walks to the university without admitting it as a destination, then retains the place as the practical site of present-day contact."
+      },
+      "positioning_ch17_ch19": {
+        "location": "Laptop research, Student Mental Health Services, interview rooms, orientation spaces, and campus",
+        "description": "The present plot becomes operational: Lilith researches Silas, applies for a university role, waits through hiring, begins work, and maps his physical proximity."
+      },
+      "first_contact_ch21": {
+        "location": "University faculty reception",
+        "description": "Lilith crosses the room toward Silas while tracking Jack's final months and death."
+      }
+    },
+    "setting_progression": "Chosen isolation in the flat gives way to involuntary movement, institutional positioning, and finally touch.",
+    "professional_subplot_status": "Present and substantial in Chapter 19 despite the source manifest's statement that professional subplot and office scenes were removed."
+  },
+
+  "chapters": [
+    {
+      "chapter": 3,
+      "id": "ch03-lilith-cp01",
+      "title": "The Discovery",
+      "tracking_timeline": "One February night, approximately 2:00 a.m. to dawn",
+      "corresponds_to": {
+        "historical_chapter": 2,
+        "avatar": "Ka",
+        "avatar_occupation": "Hunter",
+        "lesson_in_current_prose": "Cooperation and belonging, followed by failed generosity",
+        "historical_period": "Prehistoric, approximately 300,000 BCE",
+        "historical_location": "Jebel Irhoud, Morocco"
+      },
+      "current_read": {
+        "summary": "While tracing her own prior lives in her Fallowfield flat, Lilith accidentally finds Ka's consciousness. She experiences his hoarding and freezing death through her own body, recognizes a matching wound beneath his isolation, follows him across death into Chandra, and chooses to continue under the name of research.",
+        "opening_state": "A private tracking exercise encounters an unknown karmic thread.",
+        "major_turn": "Ka's possessive “mine” becomes a mirror for Lilith's claim on the thread.",
+        "closing_state": "Accidental discovery becomes deliberate pursuit."
+      },
+      "integration": {
+        "mode": "continuous close superimposition",
+        "flavor": "Primal, sensory, and body-led",
+        "sensory_bridges": [
+          "Kettle and wind",
+          "Tea and fire",
+          "Flat and cave silence",
+          "February damp and prehistoric freezing"
+        ],
+        "dominant_timeline_moments": [
+          "Ka's death takes historical foreground.",
+          "Dawn in Manchester takes foreground when Lilith decides to follow."
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Ka hoards meat, rejects mutual dependence, and calls isolation strength.",
+        "lilith_mistake": "Lilith hoards access to the thread, rejects the mirror, and calls possessive fascination research."
+      },
+      "capability_state": {
+        "demonstrated": "Embodied observation and forward tracing through rebirth",
+        "not_yet_available": "Deliberate historical alteration"
+      },
+      "intervention": null,
+      "intervention_count_note": "Later chapters count Ka among Lilith's interventions or backfires even though this chapter says she cannot yet change events.",
+      "fetter_beat": {
+        "manifestation": "Observation becomes possession.",
+        "shown_through": "She names the thread as something found and chooses to keep following despite recognizing herself in Ka."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Ka freezes beside the meat he refused to share."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "At dawn Lilith follows the rebirth thread into Chandra."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "The same forward-driving hunger is recognizable in Ka and Lilith.",
+        "The encounter is mirror-like before it is understood as rivalry."
+      ],
+      "function": "Discovers the tracked soul, establishes integrated perception, and turns curiosity into pursuit.",
+      "word_target": 3000,
+      "word_count_current": 3057,
+      "word_count_delta": 57,
+      "scene_count": 4,
+      "status": "revised",
+      "continuity_flags": [
+        "The source manifest's full-power-from-the-start model conflicts with this chapter.",
+        "The source timeline says Days 1–3; the prose reads as one night."
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "ch05-lilith-cp02",
+      "title": "The Ledger's Shadow",
+      "tracking_timeline": "Days after Chapter 3; after midnight in Manchester",
+      "corresponds_to": {
+        "historical_chapter": 4,
+        "avatar": "Chandra",
+        "avatar_occupation": "Rājuka and former grain merchant",
+        "lesson_in_current_prose": "Generosity as presence rather than measured resource transfer",
+        "historical_period": "Mauryan India",
+        "historical_location": "Pataliputra and its grain administration"
+      },
+      "current_read": {
+        "summary": "Lilith identifies Devaka's fear as leverage inside Chandra's trusted partnership. At an unresolved choice-point she strengthens that fear until betrayal wins. Chandra's trap and fire then produce the opposite lesson: giving abstractions and future utility is insufficient without present human attention.",
+        "opening_state": "Lilith continues to call tracking observation.",
+        "major_turn": "She knowingly becomes a participant in Devaka's choice.",
+        "closing_state": "The first deliberate intervention backfires and is rationalized as a technical problem."
+      },
+      "integration": {
+        "mode": "continuous close superimposition",
+        "flavor": "Administrative, measured, and rain-soaked",
+        "sensory_bridges": [
+          "Rain across eras",
+          "Ledgers and calculation",
+          "Headache and Chandra's wound",
+          "Cold tea and burned records"
+        ],
+        "dominant_timeline_moments": [
+          "Devaka's choice-point",
+          "Chandra's dying recognition in the fire"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Chandra translates people into quantities and future utility.",
+        "lilith_mistake": "Lilith translates fear, betrayal, and moral wrongness into variables and usable data."
+      },
+      "capability_state": {
+        "demonstrated": "Focused attention can weight an unresolved human choice.",
+        "cost": "Physical strain and a wrongness she refuses to examine."
+      },
+      "intervention": {
+        "method": "Strengthens Devaka's existing fear at the moment loyalty and self-preservation remain unresolved.",
+        "objective": "Use betrayal to corrupt Chandra's reliance on relationship and derail generosity.",
+        "backfire": "The betrayal and fire strip calculation of authority and reveal presence as the giving Chandra omitted."
+      },
+      "fetter_beat": {
+        "manifestation": "I can make the next intervention more exact.",
+        "shown_through": "Satisfaction at the manipulation is filed as calculation; backfire produces refinement rather than retreat."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Devaka's fear resolves into betrayal under Lilith's attention."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Chandra dies seeing the faces his ledger excluded."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "Lilith hesitates before influencing Devaka.",
+        "The next thread feels like the other end of a conversation."
+      ],
+      "function": "Stages the first deliberate intervention and establishes the backfire-rationalization cycle.",
+      "word_target": 2500,
+      "word_count_current": 3343,
+      "word_count_delta": 843,
+      "scene_count": 4,
+      "status": "revised"
+    },
+    {
+      "chapter": 7,
+      "id": "ch07-lilith-cp03",
+      "title": "The Dream-Walker",
+      "tracking_timeline": "December cold; exact tracking week not stated",
+      "corresponds_to": {
+        "historical_chapter": 6,
+        "avatar": "Philon of Kephissia",
+        "avatar_occupation": "Physician",
+        "lesson_in_current_prose": "Wisdom about compassion, consequence, and helper identity",
+        "historical_period": "430 BCE",
+        "historical_location": "Athens during the plague"
+      },
+      "current_read": {
+        "summary": "Lilith isolates Philon through two pressures: an amplified xenophobic rumor and a shaped dream that drives Alexios away. Philon nevertheless reaches toward a dying enslaved woman, whose question exposes the self inside his martyrdom. His death crystallizes wisdom, while Lilith converts three counted backfires into a plan for further calibration.",
+        "opening_state": "A refined psychological intervention is expected to correct the first backfire.",
+        "major_turn": "Philon reaches for the woman while Lilith reaches into the thread.",
+        "closing_state": "The lesson survives, and the thread has become something Lilith experiences as impossible to release."
+      },
+      "integration": {
+        "mode": "continuous close superimposition",
+        "flavor": "Fevered, tactile, and philosophical",
+        "sensory_bridges": [
+          "Cold tea and fever heat",
+          "Manchester and plague silence",
+          "Pyre smoke as persistent residue",
+          "Reaching hands across frames"
+        ],
+        "dominant_timeline_moments": [
+          "Alexios's shaped dream",
+          "The enslaved woman's death",
+          "Philon's fevered final question"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Philon cannot distinguish compassionate presence from the identity that must personally remain.",
+        "lilith_mistake": "Lilith cannot distinguish useful attention from the identity that must personally track and correct him."
+      },
+      "capability_state": {
+        "demonstrated": "Rumor weighting, dream shaping, and suggestion through existing fear",
+        "limit": "She creates isolation but cannot choose what Philon learns from it."
+      },
+      "intervention": {
+        "methods": [
+          "Weights an existing rumor that foreigners caused the plague.",
+          "Shapes Alexios's dream of Philon on a pyre and presses fear toward abandonment."
+        ],
+        "objective": "Isolate Philon and make compulsive martyrdom collapse into despair.",
+        "backfire": "Isolation concentrates the question of whether care serves the patient or the helper self."
+      },
+      "fetter_beat": {
+        "manifestation": "Three backfires become evidence for the next intervention rather than evidence against intervention.",
+        "shown_through": "Lilith calculates rate and completion, feels an ache of almost, and buries it under analysis."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "The dream severs Alexios from Philon."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Philon dies with the unresolved helper question as karmic seed."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "The kinship whisper now spans three lives.",
+        "Lilith experiences closeness to his destination as an ache rather than only strategic alarm."
+      ],
+      "function": "Expands intervention into dreams and mass fear while making compulsion itself the mirror.",
+      "word_target": 3000,
+      "word_count_current": 3997,
+      "word_count_delta": 997,
+      "scene_count": 4,
+      "status": "revised",
+      "continuity_flags": [
+        "The prose calls this the third intervention/backfire even though Chapter 3 depicts observation rather than causal intervention.",
+        "December does not fit cleanly after Chapter 3's February within a single compressed ten-week run."
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "ch09-lilith-cp04",
+      "title": "The Complaint",
+      "tracking_timeline": "December; elapsed time since Athens is explicitly uncertain",
+      "corresponds_to": {
+        "historical_chapter": 8,
+        "avatar": "Verinus",
+        "avatar_occupation": "Legal investigator",
+        "lesson_in_current_prose": "Virtue and compassion under irreducible uncertainty",
+        "historical_period": "Roman imperial period",
+        "historical_location": "Rome and later coastal exile"
+      },
+      "current_read": {
+        "summary": "Lilith creates a contradiction between an original record and its copy, weights a traffic delay, and amplifies a senator's anger. She expects Verinus's broken certainty to produce convenient condemnation. Instead he refuses to sacrifice Philo, accepts exile, and learns to live without a clean answer.",
+        "opening_state": "Lilith replaces broad pressure with surgical precision.",
+        "major_turn": "Verinus treats uncertainty as the condition for compassion rather than a reason to submit to power.",
+        "closing_state": "The structural backfire is undeniable, but Lilith names it calibration and follows the next thread."
+      },
+      "integration": {
+        "mode": "superimposed tracking with a historical vessel",
+        "flavor": "Procedural and epistemically unstable",
+        "sensory_bridges": [
+          "Laptop and papyrus",
+          "Cold ceramic and cool stone",
+          "Conflicting testimony and conflicting intervention results",
+          "Clinical filing and tool-cleaning"
+        ],
+        "dominant_timeline_moments": [
+          "The scribal word change",
+          "Marcia's mutual gaze with Verinus",
+          "The tribunal and exile",
+          "Verinus's quiet death"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Verinus believes truth and moral action require cleanly aligned evidence.",
+        "lilith_mistake": "Lilith believes successful intervention requires sufficiently precise alignment of variables."
+      },
+      "capability_state": {
+        "demonstrated": "Microscopic probability pressure, circumstance delay, emotion amplification, and embodiment through Marcia Faenia",
+        "cost": "Headache, accelerated heartbeat, and blurred ownership of sensation"
+      },
+      "intervention": {
+        "methods": [
+          "Tips an exhausted scribe from “intemperate” to “temperate,” creating two official records.",
+          "Weights street obstruction to delay Verinus.",
+          "Amplifies a senator's genuine displeasure into rage and exile."
+        ],
+        "objective": "Destroy confidence in evidence so Verinus will accept power as the only usable truth.",
+        "backfire": "Contradiction teaches humility and compassionate action without certainty."
+      },
+      "fetter_beat": {
+        "manifestation": "Failure is renamed calibration.",
+        "shown_through": "Lilith correctly sees that every intervention accelerates a lesson and still concludes that the next one needs greater precision."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Verinus and Lilith-through-Marcia briefly experience merged perception."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "The tribunal choice converts broken certainty into virtue."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "Verinus appears to see Lilith rather than merely Marcia.",
+        "Lilith cannot tell which consciousness trembled during the mutual gaze."
+      ],
+      "function": "Escalates intervention into evidence and institutional consequence while making the backfire pattern explicit.",
+      "word_target": 3000,
+      "word_count_current": 7034,
+      "word_count_delta": 4034,
+      "scene_count": 5,
+      "status": "revised"
+    },
+    {
+      "chapter": 11,
+      "id": "ch11-lilith-cp05",
+      "title": "The Performance of Humility",
+      "tracking_timeline": "After Rome; weeks of altered awareness, exact calendar position unstated",
+      "corresponds_to": {
+        "historical_chapter": 10,
+        "avatar": "Macarius",
+        "avatar_occupation": "Desert father and former rhetoric teacher",
+        "lesson_in_current_prose": "Renunciation without prideful self-denial or performance",
+        "historical_period": "Late Antiquity",
+        "historical_location": "Scetis, Egypt"
+      },
+      "current_read": {
+        "summary": "Lilith re-enters Theodora, an existing life on her own thread, joins a delegation to Macarius, and guides questions and praise that feed his hidden appetite for reverence. At the public gathering her embodied state refuses the intended final push. Macarius tastes his pride and collapses into truer renunciation; Lilith calls her hesitation vessel noise and decides she needs still more proximity.",
+        "opening_state": "Macarius's spiritual performance appears to offer a clean leverage point.",
+        "major_turn": "The Theodora-body refuses Lilith's command to push.",
+        "closing_state": "The intervention backfires, and unexplained attraction is converted into a plan for earlier, closer presence."
+      },
+      "integration": {
+        "mode": "sustained dual embodiment",
+        "flavor": "Ascetic, contained, and doubled in stillness",
+        "sensory_bridges": [
+          "Flat and cell walls",
+          "Tracking and prayer postures",
+          "Manchester cold and desert heat",
+          "The vessel's bodily appetite and Macarius's denied appetite"
+        ],
+        "dominant_timeline_moments": [
+          "Entry into Theodora",
+          "The public gathering and refusal to push",
+          "Macarius's collapse"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Macarius's renunciation becomes an identity performed for witness.",
+        "lilith_mistake": "Lilith's clinical distance becomes an identity performed over certainty, hunger, and attraction."
+      },
+      "capability_state": {
+        "demonstrated": "Full historical vessel inhabitation and guided speech through another person's available thought",
+        "limit": "Embodied knowledge can resist her conscious strategy."
+      },
+      "intervention": {
+        "method": "Uses Theodora's place in a church delegation to prolong attention, guide praise, and expose Macarius to public reverence.",
+        "objective": "Make pride permanent enough to corrupt renunciation.",
+        "backfire": "Excessive praise becomes the mirror in which Macarius finally sees and releases pride."
+      },
+      "fetter_beat": {
+        "manifestation": "Proximity creates hesitation, and hesitation creates a demand for more proximity.",
+        "shown_through": "The repeated question “Why did I hesitate?” is answered with technical labels that do not resolve it."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Lilith settles into Theodora's body."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "The body refuses the final push and Macarius sees his hunger."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "The intervention is interrupted by body-knowledge that precedes Lilith's conscious understanding.",
+        "The backfire feels like recognition rather than simple defeat."
+      ],
+      "function": "Makes embodiment and proximity central while giving Lilith her first irreducible bodily refusal.",
+      "word_target": 3000,
+      "word_count_current": 5813,
+      "word_count_delta": 2813,
+      "scene_count": 5,
+      "status": "revised"
+    },
+    {
+      "chapter": 13,
+      "id": "ch13-lilith-cp06",
+      "title": "The Beauty of Frozen Things",
+      "tracking_timeline": "November / late autumn",
+      "corresponds_to": {
+        "historical_chapter": 12,
+        "avatar": "Fujiwara no Kaoru",
+        "avatar_occupation": "Court noble and poet",
+        "lesson_in_current_prose": "Equanimity toward impermanence and beauty without possession",
+        "historical_period": "Heian period",
+        "historical_location": "Heian-kyō"
+      },
+      "current_read": {
+        "summary": "Lilith remembers the attendant vessel's work preserving Hotaru's impossible spring and its desire to be recognized beneath another face. Her Manchester body then walks to Silas's university before she consciously chooses a destination. Kaoru's embrace of decay completes the sixth backfire, and Lilith recasts her attraction and movement toward him as a new proximity method.",
+        "opening_state": "Beauty is identified as the next attachment to exploit.",
+        "major_turn": "Lilith arrives at the philosophy buildings before strategy has authorized the walk.",
+        "closing_state": "The tracked thread has become a present-tense person, but she continues to call the pull tactical."
+      },
+      "integration": {
+        "mode": "integrated recollection with a Manchester-only outward movement",
+        "flavor": "Aesthetic and saturated with impermanence",
+        "sensory_bridges": [
+          "Rain against Manchester glass and shōji",
+          "Arranged flat and maintained garden",
+          "Falling leaves and leaves destroyed before decay",
+          "Unplanned walking and typhoon rupture"
+        ],
+        "dominant_timeline_moments": [
+          "The attendant vessel's bodily memory",
+          "The Manchester walk to the university",
+          "Kaoru's typhoon backfire"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Kaoru and Hotaru's household try to preserve beauty outside change.",
+        "lilith_mistake": "Lilith preserves a strategic explanation that cannot contain her changing relationship to the tracked soul."
+      },
+      "capability_state": {
+        "demonstrated": "Residual access to a past vessel and simultaneous tracking during autonomous present movement",
+        "limit": "Her present body reveals destination and desire before analysis can contain them."
+      },
+      "intervention": {
+        "historical_method": "Through the attendant vessel, maintains Hotaru's false spring, suppresses signs of decay, and offers Kaoru a preserved ideal.",
+        "chapter_action": "The chapter mainly remembers and evaluates that intervention rather than staging a new historical choice-point.",
+        "objective": "Trap Kaoru in beauty that never changes.",
+        "backfire": "The storm reveals preserved beauty as violence and teaches Kaoru to witness rather than capture."
+      },
+      "fetter_beat": {
+        "manifestation": "The pull toward present-day Silas is labeled tactical.",
+        "shown_through": "Lilith constructs clinical explanations for vessel desire, the university walk, warmth, and beauty."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "Her body carries her to Silas's present location."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "The frozen spring breaks and Kaoru accepts Hotaru's real body."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "The attendant wanted Kaoru to recognize Lilith beneath the vessel.",
+        "Silas becomes “him” before Lilith meets him.",
+        "Her body knows the direction of reunion before strategy does."
+      ],
+      "function": "Makes present-day attraction actionable and recasts proximity as the next method.",
+      "word_target": 3000,
+      "word_count_current": 3326,
+      "word_count_delta": 326,
+      "scene_count": 5,
+      "status": "revised",
+      "continuity_flags": [
+        "The November marker conflicts with earlier December chapters if all belong to one forward-moving ten-week period."
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "ch15-lilith-cp07",
+      "title": "TBD",
+      "title_status": "unresolved_in_current_files",
+      "tracking_timeline": "Week 6 or 7; November references",
+      "corresponds_to": {
+        "historical_chapter": 14,
+        "avatar": "Diego de Lucena",
+        "avatar_occupation": "Converso physician",
+        "lesson_in_current_prose": "Patience and release of hatred without denial of harm",
+        "historical_period": "Late 15th century",
+        "historical_location": "Toledo under the Inquisition"
+      },
+      "current_read": {
+        "summary": "Through Sor Catalina, Lilith sharpens Tomás's fear until he betrays Diego. The resulting hatred appears to break his accumulated progress, but at the stake he examines the rage, releases Tomás, and then releases Lilith. Diego's gaze exposes the constancy of her face and turns the backfire into bodily loss. Lilith concludes that temporal distance is the failed variable.",
+        "opening_state": "Lilith recognizes structural backfire while still believing precision can overcome it.",
+        "major_turn": "Diego releases the hatred she successfully created and releases her with it.",
+        "closing_state": "The solution shifts from stronger historical pressure to face-to-face contemporary contact."
+      },
+      "integration": {
+        "mode": "sustained embodied overlap with several Manchester reflection scenes",
+        "flavor": "Claustrophobic and diagnostic",
+        "sensory_bridges": [
+          "Flat walls and Toledo enclosures",
+          "Cold ceramic and cold stone",
+          "His steadying ritual and her controlled posture",
+          "Release in his chest and unauthorized release in hers"
+        ],
+        "dominant_timeline_moments": [
+          "Tomás's fear becomes betrayal.",
+          "Lilith remembers the university as possible present contact.",
+          "Diego's execution and release take historical foreground."
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Diego treats usefulness and perfect performance as a bargain for safety.",
+        "lilith_mistake": "Lilith treats precision and perfect intervention as a bargain for victory."
+      },
+      "capability_state": {
+        "demonstrated": "Sustained operation through Sor Catalina and targeted amplification of Tomás's fear",
+        "limit": "She can create the conditions for hatred but cannot make Diego retain it."
+      },
+      "intervention": {
+        "method": "Uses Sor Catalina's authority and sustained presence while sharpening Tomás's real fear for Rafael.",
+        "objective": "Make betrayal intimate enough to bind Diego through personal hatred.",
+        "backfire": "The hatred becomes a wound Diego can inspect and set down; his release includes Lilith."
+      },
+      "fetter_beat": {
+        "manifestation": "Lilith nearly recognizes that opposition is intimacy, then replaces the insight with a proximity strategy.",
+        "shown_through": "She experiences Diego's release as loss and makes distance, rather than grasping, the diagnosed problem."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Tomás's fear is pushed into denunciation."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "At the stake Diego sees through the vessel and releases Lilith."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "Face-to-face present contact becomes the next plan."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "Diego recognizes something beneath Sor Catalina.",
+        "Lilith sees that her face remains constant while his reincarnations change.",
+        "The same release occurs in Diego and in her chest."
+      ],
+      "function": "Turns successful harm into intimate backfire and shifts the arc decisively toward present contact.",
+      "word_target": 3000,
+      "word_count_current": 5200,
+      "word_count_delta": 2200,
+      "scene_count": 8,
+      "status": "revised"
+    },
+    {
+      "chapter": 17,
+      "id": "ch17-lilith-cp08",
+      "title": "One More",
+      "tracking_timeline": "After Week 6 or 7 and before Week 8 or 9; exact number unstated",
+      "corresponds_to": {
+        "historical_chapter": 16,
+        "avatar": "Jean de Langon",
+        "avatar_occupation": "Legal investigator",
+        "lesson_in_current_prose": "Truthfulness through honest uncertainty",
+        "historical_period": "1588",
+        "historical_location": "Guyenne, France"
+      },
+      "current_read": {
+        "summary": "Lilith amplifies Marguerite Viret's genuine skepticism, times Jean's discovery of an authentic but unverifiable letter, and shapes philosophical companionship toward paralysis. Jean instead writes an honest inconclusive report and dies accepting its consequences. Lilith returns to the University faculty page and concedes that one final historical effort may be followed by direct contact.",
+        "opening_state": "One more intellectual method is expected to correct prior failures.",
+        "major_turn": "Jean refuses both forced certainty and inert skepticism.",
+        "closing_state": "Historical method exhaustion becomes active research into present-day Silas."
+      },
+      "integration": {
+        "mode": "historical vessel amplification with a Manchester-dominant closing scene",
+        "flavor": "Textual, intellectual, and recursive",
+        "sensory_bridges": [
+          "Cold tea and cold metal type",
+          "Laptop text and printed argument",
+          "Letter arrangement and strategy arrangement",
+          "Finger counting and intervention counting"
+        ],
+        "dominant_timeline_moments": [
+          "The ambiguous letter appears.",
+          "Jean writes and submits the report.",
+          "His death leads directly into Lilith's faculty-page research."
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Jean risks turning doubt into a fortress against responsible conclusion.",
+        "lilith_mistake": "Lilith turns refinement into a fortress against the conclusion that intervention itself is wrong."
+      },
+      "capability_state": {
+        "demonstrated": "Amplification through Marguerite, timed discovery, and emphasis shaping without possession",
+        "limit": "Marguerite's philosophy remains hers, and Jean decides what honest uncertainty requires."
+      },
+      "intervention": {
+        "methods": [
+          "Amplifies Marguerite's genuine skeptical arguments.",
+          "Directs Jean to a genuine but contextless and unverifiable letter.",
+          "Shapes conversational timing and emphasis toward paralysis."
+        ],
+        "objective": "Make uncertainty so complete that Jean cannot act truthfully.",
+        "backfire": "Uncertainty becomes the reason to distinguish evidence from inference and accept the cost of honesty."
+      },
+      "fetter_beat": {
+        "manifestation": "“One more” becomes the pulse of a compulsion whose historical methods are nearly exhausted.",
+        "shown_through": "Lilith labels the faculty page contingency while repeatedly returning to it."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Jean chooses the honest report."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "Lilith researches the contemporary consciousness and considers direct meeting."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "The same search for defensible certainty structures Jean's problem and Lilith's method.",
+        "Her persistence has exceeded the logic by which she justifies it."
+      ],
+      "function": "Exhausts intellectual manipulation and turns the present-day thread from contingency into destination.",
+      "word_target": 3000,
+      "word_count_current": 4387,
+      "word_count_delta": 1387,
+      "scene_count": 8,
+      "status": "revised"
+    },
+    {
+      "chapter": 19,
+      "id": "ch19-lilith-cp09",
+      "title": "TBD",
+      "title_status": "unresolved_in_current_files",
+      "tracking_timeline": "Week 8 or 9; late October and autumn",
+      "corresponds_to": {
+        "historical_chapter": 18,
+        "avatar": "Wei Shufen",
+        "avatar_occupation": "Military medic and captain",
+        "lesson_in_current_prose": "Outcome-independent determination",
+        "historical_period": "1862–1864",
+        "historical_location": "Besieged Tianjing"
+      },
+      "current_read": {
+        "summary": "Across two historical years compressed into days, Lilith arranges selected failures and deaths until Wei appears cursed and stops treating patients. A wounded boy makes outcome irrelevant, and Wei resumes care because the wound is real. Lilith experiences his breakthrough and death as her own, traces the thread to Silas, applies to Student Mental Health Services, completes hiring and orientation, and stands outside his building calling the pull positioning even as the prose names it loving-kindness and reunion.",
+        "opening_state": "Lilith and Wei both measure worth through compulsive arithmetic.",
+        "major_turn": "Wei acts without belief in success, purifying the quality Lilith attacked.",
+        "closing_state": "Lilith has institutional access, physical proximity, and an imminent route to first contact."
+      },
+      "integration": {
+        "mode": "intense historical superimposition followed by extended Manchester plotting",
+        "flavor": "Violent, arithmetic, and physically exhausting",
+        "sensory_bridges": [
+          "Rain and artillery",
+          "Saved-lost and intervention-backfire ledgers",
+          "Hands on wounds and hands on application forms",
+          "Temple and institutional waiting"
+        ],
+        "dominant_timeline_moments": [
+          "Wei's two-day paralysis and return to care",
+          "Wei's death",
+          "Forward tracing into present-day Manchester",
+          "Application, interview, orientation, and campus positioning"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Wei needs saving to justify helping and counts people as evidence of worth.",
+        "lilith_mistake": "Lilith needs obstruction to justify tracking and counts backfires as evidence for the next method."
+      },
+      "capability_state": {
+        "demonstrated": "Peak sustained circumstance manipulation across years, compressed temporal perception, and exact present-day tracing",
+        "limit": "She is explicitly not omnipotent and cannot make futility determine Wei's choice."
+      },
+      "intervention": {
+        "methods": [
+          "Leaks intelligence and redirects supply decisions.",
+          "Guides contaminated water toward selected wells.",
+          "Weights delays and artillery timing.",
+          "Ensures many people Wei marked saved die soon enough for a curse pattern to form."
+        ],
+        "objective": "Make helping appear causally harmful until Wei abandons determination.",
+        "backfire": "The wounded child's immediate need separates care from promised outcome and purifies determination."
+      },
+      "present_day_strategy": {
+        "actions": [
+          "Traces the thread forward to Silas Pahlavan.",
+          "Applies to University of Manchester Student Mental Health Services.",
+          "Completes interview, hiring, orientation, and campus access.",
+          "Locates Silas's building and plans an apparently incidental acquaintance."
+        ],
+        "self_description": "Positioning",
+        "prose_description": "Pursuit, need, loving-kindness, recognition, and reunion"
+      },
+      "fetter_beat": {
+        "manifestation": "Historical total commitment becomes contemporary institutional positioning.",
+        "shown_through": "Lilith can state that the pull exceeds tactics and still refuses to revise the competition frame."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Wei reaches for the child after two days of paralysis."
+        },
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Wei dies and Lilith feels the death as her own."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "The thread resolves into Silas's name and campus location."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "Lilith stands outside the Humanities building, close enough to meet him."
+        }
+      ],
+      "maitreya_foreshadowing": [
+        "Wei's death crosses the thread as Lilith's bodily experience.",
+        "Two souls are described as approaching the same threshold.",
+        "The pull becomes loving-kindness and water seeking water.",
+        "The closing narration explicitly invokes two halves and illusory separation."
+      ],
+      "function": "Completes the largest historical backfire and builds the practical present-day machinery of the relationship strategy.",
+      "word_target": 3000,
+      "word_count_current": 10941,
+      "word_count_delta": 7941,
+      "scene_count": 8,
+      "status": "revised",
+      "continuity_flags": [
+        "The source manifest says no professional subplot; this chapter devotes substantial prose to job application, interview, hiring, orientation, and campus access.",
+        "The late-October marker conflicts with November and December chapters if read as one forward-moving tracking period."
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "ch21-lilith-cp10",
+      "title": "The Pivot",
+      "tracking_timeline": "Week 9 or 10; Manchester autumn",
+      "corresponds_to": {
+        "historical_chapter": 20,
+        "avatar": "Jack Malone",
+        "avatar_occupation": "Private detective and former LAPD officer",
+        "lesson_in_current_prose": "Outcome-independent perseverance, presented largely as purified determination",
+        "historical_period": "January–March 1938",
+        "historical_location": "Los Angeles"
+      },
+      "current_read": {
+        "summary": "At a faculty reception Lilith approaches Silas while tracking Jack's final investigation. Her small interventions continue to erase witnesses and evidence, but most of her attention has moved to the present. Jack recognizes her across the veil and dies in an explosion as Silas turns toward her. Pain crosses both frames. Lilith concludes that historical intervention cannot work, introduces herself, and reframes proximity and relationship as the means to bind Silas.",
+        "opening_state": "Lilith is already moving toward Silas while the final historical life remains active in her awareness.",
+        "major_turn": "Jack's death and Silas's turning occupy the same moment.",
+        "closing_state": "Their handshake begins the intimacy strategy that produces Chapter 1."
+      },
+      "integration": {
+        "mode": "full superposition of two cities with Manchester taking final foreground",
+        "flavor": "Noir atmosphere inside professional approach",
+        "sensory_bridges": [
+          "Rain in both cities",
+          "Clinking reception and bar glasses",
+          "Jack navigating contacts and Lilith navigating the crowd",
+          "Explosion pressure and pain in Lilith's unwounded chest"
+        ],
+        "dominant_timeline_moments": [
+          "Jack's recognition and death",
+          "Lilith's conclusion that historical intervention is impossible",
+          "The first introduction and handshake"
+        ]
+      },
+      "parallel_structure": {
+        "avatar_mistake": "Jack keeps pursuing the case after victory is impossible and still partly needs to be the man who gives a damn.",
+        "lilith_mistake": "Lilith keeps pursuing control after intervention is proven self-defeating and still needs to be the one who arrives first."
+      },
+      "capability_state": {
+        "demonstrated": "Simultaneous cross-century perception, residual circumstance pressure, and present-day first contact",
+        "limit": "No historical method can undo accumulated merit or dictate Jack's and Silas's decisive responses."
+      },
+      "intervention": {
+        "method": "Applies small, distracted pressures to phone timing, evidence filing, witness cooperation, and repeated investigative failure while appearing at the edge of Jack's awareness.",
+        "objective": "Accelerate futility enough to stop perseverance while preparing direct present contact.",
+        "backfire": "Jack releases the result but preserves trying; historical opposition is declared impossible."
+      },
+      "fetter_beat": {
+        "manifestation": "If historical intervention cannot stop him, relationship will bind him.",
+        "shown_through": "Lilith turns pain, homecoming, and recognition into a plan to remain close enough to control the critical moment."
+      },
+      "pivotal_moments": [
+        {
+          "dominant_timeline": "Historical",
+          "moment": "Jack recognizes Lilith and dies in the chapter's explosion."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "Silas turns as Jack dies and Lilith crosses the final distance."
+        },
+        {
+          "dominant_timeline": "Manchester",
+          "moment": "The handshake begins the relationship strategy."
+        }
+      ],
+      "chapter_ending": {
+        "realization": "Historical intervention is structurally self-defeating.",
+        "decision": "Replace temporal distance with professional, physical, and emotional proximity.",
+        "on_page_result": "Initial acquaintance and mutual recognition",
+        "off_page_next": "The relationship deepens over months before Chapter 1."
+      },
+      "maitreya_foreshadowing": [
+        "Jack's death produces real pain in Lilith.",
+        "Jack recognizes her across incarnational memory.",
+        "The timelines and gestures become difficult to distinguish.",
+        "The handshake is described through recognition, homecoming, and two halves approaching."
+      ],
+      "function": "Ends the historical-intervention sequence and launches the intimacy strategy that recontextualizes Chapter 1.",
+      "word_target": 3500,
+      "word_count_current": 4090,
+      "word_count_delta": 590,
+      "scene_count": 5,
+      "status": "revised",
+      "critical_notes": [
+        "First contact occurs here, not merely a decision to locate Silas.",
+        "The relationship is not yet established; Chapter 1's intimacy develops in the gap.",
+        "The chapter depicts Jack dying in an explosion, while Chapter 20 depicts him being run off the road and shot."
+      ]
+    }
+  ],
+
+  "chapter_template": {
+    "description": "Observed recurring structure rather than a prescriptive outline.",
+    "structure": [
+      "Inventory the qualities carried from prior lives and isolate the current residue.",
+      "Mirror the avatar's attachment in Lilith's method, body, or environment.",
+      "Intervene by amplifying something already present or weighting an unstable circumstance.",
+      "Let the intervention apparently succeed before the avatar's choice converts it into a lesson.",
+      "Render the backfire through Lilith's body as well as analysis.",
+      "Rationalize the failure as calibration, proximity, or one more method.",
+      "Trace the thread forward while unity foreshadowing grows harder to suppress."
+    ],
+    "late_arc_variation": "From Chapter 13 onward, one or more Manchester-dominant scenes advance the practical approach to Silas.",
+    "word_count_observed": "3,057–10,941 words",
+    "integration_observed": "Chapter-level integration throughout; scene-level integration varies."
+  },
+
+  "voice_requirements": {
+    "what_she_sounds_like_now": "Clinical and strategic language repeatedly interrupted by body-knowledge, pain, attraction, and narrator-level dramatic irony.",
+    "observed_inner_voice": [
+      "Assesses, categorizes, files, documents, maps, diagnoses, and calibrates.",
+      "Uses technical explanation to contain experiences that contradict strategy.",
+      "Names some emotions directly—especially satisfaction, fear, alarm, relief, and loving-kindness—while refusing their implications.",
+      "Increasingly thinks in explicit spiritual terms such as fetter, perfection, stream-entry, karmic thread, loving-kindness, and the wheel.",
+      "Treats proximity as method even when the body renders it as recognition or homecoming.",
+      "Moves from detached “thread” and “consciousness” language toward “him,” “Silas,” and touch."
+    ],
+    "required_features_demonstrated": [
+      "Physical grounding in cold tea, posture, breath, pressure, pain, weather, and room geometry",
+      "Professional or diagnostic framing of supernatural perception",
+      "Undermining clauses and observations she files without examining",
+      "Mirrored gestures and sensations between Manchester and history",
+      "A gap between what Lilith calls an event and what the prose shows it to be"
+    ],
+    "source_prohibitions_not_followed_by_current_prose": [
+      "Abstract emotion words are used.",
+      "Buddhist terminology is used extensively by the late arc.",
+      "Manchester-only or Manchester-dominant scenes occur.",
+      "The narrator sometimes states unity or future consequences more directly than Lilith consciously understands."
+    ]
+  },
+
+  "physical_description": {
+    "canonical_face": "A sharp widow's peak, a single darker strand falling over the left side, and a deep-brown left eye containing a thin pale-green crescent near its upper edge, most visible in good light.",
+    "consistency": "The markers recur across Theodora, the attendant, Sor Catalina, Marguerite, the noir appearances, Lith, and Lilith's nonphysical forms. The prose treats the face as constant even where the vessel's ordinary features also remain perceptible.",
+    "first_partial_manifestation_in_lilith_chapters": "Chapter 9 through Marcia Faenia, though the full marker set is not described there.",
+    "first_full_marker_description_in_current_corpus": "Chapter 10 through Theodora.",
+    "first_lilith_chapter_to_reflect_on_all_markers": "Chapter 13, with the question of the face's constancy becoming explicit in Chapter 15.",
+    "recognition_progression": [
+      "Verinus appears to see beneath Marcia.",
+      "Kaoru sees the marker set through the attendant vessel.",
+      "Diego recognizes the repeated face as his body releases Lilith.",
+      "Jack recognizes the face across past-life bleed.",
+      "Silas later integrates the pattern across all lives."
+    ]
+  },
+
+  "continuity_flags": [
+    {
+      "kind": "power_model",
+      "severity": "high",
+      "note": "The source manifest says Lilith has full constant power from Chapter 3. The current prose explicitly says she cannot yet alter events in Chapter 3 and stages progressive capability thereafter."
+    },
+    {
+      "kind": "timeline_seasons",
+      "severity": "high",
+      "note": "The compressed Week 1–10 structure conflicts with present-day seasonal markers: Chapter 3 is February, Chapters 7 and 9 are December, Chapters 13 and 15 are November, and Chapter 19 is late October."
+    },
+    {
+      "kind": "intervention_count",
+      "severity": "medium",
+      "note": "Later chapters count Ka as an intervention and backfire, while Chapter 3 presents Lilith as unable to change events and performing observation only."
+    },
+    {
+      "kind": "integration_model",
+      "severity": "medium",
+      "note": "The source requires approximately 100% integration and no timeline-separated scenes. Current later chapters contain Manchester-only or Manchester-dominant walking, research, application, hiring, orientation, and approach sequences."
+    },
+    {
+      "kind": "professional_subplot",
+      "severity": "high",
+      "note": "The source says professional subplot and office scenes were removed. Chapter 19 substantially develops Lilith's application to Student Mental Health Services, interview, hiring, orientation, and campus access."
+    },
+    {
+      "kind": "word_targets",
+      "severity": "medium",
+      "note": "The planned combined target is 30,000 words; the current ten chapters total 51,188. Chapter 19 alone is 10,941 words against a 3,000-word target."
+    },
+    {
+      "kind": "voice_rules",
+      "severity": "medium",
+      "note": "The source forbids Buddhist terminology and abstract emotion words in Lilith POV. Current scenes use fetter, perfection, stream-entry, karmic thread, loving-kindness, satisfaction, fear, alarm, and related language."
+    },
+    {
+      "kind": "chapter_titles",
+      "severity": "low",
+      "note": "Chapters 15 and 19 remain titled “TBD” in the current manifest and scene corpus."
+    },
+    {
+      "kind": "jack_death_mechanism",
+      "severity": "high",
+      "note": "Chapter 20 Scene 8 has Jack run off the road and shot. Chapter 21 Scene 4 gives him an exploding, burning car."
+    },
+    {
+      "kind": "perfection_count",
+      "severity": "high",
+      "note": "Chapter 19 claims all ten perfections are complete but lists nine qualities and treats determination as the last. Chapter 21 presents Jack's perseverance as both final perfection and purified determination, leaving Energy insufficiently distinct."
+    },
+    {
+      "kind": "lilith_fetter_taxonomy",
+      "severity": "high",
+      "note": "The broader prose describes Lilith as having broken nine of ten fetters with competition remaining, yet the joined awareness later releases the five standard higher fetters in Chapter 26."
+    },
+    {
+      "kind": "resolution_naming",
+      "severity": "medium",
+      "note": "The source names Maitreya. The current scenes foreshadow a Buddha associated with loving-kindness and one path in two faces but do not use the name Maitreya."
+    }
+  ]
+}

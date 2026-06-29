@@ -1,0 +1,3118 @@
+{
+  "schema_version": "1.0",
+  "audit": {
+    "kind": "current_scene_text_manifest",
+    "source_manifest": "reference/scene-manifest.json",
+    "generated_on": "2026-06-29",
+    "scope": {
+      "mode": "complete",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "chapter_count": 26,
+      "scene_count": 180
+    },
+    "basis": "Scene entries describe the prose currently present in the chapter scene files, rather than planned or projected scene content.",
+    "word_count_method": {
+      "name": "prose_only_unicode_tokens",
+      "description": "Counts Unicode letter/number tokens with internal apostrophes or hyphens after excluding Markdown headings, horizontal rules, explicit editorial metadata blocks, reported-count labels, and end-of-scene labels."
+    },
+    "interpretation_note": "Canon-level metadata is retained where it agrees with the current prose. Conflicts or ambiguities are recorded in continuity_flags instead of being silently normalized."
+  },
+  "novel": {
+    "title": "The Wheel of Meat",
+    "author": "Jeffrey [LAST NAME]",
+    "genre": "Literary Fiction / Speculative Fiction / Buddhist Fantasy",
+    "logline": "Across sixteen lifetimes spanning 300,000 years, a soul works toward enlightenment while a rival bodhisattva grows powerful enough to stop him—until they discover they were always two halves of the same future Buddha.",
+    "word_target": 150000,
+    "status": "development"
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "id": "ch01-contemporary-manchester",
+      "title": "The Meeting",
+      "type": "contemporary",
+      "genre": "Literary Fiction with Supernatural Elements",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "year": "Present day"
+      },
+      "pov": "Dual close third (Silas and Lilith)",
+      "characters": {
+        "silas": {
+          "name": "Silas Pahlavan",
+          "occupation": "Philosophy professor",
+          "current_state": "His insight into non-self accelerates into involuntary past-life recall and a crisis around his helper identity."
+        },
+        "lilith": {
+          "name": "Lilith Azami",
+          "occupation": "Psychiatrist",
+          "current_state": "Her lover/clinician persona begins to fracture as she admits that her practices were designed to bind Silas to the present and to her."
+        },
+        "stewart": {
+          "name": "Stewart Sheldon",
+          "role": "Student whose destabilizing encounter with non-self mirrors and catalyzes Silas's breakthrough."
+        }
+      },
+      "function": "Introduces Silas and Lilith through intimacy, exposes Lilith's concealed history with him, turns a classroom crisis into Silas's spiritual acceleration, and ends on an unresolved rooftop rescue.",
+      "current_read": {
+        "summary": "After Lilith claims to have seen Silas's past lives, a student named Stewart suffers a breakdown during Silas's lecture on non-self. Stewart's cry of “I am not that” gives Silas a liberating insight that Lilith tries to contain through clinical caution and a grounding practice. The practice instead unlocks past-life impressions. En route to Stewart's rooftop crisis, Lilith confesses that she found Silas deliberately and has been trying to keep him from progressing beyond her reach. On the roof, Stewart's nihilistic reading of non-self forces Silas to confront his own attachment to being a helper; Stewart then slips or falls as a memory of Ka's frozen death breaks through Silas.",
+        "arc": {
+          "opening_state": "Silas treats Lilith's claim about his past lives as erotic metaphysical play.",
+          "major_turn": "Stewart's classroom breakdown produces a genuine release in Silas and visible alarm in Lilith.",
+          "closing_state": "Silas reaches for the falling Stewart while experiencing Ka's death, with contact left deliberately unresolved."
+        },
+        "dominant_threads": [
+          "Non-self as liberation versus nihilism",
+          "Lilith's care as both love and control",
+          "Silas's helper identity as attachment",
+          "Past-life memory breaking into the present"
+        ]
+      },
+      "word_target": 8000,
+      "word_count_current": 8040,
+      "word_count_delta": 40,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Past Lives at Sunset",
+          "file": "CH01-scene-01.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-01.md",
+          "word_count": 574,
+          "status": "text_present",
+          "pov_focus": "Lilith, then Silas",
+          "summary": "In a humid postcoital bedroom, Lilith tells Silas that she has seen his many lives and deaths. He treats the claim as part of their usual metaphysical play, returns to his “I am boundless awareness” affirmation, and prepares to take her to dinner.",
+          "function": "Establishes their erotic-intellectual dynamic, Lilith's hidden knowledge, Silas's mantra, and the first suggestion that the game is literally true.",
+          "ends_on": "The pair leave late for dinner while Lilith's claim continues to work on Silas."
+        },
+        {
+          "section": "II",
+          "title": "The Morning After",
+          "file": "CH01-scene-02.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-02.md",
+          "word_count": 332,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith crosses campus wondering whether she revealed too much. Silas barely acknowledges her while holding firm, then softening, with Stewart over a late assignment.",
+          "function": "Carries tension from the bedroom into ordinary university life and introduces Stewart as a pressure point for Silas's patience and compulsion to help.",
+          "ends_on": "Lilith watches the distance between herself and Silas widen."
+        },
+        {
+          "section": "III",
+          "title": "I Am Not That",
+          "file": "CH01-scene-03.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-03.md",
+          "word_count": 870,
+          "status": "text_present",
+          "pov_focus": "Silas, then Lilith",
+          "summary": "During Silas's lecture on “tat tvam asi,” Stewart strips and repeatedly screams “I am not that.” Silas calms him while experiencing an impossible flash of heat and burning. When Stewart's phrase produces a profound release in Silas, Lilith recognizes it as spiritual acceleration rather than merely a classroom crisis.",
+          "function": "Supplies the inciting crisis, turns philosophical content into lived danger, and makes Stewart's breakdown the catalyst for Silas's insight.",
+          "ends_on": "Silas and Lilith recognize across the lecture hall that something irreversible has begun."
+        },
+        {
+          "section": "IV",
+          "title": "Insight or Crisis",
+          "file": "CH01-scene-04.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-04.md",
+          "word_count": 457,
+          "status": "text_present",
+          "pov_focus": "Silas and Lilith",
+          "summary": "In an empty hallway, Lilith frames the episode as trauma and urges Silas to see a professional. Silas insists that Stewart showed him a truth beneath the self, agrees to speak with Ellen, and remains unmistakably committed to the insight.",
+          "function": "Clarifies the conflict between Lilith's containment strategy and Silas's desire to continue toward awakening.",
+          "ends_on": "They walk toward the faculty meeting with opposing resolves."
+        },
+        {
+          "section": "V",
+          "title": "Trust and Doubt",
+          "file": "CH01-scene-05.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-05.md",
+          "word_count": 968,
+          "status": "text_present",
+          "pov_focus": "Silas and Lilith",
+          "summary": "A routine faculty debate over mid-semester evaluations becomes an almost archetypal contest between Silas's trust and Lilith's doubt. Silas seems to radiate light, hears a distant child cry, and realizes that Lilith's objections reach beyond university policy.",
+          "function": "Externalizes their metaphysical conflict through mundane institutional stakes and adds a second involuntary sensory intrusion.",
+          "ends_on": "Silas continues his mantra while Lilith sees another insight take hold."
+        },
+        {
+          "section": "VI",
+          "title": "A Practice to Bind Awareness",
+          "file": "CH01-scene-06.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-06.md",
+          "word_count": 745,
+          "status": "text_present",
+          "pov_focus": "Silas and Lilith",
+          "summary": "On University Green before a storm, Silas tells Lilith he is neither “that” nor “not that,” while a vision of stone confinement briefly overtakes him. Lilith understands his insight and offers a mindfulness practice explicitly meant to bound his awareness.",
+          "function": "Deepens Silas's non-self realization, reveals Lilith's fear, and places her containment technique directly in his hands.",
+          "ends_on": "Lilith promises a new habit to overcome the habitual as the rain begins."
+        },
+        {
+          "section": "VII",
+          "title": "Recognition",
+          "file": "CH01-scene-07.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-07.md",
+          "word_count": 442,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Silas attempts Lilith's practice in her flat, but it opens impressions of another rainy city, a new Buick Roadmaster, frostbite, blood, and a foreign language. He recognizes the experiences as his own past lives, and Lilith finally confirms that she has seen them.",
+          "function": "Makes reincarnation experiential for Silas and causes Lilith's grounding intervention to backfire.",
+          "ends_on": "A phone call about Stewart interrupts before Silas can complete his affirmation."
+        },
+        {
+          "section": "VIII",
+          "title": "The Confession in the Storm",
+          "file": "CH01-scene-08.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-08.md",
+          "word_count": 1443,
+          "status": "text_present",
+          "pov_focus": "Silas and Lilith",
+          "summary": "Driving through torrential rain toward the Henry Royce Institute, Lilith admits she did not find Silas by accident and that her practices were intended to keep him present, bounded, and with her. She cannot finish explaining what Stewart's crisis means, but confesses that she fears Silas will go somewhere she cannot follow.",
+          "function": "Breaks the romantic-clinical cover story, exposes Lilith's controlling motive, and carries the pair physically and emotionally to the rooftop confrontation.",
+          "ends_on": "Silas opens the rooftop door and sees Stewart near the barrier."
+        },
+        {
+          "section": "IX",
+          "title": "The Rooftop Edge",
+          "file": "CH01-scene-09.md",
+          "path": "incarnations/ch01-contemporary-manchester/scenes/CH01-scene-09.md",
+          "word_count": 2209,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Stewart explains that insight into non-self has left him with nihilism rather than freedom and asks why anyone should keep living if no separate self exists. Silas cannot offer a simple answer and sees that his urge to save Stewart is itself an attachment to being the helper. As Stewart turns, stumbles over the barrier, and reaches back, Silas is overwhelmed by Ka's memory of freezing to death alone and lunges for him.",
+          "function": "Tests the ethical consequences of Silas's teaching, names the helper identity as his active attachment, joins the contemporary crisis to Ka's life, and closes on an unresolved physical and spiritual threshold.",
+          "ends_on": "Their fingers touch—or do not—as the rain stops."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "name_spelling",
+          "severity": "high",
+          "note": "The source manifest uses “Silas Pahlavan,” while Chapter 1 prose uses “Silas Phalavan” in Scenes 1, 2, 5, and 9."
+        },
+        {
+          "kind": "name_spelling",
+          "severity": "medium",
+          "note": "The source manifest and most prose use “Lilith Azami,” but the dean calls her “Miss Azari” in Scene 5."
+        },
+        {
+          "kind": "arc_timing",
+          "severity": "high",
+          "note": "The prose describes Silas's experience as a breakthrough and frames release of the helper identity as a possible final surrender, while the source manifest reserves stream-entry for Chapter 22. The intended attainment level in Chapter 1 needs confirmation."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "ch02-prehistoric-ka",
+      "title": "Blood",
+      "type": "historical",
+      "genre": "Survival Horror / Action",
+      "setting": {
+        "period": "Prehistoric",
+        "location": "Jebel Irhoud, Morocco",
+        "year": "300,000 BCE"
+      },
+      "pov": "Ka",
+      "avatar": {
+        "name": "Ka",
+        "occupation": "Hunter",
+        "current_state": "A skilled but wounded solitary hunter learning that survival depends on collective life."
+      },
+      "lilith_presence": "Lilith does not appear in the chapter text.",
+      "lesson": {
+        "primary_in_text": "Cooperation, interdependence, and the strength of the pack",
+        "unresolved_in_text": "Generosity and the ability to release possession",
+        "death_bridge": "Ka's relapse into hoarding kills him, and his final hunger to understand giving carries the thread toward Chandra."
+      },
+      "function": "Establishes the earliest dramatized incarnation, teaches Ka the survival value of community, then shows that belonging has not yet cured possessiveness; his death converts failure into the karmic drive toward generosity.",
+      "current_read": {
+        "summary": "Ka senses ecological change and observes unfamiliar pack hunters whose cooperation challenges his belief that solitude is strength. He repeatedly chooses the lone hunt until a big cat nearly kills him and the tribe saves him. Ka joins a communal hunt, shares food, and briefly experiences belonging. When winter scarcity arrives, however, he relapses into possession, hides meat from hungry members of the tribe, and walks into a storm with his hoard. Freezing alone, he understands too late that everything survives by giving, and his need to learn generosity carries beyond death.",
+        "arc": {
+          "opening_state": "Ka sleeps apart from the tribe and believes that needing no one makes him strong.",
+          "major_turn": "The tribe kills the cat attacking Ka and tends his wounds, making interdependence undeniable.",
+          "closing_state": "Ka dies with the meat he refused to share, but his final desire to understand giving survives him."
+        },
+        "dominant_threads": [
+          "Alone-way versus together-way",
+          "Climate pressure forcing adaptation",
+          "Belonging learned but generosity unfinished",
+          "Death as a bridge into the next lesson"
+        ]
+      },
+      "word_target": 7000,
+      "word_count_current": 4839,
+      "word_count_delta": -2161,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Blood Wake",
+          "file": "CH02-scene-01.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-01.md",
+          "word_count": 358,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "Ka wakes tasting blood and senses that the land, weather, prey, and old hunting patterns are changing. From his solitary place at the cave mouth, he sees unfamiliar hunters moving together below.",
+          "function": "Establishes Ka's embodied voice, isolation, environmental threat, and the chapter's central challenge to the old ways.",
+          "ends_on": "Dawn presents Ka with a test: adapt or remain alone."
+        },
+        {
+          "section": "II",
+          "title": "Strange Hunters",
+          "file": "CH02-scene-02.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-02.md",
+          "word_count": 400,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "Ka watches the strange pack efficiently kill an elk, then stop to tend an injured member. Their combination of violence, care, and coordinated movement frightens him.",
+          "function": "Introduces the pack as a living model of collective strength and mutual care.",
+          "ends_on": "Ka rejects the new way even as fear and doubt settle into him."
+        },
+        {
+          "section": "III",
+          "title": "The Lone Hunt",
+          "file": "CH02-scene-03.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-03.md",
+          "word_count": 606,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "Unable to tolerate the tribe's closeness, Ka leaves to hunt alone. The ground, birds, smoke, and migrating herds warn of danger, while memories reveal that his solitude grew partly from envy and rejection inside the tribe.",
+          "function": "Complicates Ka's pride by exposing the wound beneath it and widens the threat from predators to ecological collapse.",
+          "ends_on": "Ka clings to the claim that being alone is good."
+        },
+        {
+          "section": "IV",
+          "title": "Change or Be Left Behind",
+          "file": "CH02-scene-04.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-04.md",
+          "word_count": 909,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "Ka studies the pack's coordinated kill while cold and scarcity reshape the land. He sees his own tribe adapting through food-sharing and joint hunts, yet old memories of humiliation keep him apart as he follows signs of the new predators.",
+          "function": "Makes adaptation the explicit choice, sets collective behavior against Ka's grievance, and moves him toward direct observation of the pack.",
+          "ends_on": "Ka stands empty-handed while the warning repeats: change or be left behind."
+        },
+        {
+          "section": "V",
+          "title": "The Pack Hunt",
+          "file": "CH02-scene-05.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-05.md",
+          "word_count": 495,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "Ka leaves the crowded cave again and secretly watches the dog pack drive deer toward a cliff, kill more than he could alone, take what it needs, and vanish.",
+          "function": "Defeats Ka's belief in solitary superiority through undeniable evidence of coordinated hunting power.",
+          "ends_on": "Ka feels small, weak, and newly doubtful of the alone-way."
+        },
+        {
+          "section": "VI",
+          "title": "Saved by the Tribe",
+          "file": "CH02-scene-06.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-06.md",
+          "word_count": 628,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "As Ka accepts that isolation may be weakness, a big cat attacks and overwhelms him. The tribe arrives together, kills the cat, binds Ka's wound, and gives him care he neither requested nor believed he needed.",
+          "function": "Converts the pack lesson from observation into lived dependence and forces Ka to receive help.",
+          "ends_on": "Ka names his survival as a gift from the tribe."
+        },
+        {
+          "section": "VII",
+          "title": "With the Pack",
+          "file": "CH02-scene-07.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-07.md",
+          "word_count": 461,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "The alpha gives Ka a new spear, and Ka joins the tribe in bringing down a dangerous big-nosed beast. He shares the food, receives respect, sleeps among the others, and wakes as part of the pack.",
+          "function": "Pays off the cooperation arc by letting Ka experience coordinated strength, belonging, safety, and peace.",
+          "ends_on": "Ka begins a new hunt unafraid because he is no longer alone."
+        },
+        {
+          "section": "VIII",
+          "title": "The Hoarding Death",
+          "file": "CH02-scene-08.md",
+          "path": "incarnations/ch02-prehistoric-ka/scenes/CH02-scene-08.md",
+          "word_count": 982,
+          "status": "text_present",
+          "pov_focus": "Ka",
+          "summary": "Winter scarcity awakens Ka's possessiveness. He guards the communal meat, hides a deer from hungry cubs and mothers, then carries it into a storm rather than surrender it. Freezing beside unusable meat, he sees that animals, earth, and tribe all survive through giving; the need to learn that lesson becomes the force that continues after his death.",
+          "function": "Reverses Ka's apparent victory, distinguishes cooperation from generosity, completes the death bridge, and seeds the next incarnation's lesson.",
+          "ends_on": "Ka's hunger to learn giving burns toward a new life."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "scene_alignment",
+          "severity": "high",
+          "note": "The source manifest labels Scene 5 “Cat Attack” and Scene 6 “Tribe Saves Ka.” In the current prose, Scene 5 is entirely the dog-pack hunt; the cat attack and tribal rescue both occur in Scene 6."
+        },
+        {
+          "kind": "lesson_emphasis",
+          "severity": "medium",
+          "note": "The source manifest names loving-kindness/cooperation as the chapter lesson. The current text completes a cooperation arc in Scene 7, then makes failed generosity/non-hoarding the decisive death lesson in Scene 8."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "ch03-lilith-cp01",
+      "title": "The Discovery",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": {
+          "period": "Contemporary",
+          "location": "Fallowfield flat, Manchester, UK",
+          "time": "One February night into dawn, before Chapter 1"
+        },
+        "historical": {
+          "period": "Prehistoric",
+          "location": "Jebel Irhoud, Morocco",
+          "year": "300,000 BCE",
+          "avatar": "Ka"
+        }
+      },
+      "pov": "Lilith, with Ka's experience embodied inside her perception",
+      "lilith": {
+        "occupation": "Psychiatrist",
+        "current_capability_as_written": "She can follow her own prior incarnations and, for the first time here, track another consciousness through death and rebirth. The prose states that she cannot yet reach through time to change what happened and that this skill will come later.",
+        "attachment_manifestation": "She calls the discovery research and a problem to solve while beginning to grasp the thread as hers.",
+        "blind_spot": "She diagnoses Ka's isolation and hoarding while reproducing both patterns in her solitary tracking."
+      },
+      "corresponds_to": {
+        "historical_chapter": 2,
+        "avatar": "Ka",
+        "next_incarnation": "Chandra",
+        "lesson_bridge": "Ka's death-hunger to understand giving draws the thread toward a life structured around ledgers, grain, duty, and generosity."
+      },
+      "function": "Shows Lilith discovering Silas's karmic thread, establishes the integrated present/past narration, mirrors her attachment against Ka's hoarding, proves she can follow another consciousness across rebirth, and begins her pursuit.",
+      "current_read": {
+        "summary": "During a solitary night in her Fallowfield flat, Lilith accidentally finds Ka's ancient consciousness while tracing her own prior lives. Manchester and the prehistoric cave occupy her perception at once as she watches Ka hoard meat and recognizes the wound beneath his isolation. Her supposedly neutral observation becomes possessive: Ka's “mine” echoes in her claim on the thread. Lilith follows him through his freezing death, across the gap between lives, and into Chandra's formation in India. At dawn she decides to trace the pattern forward, disguising fascination and attachment as research.",
+        "arc": {
+          "opening_state": "Lilith accidentally encounters another karmic thread while engaged in private tracking.",
+          "major_turn": "Ka's hoarding reveals Lilith's matching tendency to grasp, though she refuses to examine the resemblance.",
+          "closing_state": "Having proven she can track another consciousness through rebirth, Lilith chooses to pursue it forward."
+        },
+        "dominant_threads": [
+          "Observation becoming possession",
+          "Ka and Lilith as mirrors",
+          "Integrated bodily experience across time",
+          "Curiosity as the first mask of attachment"
+        ],
+        "integration_devices": [
+          "Kettle scream and storm scream",
+          "Tea warmth and fire warmth",
+          "Manchester flat and prehistoric cave",
+          "Cold mug, frozen meat, and failing hands",
+          "Shared tightening in hands and sternum"
+        ]
+      },
+      "word_target": 3000,
+      "word_count_current": 3057,
+      "word_count_delta": 57,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Discovery",
+          "file": "CH03-scene-01.md",
+          "path": "incarnations/ch03-lilith-cp01/scenes/CH03-scene-01.md",
+          "word_count": 750,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Ka",
+          "summary": "Making tea at two in the morning, Lilith accidentally encounters Ka's ancient consciousness while searching her own reincarnational patterns. She experiences his isolation in her body, recognizes him as a fellow traveler, and follows the unexpectedly dense thread deeper.",
+          "function": "Introduces Lilith's tracking practice, discovers Silas's earliest shown thread, and establishes the chapter's simultaneous-time prose.",
+          "ends_on": "Lilith lets the flat recede and follows Ka."
+        },
+        {
+          "section": "II",
+          "title": "The Hoarding",
+          "file": "CH03-scene-02.md",
+          "path": "incarnations/ch03-lilith-cp01/scenes/CH03-scene-02.md",
+          "word_count": 933,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Ka",
+          "summary": "Lilith watches Ka clutch frozen meat and accurately reads his isolation as a defense that has become a prison. At the same time, she ignores her ordinary life, claims the thread as her puzzle, and insists that watching is neutral even as Ka's “mine” becomes her own.",
+          "function": "Builds the central mirror between Ka's material hoarding and Lilith's possessive observation.",
+          "ends_on": "Both watchers hold their prizes and call possession enough."
+        },
+        {
+          "section": "III",
+          "title": "Ka's Death",
+          "file": "CH03-scene-03.md",
+          "path": "incarnations/ch03-lilith-cp01/scenes/CH03-scene-03.md",
+          "word_count": 582,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Ka",
+          "summary": "Lilith feels Ka freeze and understand that possession without use cannot sustain life. His dying need to learn giving survives the body, while Lilith briefly recognizes that she and Ka share a pattern and files the recognition away rather than confronting it.",
+          "function": "Replays Chapter 2's death from Lilith's embodied perspective and makes both karmic continuity and thematic mirroring explicit.",
+          "ends_on": "The body becomes meat, but the thread continues and Lilith follows."
+        },
+        {
+          "section": "IV",
+          "title": "The Thread Forward",
+          "file": "CH03-scene-04.md",
+          "path": "incarnations/ch03-lilith-cp01/scenes/CH03-scene-04.md",
+          "word_count": 792,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith tracks Ka through the formless gap between death and rebirth until the pattern coheres as Chandra in India. Returning to her exhausted body at dawn, she realizes that the technique works on others and decides to follow this consciousness forward while calling her growing fixation scientific curiosity.",
+          "function": "Bridges Ka to Chandra, proves Lilith's tracking capability, and turns accidental discovery into deliberate pursuit.",
+          "ends_on": "Lilith grips a fresh mug and resolves to solve the consciousness she now treats as a problem."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "capability_timing",
+          "severity": "high",
+          "note": "The source manifest says Lilith has full temporal perception, physical manifestation, and circumstance manipulation from the start. Chapter 3 prose says she cannot yet reach through time to change events and that “the skill would come later.”"
+        },
+        {
+          "kind": "timeline_duration",
+          "severity": "medium",
+          "note": "The source manifest describes this chapter as tracking Days 1–3. The current prose reads as one continuous vigil from roughly 2:00 a.m. until dawn."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "ch04-mauryan-chandra",
+      "title": "The Ledger",
+      "type": "historical",
+      "genre": "Political Thriller",
+      "setting": {
+        "period": "Ancient",
+        "location": "Mauryan Empire, India",
+        "year": "268–232 BCE"
+      },
+      "pov": "Chandra, first person",
+      "avatar": {
+        "name": "Chandra",
+        "occupation": "Rājuka and former grain merchant",
+        "current_state": "A gifted administrator who trusts calculation more readily than presence."
+      },
+      "function": "Transforms Ka's hunger to learn giving into Chandra's measured public service, then exposes the limit of resource-based generosity when he chooses prosecutable records over people immediately within reach.",
+      "current_read": {
+        "summary": "After taking an assassin's blade meant for Dharma-Mahāmātra Nagasena, Chandra is assigned to investigate systematic grain theft with his longtime partner Devaka. Underweight sacks and a warehouse keeper's confession expose only a sacrificial layer of a much larger conspiracy. Chandra continues covertly; frightened conspirators turn Devaka late, seize the evidence, and force Chandra to lead a staged raid. When saboteurs ignite the compound, Chandra calculates that saving records may protect thousands and chooses them over workers he could lead to safety. The evidence burns anyway, his body is broken in a fall, and he dies understanding that his ledgers recorded resources while omitting human presence.",
+        "arc": {
+          "opening_state": "Chandra translates moral claims, danger, and even his own wound into quantities.",
+          "major_turn": "Devaka betrays him from late-arising fear, proving that truthful service and cowardice can coexist.",
+          "closing_state": "Dying among burned records, Chandra promises the dark-eyed child he failed that he will learn to stay."
+        }
+      },
+      "word_target": 8000,
+      "word_count_current": 19348,
+      "word_count_delta": 11348,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Pillar Ceremony",
+          "file": "CH04-scene-01.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-01.md",
+          "word_count": 2751,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "At an imperial edict ceremony, Chandra counts the pillar's costs until an assassin lunges at Nagasena and wounds him instead. Sumitra assigns Chandra the grain investigation behind the attack, and Chandra chooses Devaka as deputy.",
+          "function": "Introduces Chandra's ledger-mind, the conspiracy, and the friendship that will become its leverage."
+        },
+        {
+          "section": "II",
+          "title": "The Assignment",
+          "file": "CH04-scene-02.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-02.md",
+          "word_count": 1673,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "Sumitra explains eighteen months of sophisticated grain diversion and grants broad investigative authority. Devaka spots a falsification formula, but his hesitation plants suspicion that Chandra suppresses beneath fifteen years of trust.",
+          "function": "Defines the theft's scale and turns trusted collaboration into an uncertain variable."
+        },
+        {
+          "section": "III",
+          "title": "Warehouse Inspection",
+          "file": "CH04-scene-03.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-03.md",
+          "word_count": 2296,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "At Warehouse Seven, Chandra proves sealed sacks are consistently underweight and calculates a district-feeding quantity of stolen grain. He arrests keeper Vikram, who offers cooperation.",
+          "function": "Converts suspicion into measurable evidence while showing how easily Chandra reduces a person to an entry in a prosecutable pattern."
+        },
+        {
+          "section": "IV",
+          "title": "The Interrogation",
+          "file": "CH04-scene-04.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-04.md",
+          "word_count": 2050,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "Vikram's confession and Vasumitra's arrest produce an official closure, but the recovered figures account for only a fraction of the missing grain. Chandra decides to keep investigating beyond his mandate.",
+          "function": "Reveals the solved case as a deliberate decoy and commits Chandra to the deeper conspiracy."
+        },
+        {
+          "section": "V",
+          "title": "The Covert Investigation",
+          "file": "CH04-scene-05.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-05.md",
+          "word_count": 2630,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "Weeks of hidden archive work trace grain futures and payments into powerful houses. Devaka admits he suspected the larger scheme, warns that their inquiry is known, and proposes reaching Nagasena through a secret temple route.",
+          "function": "Expands the crime from warehouse fraud to a protected system and brings Devaka's divided loyalty into the open."
+        },
+        {
+          "section": "VI",
+          "title": "The Temple Betrayal",
+          "file": "CH04-scene-06.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-06.md",
+          "word_count": 2119,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "The secret passage ends in armed capture. Devaka confesses that the conspiracy recently bought his fear—not that their whole friendship was false—and the evidence is seized before Sumitra orders Chandra to lead an immediate granary raid.",
+          "function": "Makes betrayal a late human failure rather than a lifelong deception and strips Chandra of the proof he valued."
+        },
+        {
+          "section": "VII",
+          "title": "The Fire",
+          "file": "CH04-scene-07.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-07.md",
+          "word_count": 2982,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "The raid arrests workers and families while hidden saboteurs ignite warehouses and residences. Chandra sees a clear route by which he could lead forty people out, but chooses the records whose future utility seems greater; the fire traps him, destroys the documents, and breaks his body in a fall.",
+          "function": "Forces Chandra's decisive failed calculation: abstract future benefit over present lives."
+        },
+        {
+          "section": "VIII",
+          "title": "The Ledger's Reckoning",
+          "file": "CH04-scene-08.md",
+          "path": "incarnations/ch04-mauryan-chandra/scenes/CH04-scene-08.md",
+          "word_count": 2847,
+          "status": "text_present",
+          "pov_focus": "Chandra",
+          "summary": "Devaka apologizes beside the dying Chandra, who reviews a lifelong ledger of absences: every moment he gave resources without giving himself. The face of a dark-eyed child he left in the fire becomes the unanswered demand he carries into death.",
+          "function": "Crystallizes the distinction between measured generosity and presence, seeding Philon's opposite error of staying at any cost."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "draft_status",
+          "severity": "high",
+          "note": "The source manifest labels Chapter 4 “outlined,” but all eight scene files contain 19,348 words of prose."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "ch05-lilith-cp02",
+      "title": "The Ledger's Shadow",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield flat, before Chapter 1",
+        "historical": "Mauryan India during Chandra's life"
+      },
+      "pov": "Lilith integrated with Chandra",
+      "function": "Stages Lilith's first deliberate intervention, shows her push turn Devaka's fear into betrayal, and establishes the repeating backfire in which opposition accelerates the lesson she means to obstruct.",
+      "current_read": {
+        "summary": "Lilith follows Ka's thread into Chandra and identifies his reliance on Devaka as leverage. At an unresolved choice-point she focuses on Devaka's fear until loyalty collapses into betrayal, discovering that attention can shape another person's decision. She watches the trap and fire with satisfaction until Chandra's failure turns into insight: giving resources is insufficient without presence. Although the intervention teaches the lesson more forcefully, Lilith files the wrongness as a correctable strategic problem and follows the thread onward.",
+        "arc": {
+          "opening_state": "Lilith still calls tracking observation.",
+          "major_turn": "She knowingly becomes a participant by strengthening Devaka's fear.",
+          "closing_state": "The first intervention backfires, but she answers failure with greater confidence in intervention."
+        }
+      },
+      "word_target": 2500,
+      "word_count_current": 3343,
+      "word_count_delta": 843,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Ledger Bleeds",
+          "file": "CH05-scene-01.md",
+          "path": "incarnations/ch05-lilith-cp02/scenes/CH05-scene-01.md",
+          "word_count": 776,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Chandra",
+          "summary": "Lilith enters Chandra's administrative consciousness, sees measured giving without human presence, and identifies fifteen years of trust in Devaka as the vulnerable point in his pattern.",
+          "function": "Maps Chandra's limitation and converts relationship into strategic leverage."
+        },
+        {
+          "section": "II",
+          "title": "The Intervention",
+          "file": "CH05-scene-02.md",
+          "path": "incarnations/ch05-lilith-cp02/scenes/CH05-scene-02.md",
+          "word_count": 799,
+          "status": "text_present",
+          "pov_focus": "Lilith and Devaka's choice-point",
+          "summary": "Lilith presses attention into Devaka's unresolved choice, strengthens fear, and dims loyalty until he decides to warn the conspirators. She recognizes that focused attention can alter choices and accepts the role of participant.",
+          "function": "Establishes Lilith's active influence and the moral threshold she crosses."
+        },
+        {
+          "section": "III",
+          "title": "The Watching",
+          "file": "CH05-scene-03.md",
+          "path": "incarnations/ch05-lilith-cp02/scenes/CH05-scene-03.md",
+          "word_count": 714,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Chandra",
+          "summary": "Lilith watches Chandra ignore clues, preserve trust, and walk into the temple trap her pressure made inevitable. His capture registers to her as proof that the method worked.",
+          "function": "Shows satisfaction replacing clinical neutrality as the intervention completes."
+        },
+        {
+          "section": "IV",
+          "title": "The Rationalization",
+          "file": "CH05-scene-04.md",
+          "path": "incarnations/ch05-lilith-cp02/scenes/CH05-scene-04.md",
+          "word_count": 1054,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Chandra",
+          "summary": "Through the fire and Chandra's death, Lilith feels his consciousness turn toward the people his calculations omitted. She recognizes but refuses to accept that her intervention crystallized generosity, then traces him forward toward a more philosophical life.",
+          "function": "Completes the first backfire and establishes rationalization as Lilith's defense."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 6,
+      "id": "ch06-athens-philosopher",
+      "title": "The Philosopher",
+      "type": "historical",
+      "genre": "Historical Tragedy",
+      "setting": {
+        "period": "Classical Athens",
+        "location": "Athens within the Long Walls",
+        "year": "430 BCE, during the Plague of Athens"
+      },
+      "pov": "Philon of Kephissia, first person",
+      "avatar": {
+        "name": "Philon of Kephissia",
+        "occupation": "Physician",
+        "current_state": "A compassionate healer whose vow never to abandon a patient turns care into martyrdom."
+      },
+      "function": "Tests whether compassion remains wise when devotion to one sufferer abandons the many and the healer's own capacity to continue.",
+      "current_read": {
+        "summary": "As plague overwhelms wartime Athens, Philon opens his clinic to everyone and keeps working while civic order and burial customs collapse. A magistrate urges him to preserve himself for the many, but Philon carries one dying enslaved woman into private care and refuses to leave her. Her challenge—why must he be the one—reveals self-identity inside his selflessness. He returns to the waiting patients already infected, works through fever, and dies unable to resolve whether his sacrifice served her or himself.",
+        "arc": {
+          "opening_state": "Philon's vow to touch those others abandon defines virtue as never withdrawing.",
+          "major_turn": "He chooses one dying woman over the clinic and the many.",
+          "closing_state": "His death leaves a karmic hunger to understand virtue correctly."
+        }
+      },
+      "word_target": null,
+      "word_count_current": 10031,
+      "word_count_delta": null,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Prologos—The City Before Collapse",
+          "file": "CH06-scene-01.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-01.md",
+          "word_count": 1962,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "Before the plague fully arrives, Philon treats patients, teaches Alexios that touch must be intentional, and confronts the old vow that he will never abandon someone who needs care.",
+          "function": "Establishes the compassionate principle that will harden into fatal identity."
+        },
+        {
+          "section": "II",
+          "title": "Parodos—The First Breach",
+          "file": "CH06-scene-02.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-02.md",
+          "word_count": 937,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "When the first man collapses amid a fearful crowd, Philon crosses the empty ring, touches him, and opens his clinic to the outbreak.",
+          "function": "Turns the vow into public action and carries Philon across the threshold into plague service."
+        },
+        {
+          "section": "III",
+          "title": "First Episode—The Flood",
+          "file": "CH06-scene-03.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-03.md",
+          "word_count": 1203,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "Within a fortnight the clinic and city are overwhelmed; patients multiply, pyres burn, and Alexios's exhausted silence warns that Philon's method consumes everyone around him.",
+          "function": "Escalates care from difficult duty into an impossible arithmetic of survival."
+        },
+        {
+          "section": "IV",
+          "title": "First Stasimon—The City's Lament",
+          "file": "CH06-scene-04.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-04.md",
+          "word_count": 591,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "Burial practice and civic distinctions collapse under unceasing death while Philon reduces existence to the next body, the next cup of water, the next task.",
+          "function": "Provides the tragic chorus of a city whose scale no individual healer can master."
+        },
+        {
+          "section": "V",
+          "title": "Second Episode—The Impossible Choice",
+          "file": "CH06-scene-05.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-05.md",
+          "word_count": 1979,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "A magistrate argues that Philon must preserve his life for hundreds, but Philon carries a dying enslaved woman away from the crowded clinic and commits himself to her solitary care.",
+          "function": "Makes the conflict between immediate compassion and consequential wisdom explicit."
+        },
+        {
+          "section": "VI",
+          "title": "Second Stasimon—The Cost of the Choice",
+          "file": "CH06-scene-06.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-06.md",
+          "word_count": 575,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "As the city and waiting patients worsen, Philon tends the woman and suppresses the thought that choosing her may have been about his own vow.",
+          "function": "Lets the uncounted cost of martyrdom gather outside the room."
+        },
+        {
+          "section": "VII",
+          "title": "Third Episode—Martyrdom",
+          "file": "CH06-scene-07.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-07.md",
+          "word_count": 1331,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "The dying woman grips Philon's wrist and asks why he must be the one to remain. Her question cracks the purity of his sacrifice, and after her death he finally returns to the living who wait.",
+          "function": "Exposes helper identity inside apparent selflessness."
+        },
+        {
+          "section": "VIII",
+          "title": "Kommos—The Broken Realization",
+          "file": "CH06-scene-08.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-08.md",
+          "word_count": 1048,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "Already feverish, Philon works until his body fails and delirium forces the question he avoided: did he choose one person from virtue, or to preserve the identity of the healer who never leaves?",
+          "function": "Turns the tragic error into incomplete wisdom at the edge of death."
+        },
+        {
+          "section": "IX",
+          "title": "Exodus—Death and Seeding",
+          "file": "CH06-scene-09.md",
+          "path": "incarnations/ch06-athens-philosopher/scenes/CH06-scene-09.md",
+          "word_count": 405,
+          "status": "text_present",
+          "pov_focus": "Philon",
+          "summary": "Philon loosens from the body while the unresolved moral question remains his last thought.",
+          "function": "Carries the need for a reliable ethical framework into Verinus's life."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "missing_target",
+          "severity": "medium",
+          "note": "The source manifest provides no word target for Chapter 6; the current scene prose totals 10,031 words."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "ch07-lilith-cp03",
+      "title": "The Dream-Walker",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield flat, before Chapter 1",
+        "historical": "Athens during the plague, 430 BCE"
+      },
+      "pov": "Lilith integrated with Philon",
+      "function": "Shows Lilith refine intervention into psychological pressure and discover that making Philon's choice harder only deepens the wisdom produced by his failure.",
+      "current_read": {
+        "summary": "Lilith enters Philon's plague-saturated thread and identifies his binding vow. She plants a dream of pyres in Alexios and applies two pressures intended to isolate Philon and expose his martyrdom as futile. The intervention drives him toward the same dying woman, but her question reveals the self inside his sacrifice. Philon's fevered death crystallizes wisdom; Lilith again names the backfire a problem of calibration and follows the thread toward Rome.",
+        "arc": {
+          "opening_state": "Lilith believes a more precisely designed correction will succeed.",
+          "major_turn": "Philon reaches for the woman while Lilith reaches for his thread.",
+          "closing_state": "His insight strengthens the pattern, and her compulsion to follow strengthens with it."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 3997,
+      "word_count_delta": 997,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Thread Shifts",
+          "file": "CH07-scene-01.md",
+          "path": "incarnations/ch07-lilith-cp03/scenes/CH07-scene-01.md",
+          "word_count": 767,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Philon",
+          "summary": "Heat, rot, and smoke carry Lilith into plague Athens, where she diagnoses Philon's vow never to abandon as the new attachment to correct.",
+          "function": "Maps the next flaw and initiates a refined strategy."
+        },
+        {
+          "section": "II",
+          "title": "The Dream-Walker",
+          "file": "CH07-scene-02.md",
+          "path": "incarnations/ch07-lilith-cp03/scenes/CH07-scene-02.md",
+          "word_count": 830,
+          "status": "text_present",
+          "pov_focus": "Lilith through Alexios and Philon",
+          "summary": "Lilith constructs paired pressures, including a visceral pyre dream for Alexios, to make Philon's self-destructive care impossible to sustain.",
+          "function": "Demonstrates her growing ability to shape circumstance through fear and association."
+        },
+        {
+          "section": "III",
+          "title": "The Compulsion",
+          "file": "CH07-scene-03.md",
+          "path": "incarnations/ch07-lilith-cp03/scenes/CH07-scene-03.md",
+          "word_count": 892,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Philon",
+          "summary": "The planted dream works on Alexios, yet Philon still reaches for the dying woman. Lilith feels her own reaching mirror his compulsive need to help and refuses the implication.",
+          "function": "Places intervenor and healer inside the same grasping gesture."
+        },
+        {
+          "section": "IV",
+          "title": "The Wheel Turns",
+          "file": "CH07-scene-04.md",
+          "path": "incarnations/ch07-lilith-cp03/scenes/CH07-scene-04.md",
+          "word_count": 1508,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Philon's death",
+          "summary": "Lilith experiences the woman's death, Philon's broken realization, his fever, and the moral question that survives him. She traces the strengthened thread onward while insisting the next refinement will work.",
+          "function": "Completes the second intervention backfire and bridges into Verinus."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 8,
+      "id": "ch08-rome-investigator",
+      "title": "The Investigator",
+      "type": "historical",
+      "genre": "Mystery / Philosophical Drama",
+      "setting": {
+        "period": "Classical Rome",
+        "location": "Rome and a coastal province",
+        "year": "Approximately 140 CE"
+      },
+      "pov": "Lucius Severian Verinus, first person",
+      "avatar": {
+        "name": "Verinus",
+        "occupation": "Legal investigator",
+        "current_state": "A Stoic investigator who confuses factual certainty with moral purity."
+      },
+      "function": "Teaches Verinus to act compassionately within uncertainty rather than using contempt for inconsistency as a substitute for virtue.",
+      "current_read": {
+        "summary": "Verinus is assigned to investigate philosopher Varro's death and initially treats conflicting testimony as human contamination to be cleaned away. Witness accounts, altered records, philosophical argument, and a vulnerable enslaved suspect progressively destroy the possibility of certainty. At a private tribunal Verinus refuses to condemn Philo merely to produce closure, accepting professional exile rather than a false conclusion. Years later he learns Philo built a life, and dies believing he finally understood virtue—an understanding still held as a possession.",
+        "arc": {
+          "opening_state": "Verinus maintains correctness through ritual, contempt, and the promise of solvable facts.",
+          "major_turn": "Philo's fear becomes morally more important than a coherent prosecutorial story.",
+          "closing_state": "Verinus chooses compassion under uncertainty, but grasps the insight as something he owns."
+        }
+      },
+      "word_target": null,
+      "word_count_current": 9719,
+      "word_count_delta": null,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Baths and the First Contempt",
+          "file": "CH08-scene-01.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-01.md",
+          "word_count": 763,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "At the baths, Verinus cleans his bronze stylus and discusses virtue with Marcus before receiving the praetor's summons.",
+          "function": "Establishes his ritual of correctness and resentment toward disorder."
+        },
+        {
+          "section": "II",
+          "title": "The Case Is Assigned",
+          "file": "CH08-scene-02.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-02.md",
+          "word_count": 1042,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "The praetor assigns Varro's politically sensitive death and expects a usable answer; Verinus promises to find what is true.",
+          "function": "Binds his identity to a case whose evidence will not cohere."
+        },
+        {
+          "section": "III",
+          "title": "First Testimonies—The Human Noise Floor",
+          "file": "CH08-scene-03.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-03.md",
+          "word_count": 1804,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "At Varro's study, conflicting witnesses and material details multiply instead of converging, while Verinus responds by cleaning, categorizing, and pressing harder.",
+          "function": "Turns ordinary testimonial variation into an assault on Verinus's need for certainty."
+        },
+        {
+          "section": "IV",
+          "title": "Stoic Debate and Lilith Cameo",
+          "file": "CH08-scene-04.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-04.md",
+          "word_count": 1014,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "A public philosophical dispute over truth and confusion destabilizes Verinus's moral footing while a strange watching presence enters the case's atmosphere.",
+          "function": "Makes the mystery's epistemic conflict explicit and introduces Lilith's pressure."
+        },
+        {
+          "section": "V",
+          "title": "Collapse of Coherence",
+          "file": "CH08-scene-05.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-05.md",
+          "word_count": 1140,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "Timelines and records contradict each other faster than Verinus can reconcile them, and the certainty he has carried for forty years begins to loosen.",
+          "function": "Removes the possibility of solving the case through purity of evidence."
+        },
+        {
+          "section": "VI",
+          "title": "The Vulnerable Witness",
+          "file": "CH08-scene-06.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-06.md",
+          "word_count": 983,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "Interviewing terrified Philo, Verinus begins to read trembling hands and tears as human evidence rather than noise to discard.",
+          "function": "Moves compassion into the space left by collapsing certainty."
+        },
+        {
+          "section": "VII",
+          "title": "The Compassionate Judgment",
+          "file": "CH08-scene-07.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-07.md",
+          "word_count": 1534,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "At the tribunal, Verinus refuses to manufacture certainty or sacrifice Philo for institutional closure. He chooses the compassionate judgment despite the cost to his office and reputation.",
+          "function": "Completes the ethical choice: virtue as truthful action within uncertainty."
+        },
+        {
+          "section": "VIII",
+          "title": "Exile—The Quiet Unraveling",
+          "file": "CH08-scene-08.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-08.md",
+          "word_count": 976,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "Living quietly in a coastal olive grove, Verinus learns that Philo is free, married, and expecting a child, confirming the human value of his uncertain decision.",
+          "function": "Pays off compassion outside the legal system that punished it."
+        },
+        {
+          "section": "IX",
+          "title": "Death—The Final Letting Go",
+          "file": "CH08-scene-09.md",
+          "path": "incarnations/ch08-rome-investigator/scenes/CH08-scene-09.md",
+          "word_count": 463,
+          "status": "text_present",
+          "pov_focus": "Verinus",
+          "summary": "Verinus dies peacefully in the grove, holding close the thought that he finally understood.",
+          "function": "Completes the life while preserving a subtler attachment to insight itself."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "missing_target",
+          "severity": "medium",
+          "note": "The source manifest provides no word target for Chapter 8; the current scene prose totals 9,719 words."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "ch09-lilith-cp04",
+      "title": "The Complaint",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield flat, before Chapter 1",
+        "historical": "Rome during Verinus's investigation"
+      },
+      "pov": "Lilith integrated with Verinus",
+      "function": "Escalates Lilith from influencing choices to altering evidence and shows Verinus convert manufactured uncertainty into compassionate action.",
+      "current_read": {
+        "summary": "Lilith follows the thread into Verinus and identifies certainty as his fortress. She creates contradictory official records and amplifies the case's inconsistencies, expecting doubt to harden into condemnation. Instead, Verinus learns to distinguish uncertainty from moral paralysis and protects Philo without pretending to know everything. Lilith calls the failure calibration, but while tracing the pattern onward she can no longer ignore that every intervention has helped crystallize the next lesson.",
+        "arc": {
+          "opening_state": "Lilith replaces force with procedural precision.",
+          "major_turn": "Verinus treats contradiction as a reason for compassion rather than punishment.",
+          "closing_state": "The backfire pattern becomes visible, and Lilith continues anyway."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 7034,
+      "word_count_delta": 4034,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Shift",
+          "file": "CH09-scene-01.md",
+          "path": "incarnations/ch09-lilith-cp04/scenes/CH09-scene-01.md",
+          "word_count": 1421,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Verinus",
+          "summary": "Lilith enters Verinus's procedural world and recognizes that he can collaborate and care only while a problem remains cleanly solvable.",
+          "function": "Defines certainty, not simple ill will, as the leverage point."
+        },
+        {
+          "section": "II",
+          "title": "The Seeding",
+          "file": "CH09-scene-02.md",
+          "path": "incarnations/ch09-lilith-cp04/scenes/CH09-scene-02.md",
+          "word_count": 1089,
+          "status": "text_present",
+          "pov_focus": "Lilith inside the praetor's record",
+          "summary": "Lilith changes a copied descriptor from “intemperate” to “temperate,” creating parallel official records whose contradiction she expects Verinus to seize upon.",
+          "function": "Moves her intervention from pressure on people to direct manipulation of evidence."
+        },
+        {
+          "section": "III",
+          "title": "The Complaint",
+          "file": "CH09-scene-03.md",
+          "path": "incarnations/ch09-lilith-cp04/scenes/CH09-scene-03.md",
+          "word_count": 1354,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Verinus",
+          "summary": "Philosophers argue in the portico while the altered complaint enters Verinus's widening field of contradictions and observer and observed begin to blur.",
+          "function": "Turns epistemic uncertainty into an embodied contest between Lilith and Verinus."
+        },
+        {
+          "section": "IV",
+          "title": "The Escalation",
+          "file": "CH09-scene-04.md",
+          "path": "incarnations/ch09-lilith-cp04/scenes/CH09-scene-04.md",
+          "word_count": 1620,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Verinus",
+          "summary": "Contradictions mount until Lilith expects rigid condemnation, but Verinus chooses to protect the vulnerable witness while openly accepting what he cannot know.",
+          "function": "Makes the intervention backfire as uncertainty becomes the condition for virtue."
+        },
+        {
+          "section": "V",
+          "title": "The Backfire",
+          "file": "CH09-scene-05.md",
+          "path": "incarnations/ch09-lilith-cp04/scenes/CH09-scene-05.md",
+          "word_count": 1550,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Tracing forward, Lilith inventories how Ka, Chandra, Philon, and Verinus each crystallized a lesson under her attention. She resists the accumulating conclusion and continues.",
+          "function": "Names the repeating structural backfire without yet changing Lilith's course."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "missing_source_entries",
+          "severity": "high",
+          "note": "The source manifest contains no scene entries for Chapter 9; five current scene files total 7,034 words."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "ch10-egypt-hermit",
+      "title": "The Hermit",
+      "type": "historical",
+      "genre": "Spiritual Drama",
+      "setting": {
+        "period": "Late Antiquity",
+        "location": "Scetis, Egyptian desert",
+        "year": "Approximately 360 CE"
+      },
+      "pov": "Abba Macarius, first person",
+      "avatar": {
+        "name": "Macarius",
+        "occupation": "Desert father and former rhetoric teacher",
+        "current_state": "An ascetic whose renunciation has become an admired performance and a source of concealed appetite."
+      },
+      "function": "Distinguishes renunciation from prideful self-denial by letting public reverence awaken the hunger Macarius has hidden inside austerity.",
+      "current_read": {
+        "summary": "Macarius lives in disciplined desert simplicity, weaving baskets and offering listening rather than easy instruction. A visiting delegation and an uncanny female dignitary begin treating his restraint as exemplary holiness. Praise spreads; his body leans toward attention even as his words deny it. During a requested public teaching he tastes his own hunger for reverence as something rancid and realizes the cell, fasting, and humility have become performance. He collapses into grief, then spends his remaining time allowing ordinary bodily gifts without grasping and dies asking not to waste them again.",
+        "arc": {
+          "opening_state": "Macarius mistakes controlled deprivation for completed renunciation.",
+          "major_turn": "Public teaching makes the pleasure of being revered physically undeniable.",
+          "closing_state": "The pendulum swings from denial toward grateful use of embodied life."
+        }
+      },
+      "word_target": 9700,
+      "word_count_current": 13694,
+      "word_count_delta": 3994,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Cell",
+          "file": "CH10-scene-01.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-01.md",
+          "word_count": 1392,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "Macarius weaves baskets in a cell reduced to utility, rejects imperfect fiber without waste, and treats desert silence as proof of his renunciation.",
+          "function": "Establishes disciplined austerity and the pride concealed within it."
+        },
+        {
+          "section": "II",
+          "title": "The Deference",
+          "file": "CH10-scene-02.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-02.md",
+          "word_count": 1433,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "A young monk arrives seeking instruction but instead tells of his sister's death and broken faith; Macarius resists shaping an answer and simply listens.",
+          "function": "Shows genuine humility before the later seduction of being treated as wise."
+        },
+        {
+          "section": "III",
+          "title": "The Arrival",
+          "file": "CH10-scene-03.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-03.md",
+          "word_count": 1589,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "A formal delegation arrives with a still, watching woman; Macarius's disciplined body betrays agitation and attraction to their attention.",
+          "function": "Introduces the social pressure that will turn hidden appetite into visible response."
+        },
+        {
+          "section": "IV",
+          "title": "The Interview",
+          "file": "CH10-scene-04.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-04.md",
+          "word_count": 1819,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "The delegation questions Macarius about stripping away the self and interprets his plain metaphors as elevated doctrine, missing the experiential place he meant them to reach.",
+          "function": "Begins converting a lived practice into a public reputation."
+        },
+        {
+          "section": "V",
+          "title": "The First Crack",
+          "file": "CH10-scene-05.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-05.md",
+          "word_count": 1338,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "Hearing the visitors laugh and praise him near the well, Macarius catches his posture arranging itself to receive admiration and feels his body lean toward the sound.",
+          "function": "Makes the supposedly renounced appetite physically legible."
+        },
+        {
+          "section": "VI",
+          "title": "The Recognition Spreads",
+          "file": "CH10-scene-06.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-06.md",
+          "word_count": 1448,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "More monks arrive, praise circulates, and Macarius drinks attention with a thirst that his performed resistance only sharpens.",
+          "function": "Escalates private vanity into a communal spiritual role."
+        },
+        {
+          "section": "VII",
+          "title": "The Tasting",
+          "file": "CH10-scene-07.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-07.md",
+          "word_count": 1784,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "Before an assembled audience, Macarius teaches and tastes the pleasure of being witnessed as wisdom like rancid honey. The recognition of his hunger is immediate and terrible.",
+          "function": "Breaks the holy performance through direct bodily knowledge."
+        },
+        {
+          "section": "VIII",
+          "title": "The Collapse",
+          "file": "CH10-scene-08.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-08.md",
+          "word_count": 1303,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "Back in the dark cell, Macarius weeps without spiritualizing the grief and sees that self-denial preserved the self-image it claimed to erase.",
+          "function": "Turns exposed pride into genuine collapse and begins the corrective swing."
+        },
+        {
+          "section": "IX",
+          "title": "The Pendulum",
+          "file": "CH10-scene-09.md",
+          "path": "incarnations/ch10-egypt-hermit/scenes/CH10-scene-09.md",
+          "word_count": 1588,
+          "status": "text_present",
+          "pov_focus": "Macarius",
+          "summary": "Macarius stops counting time, questions why he denied the body its simple pleasures, and meets fever and death with the wish not to waste embodiment again.",
+          "function": "Completes renunciation as release from both indulgence and prideful refusal."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "source_file_reference",
+          "severity": "high",
+          "note": "The source manifest incorrectly names Chapter 10 Scene 9 as “CH08-scene-09.md”; the current source file is “CH10-scene-09.md.”"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "ch11-lilith-cp05",
+      "title": "The Performance of Humility",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield flat, before Chapter 1",
+        "historical": "Scetis during Macarius's ascetic life"
+      },
+      "pov": "Lilith integrated with Macarius",
+      "function": "Makes Lilith engineer public reverence as a trap for spiritual pride, then mirrors Macarius's holy containment against the controlled emptiness of her own life.",
+      "current_read": {
+        "summary": "Lilith follows Verinus's thread into Macarius's desert stillness and recognizes that both hermit and tracker inhabit containments they call necessary. She helps form the visiting delegation, guides its questions and praise, and remains for days as Macarius's reputation grows. At the public gathering she urges him toward performance, then inexplicably hesitates. Macarius tastes his own hunger for admiration and collapses through it into truer renunciation. Lilith traces him forward, increasingly aware that following feels less like pursuit than being pulled.",
+        "arc": {
+          "opening_state": "Lilith sees performance as the exploitable fault in ascetic humility.",
+          "major_turn": "At the gathering, she hesitates at the moment she intended to push hardest.",
+          "closing_state": "Macarius's backfire succeeds spiritually, while Lilith's unnamed attraction grows."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 5813,
+      "word_count_delta": 2813,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Shift",
+          "file": "CH11-scene-01.md",
+          "path": "incarnations/ch11-lilith-cp05/scenes/CH11-scene-01.md",
+          "word_count": 1401,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Macarius",
+          "summary": "Rome's ink fades into desert emptiness as Lilith finds Macarius and sees that his cell and her arranged flat are parallel holy containments.",
+          "function": "Introduces the next attachment while turning observation back on Lilith."
+        },
+        {
+          "section": "II",
+          "title": "The Descent",
+          "file": "CH11-scene-02.md",
+          "path": "incarnations/ch11-lilith-cp05/scenes/CH11-scene-02.md",
+          "word_count": 1254,
+          "status": "text_present",
+          "pov_focus": "Lilith through the delegation",
+          "summary": "A delegation forms and descends on Macarius's four-by-three-pace cell, carrying the attention and language through which Lilith will make his humility visible to itself.",
+          "function": "Builds the social apparatus of the intervention."
+        },
+        {
+          "section": "III",
+          "title": "The Feeding",
+          "file": "CH11-scene-03.md",
+          "path": "incarnations/ch11-lilith-cp05/scenes/CH11-scene-03.md",
+          "word_count": 860,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Macarius",
+          "summary": "Lilith remains for days and steers Theophanes toward praise that feeds the hunger under Macarius's self-denial, while refusing to examine the mirror in every gesture.",
+          "function": "Sustains the temptation and identifies praise as nourishment."
+        },
+        {
+          "section": "IV",
+          "title": "The Gathering",
+          "file": "CH11-scene-04.md",
+          "path": "incarnations/ch11-lilith-cp05/scenes/CH11-scene-04.md",
+          "word_count": 1066,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Macarius",
+          "summary": "As monks gather to hear Macarius, Lilith tells herself to push him into full performance but hesitates at the decisive instant.",
+          "function": "Marks the first intervention delay she cannot explain strategically."
+        },
+        {
+          "section": "V",
+          "title": "The Backfire",
+          "file": "CH11-scene-05.md",
+          "path": "incarnations/ch11-lilith-cp05/scenes/CH11-scene-05.md",
+          "word_count": 1232,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Macarius physically recognizes his hunger, abandons the performance, and dies with a less possessive relation to embodiment. Lilith follows the strengthened thread without asking why she now feels pulled.",
+          "function": "Completes the ascetic backfire and advances Lilith's attachment beyond clinical curiosity."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "missing_source_entries",
+          "severity": "high",
+          "note": "The source manifest contains no scene entries for Chapter 11; five current scene files total 5,813 words."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "ch12-heian-lover",
+      "title": "The Lover",
+      "type": "historical",
+      "genre": "Heian Gothic Romance",
+      "setting": {
+        "period": "Heian Japan",
+        "location": "Heian-kyō",
+        "year": "Approximately 1000 CE"
+      },
+      "pov": "Fujiwara no Kaoru, close third",
+      "avatar": {
+        "name": "Fujiwara no Kaoru",
+        "occupation": "Court noble and poet",
+        "current_state": "An aesthete who wants beauty preserved from the decay that makes it real."
+      },
+      "function": "Turns sensual attachment into gothic stasis and teaches Kaoru that beauty is witnessed through change, not captured by preventing it.",
+      "current_read": {
+        "summary": "Disgusted by courtly imitation, Kaoru follows a blood-fingered attendant to Lady Hotaru's secluded mansion, where perfect plum fragrance and a beautiful voice conceal sickness. Repeated visits reveal a garden in impossible spring: fallen leaves burned and replaced, decay scrubbed away, Hotaru's identity increasingly overwritten by the attendant's other voice. Kaoru grows ill as the stasis closes around him. A typhoon tears open the house and reveals Hotaru aged, frightened, and dying. Kaoru chooses her real body over the preserved ideal, carries her through the storm, and dies understanding that beauty exists because it changes.",
+        "arc": {
+          "opening_state": "Kaoru seeks a beauty too authentic to decay into convention.",
+          "major_turn": "The typhoon destroys the manufactured spring and exposes Hotaru's failing body.",
+          "closing_state": "Kaoru witnesses rather than captures beauty, carrying the insight through death."
+        }
+      },
+      "word_target": 9000,
+      "word_count_current": 8448,
+      "word_count_delta": -552,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Arrival",
+          "file": "CH12-scene-01.md",
+          "path": "incarnations/ch12-heian-lover/scenes/CH12-scene-01.md",
+          "word_count": 1649,
+          "status": "text_present",
+          "pov_focus": "Kaoru",
+          "summary": "Kaoru rejects a court poetry gathering and follows an injured attendant to a secluded mansion scented with out-of-season plum, where an invitation promises the beauty he cannot counterfeit.",
+          "function": "Draws aesthetic longing into an environment already preserving itself unnaturally."
+        },
+        {
+          "section": "II",
+          "title": "The Voice Behind the Screen",
+          "file": "CH12-scene-02.md",
+          "path": "incarnations/ch12-heian-lover/scenes/CH12-scene-02.md",
+          "word_count": 1262,
+          "status": "text_present",
+          "pov_focus": "Kaoru",
+          "summary": "Behind a screen, Hotaru's voice slips between genuine confusion and a controlled, alluring register while plum incense masks sickness and Kaoru mistakes wrongness for exquisite mystery.",
+          "function": "Establishes Lilith's voice-puppeteering and the split between ideal presentation and embodied reality."
+        },
+        {
+          "section": "III",
+          "title": "The Stagnant Garden",
+          "file": "CH12-scene-03.md",
+          "path": "incarnations/ch12-heian-lover/scenes/CH12-scene-03.md",
+          "word_count": 1476,
+          "status": "text_present",
+          "pov_focus": "Kaoru",
+          "summary": "Weeks pass without autumn arriving inside the garden; Kaoru finds the attendant burning fallen leaves and replacing them with green cuttings while Hotaru admits she used to be someone different.",
+          "function": "Makes preservation visible as violence and lets bodily illness break through the aesthetic surface."
+        },
+        {
+          "section": "IV",
+          "title": "The Glimpse",
+          "file": "CH12-scene-04.md",
+          "path": "incarnations/ch12-heian-lover/scenes/CH12-scene-04.md",
+          "word_count": 1127,
+          "status": "text_present",
+          "pov_focus": "Kaoru",
+          "summary": "In sudden darkness Kaoru sees the attendant's clinical stillness, wrong voice, and pale crescent eye as his own body weakens and the house's arrangement becomes openly predatory.",
+          "function": "Lets Kaoru glimpse the consciousness operating beneath the vessel."
+        },
+        {
+          "section": "V",
+          "title": "The Typhoon",
+          "file": "CH12-scene-05.md",
+          "path": "incarnations/ch12-heian-lover/scenes/CH12-scene-05.md",
+          "word_count": 1666,
+          "status": "text_present",
+          "pov_focus": "Kaoru",
+          "summary": "A typhoon shatters the screens and garden, revealing Hotaru as aged, sick, and terrified of the attendant who promised preservation. Kaoru chooses the real woman and recognizes that she is beautiful because she is dying.",
+          "function": "Destroys the frozen ideal and completes the turn from possession to witness."
+        },
+        {
+          "section": "VI",
+          "title": "The Morning",
+          "file": "CH12-scene-06.md",
+          "path": "incarnations/ch12-heian-lover/scenes/CH12-scene-06.md",
+          "word_count": 1268,
+          "status": "text_present",
+          "pov_focus": "Kaoru",
+          "summary": "Through the storm's aftermath Kaoru carries Hotaru's cold body, accepts decay without converting it into artifice, and dies from his own illness with the insight that beauty must be witnessed rather than captured.",
+          "function": "Crystallizes equanimity toward impermanence and carries the lesson forward."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "embedded_metadata",
+          "severity": "low",
+          "note": "All six scene files end with editorial metadata blocks. Word counts in this manifest exclude those blocks."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "ch13-lilith-cp06",
+      "title": "The Beauty of Frozen Things",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield and the University of Manchester, before Chapter 1",
+        "historical": "Heian-kyō during Kaoru's life"
+      },
+      "pov": "Lilith integrated with Kaoru and the attendant vessel",
+      "function": "Reveals that Lilith physically inhabited the attendant, makes proximity feel more effective than distance, and draws her body toward the present-day Silas before she consciously chooses to meet him.",
+      "current_read": {
+        "summary": "Lilith follows the thread into Kaoru's aesthetic longing and remembers the attendant as a vessel she wore. Her hands retain the labor of maintaining Hotaru's impossible spring and the ache of almost being recognized beneath another face. Needing air, Lilith walks without conscious destination to the university's philosophy buildings, where the present-day consciousness she tracks already works. She returns to Kaoru's typhoon and sees her frozen beauty produce the opposite lesson. Six backfires now suggest proximity, not stronger opposition, may be the missing method; she labels her pull toward Silas tactical.",
+        "arc": {
+          "opening_state": "Lilith enters beauty as a new exploitable attachment.",
+          "major_turn": "Her body leads her to Silas's present location before strategy authorizes it.",
+          "closing_state": "She reframes attraction and proximity as method while following the thread toward Toledo."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 3326,
+      "word_count_delta": 326,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Shift to Beauty",
+          "file": "CH13-scene-01.md",
+          "path": "incarnations/ch13-lilith-cp06/scenes/CH13-scene-01.md",
+          "word_count": 719,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Kaoru",
+          "summary": "Desert emptiness softens into silk, color, and Kaoru's longing for beautiful things that will not remain; Lilith notices her own flat has become curated without remembered intention.",
+          "function": "Introduces aesthetic grasping and its immediate mirror in Lilith."
+        },
+        {
+          "section": "II",
+          "title": "The Attendant's Residue",
+          "file": "CH13-scene-02.md",
+          "path": "incarnations/ch13-lilith-cp06/scenes/CH13-scene-02.md",
+          "word_count": 662,
+          "status": "text_present",
+          "pov_focus": "Lilith through the attendant vessel",
+          "summary": "Lilith remembers that the attendant was a body she wore and feels the raw hands, obsessive maintenance, and desire for Kaoru to recognize the face beneath the vessel.",
+          "function": "Confirms physical manifestation and links proximity with emotional residue."
+        },
+        {
+          "section": "III",
+          "title": "The University Walk",
+          "file": "CH13-scene-03.md",
+          "path": "incarnations/ch13-lilith-cp06/scenes/CH13-scene-03.md",
+          "word_count": 625,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith walks through real November rain without deciding where to go and finds herself outside philosophy faculty, physically near the present-day man whose past she has been tracking.",
+          "function": "Makes her contemporary pursuit begin somatically before it becomes a plan."
+        },
+        {
+          "section": "IV",
+          "title": "The Backfire",
+          "file": "CH13-scene-04.md",
+          "path": "incarnations/ch13-lilith-cp06/scenes/CH13-scene-04.md",
+          "word_count": 754,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Kaoru",
+          "summary": "The typhoon destroys Lilith's cage of eternal spring, and Kaoru learns that possession is not experience and beauty requires change. Lilith counts six interventions and six accelerated lessons.",
+          "function": "Turns her finest construction into the clearest evidence of structural backfire."
+        },
+        {
+          "section": "V",
+          "title": "The Fetter Beat",
+          "file": "CH13-scene-05.md",
+          "path": "incarnations/ch13-lilith-cp06/scenes/CH13-scene-05.md",
+          "word_count": 566,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith repeatedly classifies the university walk, warmth, beauty, and pull toward Silas as tactical effects, then follows the thread toward the Inquisition.",
+          "function": "Shows denial hardening precisely as her attraction becomes actionable."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "source_file_reference",
+          "severity": "high",
+          "note": "The source manifest misnames Scene 1 as “CH09-scene-01.md” and Scene 5 as “scene-05-fetter.md”; the current files are “CH13-scene-01.md” and “CH13-scene-05.md.”"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "ch14-inquisition-accused",
+      "title": "The Accused",
+      "type": "historical",
+      "genre": "Psychological Horror / Procedural Suspense",
+      "setting": {
+        "period": "Early Modern",
+        "location": "Toledo, Castile",
+        "year": "Late autumn 1491"
+      },
+      "pov": "Diego de Lucena, close third",
+      "avatar": {
+        "name": "Diego de Lucena",
+        "occupation": "Converso physician",
+        "current_state": "A healer who believes usefulness can purchase safety from a system built to consume him."
+      },
+      "function": "Subjects Diego to intimate betrayal and institutional persecution, then teaches him to release specific hatred without denying injury or requiring forgiveness.",
+      "current_read": {
+        "summary": "Physician Diego performs Christian safety while serving patients across Toledo. A holy woman, Sor Catalina, recognizes and unsettles him; soon the Inquisition arrests and processes him as heretic and judaizer. His friend Tomás admits supplying intimate evidence to save his own son, turning fear into personal hatred. Interrogators use Diego's body and healing skill while Catalina watches. Alone, Diego examines hatred as he would a wound and discovers it is mourning dressed as rage; he can understand Tomás without forgiving him and can set the poison down. At the stake he releases both Tomás and Catalina, dies free of rage, and carries forward the question of what else may be doubted.",
+        "arc": {
+          "opening_state": "Diego believes perfect usefulness and careful performance can keep danger outside.",
+          "major_turn": "Tomás's intimate betrayal gives persecution a beloved face and makes hatred specific.",
+          "closing_state": "Diego burns without carrying hatred onward, turning release into radical questioning."
+        }
+      },
+      "word_target": 8900,
+      "word_count_current": 17868,
+      "word_count_delta": 8968,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Performance of Safety",
+          "file": "CH14-scene-01.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-01.md",
+          "word_count": 2008,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Diego treats powerful Don Cristóbal while measuring every word and gesture, convinced that indispensable healing and visible orthodoxy can protect a converso physician.",
+          "function": "Establishes usefulness as bargain and safety as exhausting performance."
+        },
+        {
+          "section": "II",
+          "title": "The Holy Woman",
+          "file": "CH14-scene-02.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-02.md",
+          "word_count": 1746,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Sor Catalina confronts Diego in the converso quarter with uncanny knowledge and the familiar face-markers of Lilith, making his steady physician's ritual fail.",
+          "function": "Places Lilith's vessel inside Diego's immediate world as omen and pressure."
+        },
+        {
+          "section": "III",
+          "title": "The Knock",
+          "file": "CH14-scene-03.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-03.md",
+          "word_count": 1980,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Measured footsteps and an iron knock wake Diego into arrest; the neighborhood closes its shutters, and he glimpses Tomás watching as officers bind the hands that heal.",
+          "function": "Ends the performance of safety and plants betrayal as the seed of hatred."
+        },
+        {
+          "section": "IV",
+          "title": "The Processing",
+          "file": "CH14-scene-04.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-04.md",
+          "word_count": 1524,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Clerks turn Diego's household, beliefs, property, and relationships into confiscable entries before placing him in a cell where people become administrative meat.",
+          "function": "Makes bureaucratic reduction itself a form of horror."
+        },
+        {
+          "section": "V",
+          "title": "The Source",
+          "file": "CH14-scene-05.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-05.md",
+          "word_count": 2011,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Tomás visits and admits denouncing their shared Jewish observances to save his son Rafael. Diego understands the coercion but cannot forgive it, and hatred crystallizes in his chest.",
+          "function": "Gives persecution the intimate face required to make ill will personal."
+        },
+        {
+          "section": "VI",
+          "title": "The Interrogation",
+          "file": "CH14-scene-06.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-06.md",
+          "word_count": 2357,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "In a candle-bright chamber every answer is converted into guilt while threats target Diego's healer's hands and Sor Catalina watches with knowing satisfaction.",
+          "function": "Expands hatred from betrayer to institution and apparent supernatural collaborator."
+        },
+        {
+          "section": "VII",
+          "title": "The Healer's Burden",
+          "file": "CH14-scene-07.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-07.md",
+          "word_count": 2005,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Diego is made to reset a brutally injured shoulder and discovers that he cannot stop healing even when the work serves the machinery hurting him.",
+          "function": "Exposes compulsive helping as both remaining agency and another instrument of captivity."
+        },
+        {
+          "section": "VIII",
+          "title": "The Release",
+          "file": "CH14-scene-08.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-08.md",
+          "word_count": 2143,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "Diego examines hatred as a wound, recognizes mourning beneath rage, and distinguishes release from forgiveness. He sets down the poison without pretending Tomás's act was harmless.",
+          "function": "Completes the patience and ill-will lesson through diagnostic self-observation."
+        },
+        {
+          "section": "IX",
+          "title": "The Fire",
+          "file": "CH14-scene-09.md",
+          "path": "incarnations/ch14-inquisition-accused/scenes/CH14-scene-09.md",
+          "word_count": 2094,
+          "status": "text_present",
+          "pov_focus": "Diego",
+          "summary": "At the public stake Diego sees Tomás, releases the echo of hatred, and releases Catalina to whatever purpose she serves. As flesh burns, the question “what else might be questioned?” becomes the seed of his next life.",
+          "function": "Ends persecution without inward poisoning and bridges into Renaissance skepticism."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "draft_status",
+          "severity": "high",
+          "note": "The source manifest labels Chapter 14 “outlined,” but all nine scene files contain 17,868 prose words."
+        },
+        {
+          "kind": "embedded_metadata",
+          "severity": "low",
+          "note": "Scene files include trailing editorial metadata; prose counts exclude those blocks."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "id": "ch15-lilith-cp07",
+      "title": "TBD",
+      "title_status": "No chapter title appears in the scene prose; “TBD” is retained from the source manifest.",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield flat, before Chapter 1",
+        "historical": "Toledo during Diego's persecution"
+      },
+      "pov": "Lilith integrated with Diego and her former Sor Catalina vessel",
+      "function": "Makes Lilith engineer intimate betrayal, experience a temporary apparent success, then feel Diego release both hatred and her; the backfire shifts her attention decisively toward direct contact with present-day Silas.",
+      "current_read": {
+        "summary": "Manchester and Toledo walls close around Lilith as she remembers having been Sor Catalina, a holy woman who sincerely believed the Inquisition merciful. Counting six structural backfires, she nevertheless sharpens Tomás's fear for Rafael until he betrays Diego's intimate religious life. Diego's resulting hatred looks like success. At the stake, however, he examines and releases Tomás, then looks through Catalina's vessel and releases Lilith too. The loss is bodily and undeniable. Back in Manchester, Lilith concludes distance is the problem: the consciousness exists now, nearby, and may be approached face to face.",
+        "arc": {
+          "opening_state": "Lilith recognizes structural backfire but still believes precision can overcome it.",
+          "major_turn": "Diego releases the hatred she successfully planted and releases her with it.",
+          "closing_state": "Historical intervention gives way to the idea of direct contemporary contact."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 5200,
+      "word_count_delta": 2200,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Walls",
+          "file": "CH15-scene-01.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-01.md",
+          "word_count": 500,
+          "status": "text_present",
+          "pov_focus": "Lilith and Sor Catalina",
+          "summary": "Lilith's flat becomes indistinguishable from claustrophobic Toledo as she remembers wearing Sor Catalina's certainty and Diego recoiling from her face.",
+          "function": "Merges persecution's architecture with Lilith's self-made containment."
+        },
+        {
+          "section": "II",
+          "title": "The Pattern",
+          "file": "CH15-scene-02.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-02.md",
+          "word_count": 911,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith counts the backfires as structural, sees their lessons accumulated in Diego, and nevertheless decides personal betrayal will create hatred strong enough to bind him.",
+          "function": "Places correct diagnosis beside the attachment that prevents acting on it."
+        },
+        {
+          "section": "III",
+          "title": "The Encounter",
+          "file": "CH15-scene-03.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-03.md",
+          "word_count": 556,
+          "status": "text_present",
+          "pov_focus": "Lilith through Sor Catalina",
+          "summary": "Lilith reinhabits Catalina's confrontation with Diego and feels the historical conviction, his fear, and her vessel's hand reaching toward him.",
+          "function": "Makes past manifestation an embodied memory rather than detached archive."
+        },
+        {
+          "section": "IV",
+          "title": "The Push",
+          "file": "CH15-scene-04.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-04.md",
+          "word_count": 436,
+          "status": "text_present",
+          "pov_focus": "Lilith through Tomás's fear",
+          "summary": "From Manchester, Lilith sharpens Tomás's nightmares of Rafael burning until fear overcomes loyalty and intimate religious knowledge becomes evidence against Diego.",
+          "function": "Executes the chapter's direct choice-point intervention."
+        },
+        {
+          "section": "V",
+          "title": "The Memory",
+          "file": "CH15-scene-05.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-05.md",
+          "word_count": 291,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "The flat becomes intolerably small as Lilith remembers walking to philosophy faculty and recognizes that the present-day consciousness is reachable.",
+          "function": "Introduces face-to-face contact as the alternative to temporal distance."
+        },
+        {
+          "section": "VI",
+          "title": "The Chamber",
+          "file": "CH15-scene-06.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-06.md",
+          "word_count": 537,
+          "status": "text_present",
+          "pov_focus": "Lilith through Sor Catalina",
+          "summary": "Watching Diego's interrogation from Catalina's corner, Lilith feels his gaze find her beneath the vessel and sees her own bargain mirrored in his belief that usefulness will protect him.",
+          "function": "Deepens recognition between pursued and pursuer."
+        },
+        {
+          "section": "VII",
+          "title": "The Fire",
+          "file": "CH15-scene-07.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-07.md",
+          "word_count": 1268,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Diego's execution",
+          "summary": "At the stake Lilith watches Diego hate Tomás exactly as designed, then release him and finally release the watching woman in grey. The thread accelerates beyond her as the wheel becomes viscerally real.",
+          "function": "Turns apparent success into the most intimate backfire yet."
+        },
+        {
+          "section": "VIII",
+          "title": "The Seed",
+          "file": "CH15-scene-08.md",
+          "path": "incarnations/ch15-lilith-cp07/scenes/CH15-scene-08.md",
+          "word_count": 701,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith calls the intervention successful despite Diego's release, then admits the gap is unnecessary because he lives now in Manchester and might understand her.",
+          "function": "Seeds the pivot from historical manipulation toward contemporary relationship."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 16,
+      "id": "ch16-renaissance-skeptic",
+      "title": "The Skeptic",
+      "type": "historical",
+      "genre": "Philosophical Adventure / Swashbuckling",
+      "setting": {
+        "period": "Renaissance",
+        "location": "Guyenne, France",
+        "year": "1588"
+      },
+      "pov": "Jean de Langon, close third",
+      "avatar": {
+        "name": "Jean de Langon",
+        "occupation": "Legal investigator",
+        "current_state": "A survivor who uses neutrality and uncertainty as protection from moral exposure."
+      },
+      "function": "Teaches Jean that truthfulness does not require certainty: an honest account of evidence and limits can still demand action and consequences.",
+      "current_read": {
+        "summary": "Jean is sent into religious-war Guyenne to investigate a politically useful murder. Contradictory witnesses, an ambush, rival factions, and a printer's widow named Marguerite make definitive attribution impossible. A suspicious letter offers the certainty his superiors want, but its provenance cannot be established. Marguerite argues that honest uncertainty is itself a truthful conclusion. Jean writes exactly what he observed and what he cannot know, accepts dismissal and danger, and leaves Bordeaux ready for the consequences. He is killed on the road, carrying forward a truthfulness no longer dependent on certainty.",
+        "arc": {
+          "opening_state": "Jean treats neutrality as both method and fortress.",
+          "major_turn": "Marguerite shows him that admitting limits can be more truthful than forced conclusion.",
+          "closing_state": "Jean submits an honest inconclusive report and accepts its cost before dying on the road."
+        }
+      },
+      "word_target": 9000,
+      "word_count_current": 14542,
+      "word_count_delta": 5542,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Assignment",
+          "file": "CH16-scene-01.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-01.md",
+          "word_count": 1534,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "Magistrate de Lacaze assigns Jean a murder inquiry amid Catholic-Protestant conflict and sends him into the dark with passage papers for both sides.",
+          "function": "Places a professionally neutral investigator inside a case designed to produce partisan certainty."
+        },
+        {
+          "section": "II",
+          "title": "The Witnesses",
+          "file": "CH16-scene-02.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-02.md",
+          "word_count": 1844,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "At the Rose and Crown, incompatible testimony establishes that reality exceeds what Jean can prove, a limit he initially treats as methodological rather than moral.",
+          "function": "Makes uncertainty the true terrain of the investigation."
+        },
+        {
+          "section": "III",
+          "title": "The Ambush",
+          "file": "CH16-scene-03.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-03.md",
+          "word_count": 1200,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "Armed men ambush Jean on a forest road; he survives and extracts only another ambiguous clue, feeling the first stone shift in his fortress of method.",
+          "function": "Raises the cost of neutrality from intellectual discomfort to physical danger."
+        },
+        {
+          "section": "IV",
+          "title": "The Printer's Widow",
+          "file": "CH16-scene-04.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-04.md",
+          "word_count": 1608,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "Printer Marguerite Viret argues that uncertainty can mark the honest boundary of knowledge rather than investigative failure.",
+          "function": "Introduces the principle that will let Jean act truthfully without certainty."
+        },
+        {
+          "section": "V",
+          "title": "The Document",
+          "file": "CH16-scene-05.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-05.md",
+          "word_count": 1564,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "A letter appears to prove Protestant conspiracy, but its authenticity remains unresolvable as both factions supply plausible motive and denial.",
+          "function": "Offers the tempting false closure Jean's employers expect."
+        },
+        {
+          "section": "VI",
+          "title": "The Ball",
+          "file": "CH16-scene-06.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-06.md",
+          "word_count": 1760,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "At a glittering neutral gathering, political courtesy masks threat and Jean ends the night alone between social performance and the dark road.",
+          "function": "Externalizes neutrality as a beautiful but isolating fiction."
+        },
+        {
+          "section": "VII",
+          "title": "The Temptation",
+          "file": "CH16-scene-07.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-07.md",
+          "word_count": 1755,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "Marguerite urges Jean to report honestly on what he failed to determine rather than make uncertainty an excuse or manufacture the desired conclusion.",
+          "function": "Converts skepticism from shield into truth-telling responsibility."
+        },
+        {
+          "section": "VIII",
+          "title": "The Report",
+          "file": "CH16-scene-08.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-08.md",
+          "word_count": 1509,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "Jean submits a report that distinguishes evidence from inference and refuses partisan certainty; de Lacaze calls honesty a luxury and dismisses him into likely danger.",
+          "function": "Completes the lesson through consequential truthful action."
+        },
+        {
+          "section": "IX",
+          "title": "The Road",
+          "file": "CH16-scene-09.md",
+          "path": "incarnations/ch16-renaissance-skeptic/scenes/CH16-scene-09.md",
+          "word_count": 1768,
+          "status": "text_present",
+          "pov_focus": "Jean",
+          "summary": "Jean leaves Bordeaux at dusk, accepts the riders closing behind him, and dies having chosen an honest uncertainty over protective silence.",
+          "function": "Carries truthfulness beyond outcome and turns the wheel toward Wei's determination."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 17,
+      "id": "ch17-lilith-cp08",
+      "title": "One More",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield flat, before Chapter 1",
+        "historical": "Guyenne during Jean's investigation"
+      },
+      "pov": "Lilith integrated with Jean through Marguerite Viret",
+      "function": "Exhausts intellectual manipulation as a method and turns Lilith's repeated “one more” refinement toward locating the present-day Silas.",
+      "current_read": {
+        "summary": "Lilith enters Marguerite as a carefully chosen vessel and offers Jean skepticism as a fortress that should prevent commitment. She plants an incriminating letter and shapes conversations toward paralysis. Jean instead uses uncertainty to write a truthful report and accept its consequences. His death on the road confirms another backfire. In Manchester Lilith reaches for her laptop, researches the contemporary consciousness, and admits the next method may require meeting him directly.",
+        "arc": {
+          "opening_state": "Lilith believes one more intellectual method will finally break the pattern.",
+          "major_turn": "Jean refuses both false certainty and inert skepticism.",
+          "closing_state": "Method exhaustion becomes active present-day pursuit."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 4387,
+      "word_count_delta": 1387,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "One More Method",
+          "file": "CH17-scene-01.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-01.md",
+          "word_count": 773,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith inventories every prior lesson and convinces herself that one more method—skepticism as fortress—will succeed.",
+          "function": "Frames refinement itself as the compulsive pattern."
+        },
+        {
+          "section": "II",
+          "title": "The Vessel",
+          "file": "CH17-scene-02.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-02.md",
+          "word_count": 406,
+          "status": "text_present",
+          "pov_focus": "Lilith through Marguerite",
+          "summary": "Inside Marguerite's print shop and body, Lilith presents the conviction that truth exists but cannot be reliably reached through testimony.",
+          "function": "Installs the philosophical instrument intended to immobilize Jean."
+        },
+        {
+          "section": "III",
+          "title": "The Companionship",
+          "file": "CH17-scene-03.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-03.md",
+          "word_count": 399,
+          "status": "text_present",
+          "pov_focus": "Lilith through Marguerite",
+          "summary": "Intimate candlelit argument deepens Jean's doubt while Lilith experiences companionship as another strategic pressure.",
+          "function": "Binds emotional proximity to the intellectual trap."
+        },
+        {
+          "section": "IV",
+          "title": "The Letter",
+          "file": "CH17-scene-04.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-04.md",
+          "word_count": 435,
+          "status": "text_present",
+          "pov_focus": "Lilith through Marguerite",
+          "summary": "Lilith places a letter in Marguerite's archive that would prove conspiracy if genuine and destroy Jean's neutrality if used.",
+          "function": "Creates the evidence trap at the center of the intervention."
+        },
+        {
+          "section": "V",
+          "title": "The Temptation",
+          "file": "CH17-scene-05.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-05.md",
+          "word_count": 450,
+          "status": "text_present",
+          "pov_focus": "Lilith through Marguerite",
+          "summary": "Jean reaches “so I conclude nothing,” and Lilith mistakes the change in his face for surrender to paralysis.",
+          "function": "Brings the method to its apparent success point."
+        },
+        {
+          "section": "VI",
+          "title": "The Backfire",
+          "file": "CH17-scene-06.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-06.md",
+          "word_count": 687,
+          "status": "text_present",
+          "pov_focus": "Lilith and Jean",
+          "summary": "Jean recognizes the offered fortress as his old defense and chooses truthful acknowledgment of limits instead. Lilith immediately searches for one more approach.",
+          "function": "Turns skepticism into responsibility and exhausts the intended method."
+        },
+        {
+          "section": "VII",
+          "title": "The Death",
+          "file": "CH17-scene-07.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-07.md",
+          "word_count": 556,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Jean's death",
+          "summary": "Jean dies on the oak-shadowed road while Manchester returns around Lilith and the university faculty pages glow on her laptop.",
+          "function": "Joins historical failure directly to present-day research."
+        },
+        {
+          "section": "VIII",
+          "title": "One More",
+          "file": "CH17-scene-08.md",
+          "path": "incarnations/ch17-lilith-cp08/scenes/CH17-scene-08.md",
+          "word_count": 681,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "In grey Manchester light, Lilith asks whether direct encounter is the next method and lets the wheel turn toward it.",
+          "function": "Converts exhausted historical strategy into contemporary intent."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 18,
+      "id": "ch18-taiping-rebel",
+      "title": "The Determination",
+      "type": "historical",
+      "genre": "War Epic",
+      "setting": {
+        "period": "Taiping Rebellion",
+        "location": "Tianjing, China",
+        "year": "1862–1864"
+      },
+      "pov": "Wei Shufen, close third",
+      "avatar": {
+        "name": "Wei Shufen",
+        "occupation": "Military medic and captain",
+        "current_state": "A compulsive healer who measures his worth through a ledger of people saved and lost."
+      },
+      "function": "Purifies determination by stripping away doctrine, reputation, favorable outcomes, and even remembered legacy until only the act of trying remains.",
+      "current_read": {
+        "summary": "Wei treats soldiers and civilians inside besieged Tianjing while counting saved and lost lives. He accepts uncertainty, triages honestly, and learns that witnessing the dying matters even when cure is impossible. Military betrayals, starvation disguised as divine manna, a spreading belief that he is cursed, and a failed evacuation steadily close his ledger toward zero. Wei briefly stops treating patients, then a wounded child makes outcome irrelevant: the wound is real, so he works. When Qing troops enter the temple, he stands unarmed between them and the wounded and dies with no historical legacy, but with the conviction that trying is never nothing.",
+        "arc": {
+          "opening_state": "Wei's determination remains contaminated by outcome, doctrine, and numerical proof.",
+          "major_turn": "He treats the wounded child without prayer, curse, or ledger because the wound itself is enough.",
+          "closing_state": "Everything fails externally, yet the intention to try again survives."
+        }
+      },
+      "word_target": 13000,
+      "word_count_current": 8810,
+      "word_count_delta": -4190,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Arithmetic",
+          "file": "CH18-scene-01.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-01.md",
+          "word_count": 1065,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Wei inventories inadequate medicine, treats uncertain cases as people rather than ratios, and updates a ledger that makes success measurable.",
+          "function": "Establishes compassionate skill still bound to arithmetic."
+        },
+        {
+          "section": "II",
+          "title": "The First Fracture",
+          "file": "CH18-scene-02.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-02.md",
+          "word_count": 1086,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "An artillery barrage floods the temple with casualties; Wei triages, comforts the unsavable, learns from Huang, and argues that a witnessed death is better even if it cannot be quantified.",
+          "function": "Begins separating care from cure and individual worth from the ledger."
+        },
+        {
+          "section": "III",
+          "title": "The Doctrine",
+          "file": "CH18-scene-03.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-03.md",
+          "word_count": 721,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Ambushed soldiers die after a mission justified by divine certainty, and Wei kneels before an empty alcove unable to pray while his saved/lost gap narrows.",
+          "function": "Breaks theological certainty against the practical truth of blood and bone."
+        },
+        {
+          "section": "IV",
+          "title": "The Pattern",
+          "file": "CH18-scene-04.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-04.md",
+          "word_count": 1303,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Rumors that Wei is cursed drive sick people away from treatment; he burns the list that proves the pattern but cannot burn the accumulating count in himself.",
+          "function": "Turns reputation into another mechanism by which helping appears to harm."
+        },
+        {
+          "section": "V",
+          "title": "The Manna",
+          "file": "CH18-scene-05.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-05.md",
+          "word_count": 1423,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Starving citizens are fed grass called heavenly manna, filling Wei's hospital with dysentery and exposing doctrine as a lethal refusal of reality.",
+          "function": "Removes salvation as a usable outcome and leaves presence as the only honest gift."
+        },
+        {
+          "section": "VI",
+          "title": "The King Is Dead",
+          "file": "CH18-scene-06.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-06.md",
+          "word_count": 1584,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Riot and political collapse convince Wei that everyone he helps dies, so he stops treating patients until a wounded boy arrives and the concrete wound matters more than curse or outcome.",
+          "function": "Breaks contaminated determination and restarts action without a promise of success."
+        },
+        {
+          "section": "VII",
+          "title": "The Walls Break",
+          "file": "CH18-scene-07.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-07.md",
+          "word_count": 879,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Wei watches Qing cavalry slaughter the ninety civilians he tried to evacuate, returns to the doomed temple, and holds a dying boy's hand as soldiers enter.",
+          "function": "Destroys the last favorable outcome while preserving the act of staying."
+        },
+        {
+          "section": "VIII",
+          "title": "The Ledger Closes",
+          "file": "CH18-scene-08.md",
+          "path": "incarnations/ch18-taiping-rebel/scenes/CH18-scene-08.md",
+          "word_count": 749,
+          "status": "text_present",
+          "pov_focus": "Wei",
+          "summary": "Wei stands weaponless between soldiers and patients, is killed, and disappears from history along with his ledger; the unrecorded trying remains and becomes “I will try again.”",
+          "function": "Completes outcome-independent determination and seeds Jack Malone's perseverance."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "embedded_metadata",
+          "severity": "low",
+          "note": "Scenes 3–8 contain reported-count labels that do not match current prose; manifest counts exclude those labels and count the files directly."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "id": "ch19-lilith-cp09",
+      "title": "TBD",
+      "title_status": "No chapter title appears in the scene prose; “TBD” is retained from the source manifest.",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Psychological / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "Fallowfield and Manchester, tracking Week 8 or 9",
+        "historical": "Besieged Tianjing during Wei's final years"
+      },
+      "pov": "Lilith integrated with Wei, then present-day Lilith",
+      "function": "Takes Lilith through the apparent success and final backfire of Wei's curse, then follows her concrete positioning inside Silas's university life.",
+      "current_read": {
+        "summary": "Rain in Manchester and dust in Tianjing hold Lilith's arithmetic of nine interventions beside Wei's saved/lost ledger. She times pressure to spread the belief that he is cursed and helps doctrine collapse around him, producing the paralysis she intended. A wounded child then makes the curse irrelevant: Wei resumes work because the injury exists, not because success is promised. Lilith experiences his breakthrough and death, sees two souls approaching the same threshold, and turns fully toward the present. She applies to University of Manchester Student Mental Health Services, secures a flat, locates Silas, and begins arranging access while denying that the pursuit is personal.",
+        "arc": {
+          "opening_state": "Lilith is feverishly tracking and still measuring intervention against outcome.",
+          "major_turn": "Wei works despite curse and futility, purifying the very determination she attacked.",
+          "closing_state": "Lilith is physically positioned on Silas's campus and at the threshold of direct contact."
+        }
+      },
+      "word_target": 3000,
+      "word_count_current": 10941,
+      "word_count_delta": 7941,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Rain and Dust",
+          "file": "CH19-scene-01.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-01.md",
+          "word_count": 1359,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Wei",
+          "summary": "Manchester rain and Tianjing dust merge as Lilith compares Wei's narrowing ledger with her own accumulating interventions.",
+          "function": "Sets parallel arithmetic inside the same compulsive wheel."
+        },
+        {
+          "section": "II",
+          "title": "Curse Spreads",
+          "file": "CH19-scene-02.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-02.md",
+          "word_count": 1113,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Wei",
+          "summary": "Lilith applies precisely timed pressure to the rumor that Wei's touch brings later death, watching the curse reputation isolate him from those he means to help.",
+          "function": "Attacks determination by making care appear causally harmful."
+        },
+        {
+          "section": "III",
+          "title": "Doctrine Collapse",
+          "file": "CH19-scene-03.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-03.md",
+          "word_count": 1104,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Wei",
+          "summary": "The rotten grass called manna embodies the kingdom's failed doctrine, and Lilith watches Wei become a student of patterns he cannot break.",
+          "function": "Removes theological reward and narrows the life toward action without belief."
+        },
+        {
+          "section": "IV",
+          "title": "The Pause",
+          "file": "CH19-scene-04.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-04.md",
+          "word_count": 649,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Wei",
+          "summary": "Wei stops treating patients for three days, and Lilith grips the chair in apparent victory until a wounded child enters and he begins to work.",
+          "function": "Creates the still point from which determination is purified."
+        },
+        {
+          "section": "V",
+          "title": "Breakthrough and Death",
+          "file": "CH19-scene-05.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-05.md",
+          "word_count": 1740,
+          "status": "text_present",
+          "pov_focus": "Lilith integrated with Wei",
+          "summary": "Wei treats the child despite believing himself cursed, continues through the city's fall, and discovers that trying has value independent of result.",
+          "function": "Makes Lilith's most complete apparent success generate the clearest backfire."
+        },
+        {
+          "section": "VI",
+          "title": "Tracing Forward",
+          "file": "CH19-scene-06.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-06.md",
+          "word_count": 1696,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Following the thread beyond Wei, Lilith senses two souls nearing the same threshold and understands the pursuit as a race she must enter directly.",
+          "function": "Converts historical analysis into present-tense urgency."
+        },
+        {
+          "section": "VII",
+          "title": "Positioning",
+          "file": "CH19-scene-07.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-07.md",
+          "word_count": 1582,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith completes a university mental-health application, relocates, and arranges credentials and access with the same intensity she calls strategy.",
+          "function": "Builds the practical infrastructure for meeting Silas."
+        },
+        {
+          "section": "VIII",
+          "title": "The Threshold",
+          "file": "CH19-scene-08.md",
+          "path": "incarnations/ch19-lilith-cp09/scenes/CH19-scene-08.md",
+          "word_count": 1698,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith knows where Silas is before consulting directories, watches his campus world, and insists the unexplained pull must be another variable she has not found.",
+          "function": "Leaves her physically and emotionally poised for direct encounter."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "source_file_reference",
+          "severity": "medium",
+          "note": "The source manifest lists scene concepts but leaves all Chapter 19 file fields blank; eight current scene files total 10,941 words."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "id": "ch20-noir-detective",
+      "title": "The Detective",
+      "type": "historical",
+      "genre": "Noir",
+      "setting": {
+        "period": "Modern",
+        "location": "Los Angeles, California",
+        "year": "January–March 1938"
+      },
+      "pov": "Jack Malone, first person",
+      "avatar": {
+        "name": "Jack Malone",
+        "occupation": "Private detective and former LAPD officer",
+        "current_state": "A broke investigator who keeps giving a damn after evidence, witnesses, reputation, and survival are stripped away."
+      },
+      "function": "Completes perseverance as action taken because it is right rather than because it will succeed, resolving the historical helper compulsion into effort without ownership of outcome.",
+      "current_read": {
+        "summary": "Jack Malone accepts a Civic Reform Committee case against Los Angeles corruption despite expecting defeat. Witnesses disappear or die, a client's husband is murdered, his evidence is stolen, his office is destroyed, and a setup uses his missing gun to frame him. An uncanny woman crosses his path and triggers impossible memories. The Great Flood erases what remains, but Jack reconstructs a map of corruption with Vernon Shaw and keeps distributing it. Men run his Buick off a wet road and shoot him; dying, Jack releases the need to be the one who fixes anything while preserving the conviction that trying is not nothing.",
+        "arc": {
+          "opening_state": "Jack's decency is automatic but still tied to being the man who gives a damn.",
+          "major_turn": "After the flood removes proof and office, he continues with no expectation of victory.",
+          "closing_state": "He dies releasing ownership of results while carrying perseverance into the next life."
+        }
+      },
+      "word_target": 9500,
+      "word_count_current": 14734,
+      "word_count_delta": 5234,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Hangover",
+          "file": "CH20-scene-01.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-01.md",
+          "word_count": 1295,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "Broke and hungover after a frightened witness backs out, Jack gives away scarce money and returns to find two expensive suits waiting.",
+          "function": "Establishes outcome-weary decency and the noir world that punishes it."
+        },
+        {
+          "section": "II",
+          "title": "The Offer",
+          "file": "CH20-scene-02.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-02.md",
+          "word_count": 1585,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "Vernon Shaw and Brennan hire Jack to document Combination corruption for the recall movement; he accepts while warning that they probably cannot win.",
+          "function": "Commits Jack to effort without confidence in success."
+        },
+        {
+          "section": "III",
+          "title": "First Blood",
+          "file": "CH20-scene-03.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-03.md",
+          "word_count": 2334,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "Margaret Sinclair hires Jack to find Frank; the missing man is tied to Combination money and turns up dead while another witness vanishes.",
+          "function": "Makes Jack's investigation appear to cause the deaths it seeks to prevent."
+        },
+        {
+          "section": "IV",
+          "title": "Gathering Evidence",
+          "file": "CH20-scene-04.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-04.md",
+          "word_count": 1802,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "Clerks, officers, and Helen Marsh disappear or die while Jack traces gambling ships, officials, and police protection through mounting rain.",
+          "function": "Escalates perseverance against systematic removal of human evidence."
+        },
+        {
+          "section": "V",
+          "title": "The Pattern Emerges",
+          "file": "CH20-scene-05.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-05.md",
+          "word_count": 1659,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "Jack's office and safe are stripped, but he reconstructs the corruption map and glimpses a strange woman whose face triggers memories of France he never lived.",
+          "function": "Joins the investigation's external pattern to the reincarnational pattern breaking through."
+        },
+        {
+          "section": "VI",
+          "title": "Blackmail and Betrayal",
+          "file": "CH20-scene-06.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-06.md",
+          "word_count": 1747,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "A blackmail trail through Gloria Dane and a hired photographer ends with Jack framed for murder using the Colt stolen from his safe.",
+          "function": "Turns the investigator into the accused and destroys institutional credibility."
+        },
+        {
+          "section": "VII",
+          "title": "The Flood",
+          "file": "CH20-scene-07.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-07.md",
+          "word_count": 1800,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "The Great Flood erases Jack's remaining office evidence, yet he and Shaw reconstruct a detailed corruption map and prepare to distribute it despite men waiting outside.",
+          "function": "Removes the possibility of victory while purifying the act of trying."
+        },
+        {
+          "section": "VIII",
+          "title": "The Car",
+          "file": "CH20-scene-08.md",
+          "path": "incarnations/ch20-noir-detective/scenes/CH20-scene-08.md",
+          "word_count": 2512,
+          "status": "text_present",
+          "pov_focus": "Jack",
+          "summary": "After two peaceful weeks of passing information onward, Jack is run off the road and shot. Dying in rain beside the Buick, he releases the need to fix outcomes but keeps the vow to try again.",
+          "function": "Completes the final historical perfection and turns the wheel toward Silas."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "draft_status",
+          "severity": "high",
+          "note": "The source manifest labels Chapter 20 “outlined,” but eight current scene files contain 14,734 prose words."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "id": "ch21-lilith-cp10",
+      "title": "The Pivot",
+      "type": "lilith_contemporary",
+      "genre": "Literary Fiction / Noir / Integrated Prose",
+      "setting": {
+        "integrated_timelines": true,
+        "manchester": "University reception, before Chapter 1",
+        "historical": "Los Angeles during Jack Malone's death in 1938"
+      },
+      "pov": "Lilith integrated with Jack while approaching Silas",
+      "function": "Superimposes Jack's death on Lilith's first meeting with Silas and converts failed opposition into an intimacy strategy: if she cannot stop him, she will bind him.",
+      "current_read": {
+        "summary": "Rain falls across Lilith's awareness of Manchester and Jack's Los Angeles as she spots Silas at a faculty reception. Every step toward him tightens the weave between Jack's outcome-independent perseverance and Silas's accumulated threshold. Jack dies as Silas turns toward her; temporal frames superimpose and the past-life thread becomes a present face. Lilith extends her hand, feels mutual recognition, and adopts a new plan: bind him through proximity and relationship rather than historical intervention.",
+        "arc": {
+          "opening_state": "Lilith approaches Silas while still monitoring the final historical life.",
+          "major_turn": "Jack's death and Silas's turning occupy the same moment.",
+          "closing_state": "Their handshake begins the intimacy strategy that leads to Chapter 1."
+        }
+      },
+      "word_target": 3500,
+      "word_count_current": 4090,
+      "word_count_delta": 590,
+      "status": "revised",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Loose Weave",
+          "file": "CH21-scene-01.md",
+          "path": "incarnations/ch21-lilith-cp10/scenes/CH21-scene-01.md",
+          "word_count": 799,
+          "status": "text_present",
+          "pov_focus": "Lilith across two cities",
+          "summary": "Manchester rain and imagined Los Angeles rain hold Jack's final life loosely beside Lilith's arrival at the reception.",
+          "function": "Begins joining final historical intervention to present encounter."
+        },
+        {
+          "section": "II",
+          "title": "Tightening",
+          "file": "CH21-scene-02.md",
+          "path": "incarnations/ch21-lilith-cp10/scenes/CH21-scene-02.md",
+          "word_count": 624,
+          "status": "text_present",
+          "pov_focus": "Lilith watching Silas and Jack",
+          "summary": "Lilith spots Silas across the reception while Jack keeps moving through failures she accelerated, and the two threads tighten around the same persistence.",
+          "function": "Makes Silas visibly continuous with the life ending beneath her attention."
+        },
+        {
+          "section": "III",
+          "title": "The Flood",
+          "file": "CH21-scene-03.md",
+          "path": "incarnations/ch21-lilith-cp10/scenes/CH21-scene-03.md",
+          "word_count": 915,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Close enough to hear Silas, Lilith senses past lives bleeding through him and realizes he is approaching the threshold faster than any prior incarnation.",
+          "function": "Converts distant tracking into immediate urgency."
+        },
+        {
+          "section": "IV",
+          "title": "Death/Sighting—The Superposition",
+          "file": "CH21-scene-04.md",
+          "path": "incarnations/ch21-lilith-cp10/scenes/CH21-scene-04.md",
+          "word_count": 893,
+          "status": "text_present",
+          "pov_focus": "Lilith across Jack and Silas",
+          "summary": "Jack dies in a rain-dark alley of time as Silas turns toward Lilith, the two faces and moments briefly occupying one superposed recognition.",
+          "function": "Closes historical pursuit at the instant present relationship begins."
+        },
+        {
+          "section": "V",
+          "title": "The Pivot",
+          "file": "CH21-scene-05.md",
+          "path": "incarnations/ch21-lilith-cp10/scenes/CH21-scene-05.md",
+          "word_count": 859,
+          "status": "text_present",
+          "pov_focus": "Lilith and Silas",
+          "summary": "Lilith decides “if I can't stop him, I'll bind him,” extends her hand, and holds the charged handshake longer than professional custom requires.",
+          "function": "Launches the intimacy strategy and completes the bridge to Chapter 1."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 22,
+      "id": "ch22-contemporary-breakthrough",
+      "title": "The Choice",
+      "type": "contemporary",
+      "genre": "Supernatural Thriller",
+      "setting": {
+        "period": "Contemporary",
+        "location": "Manchester, UK",
+        "time": "Immediately after Chapter 1"
+      },
+      "pov": "Silas and Lilith",
+      "function": "Resolves the rooftop cliffhanger, confirms Silas's release from helper identity, opens all past lives into conscious continuity, and reveals Lilith as the connected thread rather than a separate antagonist.",
+      "current_read": {
+        "summary": "Silas catches Stewart's hand and Lilith anchors Silas, forming a three-person chain until Stewart is pulled back. In the rescue Silas acts without needing to be the savior, and the helper harness falls away. Paramedics take Stewart with Lilith while Silas remains on the roof, then wakes home to a quiet, ordinary morning. Past lives open in sequence without overwhelming him; he sees Lilith present throughout them and senses her across distance. She does not arrive at his door, yet he understands connection as prior to proximity and settles into the changed texture of awareness.",
+        "arc": {
+          "opening_state": "Three hands hold at the threshold of Stewart's fall.",
+          "major_turn": "Silas recognizes action without helper identity and experiences the burden's absence.",
+          "closing_state": "Past-life and interpersonal separation dissolve into quiet, non-urgent connection."
+        }
+      },
+      "word_target": 10000,
+      "word_count_current": 9680,
+      "word_count_delta": -320,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "The Chain",
+          "file": "CH22-scene-01.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-01.md",
+          "word_count": 2357,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Silas catches Stewart, Lilith catches Silas, and the chain pulls Stewart onto the roof; Silas feels the helper burden disappear without diminishing care.",
+          "function": "Resolves the physical crisis and enacts the spiritual release."
+        },
+        {
+          "section": "II",
+          "title": "The Aftermath",
+          "file": "CH22-scene-02.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-02.md",
+          "word_count": 797,
+          "status": "text_present",
+          "pov_focus": "Lilith",
+          "summary": "Lilith reads the absence of Silas's old compulsion and cannot determine whether the collapsed space between them is loss or opening.",
+          "function": "Shows his breakthrough from the perspective of the person who tried to prevent it."
+        },
+        {
+          "section": "III",
+          "title": "Paramedics",
+          "file": "CH22-scene-03.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-03.md",
+          "word_count": 748,
+          "status": "text_present",
+          "pov_focus": "Silas and Lilith",
+          "summary": "Emergency responders stabilize Stewart; Lilith gives the factual account and follows the stretcher, leaving Silas alone above the city.",
+          "function": "Returns the supernatural crisis to procedure while separating the pair."
+        },
+        {
+          "section": "IV",
+          "title": "Silas Alone",
+          "file": "CH22-scene-04.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-04.md",
+          "word_count": 880,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Silas watches the quiet ambulance depart and lets the rooftop settling complete before descending.",
+          "function": "Gives the breakthrough space without immediately turning it into explanation."
+        },
+        {
+          "section": "V",
+          "title": "Wakes Home",
+          "file": "CH22-scene-05.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-05.md",
+          "word_count": 1007,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Morning finds Silas with toast, coffee, storm-cleaned green, and no urgent need to convert altered experience into achievement.",
+          "function": "Embeds awakening in ordinary sensory life."
+        },
+        {
+          "section": "VI",
+          "title": "Past Lives",
+          "file": "CH22-scene-06.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-06.md",
+          "word_count": 1405,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "The incarnations open as carried lessons rather than alien flashbacks, and Silas sees one wheel turning through all of them.",
+          "function": "Integrates the historical chapters into present consciousness."
+        },
+        {
+          "section": "VII",
+          "title": "He Sees Her",
+          "file": "CH22-scene-07.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-07.md",
+          "word_count": 1013,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Silas recognizes Lilith's presence across the lives and sees that her interventions and the rooftop anchor belong to the same persistent connection.",
+          "function": "Reframes antagonist, lover, and rescuer as one continuous thread."
+        },
+        {
+          "section": "VIII",
+          "title": "Connection Sensed",
+          "file": "CH22-scene-08.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-08.md",
+          "word_count": 707,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "Though Lilith is absent, Silas senses her and watches old assumptions about bounded, separate people dissolve.",
+          "function": "Makes connection experiential without physical confirmation."
+        },
+        {
+          "section": "IX",
+          "title": "The Door Opens",
+          "file": "CH22-scene-09.md",
+          "path": "incarnations/ch22-contemporary-breakthrough/scenes/CH22-scene-09.md",
+          "word_count": 766,
+          "status": "text_present",
+          "pov_focus": "Silas",
+          "summary": "The morning settles toward noon; no visitor arrives, but Silas knows they will meet again and rests in seeing without urgency.",
+          "function": "Closes the contemporary climax on presence rather than reunion."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "attainment_timing",
+          "severity": "medium",
+          "note": "Chapter 22 clearly dramatizes the intended breakthrough, but Chapter 1 also uses breakthrough/final-surrender language; terminology across the two chapters should remain carefully distinguished."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "id": "ch23-deva-celestial",
+      "title": "The Celestial",
+      "type": "cosmic",
+      "genre": "Cosmic Fantasy",
+      "setting": {
+        "period": "Non-temporal",
+        "location": "Deva realm"
+      },
+      "pov": "The awareness that was Silas",
+      "function": "Tests awakening against effortless celestial pleasure, loosens sensual desire and ill will, and lets Silas and Lilith glimpse themselves as two views through one pattern.",
+      "current_read": {
+        "summary": "Silas arrives in a realm where light has taste and movement follows intention. Perfect pleasure offers no resistance and therefore reveals sensual grasping as unnecessary; the fourth fetter loosens. He feels Lilith, encounters her thread directly, and for a boundaryless instant each sees self through the other. The meeting dissolves ill will rather than resolving their race. As the realm changes, Silas refuses beautiful stasis and moves toward future embodiment while carrying their connection as a question.",
+        "arc": {
+          "opening_state": "Arrival offers complete comfort and the temptation to remain.",
+          "major_turn": "Silas and Lilith look through each other and the pursuer/pursued distinction collapses.",
+          "closing_state": "He leaves pleasure and ill will behind for the next embodied turn."
+        }
+      },
+      "word_target": 7000,
+      "word_count_current": 6601,
+      "word_count_delta": -399,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Arrival",
+          "file": "CH23-scene-01.md",
+          "path": "incarnations/ch23-deva-celestial/scenes/CH23-scene-01.md",
+          "word_count": 1118,
+          "status": "text_present",
+          "pov_focus": "Silas-awareness",
+          "summary": "Awareness arrives in tasted light with all ten lives present as integrated lessons rather than retrieved memories.",
+          "function": "Establishes nonphysical continuity after the Manchester breakthrough."
+        },
+        {
+          "section": "II",
+          "title": "The Garden of Delights",
+          "file": "CH23-scene-02.md",
+          "path": "incarnations/ch23-deva-celestial/scenes/CH23-scene-02.md",
+          "word_count": 1249,
+          "status": "text_present",
+          "pov_focus": "Silas-awareness",
+          "summary": "Pleasure is instantly fulfilled and therefore cannot sustain pursuit; sensual desire loosens while Silas senses something truer than comfort.",
+          "function": "Weakens the fourth fetter through abundance rather than denial."
+        },
+        {
+          "section": "III",
+          "title": "The Other Thread",
+          "file": "CH23-scene-03.md",
+          "path": "incarnations/ch23-deva-celestial/scenes/CH23-scene-03.md",
+          "word_count": 1615,
+          "status": "text_present",
+          "pov_focus": "Silas and Lilith as intersecting awareness",
+          "summary": "Silas feels Lilith, meets her without stable boundaries, and briefly sees that pursuer and pursued are the same pattern looking from two directions.",
+          "function": "Provides the first direct preview of eventual unity."
+        },
+        {
+          "section": "IV",
+          "title": "Ill-Will Dissolves",
+          "file": "CH23-scene-04.md",
+          "path": "incarnations/ch23-deva-celestial/scenes/CH23-scene-04.md",
+          "word_count": 1098,
+          "status": "text_present",
+          "pov_focus": "Silas-awareness",
+          "summary": "The encounter removes the orientation required for resentment, and Silas examines what remains when ill will has no separate target.",
+          "function": "Loosens aversion through recognition rather than victory."
+        },
+        {
+          "section": "V",
+          "title": "The Threshold Forward",
+          "file": "CH23-scene-05.md",
+          "path": "incarnations/ch23-deva-celestial/scenes/CH23-scene-05.md",
+          "word_count": 1521,
+          "status": "text_present",
+          "pov_focus": "Silas-awareness with Lilith nearby",
+          "summary": "As the realm's quality changes, Silas declines permanent delight, receives Lilith's nearer presence, and moves toward a future embodied world.",
+          "function": "Carries both threads out of celestial stasis and into Chapter 24."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "source_file_reference",
+          "severity": "high",
+          "note": "The source manifest incorrectly assigns Chapter 23 Scene 1 to “CH12-scene-01.md”; the current file is “CH23-scene-01.md.”"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "id": "ch24-future-prophet",
+      "title": "The Prophet",
+      "type": "cosmic",
+      "genre": "Biopunk / Cyberpunk Spiritual Fiction",
+      "setting": {
+        "period": "Far future",
+        "location": "Earth under the Eternal Synthesis",
+        "time": "Thousands of years after the contemporary chapters"
+      },
+      "pov": "Silex and Lith, increasingly merged",
+      "function": "Returns both threads to engineered flesh, opposes genuine transformation to optimized spiritual simulation, and lets collaboration loosen Lilith's competition before their joint death.",
+      "current_read": {
+        "summary": "Silas and Lilith condense into designed bodies named Silex and Lith inside the Eternal Synthesis, a civilization that schedules, measures, and certifies enlightenment. Both feel the hollow beneath flawless protocols. Lith becomes an irregular teacher and finds Silex through system margins; in a liminal meeting they open a neural link into merged perception. Over decades they gather small circles whose unprogrammed presence disrupts standardized spirituality. They refuse integration or archival by the system, age together, and recognize that their apparent competition has always been contribution. Their bodies die in the overlooked space as the two threads move toward one final preparation.",
+        "arc": {
+          "opening_state": "Two ancient awarenesses enter optimized bodies and immediately perceive counterfeit completion.",
+          "major_turn": "Their illicit neural link produces the real synthesis the system can only simulate.",
+          "closing_state": "They die together, nearly one thread and almost ready to step off the wheel."
+        }
+      },
+      "word_target": 9000,
+      "word_count_current": 9497,
+      "word_count_delta": 497,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Condensation",
+          "file": "CH24-scene-01.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-01.md",
+          "word_count": 1363,
+          "status": "text_present",
+          "pov_focus": "Silex and Lith",
+          "summary": "Two awarenesses condense from celestial openness into genetically designed bodies and recognize the hollowness of calibrated welcome.",
+          "function": "Bookends Ka's entry into meat with technological re-embodiment."
+        },
+        {
+          "section": "II",
+          "title": "Formation",
+          "file": "CH24-scene-02.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-02.md",
+          "word_count": 1020,
+          "status": "text_present",
+          "pov_focus": "Silex",
+          "summary": "Across enhanced decades, Silex passes prescribed spiritual milestones but finds chemically guaranteed calm and total archives incapable of transformation.",
+          "function": "Defines standardized enlightenment as form without lived path."
+        },
+        {
+          "section": "III",
+          "title": "Heresy Emerges",
+          "file": "CH24-scene-03.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-03.md",
+          "word_count": 1049,
+          "status": "text_present",
+          "pov_focus": "Lith",
+          "summary": "Certified Lith begins speaking outside approved frameworks, is flagged for irregular enlightenment, and searches system margins for the recurring male face.",
+          "function": "Turns spiritual deviation into teaching and renews the connection."
+        },
+        {
+          "section": "IV",
+          "title": "Recognition",
+          "file": "CH24-scene-04.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-04.md",
+          "word_count": 1494,
+          "status": "text_present",
+          "pov_focus": "Silex and Lith",
+          "summary": "In a monitoring gap, they recognize each other's constant features and use neural interfaces for merged perception rather than information transfer.",
+          "function": "Enacts authentic synthesis beyond the Eternal Synthesis's categories."
+        },
+        {
+          "section": "V",
+          "title": "Working Together",
+          "file": "CH24-scene-05.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-05.md",
+          "word_count": 1137,
+          "status": "text_present",
+          "pov_focus": "Silex and Lith",
+          "summary": "They age, teach through presence in small circles, and let the boundary between initiator and responder blur; Lith's need to be first briefly unclenches.",
+          "function": "Recasts competition as complementary participation."
+        },
+        {
+          "section": "VI",
+          "title": "The World's Response",
+          "file": "CH24-scene-06.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-06.md",
+          "word_count": 1002,
+          "status": "text_present",
+          "pov_focus": "Silex and Lith",
+          "summary": "The system offers integration or archival; they refuse both and continue openly with whoever finds them.",
+          "function": "Shows genuine teaching decline both normalization and oppositional secrecy."
+        },
+        {
+          "section": "VII",
+          "title": "Death Approaches",
+          "file": "CH24-scene-07.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-07.md",
+          "word_count": 1356,
+          "status": "text_present",
+          "pov_focus": "Silex and Lith",
+          "summary": "Their engineered bodies reach terminal decline, and Lith sees the 300,000-year need for priority as the obstacle that collaboration has been loosening.",
+          "function": "Makes designed flesh another temporary form of meat."
+        },
+        {
+          "section": "VIII",
+          "title": "Death and Yearning",
+          "file": "CH24-scene-08.md",
+          "path": "incarnations/ch24-future-prophet/scenes/CH24-scene-08.md",
+          "word_count": 1076,
+          "status": "text_present",
+          "pov_focus": "The nearly singular thread",
+          "summary": "Silex and Lith die in the system's blind spot, understand separation as an experience rather than fact, and move toward perhaps one final preparation.",
+          "function": "Releases engineered bodies and opens the formless sequence."
+        }
+      ],
+      "continuity_flags": []
+    },
+    {
+      "chapter": 25,
+      "id": "ch25-space-explorer",
+      "title": "The Explorer",
+      "type": "cosmic",
+      "genre": "Transcendent / Formless-Realm Fiction",
+      "setting": {
+        "period": "Non-temporal",
+        "location": "The four formless attainments, followed by descent into a final embodied village life"
+      },
+      "pov": "A merged “we,” with residual “I” fractures",
+      "function": "Moves the joined consciousness through Infinite Space, Infinite Consciousness, Nothingness, and Neither-Perception-Nor-Non-Perception, exposing the subtlest clinging before re-embodiment.",
+      "current_read": {
+        "summary": "Without body, edge, or location, the joined awareness enters Infinite Space and learns to say “we.” Space becomes Infinite Consciousness, whose bliss nearly traps it in self-knowing completeness. Consciousness then releases into Nothingness, where five remaining attachments and Lilith's fear of losing the race surface as irreducible residues. In Neither-Perception-Nor-Non-Perception even refined stillness is seen as pleasure and clinging. A growing pull ruptures the formless threshold, floods awareness with every incarnation's sensory life, and condenses it into a newborn final body in an unfamiliar village.",
+        "arc": {
+          "opening_state": "The two threads experience edge-less unity after the death of designed flesh.",
+          "major_turn": "Nothingness reveals that competition and fear of dissolution remain inside the merged “we.”",
+          "closing_state": "The formless sequence ruptures into the last embodied life."
+        }
+      },
+      "word_target": 8000,
+      "word_count_current": 11692,
+      "word_count_delta": 3692,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Infinite Space",
+          "file": "CH25-scene-01.md",
+          "path": "incarnations/ch25-space-explorer/scenes/CH25-scene-01.md",
+          "word_count": 2949,
+          "status": "text_present",
+          "pov_focus": "Merged awareness",
+          "summary": "Weight, edge, and location disappear; residual “I” fractures close into “we” as the thread expands through the first formless realm.",
+          "function": "Establishes unity without body while preserving a subtle direction onward."
+        },
+        {
+          "section": "II",
+          "title": "Infinite Consciousness",
+          "file": "CH25-scene-02.md",
+          "path": "incarnations/ch25-space-explorer/scenes/CH25-scene-02.md",
+          "word_count": 2974,
+          "status": "text_present",
+          "pov_focus": "Merged awareness",
+          "summary": "Vastness turns inward as consciousness knowing itself; bliss and satisfaction become an almost invisible prison until doubled seeing reopens the call beyond it.",
+          "function": "Reveals formless bliss as another graspable form."
+        },
+        {
+          "section": "III",
+          "title": "Nothingness",
+          "file": "CH25-scene-03.md",
+          "path": "incarnations/ch25-space-explorer/scenes/CH25-scene-03.md",
+          "word_count": 2059,
+          "status": "text_present",
+          "pov_focus": "Merged awareness with Lilith's residual I",
+          "summary": "As consciousness ceases to be object, nothingness strips away hiding places and exposes remaining attachment, aversion, competition, and fear of dissolving after losing the race.",
+          "function": "Makes the subtlest fetters visible without yet breaking them."
+        },
+        {
+          "section": "IV",
+          "title": "Neither-Perception-Nor-Non-Perception",
+          "file": "CH25-scene-04.md",
+          "path": "incarnations/ch25-space-explorer/scenes/CH25-scene-04.md",
+          "word_count": 1837,
+          "status": "text_present",
+          "pov_focus": "Threshold awareness",
+          "summary": "In a nearly syntaxless neither-nor stillness, awareness sees even maximum refinement and the shimmer of “I” as clinging while the pull presses against the final membrane.",
+          "function": "Brings the formless journey to its thinnest threshold."
+        },
+        {
+          "section": "V",
+          "title": "The Wheel, Visible",
+          "file": "CH25-scene-05.md",
+          "path": "incarnations/ch25-space-explorer/scenes/CH25-scene-05.md",
+          "word_count": 1873,
+          "status": "text_present",
+          "pov_focus": "Merged awareness entering a body",
+          "summary": "The threshold ruptures, all incarnational senses flood back, and awareness descends into a newborn body in an unfamiliar village where the wheel is finally visible from outside.",
+          "function": "Returns the joined thread to the last body required for completion and teaching."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "concept_superseded",
+          "severity": "high",
+          "note": "The source manifest describes a far-future space-opera explorer on another planet. The current scene prose instead traverses the four formless attainments and ends with re-embodiment in a village; no space-explorer plot appears."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "id": "ch26-pure-abodes-awakened",
+      "title": "The Awakened",
+      "type": "cosmic_embodied",
+      "genre": "Transcendent Speculative Fiction",
+      "setting": {
+        "period": "Future or otherwise unspecified final human era",
+        "location": "An unnamed peaceful village and a great tree"
+      },
+      "pov": "Merged consciousness becoming non-dual presence",
+      "function": "Completes the remaining fetters in the final body, reveals the apparent two threads as one movement, and turns awakening back toward embodied teaching rather than escape from the wheel.",
+      "current_read": {
+        "summary": "The merged awareness wakes as a child in a peaceful village whose people sense an unnamed readiness. As language and bodily skill develop, the patterns once called Silas and Lilith contribute patience and urgency without remaining separate. A falling child reveals the rooftop chain's deeper truth: reaching and anchoring were one action, and competition was always contribution. Drawn to a great tree, the final consciousness sees attachment to beautiful form, conceit, restlessness, and ignorance dissolve; the wheel continues, but is no longer mistaken for a self being turned. Villagers gather for a teaching that reframes every lifetime. The final morning returns to bread, light, children, questions, and “just this,” with teaching continuing through ordinary life.",
+        "arc": {
+          "opening_state": "A last body wakes carrying two recognizable patterns inside an already thinning “we.”",
+          "major_turn": "The child's fall reveals that pursuit, reaching, and anchoring were complementary parts of one movement.",
+          "closing_state": "Awakening does not stop the wheel; it ends the suffering created by misseeing it, and teaching continues."
+        }
+      },
+      "word_target": 8000,
+      "word_count_current": 9132,
+      "word_count_delta": 1132,
+      "status": "drafted",
+      "scenes": [
+        {
+          "section": "I",
+          "title": "Arrival",
+          "file": "CH26-scene-01.md",
+          "path": "incarnations/ch26-pure-abodes-awakened/scenes/CH26-scene-01.md",
+          "word_count": 1892,
+          "status": "text_present",
+          "pov_focus": "Merged awareness in the final body",
+          "summary": "A newborn awareness wakes to an old woman's face, a worn and abundant village, and the knowing that this is the last body in a world waiting without knowing why.",
+          "function": "Establishes embodied completion rather than disembodied escape."
+        },
+        {
+          "section": "II",
+          "title": "The Recognition",
+          "file": "CH26-scene-02.md",
+          "path": "incarnations/ch26-pure-abodes-awakened/scenes/CH26-scene-02.md",
+          "word_count": 2082,
+          "status": "text_present",
+          "pov_focus": "Merged awareness",
+          "summary": "Language and village rhythms enter the body; when a child falls, instinctive reaching reveals that Silas's motion and Lilith's anchoring were one action and competition was contribution.",
+          "function": "Dissolves the governing story of two opposed souls."
+        },
+        {
+          "section": "III",
+          "title": "The Completion",
+          "file": "CH26-scene-03.md",
+          "path": "incarnations/ch26-pure-abodes-awakened/scenes/CH26-scene-03.md",
+          "word_count": 2038,
+          "status": "text_present",
+          "pov_focus": "Non-dual awareness beneath the tree",
+          "summary": "At the great tree, attachment to refined form, conceit of being-about-to-complete, restlessness toward a future moment, and root ignorance are seen and released.",
+          "function": "Completes awakening by illuminating the conditioned wheel rather than attempting to stop it."
+        },
+        {
+          "section": "IV",
+          "title": "The Teaching",
+          "file": "CH26-scene-04.md",
+          "path": "incarnations/ch26-pure-abodes-awakened/scenes/CH26-scene-04.md",
+          "word_count": 1529,
+          "status": "text_present",
+          "pov_focus": "Awakened teacher and villagers",
+          "summary": "Villagers gather without summons, and the teaching retells the lifetimes as lessons in sharing, presence, uncertainty, release, and trying without ownership.",
+          "function": "Returns private realization to communal language and use."
+        },
+        {
+          "section": "V",
+          "title": "Just This",
+          "file": "CH26-scene-05.md",
+          "path": "incarnations/ch26-pure-abodes-awakened/scenes/CH26-scene-05.md",
+          "word_count": 1591,
+          "status": "text_present",
+          "pov_focus": "Awakened ordinary presence",
+          "summary": "Morning light, bread, questions, work, and laughter continue without an owner; the wheel still turns, but seeing ends the suffering built from believing it turns a separate self.",
+          "function": "Closes the novel in ordinary embodiment with teaching ongoing."
+        }
+      ],
+      "continuity_flags": [
+        {
+          "kind": "setting_superseded",
+          "severity": "high",
+          "note": "The source manifest places Chapter 26 beyond time in the Pure Abodes. The current scene prose is embodied in an unnamed village, with birth, language learning, food, work, aging villagers, and a physical tree."
+        },
+        {
+          "kind": "draft_status",
+          "severity": "high",
+          "note": "The source manifest labels Chapter 26 “needs_development,” but five current scene files contain 9,132 prose words."
+        }
+      ]
+    }
+  ],
+  "chapter_type_legend": {
+    "contemporary": "Present-day Manchester; Silas and/or Lilith POV; literary voice",
+    "historical": "Past life; avatar POV; genre-specific voice adaptation",
+    "lilith_contemporary": "Manchester Lilith POV integrated with the corresponding historical incarnation",
+    "cosmic": "Post-breakthrough nonordinary realm or future embodiment",
+    "cosmic_embodied": "Final embodied life narrated through merged or non-dual consciousness"
+  },
+  "word_count_summary": {
+    "scope": "All 26 chapters and 180 current scene files",
+    "chapter_1": 8040,
+    "chapter_2": 4839,
+    "chapter_3": 3057,
+    "chapter_4": 19348,
+    "chapter_5": 3343,
+    "chapter_6": 10031,
+    "chapter_7": 3997,
+    "chapter_8": 9719,
+    "chapter_9": 7034,
+    "chapter_10": 13694,
+    "chapter_11": 5813,
+    "chapter_12": 8448,
+    "chapter_13": 3326,
+    "chapter_14": 17868,
+    "chapter_15": 5200,
+    "chapter_16": 14542,
+    "chapter_17": 4387,
+    "chapter_18": 8810,
+    "chapter_19": 10941,
+    "chapter_20": 14734,
+    "chapter_21": 4090,
+    "chapter_22": 9680,
+    "chapter_23": 6601,
+    "chapter_24": 9497,
+    "chapter_25": 11692,
+    "chapter_26": 9132,
+    "total_current": 227863,
+    "defined_target_total": 154100,
+    "defined_target_chapters": 24,
+    "chapters_without_target": [
+      6,
+      8
+    ],
+    "current_words_in_defined_target_chapters": 208113,
+    "delta_for_defined_target_chapters": 54013
+  }
+}
