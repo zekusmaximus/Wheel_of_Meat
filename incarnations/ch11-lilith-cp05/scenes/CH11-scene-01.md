@@ -73,5 +73,3 @@ She did not notice that understanding the pattern had become its own attachment.
 The palm fiber split under Macarius's practiced hands. In Manchester, her own hands remained motionless.
 
 Both of them were holding themselves in containments they called holy, and neither of them saw the bars.
-
----

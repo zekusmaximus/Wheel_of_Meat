@@ -59,5 +59,3 @@ She watched his performed humility and felt nothing that identified itself as re
 She did not see her own attachment to certainty, her own grasping at being the one who saw, the one who tracked, the one who would succeed where interventions had failed.
 
 The mirror was everywhere. She kept her eyes on him.
-
----

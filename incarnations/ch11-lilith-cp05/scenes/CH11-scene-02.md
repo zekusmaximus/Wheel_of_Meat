@@ -83,5 +83,3 @@ She could not stop watching. The stillness called to her own stillness. The cell
 *Research requires proximity,* she told herself. *Thoroughness requires presence.*
 
 The names were walls. The fascination flowed beneath them, unnamed.
-
----

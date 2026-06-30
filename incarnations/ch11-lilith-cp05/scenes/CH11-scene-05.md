@@ -34,7 +34,7 @@ The realization arrived with a clarity she could not suppress. The pattern was c
 
 Ka's cooperation had crystallized through her observation—the lesson she thought she was preventing. Chandra's generosity had crystallized through betrayal she engineered. Philon's wisdom had crystallized through the dream she shaped and the rumor she weighted. Verinus's virtue had crystallized through destabilization she orchestrated.
 
-And now Macarius. His pride exposed—not by her intervention but *through* it. The excessive praise she had guided Theophanes to deliver had become the mirror in which the hermit finally saw his own hunger. And in seeing it he had loosened his grip on the one thing fifteen years of renunciation had never surrendered: the self that prized its own renouncing. Humility—not the performed kind he had worn like a robe, but the kind that arrives only after the performer has been seen through. A fifth lesson, crystallizing as she watched.
+And now Macarius. His pride exposed—not by her intervention but *through* it. The excessive praise she had guided Theophanes to deliver had become the mirror in which the hermit finally saw his own hunger. And in seeing it he had loosened his grip on the one thing fifteen years of renunciation had never surrendered: the self that prized its own renouncing. Renunciation—not the performed kind he had worn like a robe, but the kind that arrives only after the performer has been seen through. A fifth lesson, crystallizing as she watched.
 
 Five iterations. Five backfires. Five lessons accelerated by the opposition meant to prevent them.
 
@@ -101,5 +101,3 @@ She filed the observation. The folder bulged, nearly overflowing.
 The wheel turned. Neither of them knew they were already caught in it.
 
 Neither of them asked why following felt less like hunting and more like being pulled.
-
----

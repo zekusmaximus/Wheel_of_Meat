@@ -70,7 +70,7 @@ And Macarius recognized the structure of his own vanity.
 
 It did not come as thought, thought would have taken too long. It came as body-knowledge, the same body-knowledge that had made her hesitate. His posture collapsed inward. His chin, which had been lifted toward divine inspiration, dropped toward his chest. The trembling spread from his hands to his arms to his shoulders, and what had been performance became—
 
-Something real. Something broken. Something that looked, impossibly, like the beginning of genuine humility.
+Something real. Something broken. Something that looked, impossibly, like the beginning of genuine renunciation.
 
 The monks interpreted the silence as holy wisdom. The scribes paused, waiting for the next pearl to fall. Only she saw what was actually happening: the fifteen years of accumulated vanity crumbling under its own weight.
 
@@ -83,5 +83,3 @@ She withdrew from the vessel as the dissolution continued. The Theodora-body fli
 The question surfaced before she could suppress it:
 
 *Why did I hesitate?*
-
----
