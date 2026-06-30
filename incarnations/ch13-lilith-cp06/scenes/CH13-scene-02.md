@@ -2,7 +2,7 @@ She had been closer than she'd ever been. The memory surfaced in her hands befor
 
 The Attendant had been hers. A vessel she had worn like a garment, and the garment had left creases.
 
-In her flat, Lilith's hands remembered raw. Not her hands, but the vessel's hans. She felt them anyway: the scrubbing and obsessive maintenance that had made perfect sense at the time. Keep the screens clean. Burn the autumn leaves before they can rot. Preserve the spring that Lady Hotaru needed, that Kaoru craved, that neither of them understood was already dead.
+In her flat, Lilith's hands remembered raw. Not her hands, but the vessel's hands. She felt them anyway: the scrubbing and obsessive maintenance that had made perfect sense at the time. Keep the screens clean. Burn the autumn leaves before they can rot. Preserve the spring that Lady Hotaru needed, that Kaoru craved, that neither of them understood was already dead.
 
 She had been *there*. In the room when he arrived. Standing against lacquered wood while he settled into cushions placed exactly where she had placed them. His eyes had moved through the space, they had moved *to her*. For a moment that lasted longer than a moment should last, he had looked.
 
