@@ -1,10 +1,10 @@
 Rain on two cities. She felt it in her skin before she heard it on the windows.
 
-The faculty reception hummed with the particular violence of small talk. Cclinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray. Across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions since Chapter 5 that had backfired into exactly what she'd tried to prevent.
+The faculty reception hummed with the particular violence of small talk. Clinking glasses, murmured conversation, institutional lighting that flattened everything to the same professional gray. Across the room, through the crowd, through rain-streaked windows that looked out on Manchester autumn, she saw him. Not yet. Almost. The thread she'd tracked across centuries ended in this room, and she could feel it pulling, the same pull that had pulled her through Tianjing's siege, through the glimpses between significant lives, through the nine interventions since Chapter 5 that had backfired into exactly what she'd tried to prevent.
 
 Week nine of tracking. Or ten. She'd stopped counting days when the pursuit became fever.
 
-In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of determination that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink.
+In the bar in downtown Los Angeles, January 1938, smoke hung in layers and jazz bled from the jukebox, notes falling like rain on tin, and Jack Malone worked his contacts at the bar with the kind of dogged energy that showed even in how he held his glass. She was positioned near the back. Victory rolls, dark lipstick were the uniform of the era. Nursing something she wouldn't drink.
 
 She watched him work, and the accumulated progress became visible.
 

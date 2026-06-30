@@ -1,6 +1,6 @@
 Gloria Dane worked at a place called The Velvet Room, a nightclub on South Main that catered to businessmen who wanted discretion with their drinks. I went there that night, paid the cover charge, and found a table near the stage where a four-piece band was playing something slow and smoky.
 
-She was easy to spot. Brennan had described her, and besides, she was the kind of woman who drew attention without trying—dark hair, full lips, a figure that the sequined dress she wore did nothing to hide. She moved between tables, smiling at customers, accepting drinks, playing the game that women in her position had to play to survive.
+She was easy to spot. Bergdorf had described her, and besides, she was the kind of woman who drew attention without trying—dark hair, full lips, a figure that the sequined dress she wore did nothing to hide. She moved between tables, smiling at customers, accepting drinks, playing the game that women in her position had to play to survive.
 
 I watched her for an hour before approaching. Watched the men she talked to, the way she touched their arms and laughed at their jokes, the subtle transactions of attention and money that passed between them. She was good at her job. Professional in a way that suggested she'd been doing this long enough to know all the moves.
 
@@ -14,21 +14,21 @@ The smile faltered. She looked at me more closely, and I saw something shift beh
 
 "I'm not that kind of girl."
 
-"I know exactly what kind of girl you are, Miss Dane." I kept my voice low, neutral. "I know about Howard Brennan. I know about the photographs. What I want to know is whether you're in on the blackmail or just caught in it."
+"I know exactly what kind of girl you are, Miss Dane." I kept my voice low, neutral. "I know about Howard Bergdorf. I know about the photographs. What I want to know is whether you're in on the blackmail or just caught in it."
 
 The color drained from her face. She sat down without being invited, her composure cracking.
 
 "How did you—"
 
-"Brennan hired me to find the blackmailer. I'm not interested in ruining your life, Miss Dane. I just need to know who's behind this."
+"Bergdorf hired me to find the blackmailer. I'm not interested in ruining your life, Miss Dane. I just need to know who's behind this."
 
 She looked around the club, checking for watchers. Her hands, I noticed, were clenched in her lap.
 
-"I don't know who's doing it," she said finally. "I swear to God, I don't know. The photographs—I didn't even know they existed until someone sent me copies. They told me if I warned Brennan, they'd kill me. If I went to the police, they'd kill me. All I could do was sit here and wait and hope it would be over soon."
+"I don't know who's doing it," she said finally. "I swear to God, I don't know. The photographs—I didn't even know they existed until someone sent me copies. They told me if I warned Bergdorf, they'd kill me. If I went to the police, they'd kill me. All I could do was sit here and wait and hope it would be over soon."
 
 I believed her. The fear in her voice was too raw, too immediate to be faked.
 
-"Do you have any enemies? Anyone who knew about you and Brennan, who might want to hurt one or both of you?"
+"Do you have any enemies? Anyone who knew about you and Bergdorf, who might want to hurt one or both of you?"
 
 She shook her head. "I was careful. I'm always careful. This shouldn't have happened."
 
@@ -74,13 +74,13 @@ Novak's eyes darted away. "I don't know. I just got the room number and the key.
 
 I left him with a warning not to leave town and a certainty that I was missing something. The man who'd hired Novak wasn't the blackmailer—he was too careful, too professional. He was a cutout, a layer of insulation between the real operator and the dirty work.
 
-But why go to so much trouble to blackmail Howard Brennan? Ten thousand dollars was a lot of money, but not enough to justify this level of planning. There had to be something else. Something I wasn't seeing.
+But why go to so much trouble to blackmail Howard Bergdorf? Ten thousand dollars was a lot of money, but not enough to justify this level of planning. There had to be something else. Something I wasn't seeing.
 
 ---
 
 I found it the next morning.
 
-I was in the Hall of Records, checking property transfers—still trying to rebuild the corruption case—when I came across Howard Brennan's name. He'd been buying land in the Valley, dozens of parcels over the past year, through a series of shell companies that all traced back to his development firm.
+I was in the Hall of Records, checking property transfers—still trying to rebuild the Haversham case—when I came across Howard Bergdorf's name. He'd been buying land in the Valley, dozens of parcels over the past year, through a series of shell companies that all traced back to his development firm.
 
 Land that, according to the surveys, was practically worthless. Flood plain, unstable soil, too far from the city to be commercially viable.
 
@@ -88,11 +88,11 @@ Unless you knew something the surveys didn't.
 
 I dug deeper. Found a proposal buried in the city planning archives—a flood control project that would rechannelize the Los Angeles River, making the Valley land valuable. A project that had been quietly approved by the city council three months ago, that hadn't been announced to the public yet, that would make anyone who owned the right parcels very, very rich.
 
-Howard Brennan had insider information. He was buying up land before the flood control announcement, planning to make a fortune on what was essentially legal corruption.
+Howard Bergdorf had insider information. He was buying up land before the flood control announcement, planning to make a fortune on what was essentially legal corruption.
 
 And someone was blackmailing him. Not for the affair—the affair was just leverage. They wanted something else.
 
-I called Brennan's office. His secretary said he was in meetings all day. I called his home. His wife said he'd left early that morning and she didn't know where he was.
+I called Bergdorf's office. His secretary said he was in meetings all day. I called his home. His wife said he'd left early that morning and she didn't know where he was.
 
 I called Gloria Dane at The Velvet Room. No answer.
 
@@ -126,7 +126,7 @@ But the damage was done. My name was in the papers now, connected to a murder. T
 
 I walked out of the police station into gray February light and tried to think of what came next.
 
-Howard Brennan had disappeared. Gloria Dane had disappeared. Jerry Novak was dead. And I was walking around with a murder charge hanging over my head like a sword on a fraying thread.
+Howard Bergdorf had disappeared. Gloria Dane had disappeared. Jerry Novak was dead. And I was walking around with a murder charge hanging over my head like a sword on a fraying thread.
 
 Someone was playing a game I didn't understand. Someone who had more power than the Combination, more reach than the police, more patience than any enemy I'd ever faced.
 
@@ -139,7 +139,3 @@ But I wasn't going to stop.
 Someone had to give a damn. Even when giving a damn got people killed.
 
 Even when you were the one who was going to die.
-
----
-
-**Word count: ~2,400**

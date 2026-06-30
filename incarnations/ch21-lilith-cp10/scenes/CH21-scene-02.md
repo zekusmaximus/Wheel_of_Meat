@@ -18,9 +18,9 @@ He was the past. Silas was the future.
 
 Perhaps distance was the answer. Perhaps minimal presence would succeed where maximal presence had failed. A test, a hypothesis, the kind of clinical reasoning that had sustained her through centuries of watching souls she couldn't save from the lessons she was trying to prevent.
 
-Jack kept walking. Kept trying. The determination in his shoulders, in his stride, in the way he refused to stop even when stopping was the only sane response. Outcome-independent perseverance building in his bones while she accelerated his failures from outside, teaching him the lesson faster without seeing that she was learning the same lesson, had been learning it since Ka's frozen cave, since the first moment she recognized the pattern and decided to fight it.
+Jack kept walking. Kept trying. The drive in his shoulders, in his stride, in the way he refused to stop even when stopping was the only sane response. Tireless effort building in his bones while she accelerated his failures from outside, teaching him the lesson faster without seeing that she was learning the same lesson, had been learning it since Ka's frozen cave, since the first moment she recognized the pattern and decided to fight it.
 
-The reception continued in her peripheral awareness. She was getting closer to Silas. Through the crowd. Through the decades. The same navigation, different scale. The same determination, different register.
+The reception continued in her peripheral awareness. She was getting closer to Silas. Through the crowd. Through the decades. The same navigation, different scale. The same drive, different register.
 
 Both of them: unable to stop.
 

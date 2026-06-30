@@ -52,7 +52,7 @@ The Combination was the obvious answer. They had the resources, the reach, the m
 
 I was so lost in thought that I almost walked past her.
 
-She was standing on the corner of Hill and Third, near the entrance to my office building. Dark hair caught in the wind, a coat that looked too expensive for this neighborhood, face turned slightly away from me. But there was something about the line of her profile—the sharp widow's peak, the single darker strand falling across her forehead—that made me stop.
+She was standing on the corner of Hill and Third, near the entrance to my office building. Dark hair caught in the wind, a coat that looked too expensive for this neighborhood, face turned slightly away from me. But there was something about the line of her profile—the sharp widow's peak, the single darker strand falling from her left temple across her forehead—that made me stop.
 
 The woman from the bar. The one who'd disappeared without leaving.
 
@@ -78,17 +78,15 @@ The woman's face—that widow's peak, that strange flicker in her left eye—lod
 
 The thought arrived without explanation, certainty without evidence. The kind of knowing that got men killed in this city—acting on instinct instead of facts.
 
-I let the phone ring through.
+I picked up the phone anyway.
 
-Made no sense. The money was good. The case was clean. And I needed rent money worse than I needed instincts I couldn't explain.
-
-But something in me knew better than my brain did. Knew that case was a trap, even if I couldn't prove it. Knew that woman on the corner was connected to everything falling apart around me, even if I'd never spoken to her in my life.
+Something in me knew better than my brain did—knew that case was a trap, even if I couldn't prove it, knew that woman on the corner was connected to everything falling apart around me, even if I'd never spoken to her in my life. But the money was good and the rent was due, and a man who only took the cases that felt safe wasn't a man who gave a damn. I'd walked into worse with less.
 
 *In France—*
 
 I blinked. In France? I'd never been to France.
 
-The thought slid away before I could catch it, leaving only residue. The blackmail case went to someone else. And I went back to the corruption investigation that was probably going to kill me.
+The thought slid away before I could catch it, leaving only residue. I took the case. And I kept working the Haversham investigation that was probably going to kill me—the two of them braided together now, whether I liked it or not.
 
 *Someone has to give a damn. Even when it doesn't make sense. Even when you can't explain why.*
 
@@ -125,7 +123,3 @@ Then I poured myself a drink, sat on the edge of my bed, and started writing dow
 Someone had to give a damn.
 
 Even if it meant dying for nothing.
-
----
-
-**Word count: ~1,800**

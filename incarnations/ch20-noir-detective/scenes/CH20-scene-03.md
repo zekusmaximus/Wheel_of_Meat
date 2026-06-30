@@ -6,7 +6,7 @@ I leaned back in my chair. "Have you talked to the police?"
 
 "The police told me to wait. Said men go missing all the time, most of them turn up." Her voice cracked on the last word. "But Frank wouldn't do this. He wouldn't leave without telling me. Something's wrong."
 
-I should have turned her away. The corruption case was taking all my time, and missing persons work is unpredictable—could be wrapped up in an afternoon, could drag on for weeks. But she was sitting there with tears threatening to spill from eyes the color of summer sky, and Frank Sinclair was someone's husband, and someone had to give a damn.
+I should have turned her away. The Haversham case was taking all my time, and missing persons work is unpredictable—could be wrapped up in an afternoon, could drag on for weeks. But she was sitting there with tears threatening to spill from eyes the color of summer sky, and Frank Sinclair was someone's husband, and someone had to give a damn.
 
 "Tell me about him," I said.
 
@@ -108,7 +108,7 @@ That afternoon, I sat in a bar on Main Street and tried to make sense of what ha
 
 The bar was dim and smoky, the kind of place where people came to disappear for a few hours. I was working on my second rye when I noticed her.
 
-She was sitting in a booth across the room. Dark hair styled in victory rolls, a dress that caught what little light there was in the place. Beautiful, in a way that made you want to look twice, then look away, then look back again. Her face was angled toward the window, but I could see the sharp line of her widow's peak, the single darker strand that fell across her forehead.
+She was sitting in a booth across the room. Dark hair styled in victory rolls, a dress that caught what little light there was in the place. Beautiful, in a way that made you want to look twice, then look away, then look back again. Her face was angled toward the window, but I could see the sharp line of her widow's peak, the single darker strand that fell from her left temple across her forehead.
 
 Something about her tugged at my attention. Not attraction—or not just attraction. Something else. A sense of recognition I couldn't place, like seeing a face in a dream and knowing it means something without knowing what. And beneath that, something that made my skin prickle—a wrongness in her beauty, like a painting too perfect to be honest. I'd learned to mistrust faces like that. The more carefully something was put together, the more likely it was hiding rot beneath.
 
@@ -143,7 +143,3 @@ The answer was no, probably. He'd been marked the moment he decided to talk. But
 Someone had to give a damn.
 
 Even when giving a damn got people killed.
-
----
-
-**Word count: ~2,300**
