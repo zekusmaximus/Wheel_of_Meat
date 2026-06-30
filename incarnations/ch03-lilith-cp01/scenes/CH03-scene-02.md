@@ -18,7 +18,7 @@ Lilith's hands wrapped tighter around the mug's cooling ceramic. She understood 
 
 The lesson was wrong. She could see that clearly. His isolation would kill him more surely than any predator. His hoarding would leave him with meat he could not eat while his body failed in the cold.
 
-She could see it. She lacked the ability to reach through time to change it. The skill would come later, but she could see the pattern of his mistake as clearly as if she were reading his chart.
+She could see it. She could not reach through time to change what had already happened—nothing could; the past did not yield to being rewritten. But she could see the pattern of his mistake as clearly as if she were reading his chart.
 
 *Such a long way to go,* she thought. *Hundreds of lifetimes, maybe.*
 
