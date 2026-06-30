@@ -1,75 +1,67 @@
-Wei Shufen counted his supplies at dawn.
+I counted my supplies at dawn.
 
-Three pouches of yarrow, nearly exhausted. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, assuming he cut them thin. The arithmetic was always the same: not enough. Never enough.
+Three pouches of yarrow, nearly gone. One jar of honey-garlic paste, the last of the batch. Clean cloth enough for perhaps fifteen bandages, if I cut them thin. The arithmetic was always the same: not enough. Never enough.
 
-Old Huang arrived as the light crept through the temple windows. "South Ward station has extra willow bark," he said. "I told them we'd share the yarrow."
+Old Huang came in as the light reached the temple windows. “South Ward station has extra willow bark,” he said. “I told them we’d share the yarrow.”
 
-Wei nodded. This was how they survived—the medical network stretching across the besieged city like a web of fragile cooperation. He had learned this slowly, through losses that taught him a medic who hoarded supplies was a medic who would eventually watch patients die for want of what he refused to share. Information and resources flowed between the ward stations: patterns of infection, artillery angles, which herbs still worked and which had spoiled. No one survived the siege alone.
+I nodded. This was how we survived—the medical network strung across the besieged city like a web of fragile cooperation. I had learned it slowly, through losses that taught me a medic who hoarded supplies was a medic who would watch patients die for want of what he refused to share. Information and resources moved between the ward stations: patterns of infection, artillery angles, which herbs still worked and which had spoiled. No one survived the siege alone.
 
-"The shoulder case from yesterday," Wei said. "How is he?"
+“The shoulder case from yesterday,” I said. “How is he?”
 
-Huang shook his head. "Fever rose in the night. Infection is spreading."
+Huang shook his head. “Fever rose in the night. Infection’s spreading.”
 
-Wei gathered his bag and walked to the patient's mat. The man—a soldier named Liu, twenty-three years old, wounded in the last wall skirmish—lay with his eyes closed, his breathing shallow. The shoulder wound was hot to the touch, the flesh around the stitches red and swollen.
+I took my bag to the man’s mat. A soldier named Liu, twenty-three, wounded in the last wall skirmish—eyes closed, breathing shallow, the shoulder wound hot, the flesh around the stitches red and swollen.
 
-"The infection might respond to honey-garlic," Wei said. "Or it might not. I cannot say for certain."
+“The infection might respond to honey-garlic,” I said. “Or it might not. I can’t say for certain.”
 
-Liu opened his eyes. "Will I lose the arm?"
+Liu opened his eyes. “Will I lose the arm?”
 
-Wei examined the wound again. The redness had not yet spread past the shoulder joint. The fever was high but not critical. He had seen wounds like this go either way—sometimes the body rallied, sometimes the infection won. The symptoms refused to resolve into diagnosis.
+I looked again. The redness had not spread past the joint. The fever was high but not yet critical. I had seen wounds like this go either way—sometimes the body rallied, sometimes the infection won. The symptoms refused to resolve into a diagnosis.
 
-"I don't know," Wei said, and as the words left his mouth something tightened in his shoulder—a phantom ache in a place that had never been wounded, a flash of frustration rising in his chest without source or target. He breathed through it. The feeling passed, leaving only the honest uncertainty that was all he could offer. "The infection may spread or it may retreat. I will treat it as if it will retreat. That is the honest position."
+“I don’t know,” I said, and as the words left me something tightened in my shoulder—a phantom ache in a place that had never been wounded, a flash of frustration with no source and no target. I breathed through it. It passed, and left only the honest uncertainty that was all I had to offer. “It may spread or it may retreat. I’ll treat it as if it will retreat. That’s the honest position.”
 
-Liu's face showed something like relief. "Thank you for not lying."
+Something like relief crossed his face. “Thank you for not lying.”
 
-Wei cleaned the wound, packed it with fresh paste, changed the bandages. His hands moved through motions so familiar they required no thought. When he finished, he sat back on his heels and looked at Liu—not at the wound, but at the man.
+I cleaned the wound, packed it with fresh paste, changed the bandages—motions so familiar they needed no thought. When I finished I sat back on my heels and looked at him. Not at the wound. At the man.
 
-"You have family?" Wei asked.
+“You have family?” I asked.
 
-"A mother in Changsha. A younger brother." Liu's voice was weak but steady. "Haven't seen them in four years."
+“A mother in Changsha. A younger brother.” His voice was weak but steady. “Haven’t seen them in four years.”
 
-"Tell me about them."
+“Tell me about them.”
 
-It was not a medical question. The answer would not affect treatment. But Wei had learned that some wounds required medicine while others required witness. Liu talked for twenty minutes—about his mother's cooking, his brother's ambition to become a scholar, the house with the peach tree in the courtyard. Wei listened without calculating, without counting, simply present. When Liu's eyes finally closed in exhausted sleep, Wei rose quietly and returned to his supply inventory.
+It was not a medical question. The answer would change nothing in the treatment. But I had learned that some wounds need medicine and others need a witness. He talked for twenty minutes—his mother’s cooking, his brother’s ambition to become a scholar, the house with the peach tree in the courtyard. I listened without calculating, without counting, simply there. When his eyes finally closed in exhausted sleep, I rose and went back to the inventory.
 
-Old Huang watched him from across the temple floor. "You spend too much time on hopeless cases."
+Huang watched me from across the floor. “You spend too much time on hopeless cases.”
 
-"Perhaps," Wei said. "But he is not a case. He is Liu, and his mother is waiting in Changsha."
+“Perhaps,” I said. “But he isn’t a case. He’s Liu, and his mother is waiting in Changsha.”
 
-Later that morning, the Shishuai's aide arrived with a message: Colonel Fang wished to recognize Wei's work with an extra rice ration, officer's privilege for his service to the West Ward.
+Later that morning the Shishuai’s aide came with a message: Colonel Fang wished to recognize my work with an extra rice ration, an officer’s privilege for service to the West Ward.
 
-Wei let the offer pass.
+I let the offer pass.
 
-Not from pride. Not from performance of humility he hoped others would notice. Simply from recognition that he was not hungrier than his patients, and the rice would be better distributed through the temple kitchen where it could feed three instead of one. The aide left confused, having expected gratitude. Wei did not explain. Some decisions did not require witness or justification.
+Not from pride. Not from any performance of humility I hoped would be noticed. Only from the recognition that I was no hungrier than my patients, and the rice would feed three through the temple kitchen instead of one. The aide left confused, having expected gratitude. I did not explain. Some decisions need no witness and no justification.
 
-By midday, Liu's fever had broken. The infection was retreating.
+By midday Liu’s fever had broken. The infection was retreating. I added him to the count: *Forty-eight saved. Twenty-three lost.*
 
-Wei added him to the count: *Forty-eight saved. Twenty-three lost.*
+The ratio was holding, still tipping toward life. I did not trust it—the siege would grind on, the supplies would dwindle, the arithmetic would eventually close against me. But for now the ledger stayed in the black, and the work continued.
 
-The ratio was holding, still tipping toward life. Wei did not trust it—the siege would grind on, the supplies would dwindle, the arithmetic would eventually close against him. But for now, the ledger remained in the black, and the work continued.
+That afternoon a civilian woman arrived with a cough that had lasted weeks. Fever, fatigue, blood in the sputum. Could be consumption. Could be lung infection. Could be something I had never seen.
 
-That afternoon, a new patient arrived: a civilian woman with a cough that had persisted for weeks. Her symptoms were ambiguous—fever, fatigue, blood in the sputum. Could be consumption. Could be lung infection. Could be something Wei had never seen before.
+“I can’t tell you what this is,” I said. “The symptoms suggest several things, none certain.”
 
-"I cannot tell you what this is," Wei said, examining her. "The symptoms suggest several possibilities, none certain."
+“But can you treat it?”
 
-"But can you treat it?"
+Without a diagnosis, treatment was guesswork. But guesswork built on experience was still better than nothing. A medic who demands certainty before he acts will watch patients die while he gathers evidence.
 
-Wei considered. Without diagnosis, treatment was guesswork. But guesswork based on experience was still better than nothing. He had learned that a medic who demanded certainty before acting would watch patients die while gathering evidence.
+“I’ll treat it as a lung infection,” I said. “If it works, we’ll know. If it doesn’t, we’ll try something else. Medicine isn’t certainty. Medicine is informed trying.”
 
-"I will treat it as lung infection," he said. "If the treatment works, we will know. If it doesn't, we will try something else. Medicine is not certainty. Medicine is informed trying."
+She nodded, took the herbs, and left with instructions to return in three days. I watched her go and felt the familiar weight settle on my shoulders. Most of my diagnoses were guesses—educated, but guesses. The body did not always declare itself. Sometimes the evidence refused to resolve, and “I don’t know” was the only honest answer. I had made my peace with that. The trying mattered even when the knowing was incomplete.
 
-She nodded. Accepted the herbs he gave her. Left with instructions to return in three days.
+Evening came. Pyre smoke from the cremation ground drifted over the temple walls, burning flesh and incense together. I updated the ledger, checked Liu once more, and prepared for the night’s wounded.
 
-Wei watched her go and felt the familiar weight of uncertainty settle on his shoulders. Most of his diagnoses were guesses—educated guesses, but guesses nonetheless. The body did not always declare its ailments clearly. Sometimes evidence refused to resolve. Sometimes "I don't know" was the only honest answer.
+The siege was in its third year. Food was running low. The Qing guns had found their range, and somewhere beyond the walls an army of two hundred thousand waited for the city to starve. But inside the temple the work continued. I counted my supplies, coordinated with the other stations, and waited for the next impossible choice.
 
-He had made peace with this. The trying mattered even when the knowing was incomplete.
+*Forty-eight saved. Twenty-three lost.*
 
-Evening came. The pyre smoke from the cremation ground drifted over the temple walls, carrying the smell of burning flesh and incense. Wei updated his ledger, checked on Liu one more time, and prepared for the night's wounded.
-
-The siege was in its third year. Food was running low. The Qing artillery had found their range. And somewhere outside the walls, an army of two hundred thousand waited for the city to starve.
-
-But inside the temple, the work continued. Wei counted his supplies, coordinated with the other ward stations, and waited for the next impossible choice.
-
-The ledger read forty-eight saved, twenty-three lost.
-
-Tomorrow, the ratio might change. Tonight, Wei would do what he could with what he had, and call that enough.
+Tomorrow the ratio might change. Tonight I would do what I could with what I had, and call that enough.

@@ -1,107 +1,79 @@
-Wei heard the whispers three days later.
+I heard the whispers three days later.
 
-He was in the West Ward, checking on a family he had treated for dysentery the previous week. The mother had recovered; the two children were still weak but improving. Wei left them with instructions to boil their drinking water and walked back toward the temple through the narrow streets.
+I was in the West Ward, checking a family I had treated for dysentery the week before. The mother had recovered; the two children were weak but improving. I left them with instructions to boil their water and walked back toward the temple through the narrow streets.
 
-Two soldiers stood near a well, filling leather bags. Wei recognized them from the wall garrison but did not know their names. He would have passed without speaking, but one of them saw him coming and went silent mid-sentence. The other turned, saw Wei, and his expression tightened.
+Two soldiers stood by a well, filling leather bags. I knew them from the wall garrison but not their names. I would have passed without speaking, but one saw me coming and went silent mid-sentence. The other turned, saw me, and his expression tightened.
 
-Wei nodded in greeting and kept walking. But he heard the resumed conversation behind him, low and urgent:
+I nodded a greeting and kept walking. Behind me the conversation resumed, low and urgent:
 
-"—told you. Don't let the lüshuai treat you."
+“—told you. Don’t let the lüshuai treat you.”
 
-"That's superstition."
+“That’s superstition.”
 
-"Is it? Liu, Chen, the whole second squad—dead within a month of leaving his temple."
+“Is it? Liu, Chen, the whole second squad—dead within a month of leaving his temple.”
 
-"Coincidence. War kills people."
+“Coincidence. War kills people.”
 
-"Not like this. Everyone he touches dies. My cousin, the one with the broken arm? Healed perfect, walked out smiling. Dead two weeks later. Cannonball took him in the chest."
+“Not like this. Everyone he touches dies. My cousin, the one with the broken arm? Healed perfect, walked out smiling. Dead two weeks later. Cannonball through the chest.”
 
-"You're saying Wei cursed him?"
+“You’re saying Wei cursed him?”
 
-A pause. Then: "I'm saying I'd rather die of my wound than risk his temple."
+A pause. “I’m saying I’d rather die of my wound than risk his temple.”
 
-Wei kept walking. His pace did not change. His expression did not shift. But inside, something cold and sharp settled in his gut.
+I kept walking. My pace did not change. My face did not change. But something cold and sharp settled in my gut.
 
-He had heard whispers before—soldiers were superstitious, always looking for omens and curses—but this was different. This was specific. This was his name attached to a pattern he had seen himself but dismissed as impossible.
+I had heard whispers before—soldiers are superstitious, always reading omens—but this was different. Specific. My name attached to a pattern I had seen myself and dismissed as impossible. *Everyone he touches dies.*
 
-*Everyone he touches dies.*
+By evening I had heard three more versions of it. A woman who turned away when I offered to check her child’s cough. A soldier who asked for Huang instead when I approached. A half-heard line in a ration queue: *The long-haired lüshuai is cursed. Best to avoid him.*
 
-By evening, Wei had heard variations of it three more times. A civilian woman who turned away when he offered to check her child's cough. A soldier who asked for Old Huang instead when Wei approached his bedside. Another conversation, half-heard in a food distribution line: *"The long-haired lüshuai is cursed. Best to avoid him."*
+The reputation was spreading, and with it a horrible implication: if people believed I was cursed, they would avoid treatment, and avoiding treatment would kill them as surely as any curse. I went back to the temple and tried to work. But the whispers followed, and the list inside my tunic sat like a stone.
 
-The reputation was spreading. And with it, a horrifying implication: if people believed he was cursed, they would avoid treatment. And avoiding treatment would kill them just as surely as any curse.
+She came to me at dusk.
 
-Wei returned to the temple and tried to focus on work. But the whispers followed him, and the list in his tunic felt like a stone.
+I was washing tools in boiled water when I saw her in the entrance. The girl from the market—the one whose family I had sent to the village, the one who had watched her parents burn. Thinner now, skeletal, her arms like sticks, her belly distended with the wrong kind of fullness. Starvation. The siege had tightened these past six months; the rations had been cut and cut again. She had been living on scraps.
 
----
-
-She came to him at dusk.
-
-Wei was washing tools in a bucket of boiled water when he saw her standing in the temple entrance. The girl from the market—the one whose family he had sent to the village, the one who had watched her parents burn. She was thinner now, skeletal, her arms like sticks and her belly distended with the wrong kind of fullness. Starvation. The siege had tightened in the past six months. Food rations had been cut again and again. The girl had been surviving on scraps.
-
-Wei dried his hands and stood. "You're hungry."
+I dried my hands and stood. “You’re hungry.”
 
 She nodded. She did not speak. Her eyes were huge in her shrunken face.
 
-Wei went to his personal supply—a small bag of rice he had saved from his own rations—and scooped a handful into a bowl. He added water from the bucket, stirred it into a thin gruel, and handed it to her.
+I went to my own supply—a small bag of rice I had saved from my rations—and scooped a handful into a bowl, added water, stirred it into a thin gruel, and handed it to her. She ate without looking at me, hunched over the bowl, hands trembling, like an animal sure the food would be taken. When the bowl was empty she finally met my eyes.
 
-She ate without looking at him. Fast, hunched over the bowl, her hands trembling. Like an animal certain the food would be taken away. When the bowl was empty, she finally met his eyes.
+“You sent us away,” she said. “Everyone died.”
 
-"You sent us away," she said. "Everyone died."
+Not an accusation. A fact. Cause and effect.
 
-It was not an accusation. Just a fact. A statement of cause and effect.
+“I know,” I said.
 
-"I know," Wei said.
+“They said it was bad luck. That the demons found the village by chance. But everyone died. The whole village. Just like…” She stopped. “Just like everyone you save dies.”
 
-"They said it was bad luck. That the demons found the village by chance. But everyone died. The whole village. Just like..." She stopped, swallowed. "Just like everyone you save dies."
+My chest tightened. “Who told you that?”
 
-Wei's chest tightened. "Who told you that?"
+“Everyone. They say if you touch them, they die later. That you’re cursed. That the Heavenly Father has turned His face from you.”
 
-"Everyone. People say if you touch them, they die later. That you're cursed. That the Heavenly Father has turned His face from you."
+I knelt to her level. Checked her pulse—weak, thready—and her eyes and gums. Severe malnutrition. Likely parasites. She would die within a month without consistent food.
 
-Wei knelt so he was at her level. He checked her pulse—weak, thready—and examined her eyes and gums. Severe malnutrition. Likely parasites. She would die within a month if she did not get consistent food.
+“I’m not cursed,” I said, though I was no longer sure I believed it.
 
-"I'm not cursed," Wei said, though he was no longer sure he believed it.
+She said nothing. She had stopped listening, looking past me at the empty Buddha alcove, her face blank. I gave her another half-bowl, told her to come back every evening, and watched her go—a thin shape disappearing into the dusk.
 
-The girl said nothing. She had stopped listening. She was looking past him at the empty Buddha alcove, her expression blank.
+Then I sat alone and took out the list. Fifteen names. Twelve dead. Three survived or vanished. I thought of the girl’s parents, who I had not written down but who belonged there anyway. *Everyone he touches dies.*
 
-Wei gave her another half-bowl of rice gruel. Told her to come back every evening for more. Watched her leave, a skeletal wraith disappearing into the dusk.
+The pattern was real. I could feel the shape of it now even if I could not understand the mechanism. Something was wrong—beyond war’s ordinary chaos, something working at my patients in particular. My hands clenched on their own. Twelve of fifteen dead, the pattern certain, the cause nowhere. *Why?* The question demanded an answer that did not exist. My shoulder seized—a sharp ache in muscle that had never been wounded—and fury rose in my chest at the absence of explanation. Evidence without mechanism. Pattern without cause. My jaw locked against words I could not say: *I don’t know why this is happening.* The fury passed as fast as it came, leaving a residue of frustration with no target. I unclenched my hands. The answer would not come through anger.
 
-Then he sat alone in the temple and pulled out the list.
-
-He stared at the fifteen names. Twelve dead. Three survived or vanished. He thought of the girl's parents, who he had not written down but who belonged on the list anyway. Thought of the whispers: *Everyone he touches dies.*
-
-The pattern was real. He could feel it now, could see the shape of it even if he could not understand the mechanism. Something was wrong. Something beyond war's normal chaos. Something targeting his patients specifically.
-
-Wei's hands clenched involuntarily. Twelve of fifteen dead—the pattern certain, the cause unknown. Why? The question demanded an answer that did not exist. His shoulder seized suddenly, a sharp ache in muscle that had never been wounded, and fury rose in his chest at the absence of explanation. Evidence without mechanism. Pattern without cause. His jaw tightened against words he could not speak: *I don't know why this is happening.* The fury passed as quickly as it came, leaving only a residue of frustration that had no target. Wei unclenched his hands. The answer would not come through anger.
-
-Wei took the list outside and burned it.
-
-He watched the charcoal names smudge and curl as the paper caught fire. Watched the smoke rise into the evening air, carrying the evidence away. The list was gone, but the pattern remained. The knowledge remained. And the count—the terrible, inexorable count—remained most of all.
+I took the list outside and burned it. Watched the charcoal names smudge and curl, watched the smoke carry the evidence off. The list was gone. The pattern remained. The knowledge remained. And the count—the terrible, inexorable count—remained most of all.
 
 *One hundred thirty-three saved. One hundred twenty-eight lost.*
 
-Five. He had five left before the ledger inverted, before he had killed more than he had saved. Five lives separating him from a truth he could not accept.
+Five. Five left before the ledger inverted, before I had killed more than I had saved. Five lives between me and a truth I could not accept.
 
-Wei let the paper burn to ash. Ground the ash under his heel. Went back inside to prepare for tomorrow's wounded.
-
-Behind him, the city settled into its nightly rhythm: guards on the walls, families in their quarters, the siege grinding forward one day at a time. Somewhere in the darkness, the girl walked alone through empty streets, carrying the half-bowl of rice like a fragile treasure. And in the temple, Wei knelt before the empty alcove and tried once more to pray.
-
-No words came. Only numbers.
+I ground the ash under my heel and went back inside to prepare for tomorrow’s wounded. Behind me the city settled into its nightly rhythm—guards on the walls, families in their quarters, the siege grinding forward one day at a time. Somewhere in the dark the girl walked alone, carrying the half-bowl of rice like a fragile treasure. And in the temple I knelt before the empty alcove and tried once more to pray. No words came. Only numbers.
 
 *One hundred thirty-three saved. One hundred twenty-eight lost.*
 
-The pattern was visible now. The whispers were spreading. And Wei had no explanation except the one he refused to speak aloud:
+The pattern was visible now. The whispers were spreading. And I had no explanation except the one I refused to speak aloud: perhaps they were right. Perhaps I was cursed.
 
-Perhaps they were right. Perhaps he was cursed.
+I sat with the possibility. Did not flee it into denial or comfortable explanation. Did not manufacture certainty where there was none. It might be coincidence stretched by grief. Might be a curse, if such things were real. Might be something I lacked the categories to comprehend. I could face the uncertainty squarely without pretending the evidence said what it did not. Some truths cannot be escaped by refusing to look at them.
 
-Wei sat with this possibility. Did not flee from it into denial or comfortable explanation. Did not manufacture certainty where none existed. The pattern might be coincidence stretched by grief. Might be curse, if such things were real. Might be something he lacked the categories to comprehend. He could face the uncertainty squarely, without pretending the evidence said what it did not say. Some truths could not be escaped by refusing to look at them.
+And if I was cursed—what did that mean for everyone still breathing who had passed through my hands? The question had no answer. I put out the lamp and lay down in the dark. Tomorrow would bring more wounded. The count would continue. The gap would close further still.
 
-And if he was cursed, what did that mean for everyone still breathing who had passed through his hands?
-
-The question had no answer. Wei rose, extinguished the lamp, and lay down on his mat in the darkness. Tomorrow would bring more wounded. The count would continue. And the gap—that terrible, narrowing gap—would close further still.
-
-He did not sleep that night. He only counted.
-
----
-
-**Word count: 1,982**
+I did not sleep. I only counted.

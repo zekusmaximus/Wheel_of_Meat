@@ -1,99 +1,41 @@
-The application form sat in front of her. Two pages, institutional formatting, boxes for credentials and references and the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours included. Campus presence justified. Access granted.
+The application was two pages of institutional formatting—boxes for credentials and references, the careful documentation of competence. Student Mental Health Services, University of Manchester. Clinical hours. Campus presence justified. Access granted.
 
-She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. Her hand on the pen / his hand on bandages. Name, qualifications, experience. The psychiatric training real, the clinical skills genuine, the references accurate. Everything she listed was true. That the purpose behind the truth was something else—that she was positioning rather than pursuing career, that the job was access rather than calling—did not change the facts on the page.
+She filled it out with the same precision Wei had brought to triage: methodical, economical, no wasted motion. *Her hand on the pen / his hand on bandages. Boxes for credentials / boxes for supplies remaining.* The echoes bled through without her willing them. The psychiatric training was real, the clinical skill genuine, the references accurate—everything on the page was true. That the purpose behind the truth was something else, that the job was access rather than calling, did not change the facts.
 
-Forms for employment / forms for ration distribution. Boxes for credentials / boxes for supplies remaining. The echoes bled through without her willing them.
+Forms had their own species of violence. Slower than artillery, quieter than massacre, but violence in how they reduced people to boxes and made existence conditional on institutional approval. She recognized it the way she recognized everything now. Except herself.
 
-Forms had their own species of violence. Slower than artillery. Quieter than massacre. But violence nonetheless in how they reduced people to boxes and checkmarks, how they demanded documentation of worth, how they made existence conditional on institutional approval. The violence of calm—institutional machinery grinding through applications the way siege machinery ground through walls.
+The waiting room held its own silence—not her flat’s chosen emptiness, not Tianjing’s pre-massacre quiet, but silence of the same family. Three other candidates sat with her, and she read their attachments without trying: the young woman who needed the post for a visa, worry showing in bitten nails; the older man whose last position had ended badly, sitting too straight; the one closest to her apparent age, carrying ambition like weight. She carried nothing. Or everything. But the carrying looked like equanimity, like calm from a practice so deep it no longer took effort.
 
-She recognized this the way she recognized everything now. Except herself.
+Her name was called. A small room, a window over campus, two on the panel. Standard questions.
 
-The waiting room where she sat for the interview held its own silence. Different from her flat's chosen emptiness, different from Tianjing's pre-massacre quiet, but silence of the same family. Institutional waiting / siege waiting. The violence of calm pressed into chairs and bland walls and the clock ticking toward the appointed time. The temple had been quiet like this, before the Qing soldiers entered. Quiet with waiting. Quiet with the knowledge of what was coming.
+“How do you handle student crisis?”
 
-Three other candidates sat with her. She perceived their attachments without trying: the young woman needing this job for visa sponsorship, worry manifesting as bitten fingernails and rehearsed answers running behind her eyes. The older man whose last position had ended badly, desperation showing in the way he sat too straight, too ready. The middle candidate—closest to Lilith's apparent age—who wanted career advancement, who saw this as stepping stone, who carried ambition like weight.
+Tianjing bled through before she could stop it—Wei’s hands on the dying, his level voice in the massacre. “I stay present with the suffering,” she said. The words true even if the context was wider than they knew. “Crisis needs someone who can witness without being destabilized by what they’re witnessing. I provide that.”
 
-Lilith carried nothing. Or carried everything. But the carrying looked like equanimity, like the kind of calm that came from practice so deep it no longer required effort.
+“What about students who seem beyond help? The ones who’ve already made choices with serious consequences?”
 
-She sat in the waiting room and the waiting was not different from sitting.
+“You help anyway,” she said—and the words came through her before she could weigh them, Wei’s words, not hers. She didn’t notice. The panel wrote notes and did not see the irony: that she described crisis response while engineering a crisis of her own, that her calm amid a student breakdown would mirror his calm amid a siege.
 
-Smoke smell phantom in her awareness. Artillery memory distant. Tianjing fully receded but present as echo, as body-knowledge, as the understanding that she'd just spent days tracking two years of siege and the transition back to Manchester's violence of calm required no adjustment because both were meat failing under pressure, just at different speeds.
+They offered her the job—not at once; the bureaucracy ground through references and approvals, two weeks of waiting, then the email, the contract, the key card, the access. She moved through each step as practice: present but not grasping, compliant but not attached, the way water moves through stone—patient, persistent, reshaping the obstacle through time rather than force.
 
-Her name was called.
+The flat she secured was wrong—too much light, too far from main campus, the rent higher than necessary. She registered the wrongness like weather, a fact requiring acknowledgment but not emotion. What mattered was the short drive to where he worked. The positioning.
 
-The interview room: small, window overlooking campus, two people on the hiring panel. Professional introductions. Questions following standard format. She answered with clinical precision, with the competence that had always sustained her, with the understanding of student mental health work that came from genuine training and genuine capacity.
+She would be good at this work. Was already good at it—saw people’s attachments, helped them find their patterns, offered the presence that let them see what they could not see alone. The tragedy was that the insight did not extend inward. She could see their grasping and not her own. Could guide them toward a release she could not perform. Could offer presence amid their crises while preparing to create one that exceeded any framework she’d been trained to address.
 
-"How do you handle student crisis?"
+The irony was invisible to her—the way the parallel with Wei had been invisible, the way the compulsion was invisible. Everything she needed to see sat in the blind spot her competence protected.
 
-The question arrived and Tianjing bled through before she could prevent it—Wei's hands on dying soldiers, his calm voice in massacre, the functional competence that persisted even when outcome was predetermined. Interview questions about crisis management / triage decisions under siege conditions.
+She walked campus between orientation sessions. Autumn term in progress, students moving between Victorian brick and modern glass, the weight of history pressing against the lightness of contemporary function. Somewhere in it, he taught classes and held office hours, separated from her by buildings and schedules and the fact that he did not know she was looking. Not yet. But soon—days, perhaps a week. The positioning was complete. The access granted. The stage set for an acquaintance that would look like chance.
 
-"I stay present with the suffering," she said. Professional language. Appropriate phrasing. The words true even if the context was wider than they knew. "Crisis requires someone who can witness without being destabilized by what they're witnessing. I provide that presence."
+She still had work to do first: track Jack Malone, assess how close he stood, know what she was approaching before the approach began. But the proximity was real now. Physical. Actual.
 
-The panel nodded. Wrote notes. Another question: "What about students who seem beyond help? The ones who've already made choices that have serious consequences?"
+She reached her car, unlocked it, sat with the engine off and the late-October cold seeping through the glass. And beneath the strategy, beneath the calculation, beneath the urgency of the race—something else. Something that felt like rest. Like coming home to a place she had never been.
 
-"You help anyway," she said.
+She did not name it. She called it proximity. Called it positioning. Called it necessary.
 
-The words came through her before she could consider them. Wei's words. Not hers. *The trying is never nothing. It doesn't matter if it works.*
-
-She didn't notice. The panel approved. Did not see the irony: that she was describing crisis response while engineering a crisis of her own, that her calm amid student breakdown would mirror Wei's calm amid siege breakdown, that the violence she'd help them manage was gentle compared to the violence she was preparing to deploy.
-
-"Tell me about your approach to boundaries with clients."
-
-Another question. Another answer that was true and also not-complete: she understood boundaries, maintained them professionally, knew where therapeutic relationship ended and personal began. Did not mention that the boundary she would cross—was already crossing, had been crossing since the first moment she tracked this pattern—was larger than any therapeutic ethics framework could contain.
-
-They offered her the job.
-
-Not immediately. The bureaucracy required time: references checked, credentials verified, the institutional machinery grinding through approval processes. Two weeks of waiting. Then the email. Then the contract. Then the orientation and the key card and the access that placed her on campus with legitimate reason to exist in spaces where philosophy professors might be found.
-
-She moved through it with entire-being-as-practice. Each step complete. Each form signed with attention. Each requirement met without disturbance, the way she'd sat in that first waiting room—present but not grasping, compliant but not attached, moving through institutional violence the way water moves through stone: patient, persistent, reshaping obstacles through time rather than force.
-
-The flat she secured was wrong—too much light, too far from main campus, the rent higher than necessary. She registered this without disturbance. Like weather. Like facts that required acknowledgment but not emotion. The wrongness didn't matter. What mattered was the short drive to wherever he worked, the proximity, the positioning complete.
-
-Her first day: orientation in a conference room, other new staff, the presentation about student mental health trends and crisis protocols and the support resources available. She listened. Absorbed. Recognized patterns in what they described—attachment presenting as anxiety, isolation presenting as depression, the grasping that made young people suffer presented in clinical language that made it manageable, containable, something that could be addressed through therapeutic intervention.
-
-She would be good at this work. Was already good at it. Saw people's attachments, helped them find their patterns, offered presence that allowed them to see what they could not see alone.
-
-The tragedy was that her clinical insight did not extend to herself.
-
-Could see their grasping. Could not see her own.
-
-Could guide them toward release. Could not release the one thing she needed to release.
-
-Could offer presence amid their crisis while preparing to create crisis that would exceed any framework she'd been trained to address.
-
-The irony was invisible to her. Like the parallel with Wei had been invisible. Like the compulsion was invisible. Like everything she needed to see remained in the blind spot her competence protected.
-
-She walked through campus in the spaces between orientation sessions. Autumn term in progress. Students moving between buildings. The university's architecture old and new together—Victorian brick and modern glass, tradition and renovation, the weight of history pressing against the lightness of contemporary function.
-
-Somewhere in this landscape, he existed. Taught classes. Held office hours. Moved through the same geography she was learning, separated by buildings and schedules and the fact that he did not know she was looking for him.
-
-Not yet.
-
-But soon. The positioning was complete. The access granted. The stage set for acquaintance that would look like chance, like professional overlap, like the natural intersection of two people existing in the same institutional space.
-
-She had work to do first. Had to track Jack Malone, had to assess spiritual proximity, had to know what she was approaching before the approach began. But the proximity was real now. Physical. Actual.
-
-The pull toward him intensified with nearness. With certainty. With the knowledge that soon—days, weeks, the timeline compressing—she would see the face that held the pattern, would make the acquaintance that would become relationship, would begin the intimacy strategy that was also something else, something the pull suggested but she refused to name.
-
-After all the violence—Tianjing's artillery and Manchester's institutions, Wei's death and her own sustained intervention, the nine historical attempts and the countless glimpses between—there was something almost peaceful in the positioning complete. In being close. In the work shifting from prevention across centuries to engagement in present tense.
-
-She stood on campus, autumn wind carrying leaves past her, and felt the pull like gravity, like water finding its level, like the specific recognition of destination approaching after long journey.
-
-Coming home to a place she'd never been.
-
-She did not name this feeling. Called it satisfaction. Called it positioning successful. Called it strategic necessity.
-
-But her body knew what her mind refused: proximity mattered beyond tactics, the pull exceeded competition, and walking toward him felt less like war and more like something she had no framework to understand.
+But her body knew what her mind refused. It was water seeking water. Ocean calling to ocean. The same vastness in two vessels, reaching toward reunion.
 
 Not examined.
 
+She started the car and drove toward the flat that was too bright and too far and too expensive, the wrongness not mattering, nothing mattering except the work, except the approach, except the certainty that soon—very soon—she would meet him.
+
 The work continued.
-
-Campus continued around her—students and staff and the violence of calm that made crisis manageable, that made suffering containable, that made everything look professional and clean when underneath the surface every person was grasping, every person was suffering, every person was caught in the wheel they could not see.
-
-Including her.
-
-Especially her.
-
-But she did not see it. Walked toward the parking lot where her car waited, walked toward the positioning complete, walked toward him with the certainty of water seeking sea.
-
-And the race continued, and the wheel turned, and the pattern she'd been living without seeing moved toward its resolution.

@@ -1,49 +1,33 @@
-They returned at dawn. Two of them.
+They came back at dawn. Two of them.
 
-Wei heard the commotion in the courtyard and rose from his mat, already reaching for his medical bag. By the time he reached the temple entrance, Old Huang had the survivors on the floor, their wounds reopened and bleeding fresh.
+I heard the commotion in the courtyard and rose from my mat, already reaching for the bag. By the time I reached the entrance Huang had the survivors on the floor, their wounds reopened and bleeding fresh.
 
-"Ambush," one of them gasped. Blood bubbled at the corner of his mouth—lung wound, possibly. "They knew we were coming. They were waiting."
+“Ambush,” one gasped. Blood bubbled at the corner of his mouth—lung, maybe. “They knew we were coming. They were waiting.”
 
-Wei knelt and began working. The man's shoulder wound had torn open completely, the careful stitching ripped apart. Wei packed it with cloth, applied pressure, knew it was futile. Too much blood loss. Too much damage. The man would be dead by midday.
+I knelt and worked. The shoulder wound had torn open completely, the careful stitching ripped apart. I packed it, applied pressure, knew it was futile. Too much blood lost. Too much damage. He would be dead by midday. The second man was conscious but silent, his face gray with shock, his leg wound already going to infection—the flesh hot and red, the smell wrong. I cleaned it, knowing I was only prolonging the inevitable.
 
-The second survivor was conscious but silent, his face gray with shock. His leg wound had opened and infection was already visible—the flesh hot and red, the smell wrong. Wei cleaned it, knowing he was only prolonging the inevitable.
+“Eighteen?” I asked.
 
-"Eighteen?" Wei asked.
+He nodded. “Dead. All of them. It was…” He stopped, swallowed. “Like they knew exactly where we’d be.”
 
-The conscious man nodded. "Dead. All of them. It was..." He stopped, swallowed. "Like they knew exactly where we'd be."
+I said nothing. Intelligence failures happened. Spies happened. Betrayal happened. This was war, and war was chaos. There was no pattern to see—only the endless grinding of men into meat.
 
-Wei said nothing. Intelligence failures happened. Spies happened. Betrayal happened. This was war, and war was chaos. There was no pattern to see, only the endless grinding of men into meat.
+The first man died an hour later. The second lasted until evening, then went to the infection that had been spreading before the raid.
 
-The first man died an hour later. The second lasted until evening, then succumbed to the infection that had already been spreading before the raid.
+I burned them that night and updated the count. *One hundred and three saved. Ninety-seven lost.*
 
-Wei burned their bodies that night and updated his count.
+The gap was six. Only six. The ledger was nearing equilibrium, and I felt the weight of it like stones piled on my chest. One hundred and three men saved in twelve years of war. Ninety-seven lost. The ratio had held so long—always more saved than lost, always tipping toward life. Now it teetered on the edge of inversion.
 
-*One hundred and three saved. Ninety-seven lost.*
+I sat as the pyre burned outside, the smoke rising into the autumn night. The empty Buddha alcove stared from the wall. I knelt before it out of habit, folded my hands, tried to pray. No words came.
 
-The gap was six. Only six. The ledger was approaching equilibrium, and Wei felt the weight of it like stones piled on his chest. He had saved one hundred and three men in twelve years of war. He had lost ninety-seven. The ratio had held for so long—always more saved than lost, always tipping toward life. Now it teetered on the edge of inversion.
+I thought of the eighteen I had sent out and could not save. Thought of Fang’s flat voice: *The Heavenly King requires it.* Thought of the preacher’s proclamation: *The demons’ bullets cannot touch the faithful.* The doctrine said one thing. The bodies said another.
 
-He sat in the temple as the pyre burned outside, the smoke rising into the autumn night. The empty Buddha alcove stared at him from the wall. Wei knelt before it out of habit, folded his hands, tried to pray.
+I could have let it become hatred—for the Qing who had set the ambush, for the Heavenly King whose doctrine had failed, for the God who had promised protection and delivered slaughter. I felt the possibility of it like heat near a fire, present and available. I let it move through me without taking hold. The hatred would not bring back the eighteen. The rage would not close the ledger in my favor. I registered the facts cleanly: the doctrine had promised, the protection had not come, and the work continued regardless. Clean observation. Not acceptance—endurance without poison.
 
-No words came.
+I stayed kneeling, not in prayer but in exhaustion, while outside the pyre fell into ash and embers. One hundred and three saved, ninety-seven lost, and the gap closing at a speed that felt like drowning. Behind me the temple was silent but for the breathing of the new wounded who had already arrived. Tomorrow there would be more. There were always more.
 
-He thought of the twenty men he had released to die. Thought of Fang's flat voice: *The Heavenly King requires it.* Thought of the preacher's proclamation: *The demons' bullets cannot touch the faithful.*
+I did not understand what was happening to the ones I treated. I knew only that I had obeyed, and men had died, and the Heavenly Father’s protection had been nowhere in it.
 
-The doctrine said one thing. The bodies said another.
+I stood, finally, and went back to the work. The ledger would not close itself. The wounded would not heal themselves. The doctrine, for all its certainty, offered nothing but words, while my hands were required to offer blood and bone and the pragmatic mercy of knowing when to stop trying.
 
-He could have let this become hatred—for the Qing who had ambushed them, for the Heavenly King whose doctrine had failed, for the God who had promised protection and delivered slaughter. Wei felt the possibility of bitterness like heat near a fire, present and available. He let it pass through him without taking hold. The hatred would not bring back the eighteen. The rage would not close the ledger in his favor. He registered the facts cleanly: the doctrine had promised, the protection had not come, and the work continued regardless. Clean observation. Not acceptance, but endurance without poison.
-
-Wei remained kneeling, not in prayer but in exhaustion, while outside the pyre collapsed into ash and embers. The count was one hundred three saved, ninety-seven lost, and the gap was closing with a speed that felt like drowning.
-
-Behind him, the temple was silent except for the breathing of the new wounded who had already arrived. Tomorrow there would be more. There were always more.
-
-Wei did not know that the intelligence leak had been no accident, that the raid's timing and route had been exposed by manipulation so subtle it looked like ordinary treachery. Did not know that eighteen deaths were being tallied in a ledger not his own, counted as successes in a war he could not see.
-
-He only knew that he had obeyed, and men had died, and the Heavenly Father's protection had been nowhere in evidence.
-
-He stood, finally, and returned to his work. The ledger would not close itself. The wounded would not heal themselves. And the doctrine, for all its certainty, offered nothing but words while Wei's hands were required to offer blood and bone and the pragmatic mercy of knowing when to stop trying.
-
-The night deepened. The pyre burned low. And in the temple, Wei counted his supplies and calculated how long they would last before the next impossible choice arrived.
-
----
-
-**Word count: 1,728**
+The night deepened. The pyre burned low. I counted my supplies and worked out how long they would last before the next impossible choice arrived.
