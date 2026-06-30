@@ -2,7 +2,7 @@ The intervention was not Sor Catalina. Sor Catalina was completed action, archiv
 
 Lilith reached.
 
-Her fingers tightened around the cold mug, and somewhere in sixteenth-century Toledo, Tomás de Mendoza woke gasping from a dream of his son's face. Rafael in a cell. Rafael broken. Rafael burning.
+Her fingers tightened around the cold mug, and somewhere in fifteenth-century Toledo, Tomás de Mendoza woke gasping from a dream of his son's face. Rafael in a cell. Rafael broken. Rafael burning.
 
 She did not create the dream. She found the fear that already lived in Tomás and pressed it closer to his sleeping mind, made the images sharper, made the smell of smoke more real. The Inquisition had arrested Rafael on genuine charges—debts, a brawl certainly, but the Holy Office was patient, and patience could mean anything, and Tomás was old enough to know how easily charges multiplied.
 

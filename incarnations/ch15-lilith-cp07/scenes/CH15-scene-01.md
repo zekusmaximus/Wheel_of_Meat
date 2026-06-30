@@ -18,12 +18,6 @@ Diego—the man whose thread she tracked. He had felt Sor Catalina's presence an
 
 The thought dissolved before completion. She was here, in her flat, in Manchester, in the present that was also the past that was also the present. The radiator clicked its inadequate warmth against walls that would not stop closing.
 
-She had walked to the university. Days ago, or was it weeks? Her body had known where to go when her mind refused to examine the destination. Philosophy faculty. Gothic verticals. The rain on stone.
-
-*He is there.*
-
-Present tense. The thought she kept filing and the filing kept failing.
-
 The walls pressed. Toledo walls, Manchester walls, the walls of her own construction that held the inadmissible separate from the admitted. She was tracking Diego de Lucena, converso physician, faith as performance, service as bargain. She was wearing Sor Catalina like a garment she had worn before, centuries before, and the garment still fit.
 
 The fit was the problem.
