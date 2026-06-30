@@ -2,7 +2,7 @@ Candlelight caught the wine in Marguerite's cup. Wrong temperature now, like the
 
 "The merchant saw Protestant riders," Jean said, and his voice carried the measured weight of a man presenting evidence for examination rather than conviction. "The farmer saw Catholic soldiers. The servant heard Protestant anger. Each testimony internally consistent. Each mutually exclusive."
 
-"And you expect me to resolve this for you?" Marguerite's amusement was genuine. Lilith pushed the timing, the emphasis, but the words belonged to the widow. "I am a printer, Monsieur. I reproduce arguments. I do not settle them."
+"And you expect me to resolve this for you?" The amusement was genuine. She chose the timing, the emphasis; the rest rose from the widow she wore. "I am a printer, Monsieur. I reproduce arguments. I do not settle them."
 
 "But you understand the problem."
 
@@ -20,11 +20,9 @@ Jean's fingers touched in sequence—not counting evidence anymore, Lilith recog
 
 *Perfect.* Lilith felt the progression building toward the endpoint she required: doubt total enough to prevent action, skepticism absolute enough to become paralysis dressed as principle. The arguments were working precisely as designed.
 
-In Manchester, her fingers rested near laptop keys. The university website remained open—faculty listings, course schedules, the institutional architecture of modern intellectual life. Backup. Contingency. If temporal distance proved the wrong variable, then perhaps spatial proximity—
+In Manchester, her fingers rested near the desk's edge, her awareness mostly four hundred years away. Historical method first. The approach was working. Jean was close to accepting that honest doubt meant honest inaction.
 
-She cut off the thought before it completed. Historical method first. The approach was working. Jean was close to accepting that honest doubt meant honest inaction.
-
-"If you cannot verify," Marguerite said—and the emphasis was Lilith's, the timing was Lilith's, though the conviction was purely Marguerite's own—"then you cannot conclude."
+"If you cannot verify," Marguerite said—and the emphasis was Lilith's, the timing was Lilith's, though the conviction was real, lived into the widow she wore—"then you cannot conclude."
 
 Jean touched his thumb to his index finger. The counting gesture that had become compulsion. Weighing the argument that would trap him.
 
