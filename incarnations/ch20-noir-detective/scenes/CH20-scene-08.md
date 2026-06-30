@@ -74,7 +74,7 @@ She was standing on the sidewalk at the end of the alley, near where it opened o
 
 The same woman. The one from the bar, from the street corner. The one who kept appearing and disappearing like a ghost.
 
-This time, I could see her face clearly. The sharp widow's peak. The single darker strand that fell across her forehead despite the rain. Her eyes, fixed on mine across fifty feet of wet pavement—and in one of them, the left one, something strange. A flicker of color that didn't belong. Green, maybe, a pale crescent of green in an iris that should have been brown.
+This time, I could see her face clearly. The sharp widow's peak. The single darker strand that fell from her left temple across her forehead despite the rain. Her eyes, fixed on mine across fifty feet of wet pavement—and in one of them, the left one, something strange. A flicker of color that didn't belong. Green, maybe, a pale crescent of green in an iris that should have been brown.
 
 She knew.
 
@@ -150,9 +150,7 @@ That was the lesson. The one I'd been learning since before I could remember. No
 
 The trying was not nothing.
 
-I felt something loosen in my chest. Not the broken ribs, not the collapsing lungs. Something else. A chain I'd been carrying so long I'd forgotten it was there. The need to be the one who fixed things, saved things, made the difference—a grip I'd held so tight my fingers had gone numb.
-
-The chain of identity. The belief that there was a "me" separate from the trying, a self that needed to be preserved and protected and proven right.
+I felt something loosen in my chest. Not the broken ribs, not the collapsing lungs. Something else. A chain I'd been carrying so long I'd forgotten it was there.
 
 It was loosening. Almost breaking. One more push, one more life, and it would snap.
 
@@ -189,35 +187,3 @@ I didn't save anyone. The Combination would survive. The corruption would contin
 But the trying was not nothing.
 
 I closed my eyes.
-
-The rain kept falling. The sirens arrived. The crowd pressed closer, and somewhere in the noise and chaos, Jack Malone, age thirty-eight, private detective, stopped breathing.
-
----
-
-The body lay on the wet pavement for a long time after that.
-
-The ambulance came and went—there was nothing to be done, the medics said, he was gone before they arrived. The police came too, taking photographs, making notes, treating it as what it obviously was: another car bombing in a city that had seen too many. The reporter from the Herald-Express showed up, asked a few questions, wrote a story that would run on page eight the next morning.
-
-The rain kept falling.
-
-And somewhere else—somewhere that had no name, no location, no existence in any geography the living could map—something stirred.
-
-A momentum that had been building for millennia. A pattern that had been waiting for completion. Lifetimes of failure that were also preparation. Fires that had refined instead of destroyed.
-
-And now, finally: the urge that would carry forward into the next life. The certainty that the trying mattered. The readiness to break the chains that remained.
-
-Someone has to give a damn.
-
-I will try again.
-
-The rain fell on the empty body. The city went on with its business. The corruption continued and the corrupt prospered and nothing changed.
-
-But somewhere, in a way that no one in Los Angeles would ever understand, everything had changed.
-
-The wheel turned.
-
-A new life began.
-
----
-
-**Word count: ~2,700**
