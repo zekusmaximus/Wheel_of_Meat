@@ -139,7 +139,3 @@ The body walked toward the edge of the village. The tree waited.
 And whatever was walking no longer knew itself as "we."
 
 ---
-
-**End of Movement II: The Recognition**
-
----

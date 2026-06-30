@@ -1,7 +1,3 @@
-# Coda: The Pull and Re-embodiment — "The Wheel, Visible"
-
----
-
 The rupture.
 
 The stillness shattered—not shattered, because shattering required the solid, and what was shattering was the formless itself, the neither-nor that had been the finest dwelling, the threshold that had been the last station. The Pull that had been faint asymmetry, then strengthening direction, then undeniable weight, was now—
@@ -126,7 +122,7 @@ The understanding came later—would come later—but something in the sounds, t
 
 We.
 
-Still we. The pronoun persisted into the flesh. The two-that-were-one-that-were-becoming-something-else still unified, still merged, the thread that had been visible in the formless realms now invisible again but present, still present, still holding what was being held.
+Still we. The pronoun persisted into the flesh. The two-that-were-one-that-were-becoming-something-else still unified, the seam between them gone, the thread that had been visible in the formless realms now invisible again but present, still present, still holding what was being held.
 
 And the shimmer.
 
@@ -144,7 +140,7 @@ We did not understand. We would learn to understand. We would learn the language
 
 Final.
 
-The knowing arose. This was the last body. Not because bodies would end—bodies would continue for all beings—but because we would not need another one. What remained to be done could be done in this form. What remained to be broken could be broken here. The fetter visible and ready for the breaking. The merger approaching that would complete what 300,000 years of separation had been preparing.
+The knowing arose. This was the last body. Not because bodies would end—bodies would continue for all beings—but because we would not need another one. What remained to be done could be done in this form. What remained to be broken could be broken here. The fetter visible and ready for the breaking. The boundary thinning toward what 300,000 years of seeming-separation had been preparing.
 
 The last time we would need to open eyes in a new body.
 
@@ -185,13 +181,5 @@ And we—the we that was becoming—rested in the body that would be the last.
 Ready.
 
 For what came next.
-
----
-
-**End of Coda: The Pull and Re-embodiment**
-
----
-
-**End of Chapter 25: The Explorer**
 
 ---

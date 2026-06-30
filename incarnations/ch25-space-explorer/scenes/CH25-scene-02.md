@@ -227,7 +227,3 @@ Something called.
 And the bliss, for all its bliss, could not quite drown out the calling.
 
 ---
-
-**End of Scene 02: Infinite Consciousness**
-
----

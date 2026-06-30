@@ -78,7 +78,7 @@ But the relationship to it shifted. The one perceiving it understood: this is a 
 
 The question surfaced again, clearer now. The answer was already present in the asking: the wheel still turned. The fetters still bound. The path continued through this realm because the realm itself could not be clung to, could not be made into the final answer, could not substitute for the dissolution that remained incomplete.
 
-The phantom sense of body—memory of weight, of solidity, of flesh—had been relief in its absence. But something in the absence called forward: *you will return.* The once-returner's trajectory implied exactly what the name suggested. One more time in form. One more life to complete what lifetimes had begun.
+The phantom sense of body—memory of weight, of solidity, of flesh—had been relief in its absence. But something in the absence called forward: *you will return.* The once-returner's trajectory implied exactly what the name suggested. Return, in form, for as long as the completing still required.
 
 The garden receded—or the awareness moved on—and the deva beings watched without reaction, their welcome neither withdrawn nor continued, simply present like the realm itself, available to any who chose to rest in it.
 
