@@ -14,7 +14,7 @@ Manchester receded to body-echo: grey light on closed eyelids, posture unchanged
 
 *This is it. He's going to accept. Submit nothing. The fortress will hold.*
 
-"Consider," Marguerite continued, and the emphasis was Lilith's though the conviction was pure widow: "If you include the letter, you may be perpetuating a forgery. If you exclude it, you may be suppressing evidence. If you conclude Catholic guilt, you may be condemning innocent men. If you conclude Protestant conspiracy, you may be serving propaganda."
+"Consider," Marguerite continued, and the emphasis was Lilith's though the conviction was real, lived into the widow she wore: "If you include the letter, you may be perpetuating a forgery. If you exclude it, you may be suppressing evidence. If you conclude Catholic guilt, you may be condemning innocent men. If you conclude Protestant conspiracy, you may be serving propaganda."
 
 "So I conclude nothing."
 

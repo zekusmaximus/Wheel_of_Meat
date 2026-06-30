@@ -10,13 +10,13 @@ Jean's hands closed around the document. Through Marguerite's eyes, Lilith watch
 
 The perfect trap.
 
-In Manchester, Lilith switched between browser tabs without examining why the university faculty page remained open. The rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence. Both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
+In Manchester, the rain had stopped—or had it? She could not say when. Jaw tight. Shoulders held with precision that matched Jean's finger-touching sequence. Both of them measuring, weighing, certain that systematic analysis would produce the conclusion they required.
 
 The letter established Protestant conspiracy. If genuine. If included in the report.
 
 The letter was masterful fabrication. If forged. If used as weapon.
 
-Jean could not determine which it was. That was the point. The genuine ambiguity of a genuine document, amplified by timing until it became paralysis.
+Jean could not determine which it was. That was the point. The genuine ambiguity of a genuine document, sharpened by her timing until it became paralysis.
 
 "May I take this?" Jean asked, and his voice had lost the measured confidence Lilith associated with professional investigators. He sounded like a man realizing his tools did not reach the truth they were meant to grasp.
 

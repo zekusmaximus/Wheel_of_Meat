@@ -26,7 +26,7 @@ Jean de Langon had reached for it while still breathing. Still choosing. Still c
 
 *The veil is thinning for him.*
 
-Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, chest tight in a way she would not name. The laptop glowed with a university page she had not meant to keep open.
+Manchester returned in a crash of sensation: her hands gripping the chair arms until her knuckles whitened, jaw clenched until teeth ached, chest tight in a way she would not name.
 
 *He's approaching threshold. The accumulated lives are bleeding through.*
 

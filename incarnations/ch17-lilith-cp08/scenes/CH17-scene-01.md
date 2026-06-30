@@ -1,12 +1,10 @@
 One more method, and the fortress would fall.
 
-Her tea had gone cold three hours ago. Lilith did not pour a fresh cup. She would pour a fresh cup, eventually, but only when the tracking cycle demanded she anchor herself in Manchester's physical present long enough to feel her own fingers against ceramic. Fut for now however, the cold was appropriate. The cold matched the calculation. The cold matched the precision she was about to deploy.
-
-On the laptop screen, the University of Manchester philosophy department homepage glowed in her peripheral vision. She had not clicked through to the faculty pages. Not yet. That was backup, contingency, the strategic preparation one maintained while historical methods still offered promise.
+Her tea had gone cold three hours ago. Lilith did not pour a fresh cup. She would pour a fresh cup, eventually, but only when the tracking cycle demanded she anchor herself in Manchester's physical present long enough to feel her own fingers against ceramic. But for now, the cold was appropriate. The cold matched the calculation. The cold matched the precision she was about to deploy.
 
 The question was doubt in two registers.
 
-In Renaissance France, a man touched his thumb to his index finge in a counting gesture, a weighing gesture, the pattern she recognized from Diego's physician hands and Verinus's investigating patience. Jean de Langon examined witness testimony that could not be reconciled, and his doubt was professional, earned, the intellectual armor of a man who had survived by refusing to commit.
+In Renaissance France, a man touched his thumb to his index finger in a counting gesture, a weighing gesture, the pattern she recognized from Diego's physician hands and Verinus's investigating patience. Jean de Langon examined witness testimony that could not be reconciled, and his doubt was professional, earned, the intellectual armor of a man who had survived by refusing to commit.
 
 In Manchester, Lilith examined the backfire that had been Sor Catalina. Emotional manipulation. Personal betrayal. Diego de Lucena watching his friend Tomás embrace hatred, and instead of hardening he had released the hatred. Let it go. Learned the lesson she had tried to prevent him learning.
 
@@ -26,13 +24,13 @@ And—
 
 Her hands registered warmth they shouldn't. Manchester crept in: her fingers against cold ceramic, her jaw tightening.
 
-He doubted without bitterness. Questioned without resentment. The capacity to endure uncertainty without hatred.
+He doubted without bitterness. Questioned without resentment. The capacity to stay present in uncertainty without demanding it resolve.
 
 Diego's patience.
 
 But she had broken Diego. Had watched him experience specific, personal hatred toward the man who betrayed him. Had seen accumulated progress shatter under her intervention, watched the flames climb his legs while his face twisted with the ill-will she had cultivated.
 
-Except the lesson had formed anyway. Through endurance of destruction, not triumph. Patience crystallizing in the crucible of total loss.
+Except the lesson had formed anyway. Through presence held inside the destruction, not triumph. Patience crystallizing as the demand for justice was finally set down, even in total loss.
 
 Her "success" had been no success at all.
 
@@ -54,7 +52,7 @@ Not emotional manipulation—that had failed with Sor Catalina's zealotry, had b
 
 So precision would be the weapon.
 
-The philosophy department page still glowed. Lilith did not glance at it. The laptop was simply there waiting, the way the letter in Marguerite's archives was waiting, the way the widow's measured skepticism was waiting, the way all the instruments of intellectual seduction were waiting for her to deploy them.
+The letter in Marguerite's archives was waiting. The widow's measured skepticism was waiting. All the instruments of intellectual seduction were waiting for her to deploy them.
 
 One more method. Intellectual approach for intellectual fortress.
 
