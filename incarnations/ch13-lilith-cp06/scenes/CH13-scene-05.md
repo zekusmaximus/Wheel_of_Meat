@@ -18,21 +18,17 @@ Her hands were still warm. The flat still arranged. Through the window, Manchest
 
 *What if I focused on my own liberation?*
 
-The thought returned. Louder now. She was so close. One knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him, if every intervention only accelerated what she intended to slow—
+The thought returned—not as a question this time, but as the settled thing it had become on the walk. She was so close. One knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him, if every intervention only accelerated what she intended to slow—
 
 *Racing rather than blocking. Finishing first.*
 
-The thought had shape now. It had weight.
+The thought had shape now. It had weight. It did not ask permission, and she did not refuse it. Strategy required refinement, nothing more: she had been too indirect, too careful, and the precision had been insufficient. Precision could be learned.
 
-*No.*
+But beneath the filing, something else stirred. The warmth. The walk. The memory of standing in the rain with no destination, feeling something that exceeded strategy.
 
-The thought filed itself. Strategy required refinement. She had been too indirect. Too careful. The precision had been insufficient.
+She had walked out toward something she would not name. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
 
-But beneath the filing, something else stirred. The warmth. The walk. The memory of standing in rain outside philosophy faculty, feeling something that exceeded strategy.
-
-She had walked to where he would be. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
-
-The thread hummed forward. Toward Spain rather than the branch complete. Kaoru dissolved into the pattern that continued. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
+The thread hummed forward. Toward Spain rather than the branch complete. Kaoru dissolved into the pattern that continued. The Inquisition. A converso physician named Diego de Lucena—healing under suspicion, patience worn as survival, a presence that asked nothing of the hour it was made to endure.
 
 Different cage. Different beauty. Different attachment requiring different intervention.
 
@@ -46,7 +42,7 @@ But she could feel them now—feel the walls as walls, feel the construction tha
 
 For the first time, she wondered if the folders were large enough.
 
-The thread hummed. Diego de la Cruz waited in sixteenth-century Toledo. Faith waited. Persecution waited. Another consciousness she would try to break, another lesson she would accidentally teach.
+The thread hummed. Diego de Lucena waited in fifteenth-century Toledo. Patience waited. Persecution waited. Another consciousness she would try to break, another lesson she would accidentally teach.
 
 She followed.
 

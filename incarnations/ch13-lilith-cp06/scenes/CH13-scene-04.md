@@ -28,7 +28,7 @@ He had seen her. The vessel, yes, but also *her* beneath.
 
 And then he had left. Entrapped, bound—neither. Released.
 
-*To endure what is real*, his death-poem would say. *That is enough. That is everything.*
+What he had carried out of the ruined house was almost nothing, and it would be enough: the willingness to stay with what was real and ask it to be no more than it was.
 
 Lilith's hands were warmer than they should be. She had given him exactly what he wanted. Eternal beauty, frozen form. Yet he had learned from the gift what she had never intended: that possession was possession, never experience. That beauty required dying to be beautiful.
 
