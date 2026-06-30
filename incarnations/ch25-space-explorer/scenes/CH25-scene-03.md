@@ -248,17 +248,21 @@ Restlessness. The agitation. The something-should-be-happening.
 
 Ignorance. The not-seeing of what was being seen.
 
-Five.
+Five—but not five evenly shared.
+
+Four of them were his: the wanting of form, the wanting of formlessness, the restlessness, the not-seeing. The ladder he still had to climb. The rungs she had passed lifetimes ago and could not climb for him.
+
+Hers was shorter. Hers had one rung left.
+
+The single knot where his climbing and her stillness turned out to be one knot tied from two sides.
 
 Remaining.
 
 Even here. Even in the nothing. Even after the stripping had stripped everything that could be stripped except—
 
-Except these.
+Except his four, still waiting for a realm that was not this one.
 
-Except the I that held them.
-
-Except the competition that needed to be first to release them.
+Except the one that was hers. The I that held the rest. The competition that needed to be first to release it.
 
 ---
 
@@ -437,9 +441,5 @@ The word that meant the fetter visible, acknowledged, almost broken.
 The word that meant the next realm approaching.
 
 Almost.
-
----
-
-**End of Scene 03: Nothingness**
 
 ---

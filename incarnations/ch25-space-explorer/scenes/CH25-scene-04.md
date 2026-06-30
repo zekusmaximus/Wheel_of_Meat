@@ -24,7 +24,7 @@ and we saw, or what remained of seeing saw, that the desire for this state, the 
 
 and the breaking, not as event, not as happening, but as recognition, as the recognition that there was nothing to break because breaking was clinging and clinging was what was being released, and the releasing that was not releasing because releasing was doing and doing was—
 
-and the attainment, and what might have been called attainment if attainment did not imply attainer, and the non-returning, and the state of one who would not return to the gross because the gross had been seen through, because the attachment to pleasure had been seen as attachment, because the aversion to dissolution had been seen as aversion, and the seeing was the breaking, and the breaking was complete for these two, complete for the sensual and the ill-willed, and what remained was only the five that remained, only the subtle that persisted, only the—
+and the attainment, and what might have been called attainment if attainment did not imply attainer, and the non-returning, and the state of one who would not return to the gross because the gross had been seen through, because the attachment to pleasure had been seen as attachment, because the aversion to dissolution had been seen as aversion, and the seeing was the breaking, and the breaking was complete—for him, complete for the sensual and the ill-willed, the two she had let fall lifetimes before he was ever hers to track—and what remained was only the five that remained for him, only the subtle that persisted, only the—
 
 and still, still the shimmer, still the one strand, still the I that would not fully dissolve into the we, still the need to be first, still the competition that persisted even here, even in the threshold, even in the neither-nor, and the shimmer was visible, was acknowledged, was seen without being broken, was recognized without being released, because that was not this realm's work, that was not this threshold's function, that remained for, remained for what came—
 
@@ -77,9 +77,5 @@ Something that waited.
 Something that had been waiting for what we were becoming.
 
 Something that was about to—
-
----
-
-**End of Scene 04: Neither-Perception-Nor-Non-Perception**
 
 ---

@@ -48,19 +48,19 @@ Through the link that still connected them—and would connect them until the ne
 
 Her final fetter.
 
-She could see it now, completely. The grasping at completion that was itself the obstacle to completion. The need to be first, to be the one, to matter in the way that mattering required priority and position and the vanquishing of competition. She had carried it across 300,000 years of watching him, tracking him, intervening in ways that always backfired. And here, in the failing body, with the ending approaching and no race left to run—
+She could feel it now—not see it whole, but feel its outline for the first time, where for lifetimes there had been only the looking-through. The grasping at completion that was itself the obstacle to completion. The need to be first, to be the one, to matter in the way that mattering required priority and position and the vanquishing of competition. She had carried it across 300,000 years of watching him, tracking him, intervening in ways that always backfired. And here, in the failing body, with the ending approaching and no race left to run—
 
-*It was absurd.*
+*Something here. Something I have never let myself look at.*
 
-The seeing arrived without announcement—the clarity that had eluded her across nine successful dissolutions, hidden because she had been looking through it rather than at it.
+Not the whole of it. Not yet. Only the edge of a shape surfacing the way a stone surfaces in a draining pool—still half under, still mostly hidden, because she had spent so long looking through it that looking at it took more than this body had left to give.
 
-*The need to be first.* She let the words form fully for the first time. *To be the one who achieves it. To matter in the way that mattering required priority. To complete before him so the completion would be mine.*
+*The need to be first.* She let the words begin to form. *To be the one who achieves it. To matter in the way that mattering required priority. To complete before him so the completion would be mine.*
 
 The fetter had worn a thousand faces across her incarnations: the tracker who stayed ahead of her quarry, the intervener who controlled the timing of his progress, the competitor who measured herself against his position on the path. All of it the same grasping. All of it the invisible lens she couldn't examine because examination required stepping outside what held her.
 
 The communication passed through the link, and she felt his recognition of what she had seen.
 
-*We were never racing,* she continued. *There was never a finish line. The one I thought I was competing against—*
+*Were we ever racing?* she said, and the question itself was new—she had never been able to ask it before. *Was there ever a finish line? The one I thought I was competing against—*
 
 *—was never separate from the one competing.*
 
@@ -76,7 +76,7 @@ The materials that had housed consciousness across 300,000 years of practice: al
 
 The wheel turned. The meat was still meat, whatever its composition.
 
-Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Incomplete dissolution. The breaking was gentler than the first nine had required. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
+Something loosened in her—the fetter's grip easing, for a moment, after lifetimes of holding. Not dissolution. Not even the beginning of it. Only the first time the grip had registered as grip rather than as the shape of the world. It tightened again almost at once. But it had been felt—for an instant something she stood outside of rather than something she looked through.
 
 *I wanted to be first,* she communicated.
 
