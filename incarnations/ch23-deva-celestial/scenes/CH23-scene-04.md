@@ -68,7 +68,7 @@ Toward return.
 
 *Once-returner.*
 
-The name implied exactly what it said. One more time in form. One more life to complete what lifetimes had begun. The deva realm was passage; the path continued through it toward what came next.
+The name implied exactly what it said. Return, in form, for as long as the completing still required. The deva realm was passage; the path continued through it toward what came next.
 
 And ahead—glimpsed rather than seen—lay the quality of futures, of time, of the world he'd left when Manchester's morning opened into this.
 

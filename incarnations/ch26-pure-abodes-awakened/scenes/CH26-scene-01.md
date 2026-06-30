@@ -56,7 +56,7 @@ The shimmer. Still there. Faint now, almost invisible in the overwhelming busine
 
 The knowing rose: this was the last body. The wheel still turned, would always turn, beings incarnating and dying and incarnating again in the endless motion that the teaching would illuminate but never stop. But we would not need another body. What remained to be done could be done here. What remained to be broken could break.
 
-The final incarnation. The prophecy was just story, just the wheel's way of imagining its own completion. But the conditions had finally aligned: the world healed enough to receive, the beings ready enough to hear, the fetters thin enough to see through.
+The final incarnation. Nothing had been promised in advance—the completion was only the wheel's way of imagining its own end. But the conditions had finally aligned: the world healed enough to receive, the beings ready enough to hear, the fetters thin enough to see through.
 
 ---
 
@@ -99,9 +99,5 @@ Both. Both would be seen. Both would dissolve. Together. Simultaneously. The mut
 Sleep came. And with it: morning.
 
 The last morning that would matter.
-
----
-
-**End of Movement I: Arrival**
 
 ---

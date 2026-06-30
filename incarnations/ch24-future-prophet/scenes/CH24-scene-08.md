@@ -38,7 +38,7 @@ Here, in warmth that had been calibrated to optimal parameters, two consciousnes
 
 *What remains is what was always here. What we're becoming is what we always were.*
 
-The word that meant loving-kindness arrived without arriving, present without presence, the quality that would characterize what they were becoming: care without object, connection without requiring anything to connect. The name of the one who was coming—who had been coming since before time included them—hovered at the edge of what remained of distinction.
+The quality that would characterize what they were becoming arrived without arriving, present without presence: care without object, connection without requiring anything to connect.
 
 The yearning formed in what was no longer separable into his yearning or hers:
 
@@ -47,8 +47,6 @@ The yearning formed in what was no longer separable into his yearning or hers:
 *Stranger flesh. Alien substrate. Whatever the preparation requires.*
 
 *The wheel's final revolution—or the stepping off that reveals the revolution was always stillness.*
-
-*The one whose name means what remains when competition dissolves.*
 
 *Soon.*
 
@@ -92,10 +90,6 @@ The pattern completing its revelation of itself.
 
 The wheel still turning—but toward what? Not more incarnation. Not more practice. Something waited beyond the practice, beyond the strange flesh and alien substrates that might still be necessary, beyond everything that 300,000 years of learning had been preparing for.
 
-The one who was coming.
-
-The name that meant what remained when competition dissolved.
-
 *Soon.*
 
 The word—if it was a word—rose from what was no longer distinguishable as two consciousnesses, two perspectives, two threads of a pattern that had been weaving itself toward this recognition since before weaving was possible.
@@ -109,9 +103,5 @@ And somewhere—or everywhere—or in the direction that wasn't direction—what
 Not many lives now. Perhaps one more. Perhaps none.
 
 The wheel turned. And what turned on it was almost ready to step off.
-
----
-
-**End of Chapter 24: The Prophet**
 
 ---

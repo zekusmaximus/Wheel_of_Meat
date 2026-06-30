@@ -80,7 +80,7 @@ Her face had changed—not the physical features, which remained as constant as 
 
 *And it wasn't competition.* The admission cost her something. He could perceive the cost through the residue of the link. *It wasn't racing or priority or getting there first. It was just... presence. Yours. Mine. Both. Neither.*
 
-The word that meant loving-kindness hovered at the edge of the communication, never arriving as word but present as quality. The actual synthesis that The Eternal Synthesis could only simulate. Two threads of a pattern recognizing their connection to the weave.
+The quality hovered at the edge of the communication, never arriving as word but present as itself—the connection that The Eternal Synthesis could only simulate. Two threads of a pattern recognizing their connection to the weave.
 
 *We're both heretics now,* she communicated. *Both seeing the hollow. Both flagged for atypical patterns.*
 

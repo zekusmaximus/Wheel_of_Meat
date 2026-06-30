@@ -99,19 +99,3 @@ Just this.
 The teaching continued.
 
 ---
-
-**End of Movement V: Coda**
-
----
-
-**End of Chapter 26: The Awakened**
-
----
-
-**End of Part IV**
-
----
-
-**End of *The Wheel of Meat***
-
----

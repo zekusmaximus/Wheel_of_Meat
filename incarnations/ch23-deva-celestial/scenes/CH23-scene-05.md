@@ -40,7 +40,7 @@ The thought arrived with the quality of insight: not something he was thinking, 
 
 The question opened a door he hadn't known was there. One. Not two in competition, where one must fail for the other to succeed. One, appearing as two until the appearance was no longer necessary. One, playing both parts until the play completed itself.
 
-The word that meant "loving-kindness" hovered at the edge of the thought, never arriving as word but present as quality. The one who was coming. The future completion. Named for the very thing that would make competition obsolete: the recognition that separate interests were never separate, that his welfare and hers were the same welfare, that the race she ran was a race against herself by another name.
+The recognition hovered at the edge of the thought, never arriving as word but present as quality: that separate interests were never separate, that his welfare and hers were the same welfare, that the race she ran was a race against herself by another name.
 
 *She will see it when she sees it.*
 
@@ -90,7 +90,7 @@ Something ahead.
 
 He could perceive it without seeing it: a world, a future, a density waiting to receive the awareness that would inhabit it. Not the world he'd left—Manchester's grey skies, the faculty housing's familiar cracks. Something else. Something changed. Earth, but Earth transformed, Earth continuing into a future he couldn't yet perceive clearly.
 
-The Prophet's world. The once-returner's destination.
+The once-returner's destination.
 
 The realm released him—or he released himself from it—and the transition was not falling but arriving, not ending but beginning, the threshold opening onto whatever the pattern required next.
 

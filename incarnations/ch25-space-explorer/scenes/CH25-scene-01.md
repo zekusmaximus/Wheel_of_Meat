@@ -273,7 +273,3 @@ The endless. The edge-less. The first formless realm.
 Home—if home was the word—for as long as home could hold us.
 
 ---
-
-**End of Scene 01: Infinite Space**
-
----

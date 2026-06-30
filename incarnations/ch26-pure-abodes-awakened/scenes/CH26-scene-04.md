@@ -141,7 +141,3 @@ The evening light painted colors across the earth—gold and rose and the deep b
 And yet: continuing.
 
 ---
-
-**End of Movement IV: The Teaching**
-
----
