@@ -139,7 +139,3 @@ I didn't think I could win. I didn't believe in justice or redemption or any of 
 But someone had to try.
 
 Just because the trying was not nothing.
-
----
-
-**Word count: ~1,950**

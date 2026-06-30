@@ -40,7 +40,7 @@ The third sign was Helen Marsh.
 
 She was dead.
 
-I found out from the newspaper, not the police. A small story buried on page twelve: CITY EMPLOYEE DIES IN AUTO ACCIDENT. Helen Marsh, 34, formerly of the Chief of Police's office, had lost control of her car on Mulholland Drive and plunged two hundred feet into a canyon. The car had burned on impact. The body was badly damaged. The funeral would be private.
+I found out from the newspaper, not the police. A small story buried on page twelve: CITY EMPLOYEE DIES IN AUTO ACCIDENT. Helen Marsh, 34, formerly Councilman Haversham's secretary, had lost control of her car on Mulholland Drive and plunged two hundred feet into a canyon. The car had burned on impact. The body was badly damaged. The funeral would be private.
 
 I read the story three times, looking for something I could use. There was nothing. Just another death in a city full of them.
 
@@ -117,7 +117,3 @@ I finished the drink, lay down on my unmade bed, and closed my eyes.
 Someone had to give a damn.
 
 Even when giving a damn might get you killed.
-
----
-
-**Word count: ~1,900**

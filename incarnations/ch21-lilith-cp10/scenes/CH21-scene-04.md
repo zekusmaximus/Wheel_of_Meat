@@ -34,7 +34,7 @@ Silas turned toward her—
 
 —and then he saw her—
 
-—standing at the end of the alley, a woman in a dark coat, the sharp widow's peak, the single darker strand falling across her forehead—
+—standing at the end of the alley, a woman in a dark coat, the sharp widow's peak, the single darker strand falling from her left temple across her forehead—
 
 —their eyes met across the reception room—
 
@@ -90,7 +90,7 @@ The weight of centuries pressing down. Every avatar. Every method. Every failure
 
 One option remained.
 
-She stood in the reception room in Manchester, present day, autumn rain against windows The ache in her chest refused to fade, and Jack's body lay on wet pavement sixty-seven years ago, and somewhere in the space between those facts the decision crystallized.
+She stood in the reception room in Manchester, present day, autumn rain against windows. The ache in her chest refused to fade, and Jack's body lay on wet pavement sixty-seven years ago, and somewhere in the space between those facts the decision crystallized.
 
 If I can't stop him, I'll bind him.
 

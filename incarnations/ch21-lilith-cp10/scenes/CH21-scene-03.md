@@ -50,9 +50,9 @@ Historical intervention could not touch this. Could not slow it.
 
 She was out of time.
 
-*I have to find him. Present day. NOW. Before he breaks through.*
+She was already in the room with him. There was nothing left to locate, nothing left to decide—only the last few feet of distance to close.
 
-She dismissed it as tracking fever. The strain of holding both timelines. Exhaustion from the weeks of sustained attention, the positioning, the work that had brought her to this room, this moment, this approach.
+She dismissed the urgency as tracking fever. The strain of holding both timelines. Exhaustion from the weeks of sustained attention, the positioning, the work that had brought her to this room, this moment, this approach.
 
 Not examined. Never examined.
 
@@ -68,7 +68,7 @@ One more method. One more approach. She thought—or was thinking, would think u
 
 Rain drowning both cities. Hearts racing in both chests. The pull toward Silas exceeding strategy, exceeding calculation, exceeding even the race that had defined her for—how long? Since Ka? Since before?
 
-She saw the parallel in him. Watched Jack's determination crystallize into something pure, something that had released its grip on outcome and become just trying for the sake of trying.
+She saw the parallel in him. Watched Jack's effort crystallize into something pure, the helper's grip on being the helper finally loosening.
 
 She could not see that she was doing the same thing.
 
