@@ -1,6 +1,6 @@
-Jean sat at his desk as dawn broke over Bordeaux. The candle had burned down to a stub. His hand ached from hours of writing. Before him lay the report—ten pages of careful script, an accounting that would satisfy no one and might condemn him.
+I sat at my desk as dawn broke over Bordeaux. The candle had burned down to a stub. My hand ached from hours of writing. Before me lay the report—ten pages of careful script, an accounting that would satisfy no one and might condemn me.
 
-He read it through one final time.
+I read it through one final time.
 
 > To Bernard de Lacaze, Magistrate of the Parlement of Bordeaux:
 >
@@ -43,37 +43,37 @@ He read it through one final time.
 > Respectfully submitted,
 > Jean de Langon
 > Agent of the Parlement of Bordeaux
-> 20th day of September, 1588
+> 27th day of September, 1588
 
-Jean set down the final page and touched his fingers in sequence. Not counting, not measuring. Simply the gesture itself—a recognition marker that meant nothing except that he was who he had always been, even as everything had changed.
+I set down the final page and touched my fingers in sequence. Not counting, not measuring. Simply the gesture itself—a recognition marker that meant nothing except that I was who I had always been, even as everything had changed.
 
 The report was professional suicide. De Lacaze would understand that immediately. So would anyone who read it.
 
-Jean had not concluded Catholic guilt, which would enrage Protestant commanders. He had not concluded Protestant conspiracy, which would provoke Catholic League reprisal. He had not even concluded that determination was impossible in a way that preserved his neutrality—he had simply stated what he found and what he failed to find, with no attempt to protect either faction's narrative or his own reputation.
+I had not concluded Catholic guilt, which would enrage Protestant commanders. I had not concluded Protestant conspiracy, which would provoke Catholic League reprisal. I had not even concluded that determination was impossible in a way that preserved my neutrality—I had simply stated what I found and what I failed to find, with no attempt to protect either faction's narrative or my own reputation.
 
 The Catholics would see Protestant protection. The Protestants would see Catholic bias. The politiques would see incompetence. All of them would be wrong, but none of them would care.
 
-Jean sealed the report and stood. His shoulder ached from the hours of sitting. His eyes burned from candlelight and lack of sleep. But his hands were steady as he gathered the document into his leather case.
+I sealed the report and stood. My shoulder ached from the hours of sitting. My eyes burned from candlelight and lack of sleep. But my hands were steady as I gathered the document into my leather case.
 
-Outside, Bordeaux was waking. Church bells rang for morning prayer. Market vendors began their calls. The city moved into another day of uneasy peace, not knowing that Jean's report might tip the balance toward war.
+Outside, Bordeaux was waking. Church bells rang for morning prayer. Market vendors began their calls. The city moved into another day of uneasy peace, not knowing that my report might tip the balance toward war.
 
 Or might not. Perhaps it would change nothing. Perhaps both factions had already decided their conclusions and would simply ignore findings that failed to serve their purposes.
 
-Jean walked through streets turned gold with sunrise toward the magistrate's residence. The letter of passage still rested in his pocket—protection that had proven illusory on the forest road and would prove equally useless against the consequences of an honest report.
+I walked through streets turned gold with sunrise toward the magistrate's residence. The letter of passage still rested in my pocket—protection that had proven illusory on the forest road and would prove equally useless against the consequences of an honest report.
 
-The words came before the reasoning. Tell the truth. Tell what you found and what you failed to find. The certainty was absolute, inexplicable—not a conclusion reached but a knowledge remembered, though he could not have said from where. It felt less like deciding than like recalling something he had always known but forgotten.
+The words came before the reasoning. Tell the truth. Tell what you found and what you failed to find. The certainty was absolute, inexplicable—not a conclusion reached but a knowledge remembered, though I could not have said from where. It felt less like deciding than like recalling something I had always known but forgotten.
 
-His mind caught up a moment later, constructing the logic his soul had already grasped.
+My mind caught up a moment later, constructing the logic my soul had already grasped.
 
-He was done with fortresses. Done with the belief that neutrality meant safety or that withholding judgment meant wisdom. Uncertainty was real. Verification was often impossible. And truthful action did not require omniscience—only honest acknowledgment of limits.
+I was done with fortresses. Done with the belief that neutrality meant safety or that withholding judgment meant wisdom. Uncertainty was real. Verification was often impossible. And truthful action did not require omniscience—only honest acknowledgment of limits.
 
 ---
 
-Bernard de Lacaze received him in the same chambers where the investigation had begun. The magistrate looked older than he had two weeks prior, as if the weight of maintaining order in Guyenne had compressed his remaining years into visible form.
+Bernard de Lacaze received me in the same chambers where the investigation had begun. The magistrate looked older than he had two weeks prior, as if the weight of maintaining order in Guyenne had compressed his remaining years into visible form.
 
-Jean placed the report on the desk between them.
+I placed the report on the desk between us.
 
-De Lacaze read in silence. Jean watched the older man's face and saw the recognition settle: this report protected nothing, concluded nothing, satisfied no one.
+De Lacaze read in silence. I watched the older man's face and saw the recognition settle: this report protected nothing, concluded nothing, satisfied no one.
 
 When de Lacaze finally looked up, his expression was careful. "You understand what this means."
 
@@ -81,7 +81,7 @@ When de Lacaze finally looked up, his expression was careful. "You understand wh
 
 "Honesty." The magistrate's voice was dry. "A luxury we can rarely afford."
 
-"Perhaps. But it is what I have to offer." Jean met de Lacaze's eyes. "I could have forced a conclusion. I chose instead to report truthfully on what I could not determine."
+"Perhaps. But it is what I have to offer." I met de Lacaze's eyes. "I could have forced a conclusion. I chose instead to report truthfully on what I could not determine."
 
 "The Parlement will not accept this."
 
@@ -93,28 +93,28 @@ When de Lacaze finally looked up, his expression was careful. "You understand wh
 
 "Father Sorbin will claim you protected Protestant conspirators."
 
-"I know." Jean touched his fingers briefly—thumb to index, a half-gesture. "But I know something else as well: any other report would have been a lie. Perhaps a useful lie. Perhaps a lie that served peace or justice or someone's version of order. But a lie nonetheless."
+"I know." I touched my fingers briefly—thumb to index, a half-gesture. "But I know something else as well: any other report would have been a lie. Perhaps a useful lie. Perhaps a lie that served peace or justice or someone's version of order. But a lie nonetheless."
 
 De Lacaze was quiet for a long moment. Then he sighed—a sound of exhaustion that went bone-deep. "You are a better man than this province deserves, Jean de Langon. I hope that brings you comfort when both sides come for you."
 
-"It will not." Jean stood. "But it is mine. And it is true."
+"It will not." I stood. "But it is mine. And it is true."
 
-He left the magistrate's chambers and descended into a Bordeaux morning that smelled of bread baking and the river. Somewhere in this city, Father Sorbin was receiving word of Jean's report. Somewhere else, Captain de Castelnau was learning that the investigation had concluded nothing useful to Protestant interests.
+I left the magistrate's chambers and descended into a Bordeaux morning that smelled of bread baking and the river. Somewhere in this city, Father Sorbin was receiving word of my report. Somewhere else, Captain de Castelnau was learning that the investigation had concluded nothing useful to Protestant interests.
 
-Jean had perhaps a day before both factions moved against him. Perhaps less. Men who refused to serve anyone's narrative were more dangerous than men who served the wrong side.
+I had perhaps a day before both factions moved against me. Perhaps less. Men who refused to serve anyone's narrative were more dangerous than men who served the wrong side.
 
-He returned to his inn and began packing. His belongings were few—a traveler's life, an investigator's necessities. He would leave Bordeaux tonight. Perhaps reach another jurisdiction before the warrants were issued. Perhaps find magistrates who valued honest uncertainty over useful conclusions.
+I returned to my inn and began packing. My belongings were few—a traveler's life, an investigator's necessities. I would leave Bordeaux tonight. Perhaps reach another jurisdiction before the warrants were issued. Perhaps find magistrates who valued honest uncertainty over useful conclusions.
 
 Or perhaps not. Perhaps the next ambush would succeed where the first had failed. Perhaps Father Sorbin's urbane courtesy or Captain de Castelnau's honorable warning would give way to blades in the dark.
 
-Jean touched his fingers one last time and felt the gesture settle into something that was neither fortress nor measurement. Simply an acknowledgment: I did what I could honestly do. I said what I could honestly say. The consequences are not mine to control.
+I touched my fingers one last time and felt the gesture settle into something that was neither fortress nor measurement. Simply an acknowledgment: I did what I could honestly do. I said what I could honestly say. The consequences are not mine to control.
 
-The report lay on de Lacaze's desk. Jean's fate lay somewhere ahead on the roads of Guyenne. And between them stretched the small space where a man had chosen truthfulness under uncertainty over the safety of manufactured certainty.
+The report lay on de Lacaze's desk. My fate lay somewhere ahead on the roads of Guyenne. And between them stretched the small space where a man had chosen truthfulness under uncertainty over the safety of manufactured certainty.
 
 It was not much. Perhaps not enough.
 
 But it was true.
 
-Jean shouldered his bag and walked out of the inn into the morning light. The road waited. So did whatever came next.
+I shouldered my bag and walked out of the inn into the morning light. The road waited. So did whatever came next.
 
-He was ready for both.
+I was ready for both.
