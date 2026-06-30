@@ -1,4 +1,4 @@
-She had not intended to count. But the pattern was counting itself—intervention after intervention, backfire after backfire, the same mechanism repeating with precision that mocked precision.
+She had not intended to count. But the pattern was counting itself—intervention after intervention, backfire after backfire, the same mechanism repeating with a precision that mocked precision.
 
 Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had crystallized wisdom. Verinus's contradictions had taught humility. Macarius's pride had become its own mirror. Kaoru's frozen beauty had melted.
 
@@ -14,11 +14,13 @@ Six patterns integrated into behavior before she could observe him struggling.
 
 Her hand stilled on the cold ceramic. The observation she was filing was larger than any she had filed before. Everything the backfires had taught, crystallized into the way this one moved through the world.
 
+And under the six, holding them together, a seventh thing—the one this life was completing, the one she would have to name before she could be certain she had destroyed it. Patience. Not the gritted endurance she had watched men mistake for virtue, the teeth-clenched waiting for an ordeal to be over. This was patience as presence without demand. He sat with the dying and asked nothing of their dying. He treated without requiring the cure, witnessed without requiring the outcome, stayed without requiring that the staying be repaid. There was no grasping in it anywhere. That absence of grasping was what made it almost finished.
+
 She would destroy it.
 
 The thought arrived without permission. Her intervention would work—she was certain of that now. Personal betrayal through intimate knowledge. Tomás had prayed beside Diego, had broken bread at his table, had spoken Hebrew prayers in voices barely louder than breath. When Tomás betrayed that knowledge, the poison would be personal.
 
-But the poison would dissolve what had taken six iterations to build. Cooperation would become isolation—the accused separated from community. Generosity would become evidence—his healing reframed as Judaizing. His wisdom would become proof of forbidden learning. His virtue would prove insufficient against institutional machinery. His humility would become indistinguishable from guilt. His equanimity would shatter when injustice turned personal.
+But the poison would dissolve what had taken seven iterations to build. Cooperation would become isolation—the accused separated from community. Generosity would become evidence—his healing reframed as Judaizing. His wisdom would become proof of forbidden learning. His virtue would prove insufficient against institutional machinery. His humility would become indistinguishable from guilt. His equanimity would shatter when injustice turned personal. And the patience—the presence without demand—would have nothing left to rest on once the demand for justice woke in him.
 
 She would destroy something that had taken longer to build than she wanted to admit.
 

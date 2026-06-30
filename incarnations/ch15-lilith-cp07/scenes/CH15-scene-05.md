@@ -1,31 +1,53 @@
-The flat was too small.
+Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste, Frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
 
-She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. The grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
+She stood in the corner as she had stood in that corner, weeks of standing, watching, the sustained presence that Sor Catalina called prayer and that Lilith called something else. Something she did not name.
 
-*Open.*
+Diego sat before the inquisitors. His hands steady in his lap. A physician's hands, though steadiness cost him something she could feel in her own chest as tightness. As weight.
 
-The word arrived before the memory: Gothic verticals. Victorian gravity softened by November rain. The philosophy faculty emerging from drizzle like an answer to a question she had not asked.
+She had been here for all of it. The arrest. The processing. The visit from Tomás where betrayal became visible, named, specific. She had watched through eyes that were also her eyes, and the watching had been—
 
-She had walked there. Days ago, or weeks, time had become imprecise in the tracking haze. Her body had known where to go when her mind refused to examine the destination. She had stood in the rain outside buildings where he would be, *was*, present tense, and she had felt—
+*Invested.*
 
-She lost it before she could name it.
+The word surfaced uninvited.
 
-*He is there.*
+"Did you light candles on Friday evenings?" The inquisitor's voice, gentle as blade-edge. "Did you abstain from pork? Did you speak Hebrew prayers at your father's deathbed?"
 
-Not Diego, burning his way toward lessons she was trying to prevent. The other. The contemporary thread. The consciousness that had surfaced into a body that walked those corridors, spoke to students, held office hours while she tracked his past through centuries of accumulated pattern.
+Diego's jaw worked. His hands remained steady. But his eyes—his eyes found the corner where Sor Catalina stood, and Lilith felt his gaze land on her face with a weight that was almost physical.
 
-She could trace the thread forward. Could find where it surfaced now. Could—
+He sensed something. Always had. Something in her stillness, in her watching, in the way her presence pressed against his awareness like cold air through a gap in shuttered windows.
 
-*What if distance is the problem?*
+*He sees me.*
 
-The question pressed against the walls she had built around the inadmissible. Vessels failed. Circumstances failed. Interventions across temporal distance failed and failed and failed.
+Not Sor Catalina. Not the beata offering spiritual comfort. *Her*. The something beneath the vessel that had been the same something across every vessel, every life, every intervention that had failed because—
 
-But if she were *present*. Face to face. Direct contact.
+She cut off the thought. Returned to the watching. The scribe's quill. The candles burning down. The questions that Diego could not answer correctly because no answer existed that would satisfy the machinery designed to consume him.
 
-She filed the thought. Returned to the tracking, to Toledo, to the intervention she was still pressing into Tomás's sleeping fear.
+She had watched this. Was watching this. The sustained presence that exceeded what presence should cost.
 
-But the memory lingered: open sky, wet stone, the possibility of something other than walls.
+*Why am I still here?*
 
-The flat pressed close. The flat was too small.
+The question filed itself. She was here because the intervention required observation. Because strategy required adjustment. Because—
 
-And he was somewhere. Present tense. Reachable.
+Because she could not stop watching him.
+
+The admission dissolved before it could complete.
+
+And there—in his physician's hands held steady despite questions with no correct answers—she saw the parallel she would not name. Diego believed being useful would protect him. Had believed it through every consultation, every treatment, every diagnosis offered to a system that would consume him regardless of what he offered.
+
+*He cannot stop healing even when his healing serves the machinery consuming him.*
+
+The observation arrived with the precision of diagnosis.
+
+And beneath the observation, something she would not examine: *I cannot stop watching even when my watching accelerates him.*
+
+His bargain: service in exchange for safety. Her bargain: precision in exchange for victory. The same belief that control could be purchased through expertise. The same hands working at tasks that had ceased to accomplish what they intended.
+
+Diego's bargain had failed. His usefulness had not protected him.
+
+And her precision—
+
+She filed the thought. Strategy did not require comparison.
+
+But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
+
+And she did not know whose tightness it was.
