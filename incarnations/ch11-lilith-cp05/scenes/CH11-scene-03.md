@@ -26,7 +26,7 @@ Theodora stood against the wall and watched.
 
 She had been standing for hours. The position should have become unbearable as bodies required adjustment, required the basic maintenance of muscles that cramped and joints that stiffened. But her stillness matched his stillness. Her containment echoed his containment. And the echo felt not uncomfortable but correct.
 
-*Two bodies practiced at not-moving.* The observation surfaced without examination. *Two consciousness choosing containment.*
+*Two bodies practiced at not-moving.* The observation surfaced without examination. *Two consciousnesses choosing containment.*
 
 She guided Theophanes's next question with a whisper of attention. Not speaking, not interfering, only shifting his awareness toward the praise she needed—that the Abba's humility was admirable, and how did he keep such purity of devotion?
 
