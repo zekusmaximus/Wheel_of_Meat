@@ -1,4 +1,4 @@
-Steam rose from the *caldarium* in slow coils, threading between bodies that moved through the water with the practiced indifference of men who bathed here every dawn. The marble walls sweated condensation; oil lamps guttered in their bronze holders, their light thin and unconvincing against the grey seeping through high windows. Verinus stood at the pool's edge, the water lapping at his shins, and listened to two citizens ruin his morning.
+Steam rose from the *caldarium* in slow coils, threading between bodies that moved through the water with the practiced indifference of men who bathed here every dawn. The marble walls sweated condensation; oil lamps guttered in their bronze holders, their light thin and unconvincing against the grey seeping through high windows. I stood at the pool's edge, the water lapping at my shins, and listened to two citizens ruin my morning.
 
 "The grain ships arrived at the third hour," one was saying, a thick-necked man whose voice echoed off the vaulted ceiling. "I saw them myself from the Subura."
 
@@ -8,21 +8,21 @@ Steam rose from the *caldarium* in slow coils, threading between bodies that mov
 
 "During the festival, they—"
 
-Verinus reached for the bronze stylus at his belt. His fingers found the familiar weight, the slight warmth from his body, and he began to clean it. The motion was small, precise: a cloth he carried for this purpose, drawn across the metal in measured strokes. Neither man was correct. The grain ships had arrived at the fourth hour—he had read the harbormaster's report himself three days ago, filed in the praetor's office alongside seventeen other documents these men would never see and could not have understood if they had.
+I reached for the bronze stylus at my belt. My fingers found the familiar weight, the slight warmth from my own skin, and I began to clean it. The motion was small, precise: a cloth I carried for this purpose, drawn across the metal in measured strokes. Neither man was correct. The grain ships had arrived at the fourth hour—I had read the harbormaster's report myself three days ago, filed in the praetor's office alongside seventeen other documents these men would never see and could not have understood if they had.
 
-The stylus gleamed. The contradiction remained, but his chest loosened fractionally.
+The stylus gleamed. The contradiction remained, but my chest loosened fractionally.
 
-"Verinus." A hand clapped his shoulder, and he turned to find Marcus Cassianus Priscus grinning at him, water beading in his dark beard. "You're cleaning that thing again. What offense has the morning committed?"
+"Verinus." A hand clapped my shoulder, and I turned to find Marcus Cassianus Priscus grinning at me, water beading in his dark beard. "You're cleaning that thing again. What offense has the morning committed?"
 
-"Listen to them." Verinus tilted his head toward the arguing citizens.
+"Listen to them." I tilted my head toward the arguing citizens.
 
 Marcus listened. His grin widened. "Ah. The eternal mystery of the grain ships. I heard them debating this same question yesterday. Perhaps we should commission a formal inquiry."
 
 "They could simply read the harbor records."
 
-"Reading requires effort. Arguing requires only breath." Marcus waded deeper into the pool, gesturing for Verinus to follow. "Come. The water is better away from the philosophers of commerce."
+"Reading requires effort. Arguing requires only breath." Marcus waded deeper into the pool, gesturing for me to follow. "Come. The water is better away from the philosophers of commerce."
 
-Verinus did not move. He was watching the two men, noting how each interruption sharpened the other's certainty, how the truth—readily available, meticulously documented—meant nothing to either of them. They would leave this bathhouse more convinced of their respective errors than when they had arrived.
+I did not move. I was watching the two men, noting how each interruption sharpened the other's certainty, how the truth—readily available, meticulously documented—meant nothing to either of them. They would leave this bathhouse more convinced of their respective errors than when they had arrived.
 
 "You cannot fix it," Marcus said, softer now. "Whatever is happening in your mind right now—the weighing, the cataloguing, the quiet contempt—it will not make them correct."
 
@@ -34,13 +34,13 @@ Marcus laughed, a sound that carried no mockery, only the resignation of long fa
 
 "In your case, I think they are at war." Marcus pushed off from the pool's edge, floating on his back, eyes closed against the lamplight. "The praetor will have work for you today. I saw the clerks preparing scrolls when I passed. Something with witnesses—you know how you love witnesses."
 
-Verinus did not answer. Across the pool, near the entrance to the *frigidarium*, a group of students had gathered—young men from one of the philosophical schools, their conversation animated and their gestures theatrical. Among them stood a woman, dark-haired, her stillness conspicuous against their motion. She was watching him.
+I did not answer. Across the pool, near the entrance to the *frigidarium*, a group of students had gathered—young men from one of the philosophical schools, their conversation animated and their gestures theatrical. Among them stood a woman, dark-haired, her stillness conspicuous against their motion. She was watching me.
 
-Him specifically. Neither the students nor Marcus.
+Me specifically. Neither the students nor Marcus.
 
-Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held his gaze for a moment—long enough to register, too brief to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
+Her eyes were steady, observational. The look of someone taking measure rather than making judgment. She held my gaze for a moment—long enough to register, too brief to demand acknowledgment—and then turned away, following the students through the archway into the cold room.
 
-"Who was that?" Marcus had surfaced, was following Verinus's sightline.
+"Who was that?" Marcus had surfaced, was following my sightline.
 
 "I don't know."
 
@@ -50,17 +50,18 @@ Her eyes were steady, observational. The look of someone taking measure rather t
 
 Marcus's laugh was sharper this time. "Liar. But a disciplined one. Come—the water grows cold and the clerks grow impatient."
 
-Verinus slipped the stylus back into his belt. The thick-necked citizen was still arguing about the grain ships, but his voice had grown hoarse, his conviction undiminished. A small tragedy of certainty, endlessly repeating.
+I slipped the stylus back into my belt. The thick-necked citizen was still arguing about the grain ships, but his voice had grown hoarse, his conviction undiminished. A small tragedy of certainty, endlessly repeating.
 
-He followed Marcus toward the changing rooms, but something in him lingered at the pool's edge, watching the archway where the dark-haired woman had disappeared. She had looked at him as if she knew him, though he was certain they had never met.
+I followed Marcus toward the changing rooms, but something in me lingered at the pool's edge, watching the archway where the dark-haired woman had disappeared. She had looked at me as if she knew me, though I was certain we had never met.
 
-A strange thought, and he dismissed it.
+A strange thought, and I dismissed it.
 
 The praetor's scrolls were waiting.
 
-The praetor's office smelled of old ink and older ambition. Scrolls lined the walls in honeycombed shelving, each pigeonhole stuffed with the accumulated anxieties of Roman civic life: property disputes, inheritance claims, accusations of fraud and theft and moral turpitude. Dust motes drifted through the slant of morning light from the high windows, and somewhere in the back rooms a clerk was coughing—a dry, persistent sound that had become as familiar to Verinus as his own breathing.
 
-He stood before the praetor's secretary, a lean freedman named Gnaeus whose face had been carved by decades of bureaucratic disappointment into an expression of permanent mild grievance. Between them, on a table scarred by generations of stylus work, lay three scrolls.
+The praetor's office smelled of old ink and older ambition. Scrolls lined the walls in honeycombed shelving, each pigeonhole stuffed with the accumulated anxieties of Roman civic life: property disputes, inheritance claims, accusations of fraud and theft and moral turpitude. Dust motes drifted through the slant of morning light from the high windows, and somewhere in the back rooms a clerk was coughing—a dry, persistent sound that had become as familiar to me as my own breathing.
+
+I stood before the praetor's secretary, a lean freedman named Gnaeus whose face had been carved by decades of bureaucratic disappointment into an expression of permanent mild grievance. Between us, on a table scarred by generations of stylus work, lay three scrolls.
 
 "Gaius Quintilius Varro," Gnaeus said, tapping the nearest scroll. "Philosophus. Found dead in his study three days ago. The urban prefect wants it resolved before the Saturnalia."
 
@@ -68,21 +69,21 @@ He stood before the praetor's secretary, a lean freedman named Gnaeus whose face
 
 "Resolved quietly. Varro had friends." Gnaeus's emphasis made the word a warning. "And enemies. The preliminary accounts are—" He paused, searching for a word that would not obligate him to an opinion. "Divergent."
 
-Verinus reached for the scrolls. The papyrus was fresh, the ink still sharp-edged. He unrolled the first and began to read.
+I reached for the scrolls. The papyrus was fresh, the ink still sharp-edged. I unrolled the first and began to read.
 
-The servant's account was terse, almost skeletal: the master had retired to his study after the evening meal; the door was barred from within; in the morning, when he did not emerge, the household had forced entry and found him dead at his desk, a wine cup overturned beside him. No signs of struggle. No evident wound. The servant's hand had trembled as he wrote—Verinus could see it in the uneven spacing, the ink pooling where the stylus had hesitated.
+The servant's account was terse, almost skeletal: the master had retired to his study after the evening meal; the door was barred from within; in the morning, when he did not emerge, the household had forced entry and found him dead at his desk, a wine cup overturned beside him. No signs of struggle. No evident wound. The servant's hand had trembled as he wrote—I could see it in the uneven spacing, the ink pooling where the stylus had hesitated.
 
 The student's account was different. Eloquent, self-consciously philosophical, and twice as long. Varro had been in excellent spirits that evening, the student claimed. They had discussed the nature of the good life, the proper relationship between reason and emotion. Varro had quoted Epictetus. The student had been moved to tears. Nothing in the master's demeanor suggested despair or illness. The death was inexplicable, unless—and here the student's prose grew coy—unless certain rivals within the philosophical schools had taken more direct action against a man whose arguments they could not answer.
 
 The neighbor's account contradicted both. Varro had been ill for weeks, the neighbor insisted. His temper had grown short. He had dismissed visitors, cancelled lectures, refused even to attend the baths. The neighbor had heard shouting from Varro's house three nights before his death—a woman's voice, raised in anger. Or perhaps grief. The neighbor could not be certain.
 
-Verinus set down the third scroll and reached for his stylus.
+I set down the third scroll and reached for my stylus.
 
-"Three witnesses," he said. "Three entirely different men described."
+"Three witnesses," I said. "Three entirely different men described."
 
 "That is why you are here." Gnaeus's voice was dry. "The praetor believes you have a gift for... synthesis."
 
-"The praetor believes I will not embarrass him." Verinus began cleaning the stylus, the motion automatic. "Who was the woman?"
+"The praetor believes I will not embarrass him." I began cleaning the stylus, the motion automatic. "Who was the woman?"
 
 "No one knows. The neighbor could not describe her."
 
@@ -108,13 +109,13 @@ Marcus appeared in the doorway, still adjusting his toga from the baths. His hai
 
 Gnaeus coughed—a sound of bureaucratic throat-clearing rather than illness. "There is a fourth document. The preliminary summary I prepared this morning." He slid another scroll across the table. "I copied the relevant passages from each testimony for easier comparison."
 
-Verinus unrolled it. The handwriting was neat, impersonal, the work of a competent scribe. He read the servant's testimony first, then the student's, then the neighbor's—
+I unrolled it. The handwriting was neat, impersonal, the work of a competent scribe. I read the servant's testimony first, then the student's, then the neighbor's—
 
-He stopped.
+I stopped.
 
-Read the passage again.
+I read the passage again.
 
-"This line," he said, pointing. "The servant's account says Varro retired 'after the evening meal, his mood temperate.' But the original—" He reached for the servant's scroll, found the passage. "The original says 'his mood *intemperate*.'"
+"This line," I said, pointing. "The servant's account says Varro retired 'after the evening meal, his mood temperate.' But the original—" I reached for the servant's scroll, found the passage. "The original says 'his mood *intemperate*.'"
 
 Gnaeus frowned. "A copying error. My clerk must have—"
 
@@ -122,19 +123,19 @@ Gnaeus frowned. "A copying error. My clerk must have—"
 
 "The light was poor. We work long hours before Saturnalia." Gnaeus's grievance had sharpened into defensiveness. "I will have it corrected."
 
-"Do not." Verinus rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
+"Do not." I rolled the summary closed. "I want both versions. Errors reveal as much as accuracies."
 
-He gathered the scrolls and tucked them beneath his arm. But he paused before leaving, turning to Marcus. "You know Varro's work better than I do. You heard him lecture. What will I not see that you will?"
+I gathered the scrolls and tucked them beneath my arm. But I paused before leaving, and turned to Marcus. "You know Varro's work better than I do. You heard him lecture. What will I not see that you will?"
 
 Marcus considered this. "The student will perform for you. He will want you to think him worthy of Varro's attention. Watch what he does not say about their argument—that will be more telling than what he claims."
 
-Verinus had not thought of this. He had been preparing to test the student's account against the others, to search for contradictions in the testimony itself. Marcus saw what the performance would conceal.
+I had not thought of this. I had been preparing to test the student's account against the others, to search for contradictions in the testimony itself. Marcus saw what the performance would conceal.
 
-"Good," Verinus said. "Tell me when I miss it."
+"Good," I said. "Tell me when I miss it."
 
-The stylus was clean now, gleaming, but the familiar comfort of the ritual had not come. An unresolved tension in this case resisted the simple satisfaction of order restored.
+The stylus was clean now, gleaming, but the familiar comfort of the ritual would not come. Something unresolved in this case resisted the simple satisfaction of order restored.
 
-"Marcus," he said. "We begin at Varro's house."
+"Marcus," I said. "We begin at Varro's house."
 
 "Now?"
 
@@ -144,39 +145,40 @@ Marcus sighed, but he was already moving toward the door. "The philosophus will 
 
 "The dead are silent. It is the living who lie."
 
-Behind them, in the back room, the clerk was still coughing. A small sound, easily overlooked. The kind of distraction that might cause a man to write *temperate* when he meant *intemperate*, and thereby change the meaning of everything that followed.
+Behind us, in the back room, the clerk was still coughing. A small sound, easily overlooked. The kind of distraction that might cause a man to write *temperate* when he meant *intemperate*, and so change the meaning of everything that followed.
 
-Verinus did not look back.
+I did not look back.
+
 
 Varro's study smelled of old papyrus and lamp oil gone rancid. Scrolls filled every surface—stacked on shelves, piled on the floor, spread across the writing desk where the philosophus had died. The afternoon light came thin through a single high window, catching dust that hung in the air like a held breath. Someone had cleaned the desk since the death, but the wood still bore a dark stain where the wine had spilled, and nothing could remove the sense of interrupted thought that clung to the room.
 
-Verinus stood in the center of the chaos and felt something in his chest constrict.
+I stood in the center of the chaos and felt something in my chest constrict.
 
 "Where do you want to begin?" Marcus asked from the doorway.
 
 "With the servant."
 
-They found him in the kitchen, a thin man in his forties whose hands would not stop moving—fingers twisting in the fabric of his tunic, touching his face, reaching for objects and then withdrawing. His name was Philo, and he had been Varro's household slave for eleven years.
+We found him in the kitchen, a thin man in his forties whose hands would not stop moving—fingers twisting in the fabric of his tunic, touching his face, reaching for objects and then withdrawing. His name was Hylas, and he had been Varro's household slave for eleven years.
 
-"Tell me about that evening," Verinus said.
+"Tell me about that evening," I said.
 
-Philo's eyes darted to the doorway, as if expecting rescue or threat. His hands twisted in the fabric of his tunic—a continuous motion, compulsive, the body betraying what the voice tried to conceal.
+Hylas's eyes darted to the doorway, as if expecting rescue or threat. His hands twisted in the fabric of his tunic—a continuous motion, compulsive, the body betraying what the voice tried to conceal.
 
-Verinus set down his wax tablet. The gesture was small, but it changed the space between them. No longer investigator and evidence. Two men in a room, one frightened, one trying to understand.
+I set down the stylus. The gesture was small, but it changed the space between us. No longer investigator and evidence. Two men in a room, one frightened, one trying to understand.
 
-"You are not accused," Verinus said quietly. "I am not here to trap you. I am here because a man is dead, and you knew him better than anyone else in this house. Help me see what happened."
+"You are afraid," I said quietly. "Not of me." I let that settle. "You are not accused. I am not here to trap you. A man is dead, and you knew him better than anyone else in this house. Help me see what happened."
 
-Something in Philo's shoulders loosened—not trust, but the faint possibility of it.
+Something in Hylas's shoulders loosened—not trust, but the faint possibility of it.
 
-"The master retired after the evening meal," Philo said. "His mood was—" He stopped. Swallowed. "His mood was unsettled. He had received a letter that afternoon. I do not know from whom."
+"The master retired after the evening meal," Hylas said. "His mood was—" He stopped. Swallowed. "His mood was unsettled. He had received a letter that afternoon. I do not know from whom."
 
 "The letter?"
 
 "Gone. He burned it in the brazier. I saw the ashes."
 
-Verinus made a note on his wax tablet. "You said in your written account that his mood was intemperate."
+I took up the stylus again and made a note. "You said in your written account that his mood was intemperate."
 
-"Did I?" Philo's hands found each other, fingers interlacing and releasing. "Yes. Intemperate. He shouted at the cook over the fish sauce. Small things angered him. But that was not unusual, toward the end."
+"Did I?" Hylas's hands found each other, fingers interlacing and releasing. "Yes. Intemperate. He shouted at the cook over the fish sauce. Small things angered him. But that was not unusual, toward the end."
 
 "The end of what?"
 
@@ -188,9 +190,9 @@ Verinus made a note on his wax tablet. "You said in your written account that hi
 
 "About what?"
 
-"Philosophy." Philo said the word as though it were a disease. "They always argued about philosophy. But this time the master sent him away before noon. Said he needed to think."
+"Philosophy." Hylas said the word as though it were a disease. "They always argued about philosophy. But this time the master sent him away before noon. Said he needed to think."
 
-Verinus waited.
+I waited.
 
 "The neighbor came in the afternoon. Quintus Servilius. He wanted to borrow scrolls. The master refused. Said the scrolls were not for lending anymore."
 
@@ -200,13 +202,13 @@ Verinus waited.
 
 "And the woman? Your neighbor mentioned a woman's voice, three nights before the death."
 
-Philo's hands went still. "I heard nothing."
+Hylas's hands went still. "I heard nothing."
 
 "Nothing?"
 
-"I sleep in the back of the house. My hearing is not—" He trailed off, and Verinus saw the lie settle into his face like water finding its level. Not a malicious lie. A protective one. But protecting whom?
+"I sleep in the back of the house. My hearing is not—" He trailed off, and I saw the lie settle into his face like water finding its level. Not a malicious lie. A protective one. But protecting whom?
 
-"Thank you," Verinus said. "Send in the student."
+"Thank you," I said. "Send in the student."
 
 ---
 
@@ -226,7 +228,7 @@ Aulus Petronius entered like a man arriving at his own triumph. He was young—p
 
 "He wished to reflect on my arguments. A sign of intellectual humility, I thought. I was pleased."
 
-Marcus shifted in the doorway. Verinus felt his friend's skepticism like heat from a brazier.
+Marcus shifted in the doorway. I felt my friend's skepticism like heat from a brazier.
 
 "Did Varro seem troubled that morning?"
 
@@ -240,9 +242,9 @@ Marcus shifted in the doorway. Verinus felt his friend's skepticism like heat fr
 
 The smile finally flickered. "What do you mean?"
 
-Verinus did not answer immediately. Something cold had moved through his chest when Aulus spoke of philosophers accepting death—not the words themselves, but the image they conjured. A man choosing principle over breath. The certainty of that choice, absolute and unreachable, held up as virtue.
+I did not answer immediately. Something cold had moved through my chest when Aulus spoke of philosophers accepting death—not the words themselves, but the image they conjured. A man choosing principle over breath. The certainty of that choice, absolute and unreachable, held up as virtue.
 
-His hand tightened on the stylus until the bronze bit into his palm. The sensation was wrong, hollow, as if his body remembered something his mind could not access. He forced his grip to loosen.
+My hand tightened on the stylus until the bronze bit into my palm. The sensation was wrong, hollow, as if my body remembered something my mind could not reach. I forced my grip to loosen.
 
 "Your written account suggests that rivals in the philosophical schools might have 'taken more direct action' against Varro. Do you have evidence of such action?"
 
@@ -254,19 +256,19 @@ His hand tightened on the stylus until the bronze bit into his palm. The sensati
 
 After Aulus left, Marcus remained in the doorway. "You know what he's doing."
 
-"Performing. You said he would." Verinus made a note on his tablet. "His rhetoric is polished, but the content—"
+"Performing. You said he would." I made a note on the tablet. "His rhetoric is polished, but the content—"
 
 "Is shaped around something he will not name." Marcus crossed to the desk. "Not the death itself. His own role in the argument that morning. He sent Varro into that spiral, and he knows it. That's what he's protecting."
 
-Verinus stopped writing. He had been cataloguing the contradictions in Aulus's account—the too-quick answers, the rehearsed intimacy. He had missed the silence beneath them.
+I stopped writing. I had been cataloguing the contradictions in Aulus's account—the too-quick answers, the rehearsed intimacy. I had missed the silence beneath them.
 
-"We return to him last," Verinus said. "After the others have spoken. Let him wonder what we know."
+"We return to him last," I said. "After the others have spoken. Let him wonder what we know."
 
 Marcus nodded. "He'll break before you ask the question."
 
 ---
 
-Quintus Servilius, the neighbor, was a different creature entirely. He was older than Verinus, with the sour disposition of a man who had expected more from life and blamed everyone else for its failure to arrive. He stood in the doorway of Varro's study, arms crossed, radiating resentment.
+Quintus Servilius, the neighbor, was a different creature entirely. He was older than I, with the sour disposition of a man who had expected more from life and blamed everyone else for its failure to arrive. He stood in the doorway of Varro's study, arms crossed, radiating resentment.
 
 "I've already given my account."
 
@@ -288,19 +290,19 @@ For a moment, something other than resentment crossed the neighbor's face. Fear,
 
 "Could you describe her?"
 
-"I saw nothing. Only heard." Servilius looked past Verinus, toward the stained desk. "Ask the servant. Ask the student. Ask anyone but me. I am only a neighbor. I only heard what I heard."
+"I saw nothing. Only heard." Servilius looked past me, toward the stained desk. "Ask the servant. Ask the student. Ask anyone but me. I am only a neighbor. I only heard what I heard."
 
 "Which was?"
 
-"A woman shouting. Then weeping. Then silence." He met Verinus's eyes. "That is all. That is everything. I do not know who she was or why she was here. I do not know what Varro said to make her weep. I know only that three days later, he was dead."
+"A woman shouting. Then weeping. Then silence." He met my eyes. "That is all. That is everything. I do not know who she was or why she was here. I do not know what Varro said to make her weep. I know only that three days later, he was dead."
 
 ---
 
-After Servilius left, Verinus stood alone in the study. The scrolls surrounded him like witnesses who had forgotten how to speak. Marcus waited in the doorway, watching.
+After Servilius left, I stood alone in the study. The scrolls surrounded me like witnesses who had forgotten how to speak. Marcus waited in the doorway, watching.
 
 "Well?" Marcus asked.
 
-"The servant lies to protect someone. The student lies to protect himself. The neighbor lies because the truth would cost him something he values." Verinus touched the stained desk, the wood smooth beneath his fingers. "None of them killed Varro. All of them are hiding something."
+"The servant lies to protect someone. The student lies to protect himself. The neighbor lies because the truth would cost him something he values." I touched the stained desk, the wood smooth beneath my fingers. "None of them killed Varro. All of them are hiding something."
 
 "Perhaps they are hiding the same thing."
 
@@ -312,43 +314,44 @@ Marcus stepped into the room, careful not to disturb the scrolls. "You're trying
 
 "Or accept that the picture is incomplete."
 
-Verinus looked down at the testimonies spread across the stained desk. The servant's fear. The student's performance. The neighbor's resentment. Each account carried its own truth, shaped by perspective and memory and what each witness needed to protect.
+I looked down at the testimonies spread across the stained desk. The servant's fear. The student's performance. The neighbor's resentment. Each account carried its own truth, shaped by perspective and memory and what each witness needed to protect.
 
-He could force them into coherence—select the pieces that fit, discard the rest, build a narrative that satisfied the tribunal. He had done it before. But that would be his truth, not theirs. Not Varro's.
+I could force them into coherence—select the pieces that fit, discard the rest, build a narrative that satisfied the tribunal. I had done it before. But that would be my truth, not theirs. Not Varro's.
 
-"Perhaps," he said slowly, "the picture is not incomplete. Perhaps it is fractured. Reality itself, not just our accounts of it." The words felt dangerous, but also necessary. "I can hold that. For now."
+"Perhaps," I said slowly, "the picture is not incomplete. Perhaps it is fractured—reality itself, not just our accounts of it." The words felt dangerous, but also necessary. "I can hold that. For now."
 
-He turned to face his friend. "A man is dead. His household lies. His student postures. His neighbor trembles at the mention of a woman no one will describe. These are not incompleteness—they are fragments of a truth someone has shattered."
+I turned to face my friend. "A man is dead. His household lies. His student postures. His neighbor trembles at the mention of a woman no one will describe. These are not incompleteness—they are fragments of a truth someone has shattered."
 
 "And if the truth cannot be reassembled?"
 
-"Then I will know it by its absence." Verinus retrieved his stylus, began to clean it. The motion was slower than usual, less certain. "The shape of what is missing tells us what was there."
+"Then I will know it by its absence." I retrieved my stylus and began to clean it. The motion was slower than usual, less certain. "The shape of what is missing tells us what was there."
 
-Marcus watched him for a long moment. "You know what I think?"
+Marcus watched me for a long moment. "You know what I think?"
 
 "You think I should listen to the emotion beneath the words. You think the servant's fear and the student's pride and the neighbor's guilt are the evidence I'm ignoring."
 
 "Am I wrong?"
 
-Verinus did not answer. Outside, the afternoon light was failing, the dust settling back into the scrolls. Somewhere in this room was the truth of Gaius Quintilius Varro's death—a truth made of fragments and silences and lies that were not quite lies.
+I did not answer. Outside, the afternoon light was failing, the dust settling back into the scrolls. Somewhere in this room was the truth of Gaius Quintilius Varro's death—a truth made of fragments and silences and lies that were not quite lies.
 
-He would find it. He would make it coherent.
+I would find it. I would make it coherent.
 
-That was what he did.
+That was what I did.
+
 
 The Portico of Octavia was crowded despite the hour. Citizens and students had gathered in the long colonnade, their shadows stretching across the marble floor as the afternoon light slanted through the columns. At the center of the crowd, two men in philosopher's dress faced each other like wrestlers before a match—though their weapons were not fists but premises, and their arena was the uncertain terrain of the human soul.
 
-Verinus stood at the crowd's edge, arms folded across his chest. He had come here on impulse, seeking clarity where the Varro case offered none. Philosophy had always anchored him—the Stoic certainty that reason could illuminate any darkness, that virtue was knowledge and knowledge was attainable. He needed that certainty now.
+I stood at the crowd's edge, arms folded across my chest. I had come on impulse, seeking clarity where the Varro case offered none. Philosophy had always anchored me—the Stoic certainty that reason could illuminate any darkness, that virtue was knowledge and knowledge was attainable. I needed that certainty now.
 
 The first philosopher was older, his beard grey and his voice measured. "We begin with Epictetus," he said. "The discipline of assent. We must examine our impressions before we judge them true or false. This much is common ground."
 
-The second philosopher nodded. He was younger, perhaps Verinus's age, with the restless energy of a man who had built his career on disagreement. "Common ground. The question is what follows from this discipline."
+The second philosopher nodded. He was younger, perhaps my age, with the restless energy of a man who had built his career on disagreement. "Common ground. The question is what follows from this discipline."
 
 "What follows is obvious. If we examine our impressions carefully, we will perceive the truth. The sage sees reality as it is—undistorted by passion, unclouded by false judgment."
 
 "The sage perceives reality," the younger man agreed. "But does perception yield a single truth? Or does careful examination reveal that reality itself is fractured—that honest observers, examining the same phenomenon, may arrive at incompatible conclusions?"
 
-The crowd stirred. Verinus felt something tighten in his chest.
+The crowd stirred. I felt something tighten in my chest.
 
 "You speak of error," the older philosopher said. "The sage does not err."
 
@@ -362,7 +365,7 @@ The older philosopher's voice rose. "This is sophistry. If truth is plural, then
 
 "Or we are elevated to humility. We accept that certainty is not the foundation of virtue—that we must act well despite uncertainty, not because we have eliminated it."
 
-Verinus's hand moved to his stylus. He did not clean it. He gripped it, feeling the bronze warm against his palm.
+My hand moved to my stylus. I did not clean it. I gripped it, feeling the bronze warm against my palm.
 
 The servant's fear. The student's pride. The neighbor's guilt. Three witnesses, three silences, three truths that refused to converge. What if they could not converge? What if the very structure of the case was fractured—not because someone had shattered it, but because reality itself admitted no single reconstruction?
 
@@ -374,21 +377,21 @@ The older philosopher shook his head. "You are describing confusion, not truth."
 
 "I am describing the human condition. Confusion is not the opposite of truth—it is the medium through which truth must be sought."
 
-The debate continued, but Verinus had stopped listening. The words had found their mark. He stood frozen at the crowd's edge, his stylus clutched in his hand, his certainty trembling like a structure built on sand.
+The debate continued, but I had stopped listening. The words had found their mark. I stood frozen at the crowd's edge, my stylus clutched in my hand, my certainty trembling like a structure built on sand.
 
-And then he saw her.
+And then I saw her.
 
-She stood across the colonnade, at the far edge of the crowd. Dark-haired, still, her arms folded in a posture that mirrored his own. She was watching him—not the philosophers, not the debate, but him. Her face was calm, observational, carrying that same quality of measure-taking he had seen at the baths.
+She stood across the colonnade, at the far edge of the crowd. Dark-haired, still, her arms folded in a posture that mirrored my own. She was watching me—not the philosophers, not the debate, but me. Her face was calm, observational, carrying that same quality of measure-taking I had seen at the baths.
 
 The woman from the *frigidarium*. The one Marcus had called pretty.
 
-She did not smile. She did not look away. She simply watched, as if his confusion were a text she was reading, and she was patient enough to wait for him to turn the page.
+She did not smile. She did not look away. She simply watched, as if my confusion were a text she was reading, and she was patient enough to wait for me to turn the page.
 
-The crowd shifted, someone stepping between them, and when Verinus looked again she was gone. He scanned the colonnade, searching for her dark hair among the gathered citizens, but she had vanished as completely as if she had never been there at all.
+The crowd shifted, someone stepping between us, and when I looked again she was gone. I scanned the colonnade, searching for her dark hair among the gathered citizens, but she had vanished as completely as if she had never been there at all.
 
-"What are you looking for?" Marcus had appeared beside him, his expression curious.
+"What are you looking for?" Marcus had appeared beside me, his expression curious.
 
-"Nothing." Verinus released his grip on the stylus. His palm ached where the bronze had pressed into it. "A phantom."
+"Nothing." I released my grip on the stylus. My palm ached where the bronze had pressed into it. "A phantom."
 
 "You look unsettled."
 
@@ -396,19 +399,20 @@ The crowd shifted, someone stepping between them, and when Verinus looked again 
 
 "That is their purpose." Marcus glanced toward the debate, where the two men were now exchanging increasingly pointed quotations from Chrysippus. "Did you find the clarity you were seeking?"
 
-Verinus did not answer. He was still watching the space where the woman had stood—empty now, yet somehow weighted with her absence.
+I did not answer. I was still watching the space where the woman had stood—empty now, yet somehow weighted with her absence.
 
-She had looked at him as if she knew what he was thinking. As if she had come specifically to witness his doubt.
+She had looked at me as if she knew what I was thinking. As if she had come specifically to witness my doubt.
 
-A strange thought, and he could not dismiss it.
+A strange thought, and this time I could not dismiss it.
 
-"Come," he said to Marcus. "We have work to do."
+"Come," I said to Marcus. "We have work to do."
 
-They left the portico together, the philosophers' voices fading behind them. But something had changed. The foundation Verinus had always trusted—the certainty that reason would reveal truth, that discipline would yield clarity—had cracked.
+We left the portico together, the philosophers' voices fading behind us. But something had changed. The foundation I had always trusted—the certainty that reason would reveal truth, that discipline would yield clarity—had cracked.
 
-He could still feel it shifting beneath his feet.
+I could still feel it shifting beneath my feet.
 
-The streets of Rome were choked with afternoon traffic—carts laden with amphorae, litters bearing the wealthy, slaves carrying burdens that bent their backs toward the cobblestones. Verinus walked quickly, Marcus struggling to keep pace, both of them threading through the chaos toward the praetor's office where a fourth witness had finally agreed to speak.
+
+The streets of Rome were choked with afternoon traffic—carts laden with amphorae, litters bearing the wealthy, slaves carrying burdens that bent their backs toward the cobblestones. I walked quickly, Marcus struggling to keep pace, the two of us threading through the chaos toward the praetor's office, where a fourth witness had finally agreed to speak.
 
 The cook. Varro's cook, who had been absent the night of the death and had refused every summons until now. She had information, the message said. Something she had remembered.
 
@@ -418,9 +422,9 @@ The cook. Varro's cook, who had been absent the night of the death and had refus
 
 "Or to find the courage to tell the truth."
 
-Verinus did not answer. The philosophers' words still echoed in his mind—*honest observers may reach incompatible conclusions*—and he walked faster, as if he could outpace them.
+I did not answer. The philosophers' words still echoed in my mind—*honest observers may reach incompatible conclusions*—and I walked faster, as if I could outpace them.
 
-They were crossing the Forum Boarium when the shouting started.
+We were crossing the Forum Boarium when the shouting started.
 
 Two men had blocked a narrow passage between market stalls, their argument loud enough to stop traffic in both directions. One was a butcher, his apron stained with blood; the other was a merchant whose cart had apparently damaged the butcher's awning. Their voices rose and fell in the familiar rhythm of Roman commercial dispute—accusations, counter-accusations, threats of legal action that neither man would pursue.
 
@@ -428,9 +432,9 @@ Two men had blocked a narrow passage between market stalls, their argument loud 
 
 But the crowd had already thickened, curious citizens pressing close to watch the spectacle. A litter had tipped sideways, blocking the side street. A donkey had taken the opportunity to relieve itself, and its owner was shouting at anyone who came near.
 
-They waited. The argument continued. The sun beat down on the cobblestones, and Verinus felt sweat gathering at his collar.
+We waited. The argument continued. The sun beat down on the cobblestones, and I felt sweat gathering at my collar.
 
-By the time they reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the sour expression of someone who has spent too long waiting and has decided to be angry about it.
+By the time we reached the praetor's office, the cook was already there—a stout woman in her fifties, her face set in the sour expression of someone who has spent too long waiting and decided to be angry about it.
 
 "You are late," she said. "I was told the second hour. It is nearly the fourth."
 
@@ -438,51 +442,51 @@ By the time they reached the praetor's office, the cook was already there—a st
 
 "I do not care about obstructions. I came to tell you what I know. Now I am not certain I should tell you anything."
 
-Verinus took a breath. "Please. The case requires your testimony."
+I took a breath. "Please. The case requires your testimony."
 
-The cook's eyes narrowed. She was reading him, he realized—measuring his patience, testing his need. Finally she spoke.
+The cook's eyes narrowed. She was reading me, I realized—measuring my patience, testing my need. Finally she spoke.
 
 "The night before the master died, I was at my sister's house. I left at sunset and did not return until morning. But the night before *that*—three nights before he died—I was in the kitchen. Late. I heard voices."
 
-"The woman," Verinus said. "The neighbor mentioned a woman."
+"The woman," I said. "The neighbor mentioned a woman."
 
 "A woman, yes. Arguing with the master. Then weeping." The cook's voice dropped. "But there is more. I heard the master's voice too. Not angry. Gentle. He was... comforting her. Explaining something. I could not hear the words, but the tone was clear."
 
 "What time was this?"
 
-"After the second watch. Perhaps the third hour of night."
+"After the second watch. The eighth hour of night, perhaps—deep in the third watch."
 
-Verinus made a note, then stopped. The third hour of night—that would be roughly nine hours after sunset. But the neighbor had said he heard the woman's voice at the *beginning* of the night, shortly after the evening meal.
+I made a note, then stopped. The eighth hour of night—the dead middle of the dark, long after the household should have been asleep. But the neighbor had said he heard the woman's voice at the *beginning* of the night, shortly after the evening meal.
 
 "You are certain of the time?"
 
-"I am certain. I had just finished cleaning the braziers. It is always the same hour."
+"I am certain. I had risen to set the dough for the morning bread, the way I do every night in the dark hours. The voices came while I worked."
 
 "The neighbor's account says the argument occurred earlier. Before the second watch."
 
 The cook shrugged. "The neighbor is wrong. Or he heard a different argument. I know what I heard and when I heard it."
 
-Verinus stared at his wax tablet. The neighbor's account. The cook's account. Both claimed certainty. Both could not be true.
+I stared at my wax tablet. The neighbor's account. The cook's account. Both claimed certainty. Both could not be true.
 
 Unless there had been two arguments. Two visits from the woman. Two opportunities for whatever had passed between her and Varro.
 
 Or unless one of them was mistaken about the time. Or lying. Or remembering a night that had not happened the way they thought it had.
 
-"Thank you," he heard himself say. "You may go."
+"Thank you," I heard myself say. "You may go."
 
 After the cook left, Marcus leaned against the doorframe. "Well?"
 
-"The timeline is impossible." Verinus began writing, his stylus moving across the wax with deliberate force. "The neighbor says the woman came early in the evening. The cook says she came late at night. Both claim certainty. Both contradict the servant's account, which mentions no woman at all."
+"The timeline is impossible." I began writing, the stylus moving across the wax with deliberate force. "The neighbor says the woman came early in the evening. The cook says she came late at night—the eighth hour, the dead of the third watch. Both claim certainty. Both contradict the servant's account, which mentions no woman at all."
 
 "Perhaps the servant did not hear—"
 
-"The servant slept in the back of the house. He said so himself. He could not have heard voices from the study." Verinus looked up. "But if the neighbor heard voices early and the cook heard voices late, then either the woman came twice, or one of them is wrong about the time, or both of them are wrong about everything."
+"The servant slept in the back of the house. He said so himself. He could not have heard voices from the study." I looked up. "But if the neighbor heard voices early and the cook heard voices late, then either the woman came twice, or one of them is wrong about the time, or both of them are wrong about everything."
 
 "Or," Marcus said quietly, "they are both telling the truth as they remember it, and memory is not the perfect record you wish it to be."
 
-Verinus's stylus stopped moving.
+My stylus stopped moving.
 
-"Memory is evidence," he said. "It can be tested. Verified. Cross-referenced against other accounts."
+"Memory is evidence," I said. "It can be tested. Verified. Cross-referenced against other accounts."
 
 "And when the accounts refuse to align?"
 
@@ -490,45 +494,46 @@ Verinus's stylus stopped moving.
 
 "What if none of them are wrong? What if they simply perceived different fragments of the same night, and the fragments do not fit together because reality is not a mosaic waiting to be assembled?"
 
-Verinus stood. The motion was sharp, sudden—the first time he had ever moved in anger toward his friend.
+I stood. The motion was sharp, sudden—the first time I had ever moved in anger toward my friend.
 
-"If reality cannot be assembled," he said, "then justice is impossible. If witnesses cannot be reconciled, then verdicts are arbitrary. If truth is merely fragments—" He stopped, his voice catching. "Then everything I do is meaningless."
+"If reality cannot be assembled," I said, "then justice is impossible. If witnesses cannot be reconciled, then verdicts are arbitrary. If truth is merely fragments—" I stopped, my voice catching. "Then everything I do is meaningless."
 
 Marcus did not step back. His eyes were steady, his voice gentle. "Not meaningless. Different. You are not assembling truth, Verinus. You are choosing which fragments to trust. That is not the same thing, and pretending otherwise does not make it so."
 
-For a long moment, neither of them spoke. The afternoon light slanted through the office window, casting shadows across the wax tablet where Verinus had been writing. The words there were clear, precise, certain.
+For a long moment, neither of us spoke. The afternoon light slanted through the office window, casting shadows across the wax tablet where I had been writing. The words there were clear, precise, certain.
 
-They were also, he realized, incomplete.
+They were also, I realized, incomplete.
 
-"I need to think," he said.
+"I need to think," I said.
 
 Marcus nodded. "I know."
 
-He left without another word, and Verinus stood alone in the office, surrounded by scrolls and testimonies and the growing certainty that certainty itself was failing him.
+He left without another word, and I stood alone in the office, surrounded by scrolls and testimonies and the growing certainty that certainty itself was failing me.
 
 The case would not resolve. The fragments would not align.
 
-And somewhere beneath his ribs, a certainty that had been tightly held for forty years was beginning to loosen.
+And somewhere beneath my ribs, a certainty I had held tight for forty years was beginning to loosen.
+
 
 The courtyard was quiet in the late afternoon light. A small fountain burbled at its center, the sound soft and continuous, and ivy climbed the walls in patterns that seemed almost deliberate. It was the kind of place where difficult conversations were meant to happen—private, enclosed, far from the noise of the street.
 
-Marcus had returned an hour after their quarrel, saying nothing about what had passed between them. He had simply appeared in the doorway of the praetor's office and said, "There is another witness. A boy. He worked in Varro's kitchen."
+Marcus had returned an hour after our quarrel, saying nothing about what had passed between us. He had simply appeared in the doorway of the praetor's office and said, "There is another witness. A boy. He worked in Varro's kitchen."
 
-Now they sat on stone benches beneath a fig tree, waiting. The boy had been sent for. The boy was, according to the servant Philo, "simple but honest." Whatever that meant.
+Now we sat on stone benches beneath a fig tree, waiting. The boy had been sent for. The boy was, according to the servant Hylas, "simple but honest." Whatever that meant.
 
-Verinus cleaned his stylus. The motion had lost its comfort entirely—it was merely habit now, an empty gesture performed by hands that no longer believed in order.
+I cleaned the stylus. The motion had lost its comfort entirely—it was habit now, an empty gesture performed by hands that no longer believed in order.
 
-The boy appeared in the archway. He was perhaps fifteen, thin-shouldered and pale, with the uncertain posture of someone who had spent his life trying not to be noticed. His name, Philo had said, was Demetrius. He had been purchased three years ago to help in the kitchen. He had been there the night Varro died.
+The boy appeared in the archway. He was perhaps fifteen, thin-shouldered and pale, with the uncertain posture of someone who had spent his life trying not to be noticed. His name, Hylas had said, was Demetrius. He had been purchased three years ago to help in the kitchen. He had been there the night Varro died.
 
 "Come," Marcus said, his voice warm. "Sit with us."
 
-Demetrius did not sit. He stood at the edge of the courtyard, his hands clasped in front of him, his eyes darting between the two men.
+Demetrius did not sit. He stood at the edge of the courtyard, his hands clasped in front of him, his eyes darting between the two of us.
 
 "You are not in trouble," Marcus continued. "We only want to know what you saw."
 
 "I did not see anything." The words came quickly, rehearsed. "I was in the kitchen. I am always in the kitchen."
 
-Verinus leaned forward. "What did you hear?"
+I leaned forward. "What did you hear?"
 
 The boy's hands twisted together. "Nothing. I heard nothing."
 
@@ -540,15 +545,15 @@ The boy's hands twisted together. "Nothing. I heard nothing."
 
 "I was in the kitchen. But I did not hear—I heard—" The boy's voice cracked. "I do not know what I heard."
 
-Verinus felt something rise in his chest—frustration, impatience, the familiar contempt for imprecision. He opened his mouth to speak, and the words that nearly came out were sharp, cutting, designed to slice through the boy's confusion and extract the truth like a surgeon removing a tumor.
+I felt something rise in my chest—frustration, impatience, the familiar contempt for imprecision. I opened my mouth, and the words that nearly came out were sharp, cutting, meant to slice through the boy's confusion and extract the truth like a surgeon cutting out a tumor.
 
-He stopped himself. Barely.
+I stopped myself. Barely.
 
 Marcus had risen from his bench. He crossed to where Demetrius stood and crouched, bringing himself to the boy's eye level. "You are frightened," he said. "That is all right. Fear does not make you a liar. It makes you human."
 
 Demetrius's eyes filled with tears. "I heard the master that night. I heard him crying."
 
-Verinus went still.
+I went still.
 
 "Crying?" Marcus asked, his voice unchanged.
 
@@ -558,11 +563,11 @@ Verinus went still.
 
 "I do not know. Late. The lamps had burned down. The cook had gone to bed."
 
-"After the third hour of night?"
+"After the eighth hour of night?"
 
 "I do not know hours. I know lamps. The lamps had burned down. That is all I know."
 
-Verinus watched as Marcus put a hand on the boy's shoulder. The gesture was simple, unremarkable—the kind of comfort that came naturally to some men and not at all to others. Demetrius leaned into it, his body seeming to collapse around that single point of contact.
+I watched as Marcus put a hand on the boy's shoulder. The gesture was simple, unremarkable—the kind of comfort that came naturally to some men and not at all to others. Demetrius leaned into it, his body seeming to collapse around that single point of contact.
 
 "You did nothing wrong," Marcus said. "You were a boy in a kitchen, and you heard something that frightened you. That is not a crime."
 
@@ -570,7 +575,7 @@ Verinus watched as Marcus put a hand on the boy's shoulder. The gesture was simp
 
 "You could not have saved him. Whatever happened that night, you could not have changed it."
 
-The boy wept openly now, his face pressed against Marcus's shoulder. And Verinus sat on his bench beneath the fig tree, watching, and felt something shift in his chest that had nothing to do with evidence or testimony or the irreconcilable fragments of truth.
+The boy wept openly now, his face pressed against Marcus's shoulder. And I sat on my bench beneath the fig tree, watching, and felt something shift in my chest that had nothing to do with evidence or testimony or the irreconcilable fragments of truth.
 
 The boy's account was useless. It contradicted nothing because it confirmed nothing. The time was vague, the details impressionistic, the emotional content overwhelming any factual precision.
 
@@ -578,55 +583,56 @@ And yet.
 
 Demetrius had heard Varro weeping. After the woman left. In the deep of the night, when the lamps had burned down and the household slept. A philosopher—a man who had built his life on reason and argument and the careful examination of impressions—had wept alone in his study, and no one had come to him.
 
-That was not evidence. It would not hold up in any tribunal. It told Verinus nothing about how Varro had died or why.
+That was not evidence. It would not hold up in any tribunal. It told me nothing about how Varro had died, or why.
 
-But it told him something about what it meant to die. About the loneliness at the center of even the most examined life. About the gap between what we know and what we feel, and how that gap can swallow a man whole.
+But it told me something about what it meant to die. About the loneliness at the center of even the most examined life. About the gap between what we know and what we feel, and how that gap can swallow a man whole.
 
-Marcus looked up from where he knelt with Demetrius. His eyes met Verinus's across the courtyard.
+Marcus looked up from where he knelt with Demetrius. His eyes met mine across the courtyard.
 
 *Do you see?* the look seemed to say. *This is what I have been trying to tell you.*
 
-Verinus did not answer. He could not.
+I did not answer. I could not.
 
-But when they finally left the courtyard—Demetrius sent back to the kitchen with gentle words and the promise that he would not be questioned again—Verinus walked beside Marcus in silence, and the silence was different than it had been before.
+But when we finally left the courtyard—Demetrius sent back to the kitchen with gentle words and the promise that he would not be questioned again—I walked beside Marcus in silence, and the silence was different than it had been before.
 
 Something had cracked. Something had opened.
 
-He did not yet know what would grow in the space it left behind.
+I did not yet know what would grow in the space it left behind.
 
-The tribunal chamber was smaller than Verinus had expected. A private adjudication room rather than the public space he had imagined—the praetor's way of containing whatever embarrassment might emerge from the Varro case. The walls were bare except for a single fresco of Justitia, her scales tipped slightly to the left by some long-ago painter's error or intention. The morning light came through a narrow window, falling across the table where Verinus had spread his notes.
 
-Senator Publius Cornelius Scipio sat across from him, flanked by two attendants whose presence seemed designed to remind everyone of his rank. He was older than Verinus had pictured—perhaps sixty, with the weathered face of a man who had survived Roman politics by knowing when to strike and when to wait. His eyes moved across the documents with the practiced patience of someone who had read a thousand such reports and found them all wanting.
+The tribunal chamber was smaller than I had expected. A private adjudication room rather than the public space I had imagined—the praetor's way of containing whatever embarrassment might emerge from the Varro case. The walls were bare except for a single fresco of Justitia, her scales tipped slightly to the left by some long-ago painter's error or intention. The morning light came through a narrow window, falling across the table where I had spread my notes.
+
+Senator Publius Cornelius Scipio sat across from me, flanked by two attendants whose presence seemed designed to remind everyone of his rank. He was older than I had pictured—perhaps sixty, with the weathered face of a man who had survived Roman politics by knowing when to strike and when to wait. His eyes moved across the documents with the practiced patience of someone who had read a thousand such reports and found them all wanting.
 
 The praetor sat at the head of the table, his expression carefully neutral. Marcus stood by the door, watching.
 
 "You have reached a conclusion," the praetor said. It was not a question.
 
-"I have." Verinus did not look at the senator. "The death of Gaius Quintilius Varro was neither murder nor accident. It was a philosophical act—a final lesson, delivered to himself."
+"I have." I did not look at the senator. "The death of Gaius Quintilius Varro was neither murder nor accident. It was a philosophical act—a final lesson, delivered to himself."
 
 The senator's jaw tightened, but he said nothing.
 
-"The evidence is fragmentary," Verinus continued. "The testimonies contradict. The timeline cannot be reconciled. But certain facts remain. Varro had been ill in spirit for weeks. He had withdrawn from teaching, from lending his scrolls, from the life of the mind that had defined him. He received a letter on the day of his death and burned it immediately. A woman visited him that night—her identity remains unknown—and after she left, he wept alone in his study."
+"The evidence is fragmentary," I continued. "The testimonies contradict. The timeline cannot be reconciled. But certain facts remain. Varro had been ill in spirit for weeks. He had withdrawn from teaching, from lending his scrolls, from the life of the mind that had defined him. He received a letter on the day of his death and burned it immediately. A woman visited him that night—her identity remains unknown—and after she left, he wept alone in his study."
 
 "This is speculation," the senator said. His voice was controlled, but something flickered beneath it.
 
-"It is interpretation. The only kind possible when the evidence refuses to cohere." Verinus met the senator's eyes for the first time. "Varro locked his door from within. There was no sign of struggle. The wine cup was overturned, but there was no poison—the physicians confirmed this. He simply... stopped."
+"It is interpretation. The only kind possible when the evidence refuses to cohere." I met the senator's eyes for the first time. "Varro locked his door from within. There was no sign of struggle. The wine cup was overturned, but there was no poison—the physicians confirmed this. He simply... stopped."
 
 "Stopped?"
 
-"His heart. His breath. His will to continue." Verinus paused. "The Stoics teach that a wise man may choose the manner of his departure. Varro was a philosopher. His death was his final argument—perhaps against despair, perhaps against the limits of reason itself. I cannot say with certainty. No one can."
+"His heart. His breath. His will to continue." I paused. "The Stoics teach that a wise man may choose the manner of his departure. Varro was a philosopher. His death was his final argument—perhaps against despair, perhaps against the limits of reason itself. I cannot say with certainty. No one can."
 
-The senator's hands had curled into fists on the table. "And the servant? Philo? The man who failed to report his master's distress, who claims to have heard nothing despite sleeping mere paces from the study?"
+The senator's hands had curled into fists on the table. "And the servant? Hylas? The man who failed to report his master's distress, who claims to have heard nothing despite sleeping mere paces from the study?"
 
-"Philo is not guilty."
+"Hylas is not guilty."
 
 "Roman law—"
 
-"Roman law makes household slaves responsible for their master's safety. I am aware." Verinus's voice was steady. "But Philo did not fail to protect Varro. No one could have protected Varro from himself. The servant's silence was not negligence—it was terror. He knew something was wrong in that house. He did not understand what. He protected himself the only way he could: by not seeing, not hearing, not knowing."
+"Roman law makes household slaves responsible for their master's safety. I am aware." My voice was steady. "But Hylas did not fail to protect Varro. No one could have protected Varro from himself. The servant's silence was not negligence—it was terror. He knew something was wrong in that house. He did not understand what. He protected himself the only way he could: by not seeing, not hearing, not knowing."
 
 "That is not exoneration. That is excuse."
 
-"It is truth." Verinus pushed back from the table. "Senator, you wish me to condemn Philo because it would tidy the matter. A guilty slave, punished. A patron's dignity preserved. But Philo is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."
+"It is truth." I pushed back from the table. "Senator, you wish me to condemn Hylas because it would tidy the matter. A guilty slave, punished. A patron's dignity preserved. But Hylas is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."
 
 The senator rose. His movement was slow, deliberate, but something in his face had changed. The controlled displeasure was hardening into something else—something that felt disproportionate to the moment, as if a fire had been stoked by invisible hands.
 
@@ -640,21 +646,21 @@ The praetor shifted uncomfortably. "Senator, perhaps—"
 
 "No." Scipio's voice filled the chamber. The rage in it seemed to exceed its cause, as if something had been loosened that could not be contained. "This man has wasted the court's time, insulted my patronage of Varro, and now refuses to hold anyone accountable for a death that has scandalized the philosophical community. This is not investigation. This is sabotage."
 
-Verinus felt Marcus's eyes on him. He knew what his friend was thinking: *Apologize. Soften. Find a way to give the senator what he wants without destroying yourself.*
+I felt Marcus's eyes on me. I knew what my friend was thinking: *Apologize. Soften. Find a way to give the senator what he wants without destroying yourself.*
 
-For a long moment, the path was clear. The law permitted condemnation of the servant—required it, even. Philo had failed to report his master's distress. His silence had obstructed the investigation. The senator wanted resolution. The praetor needed closure. The system had functioned this way for generations.
+For a long moment, the path was clear. The law permitted condemnation of the servant—required it, even. Hylas had failed to report his master's distress. His silence had obstructed the investigation. The senator wanted resolution. The praetor needed closure. The system had functioned this way for generations.
 
-Verinus could give them what they wanted. One word—*guilty*—and the case would close. The senator's rage would subside. His own career would survive. Philo would be sold, exiled, or worse, but that was the price of order. Individual suffering weighed against institutional stability. A calculation any competent investigator could make.
+I could give them what they wanted. One word—*guilty*—and the case would close. The senator's rage would subside. My own career would survive. Hylas would be sold, exiled, or worse, but that was the price of order. Individual suffering weighed against institutional stability. A calculation any competent investigator could make.
 
-He felt the words forming. Felt the cold clarity of procedure returning—the clean satisfaction of a world where law was sufficient, where compassion was weakness, where the servant's trembling hands were merely evidence of culpability.
+I felt the word forming. Felt the cold clarity of procedure returning—the clean satisfaction of a world where law was sufficient, where compassion was weakness, where the servant's trembling hands were merely evidence of guilt.
 
-Then he saw those hands. White-knuckled on the table's edge, though Philo was not in this room. Trembling in the kitchen doorway when he had first spoken. The hands of a terrified man who had done nothing except fail to comprehend the philosophical torment consuming his master.
+Then I saw those hands. White-knuckled on a table's edge, though Hylas was not in the room. Trembling in the kitchen doorway when he had first spoken to me. The hands of a terrified man who had done nothing except fail to comprehend the philosophical torment consuming his master.
 
-The cold certainty cracked. Verinus heard himself speak, and the words were not the ones he had been preparing.
+The cold certainty cracked. I heard myself speak, and the words were not the ones I had been preparing.
 
-He could not.
+I could not.
 
-"I will not condemn an innocent man to satisfy your pride," he said quietly. "That is my conclusion. That is my report."
+"I will not condemn an innocent man to satisfy your pride," I said quietly. "That is my conclusion. That is my report."
 
 The silence that followed was absolute.
 
@@ -668,57 +674,54 @@ The praetor's face had gone grey. "Senator, the investigator's record is—"
 
 He left without another word. The attendants followed. The door closed behind them with a sound like a seal being set.
 
-The praetor would not meet Verinus's eyes. "You understand what this means."
+The praetor would not meet my eyes. "You understand what this means."
 
-"Relegatio," Verinus said. "Exile. Removal from Rome."
+"Relegatio," I said. "Exile. Removal from Rome."
 
 "At minimum. The senator has friends. If he pushes for deportatio—"
 
-"He won't. He wants me gone, not martyred." Verinus began gathering his notes. His hands were steady, though something in his chest felt like it was collapsing inward. "When?"
+"He won't. He wants me gone, not martyred." I began gathering my notes. My hands were steady, though something in my chest felt like it was collapsing inward. "When?"
 
 "A week. Perhaps less." The praetor stood, his robes rustling. "I am sorry, Verinus. Your conclusion may have been correct. But correctness is not always enough."
 
-After the praetor left, Marcus crossed the room to stand beside him.
+After the praetor left, Marcus crossed the room to stand beside me.
 
 "I'll petition to accompany you," Marcus said. "Wherever they send you—"
 
-"No." Verinus shook his head. "The senator will block it. He'll find some appointment for you, some post that sounds like an honor but serves as a leash. Brundisium, perhaps. Somewhere useful but far from me."
+"No." I shook my head. "The senator will block it. He'll find some appointment for you, some post that sounds like an honor but serves as a leash. Brundisium, perhaps. Somewhere useful but far from me."
 
 "Then I'll refuse the appointment."
 
-"And destroy your career? Your family's standing?" Verinus turned to face his friend. "You cannot save me, Marcus. No one can. This is the consequence of choosing compassion over convenience. I knew it when I spoke."
+"And destroy your career? Your family's standing?" I turned to face my friend. "You cannot save me, Marcus. No one can. This is the consequence of choosing compassion over convenience. I knew it when I spoke."
 
 "Did you?"
 
-"No." A faint smile crossed Verinus's face—the first genuine expression he had allowed himself in days. "I thought I was choosing truth. I did not realize until this moment that they were the same thing."
+"No." A faint smile crossed my face—the first true thing I had allowed myself in days. "I thought I was choosing truth. I did not realize until this moment that they were the same thing."
 
-Marcus gripped his arm. "I'll find you. Somehow. When the senator's anger cools, when the politics shift—"
+Marcus gripped my arm. "I'll find you. Somehow. When the senator's anger cools, when the politics shift—"
 
-"Perhaps." Verinus covered his friend's hand with his own. "But do not wait for that day. Live well. That is enough."
+"Perhaps." I covered his hand with my own. "But do not wait for that day. Live well. That is enough."
 
-They stood together in the empty chamber, the fresco of Justitia watching from the wall with her crooked scales.
+We stood together in the empty chamber, the fresco of Justitia watching from the wall with her crooked scales.
 
-Outside, somewhere in the city, the servant Philo was already learning of the verdict. He would try, in the weeks that followed, to intercede on Marcus's behalf—to speak to someone in the senator's household, to plead for the friend of the man who had saved him. He would be turned away. He would be threatened.
+Then Marcus, too, was gone, and I stood alone in the chamber where my career had ended, feeling the strange lightness of a man who had finally stopped pretending that certainty was possible.
 
-But he would survive. He would build a small life near the river, selling vegetables. His wife would bear a child.
+I had chosen compassion.
 
-Verinus would not learn any of this until much later. For now, he stood in the chamber where his career had ended, feeling the strange lightness of a man who had finally stopped pretending that certainty was possible.
+I had lost everything.
 
-He had chosen compassion.
+And somewhere beneath the loss, something I had held tight for forty years had, finally and irrevocably, let go.
 
-He had lost everything.
 
-And somewhere beneath the loss, something that had been tightly held for forty years had finally, irrevocably, let go.
+The olive grove stretched down the hillside toward the sea, its silver-green leaves catching the late autumn light. I stood among the trees, watching the freedman—a quiet Sicilian named Servius—harvest the last of the season's fruit. The rhythm of the work was hypnotic: hands reaching, olives falling into the basket, the soft thud of fruit against woven reed.
 
-The olive grove stretched down the hillside toward the sea, its silver-green leaves catching the late autumn light. Verinus stood among the trees, watching the freedman—a quiet Sicilian named Servius—harvest the last of the season's fruit. The rhythm of the work was hypnotic: hands reaching, olives falling into the basket, the soft thud of fruit against woven reed.
-
-He had been here three months. The journey from Rome had taken two weeks by ship, and he had spent the first month simply learning the shape of his exile—the small stone house with its single hearth, the grove that provided his livelihood, the fishing village an hour's walk down the coastal road where he could buy bread and wine and the occasional letter from the mainland.
+I had been here three months. The journey from Rome had taken two weeks by ship, and I had spent the first month simply learning the shape of my exile—the small stone house with its single hearth, the grove that provided my livelihood, the fishing village an hour's walk down the coastal road where I could buy bread and wine and the occasional letter from the mainland.
 
 No letters had come. Not until now.
 
-The packet had arrived with the autumn merchant ships, its seal cracked from salt air but still legible. Marcus's hand—Verinus had recognized it before he even broke the wax. He had waited until the afternoon light was right, until he could sit beneath the oldest olive tree with his back against its trunk and read without distraction.
+The packet had arrived with the autumn merchant ships, its seal cracked from salt air but still legible. Marcus's hand—I had recognized it before I even broke the wax. I had waited until the afternoon light was right, until I could sit beneath the oldest olive tree with my back against its trunk and read without distraction.
 
-Now he held the letter in his hands, the papyrus soft from its long journey across the sea.
+Now I held the letter in my hands, the papyrus soft from its long journey across the sea.
 
 *I petitioned to join you. The senator's household has made clear that my presence in your exile would be... noted. I am not brave enough to test what that means. Forgive me.*
 
@@ -730,84 +733,65 @@ Now he held the letter in his hands, the papyrus soft from its long journey acro
 
 *Marcus*
 
-Verinus read the letter three times.
+I read the letter three times.
 
-The first time, the words blurred—Marcus's voice reaching him across the sea, across the months, across the silence that had settled over this place like dust on forgotten scrolls. The second time, he caught the details: the hesitation in *noted*, the precision of *vegetables, mostly*, the way *though I cannot say why* carried more weight than any argument Marcus had ever made. The third time, he read it as he would have read testimony in the old days—searching for what was said and what was left unsaid, for the shape of the silence between the words.
+The first time, the words blurred—Marcus's voice reaching me across the sea, across the months, across the silence that had settled over this place like dust on forgotten scrolls. The second time, I caught the details: the hesitation in *noted*, the precision of *vegetables, mostly*, the way *though I cannot say why* carried more weight than any argument Marcus had ever made. The third time, I read it as I would have read testimony in the old days—searching for what was said and what was left unsaid, for the shape of the silence between the words.
 
-But this time, he did not try to resolve the silences. He simply let them be.
+But this time, I did not try to resolve the silences. I simply let them be.
 
-Philo was alive. Philo was free. Philo had built something—a stall, a wife, a child on the way. The frightened man whose hands had never stopped moving, whose silence had been terror rather than guilt, had found a life beyond the shadow of his master's death. And he had tried to help Marcus. He had risked himself for a man he barely knew, simply because that man had been the friend of the investigator who had saved him.
+Hylas was alive. Hylas was free. Hylas had built something—a stall, a wife, a child on the way. The frightened man whose hands had never stopped moving, whose silence had been terror rather than guilt, had found a life beyond the shadow of his master's death. And he had tried to help Marcus. He had risked himself for a man he barely knew, simply because that man had been the friend of the investigator who had saved him.
 
-The news settled into Verinus like water finding its level. The compassionate judgment had meant something after all. He had been right.
+The news settled into me like water finding its level. The compassion had meant something after all. I had been right.
 
-He reached into his belt and drew out the bronze stylus.
+I reached into my belt and drew out the bronze stylus.
 
-It was dull now. He had not cleaned it since leaving the city. The cloth he had always carried for that purpose was somewhere in his traveling chest, forgotten. The ritual that had once been automatic—the response to contradiction, the restoration of order—had simply stopped. His hands were steady. The compulsive cleaning was gone.
+It was dull now. I had not cleaned it since leaving the city. The cloth I had always carried for the purpose was somewhere in my traveling chest, forgotten. The ritual that had once been automatic—the answer to contradiction, the restoration of order—had simply stopped. My hands were steady. The compulsion was gone.
 
-In his other hand, tucked beneath the letter, were the notes from the Varro case. He had brought them with him—he did not know why. Perhaps as evidence of his failure. Perhaps as a reminder of what certainty had cost him.
+In my other hand, tucked beneath the letter, were the notes from the Varro case. I had brought them with me—I could not have said why. Perhaps as evidence of my failure. Perhaps as a reminder of what certainty had cost me.
 
-He spread them on the ground now: the servant's account, the student's, the neighbor's, the cook's. The impossible timelines. The woman no one would name. The philosopher who had wept alone in his study and then chosen to stop breathing.
+I spread them on the ground now: the servant's account, the student's, the neighbor's, the cook's. The impossible timelines. The woman no one would name. The philosopher who had wept alone in his study and then, I believed, chosen to stop breathing.
 
-The contradictions lay side by side, unresolved. They would never be resolved. For the first time in his life, Verinus did not try to fix it.
+The contradictions lay side by side, unresolved. They would never be resolved. For the first time in my life, I did not try to fix it.
 
-He folded Marcus's letter carefully and placed it beside the testimonies. The stylus lay across them both, tarnished and uncleaned, no longer a tool for imposing order but simply an object—bronze and weight and memory.
+I folded Marcus's letter carefully and placed it beside the testimonies. The stylus lay across them both, tarnished and uncleaned, no longer a tool for imposing order but simply an object—bronze and weight and memory.
 
-A stillness settled in his chest. A satisfaction that felt like peace but carried within it the first seed of pride: the quiet self-regard of having understood what others could not. He had seen through the illusion of certainty. He had chosen compassion when reason failed. He had been right—Marcus said so, even if he could not say why.
+A stillness settled in my chest. It felt like peace, and I let myself rest in it—the quiet certainty of having understood what other men could not. I had seen through the illusion of certainty. I had chosen compassion when reason failed, and I had been right; Marcus said so, even if he could not say why.
 
 *I think you were right.*
 
-The words glowed in his mind like embers. The old hunger for certainty was gone. But in its place, a subtler attachment had taken root. The satisfaction of having transcended what others still grasped at. The knowledge that he had learned what the philosophers in their porticoes still debated, what the senators in their tribunals still pretended to possess.
+The words glowed in my mind like embers. The old hunger for certainty was gone. What remained felt larger and quieter: the satisfaction of having outgrown what other men still grasped at, of having learned in one ruined year what the philosophers in their porticoes still debated and the senators in their tribunals still only pretended to possess.
 
-He had traded one attachment for another, and he did not see it.
+The autumn light faded. The sea turned from gold to grey to the deep blue of the coming night. Servius finished his work and walked past, nodding once, asking nothing.
 
-The autumn light faded. The sea turned from gold to grey to the deep blue of approaching night. Servius finished his work and walked past, nodding once, asking nothing.
+I gathered the notes and the letter and the stylus and walked slowly back to the house. The woman from the village who cooked for me twice a week had left bread and olives on the table. I ate alone, as I always did now, and felt the silence wrap around me like a garment I was only beginning to learn how to wear.
 
-Verinus gathered the notes and the letter and the stylus and walked slowly back to the house. The cook—a woman from the village who came twice a week—had left bread and olives on the table. He ate alone, as he always did now, and felt the silence wrap around him like a garment he was only beginning to learn how to wear.
+I slept well that night. For the first time since Rome, I dreamed of nothing at all.
 
-A pride lurked in the stillness, disguised as peace. But he could not see it. Not yet.
 
-He slept well that night. For the first time since Rome, he dreamed of nothing at all.
+The grove was quiet in the late afternoon light. Servius had gone down to the village market; the cook was visiting family in the hills. I sat alone at my table, the familiar weight of age pressing down through my shoulders, my spine, my hands resting on the worn wood.
 
-The grove was quiet in the late afternoon light. Servius had gone to the village market; the cook was visiting family in the hills. Verinus sat alone at his table, the familiar weight of age pressing downward through his shoulders, his spine, his hands resting on the worn wood.
+The testimonies were spread before me. I had not put them away. The servant's account, the student's, the neighbor's, the cook's—contradictory, unresolved, uncorrected. The stylus lay across them, tarnished and unclean. I had stopped that ritual entirely. The contradictions remained because I had learned they must remain.
 
-The testimonies were spread before him. He had not put them away. The servant's account, the student's, the neighbor's, the cook's—contradictory, unresolved, uncorrected. The stylus lay across them, tarnished and unclean. He had stopped that ritual entirely. The contradictions remained because he had learned they must remain.
+My breath came slower now, each one a small relinquishment, a quiet letting go of something I could not name. The evening air was cooling, but I could barely feel it on my skin. My body was winding down—not with the urgency of fever or the violence of injury, but simply winding down, the way a lamp gutters when the oil runs low.
 
-His breath came slower now. Each one a small relinquishment, a quiet letting go of something he could not name. The evening air was cooling, but he could barely feel it on his skin. His body was winding down—not dramatically, not with the urgency of fever or the violence of injury. Simply winding down, the way a lamp gutters when the oil runs low.
+Marcus's letter lay folded beside the testimonies. Its lines came back to me unbidden: *I think you were right, though I cannot say why.*
 
-Marcus's letter lay folded beside the testimonies. Its lines returned unbidden: *I think you were right, though I cannot say why.*
+The servant with his vegetable stall. The wife with child. Compassion had mattered even without certainty. I had chosen well.
 
-The servant with his vegetable stall. The wife with child. Compassion had mattered even without certainty. He had chosen well.
+I had learned that virtue persists where certainty fails.
 
-He had learned that virtue persists where certainty fails.
+The thought sat in me, warm and solid, and I held it close. I had understood this. I would carry it forward. The philosophers in their porticoes were still debating what I had already settled; the senators in their tribunals still pretended to a certainty I had outgrown. I had seen through the illusion that governed every year of my service—chosen compassion when reason failed, and been right, and known that I was right. The knowing was sweet. I let myself rest in it.
 
-The thought sat in him like a possession, warm and solid. *I have understood this. I carry this forward.* The satisfaction of having arrived somewhere—of having found what others could not find. The philosophers in their porticoes still debated; the senators in their tribunals still pretended. But he had seen through the illusion. He had chosen compassion when reason failed.
+The world was imperfect and therefore lovable. This much I knew. This much I kept.
 
-*And I have understood this.*
-
-The clinging was subtle. Not to certainty anymore—he had released that. But to having transcended certainty. To being the one who knew. The satisfaction felt like wisdom, but it tasted, faintly, of pride.
-
-He did not see it. He could not see it. The lesson had become a possession, and possessions are not easily released.
-
-Light drained from the grove. Shadows pooled between the olive trees, lengthening across the ground toward his table. Somewhere a sound—bird, insect, wind in dry grass—he could not identify which, and he did not try. The world was imperfect and therefore lovable. This much he knew. This much he kept.
-
-His hands—the hands that had cleaned the stylus, written the verdicts, held Marcus's letter—rested now, finally still. Not the stillness of humility. The stillness of completion. The stillness of a man who believed he had finished.
+My hands—the hands that had cleaned the stylus, written the verdicts, held Marcus's letter—rested now, finally still. Not the stillness of humility. The stillness, I thought, of a man who had finished.
 
 *Virtue lives where certainty fails.*
 
-The thought rose in him, clear and steady, the culmination of everything he had learned in exile. And beneath it, unexamined, the quiet satisfaction: *And I have understood this.*
+The thought rose in me clear and steady, the sum of everything the exile had taught me. I had understood it. It was mine.
 
-His eyes closed. Not in resolution—there was no resolution, not really. Only quiet exhaustion. Only the body finally releasing what the mind had held too long.
+My eyes closed. Not in resolution—there was no resolution, not really. Only quiet exhaustion. Only the body releasing at last what the mind had held too long.
 
-The stylus slipped from loosening fingers. It fell across the testimonies, bronze against papyrus, and lay still.
+The stylus slipped from my loosening fingers. I felt it go—bronze against papyrus, the small weight leaving my hand—and then I did not feel the table, or the cooling air, or the grove going dark around me.
 
-No witnesses. No discovery. Only the grove darkening around a man who had learned to act without knowing but never learned to let go of having learned.
-
-The evening deepened. The shadows merged. The olive trees stood silent, indifferent, as the light faded from the world.
-
-Somewhere, in the village, Servius was bargaining for fish. Somewhere, in the hills, the cook was laughing with her sister's children. Neither knew that the man they served was dying. Neither could say who he had been or who he had become.
-
-The contradictions lay unresolved on the table. The stylus lay uncleaned in his hand.
-
-And in the silence of the grove, the soul that had been Verinus released its grip on the flesh—carrying forward the genuine insight that compassion survives uncertainty, and carrying forward too the subtle pride that would make the next life vulnerable.
-
-The Desert Father would inherit both.
+Only the thought, fading with me: that I had understood. That at the end, finally, I had understood.

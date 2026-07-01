@@ -54,7 +54,6 @@ The flat reasserted itself around her, cold tea, ticking radiator, the silence o
 
 She leaned into the thread. The correction began.
 
-
 The intervention required two pressures.
 
 The first was simple. Panic breeding panic, the spread of fear through bodies packed too close. The Long Walls had filled with refugees from the countryside, families fleeing Spartan raids who crowded together in canvas shelters and shared air and shared dying. Lilith pressed against the fear-threads and felt them brighten.
@@ -125,22 +124,21 @@ Alexios would look at Philon today and see the pyre waiting behind the living fa
 
 The hunger in her chest did not name itself. She did not ask it to.
 
+Alexios left at midday. Lilith watched him go through the thread. Heard his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
 
-The dream had worked. The smell of burning clung to Alexios still, and Lilith felt it working in him through the morning—the pyre, the bodies stacked like cordwood, his mentor's face becoming meat on the fire. Priming, waiting for the moment that would turn it into flight.
+The dream had worked. The smell of burning clung to him still.
+
+Only Philon remained, alone in his clinic, surrounded by the dying he could not stop touching.
 
 She leaned closer.
 
 ---
 
-The slave woman collapsed at the eastern gate a little before midday.
+The slave woman collapsed at the eastern gate three days after Alexios fled.
 
 Lilith felt the impact before she understood it. Knees striking stone, the sound of a body surrendering to weight it could no longer carry. The guards had retreated to a distance that spears could not cross. No one moved toward the fallen woman. No one spoke her name.
 
 She had no name. Not anymore. Whatever her owners had called her had been left behind when they fled the fever, when they threw their property to the streets like spoiled grain.
-
-Alexios learned of her first, and the dream rose to meet the news—the smell, the fire, the face he could not stop seeing. He would not follow Philon to the gate. He could not. He chose the road to Eleusis instead and left at midday, his footsteps receding down streets emptied by fear, his face set with the certainty of a man who has made peace with abandonment.
-
-Only Philon remained, alone, surrounded by the dying he could not stop touching.
 
 Philon heard the commotion from his clinic. The thread hummed with his attention shifting—away from the patients who might live, toward the woman who would certainly die.
 
@@ -186,7 +184,7 @@ She understood his mistake with perfect clarity. He was conflating service with 
 
 No. His mistake was newer. Purer. The ego hiding inside virtue's clothing.
 
-*Was the one for her—or for me?*
+*Was the one for them—or for me?*
 
 The question was already forming in the thread, waiting to crystallize. She could feel its shape—the insight his dying would release, the lesson her intervention had not corrupted but concentrated.
 
@@ -203,7 +201,6 @@ The slave woman's weight settled against Philon's chest. Too light, the fever ha
 Lilith watched.
 
 The thread hummed with his compulsion, and she followed it, and neither of them understood that following was also reaching.
-
 
 The slave woman died three hours before dawn.
 
@@ -243,7 +240,7 @@ She felt the heat spike. The delirium beginning. The thread growing thin and str
 
 And beneath her voice, another question, rising from the depths of his dissolving certainty:
 
-*Was the one for her. Or for me?*
+*Was the one for them. Or for me?*
 
 The thought burned brighter than the fever. Lilith felt it crystallize in the thread—not an answer, but a seed. The question that would not resolve, that could not resolve, that would carry forward into whatever came next.
 
@@ -285,15 +282,15 @@ She felt the kinship whisper extending from Ka through Chandra to Philon. She fe
 
 But beneath the curiosity, something else was surfacing. Something that would not file cleanly.
 
-She forced herself to trace the pattern. Three lessons. Two interventions. Two backfires. The data arranged itself with brutal clarity:
+She forced herself to trace the pattern. Three interventions. Three backfires. The data arranged itself with brutal clarity:
 
-Ka: Her observation had not touched his choices. Winter had broken his hoarding. He had learned *cooperation must be chosen freely, or not at all.*
+Ka: Her observation had isolated him. Winter had broken his hoarding. He had learned *cooperation must be chosen freely, or not at all.*
 
-Chandra: Her administrative pressure had reinforced his ledgers. Fire had consumed them. He had learned *generosity cannot be calculated, only given.*
+Chandra: Her administrative pressure had reinforced his ledgers. Fire had consumed them. She had learned *generosity cannot be calculated, only given.*
 
-Philon: Her intervention had isolated him perfectly. His martyrdom had crystallized the question: *Was the one for her—or for me?*
+Philon: Her intervention had isolated him perfectly. His martyrdom had crystallized the question: *Was the one for them—or for me?*
 
-Three lessons. Three crystallizations. Twice her deliberate opposition had accelerated what she opposed.
+Three lessons. Three crystallizations. Three times her opposition had accelerated what she opposed.
 
 Her hands had stilled on the cold ceramic. The flat pressed in around her—walls too close, air too still, the silence of a space no one visited taking on the particular weight of understanding she had been refusing.
 
@@ -301,7 +298,7 @@ Not one backfire. Not two. A *mechanism*.
 
 Opposition accelerates what she opposes.
 
-The words formed themselves with the clinical precision she had cultivated across millennia, but beneath them something cracked—hairline fracture in certainty she had not examined. She had not corrupted his progress. She had not impeded his development. When she intervened, she had *taught* him. She had been his teacher wearing opposition's face.
+The words formed themselves with the clinical precision she had cultivated across millennia, but beneath them something cracked—hairline fracture in certainty she had not examined. She had not corrupted his progress. She had not impeded his development. She had *taught* him. Every time. She had been his teacher wearing opposition's face.
 
 Something shifted in her chest. Not alarm (she did not feel alarm; she was beyond such simple reactions). Not fear (fear was for consciousnesses that had not transcended the lower patterns). Something else. Something that felt like the ground shifting beneath the chair she had not left in days.
 

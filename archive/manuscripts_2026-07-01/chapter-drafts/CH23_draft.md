@@ -70,7 +70,6 @@ The light continued to taste like arrival. And arrival continued, unfolding, pat
 
 ---
 
-
 Movement here was remembering where you wanted to be.
 
 The realm shifted—or the awareness shifted through the realm—and what functioned like distance collapsed into arrival. A new zone manifested: concentrated beauty, pleasure-frequencies saturating the space until the space itself became the pleasure, until there was no distinction between perceiving beauty and being beauty perceived.
@@ -151,7 +150,7 @@ But the relationship to it shifted. The one perceiving it understood: this is a 
 
 The question surfaced again, clearer now. The answer was already present in the asking: the wheel still turned. The fetters still bound. The path continued through this realm because the realm itself could not be clung to, could not be made into the final answer, could not substitute for the dissolution that remained incomplete.
 
-The phantom sense of body—memory of weight, of solidity, of flesh—had been relief in its absence. But something in the absence called forward: *you will return.* The once-returner's trajectory implied exactly what the name suggested. Return, in form, for as long as the completing still required.
+The phantom sense of body—memory of weight, of solidity, of flesh—had been relief in its absence. But something in the absence called forward: *you will return.* The once-returner's trajectory implied exactly what the name suggested. One more time in form. One more life to complete what lifetimes had begun.
 
 The garden receded—or the awareness moved on—and the deva beings watched without reaction, their welcome neither withdrawn nor continued, simply present like the realm itself, available to any who chose to rest in it.
 
@@ -162,7 +161,6 @@ But incompleteness pulled the awareness forward. What wasn't dissatisfaction wit
 What was truer than comfort. What knew the turning had to complete itself, and this beautiful stillness was not completion.
 
 ---
-
 
 He felt her before he saw her.
 
@@ -278,7 +276,6 @@ And the awareness that had been Silas moved on, carrying the meeting like a weig
 
 ---
 
-
 The encounter had shifted his orientation.
 
 The realm continued its harmonics, its light-frequencies, its patient availability to whatever chose to move through it. The shift was subtler: an orientation adjusted, an angle changed, a question answered without anyone asking it.
@@ -349,12 +346,11 @@ Toward return.
 
 *Once-returner.*
 
-The name implied exactly what it said. Return, in form, for as long as the completing still required. The deva realm was passage; the path continued through it toward what came next.
+The name implied exactly what it said. One more time in form. One more life to complete what lifetimes had begun. The deva realm was passage; the path continued through it toward what came next.
 
 And ahead—glimpsed rather than seen—lay the quality of futures, of time, of the world he'd left when Manchester's morning opened into this.
 
 ---
-
 
 The realm's quality was changing.
 
@@ -398,7 +394,7 @@ The thought arrived with the quality of insight: not something he was thinking, 
 
 The question opened a door he hadn't known was there. One. Not two in competition, where one must fail for the other to succeed. One, appearing as two until the appearance was no longer necessary. One, playing both parts until the play completed itself.
 
-The recognition hovered at the edge of the thought, never arriving as word but present as quality: that separate interests were never separate, that his welfare and hers were the same welfare, that the race she ran was a race against herself by another name.
+The word that meant "loving-kindness" hovered at the edge of the thought, never arriving as word but present as quality. The one who was coming. The future completion. Named for the very thing that would make competition obsolete: the recognition that separate interests were never separate, that his welfare and hers were the same welfare, that the race she ran was a race against herself by another name.
 
 *She will see it when she sees it.*
 
@@ -448,7 +444,7 @@ Something ahead.
 
 He could perceive it without seeing it: a world, a future, a density waiting to receive the awareness that would inhabit it. Not the world he'd left—Manchester's grey skies, the faculty housing's familiar cracks. Something else. Something changed. Earth, but Earth transformed, Earth continuing into a future he couldn't yet perceive clearly.
 
-The once-returner's destination.
+The Prophet's world. The once-returner's destination.
 
 The realm released him—or he released himself from it—and the transition was not falling but arriving, not ending but beginning, the threshold opening onto whatever the pattern required next.
 

@@ -56,7 +56,7 @@ The shimmer. Still there. Faint now, almost invisible in the overwhelming busine
 
 The knowing rose: this was the last body. The wheel still turned, would always turn, beings incarnating and dying and incarnating again in the endless motion that the teaching would illuminate but never stop. But we would not need another body. What remained to be done could be done here. What remained to be broken could break.
 
-The final incarnation. Nothing had been promised in advance—the completion was only the wheel's way of imagining its own end. But the conditions had finally aligned: the world healed enough to receive, the beings ready enough to hear, the fetters thin enough to see through.
+The final incarnation. The prophecy was just story, just the wheel's way of imagining its own completion. But the conditions had finally aligned: the world healed enough to receive, the beings ready enough to hear, the fetters thin enough to see through.
 
 ---
 
@@ -102,6 +102,9 @@ The last morning that would matter.
 
 ---
 
+**End of Movement I: Arrival**
+
+---
 
 Days passed. Or weeks—the distinction mattered less here, where time moved to rhythms older than clocks.
 
@@ -245,6 +248,9 @@ And whatever was walking no longer knew itself as "we."
 
 ---
 
+**End of Movement II: The Recognition**
+
+---
 
 The tree.
 
@@ -265,8 +271,6 @@ Time became optional.
 Simpler than meditation, more complete. No meditator, no practice pursued, no goal sought. The body sat. The breathing continued. Awareness rested on what arose without reaching for or pushing away.
 
 The remaining fetters were visible now—as textures in experience rather than concepts, as places where attention still caught on itself. The last handholds on the cliff face before the opening into open sky.
-
-The knot that had held them had already given way—in the square, in the chain that formed and held and dissolved, in the seeing-through of the one who had needed to be first. What remained were the four it had anchored. Without the anchor they were not so much broken as let go of, the way a held breath is let go: not an act, only the end of the holding.
 
 *Desire for form realms.*
 
@@ -291,6 +295,24 @@ The formless realms were also meat. Subtle meat rather than gross, refined cling
 The memory released its grip. Through the same clear seeing that had thinned the previous fetter rather than through effort. The formless realms were part of the journey, but they were passage rather than destination. They were rest stops on a wheel that kept turning, and attachment to the rest stops was still attachment to the wheel.
 
 The fetter thinned. Became visible. Lost its power.
+
+---
+
+*Conceit.*
+
+The subtlest of the remaining fetters, the most difficult to see because it wore the clothing of humility. The gross pride of achievement had burned away long before, in lives that had learned through failure after failure that accomplishment was never owned. This was finer. The conceit of being-about-to-complete.
+
+The "I" that remained when all other "I"s had dissolved. The one who was almost there. The one who had passed through the fetters, the realms, the dissolutions, and now sat beneath a tree on the edge of becoming what had been become for ages of the world.
+
+It was still identity. Still self-construction. Still the assembling of a someone who could be about-to-complete, who would be the one completing, whose completion would be an achievement however much the language denied achievement.
+
+When there's no one completing, completion happens without an achiever.
+
+The phrase arose from nowhere—seeing occurring rather than teaching remembered. The conceit saw itself seeing, and in the seeing, could maintain itself. There was no one beneath the tree about to awaken. There was sitting happening. There was the process continuing. But the "one" who had seemed to be the one doing it—
+
+Visible now. Like a line drawn on glass, only apparent when the light caught it at certain angles. The line had never been a barrier. It had been a drawing of a barrier, a representation with no substance.
+
+The fetter revealed itself as having never been substantial, and the recognition was the dissolving.
 
 ---
 
@@ -368,6 +390,9 @@ Ready for what came next.
 
 ---
 
+**End of Movement III: The Completion**
+
+---
 
 They gathered.
 
@@ -513,6 +538,9 @@ And yet: continuing.
 
 ---
 
+**End of Movement IV: The Teaching**
+
+---
 
 Morning.
 
@@ -613,5 +641,21 @@ The trees rustled. A door opened somewhere and closed somewhere else. Someone la
 Just this.
 
 The teaching continued.
+
+---
+
+**End of Movement V: Coda**
+
+---
+
+**End of Chapter 26: The Awakened**
+
+---
+
+**End of Part IV**
+
+---
+
+**End of *The Wheel of Meat***
 
 ---

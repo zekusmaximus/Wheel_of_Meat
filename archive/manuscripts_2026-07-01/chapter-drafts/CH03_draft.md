@@ -8,7 +8,7 @@ The kettle screamed and the wind screamed, steam rising from the spout as white-
 
 She had not meant to find this.
 
-The flat held its silence: radiator ticking, rain against the window, the distant arterial hum of Wilmslow Road at two in the morning. But beneath this silence another pressed. The silence of a world before language, before cities, before the concept of silence itself. She had been reaching for her own patterns, the familiar threads of the Alexandria physician and the Crimean nurse and the washerwoman whose memories surfaced only in the smell of lye. Instead she had found something else.
+The flat held its silence: radiator ticking, rain against the window, the distant arterial hum of Oxford Road at two in the morning. But beneath this silence another pressed. The silence of a world before language, before cities, before the concept of silence itself. She had been reaching for her own patterns, the familiar threads of the Alexandria physician and the Crimean nurse and the washerwoman whose memories surfaced only in the smell of lye. Instead she had found something else.
 
 Someone else.
 
@@ -44,7 +44,6 @@ She closed her eyes, felt her shoulders settle against the chair's worn upholste
 
 She let herself follow.
 
-
 ## II
 
 Ka did not know the word for what he was doing. The concept of *hoarding* would not exist for epochs, would require granaries and ledgers and the slow accumulation of surplus beyond immediate need. But his body knew. His hands knew, the way they clutched the frozen deer haunch, the way his fingers curled around it even in sleep.
@@ -65,7 +64,7 @@ Lilith's hands wrapped tighter around the mug's cooling ceramic. She understood 
 
 The lesson was wrong. She could see that clearly. His isolation would kill him more surely than any predator. His hoarding would leave him with meat he could not eat while his body failed in the cold.
 
-She could see it. She could not reach through time to change what had already happened—nothing could; the past did not yield to being rewritten. But she could see the pattern of his mistake as clearly as if she were reading his chart.
+She could see it. She lacked the ability to reach through time to change it. The skill would come later, but she could see the pattern of his mistake as clearly as if she were reading his chart.
 
 *Such a long way to go,* she thought. *Hundreds of lifetimes, maybe.*
 
@@ -107,7 +106,6 @@ Lilith's radiator clicked off, the cheap flat's inadequate heating cycling down 
 
 Both of them held their prizes and called it enough.
 
-
 ## III
 
 The white-ground fell harder now. Ka had lost sight of the tribe's fire—the storm had eaten everything, had turned the world to white and wind and the silence that came before dying.
@@ -143,7 +141,6 @@ The cave was empty. The body was meat now, no different from the deer it still c
 But the thread—the thread continued.
 
 Lilith followed.
-
 
 ## IV
 
@@ -183,7 +180,7 @@ The question sat in her chest like the cold that had not quite left. This patter
 
 Dawn light strengthened. Manchester stirred toward morning outside her window: buses beginning their routes, early joggers on the paths, the ordinary machinery of a world that did not know it contained such things as she had seen tonight.
 
-She would follow this one forward. Her shoulders settled. The decision felt inevitable, the way certain clinical conclusions felt inevitable—not forced but discovered, the right next step emerging from the correct assessment. See where it went. Understand what it was becoming.
+She would follow this one forward. Her shoulders settled. The decision felt inevitable, the way certain clinical interventions felt inevitable—not forced but discovered, the right action emerging from the correct assessment. See where it went. Understand what it was becoming.
 
 A fellow traveler. That was all. Curiosity about a parallel journey. The scientist's desire to understand a phenomenon she had stumbled upon.
 

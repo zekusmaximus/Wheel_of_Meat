@@ -82,7 +82,6 @@ Ka had asked it in the cold, dying alone, his final thought shaping what came af
 
 ---
 
-
 Time passed in the way enhanced lives measured it: decades like seasons, the slow accumulation of years that would have seemed like lifetimes to the unmodified.
 
 Silex grew. The word applied, though growth here meant optimization curves and developmental milestones, neural pathway formation tracked by metrics that left nothing to chance. The Eternal Synthesis's educational protocols guided consciousness toward approved patterns—this posture for stillness, this breathing rhythm for calm, this sequence of internal gestures for the states they called transcendence.
@@ -140,7 +139,6 @@ But the flicker persisted in his awareness like an afterimage, like an outline g
 Somewhere in the network—he could not have said how he knew—another consciousness sat in identical compliance, feeling identical suffocation. The same hollow. The same question forming in the space the protocols couldn't fill.
 
 ---
-
 
 Lith had achieved the third tier.
 
@@ -211,7 +209,6 @@ She began to search.
 Not through the network's search functions—those would flag her interest, document her pattern, add his name to her file alongside the irregular enlightenment and the atypical development. Through the margins instead. The gaps the monitoring overlooked. The old method: presence seeking presence, frequency seeking frequency. Her hands moved through archive interfaces while something deeper than hands reached through dimensions the interfaces couldn't map.
 
 ---
-
 
 They found each other in a space the system couldn't reach.
 
@@ -295,7 +292,7 @@ Her face had changed—not the physical features, which remained as constant as 
 
 *And it wasn't competition.* The admission cost her something. He could perceive the cost through the residue of the link. *It wasn't racing or priority or getting there first. It was just... presence. Yours. Mine. Both. Neither.*
 
-The quality hovered at the edge of the communication, never arriving as word but present as itself—the connection that The Eternal Synthesis could only simulate. Two threads of a pattern recognizing their connection to the weave.
+The word that meant loving-kindness hovered at the edge of the communication, never arriving as word but present as quality. The actual synthesis that The Eternal Synthesis could only simulate. Two threads of a pattern recognizing their connection to the weave.
 
 *We're both heretics now,* she communicated. *Both seeing the hollow. Both flagged for atypical patterns.*
 
@@ -334,7 +331,6 @@ Recognition. The same kind that had flashed when she first entered.
 Not of faces. Of what looked through them.
 
 ---
-
 
 Years passed. Their bodies aged.
 
@@ -438,7 +434,6 @@ And the timing that wasn't right kept approaching the moment when it would be.
 
 ---
 
-
 The summons arrived through official channels.
 
 Through the system itself rather than the informal links they had been using—the system addressing them by their designated identities, requesting their presence at a coordination facility, the language precisely calibrated to convey mandatory compliance while maintaining the fiction of voluntary participation.
@@ -523,7 +518,6 @@ The wheel kept turning. And they, together, moved toward whatever the turning re
 
 ---
 
-
 The bodies announced their terminus through channels designed for such announcements.
 
 Disease had been engineered away centuries ago, the organic failures that once claimed lives eliminated through genetic optimization and synthetic reinforcement. But optimization had limits. The designed flesh, for all its durability, followed the same trajectory as every material thing: decay, degradation, the gradual failure of systems that had been built to last but not to last forever.
@@ -574,19 +568,19 @@ Through the link that still connected them—and would connect them until the ne
 
 Her final fetter.
 
-She could feel it now—not see it whole, but feel its outline for the first time, where for lifetimes there had been only the looking-through. The grasping at completion that was itself the obstacle to completion. The need to be first, to be the one, to matter in the way that mattering required priority and position and the vanquishing of competition. She had carried it across 300,000 years of watching him, tracking him, intervening in ways that always backfired. And here, in the failing body, with the ending approaching and no race left to run—
+She could see it now, completely. The grasping at completion that was itself the obstacle to completion. The need to be first, to be the one, to matter in the way that mattering required priority and position and the vanquishing of competition. She had carried it across 300,000 years of watching him, tracking him, intervening in ways that always backfired. And here, in the failing body, with the ending approaching and no race left to run—
 
-*Something here. Something I have never let myself look at.*
+*It was absurd.*
 
-Not the whole of it. Not yet. Only the edge of a shape surfacing the way a stone surfaces in a draining pool—still half under, still mostly hidden, because she had spent so long looking through it that looking at it took more than this body had left to give.
+The seeing arrived without announcement—the clarity that had eluded her across nine successful dissolutions, hidden because she had been looking through it rather than at it.
 
-*The need to be first.* She let the words begin to form. *To be the one who achieves it. To matter in the way that mattering required priority. To complete before him so the completion would be mine.*
+*The need to be first.* She let the words form fully for the first time. *To be the one who achieves it. To matter in the way that mattering required priority. To complete before him so the completion would be mine.*
 
 The fetter had worn a thousand faces across her incarnations: the tracker who stayed ahead of her quarry, the intervener who controlled the timing of his progress, the competitor who measured herself against his position on the path. All of it the same grasping. All of it the invisible lens she couldn't examine because examination required stepping outside what held her.
 
 The communication passed through the link, and she felt his recognition of what she had seen.
 
-*Were we ever racing?* she said, and the question itself was new—she had never been able to ask it before. *Was there ever a finish line? The one I thought I was competing against—*
+*We were never racing,* she continued. *There was never a finish line. The one I thought I was competing against—*
 
 *—was never separate from the one competing.*
 
@@ -602,7 +596,7 @@ The materials that had housed consciousness across 300,000 years of practice: al
 
 The wheel turned. The meat was still meat, whatever its composition.
 
-Something loosened in her—the fetter's grip easing, for a moment, after lifetimes of holding. Not dissolution. Not even the beginning of it. Only the first time the grip had registered as grip rather than as the shape of the world. It tightened again almost at once. But it had been felt—for an instant something she stood outside of rather than something she looked through.
+Something loosened in her—the fetter's grip, finally, after lifetimes of holding. Incomplete dissolution. The breaking was gentler than the first nine had required. But visible. Acknowledged. No longer the lens she looked through, unable to see because seeing would require recognizing that she was looking.
 
 *I wanted to be first,* she communicated.
 
@@ -631,7 +625,6 @@ Completion approached but had not arrived.
 Soon.
 
 ---
-
 
 The weight began to lift.
 
@@ -673,7 +666,7 @@ Here, in warmth that had been calibrated to optimal parameters, two consciousnes
 
 *What remains is what was always here. What we're becoming is what we always were.*
 
-The quality that would characterize what they were becoming arrived without arriving, present without presence: care without object, connection without requiring anything to connect.
+The word that meant loving-kindness arrived without arriving, present without presence, the quality that would characterize what they were becoming: care without object, connection without requiring anything to connect. The name of the one who was coming—who had been coming since before time included them—hovered at the edge of what remained of distinction.
 
 The yearning formed in what was no longer separable into his yearning or hers:
 
@@ -682,6 +675,8 @@ The yearning formed in what was no longer separable into his yearning or hers:
 *Stranger flesh. Alien substrate. Whatever the preparation requires.*
 
 *The wheel's final revolution—or the stepping off that reveals the revolution was always stillness.*
+
+*The one whose name means what remains when competition dissolves.*
 
 *Soon.*
 
@@ -725,6 +720,10 @@ The pattern completing its revelation of itself.
 
 The wheel still turning—but toward what? Not more incarnation. Not more practice. Something waited beyond the practice, beyond the strange flesh and alien substrates that might still be necessary, beyond everything that 300,000 years of learning had been preparing for.
 
+The one who was coming.
+
+The name that meant what remained when competition dissolved.
+
 *Soon.*
 
 The word—if it was a word—rose from what was no longer distinguishable as two consciousnesses, two perspectives, two threads of a pattern that had been weaving itself toward this recognition since before weaving was possible.
@@ -738,5 +737,9 @@ And somewhere—or everywhere—or in the direction that wasn't direction—what
 Not many lives now. Perhaps one more. Perhaps none.
 
 The wheel turned. And what turned on it was almost ready to step off.
+
+---
+
+**End of Chapter 24: The Prophet**
 
 ---

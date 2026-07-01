@@ -18,6 +18,12 @@ Diego—the man whose thread she tracked. He had felt Sor Catalina's presence an
 
 The thought dissolved before completion. She was here, in her flat, in Manchester, in the present that was also the past that was also the present. The radiator clicked its inadequate warmth against walls that would not stop closing.
 
+She had walked to the university. Days ago, or was it weeks? Her body had known where to go when her mind refused to examine the destination. Philosophy faculty. Gothic verticals. The rain on stone.
+
+*He is there.*
+
+Present tense. The thought she kept filing and the filing kept failing.
+
 The walls pressed. Toledo walls, Manchester walls, the walls of her own construction that held the inadmissible separate from the admitted. She was tracking Diego de Lucena, converso physician, faith as performance, service as bargain. She was wearing Sor Catalina like a garment she had worn before, centuries before, and the garment still fit.
 
 The fit was the problem.
@@ -26,8 +32,7 @@ She reached for the thread and the thread was already there incense-thick, blood
 
 She followed. The walls came with her.
 
-
-She had not intended to count. But the pattern was counting itself—intervention after intervention, backfire after backfire, the same mechanism repeating with a precision that mocked precision.
+She had not intended to count. But the pattern was counting itself—intervention after intervention, backfire after backfire, the same mechanism repeating with precision that mocked precision.
 
 Ka's hoarding had taught sharing. Chandra's betrayal had taught trust. Philon's isolation had crystallized wisdom. Verinus's contradictions had taught humility. Macarius's pride had become its own mirror. Kaoru's frozen beauty had melted.
 
@@ -43,13 +48,11 @@ Six patterns integrated into behavior before she could observe him struggling.
 
 Her hand stilled on the cold ceramic. The observation she was filing was larger than any she had filed before. Everything the backfires had taught, crystallized into the way this one moved through the world.
 
-And under the six, holding them together, a seventh thing—the one this life was completing, the one she would have to name before she could be certain she had destroyed it. Patience. Not the gritted endurance she had watched men mistake for virtue, the teeth-clenched waiting for an ordeal to be over. This was patience as presence without demand. He sat with the dying and asked nothing of their dying. He treated without requiring the cure, witnessed without requiring the outcome, stayed without requiring that the staying be repaid. There was no grasping in it anywhere. That absence of grasping was what made it almost finished.
-
 She would destroy it.
 
 The thought arrived without permission. Her intervention would work—she was certain of that now. Personal betrayal through intimate knowledge. Tomás had prayed beside Diego, had broken bread at his table, had spoken Hebrew prayers in voices barely louder than breath. When Tomás betrayed that knowledge, the poison would be personal.
 
-But the poison would dissolve what had taken seven iterations to build. Cooperation would become isolation—the accused separated from community. Generosity would become evidence—his healing reframed as Judaizing. His wisdom would become proof of forbidden learning. His virtue would prove insufficient against institutional machinery. His humility would become indistinguishable from guilt. His equanimity would shatter when injustice turned personal. And the patience—the presence without demand—would have nothing left to rest on once the demand for justice woke in him.
+But the poison would dissolve what had taken six iterations to build. Cooperation would become isolation—the accused separated from community. Generosity would become evidence—his healing reframed as Judaizing. His wisdom would become proof of forbidden learning. His virtue would prove insufficient against institutional machinery. His humility would become indistinguishable from guilt. His equanimity would shatter when injustice turned personal.
 
 She would destroy something that had taken longer to build than she wanted to admit.
 
@@ -105,7 +108,6 @@ The recognition pressed against walls that had no room for it.
 
 She did not answer. The walls were already close enough.
 
-
 The thread pulled her deeper and the depth was a body she had already worn.
 
 Stone cold beneath sandals that were her sandals, had been her sandals, in a life she had lived before she understood that lives repeated. The shadow of San Bartolomé's western wall fell across grey habit, across folded hands, across the face that watched because watching was what it had always done.
@@ -156,12 +158,11 @@ The vessel's hands had been her hands. The vessel's certainty had been her certa
 
 The distance between watching and acting had never been as far as she pretended.
 
-
 The intervention was not Sor Catalina. Sor Catalina was completed action, archived certainty. The intervention was happening now, from this flat, through capabilities that did not require vessels.
 
 Lilith reached.
 
-Her fingers tightened around the cold mug, and somewhere in fifteenth-century Toledo, Tomás de Mendoza woke gasping from a dream of his son's face. Rafael in a cell. Rafael broken. Rafael burning.
+Her fingers tightened around the cold mug, and somewhere in sixteenth-century Toledo, Tomás de Mendoza woke gasping from a dream of his son's face. Rafael in a cell. Rafael broken. Rafael burning.
 
 She did not create the dream. She found the fear that already lived in Tomás and pressed it closer to his sleeping mind, made the images sharper, made the smell of smoke more real. The Inquisition had arrested Rafael on genuine charges—debts, a brawl certainly, but the Holy Office was patient, and patience could mean anything, and Tomás was old enough to know how easily charges multiplied.
 
@@ -195,6 +196,37 @@ She pushed, and the walls of her flat pressed close, and somewhere beneath the p
 
 The question dissolved. The mug was cold in her hands. The intervention continued.
 
+The flat was too small.
+
+She rose from the chair but found no relief. The walls always followed, the ceiling always pressed. The grey light that fell through rain-streaked glass carried the same claustrophobic weight as Toledo's narrow streets, as every enclosure she had tracked and tracked toward.
+
+*Open.*
+
+The word arrived before the memory: Gothic verticals. Victorian gravity softened by November rain. The philosophy faculty emerging from drizzle like an answer to a question she had not asked.
+
+She had walked there. Days ago, or weeks, time had become imprecise in the tracking haze. Her body had known where to go when her mind refused to examine the destination. She had stood in the rain outside buildings where he would be, *was*, present tense, and she had felt—
+
+She lost it before she could name it.
+
+*He is there.*
+
+Not Diego, burning his way toward lessons she was trying to prevent. The other. The contemporary thread. The consciousness that had surfaced into a body that walked those corridors, spoke to students, held office hours while she tracked his past through centuries of accumulated pattern.
+
+She could trace the thread forward. Could find where it surfaced now. Could—
+
+*What if distance is the problem?*
+
+The question pressed against the walls she had built around the inadmissible. Vessels failed. Circumstances failed. Interventions across temporal distance failed and failed and failed.
+
+But if she were *present*. Face to face. Direct contact.
+
+She filed the thought. Returned to the tracking, to Toledo, to the intervention she was still pressing into Tomás's sleeping fear.
+
+But the memory lingered: open sky, wet stone, the possibility of something other than walls.
+
+The flat pressed close. The flat was too small.
+
+And he was somewhere. Present tense. Reachable.
 
 Candlelight on stone walls. The scribe's quill scratching. Incense thick enough to taste, Frankincense and myrrh, the Holy Office's particular perfume that covered what needed covering.
 
@@ -249,7 +281,6 @@ She filed the thought. Strategy did not require comparison.
 But in her flat, in her chair, in the grey light that was always grey now, her chest held the same tightness Diego's hands were costing him.
 
 And she did not know whose tightness it was.
-
 
 Morning broke over the plaza and the plaza was full.
 
@@ -363,7 +394,7 @@ He died with peace on his face. He died having released the hatred she had engin
 
 *That hatred was a choice. That release was possible. That everything—everything—could be questioned.*
 
-The question would seed his next life. She had broken him, and in the breaking he had discovered what patience could teach—not endurance, not the clenched waiting she had assumed, but presence without demand: what destruction could crystallize when it was met with examination rather than resistance.
+The question would seed his next life. She had broken him, and in the breaking he had discovered what endurance could teach—what destruction could crystallize when destruction was met with examination rather than resistance.
 
 The question was her failure made manifest. But she could not see what the failure had produced.
 
@@ -392,7 +423,6 @@ She lost the thread as it accelerated past her, burning brighter than the fire c
 She was supposed to slow him down.
 
 He was speeding up.
-
 
 Grey light. Cold ceramic. The flat too small and the walls too close and the thread humming forward toward lives she had not yet tracked.
 
@@ -428,15 +458,29 @@ She was close. One knot remaining.
 
 So was he. And he was closing faster.
 
-She filed the recognition the way she filed everything that pressed too hard—as strategy, as a variable requiring adjustment, the method needing refinement rather than the goal. The filing held. It always held.
+*What if distance is the problem?*
 
-But beneath it, something else stirred. The silence this work had built around her. The weight of a knowledge no one else could carry. The wheel turning and turning, and no one to tell that the wheel was real.
+The thought returned. Louder now. She had worked through vessels, through circumstance, through temporal distance that made every intervention a reaching across a gap that could not be bridged.
+
+But the gap was not necessary. He existed *now*. In Manchester. Walking corridors she could walk, speaking to students she could approach, holding office hours she could—
+
+*What if I met him directly?*
+
+The question was a door. She did not open it. But she saw it now—saw the shape of an approach she had not permitted herself to consider.
+
+Not opposition from distance. Presence. Contact. The intimacy that vessels could only approximate.
+
+She filed the thought. Strategy. Recalibration. The method required adjustment, not the goal.
+
+But beneath the filing, something else stirred. The silence that this work had built around her. The weight of knowledge no one else could share. The wheel turning and turning, and no one to tell that the wheel was real.
 
 *Someone to know.*
 
 The need surfaced before she could suppress it. The first intimation of confession—before she was ready, but present. Someone who understood. Someone who had been there. Someone who could see her face and recognize—
 
 She cut off the thought. Too soon. Too raw. The success did not feel like success was supposed to feel.
+
+But the direction was forming. A different approach: presence instead of opposition, proximity instead of distance, methods that accumulated failure had finally taught her to abandon.
 
 Something else. Something closer. Something that felt less like strategy and more like—
 
