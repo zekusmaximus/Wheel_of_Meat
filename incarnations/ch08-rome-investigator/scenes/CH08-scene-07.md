@@ -20,17 +20,17 @@ The senator's jaw tightened, but he said nothing.
 
 "His heart. His breath. His will to continue." I paused. "The Stoics teach that a wise man may choose the manner of his departure. Varro was a philosopher. His death was his final argument—perhaps against despair, perhaps against the limits of reason itself. I cannot say with certainty. No one can."
 
-The senator's hands had curled into fists on the table. "And the servant? Philo? The man who failed to report his master's distress, who claims to have heard nothing despite sleeping mere paces from the study?"
+The senator's hands had curled into fists on the table. "And the servant? Hylas? The man who failed to report his master's distress, who claims to have heard nothing despite sleeping mere paces from the study?"
 
-"Philo is not guilty."
+"Hylas is not guilty."
 
 "Roman law—"
 
-"Roman law makes household slaves responsible for their master's safety. I am aware." My voice was steady. "But Philo did not fail to protect Varro. No one could have protected Varro from himself. The servant's silence was not negligence—it was terror. He knew something was wrong in that house. He did not understand what. He protected himself the only way he could: by not seeing, not hearing, not knowing."
+"Roman law makes household slaves responsible for their master's safety. I am aware." My voice was steady. "But Hylas did not fail to protect Varro. No one could have protected Varro from himself. The servant's silence was not negligence—it was terror. He knew something was wrong in that house. He did not understand what. He protected himself the only way he could: by not seeing, not hearing, not knowing."
 
 "That is not exoneration. That is excuse."
 
-"It is truth." I pushed back from the table. "Senator, you wish me to condemn Philo because it would tidy the matter. A guilty slave, punished. A patron's dignity preserved. But Philo is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."
+"It is truth." I pushed back from the table. "Senator, you wish me to condemn Hylas because it would tidy the matter. A guilty slave, punished. A patron's dignity preserved. But Hylas is not guilty of anything except being human—frightened, confused, unable to comprehend the philosophical torment that consumed his master. If I condemn him, I condemn innocence itself."
 
 The senator rose. His movement was slow, deliberate, but something in his face had changed. The controlled displeasure was hardening into something else—something that felt disproportionate to the moment, as if a fire had been stoked by invisible hands.
 
@@ -46,13 +46,13 @@ The praetor shifted uncomfortably. "Senator, perhaps—"
 
 I felt Marcus's eyes on me. I knew what my friend was thinking: *Apologize. Soften. Find a way to give the senator what he wants without destroying yourself.*
 
-For a long moment, the path was clear. The law permitted condemnation of the servant—required it, even. Philo had failed to report his master's distress. His silence had obstructed the investigation. The senator wanted resolution. The praetor needed closure. The system had functioned this way for generations.
+For a long moment, the path was clear. The law permitted condemnation of the servant—required it, even. Hylas had failed to report his master's distress. His silence had obstructed the investigation. The senator wanted resolution. The praetor needed closure. The system had functioned this way for generations.
 
-I could give them what they wanted. One word—*guilty*—and the case would close. The senator's rage would subside. My own career would survive. Philo would be sold, exiled, or worse, but that was the price of order. Individual suffering weighed against institutional stability. A calculation any competent investigator could make.
+I could give them what they wanted. One word—*guilty*—and the case would close. The senator's rage would subside. My own career would survive. Hylas would be sold, exiled, or worse, but that was the price of order. Individual suffering weighed against institutional stability. A calculation any competent investigator could make.
 
 I felt the word forming. Felt the cold clarity of procedure returning—the clean satisfaction of a world where law was sufficient, where compassion was weakness, where the servant's trembling hands were merely evidence of guilt.
 
-Then I saw those hands. White-knuckled on a table's edge, though Philo was not in the room. Trembling in the kitchen doorway when he had first spoken to me. The hands of a terrified man who had done nothing except fail to comprehend the philosophical torment consuming his master.
+Then I saw those hands. White-knuckled on a table's edge, though Hylas was not in the room. Trembling in the kitchen doorway when he had first spoken to me. The hands of a terrified man who had done nothing except fail to comprehend the philosophical torment consuming his master.
 
 The cold certainty cracked. I heard myself speak, and the words were not the ones I had been preparing.
 

@@ -6,19 +6,19 @@ I stood in the center of the chaos and felt something in my chest constrict.
 
 "With the servant."
 
-We found him in the kitchen, a thin man in his forties whose hands would not stop moving—fingers twisting in the fabric of his tunic, touching his face, reaching for objects and then withdrawing. His name was Philo, and he had been Varro's household slave for eleven years.
+We found him in the kitchen, a thin man in his forties whose hands would not stop moving—fingers twisting in the fabric of his tunic, touching his face, reaching for objects and then withdrawing. His name was Hylas, and he had been Varro's household slave for eleven years.
 
 "Tell me about that evening," I said.
 
-Philo's eyes darted to the doorway, as if expecting rescue or threat. His hands twisted in the fabric of his tunic—a continuous motion, compulsive, the body betraying what the voice tried to conceal.
+Hylas's eyes darted to the doorway, as if expecting rescue or threat. His hands twisted in the fabric of his tunic—a continuous motion, compulsive, the body betraying what the voice tried to conceal.
 
 I set down the stylus. The gesture was small, but it changed the space between us. No longer investigator and evidence. Two men in a room, one frightened, one trying to understand.
 
 "You are afraid," I said quietly. "Not of me." I let that settle. "You are not accused. I am not here to trap you. A man is dead, and you knew him better than anyone else in this house. Help me see what happened."
 
-Something in Philo's shoulders loosened—not trust, but the faint possibility of it.
+Something in Hylas's shoulders loosened—not trust, but the faint possibility of it.
 
-"The master retired after the evening meal," Philo said. "His mood was—" He stopped. Swallowed. "His mood was unsettled. He had received a letter that afternoon. I do not know from whom."
+"The master retired after the evening meal," Hylas said. "His mood was—" He stopped. Swallowed. "His mood was unsettled. He had received a letter that afternoon. I do not know from whom."
 
 "The letter?"
 
@@ -26,7 +26,7 @@ Something in Philo's shoulders loosened—not trust, but the faint possibility o
 
 I took up the stylus again and made a note. "You said in your written account that his mood was intemperate."
 
-"Did I?" Philo's hands found each other, fingers interlacing and releasing. "Yes. Intemperate. He shouted at the cook over the fish sauce. Small things angered him. But that was not unusual, toward the end."
+"Did I?" Hylas's hands found each other, fingers interlacing and releasing. "Yes. Intemperate. He shouted at the cook over the fish sauce. Small things angered him. But that was not unusual, toward the end."
 
 "The end of what?"
 
@@ -38,7 +38,7 @@ I took up the stylus again and made a note. "You said in your written account th
 
 "About what?"
 
-"Philosophy." Philo said the word as though it were a disease. "They always argued about philosophy. But this time the master sent him away before noon. Said he needed to think."
+"Philosophy." Hylas said the word as though it were a disease. "They always argued about philosophy. But this time the master sent him away before noon. Said he needed to think."
 
 I waited.
 
@@ -50,7 +50,7 @@ I waited.
 
 "And the woman? Your neighbor mentioned a woman's voice, three nights before the death."
 
-Philo's hands went still. "I heard nothing."
+Hylas's hands went still. "I heard nothing."
 
 "Nothing?"
 

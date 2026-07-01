@@ -28,7 +28,7 @@ The mechanism was ready. Four lessons crystallized in his behavior—cooperation
 
 She had been in the room for days. She had breathed the air he breathed, stood in a doorway that mirrored her flat's stripped containment. She had watched him not repeat the isolation, not repeat the distance, not repeat the martyrdom, not repeat the rigid certainty. Four lessons visible in a single man's behavior—more accumulated progress than she had seen in any iteration before.
 
-And she had learned from Verinus: push the certainty until it becomes condemnation. From Macarius: feed the pride until it becomes visible. The near-miss in the tribunal had shown her—she had been *close*. Verinus's certainty had aligned toward condemning the innocent, and only Philo's hands had broken through. She would not repeat that mistake. She would push harder. Seal the recognition before it could form.
+And she had learned from Verinus: push the certainty until it becomes condemnation. From Macarius: feed the pride until it becomes visible. The near-miss in the tribunal had shown her—she had been *close*. Verinus's certainty had aligned toward condemning the innocent, and only Hylas's hands had broken through. She would not repeat that mistake. She would push harder. Seal the recognition before it could form.
 
 The moment was perfect. Fifty monks gathered. Scribes recording. The warmth in his chest building toward unbearable.
 

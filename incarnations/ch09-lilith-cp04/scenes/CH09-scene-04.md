@@ -46,7 +46,7 @@ She leaned into that instant. Pressed against it with the weight of her attentio
 
 His mouth opened to speak—
 
-And then he saw Philo's hands.
+And then he saw Hylas's hands.
 
 White-knuckled on the table's edge. Trembling with the effort of stillness. The physical truth of another person's terror, cutting through the abstraction of verdict and procedure.
 
