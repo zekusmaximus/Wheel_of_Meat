@@ -46,7 +46,7 @@ The pattern showed something else.
 
 She had been close. Twice now, she had been *close*.
 
-Verinus, in the tribunal—his certainty aligning, the verdict forming, the cold satisfaction of condemning the innocent to preserve the system. She had felt it through the thread, the moment when his rigid precision nearly became the weapon she intended. Then: Philo's hands. The servant's trembling fingers breaking through the procedural haze. Physical recognition shattering the mechanism. Near-miss.
+Verinus, in the tribunal—his certainty aligning, the verdict forming, the cold satisfaction of condemning the innocent to preserve the system. She had felt it through the thread, the moment when his rigid precision nearly became the weapon she intended. Then: Hylas's hands. The servant's trembling fingers breaking through the procedural haze. Physical recognition shattering the mechanism. Near-miss.
 
 And now Macarius, at the gathering—his body arranging itself for witness, the heat of attention warming him like sunlight, the words of wisdom rising for an audience of fifty. Then: the taste in his mouth. The rancid-honey recognition of his own hunger. Physical recognition shattering the mechanism again. Near-miss.
 

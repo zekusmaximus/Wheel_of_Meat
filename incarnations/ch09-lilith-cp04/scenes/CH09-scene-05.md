@@ -14,7 +14,7 @@ The autumn merchant ships brought a letter written in Marcus's hand. She knew it
 
 The letter continued—the rest of it was friendship and grief—but those lines arrested her. *The servant has a stall. His wife is with child. I think you were right.*
 
-The compassionate judgment had mattered. Philo was alive because Verinus had refused to condemn him. Philo had tried to help Marcus because Verinus had helped him first. The mercy she had intended to punish had propagated through a year of consequences until it reached this moment: a freedman selling vegetables, a wife carrying new life, a ripple she had not anticipated expanding without her.
+The compassionate judgment had mattered. Hylas was alive because Verinus had refused to condemn him. Hylas had tried to help Marcus because Verinus had helped him first. The mercy she had intended to punish had propagated through a year of consequences until it reached this moment: a freedman selling vegetables, a wife carrying new life, a ripple she had not anticipated expanding without her.
 
 She was supposed to feel—
 
@@ -68,7 +68,7 @@ The tribunal. The near-miss. The instant when he had almost broken.
 
 *Closer.*
 
-The word returned with its dangerous comfort. Yes, another backfire. Yes, another lesson crystallizing. But she had glimpsed something in that moment—the shape of what success would require. The certainty-pressure had nearly worked. He had been on the edge of condemning Philo, of sacrificing the innocent to preserve his system, of becoming exactly what she needed him to become.
+The word returned with its dangerous comfort. Yes, another backfire. Yes, another lesson crystallizing. But she had glimpsed something in that moment—the shape of what success would require. The certainty-pressure had nearly worked. He had been on the edge of condemning Hylas, of sacrificing the innocent to preserve his system, of becoming exactly what she needed him to become.
 
 *I'm learning what works.*
 

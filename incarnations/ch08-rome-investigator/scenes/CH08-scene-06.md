@@ -2,11 +2,11 @@ The courtyard was quiet in the late afternoon light. A small fountain burbled at
 
 Marcus had returned an hour after our quarrel, saying nothing about what had passed between us. He had simply appeared in the doorway of the praetor's office and said, "There is another witness. A boy. He worked in Varro's kitchen."
 
-Now we sat on stone benches beneath a fig tree, waiting. The boy had been sent for. The boy was, according to the servant Philo, "simple but honest." Whatever that meant.
+Now we sat on stone benches beneath a fig tree, waiting. The boy had been sent for. The boy was, according to the servant Hylas, "simple but honest." Whatever that meant.
 
 I cleaned the stylus. The motion had lost its comfort entirely—it was habit now, an empty gesture performed by hands that no longer believed in order.
 
-The boy appeared in the archway. He was perhaps fifteen, thin-shouldered and pale, with the uncertain posture of someone who had spent his life trying not to be noticed. His name, Philo had said, was Demetrius. He had been purchased three years ago to help in the kitchen. He had been there the night Varro died.
+The boy appeared in the archway. He was perhaps fifteen, thin-shouldered and pale, with the uncertain posture of someone who had spent his life trying not to be noticed. His name, Hylas had said, was Demetrius. He had been purchased three years ago to help in the kitchen. He had been there the night Varro died.
 
 "Come," Marcus said, his voice warm. "Sit with us."
 

@@ -24,7 +24,7 @@ The first time, the words blurred—Marcus's voice reaching me across the sea, a
 
 But this time, I did not try to resolve the silences. I simply let them be.
 
-Philo was alive. Philo was free. Philo had built something—a stall, a wife, a child on the way. The frightened man whose hands had never stopped moving, whose silence had been terror rather than guilt, had found a life beyond the shadow of his master's death. And he had tried to help Marcus. He had risked himself for a man he barely knew, simply because that man had been the friend of the investigator who had saved him.
+Hylas was alive. Hylas was free. Hylas had built something—a stall, a wife, a child on the way. The frightened man whose hands had never stopped moving, whose silence had been terror rather than guilt, had found a life beyond the shadow of his master's death. And he had tried to help Marcus. He had risked himself for a man he barely knew, simply because that man had been the friend of the investigator who had saved him.
 
 The news settled into me like water finding its level. The compassion had meant something after all. I had been right.
 
