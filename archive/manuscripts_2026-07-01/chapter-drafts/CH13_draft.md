@@ -44,12 +44,11 @@ The thread hummed. Silk and paper and moonlight. A different shape of attachment
 
 She followed.
 
-
 She had been closer than she'd ever been. The memory surfaced in her hands before her mind could intercept it. The weight of lacquer trays, the texture of silk sleeves brushing doorframes, the ache of knees pressed against wooden floors for hours of arranged stillness.
 
 The Attendant had been hers. A vessel she had worn like a garment, and the garment had left creases.
 
-In her flat, Lilith's hands remembered raw. Not her hands, but the vessel's hands. She felt them anyway: the scrubbing and obsessive maintenance that had made perfect sense at the time. Keep the screens clean. Burn the autumn leaves before they can rot. Preserve the spring that Lady Hotaru needed, that Kaoru craved, that neither of them understood was already dead.
+In her flat, Lilith's hands remembered raw. Not her hands, but the vessel's hans. She felt them anyway: the scrubbing and obsessive maintenance that had made perfect sense at the time. Keep the screens clean. Burn the autumn leaves before they can rot. Preserve the spring that Lady Hotaru needed, that Kaoru craved, that neither of them understood was already dead.
 
 She had been *there*. In the room when he arrived. Standing against lacquered wood while he settled into cushions placed exactly where she had placed them. His eyes had moved through the space, they had moved *to her*. For a moment that lasted longer than a moment should last, he had looked.
 
@@ -91,38 +90,47 @@ She did not answer the question. But she was beginning to wonder if proximity ha
 
 The walls remained sound. For now.
 
-
 She needed air.
 
 The realization arrived as body-knowledge, bypassing the consciousness that should have intervened: her legs moving before her mind could question, jacket on, door opening, November cold against skin that had been warmth-wrapped for days she couldn't count precisely.
 
-Manchester. Real Manchester. Not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. There was no destination; there was only the walking.
+Manchester. Real Manchester. Not the peripheral hum that accompanied tracking, but concrete underfoot and drizzle on her face and the smell of late autumn in a city that was mostly rain. She walked without destination. Her body knew where to go.
 
 Kaoru walked too, somewhere in that other awareness. Through pavilions designed for walking, for the cultivation of transient beauty, for the appreciation of things that would not stay. He walked to Lady Hotaru. She walked—
 
 She did not know where she walked.
 
-Stone buildings resolved from drizzle. Autumn trees that were really autumn, not burned to maintain impossible spring, their leaves turning and falling and rotting without intervention. The city held its own Victorian aesthetic, gravity softened by wet light, Gothic verticals complicated by modern intrusions, the accumulated beauty of purpose that had outlasted its original intentions. She saw it freshly. The Heian bleeding through made everything luminous: architecture as impermanence, even the rain beautiful in its falling.
+Stone buildings resolved from drizzle. Autumn trees that were really autumn, not burned to maintain impossible spring, their leaves turning and falling and rotting without intervention. The university emerged not as destination but as arrival: she was here before she had decided to come here.
 
-She walked among them. Alone. Observing.
+Philosophy faculty. The sign registered without processing.
 
-She stopped. She had tracked numerous lives now—watched the thread accumulate the wisdom she was meant to interrupt. She knew where it led. Forward, through the centuries, to *now*. To a present she had not yet permitted herself to occupy.
+The campus held its own Victorian aesthetic, gravity softened by wet light, Gothic verticals complicated by modern intrusions, the accumulated beauty of purpose that had outlasted its original intentions. She saw it freshly. The Heian bleeding through made everything luminous: architecture as impermanence, even the rain beautiful in its falling.
+
+She circled the buildings without entering. Alone. Observing.
+
+*He is in this world.*
+
+The thought surfaced without warning. Not about Kaoru, centuries dead, but about something else, someone she had not yet met, a consciousness she tracked backward from origin rather than forward from present.
+
+*Walking. Teaching. Present.*
+
+She stopped. The thought was inadmissible. She had tracked numerous lives now. She knew the thread led forward through time, through accumulated wisdom that she was supposed to be interrupting. The thread led to *now*, to Manchester, to—
 
 *What if I focused on my own liberation?*
 
-The thought arrived harder than any strategy before it. Sharper. She was so close. One knot remaining. If she couldn't stop him—five backfires now, five lessons accelerated by her opposition—
+The second thought arrived harder. Sharper. She was so close. One knot remaining. If she couldn't stop him—five backfires now, five lessons accelerated by her opposition—
 
-Then perhaps she had been asking the wrong question. Perhaps she did not need to stop him at all. Perhaps she simply needed to get there first.
+Perhaps she didn't need to stop him. Perhaps she simply needed to get there first.
 
 *Racing rather than blocking. Finishing first.*
 
-The thought did not file itself. It stood where it had arrived and did not move, and when she turned it over she found nothing to flinch from—only clarity, hard and bright. She had been too indirect for too long. The competition had always been the point. She had merely been losing it politely.
+The thought filed itself. Strategy required refinement. She had been too indirect. But the thought had appeared. It had a shape now.
 
-That would end.
+But she had walked here. Her body had led where her mind refused to examine, and she stood now in the rain outside buildings where he would be—*was*, somewhere in a present she had not yet permitted herself to occupy.
 
 The walk back was slower. She noticed objects: a rusted bicycle lock, leaves collecting in a gutter, the way light pooled in windows where evening had begun to gather. Beauty everywhere. Perception was simply... sharpened. Heightened awareness. The mechanics of tracking required grounding in contemporary space—she rejected the alternative interpretation that the Heian period had saturated her perception.
 
-*That is why I came out*, she told herself.
+*That is why I came here*, she told herself.
 
 *Grounding.*
 
@@ -130,16 +138,17 @@ The word held.
 
 The flat welcomed her back with its arranged stillness. Objects where she had placed them, or where her hands had placed them while she wasn't counting days. The thread hummed as Kaoru moved toward Lady Hotaru, toward the moment when frozen beauty would teach him that beauty cannot be frozen.
 
-She had walked out into the rain without knowing why. She had thought about her own liberation, and the thought had not frightened her.
+She had walked to the university without knowing why.
 
-The race she did not file. It stood where she had set it, hard and clear: she would stop trying to block him and simply arrive first.
+She had thought about her own liberation.
 
-The rest—the warmth, the wanting, the walk with no destination—that she filed. *Tactical*, she decided. *Positioning for subsequent phases.*
+She had stood in the rain outside philosophy faculty and felt something that strategy could not contain.
+
+*Tactical*, she decided. *Positioning for subsequent phases.*
 
 The filing was perfect. The walls were sound.
 
 But she could still feel the November cold on her skin. Something beneath strategy hummed at the same frequency as the thread she followed.
-
 
 The frozen spring had been her finest work.
 
@@ -171,7 +180,7 @@ He had seen her. The vessel, yes, but also *her* beneath.
 
 And then he had left. Entrapped, bound—neither. Released.
 
-What he had carried out of the ruined house was almost nothing, and it would be enough: the willingness to stay with what was real and ask it to be no more than it was.
+*To endure what is real*, his death-poem would say. *That is enough. That is everything.*
 
 Lilith's hands were warmer than they should be. She had given him exactly what he wanted. Eternal beauty, frozen form. Yet he had learned from the gift what she had never intended: that possession was possession, never experience. That beauty required dying to be beautiful.
 
@@ -185,7 +194,7 @@ Ka's isolation—she had watched him hoard resources, and the watching had isola
 
 And Kaoru—Kaoru had been shown frozen beauty and understood that beauty melts.
 
-Six incarnations. Five interventions. Five backfires. Six lessons crystallized, the first under observation and the rest through opposition meant to prevent them.
+Six incarnations. Six interventions. Six backfires. Six lessons crystallized by the opposition meant to prevent them.
 
 She watched him die. The thread carried his death as sensation: the stillness arriving, the breath releasing, the consciousness loosening from flesh in the way that meant transmission rather than extinction.
 
@@ -204,7 +213,6 @@ The dangerous confidence settled into her chest alongside the alarm. She was fai
 The filing was familiar. The walls were familiar.
 
 But the warmth in her hands would never be explained as strategy, and the memory of being seen—almost recognized—refused to settle into its designated folder.
-
 
 *The pull toward him is tactical.*
 
@@ -226,17 +234,21 @@ Her hands were still warm. The flat still arranged. Through the window, Manchest
 
 *What if I focused on my own liberation?*
 
-The thought returned—not as a question this time, but as the settled thing it had become on the walk. She was so close. One knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him, if every intervention only accelerated what she intended to slow—
+The thought returned. Louder now. She was so close. One knot remaining, one obstacle between herself and completion. The consciousness she tracked was approaching the same finish line from a different direction. If she couldn't derail him, if every intervention only accelerated what she intended to slow—
 
 *Racing rather than blocking. Finishing first.*
 
-The thought had shape now. It had weight. It did not ask permission, and she did not refuse it. Strategy required refinement, nothing more: she had been too indirect, too careful, and the precision had been insufficient. Precision could be learned.
+The thought had shape now. It had weight.
 
-But beneath the filing, something else stirred. The warmth. The walk. The memory of standing in the rain with no destination, feeling something that exceeded strategy.
+*No.*
 
-She had walked out toward something she would not name. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
+The thought filed itself. Strategy required refinement. She had been too indirect. Too careful. The precision had been insufficient.
 
-The thread hummed forward. Toward Spain rather than the branch complete. Kaoru dissolved into the pattern that continued. The Inquisition. A converso physician named Diego de Lucena—healing under suspicion, patience worn as survival, a presence that asked nothing of the hour it was made to endure.
+But beneath the filing, something else stirred. The warmth. The walk. The memory of standing in rain outside philosophy faculty, feeling something that exceeded strategy.
+
+She had walked to where he would be. Toward *him* rather than the historical consciousness. The present-day him. The one she had not yet met.
+
+The thread hummed forward. Toward Spain rather than the branch complete. Kaoru dissolved into the pattern that continued. The Inquisition. A converso priest named Diego de la Cruz, faith practiced as survival, devotion that was also bargain, performance that masked and revealed in equal measure.
 
 Different cage. Different beauty. Different attachment requiring different intervention.
 
@@ -250,7 +262,7 @@ But she could feel them now—feel the walls as walls, feel the construction tha
 
 For the first time, she wondered if the folders were large enough.
 
-The thread hummed. Diego de Lucena waited in fifteenth-century Toledo. Patience waited. Persecution waited. Another consciousness she would try to break, another lesson she would accidentally teach.
+The thread hummed. Diego de la Cruz waited in sixteenth-century Toledo. Faith waited. Persecution waited. Another consciousness she would try to break, another lesson she would accidentally teach.
 
 She followed.
 

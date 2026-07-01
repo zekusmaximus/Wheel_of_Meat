@@ -274,6 +274,9 @@ Home—if home was the word—for as long as home could hold us.
 
 ---
 
+**End of Scene 01: Infinite Space**
+
+---
 
 The vastness was not outside.
 
@@ -505,6 +508,9 @@ And the bliss, for all its bliss, could not quite drown out the calling.
 
 ---
 
+**End of Scene 02: Infinite Consciousness**
+
+---
 
 The consciousness dissolved.
 
@@ -756,21 +762,17 @@ Restlessness. The agitation. The something-should-be-happening.
 
 Ignorance. The not-seeing of what was being seen.
 
-Five—but not five evenly shared.
-
-Four of them were his: the wanting of form, the wanting of formlessness, the restlessness, the not-seeing. The ladder he still had to climb. The rungs she had passed lifetimes ago and could not climb for him.
-
-Hers was shorter. Hers had one rung left.
-
-The single knot where his climbing and her stillness turned out to be one knot tied from two sides.
+Five.
 
 Remaining.
 
 Even here. Even in the nothing. Even after the stripping had stripped everything that could be stripped except—
 
-Except his four, still waiting for a realm that was not this one.
+Except these.
 
-Except the one that was hers. The I that held the rest. The competition that needed to be first to release it.
+Except the I that held them.
+
+Except the competition that needed to be first to release them.
 
 ---
 
@@ -952,6 +954,9 @@ Almost.
 
 ---
 
+**End of Scene 03: Nothingness**
+
+---
 
 and the nothing thinned, or the nothing did not thin but became something that could not be called thin because thin required thick and thick had dissolved, and what remained was neither perceiving nor not-perceiving, was neither knowing nor not-knowing, was the membrane between being and not-being stretched so fine that the distinction became meaningless, and we were on the membrane, were the membrane, were the stretching itself that stretched between what was and what was not and could not determine which side was which because sides had dissolved along with everything that required sides,
 
@@ -979,7 +984,7 @@ and we saw, or what remained of seeing saw, that the desire for this state, the 
 
 and the breaking, not as event, not as happening, but as recognition, as the recognition that there was nothing to break because breaking was clinging and clinging was what was being released, and the releasing that was not releasing because releasing was doing and doing was—
 
-and the attainment, and what might have been called attainment if attainment did not imply attainer, and the non-returning, and the state of one who would not return to the gross because the gross had been seen through, because the attachment to pleasure had been seen as attachment, because the aversion to dissolution had been seen as aversion, and the seeing was the breaking, and the breaking was complete—for him, complete for the sensual and the ill-willed, the two she had let fall lifetimes before he was ever hers to track—and what remained was only the five that remained for him, only the subtle that persisted, only the—
+and the attainment, and what might have been called attainment if attainment did not imply attainer, and the non-returning, and the state of one who would not return to the gross because the gross had been seen through, because the attachment to pleasure had been seen as attachment, because the aversion to dissolution had been seen as aversion, and the seeing was the breaking, and the breaking was complete for these two, complete for the sensual and the ill-willed, and what remained was only the five that remained, only the subtle that persisted, only the—
 
 and still, still the shimmer, still the one strand, still the I that would not fully dissolve into the we, still the need to be first, still the competition that persisted even here, even in the threshold, even in the neither-nor, and the shimmer was visible, was acknowledged, was seen without being broken, was recognized without being released, because that was not this realm's work, that was not this threshold's function, that remained for, remained for what came—
 
@@ -1035,6 +1040,13 @@ Something that was about to—
 
 ---
 
+**End of Scene 04: Neither-Perception-Nor-Non-Perception**
+
+---
+
+# Coda: The Pull and Re-embodiment — "The Wheel, Visible"
+
+---
 
 The rupture.
 
@@ -1160,7 +1172,7 @@ The understanding came later—would come later—but something in the sounds, t
 
 We.
 
-Still we. The pronoun persisted into the flesh. The two-that-were-one-that-were-becoming-something-else still unified, the seam between them gone, the thread that had been visible in the formless realms now invisible again but present, still present, still holding what was being held.
+Still we. The pronoun persisted into the flesh. The two-that-were-one-that-were-becoming-something-else still unified, still merged, the thread that had been visible in the formless realms now invisible again but present, still present, still holding what was being held.
 
 And the shimmer.
 
@@ -1178,7 +1190,7 @@ We did not understand. We would learn to understand. We would learn the language
 
 Final.
 
-The knowing arose. This was the last body. Not because bodies would end—bodies would continue for all beings—but because we would not need another one. What remained to be done could be done in this form. What remained to be broken could be broken here. The fetter visible and ready for the breaking. The boundary thinning toward what 300,000 years of seeming-separation had been preparing.
+The knowing arose. This was the last body. Not because bodies would end—bodies would continue for all beings—but because we would not need another one. What remained to be done could be done in this form. What remained to be broken could be broken here. The fetter visible and ready for the breaking. The merger approaching that would complete what 300,000 years of separation had been preparing.
 
 The last time we would need to open eyes in a new body.
 
@@ -1219,5 +1231,13 @@ And we—the we that was becoming—rested in the body that would be the last.
 Ready.
 
 For what came next.
+
+---
+
+**End of Coda: The Pull and Re-embodiment**
+
+---
+
+**End of Chapter 25: The Explorer**
 
 ---

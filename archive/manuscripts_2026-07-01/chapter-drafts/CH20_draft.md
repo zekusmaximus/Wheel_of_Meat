@@ -2,11 +2,11 @@ I woke up with the taste of failure in my mouth and the smell of yesterday's whi
 The Murphy bed groaned when I sat up, springs protesting like they had their own grievances to file. Gray light seeped through the window, turning my room into a study in shades of defeat. One suit hanging in the closet—the other at the cleaners, assuming they hadn't sold it for the back payment I owed. Hot plate on the dresser, half a can of Folger's beside it. Walls thin enough to hear Mrs. Kowalski coughing two doors down, same wet rattle she'd had since October.
 I rubbed my jaw—stubble like sandpaper, two days' worth—and tried to remember exactly how last night had gone wrong.
 The newspaper on Mrs. Kowalski's doormat caught my eye through the crack under my door—headline screaming about some rally downtown, thousands gathering for the cause du jour. My stomach turned, sudden and sharp, and for a moment I tasted something that wasn't whiskey: dust, blood, the smell of bodies too close together. I shut my eyes until it passed. Crowds and their heavenly promises. Nothing good ever came from that many people believing the same thing at once.
-The witness. Helen Marsh, thirty-four, secretary to Councilman Haversham, a man with his hand in three different tills. She'd agreed to talk. Had documents, she said. Photographs. The kind of evidence that could crack the whole Combination wide open, if someone had the guts to use it.
+The witness. Helen Marsh, thirty-four, secretary to a city councilman with his hand in three different tills. She'd agreed to talk. Had documents, she said. Photographs. The kind of evidence that could crack the whole Combination wide open, if someone had the guts to use it.
 We'd met at a bar on Central Avenue, neutral territory. She'd been nervous, kept looking at the door like she expected it to burst open any second. I'd bought her a whiskey to steady her nerves. Then another. By the third drink, she was crying, telling me she'd changed her mind, she couldn't do it, they'd kill her, didn't I understand?
 I understood. I'd seen what they did to people who talked. Harry Raymond was still in the hospital, learning to walk again after they wired a bomb to his starter. That was three weeks ago. The message was clear: the Combination didn't issue warnings twice.
 Helen Marsh had looked at me with mascara running down her cheeks and said she was sorry, so sorry, but she had to think about her daughter, didn't I see? And then she'd walked out, and I'd sat there finishing my whiskey while six months of work circled the drain.
-The client—a reform lawyer named Peterson who'd hired me to build a case against Haversham—had called this morning. Four a.m., which told me everything I needed to know about how the conversation would go. He'd heard about Helen. Word traveled fast when you were trying to take down the people who owned the telephone exchange.
+The client—a reform lawyer named Peterson who'd hired me to build a case against the councilman—had called this morning. Four a.m., which told me everything I needed to know about how the conversation would go. He'd heard about Helen. Word traveled fast when you were trying to take down the people who owned the telephone exchange.
 "I'm sorry, Malone," he'd said. "Without her testimony, we've got nothing. I can't justify the expense anymore."
 I'd told him I understood. I did understand. Understanding didn't pay the rent.
 The hot plate took three tries to light. I made coffee strong enough to strip paint and drank it standing by the window, watching the city wake up below me. Bunker Hill spread out in a tumble of Victorian mansions gone to seed, their gingerbread trim rotting, their grand parlors carved into single rooms for men like me—men who'd run out of money and options and still somehow kept getting out of bed every morning.
@@ -24,6 +24,7 @@ I was fishing for my keys when I noticed them—two men in expensive suits, stan
 They turned when they heard me coming, and something in their faces told me my luck was about to change.
 I just didn't know yet whether it was changing for better or worse.
 
+***
 
 They were waiting outside my office door when I reached the top of the stairs—two men in suits that cost more than my car. Not cops. Cops don't wear Italian leather shoes, and they don't stand with that particular brand of nervous stillness that comes from carrying information instead of weapons.
 The taller one turned when he heard me coming. Mid-forties, gray at the temples, face like a Presbyterian minister who'd seen too many confessions he couldn't absolve. But underneath the righteousness, something else—the particular exhaustion of a man who'd buried friends and kept going anyway. Not a true believer. A man who'd stopped believing but couldn't stop trying. I knew that face. I wore it myself most mornings.
@@ -79,6 +80,7 @@ The envelope sat beside the notepad, thick with cash I hadn't counted yet.
 I poured myself another cup of coffee and started making phone calls.
 Half the names would be dead by March. I didn't know that yet. I should have.
 
+***
 
 Her name was Margaret Sinclair, and she was the wrong kind of beautiful for a detective agency on Bunker Hill. Blonde hair waved like they did it in the pictures, a face that belonged on a movie poster, and clothes that cost more than my monthly rent. She sat in the client chair and twisted her gloves in her hands, and everything about her screamed money looking for trouble.
 
@@ -88,7 +90,7 @@ I leaned back in my chair. "Have you talked to the police?"
 
 "The police told me to wait. Said men go missing all the time, most of them turn up." Her voice cracked on the last word. "But Frank wouldn't do this. He wouldn't leave without telling me. Something's wrong."
 
-I should have turned her away. The Haversham case was taking all my time, and missing persons work is unpredictable—could be wrapped up in an afternoon, could drag on for weeks. But she was sitting there with tears threatening to spill from eyes the color of summer sky, and Frank Sinclair was someone's husband, and someone had to give a damn.
+I should have turned her away. The corruption case was taking all my time, and missing persons work is unpredictable—could be wrapped up in an afternoon, could drag on for weeks. But she was sitting there with tears threatening to spill from eyes the color of summer sky, and Frank Sinclair was someone's husband, and someone had to give a damn.
 
 "Tell me about him," I said.
 
@@ -96,13 +98,11 @@ Frank Sinclair was an accountant. Forty-two years old, worked for a shipping fir
 
 "I've called his office," she said. "They say he left at five o'clock, same as usual. But he drives, Mr. Malone, and his car was still in the parking structure when I went to look. Just sitting there. His briefcase was inside, his lunch pail. Everything except Frank."
 
-I took notes. The shipping firm's name—Pacific Coast Transport—rang a faint bell somewhere in my memory, but I couldn't place it. The parking structure was downtown, on Spring Street, near enough to my office that I could walk it.
+I took notes. The shipping firm's name—Pacific Coast Transport—ring a faint bell somewhere in my memory, but I couldn't place it. The parking structure was downtown, on Spring Street, near enough to my office that I could walk it.
 
 "Two hundred dollars," I said. "Retainer against twenty-five a day. If I find him fast, I'll refund what I don't use."
 
 She didn't blink. Just opened her purse and counted out the bills with fingers that trembled slightly. I gave her a receipt and told her I'd be in touch.
-
-"Mrs. Sinclair." She stopped at the door. "I have to tell you something. Missing persons cases—sometimes they end well. Sometimes they don't. I'll do everything I can, but I can't promise you'll like what I find." She looked at me for a long moment, and I saw something shift behind her eyes. Not disappointment—something closer to relief. "I know," she said. "I just need to know. Even if it's bad." I nodded. That was the hardest kind of client—the ones who wanted truth more than comfort. The ones you couldn't lie to even if lying would be kinder.
 
 After she left, I sat at my desk and stared at the notes I'd taken. Something about the case felt wrong—not the case itself, which was straightforward enough, but the timing of it. Six months of failing cases, then Vernon Shaw's reform money, and now a beautiful woman with a missing husband. Three pieces that didn't seem to connect but somehow felt like they should.
 
@@ -114,17 +114,13 @@ Finding Frank Sinclair took me two days.
 
 He wasn't hard to trace. I started at the parking structure, bribed the attendant for his sign-out log (he hadn't signed out), then worked backward from there. The shipping firm was on a corner of Second Street, a squat brick building with Pacific Coast Transport painted on the windows in letters that had seen better decades. Frank's colleagues remembered him leaving at five. The receptionist had seen him heading toward the parking structure. Nobody remembered anything unusual.
 
-I spent the afternoon canvassing the blocks between the office and the garage. Before I hit the streets, I called Sal Benedetto—another P.I., worked out of Glendale—and told him what I was looking for. That's how it worked in this business. You shared what you had, got what others had. A detective who hoarded information was a detective who missed the pattern that got him killed. Sal didn't have anything on Sinclair, but he said he'd ask around. Networks like that were the only thing keeping private men alive in this city.
-
-A shoeshine boy remembered a man matching Frank's description talking to another man on the corner of Second and Spring, around five-fifteen. They'd gotten into a car together. The shoeshine boy hadn't thought anything of it—businessmen got into cars all the time.
+I spent the afternoon canvassing the blocks between the office and the garage. A shoeshine boy remembered a man matching Frank's description talking to another man on the corner of Second and Spring, around five-fifteen. They'd gotten into a car together. The shoeshine boy hadn't thought anything of it—businessmen got into cars all the time.
 
 The car was a Packard, dark green, California plates. That narrowed it down to about ten thousand cars in Los Angeles County.
 
 The second day, I got lucky. A beat cop I knew from my time on the force, one of the few who wasn't on the Combination's payroll, remembered a drunk and disorderly call from a flophouse on Fifth Street. The man had been raving about "Frank" and "the shipping company" and "they'll kill us both." The cops had let him sleep it off and released him in the morning.
 
 I found the flophouse. The clerk remembered the drunk—middle-aged, looked like he hadn't eaten in days, kept mumbling about numbers and ledgers. He'd checked out that morning, but the clerk had seen him head south toward the Mission District.
-
-It wasn't much—a drunk mumbling names, a direction he might have walked. Another detective might have called it thin, waited for something more solid. But solid evidence had a way of disappearing in this city, and the leads you dismissed were the ones that got people killed. I followed the thread anyway. You learned to trust your instincts or you spent your life waiting for certainty that never came.
 
 I worked the missions for the rest of the day. The third one, a place called Saint Vincent's, had given a meal to a man matching the description. He'd told the volunteer his name was Eddie Garza, and he was hiding from people who wanted to hurt him.
 
@@ -137,8 +133,6 @@ Frank Sinclair, accountant for a shipping company. Eddie Garza, bookkeeper for t
 Frank Sinclair hadn't gone missing. He'd run. And Eddie Garza was running too, from the same people, for the same reasons.
 
 I found Eddie Garza in an alley behind a Chinese restaurant on Alameda Street, huddled against a dumpster with a bottle of rotgut whiskey clutched in his hand. He was a small man, Hispanic, maybe fifty, with the hollow eyes and shaking hands of someone who'd stopped sleeping weeks ago.
-
-I could have questioned him right there—time was short, and he had information I needed. Instead I sat down on the wet pavement beside him, let the silence stretch. Some people you interrogated. Others you had to see first, reach first, before they'd give you anything real. He wasn't just a witness. He was a frightened man who'd lost everything, and that mattered more than my questions.
 
 "You Malone?" He looked up at me without surprise, as if he'd been expecting someone like me to find him eventually. "Frank said you might come."
 
@@ -190,15 +184,15 @@ That afternoon, I sat in a bar on Main Street and tried to make sense of what ha
 
 The bar was dim and smoky, the kind of place where people came to disappear for a few hours. I was working on my second rye when I noticed her.
 
-She was sitting in a booth across the room. Dark hair styled in victory rolls, a dress that caught what little light there was in the place. Beautiful, in a way that made you want to look twice, then look away, then look back again. Her face was angled toward the window, but I could see the sharp line of her widow's peak, the single darker strand that fell from her left temple across her forehead.
+She was sitting in a booth across the room. Dark hair styled in victory rolls, a dress that caught what little light there was in the place. Beautiful, in a way that made you want to look twice, then look away, then look back again. Her face was angled toward the window, but I could see the sharp line of her widow's peak, the single darker strand that fell across her forehead.
 
-Something about her tugged at my attention. Not attraction—or not just attraction. Something else. A sense of recognition I couldn't place, like seeing a face in a dream and knowing it means something without knowing what. And beneath that, something that made my skin prickle—a wrongness in her beauty, like a painting too perfect to be honest. I'd learned to mistrust faces like that. The more carefully something was put together, the more likely it was hiding rot beneath.
+Something about her tugged at my attention. Not attraction—or not just attraction. Something else. A sense of recognition I couldn't place, like seeing a face in a dream and knowing it means something without knowing what.
 
 I watched her for a long moment. She didn't look at me. Didn't seem to notice I was there at all. She was watching the street outside, her expression unreadable, her hands wrapped around a glass she hadn't touched.
 
 Then someone walked between us—another patron heading for the bar—and when the sightline cleared, she was gone. The booth was empty. The glass sat on the table, still full, condensation running down its sides.
 
-I hadn't seen her leave.
+I hadn’t seen her leave.
 
 I paid for my drinks and went back to my office, the image of her face lodged somewhere behind my eyes like a splinter I couldn't quite reach.
 
@@ -220,12 +214,13 @@ Some things don't fit into reports. Some things you file away and try not to thi
 
 Frank Sinclair's body was released to his wife three days later. The funeral was small—just Margaret and a few family members, standing in the rain at Forest Lawn while a minister said words that didn't mean anything. I watched from a distance, standing under a tree at the edge of the cemetery, and wondered if I should have refused the case. If Frank would still be alive if I'd never started looking for him.
 
-The answer was no, probably. He'd been marked the moment he decided to talk. But the wondering was there anyway, a weight I couldn't put down.
+The answer was no, probably. He’d been marked the moment he decided to talk. But the wondering was there anyway, a weight I couldn't put down.
 
 Someone had to give a damn.
 
 Even when giving a damn got people killed.
 
+***
 
 The first sign was Doyle, the clerk from the assessor's office. He'd been my most reliable source—a man whose hands never stopped moving, but committed. He'd given me two depositions, each one more damning than the last. We had a third meeting scheduled for the second week of February, at a diner on Figueroa where the coffee was terrible and the booths were private.
 
@@ -247,11 +242,11 @@ He didn't vanish. He recanted.
 
 I found him behind the bar on a Tuesday afternoon, polishing glasses with a rag that had seen better years. When he saw me walk in, his face went pale.
 
-"I can't talk to you."
+"I can’t talk to you."
 
 "We talked before. You gave me a statement—"
 
-"I was drunk." He wouldn't meet my eyes. "I made it up. All of it. I never saw any payoffs, never heard any names. I'm just a bartender, Malone. I pour drinks. That's all."
+"I was drunk." He wouldn't meet his eyes. "I made it up. All of it. I never saw any payoffs, never heard any names. I'm just a bartender, Malone. I pour drinks. That's all."
 
 I leaned on the bar, close enough to smell the fear on him. Sour, chemical, the smell of a man who hadn't slept in days.
 
@@ -269,15 +264,13 @@ The third sign was Helen Marsh.
 
 She was dead.
 
-I found out from the newspaper, not the police. A small story buried on page twelve: CITY EMPLOYEE DIES IN AUTO ACCIDENT. Helen Marsh, 34, formerly Councilman Haversham's secretary, had lost control of her car on Mulholland Drive and plunged two hundred feet into a canyon. The car had burned on impact. The body was badly damaged. The funeral would be private.
+I found out from the newspaper, not the police. A small story buried on page twelve: CITY EMPLOYEE DIES IN AUTO ACCIDENT. Helen Marsh, 34, formerly of the Chief of Police's office, had lost control of her car on Mulholland Drive and plunged two hundred feet into a canyon. The car had burned on impact. The body was badly damaged. The funeral would be private.
 
 I read the story three times, looking for something I could use. There was nothing. Just another death in a city full of them.
 
 But I remembered Helen Marsh. Remembered the way she'd looked when she gave me her statement, the mix of fear and relief, like a woman finally putting down a weight she'd been carrying for too long. She'd been brave. She'd wanted to do the right thing.
 
 And now she was dead in a canyon, and the official story was "auto accident," and nobody would ever prove otherwise.
-
-The system had killed her. But the system was made of people—some monsters, some just scared, some both at once. I'd been a cop long enough to know you couldn't reduce any of them to their worst acts without lying, and you couldn't ignore those acts without becoming complicit. Both truths sat in my chest like stones. You learned to carry them both or you went crazy trying to choose.
 
 ---
 
@@ -323,11 +316,9 @@ The room had been tossed. Not ransacked—nothing was broken, nothing was destro
 
 A message.
 
-I stood in the doorway for a long moment, the Colt heavy in my hand, listening for sounds that might indicate whoever had done this was still here. The building creaked and settled. Water dripped somewhere in the walls. Nothing else.
+I stood in the doorway for a long moment, the Colt heavy in my hand, listening for sounds that might indicate whoever had done this was still here. The building creaked and settled. Water drip somewhere in the walls. Nothing else.
 
 I holstered the gun and walked inside.
-
-They'd ransacked my life and left a message written in scattered clothes and upended drawers. I waited for the rage to come—the fury that would fuel me through another round, another fight. It didn't. What came instead was something quieter: acknowledgment. This was Los Angeles. This was what the city did to men who pushed back. Rage would have felt good, but rage was a fire that burned you from the inside. I'd stopped feeding that fire years ago.
 
 They hadn't found anything, because there was nothing to find. The real evidence was in my office safe, not my room. But they knew I existed now. They knew I was looking. They knew where I lived.
 
@@ -347,6 +338,7 @@ Someone had to give a damn.
 
 Even when giving a damn might get you killed.
 
+***
 
 While I'd been in custody, someone had visited my office.
 
@@ -354,7 +346,7 @@ They'd been more thorough this time. The filing cabinet stood open, its contents
 
 I stood in the wreckage and felt something cold settle in my chest.
 
-This wasn't just a warning anymore. This was erasure. Someone was trying to unmake my case, piece by piece, as if it had never existed. I could have told myself it wasn't as bad as it looked. Could have pretended there was still a path through the wreckage, a way to turn this around. But I'd learned, somewhere along the way, that denial was just postponed pain. The case was collapsing. That was real. What I did about it—that was still up to me.
+This wasn't just a warning anymore. This was erasure. Someone was trying to unmake my case, piece by piece, as if it had never existed.
 
 The phone rang.
 
@@ -388,8 +380,6 @@ I closed my eyes. Thought about Harry Raymond, lying in his hospital bed. Though
 
 "Yeah," I said. "We have to try."
 
-Vernon started to thank me—to call me brave, to talk about what I'd sacrificed for the cause. I cut him off. "Don't. I'm just doing a job. The witnesses were the brave ones. The ones who are dead now." Making myself the hero of this story had a way of turning the story into something else. Let the reformers take the credit if there was any credit to take. I'd know what I'd done.
-
 ---
 
 I left the office and walked.
@@ -402,7 +392,7 @@ The Combination was the obvious answer. They had the resources, the reach, the m
 
 I was so lost in thought that I almost walked past her.
 
-She was standing on the corner of Hill and Third, near the entrance to my office building. Dark hair caught in the wind, a coat that looked too expensive for this neighborhood, face turned slightly away from me. But there was something about the line of her profile—the sharp widow's peak, the single darker strand falling from her left temple across her forehead—that made me stop.
+She was standing on the corner of Hill and Third, near the entrance to my office building. Dark hair caught in the wind, a coat that looked too expensive for this neighborhood, face turned slightly away from me. But there was something about the line of her profile—the sharp widow's peak, the single darker strand falling across her forehead—that made me stop.
 
 The woman from the bar. The one who'd disappeared without leaving.
 
@@ -428,15 +418,17 @@ The woman's face—that widow's peak, that strange flicker in her left eye—lod
 
 The thought arrived without explanation, certainty without evidence. The kind of knowing that got men killed in this city—acting on instinct instead of facts.
 
-I picked up the phone anyway.
+I let the phone ring through.
 
-Something in me knew better than my brain did—knew that case was a trap, even if I couldn't prove it, knew that woman on the corner was connected to everything falling apart around me, even if I'd never spoken to her in my life. But the money was good and the rent was due, and a man who only took the cases that felt safe wasn't a man who gave a damn. I'd walked into worse with less.
+Made no sense. The money was good. The case was clean. And I needed rent money worse than I needed instincts I couldn't explain.
+
+But something in me knew better than my brain did. Knew that case was a trap, even if I couldn't prove it. Knew that woman on the corner was connected to everything falling apart around me, even if I'd never spoken to her in my life.
 
 *In France—*
 
 I blinked. In France? I'd never been to France.
 
-The thought slid away before I could catch it, leaving only residue. I took the case. And I kept working the Haversham investigation that was probably going to kill me—the two of them braided together now, whether I liked it or not.
+The thought slid away before I could catch it, leaving only residue. The blackmail case went to someone else. And I went back to the corruption investigation that was probably going to kill me.
 
 *Someone has to give a damn. Even when it doesn't make sense. Even when you can't explain why.*
 
@@ -474,10 +466,11 @@ Someone had to give a damn.
 
 Even if it meant dying for nothing.
 
+***
 
 Gloria Dane worked at a place called The Velvet Room, a nightclub on South Main that catered to businessmen who wanted discretion with their drinks. I went there that night, paid the cover charge, and found a table near the stage where a four-piece band was playing something slow and smoky.
 
-She was easy to spot. Bergdorf had described her, and besides, she was the kind of woman who drew attention without trying—dark hair, full lips, a figure that the sequined dress she wore did nothing to hide. She moved between tables, smiling at customers, accepting drinks, playing the game that women in her position had to play to survive.
+She was easy to spot. Brennan had described her, and besides, she was the kind of woman who drew attention without trying—dark hair, full lips, a figure that the sequined dress she wore did nothing to hide. She moved between tables, smiling at customers, accepting drinks, playing the game that women in her position had to play to survive.
 
 I watched her for an hour before approaching. Watched the men she talked to, the way she touched their arms and laughed at their jokes, the subtle transactions of attention and money that passed between them. She was good at her job. Professional in a way that suggested she'd been doing this long enough to know all the moves.
 
@@ -489,23 +482,23 @@ When she finally came to my table, her smile was automatic, part of the uniform.
 
 The smile faltered. She looked at me more closely, and I saw something shift behind her eyes—calculation, wariness, the quick assessment of a woman who'd learned to size up danger.
 
-"I'm not that kind of girl."
+"I’m not that kind of girl."
 
-"I know exactly what kind of girl you are, Miss Dane." I kept my voice low, neutral. "I know about Howard Bergdorf. I know about the photographs. What I want to know is whether you're in on the blackmail or just caught in it."
+"I know exactly what kind of girl you are, Miss Dane." I kept my voice low, neutral. "I know about Howard Brennan. I know about the photographs. What I want to know is whether you're in on the blackmail or just caught in it."
 
 The color drained from her face. She sat down without being invited, her composure cracking.
 
 "How did you—"
 
-"Bergdorf hired me to find the blackmailer. I'm not interested in ruining your life, Miss Dane. I just need to know who's behind this."
+"Brennan hired me to find the blackmailer. I'm not interested in ruining your life, Miss Dane. I just need to know who's behind this."
 
 She looked around the club, checking for watchers. Her hands, I noticed, were clenched in her lap.
 
-"I don't know who's doing it," she said finally. "I swear to God, I don't know. The photographs—I didn't even know they existed until someone sent me copies. They told me if I warned Bergdorf, they'd kill me. If I went to the police, they'd kill me. All I could do was sit here and wait and hope it would be over soon."
+"I don't know who's doing it," she said finally. "I swear to God, I don't know. The photographs—I didn't even know they existed until someone sent me copies. They told me if I warned Brennan, they'd kill me. If I went to the police, they'd kill me. All I could do was sit here and wait and hope it would be over soon."
 
 I believed her. The fear in her voice was too raw, too immediate to be faked.
 
-"Do you have any enemies? Anyone who knew about you and Bergdorf, who might want to hurt one or both of you?"
+"Do you have any enemies? Anyone who knew about you and Brennan, who might want to hurt one or both of you?"
 
 She shook her head. "I was careful. I'm always careful. This shouldn't have happened."
 
@@ -551,13 +544,13 @@ Novak's eyes darted away. "I don't know. I just got the room number and the key.
 
 I left him with a warning not to leave town and a certainty that I was missing something. The man who'd hired Novak wasn't the blackmailer—he was too careful, too professional. He was a cutout, a layer of insulation between the real operator and the dirty work.
 
-But why go to so much trouble to blackmail Howard Bergdorf? Ten thousand dollars was a lot of money, but not enough to justify this level of planning. There had to be something else. Something I wasn't seeing.
+But why go to so much trouble to blackmail Howard Brennan? Ten thousand dollars was a lot of money, but not enough to justify this level of planning. There had to be something else. Something I wasn't seeing.
 
 ---
 
 I found it the next morning.
 
-I was in the Hall of Records, checking property transfers—still trying to rebuild the Haversham case—when I came across Howard Bergdorf's name. He'd been buying land in the Valley, dozens of parcels over the past year, through a series of shell companies that all traced back to his development firm.
+I was in the Hall of Records, checking property transfers—still trying to rebuild the corruption case—when I came across Howard Brennan's name. He'd been buying land in the Valley, dozens of parcels over the past year, through a series of shell companies that all traced back to his development firm.
 
 Land that, according to the surveys, was practically worthless. Flood plain, unstable soil, too far from the city to be commercially viable.
 
@@ -565,11 +558,11 @@ Unless you knew something the surveys didn't.
 
 I dug deeper. Found a proposal buried in the city planning archives—a flood control project that would rechannelize the Los Angeles River, making the Valley land valuable. A project that had been quietly approved by the city council three months ago, that hadn't been announced to the public yet, that would make anyone who owned the right parcels very, very rich.
 
-Howard Bergdorf had insider information. He was buying up land before the flood control announcement, planning to make a fortune on what was essentially legal corruption.
+Howard Brennan had insider information. He was buying up land before the flood control announcement, planning to make a fortune on what was essentially legal corruption.
 
 And someone was blackmailing him. Not for the affair—the affair was just leverage. They wanted something else.
 
-I called Bergdorf's office. His secretary said he was in meetings all day. I called his home. His wife said he'd left early that morning and she didn't know where he was.
+I called Brennan’s office. His secretary said he was in meetings all day. I called his home. His wife said he’d left early that morning and she didn’t know where he was.
 
 I called Gloria Dane at The Velvet Room. No answer.
 
@@ -591,19 +584,19 @@ I sat in the interrogation room at Central Division, facing Detective Burke and 
 
 "A convenient report." Burke leaned forward. "Here's what I think happened, Malone. You found the photographer, you squeezed him for information, and when he couldn't give you what you wanted, you killed him. Or maybe you killed him because he knew too much. Either way, you're looking at a murder charge."
 
-"I didn't kill anyone."
+"I didn’t kill anyone."
 
 "Then who did?"
 
 I didn't have an answer. The frame was too neat, too perfect. Someone had used my gun to kill Novak, knowing I would be connected to the case, knowing the police would come for me. The same someone who'd been sabotaging the corruption case. The same someone who seemed to know my every move before I made it.
 
-They held me overnight. In the morning, a lawyer I'd never seen before showed up and got me released on my own recognizance—Vernon Shaw's doing, I assumed, though the lawyer wouldn't confirm it. The evidence was circumstantial; I had no motive for killing Novak; and Burke, for all his bluster, knew he didn't have enough for a conviction.
+They held me overnight. In the morning, a lawyer I'd never seen before showed up and got me released on my own recognizance—vernon Shaw's doing, I assumed, though the lawyer wouldn't confirm it. The evidence was circumstantial; I had no motive for killing Novak; and Burke, for all his bluster, knew he didn't have enough for a conviction.
 
 But the damage was done. My name was in the papers now, connected to a murder. The witnesses I'd been trying to re-interview would never talk to me again. The corruption case was effectively dead.
 
 I walked out of the police station into gray February light and tried to think of what came next.
 
-Howard Bergdorf had disappeared. Gloria Dane had disappeared. Jerry Novak was dead. And I was walking around with a murder charge hanging over my head like a sword on a fraying thread.
+Howard Brennan had disappeared. Gloria Dane had disappeared. Jerry Novak was dead. And I was walking around with a murder charge hanging over my head like a sword on a fraying thread.
 
 Someone was playing a game I didn't understand. Someone who had more power than the Combination, more reach than the police, more patience than any enemy I'd ever faced.
 
@@ -617,6 +610,7 @@ Someone had to give a damn. Even when giving a damn got people killed.
 
 Even when you were the one who was going to die.
 
+***
 
 The flood lasted five days.
 
@@ -629,8 +623,6 @@ I spent the first two days in my room, listening to the radio and drinking what 
 And somewhere beneath all the noise, buried under the catastrophe, the Combination kept operating. I knew it without having to see it. The corrupt machinery of Los Angeles didn't stop for floods. It just adapted.
 
 On the third day, the rain let up enough for me to venture out.
-
-The Red Cross had set up relief stations across the city. I passed one on my way to the office—a line of flood refugees shuffling forward to receive blankets, food, water. *Rations.* The word made my stomach lurch. I stopped on the sidewalk, hand pressed against a lamppost, fighting down a wave of nausea I couldn't explain. Something about the line of people waiting, the promise of provisions from above, made my gut clench like I was starving even though I'd eaten that morning. My hand found my notebook and gripped it hard, the only solid thing in the world. I didn't understand the feeling. I just knew I had to move.
 
 ---
 
@@ -730,11 +722,9 @@ I nodded. That was all any of us could hope for. The truth on the record. A mark
 
 I thought about it. Thought about getting on a train, heading east or north or anywhere that wasn't Los Angeles. Starting over in a city that didn't know my name or my failures.
 
-"I'm not finished," I said.
+"I’m not finished," I said.
 
-"The case is finished. What's left?"
-
-*Someone has to give a damn.* The words rose from somewhere deeper than my own mind, older than this life, sure as stone. Not because it would succeed. Not because anyone would notice or care. Just because someone had to. Just because the trying was the whole point.
+"The case is finished. What’s left?"
 
 I didn't have an answer. Not one I could put into words. But the thought was still there, that strange certainty that had been growing since the flood:
 
@@ -742,7 +732,7 @@ Someone has to give a damn. Even if it doesn't change anything. Even if it's poi
 
 Especially if it's pointless.
 
-"I'll stay," I said. "A little while longer."
+"I’ll stay," I said. "A little while longer."
 
 Vernon Shaw didn't argue. Maybe he understood. Or maybe he just knew there was no point trying to save a man who didn't want to be saved.
 
@@ -760,6 +750,7 @@ But someone had to try.
 
 Just because the trying was not nothing.
 
+***
 
 The last two weeks of my life were strangely peaceful.
 
@@ -823,7 +814,7 @@ The Buick Roadmaster was parked in the alley behind the boarding house, where it
 
 The rain had started again. Not hard, just a steady drizzle that made the world look like it was crying. I pulled my hat down and my collar up and walked through the mud to where the Buick sat waiting.
 
-It was a beautiful car, even now. Three years old, but I'd kept it polished, kept the chrome shining. The rain beaded on the black hood like tears on a mourner's cheek. I'd bought it from a widow on Hope Street, a woman whose husband had died and left her nothing but debts and this one extravagance. She'd needed the money. I'd needed the car. Los Angeles, making trades.
+It was a beautiful car, even now. Three years old, but I'd kept it polished, kept the chrome shining. The rain beaded on the black hood like tears on a mourner's cheek. I'd bought it from a widow on Hope Street, a woman whose husband had died and left her nothing but debts and this one extravagance. She'd needed the money. I’d needed the car. Los Angeles, making trades.
 
 I unlocked the door and slid behind the wheel.
 
@@ -837,7 +828,7 @@ She was standing on the sidewalk at the end of the alley, near where it opened o
 
 The same woman. The one from the bar, from the street corner. The one who kept appearing and disappearing like a ghost.
 
-This time, I could see her face clearly. The sharp widow's peak. The single darker strand that fell from her left temple across her forehead despite the rain. Her eyes, fixed on mine across fifty feet of wet pavement—and in one of them, the left one, something strange. A flicker of color that didn't belong. Green, maybe, a pale crescent of green in an iris that should have been brown.
+This time, I could see her face clearly. The sharp widow's peak. The single darker strand that fell across her forehead despite the rain. Her eyes, fixed on mine across fifty feet of wet pavement—and in one of them, the left one, something strange. A flicker of color that didn't belong. Green, maybe, a pale crescent of green in an iris that should have been brown.
 
 She knew.
 
@@ -899,7 +890,7 @@ Not memory, exactly. Deeper than memory. A sense of vastness, of connection, of 
 
 Other lives. Other deaths. Other hands reaching out in the final moments, grasping for something they couldn't find.
 
-I saw a temple floor, stone cold beneath a dying man's back. I saw a battlefield, mud and blood and the screams of the wounded. I saw a plague city, a desert cave, a philosopher's cell, a palace chamber, a ship in a storm. I saw lives stacked upon lives, deaths upon deaths, the same soul learning the same lessons in a thousand different bodies.
+I saw a temple floor, stone cold beneath a dying man’s back. I saw a battlefield, mud and blood and the screams of the wounded. I saw a plague city, a desert cave, a philosopher's cell, a palace chamber, a ship in a storm. I saw lives stacked upon lives, deaths upon deaths, the same soul learning the same lessons in a thousand different bodies.
 
 And I understood.
 
@@ -913,7 +904,9 @@ That was the lesson. The one I'd been learning since before I could remember. No
 
 The trying was not nothing.
 
-I felt something loosen in my chest. Not the broken ribs, not the collapsing lungs. Something else. A chain I'd been carrying so long I'd forgotten it was there.
+I felt something loosen in my chest. Not the broken ribs, not the collapsing lungs. Something else. A chain I'd been carrying so long I'd forgotten it was there. The need to be the one who fixed things, saved things, made the difference—a grip I'd held so tight my fingers had gone numb.
+
+The chain of identity. The belief into that there was a "me" separate from the trying, a self that needed to be preserved and protected and proven right.
 
 It was loosening. Almost breaking. One more push, one more life, and it would snap.
 
@@ -950,3 +943,31 @@ I didn't save anyone. The Combination would survive. The corruption would contin
 But the trying was not nothing.
 
 I closed my eyes.
+
+The rain kept falling. The sirens arrived. The crowd pressed closer, and somewhere in the noise and chaos, Jack Malone, age thirty-eight, private detective, stopped breathing.
+
+---
+
+The body lay on the wet pavement for a long time after that.
+
+The ambulance came and went—there was nothing to be done, the medics said, he was gone before they arrived. The police came too, taking photographs, making notes, treating it as what it obviously was: another car bombing in a city that had seen too many. The reporter from the Herald-Express showed up, asked a few questions, wrote a story that would run on page eight the next morning.
+
+The rain kept falling.
+
+And somewhere else—somewhere that had no name, no location, no existence in any geography the living could map—something stirred.
+
+A momentum that had been building for millennia. A pattern that had been waiting for completion. Lifetimes of failure that were also preparation. Fires that had refined instead of destroyed.
+
+And now, finally: the urge that would carry forward into the next life. The certainty that the trying mattered. The readiness to break the chains that remained.
+
+Someone has to give a damn.
+
+I will try again.
+
+The rain fell on the empty body. The city went on with its business. The corruption continued and the corrupt prospered and nothing changed.
+
+But somewhere, in a way that no one in Los Angeles would ever understand, everything had changed.
+
+The wheel turned.
+
+A new life began.

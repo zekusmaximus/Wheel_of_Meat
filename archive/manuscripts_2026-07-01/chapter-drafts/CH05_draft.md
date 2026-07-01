@@ -4,7 +4,7 @@
 
 ## I
 
-Rain drummed the window and the warehouse ledgers, the sound falling through three hundred thousand years and nearly five thousand miles to land on surfaces that had never touched and would never touch, except here, except now, in the place where she held both at once.
+Rain drummed the window and the warehouse ledgers, the sound falling through three hundred thousand years and two thousand miles to land on surfaces that had never touched and would never touch, except here, except now, in the place where she held both at once.
 
 Lilith's tea had gone cold beside her laptop. The flat held its after-midnight silence—radiator ticking, the distant arterial hum of Wilmslow Road, the emptiness of a space no one visited. Days had passed since Ka. The prehistoric thread had receded into her awareness like a tide withdrawing, leaving deposits she had yet to fully examine. But now another thread hummed at the edge of perception, different from Ka's primal hunger, this one was structured, administrative.
 
@@ -14,7 +14,7 @@ The rain shifted against her window, harder now, and in the shift she felt anoth
 
 *Chandra.*
 
-The name surfaced from the thread itself, dense with context Ka's prehistoric consciousness could never have held. An officer in the Mauryan administration, former merchant, a man who had traded the guild halls for imperial service and brought with him the disease of thinking in quantities. She could feel the shape of him against her awareness: precise, controlled, calculating.
+The name surfaced from the thread itself, dense with context Ka's prehistoric consciousness could never have held. An administrator in the Mauryan administration, former merchant, a man who had traded the guild halls for imperial service and brought with him the disease of thinking in quantities. She could feel the shape of him against her awareness: precise, controlled, calculating.
 
 Calculating. The word echoed strangely. She knew calculation intimately.
 
@@ -36,10 +36,9 @@ Beneath the trust: tension. She could feel it in the way Chandra's thoughts paus
 
 A choice yet to be made.
 
-The tea beside her had developed a film. She could not have said whether it was the same pot or a different one. The rain had shifted harder now, or softer. Some part of her registered that the day had changed while she was inside Chandra's thread.
+The tea beside her had developed a film. She could have said whether it was the same pot or a different one. The rain had shifted harder now, or softer. Some part of her registered that the day had changed while she was inside Chandra's thread.
 
 She did not move to make fresh tea. She did not check the time. She leaned closer to the thread, and the tension around Devaka registered as leverage.
-
 
 ## II
 
@@ -93,7 +92,6 @@ The rain continued against the window. Chandra continued his work, unaware that 
 
 And Lilith sat in her flat with steadier hands and a headache and the first intimation that observation was no longer enough.
 
-
 ## III
 
 She traced forward.
@@ -126,7 +124,7 @@ He did not trust his body when it told him something was wrong.
 
 In Manchester, her hands had tightened on the arms of the chair. Rain had given way to a grey stillness outside her window; how long ago, she could not say. Her tea had developed a skin again. The light through the curtains had shifted toward amber.
 
-The temple passage approached in the thread. Guards emerging from shadows. Devaka's confession: *I was hoping you'd stop, Chandra*. Carrying the weight of betrayal that had been building for weeks, that she had accelerated without announcing her presence.
+The temple passage approached in the thread. Guards emerging from shadows. Devaka's confession: *I had hoped you would stop*. Carrying the weight of betrayal that had been building for weeks, that she had accelerated without announcing her presence.
 
 She leaned into the moment, letting it dominate.
 
@@ -146,12 +144,11 @@ Some part of her registered: *It worked.*
 
 Some part of her did not examine what *worked* meant, or why the satisfaction felt like hunger.
 
-
 ## IV
 
 The fire burned in Pataliputra.
 
-Her breath caught in her throat. She watched it through the thread. Smoke rising from warehouses, workers fleeing through compound gates, records scattering like frightened birds. Chandra stood at the threshold between two paths, his calculating mind performing its final calculation: the records or the people. The southern alley still stood open, the field gate beyond it unbarred, and the workers milled in the smoke with no one to turn their panic toward the gap before the fire closed it. He could reach them. He could reach the documents. He could not reach both.
+Her breath caught in her throat. She watched it through the thread. Smoke rising from warehouses, workers fleeing through compound gates, records scattering like frightened birds. Chandra stood at the threshold between two paths, his calculating mind performing its final calculation: evidence or lives, documents or faces, the ledger or the woman who had looked at him with eyes that asked only to be seen.
 
 He chose the records. He chose the burning building. He chose precisely what she would have predicted.
 
@@ -159,15 +156,11 @@ Then a shift.
 
 In the chaos of the fire, in the smoke and screaming and the clarity that catastrophe sometimes granted, her own chest tightened as she felt the pattern of his consciousness *turn*. Calculation remained. He could never be fully free of that, the numbers were woven too deeply into his framework, but it turned toward what the numbers could not hold. The woman with the infant. The elderly worker whose name he had never asked. The faces he had looked away from when looking would have cost him nothing.
 
-And last, surfacing from the welter of his dying mind with a clarity the other faces lacked: a child with dark eyes, watching him from the back of the burning quarter. He had not counted her among the small bodies that morning. He did not know her. Yet she held in his fading awareness like a lamp, and the dying man turned toward her as though she were the question his whole life had been the wrong answer to.
-
-Lilith marked the child and moved past her—one more face among the faces, one more entry in the ledger of what his suffering had taught him. She filed the dark eyes with the woman and the worker and the wrongness she did not examine, and turned her attention forward, and did not look back at what had been looking at him.
-
 He understood. In the moment of choosing wrong, he understood what choosing right would have meant.
 
-The fire took the documents. He went out a high window to escape it, and the fall took the rest—she felt the long arc, the body breaking, the ground. Later, in the ash, Devaka crouched over him and said that he was sorry, for whatever that was worth now, and Lilith registered the words without attending to them.
+The fire took the documents. The fall took his body. Devaka found him in the ash and spoke words that she registered without attending to: *I truly am sorry. It wasn't personal.*
 
-Her shoulders relaxed. She heard the apology and reached past it for the calculation underneath—there was always a calculation underneath. Nothing was personal; everything was strategic advantage, the manipulation of variables toward a desired outcome. That a man might sell his friend out of fear, and grieve it, and mean both at once—this was a sum she did not know how to carry, so she did not carry it. The satisfaction she had felt when the betrayal crystallized she filed, too, as calculation, and did not ask why calculation should feel like hunger.
+Her shoulders relaxed. Nothing was personal. Everything was calculation. The satisfaction she had felt when the betrayal crystallized, even that had been calculation. Strategic advantage. The manipulation of variables toward a desired outcome.
 
 *He learned from this.*
 
